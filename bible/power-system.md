@@ -118,6 +118,16 @@ Jonas can restore one missing term in a local permission, revoke a future use, o
 - **Limit:** one hinge and one local rule at a time. He cannot repair a rule whose holder is absent, and he cannot create a permission for a service that has no existing physical or civic function.
 - **Failure:** a technically correct repair can transfer harm to an uninformed group. Jonas must learn to disclose that possibility and accept a decision not to use his power.
 
+#### Stage 2 sub-rule: the locally held term (established Chapter 25)
+
+A stage-2 mending may be performed **at a hinge the technician does not issue**, provided a person or group with local standing instructs it, the witness understands the claim, and a named holder can be established. Three consequences are canonical and must not be quietly reversed:
+
+1. **The issuer of the mended term is the local holder, not the technician.** The maintenance claim that follows the term belongs to the holder. The technician's own claim on the hinge, if he has one, is unaffected and does not transfer.
+2. **A holder may be a role rather than a person** — for example, "the holder on the rota" — but a plate will not record a bare role. A name must accompany it, and the person named must consent to being findable. Bea Osunde's rule: a rota means *these people, today, and they can put it down*; the moment a single name is written into it, it means *the person who must not leave.*
+3. **The issuer cannot renew the term.** Renewal is a fresh act by the holders, read aloud to each other at a handover. A term with a renewal clause the issuer wrote binds him; a term that expires does not wait for him to notice.
+
+**The failure mode of this sub-rule is the Chapter 28–30 sequence:** a well-made, correctly witnessed, correctly bounded local term can fail because there is no person in the required place at the required hour, and its expiry can remove the very protection it created. A term is not a person and does not keep itself.
+
 ### Stage 3: Transfer steward
 
 Jonas can move a permission between compatible nodes, assign a duty to a willing office or witness group, and reconcile two district terms through a shared handover.
