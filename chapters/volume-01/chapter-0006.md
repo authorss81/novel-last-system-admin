@@ -1,6 +1,6 @@
 # Chapter 0006 — The Registrar’s Rule
 
-Dawn came before Oren Pell’s removal window ended, which made the order look less like a precaution and more like a countdown already running.
+The sun had not cleared the canal warehouses, and the removal window would not open for another thirteen minutes, which made the order look less like a precaution and more like a countdown already running.
 
 Jonas arrived at the old-canal warehouse at 5:17 with a department van and two folding carts. Rain had left the loading yard glossy. The shelter’s south wall bulged outward by enough to make the top course of brick sit unevenly, and a damp line climbed the inside wall beneath the loading doors. A municipal inspector had marked the wall with three red bands. No one needed the Lattice to see that the building was unsafe.
 
@@ -136,6 +136,6 @@ Jonas signed the transport record, not the blank guarantee. Selah’s receiving 
 
 At 8:03, Oren closed the old-canal shelter. He placed a strip across the door and wrote the time on it. The closure was valid. The building was dangerous. The residents were elsewhere. None of those facts canceled the others.
 
-Jonas kept the noon inspection appointment in his pad and the unresolved service conflict in his department report. As he walked away, the old plate stayed dark, but its silver seam remained visible under the rain.
+Jonas kept the noon inspection appointment in his pad and the unresolved service conflict in his department report. As he walked away, the old plate stayed dark, but the silver residue around its lower screw remained visible under the rain.
 
 The pump was the next door.

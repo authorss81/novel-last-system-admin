@@ -6,9 +6,9 @@ Jonas stopped in front of it. “That is a very confident paperclip.”
 
 “It is a tamper seal,” Oren said. “You can complain after you stop encouraging it.”
 
-Oren stood beside the maintenance bay with a rain-dark coat folded over one arm and an Assembly inspection tablet tucked beneath it. He looked less like a man who enjoyed closing bridges than a man who had already spent an hour being disliked by everyone responsible for keeping them open. There was chalk dust on one cuff. The public-works inspection van had brushed the rail outside half an hour earlier, leaving a pale streak above the pier.
+Oren stood beside the maintenance bay with a rain-dark coat folded over one arm and an Assembly inspection tablet tucked beneath it. He looked less like a man who enjoyed closing bridges than a man who had already spent an hour being disliked by everyone responsible for keeping them open. There was chalk dust on one cuff. The public-works inspection van had brushed the rail outside shortly after eleven, leaving a pale streak above the pier.
 
-“The west lane passed its separate load inspection at 11:40,” Oren said. “The side span and both pedestrian approaches did not. You have a permission conflict underneath a relay problem. I am closing the crossing to general use until the conflict can be reviewed.”
+“The west lane passed its separate load inspection at 11:40,” Oren said. “The south span and both pedestrian approaches did not. You have a permission conflict underneath a relay problem. I am closing the crossing to general use until the conflict can be reviewed.”
 
 “An ambulance used the emergency lane this morning.”
 
@@ -26,7 +26,7 @@ Jonas read it twice.
 
 “Someone inspected the west side hinge separately this morning,” he said.
 
-“Public Works did. The hinge passed. The south span has surface corrosion. The approach relay has no valid general-service holder. That is enough to close the whole crossing to ordinary use.”
+“Public Works did. The west hinge passed. The south span has surface corrosion, and the side service route and its hinge sit on that same span. The approach relay has no valid general-service holder. That is enough to close the whole crossing to ordinary use.”
 
 “Still enough to admit an ambulance.”
 
@@ -54,7 +54,7 @@ Jonas laid out a torque wrench, a ceramic driver, his meter, and the brass probe
 
 Nora looked at the red seal. “So we are opening a closed bridge?”
 
-“We are testing one ambulance lane for ninety minutes,” Oren said. “The test begins at 2:20. It ends at 3:50. No pedestrians, freight, or routine service traffic. If either side hinge changes pitch, if the control plate flickers, or if the attending crew withdraws, we stop.”
+“We are testing one ambulance lane for ninety minutes,” Oren said. “The test begins at 2:20. It ends at 3:50. No pedestrians, freight, or routine service traffic. If the side hinge changes pitch, if the control plate flickers, or if the attending crew withdraws, we stop.”
 
 “And if the ambulance needs to cross?” Dev asked.
 
@@ -68,7 +68,7 @@ Jonas lifted the maintenance bypass from the previous morning. He did not instal
 
 At 2:19, he turned the key.
 
-The bridge plate gave a low tone. The west lane’s service lamp went white. The northbound request remained amber, repeating beneath it: **KEEP EAST APPROACH CLEAR DURING AMBULANCE SERVICE**.
+The bridge plate gave a low tone. The west lane’s service lamp went white. The clearance request remained amber, repeating beneath it: **EMPTY CROSSING—KEEP THE WEST LANE CLEAR DURING AMBULANCE SERVICE**.
 
 Jonas watched the words until the letters blurred.
 
@@ -110,6 +110,8 @@ Oren stepped into the maintenance bay. “Stop talking in code. What happened?�
 
 Jonas swallowed against the metallic taste. “The relay failure and the old crossing term are joined at this plate. The emergency service claim reaches it from the clinic side. The empty-crossing field reaches it from the bridge side. Precedence is wrong for a current ambulance.”
 
+He heard himself say it the way the maintenance manuals said it, and understood that the manuals had a name for it. Two terms with no order between them. A seam.
+
 “And can you change it?”
 
 “No.”
@@ -143,7 +145,7 @@ That was true. So was the page’s silence about what could be done next. Jonas 
 
 At 3:50, Oren announced the close. The dispatch log showed two ambulance crossings, one hospital supply movement, and no failed test. The side hinge was quiet but visibly marked for further work. The permission conflict remained visible. The bridge was safer for a specific purpose, not repaired.
 
-Nora and Dev stayed at their posts until the lane closed. Mina confirmed that the clinic side had received the return signal. Only then did Jonas pull the attended relay and return the controller to ordinary closure.
+Nora and Dev stayed at their posts until the lane closed. Mina confirmed by radio that the clinic side had received the return signal. Only then did Jonas pull the attended relay and return the controller to ordinary closure.
 
 Oren watched him write the end time.
 

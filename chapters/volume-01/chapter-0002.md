@@ -62,7 +62,7 @@ She held the black key within a hand’s width of the access plate. Its third la
 
 Ruth stopped before she turned the key all the way.
 
-“I’m supposed to be here until the morning watch takes over at noon,” she said. “The board says I signed off at six. I didn’t.”
+“I’m supposed to be here until the morning watch takes over at eleven,” she said. “The board says I signed off at six. I didn’t.”
 
 “Who told you to come in?” Sanaa asked.
 

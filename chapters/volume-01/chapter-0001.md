@@ -22,11 +22,11 @@ He gave the window a small salute and packed his tools.
 
 The first warning came while he was fastening the roll. His department handset lit on the cabinet’s outside shelf, the orange bar across its face meaning a priority fault. The call came from Nacre Dispatch, not his shop.
 
-“Saint Orra pedestrian bridge,” said a tired woman whose name tag he could not see. “Ambulance route rejected. Side pedestrian relay is cycling. The ambulance is at the east approach.”
+“Saint Orra pedestrian bridge,” said a tired woman whose name tag he could not see. “Ambulance route rejected. West-lane relay is cycling. The ambulance is at the east approach.”
 
 “Which unit?”
 
-“Orra South Four. Patient is conscious, chest pressure, eta at the bridge six minutes. Crossing guard says the other lane is cycling closed. Can you make the service bypass?”
+“Orra South Four. Patient is conscious, chest pressure, eta at the bridge six minutes. Crossing guard says the east side is dead and the west side will not hold a vehicle. Can you make the service bypass?”
 
 Jonas shouldered the roll. “I can make the hardware hold long enough for someone to take responsibility for it.”
 
@@ -56,9 +56,9 @@ Jonas set down his roll and unlocked the maintenance door. Inside, fiber bundles
 
 He clipped a diagnostic lead to the common bus and watched the pulse lamp.
 
-“Power side is fine,” he said. “The relay isn’t failing by itself. Something is asking the plate for northbound permission while the ambulance’s claim says southbound.”
+“Power side is fine,” he said. “The relay isn’t failing by itself. Something is asking the plate to hold the ambulance’s own lane clear while the ambulance’s claim says that lane belongs to it.”
 
-Dev leaned closer. “Can you cut the northbound request?”
+Dev leaned closer. “Can you cut the west-lane request?”
 
 “I can hide it long enough to get the ambulance across.”
 
@@ -76,7 +76,7 @@ Dev checked his board. “I can assign the clinic gate for thirty minutes. After
 
 “It never is.”
 
-Jonas opened the service schematic and found the term the plate was throwing at him. The wording had survived several generations of technical changes: **EMPTY CROSSING—KEEP EAST APPROACH CLEAR DURING AMBULANCE SERVICE**. It was an old traffic rule, preserved in a narrow field, and the control head was giving it precedence over the ambulance’s current care claim. The mechanical relay could close one side to let the other through. The permission would keep reopening the empty side.
+Jonas opened the service schematic and found the term the plate was throwing at him. The wording had survived several generations of technical changes: **EMPTY CROSSING—KEEP THE WEST LANE CLEAR DURING AMBULANCE SERVICE**. It was an old traffic rule, preserved in a narrow field and written when the west lane belonged to freight and the ambulances ran the east side. The control head was giving it precedence over the ambulance’s current care claim. The mechanical relay could close one side to let the other through. The permission would keep clearing the lane the patient needed.
 
 A conventional suppression lead would let the ambulance pass. It would also make every use of the route look like an ordinary hardware opening and leave no record of the two promises fighting for the bridge.
 
@@ -84,7 +84,7 @@ Jonas photographed the field, noted the timestamps from the ambulance request an
 
 The ambulance came through forty seconds later.
 
-Nora called the lane clear. Dev released the signal in measured stages. The vehicle rolled across, slow enough that the tires made no spray, and disappeared toward the hospital. On the control display, the rejected northbound request remained, repeated and precise.
+Nora called the lane clear. Dev released the signal in measured stages. The vehicle rolled across, slow enough that the tires made no spray, and disappeared toward the hospital. On the control display, the rejected west-lane request remained, repeated and precise.
 
 “Service crossing complete,” Dev said into the radio. “Twenty-four minutes left.”
 
@@ -122,6 +122,6 @@ His permanent-status letter was still folded in the inner pocket of his work jac
 
 The warning number on the screen proved nothing about his father. It was still worth keeping.
 
-By the time he returned to the bridge cabinet, the plate had gone dark. The temporary route had closed with its witnesses still in place.
+By 6:31, when he came back with the filed receipt, the plate had gone dark. The temporary route had closed with its witnesses still in place.
 
 The west-clinic gate was still waiting.

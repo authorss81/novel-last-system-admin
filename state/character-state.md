@@ -6,6 +6,7 @@
 - **Power:** Stage 1 Fault reader. Can diagnose relationships between an active physical fault and nearby permission terms when anchored to a hinge with a trusted witness. Cannot amend, transfer, or reconcile civic terms.
 - **Immediate physical cost:** metallic taste, pressure behind the eyes, nausea, and exhaustion after major reads. Crowds blur nearby emotions and claims. No supernatural seam mark or personal claim exists.
 - **External want:** permanent civil-service status, full archive clearance, a repaired local service chain, and a more complete record of Evan’s disappearance.
+- **Live pressure on that want:** Tomas has offered to countersign his application if he finishes the current rotation without an avoidable fault. The appointment review is ten days out as of Chapter 10.
 - **Internal want:** to remain the person who can fix the problem so no one else pays for its consequences.
 - **Current flaw:** he still treats his desire to remain useful as a reason to take responsibility faster than others can understand it.
 - **Current change:** he has begun recording the people and delays a safe route cannot erase. He has not yet accepted a visible civic claim.
@@ -26,6 +27,7 @@
 - **Want:** prevent Jonas and other technicians from becoming disposable maintenance labor or unilateral civic authorities.
 - **Current conflict:** he trusts Jonas’s hands more than his instinct to take undocumented responsibility.
 - **Current action:** blocks any shared-node civic edit until Jonas signs a visible responsibility bond stating scope, refusal, expiry, and claim.
+- **Existing instrument:** the Chapter 6 union transport record, which Jonas signed only for the named-institution handoff. It is a transport record, not the bond.
 - **Boundary:** ordinary hardware work and Stage 1 diagnosis remain allowed; the bond is not a magical initiation.
 
 ## Pia Santos
@@ -69,11 +71,13 @@
 
 - **Nora Bell:** Saint Orra crossing guard and physical anchor during the Chapter 3 and Chapter 10 reads.
 - **Dev Singh:** bridge dispatcher who records crossings, restrictions, and closures.
-- **Mara Holt:** Bellow Market night steward who received the relocated old-canal residents and their possessions.
+- **Kofi Sarr:** Saint Orra platform dispatcher who requires a passenger list for an unregistered service vehicle and yields on a live care claim without ever receiving one.
+- **Dr. Sethi:** Saint Orra day-team physician for observation four.
+- **Mara Holt:** Bellow Market night steward who received the relocated old-canal residents and their possessions. A separate unnamed day steward covers the noon inspection.
 - **Emeka Rusk:** experienced pump operator who showed that a live duty can outlive its municipal index.
 - **Hester Vann:** Public Works inspector who denied pump reopening on physical grounds.
 - **Nina Calder:** NDC records supervisor who requires accurate classification and refuses to certify the underlying civic rule.
-- **Alma Reyes / Rafi Reyes / Omar Sadiq:** opening-batch care cases completed on-page; they carry no new mystery function.
+- **Alma Reyes / Rafi Reyes / Omar Sadiq:** opening-batch care cases completed on-page; they carry no new mystery function. Selah and the shelter residents call Rafi “Raf.”
 
 ## Evan Mercer and Nadia Mercer
 

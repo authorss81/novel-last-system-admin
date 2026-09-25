@@ -57,7 +57,7 @@ Immediate goal: Replace a worn relay and clear the probationary work order befor
 
 Resistance: The bridge begins rejecting an ambulance because an old “empty crossing” permission conflicts with a service claim. A conventional bypass could clear the hardware but make the conflict invisible.
 
-Information revealed: A physical access plate carries a faint silver seam that Jonas has dismissed as residue. The bridge is not mechanically broken; the permission attached to the crossing is. The plate also bears an old Continuity Project seal with the initials I. Vey, which Jonas treats as a manufacturer mark.
+Information revealed: A physical access plate carries a faint line of silver dust that Jonas has dismissed as seal residue. The bridge is not mechanically broken; the permission attached to the crossing is. The plate also bears an old Continuity Project seal with the initials I. Vey, which Jonas treats as a manufacturer mark. The clause is **EMPTY CROSSING—KEEP THE WEST LANE CLEAR DURING AMBULANCE SERVICE**, written when the west lane belonged to freight; that is what defeats a current ambulance.
 
 Action or decision: Jonas documents the fault, then uses an attended maintenance bypass: a dispatcher, crossing guard, and technician remain on the bridge while he resets the route for the current service window. The bypass follows the bridge’s physical service chain and expires when the attended window ends. It does not create a permission, name Jonas bearer, or open a distant door by itself.
 
@@ -103,9 +103,9 @@ Location/time: Saint Orra bridge maintenance bay, afternoon into evening.
 
 Immediate goal: Restore the bridge’s ambulance lane and document the conflict before the next inspection.
 
-Resistance: The physical reset can hold only during an attended service window. Deputy Registrar Oren Pell invokes the Assembly’s Emergency Service Test clause after the side hinge passes a separate load inspection. He refuses a blanket reopening because the bridge’s permission record is incomplete, but permits one bounded ambulance lane when the crossing guard, dispatcher, and clinic record the test. The witnesses document use; they do not cure the underlying permission conflict, and the crew cannot stay on the hinge indefinitely.
+Resistance: The physical reset can hold only during an attended service window. Deputy Registrar Oren Pell invokes the Assembly’s Emergency Service Test clause after the west-lane hinge passes a separate load inspection. The south span, which also carries the side service route and its hinge, fails that inspection. He refuses a blanket reopening because the bridge’s permission record is incomplete, but permits one bounded ambulance lane when the crossing guard, dispatcher, and clinic record the test. The witnesses document use; they do not cure the underlying permission conflict, and the crew cannot stay on the hinge indefinitely.
 
-Information revealed: The bridge’s “empty crossing” term was written for a different traffic pattern and now overrides the ambulance claim. After the first major repair, Jonas sees the Margin as a thin physical connection between the relay fault and the conflicting term. It shows relationships, not intent or a solution.
+Information revealed: The bridge’s “empty crossing” term was written for a different traffic pattern and now overrides the ambulance claim. After the first major repair, Jonas sees the Margin as a thin physical connection between the relay fault and the conflicting term. It shows relationships, not intent or a solution. He also names the fault class aloud for the first time: two terms with no order between them, a seam.
 
 Action or decision: Jonas asks the crossing guard, dispatcher, and maintenance crew to witness the bounded lane test Oren has authorized, not a civic rewrite. Under the clause, they keep the ambulance lane open for a stated ninety-minute window, log every use, and close the lane at the end of the window so the next inspection can decide its future. The repair is safe for the current service need and plainly incomplete.
 
@@ -271,7 +271,7 @@ Location/time: Saint Orra bridge and clinic service lanes, then the Old Ward pub
 
 Immediate goal: Complete the scheduled attended-service test, keep the bridge and clinic routes usable for their stated period, and file an honest report that names the unresolved conflict.
 
-Resistance: A pressure fault opens in the side hinge during the test. Jonas can diagnose the Margin but cannot mend the missing term. The crew has enough existing authority to isolate the side route and keep one lane open for a stated period, not enough to promise a permanent citywide solution. Management still wants the incident recorded as a hardware-only failure.
+Resistance: A pressure fault opens in the side route on the failed south span during the test. Jonas can diagnose the Margin but cannot mend the missing term. The crew has enough existing authority to isolate the side route and keep one lane open for a stated period, not enough to promise a permanent citywide solution. Management still wants the incident recorded as a hardware-only failure.
 
 Information revealed: When the Old Ward board refreshes its maintenance notice, the map shows an empty central root field. It is a missing holder, not a hidden person, and the notice does not ask Jonas to find anyone. The I. Vey seal is still the only old name attached to the route; no root clause, counter-amendment, or succession claim is available to him.
 

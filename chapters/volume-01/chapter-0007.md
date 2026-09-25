@@ -88,7 +88,7 @@ Vann recorded the pressure. “The pump cannot reopen. Not today, not until the 
 
 Jonas looked at the silver line. It narrowed as the pump stopped, but it did not disappear. The local duty remained in the same room as the missing term. He could not pull one into the other with a report. He could not make a record true by writing it, and he could not make a live practice disappear by refusing to name its people.
 
-For a moment, the thought of the old service code opened a path toward Evan. The pump’s code matched a service notice he had seen in his father’s last file, the copy Nadia kept in a kitchen drawer because she could not bring herself to throw it away and could not bear to put it in an official archive. A single code might lead to a date, a station, a name. If Jonas asked for the old maintenance record now, the city might give him a fragment.
+For a moment, the thought of the old service code opened a path toward Evan. Lowland service codes were what his father’s last file had been full of — the copy Nadia kept in a kitchen drawer because she could not bring herself to throw it away and could not bear to put it in an official archive. A single code might lead to a date, a station, a name. If Jonas asked for the old maintenance record now, the city might give him a fragment.
 
 He could not ask for the residents’ roster in exchange.
 

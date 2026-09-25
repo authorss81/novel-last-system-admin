@@ -14,9 +14,12 @@
 
 ## Chapters 1–10 established canon
 
-- Jonas is a probationary NDC field technician, grade III. His permanent appointment review is still pending, scheduled in eleven days. He wants the job, full archive clearance, and a more complete record of Evan’s disappearance.
+- Jonas is a probationary NDC field technician, grade III. His permanent appointment review is still pending, scheduled in ten days as of Chapter 10. He wants the job, full archive clearance, and a more complete record of Evan’s disappearance.
 - Stage 0 applies in Chapters 1–2. The first major Chapter 3 bridge reset activates only the limited Stage 1 Fault-reader view. Jonas remains Stage 1 through Chapter 10.
 - The Saint Orra bridge has an obsolete **empty crossing** term that conflicts with current ambulance and clinic service claims. Its relay is repaired, but the civic term is not mended.
+- The term’s clause text, quoted verbatim only in Chapters 1 and 3, is **EMPTY CROSSING—KEEP THE WEST LANE CLEAR DURING AMBULANCE SERVICE**. It was written when the west lane belonged to freight and ambulances used the east side. The name “empty crossing” is the field’s own; the clause is what defeats a current ambulance.
+- The bridge runs east–west. The ambulance enters from the east approach and uses the west lane toward Saint Orra. The failing structure is the **south span**, which also carries the **side service route** and its **side hinge**. Public Works passed the west-lane hinge; the south span and both pedestrian approaches failed.
+- In Chapter 3 Jonas names the fault class for the reader: two terms with no order between them. **A seam.** His filed classification remains “unresolved permission conflict.”
 - The Chapter 3 ambulance lane was authorized only under the separately inspected Assembly Emergency Service Test. Public Works passed the west lane; the south span and approaches failed separate inspection. Witnessed use did not cure the permission conflict.
 - The Chapter 4 unlisted shuttle arrived on a separate Saint Orra service-lane feed. It is not an effect of the bridge reset and does not retroactively give the reset a claim. During its clinic handoff, Jonas does not initiate gate use under the Chapter 2 suspension; Mina’s care claim and the existing attendant procedure open the attended path.
 - A route can be present and operational while absent from human maps. The opening batch does not explain the neighborhood’s civic history or the full practice that maintains it.
@@ -31,11 +34,29 @@
 
 - River Stacks cabinet 6-R-14: relay replaced in Chapter 1.
 - Saint Orra bridge: attended 25-minute bypass in Chapter 1; 90-minute Chapter 3 test; 90-minute Chapter 10 attended-service window. All temporary authority expired and closed.
-- West clinic gate: Chapter 2 escort lasted 1 minute 41 seconds; the separate municipal gate-use suspension was not lifted. The local review narrowed Jonas’s access to attended maintenance after the named bearer initiates the route; he cannot initiate or approve gate use alone. Chapter 9 local pressure reset served an urgent transfer and caused a recorded 43-minute delay for Omar Sadiq’s nonurgent shelter return before that transfer completed.
+- West clinic gate: Chapter 2 escort lasted 1 minute 41 seconds; the separate municipal gate-use suspension was not lifted. The local review narrowed Jonas’s access to attended maintenance after the named bearer initiates the route; he cannot initiate or approve gate use alone. The exception applies only while the current watch remains in place, so a later shift needs its own bearer-initiated request. Chapter 9 local pressure reset served an urgent transfer; the shelter route opened at 10:16 and closed unused at 10:19 because the vehicle had already been committed to the street route; Omar Sadiq’s nonurgent shelter return then completed with a recorded 43-minute delay.
 - Old-canal shelter: Alma Reyes returned under a short named escort; all residents later relocated to Bellow Market; building sealed at 8:03 in Chapter 6.
+- Bellow Market receiving shelter: receipted the relocated residents’ possessions and, in Chapter 6, promised a **return-of-possession route** when the old building reopens. The building has not reopened, so the route is unperformed and unexpired. Custodian: Mara Holt as night steward, then the receiving shelter as an institution.
 - Pump house: reopening denied; temporary water and clinic tank arranged; no resident headcount recorded.
-- Chapter 10: the 90-minute attended-service window ran from 10:00 to 11:30. One ambulance lane, clinic entrance, and Bellow Market shelter-to-clinic route remained under their existing duties. The shelter vehicle’s run and handoff leg completed at 10:55 via the street alternative, with a 38-minute delay; the formal shelter-route authorization remained until 11:30. The south/side route developed unsafe pressure and was physically stopped first, then formally isolated at 10:31 under Oren’s order. Every temporary route closed.
+- Jonas/Oren scope agreement, Chapter 6: Jonas attends the noon pump inspection **only** to document the access plate. He does not clear the water, certify the building, or take the inspection duty. Oren appears as registrar. Discharged as written in Chapter 7, where Jonas attended, read the plate, and left the reopening decision with Public Works.
+- Chapter 6 union transport record: Jonas signed the transport record naming Selah’s receiving shelter, Mina’s clinical duty, and Mara’s night watch, and refused the union form’s blank personal guarantee. This instrument covers transport only. **It is not the visible responsibility bond** Tomas blocks on in Chapters 9 and 10, which additionally carries scope, refusal rights, an expiry, and a named claim. Batch 0002 must not treat the transport record as the bond.
+- Chapter 10: the 90-minute attended-service window ran from 10:00 to 11:30. One ambulance lane, clinic entrance, and Bellow Market shelter-to-clinic route remained under their existing duties. The shelter vehicle’s run and handoff leg completed at 10:55 via the street alternative, with a 38-minute delay; the formal shelter-route authorization remained until 11:30. The side gate on the south span was physically stopped before 10:17; the side route was then formally isolated at 10:31 under Oren’s safety-stop authority. Every temporary route closed.
 - No temporary route survives as Jonas’s personal authority.
+
+## Attended procedures the opening batch relies on
+
+These municipal instruments, not Jonas’s ability, are the legal basis of every temporary route in Chapters 1–10. None of them mends a civic term or creates a holder.
+
+- **Bridge attended bypass (Chapter 1):** requires a person at each end, the dispatcher on the line, and the receiving clinic accepting the arrival. Closing any one of the three ends the window. It is hardware-only; a suppression lead would hide the conflict and is prohibited.
+- **Clinic emergency maintenance card (Chapter 2):** permits an attended escort for a patient with a verified care claim, provided the physical route is inspected and the responsible watch remains until the escort ends. It grants no new holder and does not alter the clinic’s night permission.
+- **Attended escort procedure (Chapter 4):** opens a narrow attended path from a vehicle to a service entrance, witnessed by the clinic care claim, the clerk, and the vehicle’s custodian. It does not open the vehicle to the public and creates no public transit permission.
+- **Assembly Emergency Service Test (Chapters 3 and 10):** the separately inspected clause under which Oren may keep one bounded ambulance lane on a closed crossing, with named witnesses, an expiry, and his right to terminate.
+
+## Places and fixtures established on-page
+
+- The Saint Orra pedestrian bridge carries a tram deck and a westbound trolley signal that Dev Singh can hold for a limited period before rail control objects.
+- The Saint Orra transit platform has at least four numbered bays; platform four was the Chapter 4 shuttle stop.
+- The Old Ward public notice board stands beneath a glass canopy between the ferry office and the Assembly’s public doors, near the Old Ward bridge.
 
 ## Custody and privacy
 
@@ -49,14 +70,17 @@
 
 - Nora Bell: Saint Orra crossing guard; physical witness and anchor during the bridge tests.
 - Dev Singh: bridge dispatcher; records crossings, test limits, and route closures.
-- Ruth Nwosu: existing Saint Orra west-clinic night-watch steward. Her work is real even though the local record is incomplete. She is the intended bearer for the first bounded gate repair in Chapters 11–18, not Jonas.
+- Ruth Nwosu: existing Saint Orra west-clinic night-watch steward. Her work is real even though the local record is incomplete. She is the intended bearer for the first bounded gate repair in Chapters 11–18, not Jonas. She is on shift until the eleven o’clock morning-watch handover while the board claims she signed off at six.
 - Mina Okafor: west-clinic transfer clerk; records patient dispositions and clinical handoffs.
 - Selah Mora: old-canal watch steward, then first-night handoff steward under Mara Holt at Bellow Market. Protects resident consent and local claims.
-- Mara Holt: Bellow Market night steward who receives displaced residents and possessions.
+- Mara Holt: Bellow Market night steward who receives displaced residents and possessions. A separate, unnamed Bellow Market day steward attends the Chapter 7 noon inspection; do not fold the two roles together.
+- Kofi Sarr: Saint Orra platform dispatcher. Wants a passenger list for any unregistered service vehicle, yields when a care claim is live, and never receives one. His boundary was established on-page and should be respected rather than reversed.
+- Dr. Sethi: Saint Orra day-team physician who takes observation four at noon.
 - Emeka Rusk: experienced pump operator; demonstrates that living maintenance practice can outlive its municipal index.
 - Hester Vann: Public Works inspector who denies pump reopening on physical grounds.
 - Nina Calder: NDC records supervisor; resists both false clean classification and Jonas’s instinct to carry undocumented responsibility.
-- Alma Reyes, Rafi Reyes, and Omar Sadiq: completed opening-batch care/service cases; they are not mystery carriers.
+- Alma Reyes, Rafi Reyes, and Omar Sadiq: completed opening-batch care/service cases; they are not mystery carriers. Selah and the shelter residents use “Raf” for Rafi Reyes.
+- Unnamed functional figures: the municipal recorder at the Chapter 7 inspection and the dispatch clerk who asked for a headcount in Chapter 6.
 
 ## Protagonist and relationship continuity
 

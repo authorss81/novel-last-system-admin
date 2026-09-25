@@ -19,8 +19,8 @@ Next planned batch: Volume 01, Batch 0002, Chapters 11–20; prompt at `workspac
 - The twelve-year Reclamation Season begins in three months. The Old Ward public board now shows a central root holder field with no name and a renewal-review line.
 - The Saint Orra bridge’s obsolete “empty crossing” term still conflicts with current ambulance and clinic service claims. The relay is repaired, but the underlying civic term is not.
 - The Saint Orra west-clinic night-watch duty remains incompletely recorded. The local hinge, clinic route, and Bellow Market shelter handoff can operate only through attended duties and bounded windows.
-- Jonas’s Chapter 2 gate-use suspension remains active but was narrowed by local review: he may service an attended route only after its named bearer initiates it; he cannot initiate or approve gate use alone.
-- The old-canal shelter is closed under Oren Pell’s valid public-safety order. Its relocated residents remain in Bellow Market without ordinary civic recognition of their old service address.
+- Jonas’s Chapter 2 gate-use suspension remains active but was narrowed by local review: he may service an attended route only after its named bearer initiates it; he cannot initiate or approve gate use alone. The exception holds only while the current watch stays in place, so a later shift needs its own bearer-initiated request.
+- The old-canal shelter is closed under Oren Pell’s valid public-safety order. Its relocated residents remain in Bellow Market without ordinary civic recognition of their old service address, and the receiving shelter’s promised return-of-possession route cannot be performed while the building stays sealed.
 - The old pump and connected water line remain physically unsafe. Reopening was denied; temporary water and clinic support are arranged shift by shift, not promised as a permanent service.
 - The unlisted route remains a separate service lead, not a consequence of the bridge repair. Its full route and passenger identities remain in Selah Mora’s sealed, consent-limited local custody log.
 - CivicCore has not made its direct offer to Jonas. An NDC continuity-waiver form created pressure toward a privately owned “repair,” but it was not signed.
@@ -28,7 +28,9 @@ Next planned batch: Volume 01, Batch 0002, Chapters 11–20; prompt at `workspac
 
 ## Active promises
 
-- Tomas’s visible responsibility bond is the required next step before any shared-node civic edit. Jonas has agreed to read the bond before signing or refusing it.
+- Tomas’s visible responsibility bond is the required next step before any shared-node civic edit. Jonas has agreed to read the bond before signing or refusing it. The Chapter 6 union transport record is a different, narrower instrument and must not be treated as the bond.
+- The temporary authority Jonas holds over every attended route in this batch comes from municipal procedure, not from his ability: the bridge attended bypass, the clinic emergency maintenance card, the attended escort procedure, and the Assembly Emergency Service Test. All are recorded in `state/continuity.md`.
+- Jonas’s permanent appointment review is ten days out as of Chapter 10. Tomas’s conditional countersignature on the application is still live and is the practical reason he wants the file clean.
 - Chapters 11–18 must contain the first civic repair at the Saint Orra west-clinic gate. The existing night-watch steward remains the bearer, Sanaa is a separate informed witness, and Jonas is the issuer with a named maintenance claim.
 - The first Stage 2 repair must succeed only in a bounded local sense and must create a visible seam mark, a real maintenance claim, and a social cost that cannot be paid by intention.
 - Chapters 19–20 begin the separate Lowglass service investigation through Pia and residents, but the Quiet Cut, civic erasure, and full witness-network history remain incomplete until later in Chapters 19–27.
@@ -54,14 +56,14 @@ At the end of Chapter 10, Jonas can diagnose a bounded conflict and help existin
 
 - Chapter 1: River Stacks relay replaced; Saint Orra ambulance served by a 25-minute attended bypass. Bridge conflict reported unresolved.
 - Chapter 2: Alma Reyes admitted to west-clinic observation four through a 1-minute-41-second attended escort; night-watch record gap documented; a separate municipal gate-use suspension was issued; route closed.
-- Chapter 3: Bridge relay reset completed; one ambulance lane served for a witnessed 90-minute Assembly Emergency Service Test and then closed.
+- Chapter 3: Bridge relay reset completed; one ambulance lane served for a witnessed 90-minute Assembly Emergency Service Test and then closed. Jonas names the fault class for the first time: a seam.
 - Chapter 4: Unlisted shuttle handled as a separate service lead; child handed to an unnamed shelter contact, Alma readmitted for reassessment, courier not detained, vehicle released to its older driver after a physical safety check.
 - Chapter 5: Alma returned to the old-canal shelter under a short escort duty named by Rafi, Mina Okafor, and Selah Mora; route closed after room and follow-up handoff.
-- Chapter 6: Old-canal residents relocated to Bellow Market; possessions and keys receipted; unsafe building sealed at 8:03.
+- Chapter 6: Old-canal residents relocated to Bellow Market; possessions and keys receipted; unsafe building sealed at 8:03. Tomas’s union form was refused; only the named-institution transport record was signed.
 - Chapter 7: Pump inspection denied reopening. Bottled water and a clinic tank were arranged for the next care shift; no resident roster entered the report.
 - Chapter 8: I. Vey seal and partial lowland service code recorded as historical evidence. Selah retained the sealed full log; NDC received only a redacted custody reference.
-- Chapter 9: Urgent clinic transfer completed; Omar Sadiq’s nonurgent shelter return was delayed exactly 43 minutes and then completed. The local review narrowed Jonas’s gate-use suspension to attended maintenance after the named bearer initiates the route. No cross-node term was created.
-- Chapter 10: The 90-minute attended-service window ran from 10:00 to 11:30. One ambulance lane, the clinic entrance, and the Bellow Market shelter-to-clinic route operated under existing duties. The shelter vehicle and handoff leg completed at 10:55, while formal shelter authorization closed at 11:30. The failed side route was physically stopped, then formally isolated at 10:31 under Oren’s order. All temporary routes closed; a 38-minute shelter delay was recorded; no civic term was amended.
+- Chapter 9: Urgent clinic transfer completed. Omar Sadiq’s nonurgent shelter return was committed to the street route and completed with a 43-minute delay; the shelter route itself opened at 10:16 and closed unused at 10:19. The local review narrowed Jonas’s gate-use suspension to attended maintenance after the named bearer initiates the route. No cross-node term was created.
+- Chapter 10: The 90-minute attended-service window ran from 10:00 to 11:30. One ambulance lane, the clinic entrance, and the Bellow Market shelter-to-clinic route operated under existing duties. The shelter vehicle and handoff leg completed at 10:55, while formal shelter authorization closed at 11:30. The failed side route was physically stopped before 10:17, then formally isolated at 10:31 under Oren’s order. All temporary routes closed; a 38-minute shelter delay was recorded; no civic term was amended.
 
 ## Custody and consent
 

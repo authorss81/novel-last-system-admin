@@ -12,7 +12,7 @@ At the west clinic, Sanaa needs Alma Reyes admitted while the gate rejects a val
 
 ### Chapter 0003 — The Clause in the Wall
 
-Oren Pell closes the bridge under a valid public-safety order but invokes the separately inspected Assembly Emergency Service Test for one ambulance lane. Jonas completes the physical relay reset; afterward, the limited Fault-reader view shows the obsolete empty-crossing term linked to the ambulance conflict. Sensory bleed forces him to anchor on Nora Bell and the plate. The 90-minute lane test closes successfully but incompletely, and a separate unlisted shuttle arrives.
+Oren Pell closes the bridge under a valid public-safety order but invokes the separately inspected Assembly Emergency Service Test for one ambulance lane. Jonas completes the physical relay reset; afterward, the limited Fault-reader view shows the obsolete empty-crossing term linked to the ambulance conflict, and he names the fault class for the first time — a seam. Sensory bleed forces him to anchor on Nora Bell and the plate. The 90-minute lane test closes successfully but incompletely, and a separate unlisted shuttle arrives.
 
 ### Chapter 0004 — The Unlisted Stop
 
@@ -36,7 +36,7 @@ Jonas identifies the I. Vey seal as part of the original Continuity Project main
 
 ### Chapter 0009 — The First Night Shift
 
-A clinic/shelter hinge makes the urgent patient route and Omar Sadiq’s nonurgent shelter return compete. The local review leaves Jonas’s gate-use suspension active but allows attended maintenance only after Ruth’s named watch initiates the route. Jonas refuses to create a cross-node term; the urgent transfer crosses, while Omar waits exactly 43 minutes and then completes by the street route. The shelter route opens at 10:16; the clinic route had already served the urgent transfer. Sanaa makes Jonas disclose the cost, earning limited trust without making her his ally. Tomas then requires every witness log and a visible responsibility bond before any shared-node civic edit.
+A clinic/shelter hinge makes the urgent patient route and Omar Sadiq’s nonurgent shelter return compete. The local review leaves Jonas’s gate-use suspension active but allows attended maintenance only after Ruth’s named watch initiates the route, and only while that watch stays in place. Jonas refuses to create a cross-node term; the urgent transfer crosses, while Omar waits exactly 43 minutes and then completes by the street route. The shelter route itself opened at 10:16 and closed unused at 10:19 because the vehicle had already been committed. Sanaa makes Jonas disclose the cost, earning limited trust without making her his ally. Tomas then requires every witness log and a visible responsibility bond before any shared-node civic edit.
 
 ### Chapter 0010 — The City Needs a Name
 

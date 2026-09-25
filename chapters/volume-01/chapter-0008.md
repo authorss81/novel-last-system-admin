@@ -18,7 +18,7 @@ Jonas put the photographs down in order. The relay. The scorched contact. The ol
 
 “You are saying the hardware is sound?”
 
-“Not entirely. The relay is repaired. The conflict remains. The plate keeps a route open for an ambulance and an old empty-crossing term tells the same bridge to stay clear. One is a service need. The other is an old promise. The Lattice is honoring both until the overlap becomes a failure.”
+“Not entirely. The relay is repaired. The conflict remains. The plate keeps a route open for an ambulance and an old empty-crossing term tells the same bridge to hold the west lane empty. One is a service need. The other is an old promise. The Lattice is honoring both until the overlap becomes a failure.”
 
 “That is a rule conflict, not a mechanical fault.”
 

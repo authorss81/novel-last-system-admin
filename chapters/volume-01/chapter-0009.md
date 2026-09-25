@@ -8,7 +8,7 @@ The first two faults belonged to the same physical hinge. The third belonged to 
 
 He tightened the pressure screw. The hinge gave a low metallic knock.
 
-A municipal review slip was clipped to the inside of his work jacket. The gate-use suspension from the clinic had not been lifted. It had been narrowed: Jonas could inspect and service a gate during an attended local duty when the named bearer initiated the route, but he could not initiate the opening, replace the bearer, or sign the claim by himself. The exception applied only while the current watch remained in place; a later shift would need its own bearer-initiated request. He had read the line twice before he came under the ramp.
+A municipal review slip was clipped to the inside of his work jacket. The gate-use suspension that had come off the clinic’s printer had not been lifted. It had been narrowed: Jonas could inspect and service a gate during an attended local duty when the named bearer initiated the route, but he could not initiate the opening, replace the bearer, or sign the claim by himself. The exception applied only while the current watch remained in place; a later shift would need its own bearer-initiated request. He had read the line twice before he came under the ramp.
 
 “Stop,” Ruth Nwosu said above him.
 
@@ -82,7 +82,7 @@ Sanaa met the crew at the observation doors. “What changed?”
 
 “Write the time.”
 
-Mina wrote it. At 9:51, Omar Sadiq’s return vehicle was still waiting outside the Bellow Market shelter. At 10:03, the plate showed the patient’s claim had transferred to the west clinic’s observation team. At 10:16, the hinge pressure fell enough for the shelter route to open under Selah’s watch. Mina completed the urgent handoff and returned to the clinic desk. At 10:27, Omar arrived by the street route. The delay was forty-three minutes.
+Mina wrote it. At 9:51, Omar Sadiq’s return vehicle was still waiting outside the Bellow Market shelter, and Selah had already committed it to the street route rather than hold the clinic hinge open a second time. At 10:03, the plate showed the patient’s claim had transferred to the west clinic’s observation team. At 10:16, the hinge pressure fell enough for the shelter route to open under Selah’s watch. It closed again at 10:19, unused, because the vehicle was already on its way. Mina completed the urgent handoff and returned to the clinic desk. At 10:27, Omar arrived by the street route. The delay was forty-three minutes.
 
 Sanaa read the entry over Mina’s shoulder. “You could have kept the cross-node request open and moved both vehicles.”
 
@@ -100,7 +100,7 @@ Jonas looked at the closed cross-node entry. “I was trying to avoid a choice.�
 
 He named it. He wrote the 43-minute delay, the alternative street route, the clinic watch, the shelter watch, and the fact that the local terms remained separate. He did not call the delay harmless. He did not call the repair successful because one patient had received care.
 
-Ruth reached for his wrist. He flinched before realizing she was only turning his hand away from the live panel. Her skin was cool against his fevered palm.
+Ruth reached for his wrist. He flinched before realizing she was only turning his hand away from the live panel. Her skin was cool against his damp palm.
 
 “Stop reading,” she said.
 
@@ -114,7 +114,7 @@ Sanaa returned after the patient had been transferred to the main hospital corri
 
 “Tell me the cost,” she said.
 
-“Forty-three minutes for Omar’s nonurgent transfer. The clinic route was open for the urgent patient. The shelter route opened at 10:16, after the vehicle had already waited. I reset the local pressure gate. I did not merge the terms. I cannot tell you whether the next pressure change will cost the same.”
+“Forty-three minutes for Omar’s nonurgent transfer. The clinic route was open for the urgent patient. The shelter route opened at 10:16 and closed unused at 10:19, because the vehicle had already been sent the long way round. I reset the local pressure gate. I did not merge the terms. I cannot tell you whether the next pressure change will cost the same.”
 
 “Can you tell me whether the night watch was real?”
 

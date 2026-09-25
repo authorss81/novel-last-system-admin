@@ -18,11 +18,11 @@ Nina Calder had brought the department’s test form. Its first line read **prim
 
 “The department needs a true one.”
 
-Nina held the pen over the paper. “Your appointment review is in eleven days.”
+Nina held the pen over the paper. “Your appointment review is in ten days.”
 
 “Then it can read the same result as the rest of the city.”
 
-The morning was cold enough to make breath visible over the canal. The bridge deck shone under a sky the color of old tin. Nora’s boots struck the pedestrian paving at regular intervals. Dev’s radio carried the ordinary sounds of the district: bus announcements, a delivery driver looking for Loading Bay Four, the hospital heliport clearing a lane. For a moment, the city sounded as if it had never heard of permissions.
+The morning was cold enough to make breath visible over the river. The bridge deck shone under a sky the color of old tin. Nora’s boots struck the pedestrian paving at regular intervals. Dev’s radio carried the ordinary sounds of the district: bus announcements, a delivery driver looking for Loading Bay Four, the hospital heliport clearing a lane. For a moment, the city sounded as if it had never heard of permissions.
 
 At 9:58, the clinic confirmed the patient’s care claim. Dev confirmed the ambulance route. Oren checked the west-lane load certificate that supported the Assembly Emergency Service Test; the failed south span remained outside its scope. Ruth confirmed the clinic’s night-watch duty. Selah confirmed that the shelter return would remain within its existing local claim through the test window; its vehicle movement would close at handoff, while the formal term would close at 11:30. Mina confirmed that the patient’s receiving bed was ready.
 
@@ -66,7 +66,7 @@ Nora looked toward the pedestrian span. “Can you keep the bridge?”
 
 Oren stepped into the control bay. “Then isolate it. Do not expand the test.”
 
-Jonas opened the side-hinge cover. The physical pressure line was pinched where a replacement sleeve had been fitted years before. The ordinary repair was to replace the sleeve and wait for inspection. The civic fact was that the side route no longer had a holder to accept an isolation order. He could not make it obey by turning the screw.
+Jonas opened the side-hinge cover. The physical pressure line was pinched where a replacement sleeve had been fitted years before on the south span’s service hinge. The ordinary repair was to replace the sleeve and wait for inspection. The civic fact was that the side route no longer had a holder to accept an isolation order. He could not make it obey by turning the screw.
 
 “Existing duty,” he said. “Oren can order a safety stop within the Assembly test. The crew can isolate the failed side route. The bridge lane remains under the ambulance service claim. The clinic and shelter routes remain under their own witnesses.”
 
@@ -76,7 +76,7 @@ Jonas nodded. Nora closed the pedestrian gate and set its mechanical latch. Dev 
 
 The side gate dropped into its physical stop. It was a safety precaution, not the formal safety closure; the restriction still required Oren’s order and a recorded isolation time.
 
-At 10:17, the shelter return reached the bridge approach on its scheduled clinic run. Selah’s resident could not use the city route while the bridge test was in its isolation window. A street route was available, but it added thirty-eight minutes. Selah offered it as the local choice. Mina confirmed the clinic could accept the delay.
+At 10:17, the shelter return reached the bridge approach on its scheduled clinic run. Selah’s resident could not use the city route while the side gate was physically stopped and the test authorized only the ambulance lane. A street route was available, but it added thirty-eight minutes. Selah offered it as the local choice. Mina confirmed the clinic could accept the delay.
 
 “Record it,” Jonas said.
 
@@ -146,7 +146,7 @@ The shop steward took the test receipt from him and read the last line: **No civ
 
 “Read the rest.”
 
-“I did.” Tomas tapped the unresolved conflict. “You did not make the side hinge permanent. You did not merge the shelter and clinic. You recorded the delay.”
+“I did.” Tomas tapped the unresolved conflict. “You did not make the side-hinge isolation permanent. You did not merge the shelter and clinic. You recorded the delay.”
 
 “The appointment is still pending.”
 

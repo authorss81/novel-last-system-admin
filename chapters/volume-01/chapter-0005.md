@@ -34,13 +34,15 @@ Jonas watched the green light pulse. He had a tool for the ambiguity. He could c
 
 “That is the most the clinic can give us today.”
 
-Mina turned to the plate. “The patient is stable. Her follow-up is at ten-thirty tomorrow. I have the medication list. I can remain responsible for the transfer, not for the shelter’s care.”
+Mina turned to the plate. “The patient is stable. Her follow-up is tomorrow afternoon. I have the medication list. I can remain responsible for the transfer, not for the shelter’s care.”
 
-A man’s voice came from deeper inside the shelter. “Raf?”
+A woman’s voice came from just inside the door.
 
-“It’s me, Ma.”
+“Raf? Is that you out there?”
 
-Selah’s voice softened, but the door did not open. “Raf, you do not have to carry her alone. That is the point of a return route.”
+“It’s me,” he said. “We’ve got her. We’re at the door.”
+
+Selah’s voice came back through the speaker, softened but no less firm, and the latch did not move. “Raf, you do not have to carry her alone. That is the point of a return route.”
 
 “I know,” he said. “Let me carry the bag.”
 
