@@ -8,7 +8,7 @@ Jonas replaces a worn River Stacks relay, then reaches Saint Orra bridge as an a
 
 ### Chapter 0002 — A Borrowed Key
 
-At the west clinic, Sanaa needs Alma Reyes admitted while the gate rejects a valid care claim because the night-watch duty is missing from the local record. Ruth Nwosu, the working night steward, holds the physical key. Under an attended escort procedure, Alma enters observation four, the route closes after 1 minute 41 seconds, and Sanaa makes Jonas record exactly what remains unverified. No civic term is mended.
+At the west clinic, Sanaa needs Alma Reyes admitted while the gate rejects a valid care claim because the night-watch duty is missing from the local record. Ruth Nwosu, the working night steward, holds the physical key. Under an attended escort procedure, Alma enters observation four, the route closes after 1 minute 41 seconds, and Sanaa makes Jonas record exactly what remains unverified. A separate municipal office order suspends Jonas’s independent gate use pending local duty review; it is not a second Lattice notice. No civic term is mended.
 
 ### Chapter 0003 — The Clause in the Wall
 
@@ -16,7 +16,7 @@ Oren Pell closes the bridge under a valid public-safety order but invokes the se
 
 ### Chapter 0004 — The Unlisted Stop
 
-The green shuttle has no transit record, but it carries a child with a hand-marked token, courier Pia Santos, and Alma Reyes after a worsening return journey. Jonas refuses to treat the route as a rogue bridge effect or impound the vehicle while the patient deteriorates. A clinic clerk dispositions the child, patient, and courier; Jonas signs only a vehicle safety check. The patient returns toward the old-canal shelter, where the door asks for a post-arrival duty.
+The green shuttle has no transit record, but it carries a child with a hand-marked token, courier Pia Santos, Alma Reyes after a worsening return journey, and an older driver who remains with the vehicle. Jonas refuses to treat the route as a rogue bridge effect or impound the vehicle while the patient deteriorates. A clinic clerk dispositions the child and patient while Pia remains with the vehicle; Jonas signs only a vehicle safety check, and the driver retains custody. The patient returns toward the old-canal shelter, where the door asks for a post-arrival duty.
 
 ### Chapter 0005 — The Price of a Door
 
@@ -36,11 +36,11 @@ Jonas identifies the I. Vey seal as part of the original Continuity Project main
 
 ### Chapter 0009 — The First Night Shift
 
-A clinic/shelter hinge makes the urgent patient route and Omar Sadiq’s nonurgent shelter return compete. Jonas refuses to create a cross-node term; the urgent transfer crosses, while Omar waits exactly 43 minutes and then completes through a local route. Sanaa makes Jonas disclose the cost, earning limited trust without making her his ally. Tomas then requires every witness log and a visible responsibility bond before any shared-node civic edit.
+A clinic/shelter hinge makes the urgent patient route and Omar Sadiq’s nonurgent shelter return compete. The local review leaves Jonas’s gate-use suspension active but allows attended maintenance only after Ruth’s named watch initiates the route. Jonas refuses to create a cross-node term; the urgent transfer crosses, while Omar waits exactly 43 minutes and then completes by the street route. The shelter route opens at 10:16; the clinic route had already served the urgent transfer. Sanaa makes Jonas disclose the cost, earning limited trust without making her his ally. Tomas then requires every witness log and a visible responsibility bond before any shared-node civic edit.
 
 ### Chapter 0010 — The City Needs a Name
 
-Under the west-lane Assembly test, a real ambulance, clinic admission, and Bellow Market shelter-to-clinic handoff run from 10:00 to 11:30. Unsafe side-hinge pressure isolates the failed route; the shelter return takes a 38-minute street alternative and completes. Jonas records the unresolved conflict instead of accepting a hardware-only report. The Old Ward board reveals an empty central root holder field with a Reclamation Season review line. Tomas blocks the next shared-node attempt until Jonas faces a visible responsibility bond.
+Under the west-lane Assembly test, a real ambulance, clinic admission, and Bellow Market shelter-to-clinic handoff run within a 90-minute attended window from 10:00 to 11:30. Unsafe side-hinge pressure leads to a physical stop followed by formal isolation at 10:31 under Oren’s order. The shelter vehicle and handoff leg end at 10:55 via a 38-minute street alternative, while the formal shelter authorization closes at 11:30. Jonas records the unresolved conflict instead of accepting a hardware-only report. The Old Ward board reveals an empty central root holder field with a Reclamation Season review line. Tomas blocks the next shared-node attempt until Jonas faces a visible responsibility bond.
 
 ## Rolling Handoff
 

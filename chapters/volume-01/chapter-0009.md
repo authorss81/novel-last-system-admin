@@ -8,6 +8,8 @@ The first two faults belonged to the same physical hinge. The third belonged to 
 
 He tightened the pressure screw. The hinge gave a low metallic knock.
 
+A municipal review slip was clipped to the inside of his work jacket. The gate-use suspension from the clinic had not been lifted. It had been narrowed: Jonas could inspect and service a gate during an attended local duty when the named bearer initiated the route, but he could not initiate the opening, replace the bearer, or sign the claim by himself. The exception applied only while the current watch remained in place; a later shift would need its own bearer-initiated request. He had read the line twice before he came under the ramp.
+
 “Stop,” Ruth Nwosu said above him.
 
 He stopped.
@@ -42,7 +44,7 @@ Sanaa crouched beside him. “What is the actual fault?”
 
 “Can you open the clinic route?”
 
-“Yes, for the urgent transfer, with the night watch present. I cannot open the shelter route from here without making this a shared-node edit.”
+“Yes, for the urgent transfer, with the night watch present,” he said. “The review lets me service it after the bearer’s request. It does not make me the bearer. I cannot open the shelter route from here without making this a shared-node edit.”
 
 “Can you make the shelter route wait?”
 
@@ -72,7 +74,7 @@ He stopped.
 
 “Close it,” Sanaa said.
 
-He cut the cross-node request. The hinge dropped hard against its stop. The clinic entrance opened. The patient’s stretcher came through, guided by Mina and the transport crew. Ruth turned the black key and stayed at the threshold. The plate accepted the care claim and closed behind the stretcher.
+He cut the cross-node request. The hinge dropped hard against its stop. With Ruth’s watch present and the clinic’s care claim active, the clinic entrance opened. The patient’s stretcher came through, guided by Mina and the transport crew. Ruth turned the black key and stayed at the threshold. The plate accepted the care claim and closed behind the stretcher.
 
 Sanaa met the crew at the observation doors. “What changed?”
 
@@ -112,7 +114,7 @@ Sanaa returned after the patient had been transferred to the main hospital corri
 
 “Tell me the cost,” she said.
 
-“Forty-three minutes for Omar’s nonurgent transfer. The clinic route reopened at 10:16. The shelter route opened at 10:16 as well, but the vehicle had already waited. I reset the local pressure gate. I did not merge the terms. I cannot tell you whether the next pressure change will cost the same.”
+“Forty-three minutes for Omar’s nonurgent transfer. The clinic route was open for the urgent patient. The shelter route opened at 10:16, after the vehicle had already waited. I reset the local pressure gate. I did not merge the terms. I cannot tell you whether the next pressure change will cost the same.”
 
 “Can you tell me whether the night watch was real?”
 

@@ -142,7 +142,7 @@ He added it.
 
 The bridge warning number from that morning appeared beneath the clinic fault. The same service-chain identifier ran through both records, though the clinic had no attached reason. Downstream requests for help had not been false; they had lacked enough information to mean anything useful.
 
-Before Jonas could close the form, a municipal notice appeared across its top line.
+Before Jonas could close the form, the clinic’s service printer released a narrow municipal annex bearing the deputy registrar’s seal. It was an ordinary office document, not a second message from the Lattice. Its heading read:
 
 **GATE USE SUSPENDED PENDING LOCAL DUTY REVIEW.**
 

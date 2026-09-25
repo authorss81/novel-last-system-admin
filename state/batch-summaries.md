@@ -18,7 +18,7 @@ The apparent unauthorized access is not sabotage. Pia Santos, a child with a han
 
 ### Climax and Cost
 
-Oren Pell’s valid closure forces the old-canal residents to relocate to Bellow Market. The pump inspection then keeps the unsafe line closed despite a live maintenance practice. In the final attended-service test, existing bearers keep one ambulance lane, the clinic entrance, and one shelter-to-clinic handoff open for 90 minutes, isolate a pressure fault on the failed side, record a 38-minute shelter delay, and close every route at expiry. The service works for the window; the underlying conflict remains.
+Oren Pell’s valid closure forces the old-canal residents to relocate to Bellow Market. The pump inspection then keeps the unsafe line closed despite a live maintenance practice. In the final attended-service test, existing bearers keep one ambulance lane, the clinic entrance, and the shelter-to-clinic route within a 90-minute attended window (10:00–11:30). The shelter vehicle reaches the clinic at 10:55; that ends its run and handoff leg, not the route authorization, which closes at 11:30. The crew isolates a pressure fault on the failed side, records a 38-minute shelter delay, and closes every route at expiry. The service works for the window; the underlying conflict remains.
 
 ### Character Change
 
@@ -31,7 +31,7 @@ Oren Pell’s valid closure forces the old-canal residents to relocate to Bellow
 
 ### Power and Continuity State
 
-Jonas ends Stage 1. Fault reading shows relationships between active faults and terms but not intent; safe reading requires a physical anchor and trusted witness and causes bounded sensory bleed. He has no root access, bearer authority, civic mending power, seam mark, or personal claim.
+Jonas ends Stage 1. Fault reading shows relationships between active faults and terms but not intent; safe reading requires a physical anchor and trusted witness and causes bounded sensory bleed. He has no root access, bearer authority, civic mending power, seam mark, or personal claim. The Chapter 2 gate-use suspension remains active but is narrowed to attended maintenance after a named bearer initiates the route; Jonas cannot initiate or approve gate use alone.
 
 Selah’s sealed log contains the full route and resident identities. Each resident controls their own entry; Selah’s access is limited to completed return-of-care and immediate safety follow-up; the record expires at the next route review; later use requires resident consent. The NDC holds only a redacted custody reference.
 

@@ -10,7 +10,7 @@
 - **Current flaw:** he still treats his desire to remain useful as a reason to take responsibility faster than others can understand it.
 - **Current change:** he has begun recording the people and delays a safe route cannot erase. He has not yet accepted a visible civic claim.
 - **Current decision:** read Tomas Renn’s responsibility bond before signing or refusing it; do not place his name in the Old Ward’s empty root field.
-- **Current risk:** management pressure, probation review, physical exhaustion, and the temptation to use the sealed shelter route as evidence about Evan.
+- **Current risk:** management pressure, probation review, physical exhaustion, the narrowed gate-use suspension, and the temptation to use the sealed shelter route as evidence about Evan.
 
 ## Dr. Sanaa Iqbal
 
@@ -55,7 +55,7 @@
 ## Ruth Nwosu
 
 - **Role:** existing Saint Orra west-clinic night-watch steward.
-- **Current state:** performs the watch with a physical key even though the local record no longer fully recognizes the duty.
+- **Current state:** performs the watch with a physical key even though the local record no longer fully recognizes the duty. Under the narrowed gate-use review, she is the named bearer who must initiate an attended route before Jonas can service it; this is not permanent office.
 - **Power role in Chapters 11–18:** remains the bearer of the bounded clinic-gate permission after the first civic repair. She is not Jonas’s proxy, assistant, or displaced holder.
 - **Boundary:** must understand the scope, expiry, claim, and right to refuse before accepting the repair.
 

@@ -24,13 +24,19 @@ Nina held the pen over the paper. “Your appointment review is in eleven days.�
 
 The morning was cold enough to make breath visible over the canal. The bridge deck shone under a sky the color of old tin. Nora’s boots struck the pedestrian paving at regular intervals. Dev’s radio carried the ordinary sounds of the district: bus announcements, a delivery driver looking for Loading Bay Four, the hospital heliport clearing a lane. For a moment, the city sounded as if it had never heard of permissions.
 
-At 9:58, the clinic confirmed the patient’s care claim. Dev confirmed the ambulance route. Oren checked the west-lane load certificate that supported the Assembly Emergency Service Test; the failed south span remained outside its scope. Ruth confirmed the clinic’s night-watch duty. Selah confirmed that the shelter return would remain within its existing local claim and would close at handoff. Mina confirmed that the patient’s receiving bed was ready.
+At 9:58, the clinic confirmed the patient’s care claim. Dev confirmed the ambulance route. Oren checked the west-lane load certificate that supported the Assembly Emergency Service Test; the failed south span remained outside its scope. Ruth confirmed the clinic’s night-watch duty. Selah confirmed that the shelter return would remain within its existing local claim through the test window; its vehicle movement would close at handoff, while the formal term would close at 11:30. Mina confirmed that the patient’s receiving bed was ready.
+
+Nina held up the registrar’s review slip. “Your suspension remains,” she said. “It lets you service an attended route when the named bearer initiates it. It does not let you open one alone.”
+
+“I can work inside that limit,” Jonas said.
+
+“Write it beside the test scope.”
 
 Jonas looked at the list. “Do not call the routes open yet.”
 
 Nora raised her radio. “Waiting on your word.”
 
-“Open the ambulance lane only when the ambulance reaches the east marker. Selah, keep the shelter end closed until the clinic has received the patient. Mina, call the bed before you open the ward door.”
+“Open the ambulance lane only when the ambulance reaches the east marker. Selah, hold the shelter vehicle at the local end until the clinic has received the patient. Mina, call the bed before you open the ward door.”
 
 “Less dramatic than the schedule,” Dev said.
 
@@ -66,9 +72,9 @@ Jonas opened the side-hinge cover. The physical pressure line was pinched where 
 
 “Record that as an attended restriction,” Oren said. “Not a civic edit.”
 
-Jonas nodded. Nora closed the pedestrian gate. Dev called the restriction to the dispatch log. Ruth and Selah repeated their own limits from the two service ends. Mina stayed with the patient.
+Jonas nodded. Nora closed the pedestrian gate and set its mechanical latch. Dev called the attended restriction to the dispatch log. Ruth and Selah repeated their own limits from the two service ends. Mina stayed with the patient.
 
-The side gate dropped.
+The side gate dropped into its physical stop. It was a safety precaution, not the formal safety closure; the restriction still required Oren’s order and a recorded isolation time.
 
 At 10:17, the shelter return reached the bridge approach on its scheduled clinic run. Selah’s resident could not use the city route while the bridge test was in its isolation window. A street route was available, but it added thirty-eight minutes. Selah offered it as the local choice. Mina confirmed the clinic could accept the delay.
 
@@ -78,7 +84,7 @@ Nina’s pen stopped. “The delay is not a fault in the hardware.”
 
 “It is a cost of the fault. Record both.”
 
-The shelter return went by street. The ambulance lane stayed open. The clinic entrance stayed open under Ruth’s watch. For forty minutes, the test worked without pretending that three services shared one owner.
+The shelter return went by street. The ambulance lane stayed open. The clinic entrance stayed open under Ruth’s watch. For the thirty-eight-minute wait, the test continued without pretending that three services shared one owner.
 
 At 10:31, the side-hinge pressure changed. The sound in the plate became a thin whine, and the Margin brightened toward the clinic and shelter terms at once. Jonas’s vision narrowed to the service requests. He could not tell whether the system wanted the clinic to prioritize its patient or the shelter to keep its return. The answer was not in the fault.
 
@@ -88,13 +94,13 @@ Nora put her palm over his on the probe. Her hand was callused, warm, and real. 
 
 Jonas forced his attention to the wet screw beneath his thumb. The physical pressure was high enough to damage the side hinge if it continued. He could isolate the damaged route. He could not make the hospital and shelter terms agree about the hour they had promised.
 
-“Close the side route,” he said. “Keep the ambulance lane open until the marked end. Record the shelter delay. Keep the clinic watch and shelter watch separate.”
+“Close the side route under Oren’s order,” he said. “Keep the ambulance lane open until the marked end. Record the shelter delay. Keep the clinic watch and shelter watch separate.”
 
-Nora repeated the order to Dev. The side route closed. The control strip went from amber to a hard red, but the ambulance lane remained white.
+Nora repeated Oren’s order to Dev. The side route closed formally at 10:31. The control strip went from amber to a hard red, but the ambulance lane remained white.
 
 The system did not punish him for refusing to solve everything. It simply continued with the choices people had made.
 
-At 10:55, the shelter return arrived at the clinic through the street route. Mina received the resident, while Selah confirmed the handoff at Bellow Market and closed the shelter end. Mina recorded the thirty-eight-minute delay. The test’s three routes were still open, but none had become permanent.
+At 10:55, the shelter return finished its vehicle movement and arrived at the clinic through the street route. Mina received the resident, while Selah confirmed the handoff and next watch at Bellow Market. The shelter route’s authorization remained open for the rest of the test; 10:55 ended the run, not the term. Mina recorded the thirty-eight-minute delay. The test’s three routes were still open, but none had become permanent.
 
 Jonas’s nausea returned. He leaned against the bridge cabinet while the city’s noises moved around him: the tram, a school bell, someone shouting about a missing parcel, the river striking the pilings. The sounds did not tell him who to trust. They told him that people were making choices in the same weather.
 

@@ -17,6 +17,7 @@ These threads now reflect events written in Chapters 1–10 unless marked as res
 | T-11 | What is the cost of giving up permanent admin access? | Jonas wants permanent status but has not been offered root authority. | Stage 2 and later responsibility choices begin to make personal access costly. | The cost must be physical, legal, relational, and informational; do not let the final sacrifice be painless. |
 | T-12 | Will the Civic Commons remain imperfect and revisable? | Not yet visible as a political destination. | Emerges through later distributed-witness failures and renewal debates. | Local disagreement and renewal are features of the resolution. |
 | T-13 | Can Jonas accept a visible responsibility bond without turning it into ownership? | Tomas blocks the next shared-node edit until Jonas reads a bond that names scope, refusal, and claim. | Open and pay off across Chapters 11–18. | The bond is not a power-up, root access, or permanent appointment. Tomas’s worker-led control matters. |
+| T-14 | Can Jonas work within the narrowed gate-use suspension while taking the first civic claim? | The Chapter 2 suspension remains active; local review permits attended maintenance only after the named bearer initiates a route, while Jonas cannot initiate or approve gate use alone. | Chapters 11–18 place the visible responsibility bond and first bounded repair ahead of any shared-node edit. | Do not treat the suspension as lifted or make Jonas the bearer; Ruth remains the named bearer. |
 
 ## Immediate Chapters 11–20 Guardrails
 

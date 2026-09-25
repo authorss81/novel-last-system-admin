@@ -28,7 +28,7 @@ Kofi opened the emergency curtain. “Route contact, declare the number of passe
 
 A young woman leaned into the opening. Her courier bag was slung across one shoulder, and rain darkened the hem of her jacket. She was nineteen or twenty, with cycling gloves tucked through a belt loop and a paper route sheet folded under one arm.
 
-“Three,” she said. “One child, one courier, one patient returning from Saint Orra. We are not carrying freight and we do not have your route number.”
+“Three passengers,” she said. “One child, one courier, one patient returning from Saint Orra. We are not carrying freight and we do not have your route number.”
 
 “Name.”
 
@@ -38,7 +38,7 @@ Kofi’s hand returned to the impound switch. “You are at a public platform.�
 
 “I am at a public platform that is not on our map,” Pia Santos said. “That is not the same as being nowhere.”
 
-The word came from the passenger nearest the door. An older man in a soaked work vest leaned forward, one hand braced on the seat rail. The child was a girl, perhaps seven, with a black wool hat and a brass route token around her neck. She had drawn the three blue lines over so often that the brass had worn pale. When Kofi pointed at the shuttle, she put the token inside her coat.
+The driver was an older man in a soaked work vest. He leaned forward, one hand braced on the seat rail. The child was a girl, perhaps seven, with a black wool hat and a brass route token around her neck. She had drawn the three blue lines over so often that the brass had worn pale. When Kofi pointed at the shuttle, she put the token inside her coat.
 
 A stretcher lay across the rear seat. Its monitor made a soft, fast clicking sound.
 
@@ -108,9 +108,11 @@ For a moment, she considered him. Then she opened the route sheet. It showed sto
 
 Pia wrote **Selah Mora—local custody** on the back of the sheet and gave it to the older driver. He tucked it into the dashboard without handing over the sheet.
 
-Jonas kept his eyes on the physical access plate. The silver line tightened around the route, but he could not tell whether the missing record was a deliberate protection, an old failure, or both. He put two fingers on the shuttle’s hinge and asked Kofi to open the clinic escort.
+Jonas checked the municipal order in his jacket. It still suspended his independent gate use, and the wording did not tell him whether an attended escort counted. He would not make the request himself. He could inspect the physical path, but the clinic’s care claim and attendant procedure would have to open the route.
 
-The attendant procedure did not open the shuttle to the crowd. It opened a narrow path from the vehicle to the west clinic entrance, with the driver, Pia, Mina, and the patient’s care claim as witnesses. Jonas walked the path, testing the platform lip and the service threshold. The child and the courier left the vehicle first and stood inside the clinic’s marked family area. A woman arrived from the shelter, breathless and apologetic, and took the child without giving her name to the dispatcher. The child held out the brass token.
+Jonas kept his eyes on the physical access plate. The silver line tightened around the route, but he could not tell whether the missing record was a deliberate protection, an old failure, or both. He put two fingers on the shuttle’s hinge and asked Kofi to bring the clinic’s attendant procedure to the vehicle.
+
+The attendant procedure did not open the shuttle to the crowd. It opened a narrow path from the vehicle to the west clinic entrance, with the driver, Pia, Mina, and the patient’s care claim as witnesses. Jonas walked the path, testing the platform lip and the service threshold. The child left the vehicle first and stood inside the clinic’s marked family area while Pia stayed with the driver and the patient. A woman arrived from the shelter, breathless and apologetic, and took the child without giving her name to the dispatcher. The child held out the brass token.
 
 “This is mine,” the woman said.
 

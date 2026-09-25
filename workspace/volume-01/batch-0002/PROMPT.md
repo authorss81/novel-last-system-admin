@@ -9,6 +9,7 @@ Make Jonas accept a visible responsibility bond, perform his first bounded civic
 ## Starting State
 
 - Jonas is Stage 1, exhausted but physically recovering from repeated Fault-reader use. He has no civic mending power until the responsibility bond is visibly accepted, no seam mark, no personal claim, and no root access.
+- The Chapter 2 gate-use suspension remains active but was narrowed by local review: Jonas may service an attended route only when its named bearer initiates it; he may not initiate or approve gate use alone. Treat this as a continuing administrative limit, not restored clearance.
 - The Saint Orra bridge relay is repaired, but the obsolete empty-crossing term still conflicts with current ambulance and clinic claims.
 - The old-canal shelter is closed under a valid physical-safety order. Residents were relocated to Bellow Market. Do not reopen that building.
 - The old pump and water line are unsafe and closed. Temporary water and clinic support are arranged only for the next care shift.

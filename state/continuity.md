@@ -18,7 +18,7 @@
 - Stage 0 applies in Chapters 1–2. The first major Chapter 3 bridge reset activates only the limited Stage 1 Fault-reader view. Jonas remains Stage 1 through Chapter 10.
 - The Saint Orra bridge has an obsolete **empty crossing** term that conflicts with current ambulance and clinic service claims. Its relay is repaired, but the civic term is not mended.
 - The Chapter 3 ambulance lane was authorized only under the separately inspected Assembly Emergency Service Test. Public Works passed the west lane; the south span and approaches failed separate inspection. Witnessed use did not cure the permission conflict.
-- The Chapter 4 unlisted shuttle arrived on a separate Saint Orra service-lane feed. It is not an effect of the bridge reset and does not retroactively give the reset a claim.
+- The Chapter 4 unlisted shuttle arrived on a separate Saint Orra service-lane feed. It is not an effect of the bridge reset and does not retroactively give the reset a claim. During its clinic handoff, Jonas does not initiate gate use under the Chapter 2 suspension; Mina’s care claim and the existing attendant procedure open the attended path.
 - A route can be present and operational while absent from human maps. The opening batch does not explain the neighborhood’s civic history or the full practice that maintains it.
 - The Old Ward public board shows **CENTRAL ROOT—HOLDER: —** and a Reclamation Season maintenance-review line. This is an empty field, not a hidden person, succession offer, or request to find a bearer.
 - The bridge plate carries an old **I. Vey** Continuity Project seal. Jonas initially treats it as manufacturer history; Chapter 8 identifies it as a municipal maintenance-series mark.
@@ -30,11 +30,11 @@
 ## Service ledger
 
 - River Stacks cabinet 6-R-14: relay replaced in Chapter 1.
-- Saint Orra bridge: attended 25-minute bypass in Chapter 1; 90-minute Chapter 3 test; 90-minute Chapter 10 attended-service test. All temporary authority expired and closed.
-- West clinic gate: Chapter 2 escort lasted 1 minute 41 seconds; Chapter 9 local pressure reset served an urgent transfer and caused a recorded 43-minute delay for Omar Sadiq’s nonurgent shelter return before that transfer completed.
+- Saint Orra bridge: attended 25-minute bypass in Chapter 1; 90-minute Chapter 3 test; 90-minute Chapter 10 attended-service window. All temporary authority expired and closed.
+- West clinic gate: Chapter 2 escort lasted 1 minute 41 seconds; the separate municipal gate-use suspension was not lifted. The local review narrowed Jonas’s access to attended maintenance after the named bearer initiates the route; he cannot initiate or approve gate use alone. Chapter 9 local pressure reset served an urgent transfer and caused a recorded 43-minute delay for Omar Sadiq’s nonurgent shelter return before that transfer completed.
 - Old-canal shelter: Alma Reyes returned under a short named escort; all residents later relocated to Bellow Market; building sealed at 8:03 in Chapter 6.
 - Pump house: reopening denied; temporary water and clinic tank arranged; no resident headcount recorded.
-- Chapter 10: one ambulance lane, clinic entrance, and Bellow Market shelter-to-clinic handoff ran from 10:00 to 11:30. The south/side route developed unsafe pressure and was isolated. The shelter return used a 38-minute street alternative, arrived at 10:55 for a 10:17 appointment, and completed. Every temporary route closed.
+- Chapter 10: the 90-minute attended-service window ran from 10:00 to 11:30. One ambulance lane, clinic entrance, and Bellow Market shelter-to-clinic route remained under their existing duties. The shelter vehicle’s run and handoff leg completed at 10:55 via the street alternative, with a 38-minute delay; the formal shelter-route authorization remained until 11:30. The south/side route developed unsafe pressure and was physically stopped first, then formally isolated at 10:31 under Oren’s order. Every temporary route closed.
 - No temporary route survives as Jonas’s personal authority.
 
 ## Custody and privacy
