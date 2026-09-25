@@ -38,7 +38,9 @@ jobs:
       - name: Install OpenCode
         run: curl -fsSL https://opencode.ai/install | bash
       - name: Record available models
-        run: opencode models | tee logs/models.log
+        run: |
+          mkdir -p logs
+          opencode models | tee logs/models.log
       - name: Probe model and repository secret
         if: ${{ inputs.probe == true }}
         run: |
