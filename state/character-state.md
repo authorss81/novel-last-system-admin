@@ -1,91 +1,115 @@
-# Character State — After Chapter 10
+# Character State — After Chapter 20
 
 ## Jonas Mercer
 
-- **Age / role:** 32; probationary NDC field technician, grade III.
-- **Power:** Stage 1 Fault reader. Can diagnose relationships between an active physical fault and nearby permission terms when anchored to a hinge with a trusted witness. Cannot amend, transfer, or reconcile civic terms.
-- **Immediate physical cost:** metallic taste, pressure behind the eyes, nausea, and exhaustion after major reads. Crowds blur nearby emotions and claims. No supernatural seam mark or personal claim exists.
-- **External want:** permanent civil-service status, full archive clearance, a repaired local service chain, and a more complete record of Evan’s disappearance.
-- **Live pressure on that want:** Tomas has offered to countersign his application if he finishes the current rotation without an avoidable fault. The appointment review is ten days out as of Chapter 10.
-- **Internal want:** to remain the person who can fix the problem so no one else pays for its consequences.
-- **Current flaw:** he still treats his desire to remain useful as a reason to take responsibility faster than others can understand it.
-- **Current change:** he has begun recording the people and delays a safe route cannot erase. He has not yet accepted a visible civic claim.
-- **Chapter 10 lapse on the record:** he read the shelter run’s risk at 9:58, priced it at 38 minutes, and left the run on a span he had already failed because re-booking it would have cost a shelter with no water. He asked Nina to log it as a third cause. His honesty is real and is not yet the same thing as good judgment.
-- **Current decision:** read Tomas Renn’s responsibility bond before signing or refusing it; do not place his name in the Old Ward’s empty root field.
-- **Current risk:** management pressure, probation review, physical exhaustion, the narrowed gate-use suspension, and the temptation to use the sealed shelter route as evidence about Evan.
+- **Age / role:** 32; probationary NDC field technician, grade III. Permanent appointment pending; the review is five days after he reads the series 6 request.
+- **Power:** Stage 2 rule mender, at the limit of one hinge and one local rule. He can restore one missing term at a local permission, amend one fallback clause at a plate he has already worked, and create a temporary claim with a named bearer and a real witness. He cannot reconcile nodes, invent a root clause, read the root, or act without a witness. He is **not** bearer of the clinic gate.
+- **Body:** a grey **seam mark** runs along the inside of his right wrist and, since the Chapter 17 amendment, up to below the elbow. The right hand is largely numb and will not reliably close; he cannot hold a screwdriver. He sleeps three to four hours a night and is slower than he was.
+- **Claim:** a named maintenance claim on the west-clinic care entrance term, running until a named successor steward accepts that maintenance or the term expires. Unpaid. Not dischargeable by intention, apology, or good conduct.
+- **Public record:** his name is in the issuer field of a public Old Ward board line that also shows a released cardiac slot. Nina Calder has three working days to answer the registrar's question about his two solo shift acknowledgements. The department will choose the answer that costs the city nothing.
+- **External want:** permanent status, a clean record, and eventual archive access. He now also owes a response to the series 6 maintenance review that he cannot discharge alone.
+- **Flaw in action:** he still reaches for competence as a substitute for asking. He fixed a gate, told nobody what he had built, and then slept through the consequence.
+- **Change so far:** he changed one decision on the record — the Bellow Market run came off the isolated south span and the department paid for it — and he has started asking other people to be named. He has not yet accepted that being named is slow.
+- **Current decision:** answer the series 6 request, return to the Weir on Thursday with a coupling and a gasket and nothing else, and let the barrier be the residents' decision.
 
 ## Dr. Sanaa Iqbal
 
 - **Age / role:** 35; Saint Orra emergency physician.
-- **Current view of Jonas:** technically useful and increasingly honest, but still too willing to make incomplete work sound complete.
-- **Trust state:** limited professional trust earned by the exact 43-minute disclosure in Chapter 9; not colleague status and not romance.
-- **Boundary:** clinical disposition, patient consent, and professional judgment remain hers. She can refuse to certify a repair even when the gate works.
-- **Next pressure:** the first civic edit at the west-clinic gate. She must be an informed witness, not the bearer, and must challenge any attempt to hide the repair’s social cost.
+- **Current view of Jonas:** useful, honest under pressure, and capable of breaking a live rule with his eyes open when a patient is on the other side of it. She does not trust that he understands what the rule was for.
+- **Trust state:** she signed as an informed witness on the term and wrote under her own signature that her signature covered the scope and **not** the gate's safety. She then certified the hardware and refused to certify the permission, in writing, on the same form.
+- **Boundary:** since Chapter 17 she is the named clinician in the gate's fallback clause. Every emergency opening in the 11:00–13:30 window requires her word in writing. She accepted it while naming the day she will be in a resuscitation room and will not answer.
+- **Next pressure:** the released slot and Marta Sowle's fall must appear in any clinical record she signs. She is not Jonas's ally and is not his moral justification.
 
 ## Tomas Renn
 
-- **Age / role:** 44; Civic Continuity Workers’ Union shop steward and former NDC field supervisor.
-- **Want:** prevent Jonas and other technicians from becoming disposable maintenance labor or unilateral civic authorities.
-- **Current conflict:** he trusts Jonas’s hands more than his instinct to take undocumented responsibility.
-- **Current action:** blocks any shared-node civic edit until Jonas signs a visible responsibility bond stating scope, refusal, expiry, and claim.
-- **Existing instrument:** the Chapter 6 union transport record, which Jonas signed only for the named-institution handoff. It is a transport record, not the bond.
-- **Boundary:** ordinary hardware work and Stage 1 diagnosis remain allowed; the bond is not a magical initiation.
+- **Age / role:** 44; Civic Continuity Workers' Union shop steward and former NDC field supervisor.
+- **Completed action:** the responsibility bond exists, is posted on the shop board, and names the west-clinic care entrance as its only hinge. He wrote a stop-work clause into the roster that any shop or union member can call.
+- **Current leverage:** he holds the minuted refusals of both continuity instruments, and he holds the record of Jonas's solo shift acknowledgements.
+- **Standing position:** a roster is not a favor. He will not put a member on a duty they cannot refuse or describe.
+
+## Nell Ardent
+
+- **Age / role:** 39; founder of the Open Covenants Legal Clinic.
+- **Role in this batch:** she is acting for the Vessey family, not for Jonas. She told him she has no remedy for schedules, refused to write that the repair was sound, and gave him one free piece of advice: stay the issuer and do not trade it for a title.
+- **Boundary:** she will not make the claim disappear and she is not neutral.
 
 ## Pia Santos
 
 - **Age / role:** 19; bicycle courier, caregiver, and route representative.
-- **Want:** protect the people and services that the city’s maps omit while refusing institutional control.
-- **Current view of Jonas:** he kept the patient moving and did not seize the passenger list or route, but she has not given him access to the local log.
-- **Boundary:** independent actor, not Jonas’s apprentice, romantic interest, or sole spokesperson for Lowglass.
-- **Next pressure:** she leads the separate Chapters 19–20 route work and decides what can be shown to him.
+- **Conditions set for Jonas:** no names, no photographs, no institutional promise without local agreement, and no use of the sealed old-canal log. She also made him leave his tool roll at the shop.
+- **Current view of Jonas:** he has not asked for the folder, and the lowland trail arrived from his own card drawer rather than from her people. She is not convinced and has not decided.
+- **Boundary:** independent. She decides what he may see, refuses to be his guide, and told him to come back useful or not at all.
+- **Next pressure:** she told him to return after six on Thursday with a compression coupling and a gasket.
 
 ## Oren Pell
 
 - **Age / role:** deputy registrar enforcing public-safety and emergency-service terms.
-- **Want:** close unsafe structures before the next inspection and avoid preventable deaths or liability.
-- **Current relation with Jonas:** bounded professional opposition. Oren authorizes only what the separately inspected Assembly Emergency Service Test permits; Jonas recognizes that a valid order can still displace people unjustly.
-- **Completed action:** validly closed the old-canal shelter. The later separate Lowglass clinic-and-housing annex closure remains unused.
-- **Boundary:** not the fault’s source, not a magical authority, and not reducible to personal villainy.
+- **Completed action:** the valid old-canal closure; the isolation of the south-span side service route.
+- **New pressure, off-page:** his office has written to the department asking whether Jonas's two solo shift acknowledgements were continued attended maintenance or breaches of the review order. The answer is not Jonas's to give and has not been filed.
+- **Boundary:** not the fault's source, not a magical authority, and not reducible to personal villainy. A resident at the Weir says he was right about the old canal and that this is exactly why she has spent thirty-two years not writing to him.
 
 ## Selah Mora
 
-- **Role:** named old-canal shelter watch steward; first-night handoff steward under Mara Holt at Bellow Market.
-- **Want:** keep residents safe without letting the city turn their service log into a list.
-- **Custody:** holds the sealed full route and resident identities. Residents control their own entries; Selah’s use is limited to completed return-of-care and immediate safety follow-up; the record expires at the next route review; later use requires resident consent.
-- **Current trust in Jonas:** limited and conditional. He kept the redacted boundary and let local people name duties; he remains capable of treating the route as evidence.
-- **Next pressure:** the later claim-bearing trail must not bypass her custody or the residents’ consent.
+- **Role:** old-canal watch steward; Bellow Market first-night handoff steward; holder of a **retainer** for the west-clinic return-of-care limb, 22:00–06:00.
+- **Custody:** the sealed full route and resident log is unchanged. She refused to open it for Jonas, confirmed that his decision not to was the only answer she would have given, and told him she would not be asked to lie to her own people about what he found.
+- **What she gave instead:** the name of the Weir, the net loft, the stand, and Pia Santos, and the instruction to come back with nothing.
 
 ## Ruth Nwosu
 
-- **Role:** existing Saint Orra west-clinic night-watch steward.
-- **Current state:** performs the watch with a physical key even though the local record no longer fully recognizes the duty. Under the narrowed gate-use review, she is the named bearer who must initiate an attended route before Jonas can service it; this is not permanent office.
-- **Chapter 10 cost:** her duty ends at 11:00 and no successor exists, because the local record never carried her as a holder — the morning-watch handover is a signature with nobody to hand the key to. Mina keeps the paper and the corridor from 11:00; Ruth keeps the key until the 11:30 expiry. The day team came on at noon as scheduled. She signed the extra half hour on a shorter line, is not paid for it because the board has her signed off at six, and lost the eleven o’clock bus. She is on her second morning since the Chapter 9 night shift and has said plainly that she is not offering to be the shop’s permanent solution.
-- **Power role in Chapters 11–18:** remains the bearer of the bounded clinic-gate permission after the first civic repair. She is not Jonas’s proxy, assistant, or displaced holder. The unpaid half hour is not precedent; Chapters 11–18 should let her set a limit or a price rather than quietly absorbing another one.
-- **Boundary:** must understand the scope, expiry, claim, and right to refuse before accepting the repair.
+- **Role:** bearer of the west-clinic care entrance term; Saint Orra night watch, 22:00–11:00.
+- **Condition she added to the bond:** she can stop any use and keep her reason, and Jonas may not ask her for it afterwards.
+- **Unpaid labour:** the Chapter 10 half hour; the hour the shop's dispute fund paid her in Chapter 11; and every hour from 18:00 to 11:00 that no record has ever carried.
+- **Open item she has named:** her hours are recorded as 23:00–06:00 against a declared 22:00–11:00, and she has told Jonas to fix that before a mother arrives at ten to seven and finds a door that thinks she is not there.
+- **Limit she has set:** he does not get her again until he asks properly, and she will probably say no.
+
+## Dr. Sethi
+
+- **Role:** Saint Orra day-team physician.
+- **Action in this batch:** he is the clinic's naming authority and named the two porters as bearers in person, twice, and said that if hospital management wants the term back they can come and stand in the corridor at three in the morning.
 
 ## Mina Okafor
 
-- **Role:** Saint Orra west-clinic transfer clerk.
-- **Function:** records patient disposition, medication handoffs, and service delays independently of Jonas’s clearance.
-- **Current state:** worked with Sanaa, Ruth, and Selah to keep the Chapter 9 urgent/nonurgent distinction visible. In Chapter 10 she took over the clinic’s paper and corridor at 11:00 while Ruth kept the key to the 11:30 expiry, and signed the patient to the named on-call clinician until Dr. Sethi’s day team came on at noon.
+- **Role:** west-clinic transfer clerk.
+- **Function:** records dispositions, verification (which in this building means a person with a duty looked at the patient and the patient did not object, and there is no form), the released slot, and the fact that a suspended technician opened the door. She refused to soften the entry and wrote the line in the words Jonas gave her.
 
-## Supporting Local Figures
+## Bea Osunde
 
-- **Nora Bell:** Saint Orra crossing guard and physical anchor during the Chapter 3 and Chapter 10 reads.
-- **Dev Singh:** bridge dispatcher who records crossings, restrictions, and closures.
-- **Kofi Sarr:** Saint Orra platform dispatcher who requires a passenger list for an unregistered service vehicle and yields on a live care claim without ever receiving one.
-- **Dr. Sethi:** Saint Orra day-team physician for observation four.
-- **Mara Holt:** Bellow Market night steward who received the relocated old-canal residents and their possessions. A separate unnamed day steward covers the noon inspection.
-- **Emeka Rusk:** experienced pump operator who showed that a live duty can outlive its municipal index.
-- **Hester Vann:** Public Works inspector, she/her, who denied pump reopening on physical grounds and sized the emergency tank by meter rather than headcount, so Jonas’s refusal of a resident roster cost nothing.
-- **Nina Calder:** NDC records supervisor who requires accurate classification and refuses to certify the underlying civic rule.
-- **Alma Reyes / Rafi Reyes / Omar Sadiq:** opening-batch care cases completed on-page; they carry no new mystery function. Selah and the shelter residents call Rafi “Raf.”
+- **Role:** NDC line technician, grade II, nineteen years.
+- **Function:** she refused the broad guarantee, ran the bench plate that failed, kept the fourteen-day private rota Jonas wrote, and opens drawer four for him.
+
+## Bram Osei
+
+- **Role:** Saint Orra west clinic day porter, forty-nine, six years on the doors. **Roster: 06:00–11:00, Mon–Sat.** He refused Sunday because her granddaughter comes, and said that before six and after eleven he is on the bins and nobody has ever asked him about that.
+- **Function:** he reads the term aloud to Mina at the card table at 10:55 and signs the box before he goes, because the route is closed between his shift and Ezra's.
+
+## Ezra Mbeki
+
+- **Role:** Saint Orra west clinic porter, twenty-six, eight months in the service. **Roster: 13:30–22:00.** His line: if it needs a nurse, it does not go through that door. He is the witness for the Chapter 17 fallback amendment, and the person who asked for it.
+- **Cost to him:** at 02:40 on the third day he moved a fall-risk patient alone because the plate said the night watch was on duty, and he wrote that down himself, along with the fact that he knew before he moved him.
+
+## Marta Sowle
+
+- **Role:** patient, ninety-one, on a west-clinic ward. She/her.
+- **Cost to her:** eleven minutes on a corridor floor at 02:51 on the third day. She agreed that the event could be published and that her name could not, and she came to the Chapter 17 meeting and asked for the issuer line to be taken off the door.
+
+## Lorna Vessey and Nerys Vessey
+
+- **Lorna Vessey, sixty-one,** west-clinic observation patient with pain at rest; a booked 15:40 cardiac slot released at 15:41 to the standby list, next available the fourteenth. She worked in a factory for thirty-one years and was not fooled by anything anybody said to her.
+- **Nerys Vessey,** her daughter. She said: *I am going to have to tell her that there was a door and it was open and nobody was standing behind it.* She insisted her mother's name stay off the public board while the slot stays on it.
+
+## Supporting Weir residents
+
+- **Aurrie Nkemdirim, sixty-one:** runs the net loft childcare exchange; has wanted a district since 1994 and can price exactly what asking costs.
+- **Ottoline “Otie” Beck, seventy-one:** retired district nurse, thirty-one years in the lowland; runs a Wednesday clinic in the loft since 1998 with four people and no address.
+- **Margo Doré, sixty-three:** keeps the forty-slot water rota; twenty-two minutes a day for six weeks against a former forty.
+- **Bo Trimble, seventeen:** does the pipework, is not on the tool rota, and is right about the four hundred millimeters of cut-back pipe.
+- **Hector Mbatha, seventy,** lives on the Weir; his mother is in one of those houses. He has wanted a district number as long as Aurrie has and says so, which is why the argument happens in a kitchen instead of a meeting.
 
 ## Evan Mercer and Nadia Mercer
 
-- **Evan:** absent. A partial service-code match is an incomplete lead, not guidance, rescue, or a surviving secret helper.
-- **Nadia:** off-page in this batch but emotionally present through Jonas’s memory of the family file and desire for permanent archive clearance. She has not agreed to reopen the subject publicly.
+- **Evan:** absent. The code LO/6-L/14 on the series 6 card matches a hardware code in the family copy. Jonas has told the department only that there is a historical note.
+- **Nadia:** off-page in this batch; emotionally present through the private pad and the six-word search that found nothing.
 
 ## Relationship Policy
 
-One slow-burn relationship only: Jonas and Sanaa. The opening batch establishes professional friction, one consequential disclosure, and no romantic resolution. All other close relationships remain family, friendship, labor, civic alliance, or professional opposition.
+One slow-burn relationship only: Jonas and Sanaa. The batch produced a professional breach, not an advance. Every other close relationship is family, friendship, labor, civic alliance, professional opposition, or an unresolved local disagreement.

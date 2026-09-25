@@ -1,0 +1,98 @@
+Read AGENTS.md, NOVEL_SPEC.md, `outline/series.md`, `outline/ending.md`, `outline/volume-01.md`, the repaired Volume 01 Batch 0001 cards at `outline/batches/volume-01-batch-0001.md`, `state/current.md`, `state/continuity.md`, `state/open-threads.md`, `state/character-state.md`, `state/chapter-summaries.md`, `state/batch-summaries.md`, the next-batch instructions in this prompt, and the previous ten chapters in `chapters/volume-01/`. Use the rolling state for earlier long-term memory. Do not load later-volume prose or invent a new final enemy.
+
+Write Chapters 21–30 as complete finished scenes, in chapter order. Follow natural prose rather than a technical or outline voice. Each chapter needs physical action, resistance, a practical goal, dialogue, thought, consequence, and a changed situation. Do not pad, summarize scenes, or end in the middle of action.
+
+## Batch Goal
+
+Continue the Weir service work and take the flood barrier from inspection to a real, witnessed, bounded repair with local custodians — while the west-clinic gate runs on its local term **in Jonas's absence**, and while the department answers (or fails to answer) the registrar's question about his two solo shift acknowledgements. End Chapters 29–30 on a service question the Weir has raised about the city, not on an explanation of the Quiet Cut.
+
+## Starting State
+
+- **Jonas is Stage 2.** He restored one precedence field at the Saint Orra west-clinic care entrance and later made a second, separate edit at the same plate removing the issuer from the fallback. Both edits are bounded to one hinge and one local rule at a time. He cannot reconcile separate nodes, invent a root clause, read the root, act without a witness, or make anybody consent.
+- **The seam mark** runs along the inside of his right wrist and, since the second edit, up to below the elbow. The right hand is largely numb and will not reliably close; he cannot hold a screwdriver. The mark is warm and present when he cannot sleep.
+- **The maintenance claim is unpaid.** It runs until a named successor steward accepts that maintenance or the term expires. It is not satisfied by intention, apology, or good conduct.
+- **The responsibility bond is signed, posted on the shop's yellow board, and named to one hinge: the Saint Orra west-clinic care entrance.** It carries scope, witness, expiry, claim, refusal, and a clause Jonas wrote stating it cannot touch his civil-service appointment. Any shop or union member may call a stop on work named without understanding the claim.
+- **The gate term expires at 06:00 six days after its first service window** (first window: 07:00 on the second day of the bond sequence). It is renewable only by the named bearers reading it to each other at a handover, out loud, together. It cannot be renewed by Jonas, the department, or a manager.
+- **The roster is:** Bram Osei, day porter, 06:00–11:00, Mon–Sat; Ezra Mbeki, porter, 13:30–22:00; Ruth Nwosu, night watch, 22:00–11:00; Selah Mora for the return-of-care limb only, 22:00–06:00, under a Bellow Market retainer. **The gap is 11:00–13:30 and it is published on the board.** In that window the gate is closed unless a named holder is on duty; emergency care may be opened only by the on-call clinician, in writing, logged, and written on the public board. **The gap is already known to cost time:** on the first day it was tested, an eighty-eight-year-old's non-urgent dressing claim was refused at 12:05 and admitted at 12:50 under a written clinical declaration. Where the route is closed between two holders, the outgoing holder reads the term aloud to the clerk on the desk and signs the box, and the incoming holder reads it aloud on his own before taking the key.
+- **Ruth Nwosu's hours are still wrong on the record** (23:00–06:00 recorded against 22:00–11:00 declared). She has told Jonas to fix it before a mother arrives at 06:50 and finds a door that thinks she is not there. Fixing it is institutional work, not something Jonas may do by writing on a plate.
+- **The costs on the record, all undischarged:** Lorna Vessey's 15:40 cardiac slot released at 15:41 on the third day, next available the fourteenth, entered in the gate log, the conflict record, the review sheet, the Old Ward public board, and the corridor notice board; and Marta Sowle, ninety-one, on the corridor floor for eleven minutes at 02:51 on the third day, with a safeguarding form whose contributing factor is the record's own assertion that a holder was on site.
+- **The registrar's office has an open question.** It asks the department to state whether Jonas's two solo shift acknowledgements — 21:09 from his kitchen, and 15:58 at the plate — were continued attended maintenance or breaches of the Chapter 2 review order. **Nina Calder had three working days.** The answer has not been filed and is not Jonas's to write. The Chapter 2 suspension is still active and was not lifted.
+- **Series 6.** The west-clinic care plate is Continuity Project series 6, plate 41. Its chain runs 6-38 River Stacks cabinet 6-R-14, 6-39 Saint Orra bridge west-lane relay, 6-40 Saint Orra bridge side-hinge service relay, 6-41 the clinic gate, then **6-L/14 and 6-L/19, "Canal Lowline," lowland service nodes, address not indexed.** The code **LO/6-L/14** matches the Chapter 8 partial lowland service code and a hardware code in the family copy of Evan's last file; **Jonas has told the department only that there is a historical note.** The Reclamation Season review response is due nine days after he read the request; his civil-service appointment review falls five days after he read it, four days before the response is due. Series cards live in drawer four, which grade III may not open.
+- **The Weir** is a three-hundred-meter lowland street blank on the library index, the water authority map, the transit map, and the education office. **The Weir Street net loft** is a childcare exchange by day and, on Wednesdays, a clinic run by **Ottoline "Otie" Beck**, seventy-one, a retired district nurse. **Aurrie Nkemdirim**, sixty-one, runs the exchange and has wanted a district since 1994. **Margo Doré**, sixty-three, keeps the forty-slot water rota. **Bo Trimble**, seventeen, does the pipework and is not on the tool rota. **Hector Mbatha**, seventy, lives on the Weir and has wanted a number as long as Aurrie has.
+- **The barrier problem:** a concrete chamber at the bottom of the lowland dip with a hinged iron flap gate whose pintle is rusted solid and whose sill beam is rotten through the middle third, beside an earth-and-gravel bank carrying a boil about two meters wide on its inner face. Jonas and Bo packed the sill with fresh bedding compound on the first night: that buys a season, not a surge. A proper repair needs the chamber pumped and held dry, **four working days inside the tide table**, and either a marine crew of six from out of town or six people from the street, who will do it worse and get hurt.
+- **Three unresolved positions at the Weir, none of them Jonas's to pick:** apply to the city for a recognized culvert and service term and accept a survey, a count, and a number (Aurrie); take a county pump and stone for one tide window and write nothing down (Margo and Bo); carry on as an independent local practice with no plate (Ottie and Hector). Jonas promised to return after six with a compression coupling and a gasket and nothing else.
+- **The loft's civic plate was taken down by a resident and dropped in the canal** because it kept asking who was on duty at two in the morning and nobody ever was. What remains on the kitchen wall is a civic plate with its lower face scraped, carrying the legible fragment: **[scraped] LOWLAND WARDS — WATCH ESTABLISHED FOR THE FLOOD YEARS / ANY HOUSE MAY CALL. THE WATCH ANSWERS. / [scraped]**. Nobody in the loft knows who made it, who scraped it, or why the district is not on any map. Children on the Weir carry brass tokens marked with three lines of blue tape; nobody explains them and nobody has been asked.
+- **Selah Mora's sealed log is unchanged.** Residents control their own entries; her use is limited to completed return-of-care and immediate safety follow-up; it expires at the next route review; later use requires resident consent. Jonas told her he had considered opening it and decided not to, and she confirmed that was the only answer she would have given.
+- **The old-canal shelter and the old pump remain closed** for physical reasons. Do not reopen either. The bridge's obsolete empty-crossing term is untouched and the south span stays isolated under the registrar's order.
+- **Gunnar Halvorsen** is the west site's service manager and a pressured local figure, not a villain. **Nell Ardent** is acting for the Vessey family, not for Jonas, and solves nothing. **Oren Pell** has not appeared in person in the last two batches; his office's letter is open.
+
+## Batch Progression Guardrails
+
+- The batch belongs to Chapters 19–27's Lowglass section and the opening of the contractor's-bargain section. Do not spend Chapters 28–36 material.
+- **Do not explain the Quiet Cut, the civic erasure, the community-watch term's origin, or why the district is missing from maps.** Seed and let readers assemble. An Evan fragment is permitted only if it arrives as a physical object under a hinge seal and Jonas does not get to keep it.
+- **Do not introduce CivicCore's direct offer, Evan's counter-amendment or second signature, the public "last working system administrator" title, the blank-bearer request, Iona's preserved identity, or a root clause.** The direct offer and the separate Lowglass clinic-and-housing annex closure belong to Chapters 28–36.
+- The barrier is a real, expensive, physical job. Do not mend it with one speech. A civic term at the barrier, if one happens, must be bounded, witnessed, and carry a claim somebody can discharge.
+- **Do not let the west-clinic gate resolve off-page.** It must keep running in Jonas's absence, with the published 11:00–13:30 gap doing real work. The barrier work and the gate's social life should be in conversation across the batch, not two separate stories.
+- Use System language sparingly: at most one short, incomplete notice in a chapter, and only on a civic maintenance surface that supplies real evidence. Never use API, protocol, backend, runtime, token, latency, deployment, or game-stat language.
+- Keep Jonas competent but bounded. He can read a local fault, prepare witnesses, price a job, and perform a bounded edit. He cannot know the morally correct fallback, read intent, choose for the Weir, or make people consent.
+- Jonas and Sanaa remain professionally wary with a fresh breach. No rescue fantasy, no romance, no easy repair of the relationship.
+- Keep the two route alternatives from earlier chapters distinct: Selah's **street route** and the **taxi line** on the alternate street grid. Water, if it appears, stays sized by metered consumption, never by a headcount of residents.
+- Do not kill or catastrophically injure a resident to prove a theme. The harm here is money, time, water, a lost argument, and a person being counted who did not ask to be.
+
+## Required Chapter Movement
+
+### Chapter 21 — Thursday, After Six
+
+Open on Jonas returning to the Weir with a coupling, a gasket, and nothing else, while the clinic gate runs its second full day without him. Let the gate be visible from a distance: a use in the 11:00–13:30 gap, a declared emergency, a board with somebody else's name ticked in the box. The Weir work is a live, ordinary job: the coupling, the four hundred millimeters of cut-back pipe, and the argument about who is allowed to hold a tool. Resistance: Bo is right and nobody has put him on the rota. Jonas can solve the pipe and cannot solve the rota. End with a decision about the barrier work that belongs to the residents, and a new cost attached to Jonas's own record.
+
+### Chapter 22 — The Registrar's Answer
+
+The department files its answer to the registrar's question. It should not go the way Jonas wants. Management, or the registrar, or both, classify his solo acknowledgements in a way that is defensible and that costs him the standing he needs at the Weir — or that requires an institution to answer for him. Nina Calder resists being made the instrument of a quiet settlement. Tomas wants the answer public. Sanaa wants the clinical record attached. Give the answer real consequences for Chapters 23–30, and let Jonas discover it in a room rather than in a message.
+
+### Chapter 23 — The Tide Table
+
+The barrier work becomes a job with a schedule: pumping, the ebb window, the count of hours, the cost of the marine crew against the cost of six neighbours, and the question of who is in the water. Someone on the Weir proposes asking the city for the pump, and the asking has a price. Residents disagree about the county's favor. Jonas does an ordinary inspection and preparation only. End with a date, a crew, and a hazard somebody has named out loud.
+
+### Chapter 24 — What the Count Is For
+
+The residents' disagreement hardens into something with names on it. Someone produces a number — a headcount, a household estimate, a survey somebody did years ago — and the argument becomes about what the number would be used for. Residents who want recognition have to face that recognition arrives as a count. The Quiet Cut, the watch term's origin, and the district's civic history stay unstated; the pressure is entirely local and entirely about consent. Pia refuses to be used as a spokesperson and refuses Jonas one. Jonas learns a new local fact that is not an explanation.
+
+### Chapter 25 — A Term at the Water Point
+
+If a civic term is mended at the Weir, it is one bounded local term at one physical point, with a named holder, a claim, a witness who understands, and an expiry. It must be a small thing — a water point, a standpipe rota, a childcare exchange opening — and it must cost. Bea's warning about the tool rota should be paid off here, and the holders must be people who can refuse. Do not mend a term for the barrier itself; the barrier's work is labor.
+
+### Chapter 26 — The Terms of a Pump
+
+The pump question reaches a decision, and the decision has a body attached: a person who is asked to be responsible for machinery that is somebody else's. The county's favor, the marine crew, and the six neighbours all have costs that are not only money. Someone must be accountable at three in the morning. Let that requirement produce a real refusal, and let the refusal be respected rather than overridden.
+
+### Chapter 27 — What Is Under the Sill
+
+The physical work peaks. In the silt, the old masonry, or under a corroded frame, something is found: a maker's plate, a stamped date, a service mark, or a fragment of handwriting under a hinge seal. It must be a fragment, not an answer. Jonas's reaction is the chapter's content: he wants it to be Evan, it is probably not, and the residents' claim on it is not his to make. End the Lowglass section with the barrier either standing or failing honestly, and with the evidence in local hands.
+
+### Chapter 28 — A Separate Kind of Pressure
+
+The Weir work produces a consequence the city did not plan: a public statement, a petition, a complaint, a headline, a department question, or a price on a service Lowglass already had. The old-canal shelter stays closed. The bridge stays isolated. Do not reopen Oren's closure. Management may push for a hardware-only classification, and this time the pressure comes with a name attached to it. Do not make it CivicCore's direct offer.
+
+### Chapter 29 — The Second Map
+
+Return to the city and to the gate. The clinic term's expiry and the roster's failure or survival are on the page. Ruth's hours are either fixed by an institution or still wrong, and the difference is visible. The barrier's standing, the residents' decision, and the fragment in local hands all produce service questions rather than revelations. Keep the central mystery alive in the background: the empty root field, the unindexed nodes, and the series card Jonas still cannot file.
+
+### Chapter 30 — The Price of an Unlisted Service
+
+The batch ends on a service question the Weir has raised about the city, and on a decision Jonas must make that he cannot make alone. The public Old Ward board should show the empty central root field, the Reclamation Season review line, and something new that Jonas caused. Do not end on an explanation. End on a demand, a deadline, a person waiting, or a term that somebody is about to have to renew without him.
+
+## Relationship and Institutional Beats
+
+- **Jonas and Sanaa:** her refusal to certify the gate is unresolved and the gap's emergency clause will eventually call her at a bad hour. Let the batch show the cost of that without staging a reconciliation.
+- **Jonas and Tomas:** the bond's refusal and stop-work clauses must be used at least once against Jonas's convenience.
+- **Jonas and Ruth:** she still has not been asked properly, and her hours are still wrong.
+- **Jonas and Pia:** she is not his guide, apprentice, or spokesperson. She may refuse him, and the refusal must stand.
+- **Jonas and Selah:** her consent limits hold; the sealed log is not his route to anything.
+- **Jonas and Bea Osunde:** she holds his private rota and she opens the drawers. She is the person who tells him when he is becoming the answer.
+- **The Weir residents:** Aurrie, Margo, Bo, Ottie, Hector and Pia each keep the right to disagree, and the batch must not resolve their disagreement for them.
+
+## State and Canon Update After Writing
+
+After all ten chapters, update `state/current.md`, `state/continuity.md`, `state/open-threads.md`, `state/character-state.md`, `state/chapter-summaries.md`, and `state/batch-summaries.md`. Record any new local name, service location, duty, expiry, consent limit, cost figure, or canon rule that affects later chapters. If a new major rule is introduced, update `bible/` before treating it as canon. Do not edit controller-owned files such as `state/phase-ledger.json`.
+
+After inspecting `outline/volume-01.md`, create exactly one next phase prompt for the following range if chapters remain. Do not create Chapters 31–40 prose or any additional phase directory in this batch.
