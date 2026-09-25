@@ -1,129 +1,150 @@
-# Character State — After Chapter 30
+# Character State — After Chapter 40
 
 ## Jonas Mercer
 
-- **Age / role:** 32; probationary NDC field technician, grade III. **Permanent appointment deferred** to a review of the review, publicly, on a board between the ferry office and the Assembly doors.
-- **Power:** Stage 2 rule mender at the same limit, and now shown it from the other side. He can restore one missing field at a local plate and amend one clause at a plate he has already worked. **He can mend a term at a hinge he is not the issuer of, under a local holder's instruction, with a witness who can state the cost — and the maintenance belongs to the holder.** He cannot renew a term he did not issue, cannot be the issuer where a local holder has standing, cannot act without a witness, cannot reconcile nodes, read the root, or write a root clause.
-- **Access removed:** cabinet 6-R-14 (consequence 2 of the registrar's answer) and drawer four (grade III). The series 6 cards are unavailable to him and the response is due 28 March.
-- **Body:** the **seam mark** runs along the inside of his right wrist, past the elbow, and about two inches into the upper arm. The right hand is numb to the elbow and will not close. He works with his left hand and braces tools against the pipe so he does not have to feel them.
-- **Claim:** the maintenance claim on the west-clinic care entrance is **unpaid** and was neither discharged nor transferred by the registrar's answer, because a department cannot be a holder of a plate term.
-- **Public record:** his name is on the issuer line of a live term, on a deferred appointment review, on a classification that will take a street off a map, and on a form he filled in at 12:41 on 14 March with six words.
-- **Flaw in action, named by three people in a fortnight:** he reaches for competence instead of asking, and then asks nobody and writes the true thing anyway. On the Weir that produced (a) a mended term nobody can renew, (b) a clause that expired on the sooner of two triggers, and (c) **six words in a box** that would end the district's only public trace without anybody taking anything away.
-- **Change in this batch:** he confessed, unprompted, to being the man in the 2019 van and to having said nothing when Hector told him the man had his face. He accepted a stop from Tomas Renn and a second one from Bea Osunde and did not argue with either. He read every document to somebody outside the department before it went. He has **not** learned to stop deciding, and the batch's last image is him unable to keep a term alive.
-- **Current decision:** file the series 6 response on the 28th saying the history could not be produced; go to Gunnar Halvorsen before the ninth with the paper on the loft wall and nothing else; and do not put two letters in a departmental document.
+- **Age / role:** 32; NDC field technician, grade III, **probationary, and no longer expecting otherwise.** On 29 March the department concluded the review of the review: his civic practice is sound, the failures to produce were not his, and **the appointment is declined** because the post the contract requires is the post the waiver makes.
+- **Power:** Stage 2 rule mender, unchanged. One hinge, one local rule, one edit, a named witness, a real claim. In Chapter 39 he performed his **second bounded edit at a hinge he did not issue** — the Bellow Market cold-store hatch, one field, precedence only, issuer the market's working chef, claim unpaid — after declining three civic repairs in one batch for want of a witness, a holder, or a room, and each refusal was correct.
+- **Access removed:** cabinet 6-R-14, drawer four, all gate initiation at 6-41, and now the whole of the rest of the series 6 report through the lowland chain.
+- **Body:** the **seam mark** runs past the elbow and about two inches into the upper arm. The right hand is numb to the elbow and will not close. He braces tools against the pipe and jams a roofing slate under a gate to hold it square.
+- **Claims against him, all written, none dischargeable:** the west-clinic care-entrance maintenance claim, now **assigned to the nearest responsible maintenance route in the series 6 file by Royden Achebe**, and two more coming off the Weir and the Brine Wharf store. He named the mechanism himself in a minuted room and then could not get rid of one instance of it.
+- **Public record:** issuer line on a live term; a refused waiver on the Old Ward board from 30 March; six words he wrote; a condition line on a plate he **declined to read into a public record**; and an item of public Assembly business: **HE WAS OFFERED THE INTERIM LOWLAND POST AND DECLINED IN THE ROOM.**
+- **Flaw in action, named by four people this month:** he reaches for competence instead of asking. This batch he asked a woman with a spatula whether she would stand in a flood, got no, went back with better arguments, and was told to stop. He also caught himself pricing people in a ledger, in two columns, in a room over a tool-hire place, and closed it.
+- **Change in this batch:** he said the third thing **himself**, to Bea Osunde, and was told it was not sufficient because everyone who had said it to him had a stake. He has decided **not to ask** the two people he wants most, and has told nobody. He is holding a job card with seven names and two blank lines in his coat and he knows it is a list.
+- **Current decision:** take the card to the barrier on 14 April; see what Halvorsen does on the ninth; be at the shop on the eighteenth for a low water at 05:05 that nobody has money for.
 
 ## Dr. Sanaa Iqbal
 
 - **Age / role:** 35; Saint Orra emergency physician. Named on-call clinician in the gate's fallback clause.
-- **Current view of Jonas:** the man who took himself off the door because a ninety-one-year-old woman stood up in a room and said *take it off*, and who could not open it on 24 March and did not try. She has told him the day she named and the day it happened and that they are nine days apart, one of them a Sunday.
-- **Trust state:** still not certified. She has paid the cost of the clause twice in public and has said, in the record, that the nine minutes are not a fault and that they are a Tuesday.
-- **Boundary:** the emergency clause will call her again. It called her at 12:02 on 24 March and it will call her again. She has not asked to be removed from it and will not be argued out of it.
-- **Next pressure:** the released slot and Marta Sowle's fall are now in a public departmental answer. Any clinical record she signs carries them.
+- **Action this batch:** made the best argument in the city for the document Jonas refused, in a room, on the telephone, and asked for it to be minuted that she did not want it, for her own reasons and not out of loyalty. Answered the 04:06 call on the second ring from her own kitchen table. Nineteen minutes, baby at thirty-one minutes past six.
+- **Current view of Jonas:** the man who said the same thing twice in two chapters and then let somebody else carry the post. She has told him in a minuted room that she does not want to be the person who decides and does not know that she would not want to keep being it.
+- **Trust state:** still not certified. She has paid the price of the clause twice in public and has now paid it a third time by waking up.
+- **Line she has given:** the difference between nine minutes and thirteen is her and not the design.
+- **Status on the card:** the ninth line. **Not asked.**
 
 ## Tomas Renn
 
 - **Age / role:** 44; Civic Continuity Workers' Union shop steward, former NDC field supervisor.
-- **Action in this batch:** **stopped Jonas's Weir work by telephone on 17 March** under clause one of the bond, because the bond is named to the west-clinic care entrance and Jonas was describing a second hinge. He refused to extend the bond and set two conditions: bring Bea, and do not put your own name in the issuer line. He then made the answer to the registrar public.
-- **Unanswered demand, now asked twice in person:** the least-bad option at four in the morning when two people on the rota both refuse. He asked it on 24 March and told Jonas **not to answer it**. He said he is sixty per cent of the problem, because a shop steward who is the only person asking has made it his own instead of the roster's, and that he did the same thing in 2011 and it cost a man nine days and a scaffold.
-- **Standing position:** he is holding the knowledge that Jonas's own six words are the pressure on the Weir, and he has not yet used it.
+- **Action this batch:** in the waiver room he stopped Jonas from being helped and then made Bea speak; at the shop on Sunday he read the witness card upside down and said the refusal written down in full is the one Jonas is proudest of and the one in the wrong direction; and on the telephone on Saturday morning he took the four-in-the-morning problem and turned it over and said *that is not an answer, that is three people and a piece of luck.*
+- **Unanswered demand, now answered four times in fact and never in principle:** the least-bad option at four in the morning. He has asked it five times. He has now asked Jonas to **decide in advance whether he will be able to say in public that the city was saved by luck**, and he is the only person in this who is asking Jonas to be the one who says it.
+- **Standing position:** he still says he is sixty per cent of the problem, and that a shop steward who is the only person asking has made it his own instead of the roster's, and he has still not solved it.
 
 ## Nell Ardent
 
 - **Age / role:** 39; founder of the Open Covenants Legal Clinic.
-- **Role this batch:** absent. **The department has accepted the claim arising from Lorna Vessey's delay**, which gives the Vessey family a counterparty it did not have. That is a fact she will use and not a remedy.
-- **Boundary:** she will not make the claim disappear and she is not neutral.
+- **Role this batch:** **appeared**, and acted for the Brine Wharf association rather than for the Vessey family, which nobody in the room commented on and everybody noticed. Read the appeal form out loud twice, once for the job and once so that they had it. **Will take the hearing for nothing, once, and says enforcement afterwards is £95 an hour and she is right.** Has told them the £2,000 bond is payable precisely because they will probably win.
+- **Boundary:** she is not neutral and she is not a rescue. She told a room of eleven people the appeal will probably fail and then told them to file it anyway, because the record is worth more than the settlement.
 
 ## Pia Santos
 
 - **Age / role:** 19; bicycle courier, caregiver, and route representative.
-- **Action in this batch:** refused to be a spokesperson; refused Jonas the room's consent; refused to help him withdraw his own classification; stated the demand the batch ends on — *not a count, not a survey, not a statement: who is the other end of it.*
-- **Current view of Jonas:** he came down the towpath twice without asking her for the one thing that would have made it easy, and she has not decided what to do with him and has said so.
-- **Boundary:** independent. She is not a signature on a wall and not a spokesperson, and the loft's decision to write its three positions on the wall without her was a decision to leave her off it.
+- **Action this batch:** refused Jonas twice more in front of witnesses — once for carrying a message up the towpath, once for aligning the Weir with Brine Wharf — and produced the correct procedural argument about a count in a room of eleven adults and a lawyer without being asked for it. Declined CivicCore's store offer before he could raise it. **Told him she will not be the one who tells a contractor there is a rota.** Said on the slipway that the most frightening thing anybody has said to her this month is that Aurrie will not stand up to read their own paper.
+- **Status on the card:** the seventh line. **Not asked, by Jonas's decision, and she does not know it.**
+- **Boundary:** unchanged. She is not a spokesperson, not a signature, and not on the Weir's rota.
 
 ## Oren Pell
 
 - **Age / role:** deputy registrar enforcing public-safety and emergency-service terms.
-- **Action in this batch:** withdrew the department's clean classification by argument in the records room; refused the version that makes a department the answerer for a plate; gave Jonas the cure (**a refusal to classify**); and said plainly that the two worst things in this file are a hole and a department, and that Jonas gave him the second one.
-- **Standing position:** he is on Jonas's side of the Weir argument and against his own department's, which is uncomfortable for both of them and has not been tested.
-- **Boundary:** not the fault's source, not a magical authority, and not reducible to personal villainy. A resident on the Weir has wanted a number from his office for thirty-two years and still does not have it.
+- **Action this batch:** brought Jonas into a basement to tell him a burden was landing on him rather than do it over a telephone; renewed the flood-safety order on Brine Wharf and was right about the building; **refused to let the Weir's evidence into the appeal** and said why, which cost the appeal its best argument; was forbidden from speaking when his own closure was ratified; and pointed out on a Monday morning that the Weir cannot be a party to anything, because a party needs a name on a register.
+- **Standing position:** **now a partial ally who is also the reason the Weir's problem is unappealable.** He has never once been thanked and has not asked.
+- **Boundary:** still not the fault's source and not reducible to villainy. A resident on the Weir has wanted a number from his office for thirty-two years and still does not have it.
 
 ## Royden Achebe
 
 - **Age / role:** 49; NDC field services manager.
-- **Action in this batch:** wrote the answer the city could afford, read it aloud, **withdrew it by name at 10:09** when Oren showed that a department cannot be the holder of a plate; and lodged the **non-civic classification** on 22 March under Jonas's reporting officer number.
-- **Current position:** he is the author of the recommendation that will take the Weir out of scope, and he has not yet said so to Jonas in person.
+- **Action this batch:** withdrew a draft because a department cannot be the holder of a plate, let Jonas lose the appointment, **assigned the maintenance claim to the nearest responsible maintenance route in the file**, and then, thirty minutes later, **took the interim lowland post in his own name** when Jonas refused it, on the argument that a man can hold a plate and a department cannot.
+- **Current position:** he is now the answer on a file of his own authorship, by accident, and he knows exactly what that is. He has undone his own 14 March principle in public and defended it as the same principle.
+- **What nobody says:** it is the worst of the available outcomes and nobody in the building can say so in a minute.
 
 ## Nina Calder
 
 - **Age / role:** NDC records supervisor. Countersigned the responsibility bond as records.
-- **Function in this batch:** refused to draft the answer and would only minute and file it; made the withdrawn draft a minuted fact with a name and a time; read every version aloud before it went; put the six-word form on her desk face down and let Jonas fill it in without telling him which way to go; told him plainly that a blank in a box is a hole with a line round it and that the hole will come back to her.
-- **Position now:** she has said she will not be the instrument of a quiet settlement and she has also said she will not be the person who picks a side on the six words. Both were true on the same afternoon.
+- **Action this batch:** refused to draft the series 6 response twice, filed it, read the waiver's operative sentence to Jonas's face, **asked him the question she is obliged to ask before a fourth refusal** — reason or mood — and wrote his three-part answer into the minute in the order he said it, and said it would be on the public board on Monday with the time on it, and did that.
+- **Position:** she has now minuted the refusal of a contract, the words of five people, and a woman's reason for not wanting a clause, and she has not once been asked which side she is on.
 
 ## Gunnar Halvorsen
 
-- **Age / role:** service manager, Saint Orra Civic Hospital west site administration. A working service manager with a real gap on his own rota.
-- **Action in this batch:** signed the **rostering exception** correcting Ruth Nwosu's hours to 22:00–11:00 from 15 March, the only thing he has signed in eleven days, and said it does nothing for nineteen years. Entered in his diary: **the ninth of next month, west site board, matters arising, forty minutes, the retrospective retainer.** He has asked Jonas for the paper on the loft wall and nothing else, and for no form and not the boy.
-- **Open on his desk:** the retainer, still unsigned, with the ninth of next month as a diary entry and not a cheque.
-- **What he said that matters:** *a claim with nobody on the other end of it attaches itself to the nearest person or place that can be reached.* He is a man who has run out of instruments and has started naming the shape of the hole.
+- **Age / role:** service manager, Saint Orra Civic Hospital west site administration.
+- **Position after this batch:** unchanged and alone. The retainer is unsigned, CivicCore's participation fund offered and withdrew, the ninth is in four days, and the words come off the board only when a cheque clears in his office in front of her. He has not been asked to do anything and has not said no to anything.
+- **What is now standing in his corridor:** a piece of net-loft paper is going to be read at his board by a woman of sixty-one who has refused to stand up, and he has asked for the paper and nothing else and is going to get it.
 
 ## Ruth Nwosu
 
-- **Role:** bearer of the west-clinic care entrance term; Saint Orra night watch, 22:00–11:00, **corrected on the record from 15 March**.
-- **Renewals:** she has read the term aloud and renewed it three times, on 13, 19 and 24 March, and reads each one a day early and treats it as a decision.
-- **Condition she added to the bond:** she can stop any use and keep her reason, and Jonas may not ask her for it afterwards.
-- **Condition she added to the renewal:** her hours on the record say 23:00 and she has renewed the term with that written down in the box beneath it, in capitals.
-- **Unpaid labour:** the Chapter 10 half hour; the Chapter 11 hour paid by the shop's dispute fund; nineteen years that no record ever carried; and the 24 March renewal, which was a day early and unpaid.
-- **Arrears:** not computed. She has it to the day in a red diary from a newsagent in her bag, told Jonas it exists so he would know she has not been silent, and **refused the number** — *a hundred and eighteen thousand pounds would become the argument, and not me.*
-- **Limit she has set:** say on the board that the hours are right from the fifteenth, and leave the rest alone. He does not get to carry it.
+- **Role:** bearer of the west-clinic care entrance term; Saint Orra night watch, 22:00–11:00, corrected on the record from 15 March.
+- **Renewals this batch:** 22:00 on Wednesday 2 April, read by Ezra and Ruth, term to **06:00 on 8 April**. She read it at the door, was made to read it again in the middle of the corridor, and read it again.
+- **Two refusals, both in writing, both respected:** **3 April** — a back, four nights out of five — and she has now said out loud that she will do the eighth and **not the fifteenth**, and said it in the corridor so that it would be on the record.
+- **Arrears:** still not computed, still refused as a number. A contractor offered to pay them and withdrew, and she has not been told and does not need to be.
+- **Limit she has set, unchanged:** the hours are right from the fifteenth, the rest stays alone, and he does not get to carry it. She said so at ten at night to a man who had just refused something for reasons he could not write on a form.
 
 ## Dr. Sethi
 
 - **Role:** Saint Orra day-team physician. The clinic's naming authority.
-- **Open on his desk:** nothing new. The retainer is west site administration and Gunnar Halvorsen is the only signature, and the board is the ninth of next month.
+- **Open on his desk:** nothing new. The retainer is west site administration and the board is the ninth of next month.
 
 ## Mina Okafor
 
-- **Role:** west-clinic transfer clerk. Records dispositions, verification, the released slot, the twelve-minute and the nine-minute entries, and the fact that a suspended technician once opened the door.
-- **Function in this batch:** opened the door at 12:12 on 24 March on a declaration obtained nine minutes late, wrote the nine minutes into the log, put them in the public box, and gave Jonas Bram's Thursday refusal with the reason attached so that it would go on the board as a refusal and not as a birthday. She said it was a piece of information and not a complaint and that she was not going to discuss it again.
-- **Line:** *six days is somebody standing in this corridor at ten o'clock at night and agreeing to be responsible for the same thing again in six days.* She will not be the one who teaches the lines.
+- **Role:** west-clinic transfer clerk.
+- **Action this batch:** wrote Ezra Mbeki's refusal into the log as *offered, refused, twice* because he asked her to; telephoned the on-call at 04:06 and said the number out loud up front before she asked; **opened the door at nineteen minutes; and put the nineteen minutes in the public box at Marta Sowle's request.** Was in the building at 04:06 for her own reasons and has been insufferable about it since.
+- **Condition, in her own hand:** every term she witnesses is read aloud in that corridor at the handover in the same five lines; nothing goes on the public board with her name on it that has not been on the board already; **and she withdraws on 9 April if there is no cheque.** A consent with a date on it.
 
 ## Bram Osei
 
-- **Role:** Saint Orra west clinic day porter, forty-nine, six years on the doors. **Roster: 06:00–11:00, Mon–Sat.**
-- **Action in this batch:** **refused Thursday**, read the term aloud to Mina and signed the box and went home. He told Mina the reason, which is his granddaughter's birthday, and said he had told her so that the day would be recorded as a refusal and not as a birthday. **The board now reads 06:00 NO HOLDER on a weekday morning and no rule covers it.**
-- **What he has not been asked:** whether a refusal of a whole day may be covered by anybody, and whether the box should say why.
+- **Role:** Saint Orra west clinic day porter, forty-nine, six years on the doors. Roster 06:00–11:00, Mon–Sat.
+- **Status:** the board still reads **06:00 NO HOLDER** on a weekday morning. He has refused one Thursday and has not been asked anything since.
 
 ## Ezra Mbeki
 
-- **Role:** Saint Orra west clinic porter, twenty-six. **Roster: 13:30–22:00.** Witness for the Chapter 17 fallback amendment. Reads the term aloud alone at 13:30 and hands over to Ruth at 22:00.
-- **In this batch:** he is one of the two holders whose out-loud reading keeps the term alive, and he has now done it three times.
+- **Role:** Saint Orra west clinic porter, twenty-six. Roster 13:30–22:00.
+- **In this batch:** read the five lines aloud to a clerk and to nobody on the night of 3 April, **refused the Friday shift in writing**, put *offered, refused, twice* into the log, and wrote down that his mother is in the ward at the east site and that there is nobody else to go. Has not been able to put 2:40 on the eighteenth of March down since, and found a way to.
 
 ## Marta Sowle and Lorna Vessey
 
-- **Marta Sowle, ninety-one (she/her):** still on a west-clinic ward. Her request to take the issuer off the door is on the record and was granted. She has not appeared in this batch. The 02:40 event is in the public annexes of the departmental answer.
-- **Lorna Vessey, sixty-one:** her released 15:40 cardiac slot is in the same annexes, and **the department has accepted the claim arising from the delay.** The slot is still released and the next available date is still the fourteenth. It is not discharged. Nerys Vessey's condition — the slot on the board, her mother's name off it — is still in force.
+- **Marta Sowle, ninety-one (she/her):** awake at twenty to five on 4 April, in a cardigan and slippers, asked who was holding the door, and told Mina Okafor to put *holder not named, door opened on a declaration, nineteen minutes* in the public box, and told Jonas to keep his name off the door. The issuer line stays off.
+- **Lorna Vessey, sixty-one:** her released 15:40 cardiac slot is in the public annexes of the departmental answer and the department has accepted the claim. Nothing has changed. The next available date is still the fourteenth.
 
 ## Bea Osunde
 
-- **Role:** NDC line technician, grade II, nineteen years.
-- **Function in this batch:** refused Jonas the wall cabinet, because consequence two bars him and there is no review of the review. Told him he has put three things under his own name and there are now eleven on the Weir under somebody else's. Drove ninety minutes to be a witness at a plate in a street with no address, **stopped the work over the holder field**, and told him he has stopped being the answer on that street without noticing. Last thing she said to him: *the third telling has to come from you or it does not count.*
+- **Role:** NDC line technician, grade II, nineteen years. Not to be given an age.
+- **Action this batch:** stopped Jonas being helped in the waiver room and then made him hear the cost of signing it, from the only angle he could not argue with — *he is the only man in this city anybody can point at and say you were here when it started*. Read his job card and told him a card with a subject on it is a list. **Said the fourth thing, which is hers: the bond stops him from doing work he has not named and does not stop him walking into rooms and asking people for things, the second is the actual job, there is no instrument for it, he will have to build it out of strangers without her, and she is not his conscience.**
+- **Boundary:** she will not be the answer and she will not be the conscience. She has a gate on a Wednesday.
 
-## Supporting Weir residents
+## The witness card — the six, the refusal, and the two blank lines
 
-- **Aurrie Nkemdirim, sixty-one:** runs the net loft exchange. **FOR THE APPLICATION.** Wanted a district since 1994. Refused box four because the day her name is in it the street has an owner and the owner is the one on the bank at three in the morning, and belonging to nobody is the only civic technology the street has had. Paid £39 of her own money for the sill beam out of the exchange tin without saying so.
-- **Ottoline "Otie" Beck, seventy-one:** retired district nurse, thirty-one years in the lowland, Wednesday clinic in the loft since 1998 with four people and no address. **FOR CARRYING ON UNNUMBERED.** Names the hazard before anybody asks. Sponged a four-year-old with a fever for four hours off the loft's own boiler on 21 March and mentioned it once. **Now holds the tin** with the lead seal and the beam, unlabelled, in her spares, on the stated ground that there is not a registrar alive who would come up that path and take an inventory of a seventy-one-year-old district nurse's spares tin.
-- **Margo Doré, sixty-three:** keeps the forty-slot water rota; the board's 40 is minutes a day, not households, and a water authority man put 40 into *households served* nine years ago. **FOR THE COUNTY PUMP.** **ISSUER of the Weir stand term as keeper of the rota**, having refused to be a category and consented to her name only because a plate will not hold a role. **Carries the unpaid claim on 6-L/19.** Refused box four in writing. Found the lapsed term five days after it lapsed and told nobody for three days, and then told Jonas because he wrote the sentence.
-- **Bo Trimble, seventeen:** does the pipework, is not on the tool rota, and is right about the pipe. His four hundred and ten millimetres held. Named where the hurt is: the bank. **Refused to carry two letters up the path for Jonas.** Said withdraw the classification and let the review ask.
-- **Hector Mbatha, seventy:** **THE WEIR. 59 DOORS. DRAWN BY H. MBATHA, 24 MARCH.** Counted the doors every April for thirty-two years, from 61 to 59. Wants the number and refuses the number: *the difference between a number you count yourself and a number you are given is the difference between a man and a subject.* **Refused box four.** **Asked to hold the tin and refused to hold it**, because a thing that is held is a thing that is yours.
-- **Wesley Kpomah, forty-four:** tool rota, terminal shifts. **Tightened the coupling because the wrench belongs to the rota.** **Refused his Wednesday slot on the stand in writing on the board**; the stand ran twelve minutes instead of twenty-two and the ten minutes were not made up. Works the stone in the day, not at night, no reason asked for.
-- **Perdita Sow, forty-four:** borough road sweeper. **Not on her round.** Has swept that road on Sundays for eleven years, unpaid. Took the sixth seat on the bank because it is a habit and not a decision, and brought her own lamp and would not let anybody else hold it. Was alone on the bank at 02:10 on 22 March and rang the loft to say two words.
-- **Delphine Ofori, seventy-eight:** the holder in the first slot on the stand rota. Closed the stand herself at 01:00 on 21 March, saw the water run brown, crossed the slot and wrote the time on the board. Was in bed at 02:30 and is the reason the term was still alive that morning.
+- **Emeka Rusk, pump operator, docks, twenty-six years:** said yes in a yard, read the five lines back twice, and said he would rather be named than be the man who is not there. First witness recruited.
+- **Nora Bell, Saint Orra crossing guard, nineteen years:** gave a standing appointment, Tuesday 14 April, half past three, and refused to give the ninety seconds without the week. Has not signed anything and may not be asked to.
+- **Roz Idris, year five, Gantry Fields:** said yes to being told a service is failing, and not to being told so by the person who wants it fixed, and not at all for anything a child is inside.
+- **Kofi Sarr, Saint Orra platform dispatcher, twenty-one years:** said yes in four seconds to witnessing a platform, and would not say what he would not witness a passenger for, and it turned out on the fourteenth of April to be exactly that. He has been asked the second question twice by men in good coats.
+- **Fola Adeyemi, market cook, fifty-nine, twenty-two years at the griddle:** **REFUSED, in writing, in full, on the card.** Four things that can be served on her. Then acted anyway, in her own role, mended a hatch with her name in the issuer field, and took a brass tag out of a hinge because Jonas is not allowed to keep it.
+
+## The Weir residents
+
+- **Aurrie Nkemdirim, sixty-one:** FOR THE APPLICATION. **Has read the whole of what the man from Saint Orra asked for, and will read the loft's paper to the west site board on the ninth, and has refused to stand up while doing it**, because a woman of sixty-one standing up in a hospital boardroom is a petition and a petition gets filed. Took Selah Mora's daughter at eleven o'clock at night without being asked and does not want it in a document.
+- **Margo Doré, sixty-three:** FOR THE COUNTY PUMP. Issuer of the Weir stand term. Put the telephone down on Jonas for the first time. **Has four tonnes of stone still to buy and about ninety pounds, a packed trap, a boil coming back and a flood on the seventeenth.** Knows that the rota is a board and a pencil.
+- **Ottoline "Otie" Beck, seventy-one:** FOR CARRYING ON UNNUMBERED. Still holds the tin. Unmentioned in this batch, which is the correct treatment.
+- **Bo Trimble, seventeen:** **is now findable.** He took the weir stand term from Delphine Ofori on 5 April, at seventeen, after saying no to being told what it was, and he will be served there for the rest of it, and he knew that and there was nobody else. Still not on the tool rota. Still refuses to carry letters up a path.
+- **Hector Mbatha, seventy:** **on no line, and has not been asked again.** His pencil map is clipped to the Old Ward board frame and Jonas has now walked past it three times without touching it and knows why.
+- **Wesley Kpomah, forty-four:** refused his Wednesday slot in writing again. Was not at the Sunday renewal. Not asked.
+- **Perdita Sow, forty-four:** not in this batch. Her Sundays are hers alone.
+- **Delphine Ofori, seventy-eight:** **renewed the weir stand term on 5 April at about twenty to ten on a Sunday night, out loud, to a boy of seventeen, and shut the stand at 19:20 on 27 March and wrote the time in pencil.** The civic apparatus on that street is one pencil and one woman of seventy-eight and it is not a system and it is holding.
+- **Ferdy Oduya, thirty-four**, holds the second refuge-store key at Brine Wharf, works nights, and is the person who would be called at two in the morning. He held a datum block steady for forty minutes while a technician made the closure more certain. **Is not a Weir resident and is not on the Weir's rota and has not been asked about anything.**
+
+## Supporting cast new in this batch
+
+- **Ceri Vaughan, forty-five,** CivicCore continuity counsel. Made the four-part offer and recorded it as refused. Courteous, exact, and the only person in the batch who refused to say Ruth's number out loud.
+- **Alden Rook, forty-six,** CivicCore operations director. Carries a ledger. Right about enough that Jonas could not dismiss him, and right about the lowland for reasons Jonas could not argue with. Asked for one thing and was refused it.
+- **G. Raynor-Hale,** CivicCore field technician, twenty-something, who fixed a Bridge Street barrier gate in forty minutes and was courteous about it.
+- **Adaeze Mbeki-Griswold**, deputy head of Tarn Street Primary, who left in November and emptied a continuous term. She is the reason a latch was a latch for eighty-two days.
+- **Morah Bonsu, fifty-one,** head teacher, Tarn Street Primary, who named a porter in January and wrote to the education office asking them to make it a procedure so the next one is not a man in a shed.
+- **Yasmin Rohan, fifty-three,** Brine Wharf residents' steward, eleven years, holder of the refuge-store register and one of two keys. Declined CivicCore in one sentence. Wrote her own name in the fourth line of a form and read it out to nobody.
+- **Harminder Bhullar,** borough environmental health officer, who held a food-safety hold on a market cold store for a day and lifted it in person at twenty past eleven.
+- **Councillor Fenella Marsh,** chair of the series 6 maintenance review, who asked Jonas to read a line and let it go when he would not.
+- **Councillor Adaeze Farrant,** Speaker of the Civic Assembly, who enjoyed refusing a motion for half a second.
+- **Councillor Iven Sore,** Continuity Bloc leader, who got the Weir's paper into the record, moved a motion knowing she would lose, and said in a corridor that she wants the contract passed in June and does not believe the city can keep naming people one at a time until the water comes.
 
 ## Evan Mercer and Nadia Mercer
 
-- **Evan:** absent. Two cold-chiselled letters, **E·M**, on the sound cheek of a rotten beam, and paint on concrete under an eleven-year-old district ironworks seal. Jonas wanted them to be his and the dates say they are most likely a fitter's. He has told nobody in the department and may not put them in a file.
+- **Evan:** absent. Two cold-chiselled letters, a paint line under an eleven-year-old district ironworks seal, and now a brass tag stamped with the same eleven-year-old Continuity Project mark from a hinge in a market. Three objects, one works, one year, and none of them is a father. He is in an apron pocket in Bellow Market and in a tin in a loft and in neither place is he Jonas's to keep.
 - **Nadia:** off-page in this batch.
 
 ## Relationship Policy
 
-One slow-burn relationship only: Jonas and Sanaa. The batch produced a professional breach that cost a patient nine minutes and a corroboration that costs nothing and is not a reconciliation. Every other close relationship is family, friendship, labor, civic alliance, professional opposition, or an unresolved local disagreement. **No romance has begun and none may begin before Volume 8.**
+One slow-burn relationship only: Jonas and Sanaa. This batch produced the best argument in the city for the document he refused, made by the woman he has not certified, to a room that wrote it down; and a nineteen-minute door opened at twenty to five in the morning by a doctor who was not on any rota. No romance has begun and none may begin before Volume 8.

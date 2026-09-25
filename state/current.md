@@ -2,95 +2,87 @@
 
 Current controller phase: phase-003-prose
 
-Writing-run status: Chapters 1–30 complete; controller closeout and ledger ownership remain with GitHub Actions.
+Writing-run status: Chapters 1–40 complete; controller closeout and ledger ownership remain with GitHub Actions.
 
 Current volume: 1
 
-Current batch: 3 (prose complete)
+Current batch: 4 (prose complete)
 
-Last completed chapter: 30
+Last completed chapter: 40
 
-Last batch summary: `state/batch-summaries.md` — Volume 01, Batch 0003
+Last batch summary: `state/batch-summaries.md` — Volume 01, Batch 0004
 
-Next planned batch: Volume 01, Batch 0004, Chapters 31–40; prompt at `workspace/volume-01/batch-0004/PROMPT.md`.
+Next planned batch: Volume 01, Batch 0005, Chapters 41–48; prompt at `workspace/volume-01/batch-0005/PROMPT.md`.
 
 ## Active threats
 
-- The twelve-year Reclamation Season begins in three months. **The Reclamation Season maintenance review is on 1 April.** The Old Ward public board shows the central root holder field empty, the review line, and — four inches below it — a line Jonas caused: **SERIES 6, NODES 6-L/14, 6-L/19 — RECOMMENDED CLASSIFICATION: NON-CIVIC PLANT. OUT OF SCOPE IF ACCEPTED.**
-- **The classification is Jonas's own six words.** On 14 March, at 12:41, in the records room, he wrote *6-L/14 — NON-CIVIC PLANT. 6-L/19 — NON-CIVIC PLANT* into a departmental form whose box wanted six words. If the review accepts them, both lowland nodes leave the review and the Weir leaves the city's obligations without anything being taken away.
-- **The series 6 response is due 28 March** and Jonas cannot open cabinet 6-R-14 (consequence 2 of the registrar's answer) and cannot open drawer four (grade III), so the cards are unavailable. He will write that the maintenance history could not be produced, and the reason it could not be produced is a lead seal and a beam in a tin in the loft.
-- **The department's proposed pre-review physical inspection at 6-L/14 and 6-L/19 is unperformed and unmoved.** Oren Pell has given Jonas the only cure that does not put his name on a lie: a **refusal to classify**, on the ground that the local custodians were asked for a statement of function and declined. **The Weir has refused to help him write it.** As of Chapter 30 it is unfiled.
-- **The Weir stand term has lapsed.** Issued 17 March, expiring fourteen days from the reading *or the completion of the barrier work, whichever is sooner*; the barrier work completed at 13:30 on Friday 21 March, so the term expired then. Since Monday the tap runs by itself and the plate no longer asks the rota anything. It can only be renewed by the holder on the rota reading it aloud to the next holder on the rota, and Jonas cannot do it and is not on the rota.
-- **The barrier is repaired and honestly limited.** New ash sill, new pintle, new stops, four tonnes of stone on a bank cut back two metres. It held a four-hour spring flood on 22 March. **It will not hold a surge**, and there is no name on the line for the next flood.
-- **Lorna Vessey's released cardiac slot and Marta Sowle's fall remain on the record in five places each.** The registrar's answer names both in its public annexes. The claim arising from Lorna Vessey's delay is now **accepted by the department**, not by Jonas, and has not been discharged.
-- The old-canal shelter is closed. The old pump and water line are closed. The bridge's south span is isolated. Do not reopen any of them.
+- **The continuity contract is delayed, not defeated.** The Civic Assembly referred it back to the Standing Committee on Civic Continuity on the first of April, **to report by 2 June**. No clause struck, no clause approved. CivicCore keeps the network. The NDC keeps a queue with a **median of nineteen days** and two fewer crews since Monday the twenty-ninth.
+- **The Reclamation Season maintenance review split the classification.** **6-L/14 (the flap gate and chamber) is accepted as non-civic plant and leaves the review. No civic claim attaches to the chamber or the bank.** **6-L/19 (the Weir stand) is not accepted, remains in scope pending physical inspection, and no inspection is scheduled — no location of record.** The barrier is now officially nobody's, and the inspection that would have put a name on the tap cannot be arranged by anybody.
+- **Oren Pell's cure is still unfiled.** A refusal to classify. Jonas cannot write it because the Weir has not consented to being described. As of Chapter 40 it does not exist.
+- **The interim lowland maintenance post was filled against Jonas's refusal.** He declined in the room, minuted. **Royden Achebe took the post in his own name**, on the argument that a department cannot hold a plate but a man can, and that the department would have been thrown out inside a week.
+- **An unclaimed burden is now written onto Jonas by name.** Royden Achebe assigned the west-clinic care-entrance maintenance claim, in writing in the series 6 file, to the nearest responsible maintenance route. It cannot be transferred to a department and cannot be discharged by intention. This is the third in a month (the Weir's water, the Brine Wharf store, the gate).
+- **The Weir stand term was renewed on Sunday 5 April** by Delphine Oferi reading it aloud to Bo Trimble, and now runs to **06:00 on 19 April**. A slot was refused in writing and not made up. **The trap is packed, the tarp is off the intake grille, the boil is back, and there is a flood forecast for 17 April.** Nobody is on the bank line. Four tonnes of stone are still owed.
+- **Brine Wharf is closed and emptied.** The refuge store's contents are in a lock-up on Marsh Lane with a keyholder on a seven-to-seven clock. The appeal panel sits **23 April**.
+- Lorna Vessey's released cardiac slot, Marta Sowle's 02:40 event and eleven minutes on the corridor floor, and the 24 March nine minutes all remain in the public annexes of the registrar's answer. None is discharged.
 
 ## Active promises
 
-- **The responsibility bond is posted and named to one hinge: the Saint Orra west clinic care entrance.** Tomas Renn stopped Jonas's Weir work by telephone under its scope clause on 17 March and refused to extend it. Bea Osunde stopped it a second time over the holder field. The bond is the mechanism and it still works.
-- **Jonas's maintenance claim on the west-clinic care entrance is unpaid.** It was neither discharged nor transferred by the registrar's answer, because a department cannot be a holder of a plate term. It ends when a named successor steward accepts the maintenance or the term expires.
-- **The seam mark now runs past the elbow and about two inches into the upper arm.** The right hand is numb to the elbow and will not close. He is slower than he was.
-- **The clinic term is renewed only at a handover, out loud, by the named bearers.** Renewals: 22:00 on 13 March, 22:00 on 19 March, 22:00 on 24 March. The current term **expires 06:00 on 30 March.** Ruth Nwosu reads it a day early each time and treats each reading as a fresh decision, not a formality. Mina Okafor: *six days is somebody agreeing to be responsible for the same thing again in six days.*
-- **The 11:00–13:30 gap is still published and still unfilled.** On 24 March the emergency clause called Sanaa at 12:02 and she did not answer for nine minutes, because that was the day she named. The log carries the nine minutes. The clause works exactly as written.
-- **Bram Osei has refused Thursday.** The board says 06:00 NO HOLDER on a weekday morning, because the roster does not say who covers a refusal.
-- **Ruth Nwosu's hours are corrected to 22:00–11:00 from 15 March** by a signed rostering exception, Gunnar Halvorsen's only signature in eleven days. The nineteen years are not settled, not computed, and refused as a number by Ruth herself.
-- **The Bellow Market retainer is outstanding.** **The west site board sits on the ninth of next month**, item *matters arising*, forty minutes, and Gunnar Halvorsen has committed one of them. The line **retainer requested in writing of Saint Orra west: not yet agreed** stays on the board until a cheque is written. Nobody may fund it, and nobody may take the words off early.
-- **Tomas's fourth prerequisite is still unanswered.** On 24 March he asked it in person, once, and then told Jonas not to answer it. He said he is sixty per cent of the problem because a shop steward who is the only person asking has made it his own instead of the roster's.
-- **The Weir's three-way disagreement is unresolved and is now on a wall with names on it:** FOR THE APPLICATION — Aurrie Nkemdirim; FOR THE COUNTY PUMP — Margo Doré; FOR CARRYING ON UNNUMBERED — Ottoline Beck; and **THE BANK — no name yet**, with a ring drawn round the blank space on purpose. Hector Mbatha is on no line and has refused the number he carried for thirty-two years.
-- **A demand is now standing that the Weir will not withdraw:** *who is the other end of it.* Not a count, not a survey, not a statement. Somebody in the city with an address, a door, and a name a letter can be left with, who can be told the water on that street is theirs to answer for, without putting a resident in a list.
-- **A door is open in the city:** Gunnar Halvorsen will spend one item of *matters arising* on the ninth on the thing the loft wrote on its wall. He has asked for the paper on the wall, for nothing else, and not the boy and not a form.
-- Selah Mora's sealed log is unchanged and unopened. Jonas has not asked again and has not been near it.
-- Evan, Iona, the proxy, the second signature, the public administrator title, and the blank-bearer request remain unspent.
+- **The west-clinic care term is renewed to 06:00 on 8 April** (read aloud at 22:00 on Wednesday 2 April by Ruth Nwosu and Ezra Mbeki). **Ruth has told Mina Okafor she will do the eighth and not the fifteenth**, and has said it out loud in the corridor so it is on the record.
+- **The 11:00–13:30 gap is still published and unfilled.** **Bram Osei's refused Thursday still reads 06:00 NO HOLDER** on the public board.
+- **The 19 March emergency opening and the 4 April opening are both on the board.** The 4 April entry, at Marta Sowle's request, reads *holder not named, door opened on a declaration, nineteen minutes*. Marta also asked that the issuer's name not go back on the door.
+- **The Bellow Market retainer is still unsigned.** Halvorsen has a diary entry for the ninth and a cheque that does not exist. **The words come off the board only when a cheque clears, in his office, in front of her.** The CivicCore participation fund offered to pay it and withdrew at 10:10 on the twenty-ninth of March.
+- **Tomas Renn's fourth question is now answered in practice four times and in principle not at all.** On Friday 3 April two people on the same rota refused, the plate said HOLDER NOT NAMED, and the door opened at nineteen minutes because Mina Okafor happened to be in the building and Dr. Iqbal happened to be at her kitchen table. He has asked Jonas to decide in advance whether he will be able to say that in four months' time. He is not to be filled with Jonas and has not been.
+- **The Weir's demand stands and has not been withdrawn**, and the paper is now in a city document: **the loft's eleven lines were received by the Assembly on 1 April and are in the public record.** The loft has decided it goes to the west site board on the ninth unedited, read by Aurrie Nkemdirim, and that she will not stand up to read it, because a woman of sixty-one standing up in a hospital boardroom is a petition and a petition gets filed.
+- **Nell Ardent will take the Cooper's Reach appeal for nothing, once.** Enforcement afterwards is £95 an hour. The £340 deposit is in. The **continuation bond of £2,000 is payable if the appeal fails, which it probably will be.** Yasmin Rohan has written one name — her own — in the fourth line of the form, and the other ten flats are not represented and are not on any list.
+- The Weir's three-way disagreement is unresolved. Bo Trimble taking the stand term does not touch it: he took a renewal of a term that already existed, and the bank line still has a ring round a blank space and nothing inside it.
+- Selah Mora's sealed log is unchanged and unopened.
 
 ## Current relationship pressure
 
-- **Jonas and Sanaa:** professionally wary with a fresh breach and no reconciliation staged. She paid the price of the clause she signed and told him so in the record, in three parts, on a ramp. He cannot open the door and did not try. That is the whole of what has moved.
-- **Jonas and Tomas:** the bond stopped him twice in one week, and the fourth prerequisite is now a thing Tomas has asked out loud and forbidden an answer to. Tomas is also holding the knowledge that Jonas's six words are the pressure on the Weir.
-- **Jonas and Ruth:** asked properly, at last, about something that is not the door. She refused the number and told him about the red diary. She is not his convenience and the term is not his.
-- **Jonas and Bea:** she has told him twice that he has stopped being the answer on the Weir and has not noticed, and that the third telling has to come from him or it does not count.
-- **Jonas and Pia:** she refused to be a spokesperson, refused him the room's consent, refused to help him withdraw the classification, and stated the batch's demand. She is not his guide and he is not her instrument.
-- **Jonas and Selah:** she pressed the retainer herself and does not need him. He may not fund it and may not speak for her.
-- **Jonas and Oren:** the registrar is now on his side of the argument and the department's own field services manager is against him. Oren is not a rescue; he is the man who wants a name in a box for a different reason.
-- **Jonas and the Weir residents:** Aurrie, Margo, Bo, Ottie, Hector and Pia each keep the right to disagree and each has now used it against him on the page.
-- **Nell Ardent** is still acting for the Vessey family and has not appeared. The department's acceptance of the claim gives the family a counterparty, which is a fact Nell will use and not a remedy.
+- **Jonas and Bea:** the third telling happened and came from him. She did not accept it as sufficient and told him the thing he needs is to say it to somebody who does not care whether he has said it, and that she is not his conscience and there is no instrument for the job.
+- **Jonas and Tomas:** Tomas read the witness card upside down in the yard and told him the refusal he wrote down in full is the one he is proudest of and the one in the wrong direction. He has still not solved the problem of being the only person asking.
+- **Jonas and Sanaa:** no reconciliation. She said in front of five witnesses that the waiver is the best argument for it anybody will make in ten years and that she does not want it, and asked for it to be minuted that she said no for her own reasons. She was then called at 04:06 on 3 April and answered on the second ring, and the number was thirteen minutes against nine, and she has said the difference is her and not the design.
+- **Jonas and Pia:** he has decided not to ask her to be a witness and has written nothing on the seventh line of the card. She has told him that the most frightening thing anybody has said to her this month is that Aurrie will not stand up to read their own paper.
+- **Jonas and Oren:** Oren brought him into a basement to tell him a burden was landing on him rather than do it over a telephone, refused to let the Weir's evidence into the appeal because the record is unreliable, and ratified his own closure without speaking.
+- **Jonas and Halvorsen:** the ninth is in four days and the paper goes unedited.
+- **Jonas and Ruth:** she has refused a shift in writing, twice, and said the reason aloud so it went on the board as a refusal and not as a birthday or a back.
+- **Jonas and the Weir residents:** he was asked to wait at the bottom of the slipway while the rota renewed the term, and did.
 
 ## Current power state
 
-Jonas is **Stage 2, rule mender**, at the same limit and now shown it from the other side. He can restore one missing field at a local plate and amend one clause at a plate he has already worked. He cannot renew a term he did not issue, cannot be the issuer where a local holder has standing, cannot act without a witness, cannot reconcile nodes, read the root, or write a root clause.
+Jonas is **Stage 2, rule mender**, unchanged in capability and changed in standing. In Chapter 39 he performed his second bounded civic edit at a hinge he did not issue, under a local holder's instruction, with a witness who could state the cost: **one field, precedence only, at the Bellow Market cold-store hatch, issuer the market's working chef, claim unpaid.** He declined three civic repairs this batch for want of a witness, a holder, or a room, and each refusal was correct. He still cannot renew a term he did not issue, cannot read the root, and cannot make anybody consent.
 
-The batch produced the first term he mended that he is **not** the issuer of, and the first term that was written by a person who is **not** him and expires to a rota. His competence produced the Weir's worst problem (the classification) and his compliance with procedure produced the stand's (the clause he read aloud). Both are on the record and neither is resolved.
+## Completed service consequences — Chapters 31–40
 
-## Completed service consequences — Chapters 21–30
-
-- Chapter 21: coupling fitted to Bo Trimble's specification (410 mm cut-back) and tightened by a tool-rota member; joint holds. Not the barrier.
-- Chapter 22: the registrar's answer filed publicly at 11:44 on 14 March; consequence one to four as listed; the non-civic classification initialled at 12:41 the same day; the clinic term renewed at 22:00.
-- Chapter 23: ordinary inspection of the chamber; two sets of bolt holes; the 6-L/14 plate and its one legible condition line. No civic edit.
-- Chapter 24: Hector's door count produced in the room and refused; the stand's rota board unit error identified; the inspection location description written and corrected at Aurrie's insistence. No civic edit.
-- Chapter 25: **one bounded civic edit at the Weir stand — precedence only, at 6-L/19.** Issuer: the holder on the rota, keeper M. Doré. Witness: Margo Doré, Bea Osunde, Ottie Beck. Term: fourteen days or completion of the barrier work, whichever is sooner. Renewal only by the rota reading it aloud to the rota. Claim unpaid. **Expired 21 March, 13:30.**
-- Chapter 26: no pump, no mason, no marine crew; £620 committed; the water rota's tin covers the rest and is short; the county form's box four left blank in writing by all three people who could have signed it.
-- Chapter 27: the sill beam of the lowland dip chamber cut out; a new ash beam and a new pintle fitted; the flap set to shut on the flood and observed to shut itself at 02:10 on 22 March; the bank revetted with four tonnes. A lead service seal (6-L/14, XI·17, S&D IW) and a painted instruction (*do not close on the ebb; close on the flood*) and a cold-chisel **E·M** found under the frame. The seal and the beam are in an oilcloth envelope in an unlabelled tin in the loft, held by Ottie Beck, not by the department.
-- Chapter 28: the loft's public statement on the Old Ward board; the classification lodged; Oren's cure named; the Weir's demand stated.
-- Chapter 29: Ruth's hours corrected from 15 March; the 24 March emergency opening delayed nine minutes; Bram's Thursday refusal on the board; the second map.
-- Chapter 30: the lapsed stand term discovered five days late; the series 6 response drafted and read to three people outside the department; the service question put.
+- Chapter 31: CivicCore's four-part offer made and left open; the Weir stand closed by Delphine Ofori at 19:20 on 27 March with a pencil time on the board.
+- Chapter 32: the series 6 response filed 28 March; Rook's demonstration at Morrow Fields Plot 6 (forty-seven days against four hours forty), Tarn Street Primary west gate (continuous term, empty from 12 November to 3 January, a porter named in January), the Gantry Ward service floor, and Wren Court in Salter's Yard.
+- Chapter 33: **the blanket continuity waiver refused** in person, minuted, public on 30 March. Appointment declined. The maintenance claim assigned to the nearest responsible route. Two CivicCore crews off the Saint Orra queue. The term renewed at 22:00 on 29 March, to 06:00 on 4 April.
+- Chapter 34: **Brine Wharf closed under a renewed flood-safety order**, effective 18:00 on 30 March; eleven flats to the Anchor House hostel for twenty-one nights; the refuge store emptied to Marsh Lane. Jonas measured 54 mm against the registrar's 51 and made the closure more certain, not less.
+- Chapter 35: the Cooper's Reach appeal lodged; hearing 23 April; £340 deposit; £2,000 bond; one name on the form. CivicCore's store offer declined in one sentence.
+- Chapter 36: the review split the classification; the contract delayed to 2 June; the Weir's paper received; Sore's motion lost on standing orders; the interim post declined by Jonas and taken by Achebe; the Brine Wharf order ratified.
+- Chapter 37: two witnesses recruited, one refused in writing, one set conditions. No civic edit.
+- Chapter 38: two refusals on one rota, the plate closed, nineteen minutes, baby out at thirty-one minutes. The term was live and made no difference. **Handrail rebolted 5 April; ramp light still out.**
+- Chapter 39: the cold-store hatch mended, one field, precedence only, issuer the market's working chef, claim unpaid. The **brass service tag** stamped *C.P. SERIES 6 · LOWLAND WORKS · XI·17* and inked *6-L/14 · 6-L/19 · 6-40 — SET OF THREE — RETURN ALL THREE* is in Fola Adeyemi's apron pocket. Jonas does not have it and may not.
+- Chapter 40: the job card with seven names and two blank lines; the stand term renewed by the rota to 19 April; Bo Trimble findable; a flood forecast for the seventeenth.
 
 ## Custody and consent
 
-Selah Mora keeps the old-canal shelter's sealed full return-of-care and route log, unchanged and unopened since Chapter 8.
+Selah Mora keeps the old-canal shelter's sealed full return-of-care and route log, unchanged and unopened.
 
-The Weir's practice has its own limits and they are now explicit: no names, no photographs, no institutional promise without local agreement, and no use of the sealed log (Pia's four conditions, kept). Residents control their own identities. The loft's civic plate was taken down by a resident and dropped in the canal; nobody will say who scraped the watch term on the remaining plate. The four-thread tokens are still carried and still unexplained.
+**The Weir's lead seal and beam remain in the unlabelled tin in the loft, held by Ottoline Beck.** Nobody on that street has told the department, the county, or a contractor that it exists. Jonas may not photograph it, write 6-L/14's serial in a departmental document, or keep it. **Fola Adeyemi's tin under the cook-house counter is a different tin and holds a different object; the two must not be confused.**
 
-**The lead seal and the beam are held by Ottoline Beck in an unlabelled tin in the loft.** The Weir's rule: nobody on that street is to tell the county or the department it exists, and the answer if asked is that the loft keeps a tin. Jonas may not photograph it, write its number in a departmental document, or keep it.
+The Weir's practice limits are unchanged: no names, no photographs, no institutional promise without local agreement, no use of the sealed log.
 
 ## Immediate next-batch goals
 
-- Open the contractor's bargain from the Weir work and the series 6 line. Chapters 31–36 hold CivicCore's direct offer, Rook's demonstration, the blanket continuity waiver, Jonas's refusal, the Assembly vote, and the separate Lowglass clinic-and-housing annex closure with its new appeal.
-- Do not reuse the old-canal shelter. The annex is a new site.
-- Keep the west-clinic gate running on its local term. The term expires 06:00 on 30 March and cannot be renewed by Jonas, the department, or a manager.
-- The 11:00–13:30 gap, the unsigned retainer, and Tomas's fourth question all stay open.
-- Ruth's arrears, the nine minutes on 24 March, Lorna Vessey's released slot and Marta Sowle's fall are all on the public record and none of them is discharged.
-- Jonas's appointment review is deferred to a review of the review and is blocked on a cabinet he may not open.
-- Do not explain the Quiet Cut, the civic erasure, the community-watch term's origin, Evan, or Iona. The two letters and the eleven-year-old seal are seeds and are not an answer.
+- Chapters 41–48 close Volume 01 with **Nine witnesses** and **The map with a blank centre**. The surge, the coalition completing, the map and the public title remain unspent.
+- The coalition has **six of nine** at the end of Chapter 40: Nora Bell (crossing guard, 14 April), Mina Okafor (clinic clerk, conditions, withdraws on the ninth if there is no cheque), Emeka Rusk (pump operator), Teo Vlah (mechanic, machines only), Roz Idris (teacher, not for anything a child is inside), Kofi Sarr (transit dispatcher, platforms not passengers). **Fola Adeyemi has refused and her refusal is written on the card.** **Pia Santos and Dr. Sanaa Iqbal have not been asked.**
+- **Nora Bell is a standing appointment, not a signature.** Nobody may convert it into one.
+- Keep the west-clinic gate running on its local term. **It expires 06:00 on 8 April and Ruth has refused the fifteenth.**
+- The Weir stand term expires **06:00 on 19 April** and a flood is forecast for the seventeenth. The trap must be cleared on a low-water Wednesday at 05:05 by two unpaid people, or the boil returns.
+- The **ninth of April** is the west site board: the loft paper, forty minutes of matters arising, and a cheque that may not exist.
+- The **23 April** appeal panel and the **2 June** committee report are both live deadlines inside the volume.
 
 ## Status
 
-The batch is complete. The barrier is repaired and honestly limited, the Weir's water point has a term that has already expired, the registrar's answer is public and expensive, and the pressure the second half of the volume runs on was written by the protagonist himself in eleven minutes. Chapters 31–36 open the contractor's bargain; Chapters 37–40 begin the nine-witness coalition.
+The contractor's bargain is open, spent, and refused. The city is more entangled than it was on Wednesday the twenty-sixth of March: a contract delayed to June, a plant gate with no owner, a stand in scope and uninspectable, a refuge store on a lock-up nobody can reach, an appeal carrying one woman's name, an interim post held by the man who wrote the classification, and a piece of net-loft paper in a city file for the first time in thirty-two years. Jonas has six of nine witnesses and has decided not to ask the two he wants most.
