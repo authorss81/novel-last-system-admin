@@ -103,7 +103,7 @@ Nina Calder read the whole answer aloud, in a flat voice, in a room with a bad c
 > **Consequence 1.** The individual remains issuer of the 6-41 term and remains on the issuer line. The maintenance claim attaching to 6-41 is not discharged and is not transferred, because a department cannot be a holder of a plate term and because the bearers of 6-41 are hospital staff.
 > **Consequence 2.** The individual is removed from all gate-initiation duties at 6-41 and from cabinet 6-R-14, effective on the filing of this response, until a review of the review is concluded.
 > **Consequence 3.** The maintenance history of nodes 6-L/14 and 6-L/19 in the series 6 chain cannot be produced. A physical inspection of both nodes before the review date is proposed, at the issuer’s cost of attendance.
-> **Consequence 4.** The individual’s permanent appointment review is deferred to the review of the review and shall not be concluded before it.**
+> **Consequence 4.** The individual’s permanent appointment review is deferred to the review of the review and shall not be concluded before it.
 > **Annexes, public:** the gate log; the safeguarding form of the 02:40 event; the conflict record; the released cardiac slot and next available date; the 12:05 refusal and 12:50 declaration in the published gap.
 
 Royden Achebe signed at eleven forty-one. Nina Calder filed it at eleven forty-four and, as she promised, read the filing note aloud first, and the filing note said that a version accepting the claim had been withdrawn, and by whom, and at what time, and Nina read those four words out loud twice.

@@ -134,7 +134,7 @@ Ruth Nwosu was at the end of that corridor at two o'clock, and she had been at t
 
 Ruth Nwosu put the black key on the card table.
 
-“Nineteen years,” she said. “Two and a half hours a night, most nights, for nineteen years, and nobody has ever counted it, and I have counted it in my head every single night of my life, which is a stupid thing to have done to myself, and I am not going to give you the number and you are not going to have it.
+“Nineteen years,” she said. “Six hours a night, most nights, for nineteen years, and nobody has ever counted it, and I have counted it in my head every single night of my life, which is a stupid thing to have done to myself, and I am not going to give you the number and you are not going to have it.
 
 “And it will not be corrected. That is what I want said. Corrected means from the fifteenth of March, which means from the fifteenth of March I exist, and before the fifteenth of March I am a woman who was there, and I want that sentence kept exactly as it is. You put it in a document, Mr Mercer, and you will put the number in it, because you are the sort of man who cannot leave a thing uncounted, and if the number goes into a document it will be a hundred and eighteen thousand pounds, and the department will spend two years on it, and the two years will be about the hundred and eighteen thousand pounds and not about me, and at the end of it there will be a payment and a form and a letter saying the matter is closed.
 

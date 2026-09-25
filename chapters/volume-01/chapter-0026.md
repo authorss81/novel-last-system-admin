@@ -1,6 +1,6 @@
 # Chapter 0026 — The Terms of a Pump
 
-They met at nine on the Monday night with the tide table on the table and the green form in Margo Doré's hand, and it went on until two in the morning, and at no point did anybody stand up and leave, which Jonas understood afterwards to have been the only reason anything was decided at all.
+They met at nine on the Monday night with the tide table on the table and the green form in Margo Doré's hand, and it went on until nearly four, and at no point did anybody stand up and leave, which Jonas understood afterwards to have been the only reason anything was decided at all.
 
 The first hour was arithmetic, and Jonas did the arithmetic because he was the only person in the room who could be trusted with a sum and not trusted with anything else.
 
@@ -40,7 +40,7 @@ He looked at her properly. She was forty-four, she was on her third cup of tea, 
 
 He put the pen down.
 
-“And Hector asked me for a cigarette outside a hardware shop that same year, and I did not give him one. He told me that on Sunday, on a towpath, with a look on his face, and I stood there and let him tell me that a man had my face, and I did not say a word. That is four days I have been carrying that round with me, and I am putting it down here because I have just said the other thing out loud and I am not able to carry two of them.”
+“And Hector asked me for a cigarette outside a hardware shop that same year, and I did not give him one. He told me that yesterday, at this table, with a look on his face, and I sat there and let him tell me that a man had my face, and I did not say a word. That is a day I have been carrying that round with me, and I am putting it down here because I have just said the other thing out loud and I am not able to carry two of them.”
 
 “Did he know?” said Aurrie Nkemdirim.
 
@@ -121,7 +121,7 @@ Wesley Kpomah said, “I will be on the stone in the day. I will not be on it at
 
 Aurrie Nkemdirim said, “And I will not.”
 
-And then it was four o’clock in the morning, and there were six seats on the wall, and the people who had spoken about them were the three who had said no, and Margo, and Bo, who had been in the room since half past six on the Friday before, and Perdita Sow, who had not spoken once in the four hours she had been sitting at the end of the table. She put her cup down.
+And then it was not much after one in the morning, and there were six seats on the wall, and the people who had spoken about them were the three who had said no, and Margo, and Bo, who had been in the room since half past six on the Friday before, and Perdita Sow, who had not spoken once in the four hours she had been sitting at the end of the table. She put her cup down.
 
 “I will be on it,” she said.
 
@@ -135,7 +135,7 @@ Which left one seat and nobody in it, and Jonas, who had been standing at the ed
 
 Nobody told him to stop.
 
-“The eighteenth. Four o’clock in the morning. The tide is out. The bank is dry. That is when the paper gets read out loud in this kitchen to whoever turns up, and if there is nobody, the work does not happen, exactly as Aurrie said on Saturday. The work that happens is the bank, and the bank is not the barrier, and I want that written on the paper in the middle in the same size as everything else, because in four months one of us is going to come back here and tell a county officer that the barrier on the lowland dip has been repaired, and it will not have been. It will have had four tonnes of stone and a new sill packed in compound and a bank cut back, and the flap will still be the same flap, and the chamber will still flood at four hundred an hour at the spring, and it will be the twenty-second before anybody is out there.”
+“The eighteenth. Four o’clock in the morning, because that is what the paper says and Aurrie wrote it down on Saturday in front of all of us, and I am not going to be the man who unwrites a thing another person wrote down. But the paper has the hour in the wrong place and I am going to say so once, because I am the one who is allowed. Four o’clock is when the paper gets read out loud in this kitchen, to whoever turns up. The water is not out at four and the light is not good at four and nothing goes down that bank at four. The water is out at five past five. So the paper means be in this kitchen at four, and be on the bank at five past five, and if there is nobody at four then the work does not happen, exactly as Aurrie said on Saturday. The work that happens is the bank, and the bank is not the barrier, and I want that written on the paper in the middle in the same size as everything else, because in four months one of us is going to come back here and tell a county officer that the barrier on the lowland dip has been repaired, and it will not have been. It will have had four tonnes of stone and a new sill packed in compound and a bank cut back, and the flap will still be the same flap, and the chamber will still flood at four hundred an hour at the spring, and it will be the twenty-second before anybody is out there.”
 
 He put his hand on the paper and stopped, because there was a blank space in the middle of it and he had been about to write in it and he did not know what to write, and the room waited, and he understood that they were waiting on purpose.
 

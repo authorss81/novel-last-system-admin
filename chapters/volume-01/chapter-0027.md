@@ -12,7 +12,7 @@ Margo Doré put the kettle down.
 
 “Go on.”
 
-“The work does not go in a neap.” He put his finger on the almanac. “Saturday I told you the springs are two and a half metres and the neaps are a metre and a bit, and that the water in that chamber does not go anywhere in a spring, and I repeated it back to you as if I had thought about it, and I had not thought about it, I had memorised it off a table. Look at the low water column. On a spring low, which is tomorrow, the water goes down to two metres four. On a neap low, which is the twenty-fourth, it comes down to one metre and five centimetres and stops.”
+“The work does not go in a neap.” He put his finger on the almanac. “Saturday I told you the springs are two and a half metres and the neaps are a metre and a bit, and that the water in that chamber does not go anywhere in a spring, and I repeated it back to you as if I had thought about it, and I had not thought about it, I had memorised it off a table. Look at the low water column. On a spring low, which is today, the water goes down to two metres four. On a neap low, which is the twenty-fourth, it comes down to one metre and five centimetres and stops.”
 
 Margo did not answer for about eight seconds, and then she said, “Go on, and do not do the voice.”
 
