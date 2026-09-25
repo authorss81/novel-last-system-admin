@@ -98,10 +98,20 @@ clear_wip() {
   rm -f "$phase_dir/.checkpoint"
 }
 
+restore_controller_files() {
+  git restore --source=HEAD -- \
+    scripts/novel_runner.sh \
+    .github/workflows/novels.yml \
+    .opencode/agent/novel-writer.md \
+    .opencode/agent/novel-reviewer.md \
+    AGENTS.md PHASE_SYSTEM.md REPO_PLAN.md OUTLINE_GUIDE.md opencode.json 2>/dev/null || true
+}
+
 commit_changes() {
   local message="$1"
   git config user.name "novel-fleet-bot"
   git config user.email "novel-fleet-bot@users.noreply.github.com"
+  restore_controller_files
   git add -A
   if git diff --cached --quiet; then
     return 1
@@ -221,7 +231,7 @@ if ! commit_changes "novel: complete $phase_id"; then
 fi
 clear_wip
 
-if [ -n "${GH_TOKEN:-}" ]; then
+if [ "${DISABLE_DIRECT_DISPATCH:-0}" != "1" ] && [ -n "${GH_TOKEN:-}" ]; then
   gh api -X POST \
     -H "Accept: application/vnd.github+json" \
     "repos/${GITHUB_REPOSITORY}/dispatches" \
