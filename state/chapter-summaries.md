@@ -8,7 +8,7 @@ Jonas replaces a worn River Stacks relay, then reaches Saint Orra bridge as an a
 
 ### Chapter 0002 — A Borrowed Key
 
-At the west clinic, Sanaa needs Alma Reyes admitted while the gate rejects a valid care claim because the night-watch duty is missing from the local record. Ruth Nwosu, the working night steward, holds the physical key. Under an attended escort procedure, Alma enters observation four, the route closes after 1 minute 41 seconds, and Sanaa makes Jonas record exactly what remains unverified. A separate municipal office order suspends Jonas’s independent gate use pending local duty review; it is not a second Lattice notice. No civic term is mended.
+At the west clinic, Sanaa needs Alma Reyes admitted while the gate rejects a valid care claim because the night-watch duty is missing from the local record. Ruth Nwosu, the working night steward, holds the physical key. Under an attended escort procedure, Alma enters observation four at 10:56, the route closes at 10:57:41 after 1 minute 41 seconds, and Sanaa makes Jonas record exactly what remains unverified. A separate municipal office order suspends Jonas’s independent gate use pending local duty review; it is not a second Lattice notice. Ruth’s duty is established here as ending at the 11:00 morning-watch handover. No civic term is mended.
 
 ### Chapter 0003 — The Clause in the Wall
 
@@ -28,7 +28,7 @@ Oren’s order is valid: the old building’s wall, canopy, and water supply are
 
 ### Chapter 0007 — No One Signed the Map
 
-Emeka Rusk demonstrates that a real shared-maintenance duty survives without a current municipal term. Jonas separates the physical leak from the missing term but cannot write one into the other. Under pressure from an official headcount request, he refuses to trade resident identities for a route record. The pump remains closed, bottled water and a clinic tank are arranged, and management orders the bridge incident misclassified as hardware-only.
+Emeka Rusk demonstrates that a real shared-maintenance duty survives without a current municipal term. Jonas separates the physical leak from the missing term but cannot write one into the other. Under pressure from an official headcount request, he refuses to trade resident identities for a route record; Vann resolves the emergency tank by metered consumption instead, so the refusal costs nothing. The pump remains closed, bottled water and a clinic tank are arranged, and management orders the bridge incident misclassified as hardware-only.
 
 ### Chapter 0008 — The Man Who Filed a Fault
 
@@ -40,7 +40,7 @@ A clinic/shelter hinge makes the urgent patient route and Omar Sadiq’s nonurge
 
 ### Chapter 0010 — The City Needs a Name
 
-Under the west-lane Assembly test, a real ambulance, clinic admission, and Bellow Market shelter-to-clinic handoff run within a 90-minute attended window from 10:00 to 11:30. Unsafe side-hinge pressure leads to a physical stop followed by formal isolation at 10:31 under Oren’s order. The shelter vehicle and handoff leg end at 10:55 via a 38-minute street alternative, while the formal shelter authorization closes at 11:30. Jonas records the unresolved conflict instead of accepting a hardware-only report. The Old Ward board reveals an empty central root holder field with a Reclamation Season review line. Tomas blocks the next shared-node attempt until Jonas faces a visible responsibility bond.
+Under the west-lane Assembly test, a real ambulance, clinic admission, and Bellow Market shelter-to-clinic handoff run within a 90-minute attended window from 10:00 to 11:30. Ruth Nwosu’s duty ends at 11:00 and no successor exists to take the key, because the local record never carried her as a holder, so she stays to the expiry as a named witness, unpaid, while Mina keeps the paper and corridor from 11:00 and Dr. Sethi’s day team still comes on at noon. At the 9:58 round Selah reads the scheduled clinic run back to Jonas and names that it crosses the failed south span; he prices the taxi alternative at 38 minutes, writes the risk onto the scope, but cannot re-book her local claim and will not spend the shelter’s water money, so he leaves the run in place. When the physically stopped side service gate blocks it at 10:17, he makes Nina record the delay as three causes — the permission conflict, the stopped gate, and his own scope. Unsafe side-hinge pressure leads to formal isolation at 10:31 under Oren’s order. The shelter vehicle and handoff leg end at 10:55, while the formal shelter authorization closes at 11:30 on the test’s expiry rather than the patient’s condition. Jonas records the unresolved conflict instead of accepting a hardware-only report. The Old Ward board reveals an empty central root holder field with a Reclamation Season review line. Tomas blocks the next shared-node attempt until Jonas faces a visible responsibility bond.
 
 ## Rolling Handoff
 

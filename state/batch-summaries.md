@@ -18,11 +18,11 @@ The apparent unauthorized access is not sabotage. Pia Santos, a child with a han
 
 ### Climax and Cost
 
-Oren Pell’s valid closure forces the old-canal residents to relocate to Bellow Market. The pump inspection then keeps the unsafe line closed despite a live maintenance practice. In the final attended-service test, existing bearers keep one ambulance lane, the clinic entrance, and the shelter-to-clinic route within a 90-minute attended window (10:00–11:30). The shelter vehicle reaches the clinic at 10:55; that ends its run and handoff leg, not the route authorization, which closes at 11:30. The crew isolates a pressure fault on the failed side of the south span, records a 38-minute shelter delay, and closes every route at expiry. The service works for the window; the underlying conflict remains.
+Oren Pell’s valid closure forces the old-canal residents to relocate to Bellow Market. The pump inspection then keeps the unsafe line closed despite a live maintenance practice. In the final attended-service test, existing bearers keep one ambulance lane, the clinic entrance, and the shelter-to-clinic route within a 90-minute attended window (10:00–11:30). Ruth Nwosu’s duty ends at 11:00 with no one to hand the key to, because the local record never carried her as a holder, so she stays to the expiry as a named witness and pays thirty unpaid minutes for it while Mina keeps the paper and corridor. The shelter vehicle reaches the clinic at 10:55; that ends its run and handoff leg, not the route authorization, which closes at 11:30. The crew isolates a pressure fault on the failed side of the south span and closes every route at expiry. The 38-minute shelter delay is recorded as three causes, not two: the permission conflict, the physically stopped side service gate, and Jonas’s own scope. He priced the failure at the 9:58 round, could not re-book Selah’s local claim, and chose not to spend a shelter with no water on a taxi line. The service works for the window; the underlying conflict remains.
 
 ### Character Change
 
-- Jonas moves from wanting a clean record and a useful credential toward accepting that a safe shift and an honest report do not make him legitimate.
+- Jonas moves from wanting a clean record and a useful credential toward accepting that a safe shift and an honest report do not make him legitimate. In Chapter 10 he writes a line into an official report that works against him: he read the risk, priced it, and left the run on a failed span anyway.
 - Sanaa remains professionally independent but stops treating Jonas’s silence as agreement after he discloses the 43-minute night-transfer cost.
 - Tomas refuses an undocumented shared-node repair and places a visible responsibility bond on the next agenda.
 - Pia acts for herself and the immediate passengers without becoming Jonas’s apprentice or Lowglass’s sole spokesperson.
@@ -35,7 +35,7 @@ Jonas ends Stage 1. Fault reading shows relationships between active faults and 
 
 Selah’s sealed log contains the full route and resident identities. Each resident controls their own entry; Selah’s access is limited to completed return-of-care and immediate safety follow-up; the record expires at the next route review; later use requires resident consent. The NDC holds only a redacted custody reference.
 
-Every temporary route in the batch ran on municipal procedure rather than Jonas’s ability: the bridge attended bypass, the clinic emergency maintenance card, the attended escort procedure, and the separately inspected Assembly Emergency Service Test. The Chapter 6 union transport record Jonas did sign covers transport only; it is not the responsibility bond Tomas blocks on in Chapters 9 and 10.
+Every temporary route in the batch ran on municipal procedure rather than Jonas’s ability: the bridge attended bypass, the clinic emergency maintenance card, the attended escort procedure, and the separately inspected Assembly Emergency Service Test. That last clause also binds its own witnesses: inside a running test a named witness stays to the expiry or hands the duty to a named successor, which is why Ruth Nwosu works unpaid past 11:00. The Chapter 6 union transport record Jonas did sign covers transport only; it is not the responsibility bond Tomas blocks on in Chapters 9 and 10.
 
 ### Handoff
 

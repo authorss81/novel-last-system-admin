@@ -100,7 +100,7 @@ Alma came through the corridor with the oxygen bottle rattling against the stret
 
 Jonas told Ruth to turn the key.
 
-The lock engaged with a solid clack. He marked the end time: 10:58. The attended route lasted one minute and forty-one seconds. The next daily plate refresh would remove the temporary path because the underlying watch entry was still missing.
+The lock engaged with a solid clack. He marked the end time: 10:57 and forty-one seconds. The attended route lasted one minute and forty-one seconds. The next daily plate refresh would remove the temporary path because the underlying watch entry was still missing.
 
 Alma’s care had not disappeared when the door closed. That mattered to Jonas more than the door itself.
 

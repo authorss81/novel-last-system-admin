@@ -4,7 +4,7 @@ The old pump house sat below the canal embankment in a concrete trench that smel
 
 At 11:36, Public Works inspector Hester Vann checked the pressure gauge twice and declared the line unsafe before Jonas had taken his tools out.
 
-“That is quick,” he said.
+“That is quick,” Jonas said.
 
 “The gauge is telling you what you were afraid of,” Vann replied. “It is already at the red mark.”
 
@@ -22,6 +22,11 @@ Oren Pell stood at the top of the trench with the closure order in a clear sleev
 
 Jonas stepped into the trench. The pump plate gave him a dull flash, and the Margin appeared as a silver line between the mechanical strain and a term that had no name. The line split around two empty spaces, one beside the pump’s right to draw water and one beside the duty of maintaining the shared line. The physical leak was easy to see. The missing record was not a broken part. It was a gap between the service and the people who kept it alive.
 
+A notice surfaced across his maintenance lens, the same ceramic white as the clinic plate, and it was no more helpful than that one had been.
+
+> **Water available. Maintenance term: —**
+> **Duty present. Record absent.**
+
 Jonas touched the pump casing and looked away before the line could spread into the whole trench. Metal filled his mouth. The pulse of the pump beat behind his eyes, and the sounds above the wall arrived in fragments: fear, impatience, the scrape of a pen, and Emeka’s hand answering the casing with eleven years of practiced certainty.
 
 He set both hands on the wrench and the casing.
@@ -32,7 +37,7 @@ He set both hands on the wrench and the casing.
 
 “Vann, can you test the physical line while I stay on the casing?”
 
-“Can you stay there?”
+“Can you stay there?” Vann asked.
 
 “I can stay here.”
 
@@ -81,6 +86,10 @@ Vann recorded the pressure. “The pump cannot reopen. Not today, not until the 
 “The residents are staying in Bellow Market,” Selah said. “They need water before the next care shift.”
 
 “They will receive bottled water and a clinic-supplied tank,” Vann replied. “This is an emergency arrangement, not a right to reopen the line.”
+
+“The load is recorded as unknown,” Jonas said. “Then how does anybody size a tank against an unknown?”
+
+Vann kept one hand flat on the inspection cover. “By the meter, not the roll call. The clinic’s own recorded draw for observation four, and the ration the receiving shelter has actually drawn on its bottled supply this month. That is a measured figure. A tank does not need to know how many people it is for.”
 
 “That arrangement ends when the next shift comes,” Jonas said.
 

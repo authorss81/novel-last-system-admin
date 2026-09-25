@@ -10,6 +10,7 @@
 - **Internal want:** to remain the person who can fix the problem so no one else pays for its consequences.
 - **Current flaw:** he still treats his desire to remain useful as a reason to take responsibility faster than others can understand it.
 - **Current change:** he has begun recording the people and delays a safe route cannot erase. He has not yet accepted a visible civic claim.
+- **Chapter 10 lapse on the record:** he read the shelter run’s risk at 9:58, priced it at 38 minutes, and left the run on a span he had already failed because re-booking it would have cost a shelter with no water. He asked Nina to log it as a third cause. His honesty is real and is not yet the same thing as good judgment.
 - **Current decision:** read Tomas Renn’s responsibility bond before signing or refusing it; do not place his name in the Old Ward’s empty root field.
 - **Current risk:** management pressure, probation review, physical exhaustion, the narrowed gate-use suspension, and the temptation to use the sealed shelter route as evidence about Evan.
 
@@ -58,14 +59,15 @@
 
 - **Role:** existing Saint Orra west-clinic night-watch steward.
 - **Current state:** performs the watch with a physical key even though the local record no longer fully recognizes the duty. Under the narrowed gate-use review, she is the named bearer who must initiate an attended route before Jonas can service it; this is not permanent office.
-- **Power role in Chapters 11–18:** remains the bearer of the bounded clinic-gate permission after the first civic repair. She is not Jonas’s proxy, assistant, or displaced holder.
+- **Chapter 10 cost:** her duty ends at 11:00 and no successor exists, because the local record never carried her as a holder — the morning-watch handover is a signature with nobody to hand the key to. Mina keeps the paper and the corridor from 11:00; Ruth keeps the key until the 11:30 expiry. The day team came on at noon as scheduled. She signed the extra half hour on a shorter line, is not paid for it because the board has her signed off at six, and lost the eleven o’clock bus. She is on her second morning since the Chapter 9 night shift and has said plainly that she is not offering to be the shop’s permanent solution.
+- **Power role in Chapters 11–18:** remains the bearer of the bounded clinic-gate permission after the first civic repair. She is not Jonas’s proxy, assistant, or displaced holder. The unpaid half hour is not precedent; Chapters 11–18 should let her set a limit or a price rather than quietly absorbing another one.
 - **Boundary:** must understand the scope, expiry, claim, and right to refuse before accepting the repair.
 
 ## Mina Okafor
 
 - **Role:** Saint Orra west-clinic transfer clerk.
 - **Function:** records patient disposition, medication handoffs, and service delays independently of Jonas’s clearance.
-- **Current state:** worked with Sanaa, Ruth, and Selah to keep the Chapter 9 urgent/nonurgent distinction visible.
+- **Current state:** worked with Sanaa, Ruth, and Selah to keep the Chapter 9 urgent/nonurgent distinction visible. In Chapter 10 she took over the clinic’s paper and corridor at 11:00 while Ruth kept the key to the 11:30 expiry, and signed the patient to the named on-call clinician until Dr. Sethi’s day team came on at noon.
 
 ## Supporting Local Figures
 
@@ -75,7 +77,7 @@
 - **Dr. Sethi:** Saint Orra day-team physician for observation four.
 - **Mara Holt:** Bellow Market night steward who received the relocated old-canal residents and their possessions. A separate unnamed day steward covers the noon inspection.
 - **Emeka Rusk:** experienced pump operator who showed that a live duty can outlive its municipal index.
-- **Hester Vann:** Public Works inspector who denied pump reopening on physical grounds.
+- **Hester Vann:** Public Works inspector, she/her, who denied pump reopening on physical grounds and sized the emergency tank by meter rather than headcount, so Jonas’s refusal of a resident roster cost nothing.
 - **Nina Calder:** NDC records supervisor who requires accurate classification and refuses to certify the underlying civic rule.
 - **Alma Reyes / Rafi Reyes / Omar Sadiq:** opening-batch care cases completed on-page; they carry no new mystery function. Selah and the shelter residents call Rafi “Raf.”
 

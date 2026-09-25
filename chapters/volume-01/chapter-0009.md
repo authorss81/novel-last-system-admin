@@ -8,7 +8,7 @@ The first two faults belonged to the same physical hinge. The third belonged to 
 
 He tightened the pressure screw. The hinge gave a low metallic knock.
 
-A municipal review slip was clipped to the inside of his work jacket. The gate-use suspension that had come off the clinic’s printer had not been lifted. It had been narrowed: Jonas could inspect and service a gate during an attended local duty when the named bearer initiated the route, but he could not initiate the opening, replace the bearer, or sign the claim by himself. The exception applied only while the current watch remained in place; a later shift would need its own bearer-initiated request. He had read the line twice before he came under the ramp.
+A municipal review slip was clipped to the inside pocket of his work jacket, creased down the middle where he had folded and unfolded it too many times. *Gate use remains suspended.* Beneath that, in a reviewer’s hand: *attended maintenance permitted only on the request of the named bearer; bearer not replaceable by technician; no technician signature on claim.* Someone had underlined the last line twice, and the last line was that the exception ends when the named watch ends. He had read it in the van and again on the ramp, and the underlining was the part he could not stop thinking about.
 
 “Stop,” Ruth Nwosu said above him.
 
@@ -66,7 +66,10 @@ Sanaa checked the urgent patient’s chart. “Thirty-eight minutes since the la
 
 “Recorded,” Mina said.
 
-Jonas opened the local service panel. The first reset cleared the bridge-side pressure and gave the clinic a white route lamp. The shelter request remained amber. The second reset required the same hinge to treat Selah’s watch as a witness, and the access plate flashed **HOLDER REQUIRED**.
+Jonas opened the local service panel. The first reset cleared the bridge-side pressure and gave the clinic a white route lamp. The shelter request remained amber. The second reset required the same hinge to treat Selah’s watch as a witness, and the access plate went ceramic white. The plate put it in the blunt register it used for anything a person was supposed to have already known.
+
+> **HOLDER REQUIRED.**
+> **One watch cannot witness two routes.**
 
 He stopped.
 
