@@ -59,12 +59,15 @@ Chapter 15 is the reversal. **Lorna Vessey, sixty-one**, is refused a transfer a
 
 Chapter 17 is the batch climax. Six people argue about what *available* means and write a roster with a named, published gap they refuse to fill with Jonas; the gap is then tested in the corridor and costs a real patient two hours. At 14:00 Jonas makes a second bounded edit at the same plate, with the evening porter on the probe, removing the issuer from the fallback. The plate refuses to pretend anything has been settled: **Term unchanged. Issuer unchanged. Claim unchanged.** The seam mark extends past his wrist to below the elbow and his right hand will not close. The first released slot and the first fall on the floor remain on the record, and the term is still six days long with three and a half of them gone.
 
+Two costs in that chapter are left visibly unpaid on the page rather than quietly settled. Selah Mora's return-of-care hours carry the line **retainer requested in writing of Saint Orra west: not yet agreed**, which she insists on reading aloud and keeping until the money exists. Tomas's fourth prerequisite — a written rule for when two people on one rota both refuse — is asked once and answered in the worst available way, so it stays open.
+
 ### Character Change
 
 - Jonas moves from “fix first, explain later” to signing a document that lets other people stop him, to naming four bearers instead of himself, and to accepting a debt he cannot pay quickly. He changes one scheduling decision on the record rather than repeating the Chapter 10 omission, and he is caught out by a twenty-six-year-old porter for a breach of his own that he had not noticed.
 - Sanaa refuses to certify a working door, accepts a fallback clause that will one day call her in a resuscitation room, and says out loud that he has made himself the last available answer again.
 - Ruth Nwosu signs the term, adds a refusal clause in her own words, names her own unpaid hours as a defect in the record, and refuses to be his convenience.
-- Tomas turns his bond into a stop-work mechanism and refuses every form that would make a category responsible.
+- Tomas turns his bond into a stop-work mechanism and refuses every form that would make a category responsible. He also leaves one question unanswered on purpose: what happens when two people on the same rota both refuse.
+- Selah Mora names her price in writing, refuses Jonas's version of it, and keeps the words *not yet agreed* on the board until the hospital pays.
 - Pia sets four conditions, refuses him the tool roll, and keeps her people’s decisions their own.
 - Nell Ardent arrives as the Vessey family’s lawyer, not Jonas’s ally, and solves nothing.
 - Bo Trimble, seventeen, is right about the pipe, is not on the tool rota, and tells Jonas not to make a story out of the district.
@@ -77,4 +80,4 @@ CivicCore has made no offer. The bridge, pump, and old-canal shelter are unchang
 
 ### Handoff
 
-The next batch must begin in Pia's Lowglass service work and the flood barrier on the Weir, with the clinic gate running on a local renewable term in Jonas's absence and one published gap nobody has closed. The residents' three-way disagreement about recognition is unresolved and must stay unresolved unless the work earns a decision. Selah's sealed log stays sealed. The full barrier repair, the Quiet Cut, the civic erasure, and any Evan fragment belong to Chapters 21–27.
+The next batch must begin in Pia's Lowglass service work and the flood barrier on the Weir, with the clinic gate running on a local renewable term in Jonas's absence and one published gap nobody has closed. Three things are owed before that work starts: the registrar's answer to Jonas's solo acknowledgements, which is not his to write; the unsigned Bellow Market retainer, which only the west site administration can settle; and Tomas's unanswered question about two people on one rota both refusing, which no speech closes. The residents' three-way disagreement about recognition is unresolved and must stay unresolved unless the work earns a decision. Selah's sealed log stays sealed. The full barrier repair, the Quiet Cut, the civic erasure, and any Evan fragment belong to Chapters 21–27, which the outline treats as the second half of its Lowglass section; Chapters 28–30 open the contractor's-bargain section and may set it up but must not spend it.

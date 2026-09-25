@@ -16,7 +16,7 @@ The daughter was standing at the foot of the chair with one hand on her mother�
 
 “There was a green light on it,” Jonas said, which was the entire architecture of his failure in two words, and he heard himself say it and kept going because that was what the bond had asked of him at half past eleven the previous morning in a shop in River Stacks. “My name is on that gate. The plate is closed because I have not acknowledged this shift, and it will not open for a clerk or a porter because neither of them is named in a term they can refuse.”
 
-He had three and a half days of the term left and six hours of it in front of him.
+He had three and a half days of the term left, and six hours in front of him in which no name on any schedule was going to open that door.
 
 Sanaa came out of the treatment bay and looked at the patient and then at the sky and then at him.
 
@@ -86,7 +86,7 @@ He stood in front of the plate with his left hand raised, and he did not put it 
 
 Mina wrote it down in those words.
 
-He put his hand on the plate at fifteen fifty-eight and the ramp door opened at sixteen oh three, and Lorna Vessey went through it in a chair with her daughter beside her, and the plate recorded the route as *issuer-held*, because that was the only line it had, and he had made the choice with his eyes open and his name on the record and there was no version of the next ten minutes in which any of that was reversible.
+He put his hand on the plate at fifteen fifty-eight and the ramp door opened five minutes later, and Lorna Vessey went through it in a chair with her daughter beside her, and the plate recorded the route as *issuer-held*, because that was the only line it had, and he had made the choice with his eyes open and his name on the record and there was no version of the next ten minutes in which any of that was reversible.
 
 Sanaa came out and stood at the bottom of the ramp.
 
@@ -104,7 +104,7 @@ He was aware, while he was saying it, of Ruth’s absence as an actual physical 
 
 Mina wrote it. He watched her do it, and the pen sound was the loudest thing in the corridor.
 
-“The second thing,” he said, “is that the same page made a different mistake on the other side. At twenty to three this morning a porter brought a fall-risk patient back from a scan alone at that hour, because the plate said the route was open and the issuer was on duty. I acknowledged the night shift at nine minutes past nine last night at my kitchen table in ninety seconds. The patient was on the floor for eleven minutes before a cleaner found him. There is a safeguarding form and it is going in the same file.”
+“The second thing,” he said, “is that the same page made a different mistake on the other side. At twenty to three this morning a porter brought a fall-risk patient back from a scan alone at that hour, because the plate said the route was open and the issuer was on duty. I acknowledged the night shift at nine minutes past nine last night at my kitchen table in ninety seconds. The patient was on the floor for eleven minutes before a cleaner found her. There is a safeguarding form and it is going in the same file.”
 
 Nobody spoke. The porter at the door took his hand off the frame and looked at the floor.
 

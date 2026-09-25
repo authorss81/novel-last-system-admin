@@ -78,7 +78,7 @@ Jonas read the rider twice. It was a beautiful piece of paperwork. It was unsign
 
 “I am not signing it,” he said.
 
-“You are not signing it,” Tomas agreed. “But I want it in the file that you were offered it and that you understood the price, because in nine days somebody in an office is going to tell you that the only alternative to a real answer was a bad form, and I would like your word on paper before that conversation happens.”
+“You are not signing it,” Tomas agreed. “But I want it in the file that you were offered it and that you understood the price, because in seven days somebody in an office is going to tell you that the only alternative to a real answer was a bad form, and I would like your word on paper before that conversation happens.”
 
 “Nina can record it.”
 
@@ -142,7 +142,7 @@ That night, at nine minutes past nine, he acknowledged the night shift on the cl
 
 He worked until two. He went back to the ramp at six the next morning and watched the day window open with nobody in it, and the plate let a supply run through at seven because it had decided overnight that somebody was on the premises, and nobody was.
 
-At twenty to three that morning Ezra Mbeki brought a fall-risk patient back from a scan on a chair, alone, because the plate said the door was open and the man on the chair had a call bell and nobody else appeared to be needed.
+At twenty to three that morning Ezra Mbeki brought a fall-risk patient back from a scan on a chair, alone, because the plate said the door was open and the woman on the chair had a call bell and nobody else appeared to be needed.
 
 The patient was Marta Sowle, and she was ninety-one. She was found on the corridor floor at seven minutes to three by a cleaner, and she had been on the floor for eleven minutes, and she had not broken anything and she was extremely angry about it, and her daughter arrived at half past three and made a statement that the ward then had to type.
 
@@ -150,7 +150,7 @@ The safeguarding form went into the record with the words *transported without a
 
 Ezra stood in the corridor at four in the morning while Sanaa explained what had happened, and then he found Jonas on the ramp and said the only thing anybody said all day that Jonas could not argue with.
 
-“The plate said the night watch was on duty,” Ezra said. “I asked it twice. It said Nwosu, R. I rang the ward house and there was nobody, and she was not answering, and I knew that before I moved him and I moved him anyway, and I am going to have to write that down as well.”
+“The plate said the night watch was on duty,” Ezra said. “I asked it twice. It said Nwosu, R. I rang the ward house and there was nobody, and she was not answering, and I knew that before I moved her and I moved her anyway, and I am going to have to write that down as well.”
 
 “Write it down,” Jonas said. “All of it. And put my name on the line that says the route was open at twenty to three.”
 

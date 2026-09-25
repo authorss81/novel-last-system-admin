@@ -72,9 +72,9 @@ Sanaa came out at half past ten with her coat already on. She had not asked to b
 
 “Fine.”
 
-“It also says that on one night in the past week a patient was moved through this door at twenty to three in the morning without a second person, and was on the floor for eleven minutes.” Sanaa looked at him. “Not his name. The event. She is ninety-one and she goes home at the end of the week and she has agreed to that sentence, and she wants to read it before it goes up.”
+“It also says that on one night in the past week a patient was moved through this door at twenty to three in the morning without a second person, and was on the floor for eleven minutes.” Sanaa looked at him. “Not her name. The event. She is ninety-one and she goes home at the end of the week and she has agreed to that sentence, and she wants to read it before it goes up.”
 
-“Why does he want to read it?”
+“Why does she want to read it?”
 
 “Because she has worked in a factory for forty years and she has been moved by people in a hurry, and she says that if it is written down then it happened to the door and not only to her.” She put the notice into his hand. “Put it up tonight. Not tomorrow. Tonight, so that whoever is standing in this corridor at four in the morning has read it before they have decided they are the one who can cope.”
 

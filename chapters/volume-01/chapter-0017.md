@@ -48,12 +48,22 @@ They wrote it in that order: Ruth, Tomas, Selah, Mina, Sanaa, and Jonas last, be
 > **B. Osei, day porter — 06:00–11:00, Mon–Sat.**
 > **E. Mbeki, porter — 13:30–22:00.**
 > **R. Nwosu, night watch — 22:00–11:00.**
-> **Return-of-care limb only, 22:00–06:00: S. Mora, Bellow Market, under retainer.**
+> **Return-of-care limb only, 22:00–06:00: S. Mora, Bellow Market. Retainer requested in writing of Saint Orra west: not yet agreed.**
 > **11:00–13:30 — NO NAMED HOLDER. The gate is closed in that window unless a named holder is on duty.**
 > **Emergency care only in that window may be opened by the on-call clinician, in writing, and every such opening is written on the board and entered in the log.**
 > **At every handover the outgoing and incoming holders read this term to each other, and the outgoing holder says the hours, and the incoming holder says them back. Where the route is closed between them, the outgoing holder reads it aloud to the clerk on the desk and signs the box, and the incoming holder reads it aloud on his own before he takes the key.**
 > **Any holder may refuse a single use, or a whole shift, without giving a reason. A refusal of a whole shift ends the shift, not the job.**
 > **Any patient, family member, or member of staff may ask who is holding this door, may ask for a different holder, and may appeal a refusal to a named person who is not a technician.**
+
+Mina read the fifth line twice, and then read it a third time to Selah Mora, who had not asked her to.
+
+“Not yet agreed,” Selah said. “Leave those words on the page.”
+
+“Someone will read it as a gap that nobody has filled.”
+
+“Someone will read it as a debt that has not been paid. That is what it is, and my staff are the ones holding it, and I would rather a stranger on a corridor can read it for himself than have it explained to them afterwards by somebody who has already spent it.” She put her hand flat on the table, not on the page. “When the hospital writes the cheque, I will ask them to take the words out, and until then the words stay.”
+
+Nobody at the table wrote anything down, and Jonas understood that this was the only line on the page with a price on it, and that the price was still only a promise.
 
 They read the eleven o’clock line out loud several times. The gap was two and a half hours, and Bram said the obvious thing, which was that he could start at half past five instead of six and finish at half past three, and Mina said the obvious thing back, which was that the desk cannot be left at half past eleven either, and the room went quiet for the particular quiet that follows two people saying no in a row to a solution they would both have liked.
 
@@ -109,6 +119,8 @@ Tomas kept the room until three, because five people still had to write down wha
 
 “It is your power to ask for it in the term you issued,” Tomas said, “which makes it my power to hold you to, and hers, and theirs. That is the entire mechanism. It is boring, and it works about as often as a washing machine.”
 
+And there was the thing Tomas had put on the table on the third evening and then, deliberately, took back off it: what happens when two people on the rota both refuse, and somebody has to be the least-bad option at four in the morning. Nobody in the room had offered an answer, and Tomas had not asked twice, and the roster had answered it the only way a room answers a question like that, which was by writing down a line that made it worse. He read *a refusal of a whole shift ends the shift, not the job* on the way to the door and said nothing about it, which was how Jonas knew he had heard it.
+
 At ten past one Ezra Mbeki came on, read the whole term aloud to himself in an empty corridor the way the page required him to, signed the box, took the key, and then came up the ramp and asked Jonas whether the sixth line of the plate was still true, and Jonas said that it was.
 
 “That is the only reason I came back,” Ezra said. “Everything else on your page is fine with me. If there is nobody on, the door shuts, and I get called, and I come. If I cannot come, the door shuts and the person who needed it waits and complains at me. That I can live with. What I cannot live with is a version where a man in another building is holding my door, because the day he has a bad afternoon somebody ends up on my corridor and the route will still say his name on it.”
@@ -151,9 +163,7 @@ Nobody thanked him. Ruth was not there to be thanked, and the cost of it was goi
 At ten past four the Old Ward’s maintenance office sent Jonas a request, and it went to him because his name was in the issuer field of a plate that belonged to a series, and the request was four lines long and entirely ordinary.
 
 > **RECLAMATION SEASON MAINTENANCE REVIEW — SERIES 6 (CONTINUITY PROJECT, MUNICIPAL MAINTENANCE).**
-> **Requesting officer: issuer, west clinic care entrance, series 6 plate 41.**
-> **A series plate requires the maintenance history of its chain, including nodes with no current local index.**
-> **Unindexed nodes in chain: 2. Response required before the review date.**
+> **Requesting officer: issuer, west clinic care entrance, series 6 plate 41. Unindexed nodes in chain: 2. Response required before the review date.**
 
 He read it twice, standing in the yard at River Stacks in the rain with a sanding block in his left hand and his right hand in his pocket because it still would not close properly.
 
