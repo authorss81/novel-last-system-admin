@@ -15,7 +15,7 @@ He had clamped a spare plate round the shop's own service riser on the way in, b
 
 They came at half past four and after. Bram Osei, off at eleven and having slept. Bisi Alade, who had shut the market's service side at three and who had a fish knife in her apron because she had forgotten it was there. Emeka Rusk with a strip of old hose over his shoulder. Teo Vlah, who arrived in a van and left the engine running. Yolanda Fofana from Wren Court, who had taken two buses and was in the wrong coat. Ibrahim Sesay, who had walked. Roz Idris, who had said on the telephone at two o'clock that she would come to say something and would not be staying, and who was right about both.
 
-Nora Bell came at five past five, which was forty minutes late, and her reason was the 16:07 and she apologised for it in the doorway, and Jonas thought: *she has been on time for nineteen years and today she is late by five minutes because of a tram and she has apologised for the tram.*
+Nora Bell came at five past five, which was forty minutes late, and her reason was the 16:07, and she apologised in the doorway in about four words, and Jonas thought: *she has been on time for nineteen years and today she is forty minutes late because of a tram, and the four words were for the tram and not for the forty minutes, and he decided in about two seconds not to be the man who pointed that out.*
 
 Kofi Sarr came off the platform at five and stood by the gate with his arms folded and did not come in under the parapet, which Jonas noticed and did not comment on.
 
@@ -55,7 +55,7 @@ He came back inside after four minutes.
 
 “The overflow chamber at the Carrow Lane outfall does not drain,” he said. “On a rising tide it spills. It spills into the lowland channel, and the lowland channel is nine miles up, and on Thursday night the choice is going to be a hand wheel, and the wheel is mine, and if I put it over the other way it comes down on the drainage that serves Carrow Lane and Marsh Lane and the whole of the Bellow Market service side. I am telling you that on the Wednesday afternoon to twenty people in a yard because on Friday morning it is going to be two o'clock in the morning and nobody is going to be in a position to be told anything by anybody.
 
-“And I am telling you the other thing as well, because there is no point in any of you finding out at half past three. If I hold it, eleven traders down there lose a compressor and a floor of shelving and a day of market on the Saturday, and I have already watched a fish business lose one Saturday in April because of a mend on a plate, and Bisi Adeyemi is standing eight feet from me and knows exactly what I am talking about.”
+“And I am telling you the other thing as well, because there is no point in any of you finding out at half past three. If I hold it, eleven traders down there lose a compressor and a floor of shelving and a day of market on the Saturday, and I have already watched a fish business lose one Saturday in April because of a mend on a plate, and Bisi Alade is standing eight feet from me and knows exactly what I am talking about.”
 
 “Then you have got a job on Thursday night,” said Jonas Mercer, “and you are the only one of us who can do it.”
 

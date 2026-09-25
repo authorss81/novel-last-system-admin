@@ -58,7 +58,7 @@ At ten to twelve on the Wednesday morning a woman of eighty-four was found dead 
 
 Mina Okafor telephoned Bram Osei's house at ten to twelve. He had gone off at eleven. He answered and said no, and then said why, and the reason was that a door with no term on it is not a door, it is a wall with a handle on it, and he is a porter, and his authority is a key, and a key is not a permission, and if he opened that door at midday with no term behind it he would be doing it on his own and would be asked in about six weeks by somebody in an office to explain in writing why a porter decided on a Wednesday that a woman's dead body was more urgent than the plate said, and he would have to write that letter, and he is not going to be the man who writes it.
 
-Mina Okafor then went and asked Ruth Nwosu in the corridor, and Ruth Nwosu was standing at the end of it in her coat with her bag over the chair, forty minutes into a shift she had started at ten o'clock the night before, and she said:
+Mina Okafor then went and asked Ruth Nwosu in the corridor, and Ruth Nwosu was standing at the end of it in her coat with her bag over the chair, on a shift she had started at ten o'clock the night before and had been on for nearly fourteen hours of, and she said:
 
 “No.”
 
@@ -90,17 +90,19 @@ The plate on the doorframe said four words and would not say anything else.
 
 Mina Okafor telephoned the on-call and gave the plate number up front before she was asked for it, which is what she has done since the twenty-fourth of March, and Dr. Sanaa Iqbal said, “Give me the words,” and Mina Okafor read the words, and the declaration was given at **six minutes to twelve**, and the door opened at **four minutes past twelve**, and the bier went up a wet ramp with four orderlies and Ivo Bamba at the foot of it holding the door open with his shoulder and not saying anything at all.
 
-Forty-four minutes from the declaration to the tail-lift of the mortuary van closing at the east site, and the slot was for one o'clock, and the family's own arrangement had a man coming to the building at half past two whom the family did not want at the building, and the family were told at ten past one instead of half past twelve, and the woman did not go at half past twelve because half past twelve was a man coming with a car and a woman of eighty-four does not go at half past twelve in front of a man with a car.
+Thirty-six minutes from the declaration to the tail-lift of the mortuary van closing at the east site at half past twelve, and the slot was for one o'clock and they were half an hour inside it, and the family's own arrangement had a man coming to the building at half past two whom the family did not want at the building, and the family were told at ten past one instead of half past twelve, and the woman did not go at half past twelve because half past twelve was a man coming with a car and a woman of eighty-four does not go at half past twelve in front of a man with a car.
 
 Marta Sowle was awake, because she is always awake at about eleven, and she came out of bay nine in a cardigan and asked who was holding the door, and Mina Okafor told her, honestly, that nobody was, that the term had ended at six o'clock that morning, that two people had refused and one of them was on the corridor with her bag, and that the door had been opened on a declaration by a doctor and a man with a laundry bag had held it open.
 
 “Say the number,” said Marta Sowle.
 
-“Forty minutes to the family. Six minutes to twelve for the declaration, four minutes past for the door, twenty to twelve for the van. The slot was for one and we made it.”
+“I do not have the number,” said Mina Okafor. “It is not a number yet. I have got a slot for one o’clock and a bier on a wet ramp and a family who are not going to be told anything until this is finished, and I am not going to write a figure in that box that I have not watched happen, because the last thing this box needs is a number somebody guessed at.”
 
-“Put it in the box,” said Marta Sowle. “In the same box. Nineteen minutes on the third and forty minutes today, and the nineteen was a baby and the forty was a woman of eighty-four, and whoever reads that box in four years will know that both times a doctor was woken up and neither time a nurse was on the door, and that is the whole of what went wrong both times, and it is in your hand and nobody can make it say anything else.”
+“Then write this down before it happens, because you will want it afterwards and you will not have the time.” Marta Sowle put her hand flat on the table, which she does about four times a year. “The box counts what a family was left not knowing. It does not count how long a door took, and if it ever counts how long a door took then this box is a stopwatch and it is no use to anybody. Nineteen minutes on the third and this one on Wednesday, and the nineteen was a baby and this was a woman of eighty-four, and whoever reads that box in four years will know that both times a doctor was woken up and neither time a nurse was on the door, and that is the whole of what went wrong both times, and it is in your hand and nobody can make it say anything else.”
 
-Mina Okafor wrote it in the box, and then sat down for about a minute and a half, and Jonas Mercer, who had been in the corridor since half past ten and had been able to do nothing whatever for fifty-five minutes, went and stood at the other end of it and did not come over.
+Mina Okafor wrote the rule in the box and left the figure out of it, and the bier went up the ramp at twenty past twelve with the tail-lift shutting at half past, thirty-six minutes after the declaration and half an hour inside the slot, and the family were told at ten past one, and what went in under the rule was **forty minutes** — which is the wait between a van closing and a family being told anything at all, and the door itself took ten minutes, and those are two different numbers and the box carries the one that hurts, and it was Marta Sowle's rule and not hers, and she wrote that down as well.
+
+Then she sat down for about a minute and a half, and Jonas Mercer, who had been in the corridor since half past ten and had been able to do nothing whatever for two hours, went and stood at the other end of it and did not come over.
 
 ---
 

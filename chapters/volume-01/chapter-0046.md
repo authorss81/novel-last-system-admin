@@ -38,7 +38,7 @@ Yvonne Amoah is forty-one and is the Saint Orra ambulance duty officer and has e
 
 They did it at twenty past twelve with the rain stopped and the deck wet and the wind going round.
 
-Jonas got the four bolts out with a bar and a cloth so as not to scar the casting, and the right hand would not close on the spanner, so he jammed a wedge of roofing slate under the cover and held it with his forearm for the whole of it, and Nora Bell held the lamp, because her scope is the barrier end and the gate she latches and no other part of the bridge, and she held it above the plate and read the terms aloud as they printed.
+Jonas got the four bolts out with a bar and a cloth so as not to scar the casting, and the right hand would not close on the spanner, so he jammed a wedge of roofing slate under the cover and held it with his forearm the entire time, and Nora Bell held the lamp, because her scope is the barrier end and the gate she latches and no other part of the bridge, and she held it above the plate and read the terms aloud as they printed.
 
 The first thing that printed was the handover.
 
@@ -54,7 +54,7 @@ The second thing that printed was the claim and it was short.
 
 “I have put your name on it because it is yours,” said Jonas Mercer. “That is the part of the last five weeks I have understood and the part I would like you to keep.”
 
-And then the plate printed a third thing, and it is the whole of what he was there to say, and it is the only thing the hinge was ever going to print about a handover.
+And then the plate printed a third thing, and it is the only thing he was there to say, and it is the only thing the hinge was ever going to print about a handover.
 
 **A WITNESSED HANDOVER IS RECORDED AMONG THE HOLDERS. IT GRANTS NOBODY AN OFFICE.**
 
@@ -141,7 +141,7 @@ It was a folded sheet from a CivicCore continuity officer, headed *ASSISTANCE OF
 
 “No,” said Yasmin Rohan.
 
-That is the whole of what she said and she said it in a laundry room on the thirty-first of March and she said it again in a net-loft kitchen on the eighteenth of April and it is the same sentence in the same form both times, and there are eleven people in this room who heard it the first time from a different woman and a completely different set of circumstances, and nobody in the room found it strange.
+That is everything she said and she said it in a laundry room on the thirty-first of March and she said it again in a net-loft kitchen on the eighteenth of April and it is the same sentence in the same form both times, and there are eleven people in this room who heard it the first time from a different woman and a completely different set of circumstances, and nobody in the room found it strange.
 
 “Right,” said Councillor Sore, and folded it up, and put it in her coat.
 

@@ -2,6 +2,36 @@
 
 The weather came in from the north-east on the Thursday afternoon and it did not feel like weather, it felt like a schedule being carried out faster than forecast, and by nine o'clock in the evening the wind had gone round to the west and the rain had stopped, which on the seventeenth of April was the most frightening thing of all, because the estuary does not flood on rain and floods on a volume of water coming down from four counties at once.
 
+---
+
+On the Thursday afternoon, twenty minutes to five, which is nine and a half hours before the flap shut itself, Aurrie Nkemdirim issued a term, and nobody asked her to.
+
+Nobody could have asked her. The net-loft has never had a number. The plate the loft keeps came off that wall in March and went into the canal, and what is screwed to the wall above the range now is a watch plate that names a flood year and no service and has not asked anybody anything since. There is no term on the door of that building and there has not been one since March, and a building with no number does not get a plate, and that is not a failure of a plate.
+
+What there was on that floor at twenty to five on a Thursday was a forecast and a room full of people who had read it. Two point nine metres above spring high at Saltmouth for the small hours of Friday, ten past three, and a tide sheet nailed to a hardboard in a yard in River Stacks with four nails somebody had to bend, and about thirty people and four children in a childcare exchange that runs in the day. The room at the top of the stairs had Marigold Adjei, seventy-seven, in it, with a chest, who could not manage those stairs twice a day any more.
+
+She did it out loud, standing up, in about four minutes, and she did not write it down, and there is no copy of it anywhere in the city.
+
+“It is not a service,” she said, to the room. “I am saying that first, in front of everybody, because if anybody writes down afterwards that I called this a service then it is a lie with my name on the bottom of it and I will know about it for the rest of my life. It is a door, and a stove, and the floor you are all standing on, and Marigold at the top of those stairs.”
+
+“And what does it do?” said somebody at the back.
+
+“It does nothing for her,” said Aurrie Nkemdirim. “That is the first thing every one of you is going to want and I am telling you now so that nobody stands up in May and says she was promised something. It does not get her down those stairs. It does not put a doctor on that landing. What it does is put a term on my floor until six o’clock in the morning, and if the water comes through that door in the night then there is a person with a duty on the door, and the person with the duty is me, and I open that exchange at seven in the morning, and I am telling you that in advance so that nobody is standing about at seven being surprised at me.”
+
+“You are putting it on yourself.”
+
+“I am putting it on myself because I am the only person in this room who is not here because of the forecast,” said Aurrie Nkemdirim, “and because the moment I put it on somebody else I am a woman of sixty-one making a person carry a duty she has not agreed to, and I did not come up this path to do that.”
+
+Then she read the five lines out loud to them, and about nine of them wrote something down.
+
+Jonas Mercer was in the doorway with his coat on, holding the plate he had clamped to the shop’s own service riser the day before, and he did not read it out.
+
+That was the hard part of it and it took him the whole four minutes. The plate says, in five words on a piece of cast iron, that a flood forecast answers to nothing, and he has had it off three plates in six weeks and has never once been able to improve it, and he stood in a net-loft kitchen on a Thursday afternoon and watched a woman of sixty-one do in four minutes the thing he has spent five weeks failing to do, and the plate in his hand was about four feet from the floor she was standing on, and he put it back into his bag without reading it, because a man who reads that out loud in that room is a man telling thirty people that the woman who has just spoken is not civic, and he was not going to do that to her, and he was not going to do it to himself.
+
+It ran from twenty to five on the seventeenth of April to six o’clock on the eighteenth, which is thirteen hours and twenty minutes, and nobody renewed it, and it is the shortest-lived term in the history of this chain, and it is the reason there is a shape on a map, and neither of those two facts was known to a single person standing in that kitchen.
+
+---
+
 The lowland dip is nine miles up the estuary from Saltmouth and the chamber at the bottom of it is a concrete box with a four-foot iron flap on a rotten-then-mended sill, and the flap is set to shut on the flood, which is the one thing anybody did right in March, and at ten past two in the morning on Friday the eighteenth of April it shut itself on the tide exactly as it had shut itself at ten past two on the twenty-second of March, unattended, with nobody inside the chamber and nobody on the bank.
 
 The plate on the frame printed one line about it, and Jonas Mercer read it at the top of the slipway with a lamp in his teeth and could not get a signal to clear it.
@@ -62,7 +92,7 @@ She got to him on the outfall radio, which is the one on the back of his own pum
 
 He turned it over at twenty to four. It took him eleven minutes with a hand wheel in the dark on a rising tide and he was alone and he is fifty-one and he told nobody until the Monday.
 
-The water went back into the lowland channel. At ten past four the dip, which had been sitting at the top of its bank since about half past three, was four hundred millimetres from the line where the road meets the embankment and still going, and at ten past five it was over that line, and it stayed over it for the best part of two hours, which is where the low block's back doors are, and the whole of that is on Emeka Rusk's wheel and he never once said so in public and was asked twice by a man in a good coat and said both times that the overflow chamber does not drain and it spills and there is no decision to take in it.
+The water went back into the lowland channel. At ten past four the dip, which had been sitting at the top of its bank since about half past three, was four hundred millimetres from the line where the road meets the embankment and still going, and at ten past five it was over that line, and it stayed over it for the best part of two hours, which is where the low block's back doors are, and all of that is on Emeka Rusk's wheel and he never once said so in public and was asked twice by a man in a good coat and said both times that the overflow chamber does not drain and it spills and there is no decision to take in it.
 
 The market lost a compressor, a floor of shelving, and Bisi Alade's and one other trader's paper stock, which is the same trade in April that it is in March, and it will be written up on somebody's form in June as a flood loss, and nobody will write on the form that a pump operator chose the market and a witness told him to choose the other one.
 

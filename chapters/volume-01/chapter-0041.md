@@ -8,7 +8,7 @@ The Weir stand is a green pillar with a bucket on a chain and a forty-slot board
 
 **THE INTAKE IS SILTED. THE POINT IS SERVING FROM A SILTED INTAKE.**
 
-That is the whole of what a plate can say about it. It does not say how the water is to be drawn, or who will clear the trap, or what a silting intake does to a person at half past five in the morning, and it does not mention money, and it printed it while he was holding the bucket and went back to asking the rota a question that the board on the fence answers with a pencil.
+That is all a plate can say about it. It does not say how the water is to be drawn, or who will clear the trap, or what a silting intake does to a person at half past five in the morning, and it does not mention money, and it printed it while he was holding the bucket and went back to asking the rota a question that the board on the fence answers with a pencil.
 
 Margo Doré came up the path at about ten past two with a towel round her shoulders and read the line off the pillar over his shoulder, and said, “Two months,” and went to wash a cup.
 
@@ -20,7 +20,7 @@ Margo Doré came up the path at about ten past two with a towel round her should
 
 “You are going to write that down.”
 
-“I am going to write down that nobody came on the Wednesday.” He took the card out. “That is the whole of what I came for.”
+“I am going to write down that nobody came on the Wednesday.” He took the card out. “That is all I came for.”
 
 And then he said it, badly, standing at a standpipe in the rain, which is where he had planned to say it and knew he would not.
 
@@ -72,7 +72,7 @@ Jonas Mercer stood at the card table and asked her in front of two people, becau
 
 Mina Okafor’s pen stopped.
 
-Sanaa Iqbal did not answer immediately, which he had expected, and she did not say no immediately, which he had not, and he understood afterwards that the length of that pause was the whole of the chapter and that he had walked into it.
+Sanaa Iqbal did not answer immediately, which he had expected, and she did not say no immediately, which he had not, and he understood afterwards that the length of that pause was the entire chapter and that he had walked into it.
 
 “Where,” she said.
 
@@ -120,7 +120,7 @@ The arrears were not mentioned. They had not been mentioned since the twenty-fou
 
 The Saint Orra west site board sits on the first floor at ten in the morning and takes forty minutes of matters arising, and on Wednesday the ninth of April it took an hour and ten, because a woman of sixty-one read a piece of net-loft paper out loud from a chair.
 
-She read it as it is. That was the condition and it was the loft's condition and not hers: one side of a sheet of ruled net-loft paper, four paperclips, a patch of tape over a seam, no letterhead, no door number, no list of houses, and nobody named on it. She held it in both hands at arm's length because her glasses are for reading and not for holding, and she read the whole of it at the speed of a woman who has practised a sheet in a kitchen twice, and she did not stand up.
+She read it as it is. That was the condition and it was the loft's condition and not hers: one side of a sheet of ruled net-loft paper, four paperclips, a patch of tape over a seam, no letterhead, no door number, no list of houses, and nobody named on it. She held it in both hands at arm's length because her glasses are for reading and not for holding, and she read all of it at the speed of a woman who has practised a sheet in a kitchen twice, and she did not stand up.
 
 The second line of the minute says: *Item 4, submitted by Councillor Sore under the standing order, a document received by the Assembly on 1 April. Read to the board by the author. The author sat throughout.*
 

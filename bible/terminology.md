@@ -68,6 +68,12 @@ A public record made under the registrar's duty that describes **the state of a 
 
 A shape made by the Lattice's drawing layer out of the terms in force inside an area. **It is not an administrative ward.** A service district with a term in force is drawn; a district with no term in force is not drawn at all. Nacre's map therefore shows nine ordinary service districts and, in the middle of the middle, a blank square the size of a thumbnail with no name, no number and no line in the key.
 
+**The layer has no delete operation (established Chapter 47, and load-bearing).** When a term ends, its outline is not erased; the district keeps its shape and its empty holder square on the layer until the layer is redrawn from scratch, which nothing in this city has authority to direct. The layer annotates the residue with the term it came from. **Consequence, binding on every later volume: a shape on the drawing layer is evidence that a term once existed, not evidence that a service exists, and an outline left behind must never be read as a live district, a population, a household or a person.** In Nacre the residue is the only trace Lowglass has ever had on a civic surface, and it is wrong on its face in exactly the way that matters.
+
+### Term for a floor
+
+**Established Chapter 45.** A term issued in a building that is not a node, by a person with no plate and no standing, out loud, for a door, a stove, a floor and one person who cannot manage the stairs. It grants nothing to the person it is issued for, it names nobody, it has no copy, and it cannot be renewed by anybody who is not already in the room. **Terminology note: "the loft's term" is a street word and is not a civic category.** The Lattice treats such a term exactly like any other and draws a district out of it. That the city can be marked by a woman's four minutes in her own kitchen is the mechanism of Volume 01's final image, not a loophole and not a bug that gets patched.
+
 ### Claims box
 
 **Established Chapter 47.** A box on the Old Ward public board in which a claim may be stated for ninety days. **A claim so stated does not establish a service, does not require a name, and may not be used as evidence of occupancy, population, households or persons.** It is the only civic surface in Volume 01 that Lowglass was ever offered, and it is empty.
