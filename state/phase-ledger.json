@@ -1,15 +1,39 @@
 {
-  "currentPhase": "phase-000-bootstrap",
+  "currentPhase": "phase-002-batch-plan",
   "novel": "novel-last-system-admin",
-  "version": 1,
+  "version": 2,
   "phases": [
     {
       "id": "phase-000-bootstrap",
-      "status": "planned",
+      "status": "done",
       "fallbackUsed": false,
       "range": null,
+      "attempts": 1,
+      "actualModel": null,
+      "result": "Bible, premise, world, characters, power system, themes, terminology, and ending constraints established."
+    },
+    {
+      "id": "phase-001-outline",
+      "status": "done",
+      "fallbackUsed": false,
+      "range": null,
+      "attempts": 1,
+      "actualModel": null,
+      "result": "Volume 01 and the initial Chapters 1–10 batch cards established; cards later repaired after plan review."
+    },
+    {
+      "id": "phase-002-batch-plan",
+      "status": "planned",
+      "fallbackUsed": false,
+      "range": {
+        "volume": 1,
+        "batch": 1,
+        "startChapter": 1,
+        "endChapter": 10
+      },
       "attempts": 0,
-      "actualModel": null
+      "actualModel": null,
+      "result": "Cards revised after planning review; no chapter prose generated. Awaiting the writer phase."
     }
   ]
 }

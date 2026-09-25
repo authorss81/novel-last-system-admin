@@ -118,10 +118,11 @@ A phase processes 10–20 chapters in one model run. The model is loaded once pe
 
 ### Bootstrap phases
 
+The repository uses the phase IDs recorded in `state/phase-ledger.json` and the matching `workspace/` directories. Older descriptive labels for these same steps are not separate dispatches.
+
 - `phase-000-bootstrap`: create the novel specification and bible.
-- `phase-001-series-outline`: create the complete series arc and ending.
-- `phase-002-volume-01-outline`: create the first volume and its batches.
-- `phase-003-buffer-plan`: create detailed cards for the first 10–20 chapters.
+- `phase-001-outline`: complete the series/ending outline, Volume 01, and the first detailed batch cards.
+- `phase-002-batch-plan`: write the first 10–20 chapter batch from those cards.
 
 ### Batch phases
 

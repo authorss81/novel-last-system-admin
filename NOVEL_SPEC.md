@@ -15,4 +15,4 @@ A modern city gains a magical permissions system, and the technician responsible
 The city must choose between permanent central control and a distributed civic system that can survive its founder.
 
 ## Status
-Scaffold pushed. No novel prose has been generated yet. The bootstrap phase must create the bible, series outline, ending outline, and first batch cards.
+Bootstrap complete. The bible, series outline, ending outline, Volume 01 outline, and first 10-chapter batch cards are present. No chapter prose has been generated yet; the next phase is to write Chapters 1–10 from the existing batch plan.
