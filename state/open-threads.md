@@ -1,30 +1,32 @@
 # Open Threads
 
-These are planned promises at bootstrap. They are not new plot events until written into a chapter.
+These threads now reflect events written in Chapters 1–10 unless marked as reserved.
 
-| ID | Thread | First planned payoff | Constraint |
-|---|---|---|---|
-| T-01 | Why does the Lattice grant access to people missing from the official map? | Seed in Volume 1, Chapters 4–10; material reveal in Chapters 19–27 | Show an unlisted service route and lived service work first. The route is a separate service lead from the bridge reset; the later first civic repair supplies the claim-bearing trail. Do not explain the Quiet Cut or civic erasure in the opening batch. |
-| T-02 | Who or what is the blank bearer? | Seed as an empty field in Volume 1, Chapter 10; first answer in Chapters 45–48 | The field is not a hidden person. The eventual answer must remain compatible with distributed civic authority. |
-| T-03 | What happened to Evan Mercer? | Incomplete-record seed in Volume 1, Chapters 8–10; full answer in Volume 15 | Evan is dead, not secretly alive or guiding Jonas. Do not turn his sacrifice into a prophecy. |
-| T-04 | Why does Jonas’s maintenance credential work? | Observable seed in Volume 1, Chapters 1–10; explanation in Chapters 19–36 | It is a temporary maintenance route tied to Evan’s counter-amendment and its second signature, not bloodline magic or a personal claim in the first batch. The first civic repair later uses it to leave Jonas as issuer, not bearer; do not reveal the amendment in the first ten chapters. |
-| T-05 | What does the Lattice notice represent? | Seed the I. Vey seal and incomplete maintenance language in Volume 1, Chapters 1–10; answer in Volume 15 | It is a mixture of maintenance language and Iona’s preserved root witness, not a friendly game system. |
-| T-06 | Can CivicCore sell priority access without exposing the city’s dependence? | Volume 2 | Rook is effective and financially plausible; the conflict is institutional, not a secret-monster reveal. The Volume 01 handoff is the blank root and Jonas’s credential; records ownership is a pressure inside the later priced-access question. |
-| T-07 | Can Jonas and Sanaa trust each other after a technically correct repair harms someone? | First consequence in Volume 1, Chapters 11–18; then Volumes 1–4 | Their relationship advances through consequences, disclosure, separation, and deliberate return; the opening batch’s single night-transfer delay is a seed, not the relationship milestone. |
-| T-08 | Will Lowglass choose recognition or independent civic organization? | Volume 3 onward | Pia and residents must make their own choices; Jonas cannot use them as proof of his innocence. |
-| T-09 | Can distributed permissions coordinate during a citywide emergency? | Volumes 4, 8, 11, and 15 | Each rehearsal must fail differently and produce a different civic lesson. |
-| T-10 | Can Iona Vey be held responsible without becoming a martyr or an untouchable root? | Volumes 9–15 | She survives, loses command authority, and faces public accountability. |
-| T-11 | What is the cost of giving up permanent admin access? | Volume 14–15 | The cost is physical, legal, relational, and informational; do not make the sacrifice painless. |
-| T-12 | Will the Civic Commons remain imperfect and revisable? | Ending and post-ending echo | Local disagreement and renewal are features of the resolution, not bugs to erase. |
+| ID | Thread | Current state after Chapter 10 | Next planned movement | Constraint |
+|---|---|---|---|---|
+| T-01 | Why does the Lattice grant access to people missing from the official map? | Seeded by the independent unlisted shuttle, local return route, old-canal shelter, and redacted custody reference. | Chapters 19–27 develop Lowglass service work, the flood barrier, civic erasure, and the Quiet Cut. | Keep the shuttle independent of the bridge reset. Preserve the full route and identities in Selah’s sealed log. Residents choose disclosure. |
+| T-02 | Who or what is the blank bearer? | Seeded only as the Old Ward field **CENTRAL ROOT—HOLDER: —** with a Reclamation Season review window. | Chapters 45–48 provide the first answer after the nine-witness climax; the final volume completes it. | The field is not a hidden person. Do not issue a “find the blank bearer” request in Chapters 11–20. |
+| T-03 | What happened to Evan Mercer? | A partial lowland service code in the NDC index matches hardware in the family copy of Evan’s last file. Location and filer fields are missing. | Later Volume 1 adds fragments; Volume 15 gives the complete answer. | Evan is dead, not secretly alive or guiding Jonas. No counter-amendment, second signature, or private final message yet. |
+| T-04 | Why does Jonas’s maintenance credential work? | It reaches attended local faults and remains a temporary maintenance route; it never makes Jonas a bearer. | Chapters 19–36 connect the first claim-bearing trail to the credential; later volumes explain the amendment. | No bloodline magic, personal claim, root access, or counter-amendment reveal in Chapters 11–20. |
+| T-05 | What do the Lattice notices represent? | Notices remain short and incomplete. The bridge carries an I. Vey Continuity Project seal, and the Old Ward board shows an empty root holder field. | Seed the distinction between maintenance language and Iona’s preserved witness later in Volume 1. | The notices are not a friendly game system, do not read intent, and do not name Iona as a hidden presence yet. |
+| T-06 | Can CivicCore sell priority access without exposing the city’s dependence? | No direct offer. An unsigned NDC continuity-waiver form shows the institutional pressure. | Chapters 28–36 contain CivicCore’s direct offer and Jonas’s refusal. | Keep Rook and the direct bargain out of Chapters 11–20. No new final enemy. |
+| T-07 | Can Jonas and Sanaa trust each other after a technically correct repair harms someone? | First seed completed: Jonas discloses the exact 43-minute cost in Chapter 9; Sanaa remains wary but continues to work with him. | Chapters 11–18 turn that limited trust against the first claim-bearing gate repair and its denied transfer. | No colleague status or romance yet. Sanaa’s clinical judgment remains independent. |
+| T-08 | Will Lowglass choose recognition or independent civic organization? | Unlisted people appear through service work, not a political or civic identity reveal. | Begins in Chapters 19–20 and develops from Volume 3 onward. | Pia and residents make their own choices. Jonas cannot use them as proof of his innocence. |
+| T-09 | Can distributed permissions coordinate during a citywide emergency? | The 90-minute attended test coordinates separate existing bearers without granting a common holder. | The limited success informs the Chapter 37–44 nine-witness coalition; larger rehearsals occur later. | The opening test is local and imperfect. Do not present it as a citywide solution. |
+| T-10 | Can Iona Vey be held responsible without becoming a martyr or an untouchable root? | Only the I. Vey maintenance seal and project-series history are present. | Seeded further in later Volume 1; answered in Volumes 9–15. | Do not reveal her survival, proxy authority, or preservation in Chapters 11–20. |
+| T-11 | What is the cost of giving up permanent admin access? | Jonas wants permanent status but has not been offered root authority. | Stage 2 and later responsibility choices begin to make personal access costly. | The cost must be physical, legal, relational, and informational; do not let the final sacrifice be painless. |
+| T-12 | Will the Civic Commons remain imperfect and revisable? | Not yet visible as a political destination. | Emerges through later distributed-witness failures and renewal debates. | Local disagreement and renewal are features of the resolution. |
+| T-13 | Can Jonas accept a visible responsibility bond without turning it into ownership? | Tomas blocks the next shared-node edit until Jonas reads a bond that names scope, refusal, and claim. | Open and pay off across Chapters 11–18. | The bond is not a power-up, root access, or permanent appointment. Tomas’s worker-led control matters. |
 
-## Immediate writing guardrails
+## Immediate Chapters 11–20 Guardrails
 
-- Open on a concrete repair or service failure.
-- Give Jonas a practical goal and a choice before offering a larger mystery.
-- Keep Chapters 1–2 at Stage 0 and make the first Stage 1 appearance follow the Chapter 3 repair.
-- Do not use a System panel in every chapter.
-- Complete the transfer, relocation, inspection, night handover, and attended-test consequences on-page; do not rely on off-page promises.
-- Do not let Jonas solve a crisis alone; every opening-batch route needs another person’s consent or duty.
-- Keep the Chapter 3 supervised lane exception tied to the separately inspected Assembly Emergency Service Test clause; witnesses document operation but do not cure the permission conflict.
-- Keep resident identities and the full unlisted route in the named shelter steward’s sealed local log, with resident consent, limited access, and an expiry; the NDC receives only a redacted reference.
-- Do not spend the full Lowglass reveal, CivicCore offer, Evan counter-amendment, shared-node repair, public title, or blank-bearer request in the first ten chapters.
+- Open on the consequences of the attended test: pending appointment, unresolved report, unsafe pump, closed old-canal shelter, and Tomas’s demand for a visible responsibility bond.
+- Do not let Jonas amend a civic term before the bond is visibly read, negotiated, and accepted by the required witnesses.
+- Keep Chapters 11–18 at the Saint Orra west-clinic gate unless the service chain requires a brief local approach. No citywide or root action.
+- The existing night-watch steward, Ruth Nwosu, is the bearer. Sanaa is a separate informed witness. Jonas is the issuer and takes the named maintenance claim.
+- The first civic repair must show preparation, uncertainty, and a real fallback defect. It may solve one local term; it cannot reconcile every service or make Jonas indispensable by design.
+- The denied or delayed patient transfer must occur on-page, affect a real person, and remain in the record. Sanaa must not certify merely because the gate opens.
+- Keep the first seam mark and claim active. Do not erase them to restore mood or convenience.
+- Keep Oren’s old-canal closure complete. His later separate clinic-and-housing annex closure is reserved for Chapters 28–36.
+- In Chapters 19–20, let Pia lead independent local route work and require resident choice about recognition. Do not expose Selah’s sealed identities, explain the Quiet Cut fully, or recover Evan’s fate.
+- Do not spend the CivicCore direct offer, public administrator title, blank-bearer request, root reading, proxy amendment, second signature, or full Lowglass history.
