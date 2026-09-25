@@ -160,6 +160,17 @@ Jonas can compose a multi-node civic change only when the affected district stew
 - **Limit:** no unilateral edit, no permanent office, and no mind control. The editor can create a condition for public action but cannot force the public to act.
 - **Final use:** Jonas uses this stage to write the narrow enabling clause of the Civic Commons, then gives up the role that made him uniquely powerful.
 
+## Volume 01 close — the rules the volume established
+
+These are now canon and are inherited by every later volume.
+
+- **Three bounded civic edits were performed by Jonas Mercer, all of them at hinges he did not own and none of them issued by him**: the Saint Orra west-clinic care entrance (Ch 13, precedence; Ch 17, one fallback clause), the Bellow Market cold-store hatch (Ch 39, precedence, issuer the named holder of the collectors' self-collect term by rule eleven), and the Saint Orra bridge west-lane hinge (Ch 46, precedence, issuer the bridge dispatcher, claim the barrier keeper's, witness a crossing guard, second bearer an ambulance duty officer, **two handovers in the log in fifty minutes**).
+- **A witnessed handover grants nobody an office.** That is the plate's own line and it is the volume's mechanism. Renewal remains a fresh act of the holders, spoken, in daylight. The issuer cannot renew, and the maintenance claim belongs to the holder, not the mender.
+- **The register of attachment** (Ch 47) is an institutional instrument, not a Stage. It grants no power and no protection from power. It changes where a claim is *recorded*, and that is the whole of it. **It must never be written as a promotion, and Jonas must never acquire root access, precedence, staff, or a vote through it.**
+- **Continuity failure, contractual** (Ch 45): a contractor's schedule may define failure for the contractor's own guarantee. It may not thereby determine a node's civic state. **This is the mechanism Volume 02 turns on, and it is a clause, not a villain.**
+- **The drawing layer draws from the terms in force** (Ch 47). A district with no term in force is not drawn. A term of thirteen hours and twenty minutes put a shape inside a blank centre for exactly thirteen hours and twenty minutes. **A shape on a map is evidence of a term, not of a population, and no later volume may read a name, a number or a count off a map.**
+- **Nobody died in Volume 01 and nobody was saved by luck.** The only serious injury is Perdita Sow, who is alive. **This register — no death, no rescue by chance, no lucky timing — is a hard rule for the series.**
+
 ## The System notices
 
 The maintenance interface may state a fault, a missing term, a warning, or a choice. It is not a character with a plan and should not narrate a solution.

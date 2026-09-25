@@ -52,6 +52,26 @@ A claim with no real counterparty that attaches to the nearest responsible perso
 
 The holder field of a root permission when no living person, office, or institution has accepted the responsibility. It is not a hidden person waiting to be found. When a blank root needs service, the Lattice assigns an unclaimed burden to the nearest valid maintenance route. Jonas can use that route temporarily, but it does not make him the root holder.
 
+### Register of attachment
+
+**Established Chapter 47.** A civic register kept by the registrar's office, entered under the registrar's duty, naming the person to whom unclaimed burdens and maintenance claims on a chain are attached. Its founding entry is **Mercer, J., Last Working System Administrator, City of Nacre** — civic standing, not departmental; no grade, no probation, not subject to review; findable by the city; **released by no person**. A register entry grants no root access, no precedence, no office, no staff, no vote, no key, and no right to refuse an attachment. It exists so that a claim lands on a man in a public record instead of in a file, and so that the next person who wants to attach a burden must look at the register first. **A title created by an institution for its own convenience is not a promotion, and the Lattice has no opinion about it.**
+
+### Continuity failure (contractual)
+
+**Established Chapter 45, from the Saint Orra service agreement of 2019, paragraph 11.** *A node is in failure where its civic term has not been continuously in force for a period exceeding twenty-four consecutive hours.* This is a **contractual maintenance guarantee**, not a civic determination. It measures whether a term is continuous; it cannot decide what a term is, and a contract between a city and a contractor does not get to define a word the city uses everywhere else in the same sentence. A term that is broken and then renewed does not cure the break. This is the instrument the priced-access market is built on.
+
+### Registrar's record
+
+A public record made under the registrar's duty that describes **the state of a node** at a time. It is not a minute. A minute is a list, may be read in a gallery, names persons, and can be produced in a hearing; a record describes a node and names a person only if the person is the state. Reading a condition line into a record is lawful. **It is also how a civic work with no holder becomes an unclaimed burden**, because a recorded work with no holder and no issuer is exactly what a burden attaches to.
+
+### Service district
+
+A shape made by the Lattice's drawing layer out of the terms in force inside an area. **It is not an administrative ward.** A service district with a term in force is drawn; a district with no term in force is not drawn at all. Nacre's map therefore shows nine ordinary service districts and, in the middle of the middle, a blank square the size of a thumbnail with no name, no number and no line in the key.
+
+### Claims box
+
+**Established Chapter 47.** A box on the Old Ward public board in which a claim may be stated for ninety days. **A claim so stated does not establish a service, does not require a name, and may not be used as evidence of occupancy, population, households or persons.** It is the only civic surface in Volume 01 that Lowglass was ever offered, and it is empty.
+
 ### Root clause
 
 A foundational permission that defines the Lattice’s limits and precedence. Root clauses require multiple witnesses and recurring renewal. They cannot be changed by a local technician acting alone.
