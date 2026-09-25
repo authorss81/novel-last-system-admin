@@ -2,7 +2,7 @@
 
 ## Central pressure
 
-Nacre’s first large permission failure begins at Saint Orra’s pedestrian bridge and spreads through clinics, shelters, transit, and flood gates. The public needs repair now, but the city’s largest infrastructure contractor, CivicCore, is offering a blanket continuity contract in exchange for permanent emergency authority. Jonas Mercer must choose between a quick central fix that will make him useful and a slower local repair that may leave some doors unopened.
+Nacre’s first large permission failure begins at Saint Orra’s pedestrian bridge and spreads through clinics, shelters, transit, and flood gates. The public needs repair now, but the city’s largest infrastructure contractor, CivicCore, is pressing for a blanket continuity contract that would grant permanent emergency authority. Jonas Mercer must choose between a quick central fix that will make him useful and a slower local repair that may leave some doors unopened.
 
 ## Starting state
 
@@ -50,7 +50,7 @@ Jonas finds that the bridge’s “empty crossing” permission contradicts an a
 
 ### Chapters 11–18 — The cost of a quick fix
 
-The repaired gate works, but the service schedule now follows Jonas’s personal availability. A patient is denied a transfer because the claim has no available bearer. Jonas learns that a fix can be technically correct and socially harmful. Before he is allowed to make a civic edit at a shared node, Tomas makes him sign a visible responsibility bond, and Sanaa refuses to certify the repair until the missing term is disclosed.
+The repaired gate works, but the service schedule now follows Jonas’s personal availability. A patient is denied a transfer because the claim has no available bearer. Jonas learns that a fix can be technically correct and socially harmful. He makes his first civic edit only after Tomas makes him sign a visible responsibility bond and a named witness accepts the bounded claim. The edit leaves a seam mark on Jonas and a maintenance debt that cannot be paid by good intentions; Sanaa refuses to certify the repair until the missing term and its cost are disclosed.
 
 ### Chapters 19–27 — Lowglass by another name
 
@@ -68,7 +68,15 @@ Jonas stops trying to repair the city from the Old Ward. He recruits one willing
 
 CivicCore attempts to seize the central node during the surge, claiming the public has granted it emergency authority. Jonas and his witnesses preserve the local terms, but the Lattice redraws itself as the storm passes. The bridge and clinic are safe; Lowglass is visible for one night; the Assembly delays the contract; Jonas is named the last working system administrator. The map leaves a blank center and a short notice: **Permission: find the blank bearer.**
 
-## Midpoint reversal
+## Volume beat map
+
+- **Beginning (Chapters 1–10):** A routine bridge fault becomes a public-service failure, and Jonas discovers that the Lattice contains a live route the city’s maps do not.
+- **Escalation (Chapters 11–27):** Correct local repairs create new claims, Jonas’s first civic edit leaves a visible cost, and Lowglass residents force the city to confront a service population its records deny.
+- **Midpoint (Chapters 19–27):** The suspected rogue operator is revealed as a network of residents using an old community watch term to keep essential services alive after civic erasure.
+- **Climax (Chapters 37–48):** A river surge forces Jonas to coordinate nine local witnesses instead of granting one emergency office control; the bridge and clinic hold, but the map exposes an empty root field.
+- **Aftermath (Chapters 45–48):** Local services receive bounded terms, CivicCore’s takeover is delayed rather than defeated, and the unresolved blank root becomes the bridge to the next volume.
+
+## Midpoint reversal (Chapters 19–27)
 
 The apparent attack on the clinic is not a rogue operator. Lowglass residents are using an old watch term to bring essential services into a neighborhood that the city’s human administration insists is empty. Their method is dangerous and nonstandard, but the residents are not simply exploiting the Lattice; they are trying to keep people alive without a recognized civic identity. The mystery changes from “who is hacking the system?” to “why did the city make its own residents invisible?”
 
@@ -81,6 +89,8 @@ The climax is a practical victory, not a victory over all corruption. CivicCore�
 ## Concrete resolution
 
 - The Saint Orra bridge and west clinic receive valid, renewable local permissions.
+- The first civic repair in Chapters 11–18 leaves Jonas with a visible seam mark and a named maintenance claim; the immediate duty is renegotiated among local bearers, but the record keeps Jonas as issuer and the mark remains a lasting cost.
+- Transit, shelter, water, and flood-gate access are each given a bounded, renewable local route or a named temporary custodian. The old pump remains physically closed until its line is repaired, so the volume does not pretend that every service was solved.
 - Jonas receives permanent civil-service status but loses his old clearance to work without a public responsibility bond.
 - Tomas establishes a worker-led inspection requirement for major repairs.
 - Sanaa’s clinic adopts a consent and appeal process that cannot be overridden invisibly.
@@ -90,7 +100,7 @@ The climax is a practical victory, not a victory over all corruption. CivicCore�
 
 ## New question for Volume 02
 
-The first repair exposed a citywide market for access: CivicCore can sell priority to whoever can afford a reliable claim. Who owns the records that decide which claims are remembered, and why are people outside the official map still valid witnesses?
+The first repair exposed a citywide market for access: CivicCore can sell priority to whoever can afford a reliable claim. The primary Volume 02 question is: **who owns the records that decide which claims are remembered?** The fact that people outside the official map remain valid witnesses is a carried pressure, while the blank root and Jonas’s maintenance credential remain long-range questions for later volumes.
 
 ## Final chapter image
 

@@ -129,7 +129,7 @@ The novel runs for fifteen volumes, forty-eight chapters each. Each volume resol
 
 ### Volume 01 — The Permission Fault (Chapters 1–48)
 
-- **Central pressure:** Nacre’s first major bridge and clinic repair exposes a citywide permission failure just as CivicCore offers to take over emergency services.
+- **Central pressure:** Nacre’s first major bridge and clinic repair exposes a citywide permission failure just as CivicCore presses to take over emergency services.
 - **Starting state:** Jonas is a probationary field technician, Evan is a missing father, Sanaa is a skeptical emergency physician, and Lowglass is absent from official maps.
 - **Major locations:** River Stacks, Saint Orra, the Old Ward, Bellow Market, and the first Lowglass hinges.
 - **Major factions:** NDC workers, Saint Orra staff, the Civic Assembly, CivicCore’s field team, and the early Lowglass witnesses.
@@ -138,7 +138,7 @@ The novel runs for fifteen volumes, forty-eight chapters each. Each volume resol
 - **Escalation:** Oren Pell closes a building under a valid emergency clause; CivicCore offers Jonas promotion in exchange for signing a blanket continuity waiver; Jonas and Sanaa repair a clinic while the Lattice’s terms begin to fracture; Jonas finds a fragment of Evan’s maintenance signature.
 - **Climax:** during a river surge, Jonas coordinates nine local witnesses and a temporary bridge duty rather than restoring central control. The bridge holds, but the Lattice redraws the city map and shows an empty root at the center.
 - **Resolution:** the immediate hospital and bridge promises are met. The Continuity contract is delayed, not defeated. Jonas is publicly named the last working system administrator while Lowglass remains legally unlisted.
-- **New question:** who created the blank root permission, and why does the Lattice recognize Jonas’s credential as a maintenance route rather than a named root holder?
+- **New question:** who owns the records that decide which claims are remembered, especially when a valid claim belongs to someone the official map does not count? The blank root’s origin and Jonas’s credential remain carried mysteries for later volumes.
 - **Power/relationship change:** field technician to rule mender; Jonas and Sanaa establish a working but uneasy professional bond; Tomas makes him accept a visible responsibility bond.
 
 ### Volume 02 — The Price of Access (Chapters 49–96)

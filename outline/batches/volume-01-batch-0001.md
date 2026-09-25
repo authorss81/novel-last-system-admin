@@ -8,17 +8,33 @@ Starting condition: Jonas is a probationary municipal network technician in Rive
 
 Starting relationships: Jonas and Tomas Renn are former mentor and apprentice with a dispute over undocumented repairs. Jonas and Sanaa are professionally wary of one another. Jonas has no relationship with Pia Santos or the unlisted residents. Nadia Mercer is anxious about reopening the subject of Evan.
 
-Batch midpoint (local reversal, not the volume midpoint): The apparent unauthorized opening is produced by an obsolete crossing clause and a live, unlisted service route, not by a rogue operator. The people behind the route are real, but the batch does not yet explain how the neighborhood was erased or who maintains its permissions.
+Batch midpoint (Chapter 4, local reversal; not the volume midpoint): The apparent unauthorized opening is produced by an obsolete crossing clause and a live, unlisted service route, not by a rogue operator. The people behind the route are real, but the batch does not yet explain how the neighborhood was erased or who maintains its permissions.
 
-Batch climax: During a scheduled attended-service test, Jonas and the existing crews keep one bridge lane, the clinic route, and the shelter handoff open for a stated period without pretending to have repaired the underlying terms. The local service test ends safely, the unresolved seam is entered into the record, and a public Old Ward notice shows one empty central root field. Tomas blocks Jonas from touching a shared node again until he signs a visible responsibility bond.
+Batch climax (Chapter 10): During a scheduled attended-service test, Jonas and the existing crews keep one bridge lane, the clinic route, and the shelter handoff open for a stated period without pretending to have repaired the underlying terms. The local service test ends safely, the unresolved seam is entered into the record, and a public Old Ward notice shows one empty central root field. Tomas blocks Jonas from touching a shared node again until he signs a visible responsibility bond.
 
 Required character changes: Jonas moves from “fix it and move on” to recording what a repair cannot settle and who must answer for it. Sanaa remains wary but trusts his disclosure of the night-transfer cost. Tomas refuses an undocumented shared-node repair and puts the formal responsibility bond on the next agenda. Pia first speaks for an unlisted passenger without becoming Jonas’s apprentice or Lowglass’s spokesperson. Jonas learns that Evan’s absence is tied to incomplete records, without receiving the counter-amendment or its second signature.
 
-Required power changes: Chapters 1–2 remain Stage 0: ordinary tools, schematics, attended work orders, and temporary routes only. The first major bridge repair in Chapter 3 activates a limited Fault-reader view of the Margin, with sensory bleed and a physical anchor required. Chapters 4–10 can diagnose a bounded conflict but cannot mend a civic term, create a bearer, transfer a duty, or leave Jonas with an active supernatural claim or seam mark. Stage 2 rule mending begins only in Chapters 11–18 after Tomas’s responsibility bond.
+Required power changes: Chapters 1–2 remain Stage 0: ordinary tools, schematics, attended work orders, and temporary routes only. The first major bridge repair in Chapter 3 activates a limited Fault-reader view of the Margin, with sensory bleed and a physical anchor required. Chapters 4–10 can diagnose a bounded conflict but cannot mend a civic term, create a bearer, transfer a duty, or leave Jonas with an active supernatural claim or seam mark. Stage 2 rule mending begins only in Chapters 11–18 after Tomas’s responsibility bond; that first civic repair leaves Jonas with a visible seam mark and a named maintenance claim.
 
-Required world reveals: A permission needs a holder, scope, witness, term, claim, and precedence; a valid permission can still cause harm when its terms are incomplete. The Lattice notices are incomplete maintenance messages, not an all-knowing voice. A route can be present in the Lattice while missing from human maps, but the batch does not yet identify its full civic history. An old I. Vey seal marks the bridge hardware. A public Old Ward maintenance notice shows an empty central root field; this is a field, not a hidden person or a request to find one.
+Required world reveals: A permission needs a holder, scope, witness, term, claim, and precedence; an incomplete permission can remain operational and still cause harm. The Lattice notices are incomplete maintenance messages, not an all-knowing voice. A route can be present in the Lattice while missing from human maps, but the batch does not yet identify its full civic history. An old I. Vey seal marks the bridge hardware. A public Old Ward maintenance notice shows an empty central root field; this is a field, not a hidden person or a request to find one.
 
 Open questions after the batch: Why is a live service route absent from the city’s maps? What does the obsolete crossing clause protect, and who maintains the unlisted route? What does the empty central root field mean during an uneven renewal? Why does Jonas’s ordinary maintenance credential reach a fault without making him its holder? The direct CivicCore offer, the full Lowglass history, Evan’s counter-amendment and second signature, the nine-witness coalition, the public “last working system administrator” title, and the blank-bearer request remain reserved for later Volume 1 sections.
+
+## Batch beat map
+
+- **Beginning (Chapters 1–2):** Stage 0 field work establishes Jonas’s job, the bridge failure, and the clinic transfer; each temporary route has a named custodian and closes on-page.
+- **Escalation (Chapters 3 and 5–9):** The Margin appears, the unlisted route becomes a service chain, Oren’s valid closure displaces residents, the pump fails inspection, and Jonas’s report threatens his appointment.
+- **Midpoint (Chapter 4):** The suspected rogue access resolves into a live route maintained by real people outside the official map; the mystery changes from sabotage to erasure.
+- **Climax (Chapter 10):** The crews perform an attended-service test, keep the bridge, clinic, and shelter handoff open for a stated window, and close them honestly when the test ends.
+- **Aftermath (end of Chapter 10 and handoff):** The unresolved conflict is public, the routes are closed, the pump remains unsafe, Tomas demands a visible responsibility bond, and Jonas must begin the next batch without a permanent appointment or civic authority.
+
+## Batch aftermath
+
+- The bridge lane, clinic route, and shelter handoff are closed at their stated expiry; no temporary permission is carried forward as Jonas’s authority.
+- Jonas files the fault as an unresolved permission conflict. The empty root field is recorded as a maintenance fact, while the direct CivicCore offer, full Lowglass history, Evan’s counter-amendment, administrator title, and blank-bearer request remain unspent.
+- The public knows that an attended test worked for a limited window, not that the underlying rule was repaired. The old water line stays closed and residents retain their right to state a claim without being entered into the city map.
+- Tomas’s visible responsibility bond is now a gate on Jonas’s next shared-node civic edit. Sanaa has a reason to keep working with him because he disclosed the night-transfer delay, but the relationship remains professionally wary.
+- The next batch begins with the ordinary consequences of Chapter 10: a pending appointment, a worker’s demand for accountable repair, and a question Jonas cannot answer by opening one more door.
 
 ## Claim and service ledger
 
@@ -84,11 +100,11 @@ Location/time: Saint Orra bridge maintenance bay, afternoon into evening.
 
 Immediate goal: Restore the bridge’s ambulance lane and document the conflict before the next inspection.
 
-Resistance: The physical reset can hold only during an attended service window. Deputy Registrar Oren Pell invokes an emergency rule and says the bridge must be closed because its permission record is incomplete. The crew cannot stay on the hinge indefinitely.
+Resistance: The physical reset can hold only during an attended service window. Deputy Registrar Oren Pell invokes an emergency rule and says the bridge must be closed because its permission record is incomplete. He will not authorize a blanket reopening, but he permits one bounded ambulance lane if the crossing guard, dispatcher, and clinic record the test. The crew cannot stay on the hinge indefinitely.
 
 Information revealed: The bridge’s “empty crossing” term was written for a different traffic pattern and now overrides the ambulance claim. After the first major repair, Jonas sees the Margin as a thin physical connection between the relay fault and the conflicting term. It shows relationships, not intent or a solution.
 
-Action or decision: Jonas asks the crossing guard, dispatcher, and maintenance crew to witness an attended test, not a civic rewrite. They keep the ambulance lane open for a stated ninety-minute window, log every use, and close the lane at the end of the window so the next inspection can decide its future. The repair is safe for the current service need and plainly incomplete.
+Action or decision: Jonas asks the crossing guard, dispatcher, and maintenance crew to witness the bounded test Oren has authorized, not a civic rewrite. They keep the ambulance lane open for a stated ninety-minute window, log every use, and close the lane at the end of the window so the next inspection can decide its future. The repair is safe for the current service need and plainly incomplete.
 
 Emotional change: Jonas’s pride in solving the hardware gives way to the first uncomfortable recognition that a witness can be part of safe operation rather than an obstacle to it.
 
@@ -110,7 +126,7 @@ Immediate goal: Keep the unlisted vehicle from becoming a public safety incident
 
 Resistance: The route exists in the Lattice but not in the transit authority’s maps. The driver will not explain the route because doing so could expose the passengers, while the station dispatcher wants the vehicle impounded. The clinic patient is too unstable to wait through an argument.
 
-Information revealed: A route can be physically present and operationally real while the human map treats it as empty. The vehicle carries a child, Pia Santos, and an older patient with a valid clinic appointment; the route’s local custodians are not rogue operators, but their practice and history remain unexplained.
+Information revealed: A route can be physically present and operationally real while the human map treats it as empty. The vehicle carries a child wearing a hand-marked route token, Pia Santos, and an older patient with a valid clinic appointment; the route’s local custodians are not rogue operators, but their practice and history remain unexplained.
 
 Action or decision: Jonas lets Pia speak for the passengers instead of questioning them as a threat. Under the incident’s attended escort procedure, he keeps the platform clear long enough for the patient to be admitted, the child to be handed to a waiting relative, and the courier to record the route without being detained. The vehicle is released to its driver with a written safety check, not entered into the city map.
 
@@ -118,7 +134,7 @@ Emotional change: Jonas’s assumption that an unregistered route is a rogue exc
 
 Power or resource change: The Fault-reader view shows a local chain with several holders and no single obvious missing term. It is useful only near a witness and a physical route; Jonas does not repair, transfer, or interpret the custodians’ permission.
 
-Continuity fact to preserve: The passengers have completed dispositions. The route is a seed, not the full Lowglass reveal; do not explain the Quiet Cut, civic erasure, or the neighborhood’s entire witness network yet.
+Continuity fact to preserve: The passengers have completed dispositions. The child’s route token is a later community-watch seed, not a hidden power or a reason to expose the child. The route is a seed, not the full Lowglass reveal; do not explain the Quiet Cut, civic erasure, or the neighborhood’s entire witness network yet.
 
 Ending type: discovery.
 
@@ -206,9 +222,9 @@ Immediate goal: File an accurate incident report that preserves the bridge’s u
 
 Resistance: NDC management wants the incident closed as a hardware-only failure so the probationary work order can be cleared. Tomas warns that a private “continuity waiver” is the usual way to make a repair look like a favor, even though no formal offer has been made yet. The records room rejects the report as incomplete when Jonas separates machine failure from the missing term.
 
-Information revealed: The bridge plate’s I. Vey seal belongs to an old Continuity Project maintenance series, not a current manufacturer mark. The associated index points to a lowland service record with a missing location and no readable fault-filer. The record is incomplete, but it does not yet identify Evan or reveal a counter-amendment.
+Information revealed: The bridge plate’s I. Vey seal belongs to an old Continuity Project maintenance series, not a current manufacturer mark. The associated index points to a lowland service record with a missing location and no readable fault-filer. A partial maintenance docket uses the same old district code as the service notice Jonas remembers from Evan’s last file, but the name field is cut off. The record is incomplete, and it does not reveal Evan’s fate or a counter-amendment.
 
-Action or decision: Jonas files an amended report marked “unresolved permission conflict,” keeps the access logs, and shares only the existence of the missing index with Tomas. He refuses to attach the residents’ names or route details to the department copy. He leaves his permanent civil-service appointment pending and makes no contract decision.
+Action or decision: Jonas files an amended report marked “unresolved permission conflict,” keeps the access logs, and shares only the existence of the missing index with Tomas. He refuses to attach the residents’ names or route details to the department copy, keeping those identities and the full route description in a sealed local custody log. He leaves his permanent civil-service appointment pending and makes no contract decision.
 
 Emotional change: Jonas realizes that a missing record is not the same as a hidden explanation, and that his desire to find his father cannot be allowed to turn strangers into evidence.
 
@@ -256,7 +272,7 @@ Resistance: A pressure fault opens in the side hinge during the test. Jonas can 
 
 Information revealed: When the Old Ward board refreshes its maintenance notice, the map shows an empty central root field. It is a missing holder, not a hidden person, and the notice does not ask Jonas to find anyone. The I. Vey seal is still the only old name attached to the route; no root clause, counter-amendment, or succession claim is available to him.
 
-Action or decision: Jonas anchors himself to the bridge plate and directs the diagnosis while the crossing guard, dispatcher, clinic clerk, and shelter worker operate their existing duties. They isolate the side hinge, keep one ambulance lane, the clinic entrance, and the shelter handoff open for a defined inspection window, then close all three routes when the window ends. Jonas records the delay, the witness names, the expiry, and the unresolved seam. The Old Ward board posts the empty field as a maintenance fact, not a solution.
+Action or decision: Jonas anchors himself to the bridge plate and directs the diagnosis while the crossing guard, dispatcher, clinic clerk, and shelter worker operate their existing duties. They isolate the side hinge, keep one ambulance lane, the clinic entrance, and the shelter handoff open for a defined inspection window, then close all three routes when the window ends. Jonas records the delay, the authorized institutional witnesses, the expiry, and the unresolved seam; unlisted residents’ identities and route details stay in the sealed local custody log. The Old Ward board posts the empty field as a maintenance fact, not a solution.
 
 Emotional change: Jonas stops waiting for a private truth to make him legitimate. He accepts that a safe shift and an honest record may be all he can responsibly offer today.
 
