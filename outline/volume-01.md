@@ -46,11 +46,11 @@ Jonas can work with ordinary fiber, relays, access plates, and bridge controls. 
 
 ### Chapters 1–10 — The first fault
 
-Jonas finds that the bridge’s “empty crossing” permission contradicts an ambulance service claim. He uses an attended hardware bypass and follows the same physical service chain to the west clinic, where an existing night watch completes a patient transfer. After the first major repair, he sees the Margin but cannot edit the civic term. The clinic route and a later shelter handoff expose a live service address absent from human maps, without yet explaining Lowglass’s civic erasure or the neighborhood’s full witness practice. Oren Pell invokes a valid safety closure, the water inspection fails, and Jonas files an unresolved conflict instead of accepting a hardware-only account. An old I. Vey Continuity Project seal appears on the bridge hardware, and a public Old Ward maintenance notice shows one empty central root field. No direct CivicCore offer, full Evan record, public administrator title, or blank-bearer request occurs in this section.
+Jonas finds that the bridge’s “empty crossing” permission contradicts an ambulance service claim. He uses an attended hardware bypass and follows the same physical service chain to the west clinic, where an existing night watch completes a patient transfer. The bypass is an ordinary reset and diagnosis only; it does not create a claim. The unlisted shuttle and later shelter handoff expose a separate live service address absent from human maps, not an effect of the bridge repair and not yet an explanation of Lowglass’s civic erasure or the neighborhood’s full witness practice. After the first major repair, he sees the Margin but cannot edit the civic term. Oren Pell invokes a valid safety closure, the water inspection fails, and Jonas files an unresolved conflict instead of accepting a hardware-only account. An old I. Vey Continuity Project seal appears on the bridge hardware, and a public Old Ward maintenance notice shows one empty central root field. No direct CivicCore offer, full Evan record, public administrator title, or blank-bearer request occurs in this section.
 
 ### Chapters 11–18 — The cost of a quick fix
 
-The repaired gate works, but the service schedule now follows Jonas’s personal availability. A patient is denied a transfer because the claim has no available bearer. Jonas learns that a fix can be technically correct and socially harmful. He makes his first civic edit only after Tomas makes him sign a visible responsibility bond and a named witness accepts the bounded claim. The edit leaves a seam mark on Jonas and a maintenance debt that cannot be paid by good intentions; Sanaa refuses to certify the repair until the missing term and its cost are disclosed.
+After Tomas makes him sign a visible responsibility bond, Jonas makes his first civic repair at the Saint Orra west-clinic gate. The existing night-watch steward remains the named bearer, while Sanaa is a separate informed witness; Jonas is the issuer, not the bearer, and takes a named maintenance claim. The repaired gate works, but its fallback schedule follows Jonas’s personal availability until a successor steward can accept the duty. During that gap a patient is denied a transfer, so Jonas learns that a fix can be technically correct and socially harmful. The edit leaves a visible seam mark and a maintenance debt that cannot be paid by good intentions; Sanaa refuses to certify the repair until the missing term and its cost are disclosed.
 
 ### Chapters 19–27 — Lowglass by another name
 
@@ -58,7 +58,7 @@ Pia leads Jonas through routes that exist in the Lattice but not on official map
 
 ### Chapters 28–36 — The contractor’s bargain
 
-CivicCore offers Jonas permanent employment and access to root-level notices if he signs a blanket continuity waiver. Rook’s engineers demonstrate that private maintenance can keep more hinges running than the underfunded NDC. Jonas refuses the waiver, but the Assembly schedules a vote while Oren closes a Lowglass building under an emergency rule. A second district fails because its hospital and shelter terms are incompatible.
+CivicCore offers Jonas permanent employment and access to root-level notices if he signs a blanket continuity waiver. Rook’s engineers demonstrate that private maintenance can keep more hinges running than the underfunded NDC. Jonas refuses the waiver, but the Assembly schedules a vote while Oren closes a separate Lowglass clinic-and-housing annex under a renewed flood-safety order; the old-canal shelter from the opening batch is already closed, so this is a new site and a new appeal rather than a repeated closure. A second district fails because its hospital and shelter terms are incompatible.
 
 ### Chapters 37–44 — Nine witnesses
 
@@ -100,11 +100,11 @@ The climax is a practical victory, not a victory over all corruption. CivicCore�
 
 ## New question for Volume 02
 
-The first repair exposed a citywide market for access: CivicCore can sell priority to whoever can afford a reliable claim. The primary Volume 02 question is: **who owns the records that decide which claims are remembered?** The fact that people outside the official map remain valid witnesses is a carried pressure, while the blank root and Jonas’s maintenance credential remain long-range questions for later volumes.
+The first repair exposed a citywide market for access: CivicCore can sell priority to whoever can afford a reliable claim. Volume 02 asks what happens when a city treats payment as a prerequisite for urgent care: **can a shared service floor survive when access is legally priced?** The records question becomes a pressure inside that case, while the blank root and Jonas’s maintenance credential remain the Volume 01 handoff.
 
 ## Final chapter image
 
-Jonas leaves the Old Ward carrying a tool roll that is too heavy for one person. Behind him, a city map printed from the repaired Lattice shows nine ordinary service districts and one unmarked center. The bridge is open, the clinic is quiet, and a Lowglass child’s name appears in a hand-written margin. Jonas’s name appears nowhere on the permission that kept the door open.
+Jonas leaves the Old Ward carrying a tool roll that is too heavy for one person. Behind him, a city map printed from the repaired Lattice shows nine ordinary service districts and one unmarked center. The bridge is open, the clinic is quiet, and a Lowglass child’s name appears in a hand-written margin. Jonas’s name is visible on the issuer line of the permission that kept the door open, but absent from its bearer field.
 
 ## Volume pacing note
 

@@ -19,7 +19,7 @@
       "range": null,
       "attempts": 1,
       "actualModel": null,
-      "result": "Volume 01 and the initial Chapters 1–10 batch cards established; cards later repaired after plan review."
+      "result": "Volume 01 and the initial Chapters 1–10 batch cards established; reviewer findings applied to clarify the Stage 1/Stage 2 causal order, volume handoff, custody limits, test authority, sensory cost, and distinct Oren closure."
     },
     {
       "id": "phase-002-batch-plan",
@@ -33,7 +33,7 @@
       },
       "attempts": 0,
       "actualModel": null,
-      "result": "Cards revised after planning review; no chapter prose generated. Awaiting the writer phase."
+      "result": "Cards and state repaired after reviewer findings; no chapter prose generated. Awaiting the writer phase with the Stage 1 endpoint and the later Stage 2 claim sequence explicit."
     }
   ]
 }

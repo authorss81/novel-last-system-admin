@@ -16,6 +16,8 @@ Required character changes: Jonas moves from “fix it and move on” to recordi
 
 Required power changes: Chapters 1–2 remain Stage 0: ordinary tools, schematics, attended work orders, and temporary routes only. The first major bridge repair in Chapter 3 activates a limited Fault-reader view of the Margin, with sensory bleed and a physical anchor required. Chapters 4–10 can diagnose a bounded conflict but cannot mend a civic term, create a bearer, transfer a duty, or leave Jonas with an active supernatural claim or seam mark. Stage 2 rule mending begins only in Chapters 11–18 after Tomas’s responsibility bond; that first civic repair leaves Jonas with a visible seam mark and a named maintenance claim.
 
+Causal sequence: The Chapters 1–3 bridge work is an ordinary attended reset followed by diagnosis only. The Chapter 4 unlisted route is a separate service lead, not a consequence of that reset. The first Stage 2 civic repair in Chapters 11–18 creates the named maintenance claim and supplies the first claim-bearing trail toward Lowglass.
+
 Required world reveals: A permission needs a holder, scope, witness, term, claim, and precedence; an incomplete permission can remain operational and still cause harm. The Lattice notices are incomplete maintenance messages, not an all-knowing voice. A route can be present in the Lattice while missing from human maps, but the batch does not yet identify its full civic history. An old I. Vey seal marks the bridge hardware. A public Old Ward maintenance notice shows an empty central root field; this is a field, not a hidden person or a request to find one.
 
 Open questions after the batch: Why is a live service route absent from the city’s maps? What does the obsolete crossing clause protect, and who maintains the unlisted route? What does the empty central root field mean during an uneven renewal? Why does Jonas’s ordinary maintenance credential reach a fault without making him its holder? The direct CivicCore offer, the full Lowglass history, Evan’s counter-amendment and second signature, the nine-witness coalition, the public “last working system administrator” title, and the blank-bearer request remain reserved for later Volume 1 sections.
@@ -40,6 +42,7 @@ Open questions after the batch: Why is a live service route absent from the city
 
 - No supernatural claim or seam mark exists at the start of the batch.
 - Any temporary bridge, clinic, or shelter route made in Chapters 1–9 has a named custodian, a stated end or renewal point, and an on-page closure or handover. It is not Jonas’s personal bearer status.
+- The old-canal shelter’s named watch steward is the accountable custodian of any sealed local record of the unlisted route. The full route description and resident identities are never copied into the NDC report: each resident controls access to their own entry, the steward may use it only for the completed return-of-care and immediate safety follow-up, and the record expires at the next route review. Any later use requires the affected resident’s consent.
 - Chapter 10 ends with the underlying terms still unresolved, the attended test safely closed, and no Stage 2 claim carried forward. The next civic repair must wait for Tomas’s visible bond and a named witness.
 
 ## Chapter Cards
@@ -100,15 +103,15 @@ Location/time: Saint Orra bridge maintenance bay, afternoon into evening.
 
 Immediate goal: Restore the bridge’s ambulance lane and document the conflict before the next inspection.
 
-Resistance: The physical reset can hold only during an attended service window. Deputy Registrar Oren Pell invokes an emergency rule and says the bridge must be closed because its permission record is incomplete. He will not authorize a blanket reopening, but he permits one bounded ambulance lane if the crossing guard, dispatcher, and clinic record the test. The crew cannot stay on the hinge indefinitely.
+Resistance: The physical reset can hold only during an attended service window. Deputy Registrar Oren Pell invokes the Assembly’s Emergency Service Test clause after the side hinge passes a separate load inspection. He refuses a blanket reopening because the bridge’s permission record is incomplete, but permits one bounded ambulance lane when the crossing guard, dispatcher, and clinic record the test. The witnesses document use; they do not cure the underlying permission conflict, and the crew cannot stay on the hinge indefinitely.
 
 Information revealed: The bridge’s “empty crossing” term was written for a different traffic pattern and now overrides the ambulance claim. After the first major repair, Jonas sees the Margin as a thin physical connection between the relay fault and the conflicting term. It shows relationships, not intent or a solution.
 
-Action or decision: Jonas asks the crossing guard, dispatcher, and maintenance crew to witness the bounded test Oren has authorized, not a civic rewrite. They keep the ambulance lane open for a stated ninety-minute window, log every use, and close the lane at the end of the window so the next inspection can decide its future. The repair is safe for the current service need and plainly incomplete.
+Action or decision: Jonas asks the crossing guard, dispatcher, and maintenance crew to witness the bounded lane test Oren has authorized, not a civic rewrite. Under the clause, they keep the ambulance lane open for a stated ninety-minute window, log every use, and close the lane at the end of the window so the next inspection can decide its future. The repair is safe for the current service need and plainly incomplete.
 
 Emotional change: Jonas’s pride in solving the hardware gives way to the first uncomfortable recognition that a witness can be part of safe operation rather than an obstacle to it.
 
-Power or resource change: Stage 1 Fault-reader view begins after the repair. Jonas must anchor his attention to the access plate and a trusted person; crowds make the competing claims difficult to separate. He cannot alter the term, create a seam mark, or carry a personal claim.
+Power or resource change: Stage 1 Fault-reader view begins after the repair. Immediately after the first successful read, a bounded sensory bleed hits Jonas: metallic taste, pressure behind his eyes, and nausea. He must anchor his attention to the access plate and a trusted person; crowds make the competing claims difficult to separate, and he cannot continue once he leaves the hinge. He cannot alter the term, create a seam mark, or carry a personal claim.
 
 Continuity fact to preserve: Oren Pell enforces a valid but harmful emergency rule. He is not secretly the source of the fault.
 
@@ -182,7 +185,7 @@ Emotional change: Jonas stops seeing the registrar as an obstacle to be defeated
 
 Power or resource change: Jonas can read the local precedence in the Margin, but he cannot override Oren, change the closure, or take its inspection duty. No seam mark or personal claim appears. Tomas arrives and refuses to let Jonas turn the relocation into an undocumented personal guarantee.
 
-Continuity fact to preserve: Oren remains a pressured local official. His order is the first concrete example of the story’s central distinction between validity and justice. The relocation is complete before the next chapter.
+Continuity fact to preserve: Oren remains a pressured local official. His order is the first concrete example of the story’s central distinction between validity and justice. The relocation is complete before the next chapter. The later Volume 1 Lowglass closure concerns a separate clinic-and-housing annex, not this already-closed old-canal shelter.
 
 Ending type: decision.
 
@@ -224,13 +227,13 @@ Resistance: NDC management wants the incident closed as a hardware-only failure 
 
 Information revealed: The bridge plate’s I. Vey seal belongs to an old Continuity Project maintenance series, not a current manufacturer mark. The associated index points to a lowland service record with a missing location and no readable fault-filer. A partial maintenance docket uses the same old district code as the service notice Jonas remembers from Evan’s last file, but the name field is cut off. The record is incomplete, and it does not reveal Evan’s fate or a counter-amendment.
 
-Action or decision: Jonas files an amended report marked “unresolved permission conflict,” keeps the access logs, and shares only the existence of the missing index with Tomas. He refuses to attach the residents’ names or route details to the department copy, keeping those identities and the full route description in a sealed local custody log. He leaves his permanent civil-service appointment pending and makes no contract decision.
+Action or decision: Jonas files an amended report marked “unresolved permission conflict,” keeps the access logs, and shares only the existence of the missing index with Tomas. He refuses to attach the residents’ names or route details to the department copy. The old-canal shelter’s named watch steward keeps the full route description and passenger identities in a sealed local custody log: each resident may review their own entry, the steward may use it only for the completed return-of-care and immediate safety follow-up, and the log expires at the next route review. NDC receives only a redacted incident reference, and no later use may expose a resident without that resident’s consent. He leaves his permanent civil-service appointment pending and makes no contract decision.
 
 Emotional change: Jonas realizes that a missing record is not the same as a hidden explanation, and that his desire to find his father cannot be allowed to turn strangers into evidence.
 
 Power or resource change: Jonas remains Stage 1. Records can show where a term is absent, but a paper file cannot give him root access or identify intent. He still has no active seam mark, personal claim, or repair authority.
 
-Continuity fact to preserve: CivicCore’s direct offer and Evan’s counter-amendment belong to later Volume 1 sections. The I. Vey seal is a fair seed, not a first-administrator reveal.
+Continuity fact to preserve: CivicCore’s direct offer and Evan’s counter-amendment belong to later Volume 1 sections. The I. Vey seal is a fair seed, not a first-administrator reveal. The sealed route record is a local custodial trust, not an NDC intelligence file; its custodian, expiry, access, and consent limits must remain visible in the scene.
 
 Ending type: reversal.
 
@@ -272,13 +275,13 @@ Resistance: A pressure fault opens in the side hinge during the test. Jonas can 
 
 Information revealed: When the Old Ward board refreshes its maintenance notice, the map shows an empty central root field. It is a missing holder, not a hidden person, and the notice does not ask Jonas to find anyone. The I. Vey seal is still the only old name attached to the route; no root clause, counter-amendment, or succession claim is available to him.
 
-Action or decision: Jonas anchors himself to the bridge plate and directs the diagnosis while the crossing guard, dispatcher, clinic clerk, and shelter worker operate their existing duties. They isolate the side hinge, keep one ambulance lane, the clinic entrance, and the shelter handoff open for a defined inspection window, then close all three routes when the window ends. Jonas records the delay, the authorized institutional witnesses, the expiry, and the unresolved seam; unlisted residents’ identities and route details stay in the sealed local custody log. The Old Ward board posts the empty field as a maintenance fact, not a solution.
+Action or decision: Jonas anchors himself to the bridge plate and directs the diagnosis while the crossing guard, dispatcher, clinic clerk, and shelter worker operate their existing duties. They isolate the side hinge, keep one ambulance lane, the clinic entrance, and the shelter handoff open for a defined inspection window, then close all three routes when the window ends. Jonas records the delay, the authorized institutional witnesses, the expiry, and the unresolved seam. The municipal report retains only a custody receipt; unlisted residents’ identities and the full route description remain with the old-canal shelter’s watch steward under the consent, access, and expiry limits established in Chapter 8. The Old Ward board posts the empty field as a maintenance fact, not a solution.
 
 Emotional change: Jonas stops waiting for a private truth to make him legitimate. He accepts that a safe shift and an honest record may be all he can responsibly offer today.
 
 Power or resource change: Jonas ends the batch as Stage 1, not a rule mender. He can identify a bounded fault and help people describe an existing duty, but he cannot edit a term, transfer a holder, read the root, or issue a permanent appointment or title. No supernatural seam mark or personal claim remains active after the routes close.
 
-Continuity fact to preserve: Lowglass remains unlisted and legally unrecognized. CivicCore has not made its direct offer yet. The permanent civil-service appointment remains pending. The public “last working system administrator” title and the “find the blank bearer” notice are reserved for Chapters 45–48.
+Continuity fact to preserve: Lowglass remains unlisted and legally unrecognized. CivicCore has not made its direct offer yet. The permanent civil-service appointment remains pending. The public “last working system administrator” title and the “find the blank bearer” notice are reserved for Chapters 45–48. The local custody receipt proves only that the completed dispositions were recorded; it does not grant the city access to residents’ identities or the route.
 
 Ending type: earned hook.
 

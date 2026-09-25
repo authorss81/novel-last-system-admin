@@ -133,12 +133,12 @@ The novel runs for fifteen volumes, forty-eight chapters each. Each volume resol
 - **Starting state:** Jonas is a probationary field technician, Evan is a missing father, Sanaa is a skeptical emergency physician, and Lowglass is absent from official maps.
 - **Major locations:** River Stacks, Saint Orra, the Old Ward, Bellow Market, and the first Lowglass hinges.
 - **Major factions:** NDC workers, Saint Orra staff, the Civic Assembly, CivicCore’s field team, and the early Lowglass witnesses.
-- **Major movement:** Jonas discovers that the bridge fault is a conflict between an ambulance permission and an obsolete “empty crossing” term. His first civic repair opens a sealed clinic door and assigns him a claim. He follows the resulting access trail into Lowglass.
+- **Major movement:** Jonas discovers that the bridge fault is a conflict between an ambulance permission and an obsolete “empty crossing” term. His initial bridge repair is an attended hardware reset that only diagnoses the conflict. The unlisted route in Chapters 4–10 is a separate service lead, not a consequence of that reset. After Tomas’s visible responsibility bond, Jonas makes his first civic repair at the west clinic, where a sealed door receives a bounded term and he takes a named maintenance claim; that claim supplies the first access trail toward Lowglass.
 - **Midpoint reversal:** the person who appears to be deliberately granting access is not a hacker. The permissions are being opened by a child and several residents using an old community watch term that the city erased.
-- **Escalation:** Oren Pell closes a building under a valid emergency clause; CivicCore offers Jonas promotion in exchange for signing a blanket continuity waiver; Jonas and Sanaa repair a clinic while the Lattice’s terms begin to fracture; Jonas finds a fragment of Evan’s maintenance signature.
+- **Escalation:** Oren Pell closes a separate Lowglass clinic-and-housing annex under a renewed flood-safety order, creating a new appeal rather than repeating the old-canal shelter closure; CivicCore offers Jonas promotion in exchange for signing a blanket continuity waiver; Jonas and Sanaa repair a clinic while the Lattice’s terms begin to fracture; Jonas finds a fragment of Evan’s maintenance signature.
 - **Climax:** during a river surge, Jonas coordinates nine local witnesses and a temporary bridge duty rather than restoring central control. The bridge holds, but the Lattice redraws the city map and shows an empty root at the center.
 - **Resolution:** the immediate hospital and bridge promises are met. The Continuity contract is delayed, not defeated. Jonas is publicly named the last working system administrator while Lowglass remains legally unlisted.
-- **New question:** who owns the records that decide which claims are remembered, especially when a valid claim belongs to someone the official map does not count? The blank root’s origin and Jonas’s credential remain carried mysteries for later volumes.
+- **New question:** why is the central root field blank, and why does Jonas’s ordinary maintenance credential reach it without making him its bearer? The origin of the blank root and the source of the credential remain the Volume 01 handoff; records ownership becomes a pressure inside Volume 02’s priced-access case.
 - **Power/relationship change:** field technician to rule mender; Jonas and Sanaa establish a working but uneasy professional bond; Tomas makes him accept a visible responsibility bond.
 
 ### Volume 02 — The Price of Access (Chapters 49–96)
@@ -148,7 +148,7 @@ The novel runs for fifteen volumes, forty-eight chapters each. Each volume resol
 - **Midpoint reversal:** the apparent denial is caused by residents signing hollow terms to obtain emergency service, then becoming unable to renew them; the contractor is exploiting the system rather than inventing the injustice.
 - **Climax:** Jonas helps tenants, clinic staff, and pump operators revoke one dangerous blanket permission without cutting water to the entire district.
 - **Resolution:** priority access is ruled invalid in a public case, but CivicCore retains the physical network. A new cooperative steward board forms.
-- **New question:** who owns the root records that decide which claims are remembered?
+- **New question:** can a city keep a shared service floor when urgent access is legally priced, and who bears the cost when a resident refuses the price?
 - **Power/relationship change:** Jonas becomes a transfer steward; Sanaa trusts him with a patient-level claim but not with a city-level one.
 
 ### Volume 03 — The City’s Missing Floor (Chapters 97–144)

@@ -19,6 +19,7 @@
 - He needs to share authority and accept that a technically correct repair can still be morally wrong.
 - He must not become a passive hero, a face-slapping genius, or an all-purpose solver. Every new capability requires a witness, a limit, and a cost.
 - Jonas can mender one local term in Volume 1. The claim and seam mark remain active consequences.
+- The first civic repair’s issuer is Jonas, but the current bearer is the existing local steward; an issuer’s name remaining in the record does not make that person the bearer.
 
 ## Relationship continuity
 
@@ -41,14 +42,16 @@
 ## Opening-batch progression guardrails
 
 - Chapters 1–2 are Stage 0 work: ordinary tools, attended procedures, and routes that expire or close on-page. Jonas does not become a bearer, create a supernatural claim, or receive a seam mark.
-- The first major repair in Chapter 3 activates only a limited Stage 1 Fault-reader view. Sensory bleed requires a physical anchor and a trusted witness; it does not reveal intent.
+- The first major repair in Chapter 3 is an ordinary attended reset that activates only a limited Stage 1 Fault-reader view. The Chapter 4 unlisted route is a separate service lead, not a consequence of that reset. Sensory bleed requires a physical anchor and a trusted witness; it does not reveal intent.
 - Chapters 4–10 may diagnose local terms and record consequences, but Jonas cannot mend a civic term, transfer a holder, reconcile nodes, or issue a permanent appointment or citywide order.
-- The first Stage 2 repair belongs to Chapters 11–18, after Tomas’s visible responsibility bond. Its claim, seam mark, and social cost must remain active until the responsible people discharge or renegotiate them.
+- The first Stage 2 repair belongs to Chapters 11–18, after Tomas’s visible responsibility bond, and occurs at the Saint Orra west-clinic gate. The existing night-watch steward is the bearer; Sanaa is a separate informed witness; Jonas is the issuer and carries the named maintenance claim, not bearer status. Its claim, seam mark, and social cost must remain active until the responsible people discharge or renegotiate them.
 - Temporary routes in Chapters 1–10 have a named custodian, a stated expiry or closure, and an on-page disposition. They are not carried forward as Jonas’s personal authority.
+- The old-canal shelter’s named watch steward is the accountable custodian of the sealed unlisted-route log. The NDC report contains only a redacted reference; each resident controls their own entry, the steward’s access is limited to the completed return-of-care and immediate safety follow-up, the record expires at the next route review, and later use requires resident consent.
+- Oren’s Chapter 3 exception is the Assembly Emergency Service Test clause, limited to a separately inspected lane. Witnessing documents the test but does not validate the bridge’s general permission. The later Lowglass closure concerns a separate clinic-and-housing annex, not the opening old-canal shelter.
 
 ## Mystery and antagonist continuity
 
-- Opening mystery: unauthorized access follows an erased neighborhood and a blank root field. The first batch may show an unlisted service route, an incomplete index, an I. Vey seal, and an empty root field, but not the full explanation.
+- Opening mystery: unauthorized access follows an erased neighborhood and a blank root field. The first batch may show an unlisted service route as an independent lead, an incomplete index, an I. Vey seal, and an empty root field, but not the full explanation. The later first civic repair creates the claim-bearing trail toward Lowglass; it does not retroactively make the bridge reset a claim.
 - Oren Pell is a local pressure figure enforcing a valid safety closure, not the mastermind.
 - CivicCore’s direct offer, the full Lowglass history, Evan’s counter-amendment and second signature, the maintenance-route explanation, the public Iona reveal, the “last working system administrator” title, and the “find the blank bearer” notice are reserved for later Volume 1 sections. The empty field is not a hidden person.
 - CivicCore’s Alden Rook, Continuity Bloc leader Iven Sore, Quiet Archive head Cora Quill, and Iona Vey form the later antagonist ladder. None may be introduced as a new final enemy.

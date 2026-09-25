@@ -24,7 +24,7 @@ The action is grounded in the struggle to keep promises physical. A bridge, clin
 
 Jonas Mercer is a probationary municipal network technician in the Nacre Department of Civic Continuity. His work usually involves replacing fiber modules, resetting civic access plates, and repairing the junctions where ordinary power and the city’s hidden **Civic Lattice** meet. He wants permanent employment, a clean record, and enough control over his own life that he never has to repeat his father’s disappearance.
 
-During a routine inspection in Volume 1, a pedestrian bridge refuses an ambulance because two old permissions contradict one another. Jonas makes a temporary repair. The repair works, but the Lattice opens a door in a sealed clinic and assigns him a debt he cannot discharge until he acts in the physical world. The incident exposes a neighborhood called **Lowglass**, which exists in the infrastructure but not on the official city map.
+During a routine inspection in Volume 1, a pedestrian bridge refuses an ambulance because two old permissions contradict one another. Jonas makes an attended, temporary repair; it opens a bounded clinic route and reveals a missing term, but it does not give him a supernatural claim. A later first civic repair, made only after a visible responsibility bond, mends a sealed clinic door and assigns him a named maintenance claim. The opening investigation also finds a separate, live service route through **Lowglass**, which exists in the infrastructure but not on the official city map.
 
 ## Story engine
 

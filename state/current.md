@@ -21,6 +21,7 @@ Active threats:
 Active promises:
 
 - Jonas will carry the Saint Orra bridge-and-clinic failure through its immediate service consequences before the opening mystery expands.
+- The Chapters 1–3 bridge work is diagnostic only; the Chapter 4 unlisted route is an independent service lead, not an effect of the bypass.
 - A live service route absent from human maps will seed the later Lowglass reveal without explaining its civic history in this batch.
 - Evan Mercer’s missing file, counter-amendment, and unresolved second signature remain a private mystery; they are not revealed in the first ten chapters.
 - Iona Vey’s old seal will be a fair seed without making her a public first-administrator reveal.
@@ -28,7 +29,7 @@ Active promises:
 
 Current relationship pressure: Jonas and Sanaa are professionally wary, with one honest disclosure after the night-transfer delay but no colleague status yet. Tomas distrusts undocumented responsibility and will not authorize a shared-node civic edit without a visible bond. Pia has made a first independent appearance but is not Jonas’s apprentice or a community spokesperson. Evan’s absence is still framed as abandonment, and Nadia is not yet ready to reopen the subject.
 
-Current power state: Jonas begins as a Stage 0 field technician. Chapters 1–2 use ordinary tools, schematics, attended work orders, and temporary routes. The first major bridge repair in Chapter 3 activates a limited Stage 1 Fault-reader view; Chapters 4–10 diagnose but cannot edit civic terms. At the end of the batch, Jonas has no active supernatural seam mark or personal claim, cannot read root clauses, cannot transfer a duty, and cannot issue a citywide order.
+Current power state: Jonas begins as a Stage 0 field technician. Chapters 1–2 use ordinary tools, schematics, attended work orders, and temporary routes. The first major bridge repair in Chapter 3 activates a limited Stage 1 Fault-reader view with an immediate bounded sensory bleed; Chapters 4–10 diagnose but cannot edit civic terms. The first civic repair is reserved for Chapters 11–18 at the Saint Orra west-clinic gate: the existing night-watch steward is the bearer, Sanaa is a separate informed witness, and Jonas is the issuer carrying a named maintenance claim. At the end of the opening batch, Jonas has no active supernatural seam mark or personal claim, cannot read root clauses, cannot transfer a duty, and cannot issue a citywide order.
 
 Active service goals:
 
@@ -37,9 +38,10 @@ Active service goals:
 - Deliver the Chapter 4 unlisted passengers and the Chapter 5 patient return to the shelter with named custodians.
 - Complete the Chapter 6 relocation and Chapter 7 water inspection; reopening the unsafe pump remains denied.
 - Complete the Chapter 9 night handover and the Chapter 10 attended-service test without turning either into a permanent repair.
+- Keep the unlisted-route record with the old-canal shelter’s named watch steward: municipal copies remain redacted, each resident controls their entry, the record expires at the next route review, and later use requires resident consent.
 
-Active seam marks and claims: None at planning handoff. Chapters 1–9 use ordinary, expiring routes with named custodians. Chapter 10 leaves an unresolved permission conflict in the record; the first supernatural seam mark and named repair claim belong to the Stage 2 sequence in Chapters 11–18 after Tomas’s bond.
+Active seam marks and claims: None at planning handoff. Chapters 1–9 use ordinary, expiring routes with named custodians. Chapter 10 leaves an unresolved permission conflict in the record; the first supernatural seam mark and named repair claim belong to the Stage 2 sequence in Chapters 11–18 after Tomas’s bond, with Jonas as issuer rather than bearer.
 
-Planning status: Bible, series outline, ending outline, Volume 01 outline, and the repaired Chapters 1–10 cards are complete. The batch plan now ends at Stage 1 with a local service payoff and a responsibility decision. No chapter prose exists yet.
+Planning status: Bible, series outline, ending outline, Volume 01 outline, and the repaired Chapters 1–10 cards are complete. Reviewer findings have been applied: the opening diagnosis is separated from the later claim-bearing repair, the Volume 01 and Volume 02 handoff questions are distinct, the Oren exception has a named physical basis, and resident records have an accountable custodian. The batch plan now ends at Stage 1 with a local service payoff and a responsibility decision. No chapter prose exists yet.
 
-Next writer action: Write Chapters 1–10 from `outline/batches/volume-01-batch-0001.md` in order. Keep the full Lowglass history, CivicCore offer, Evan counter-amendment, shared-node repair, public administrator title, and blank-bearer request for their reserved later sections.
+Next writer action: Write Chapters 1–10 from `outline/batches/volume-01-batch-0001.md` in order. Keep the bridge reset diagnostic, the Chapter 4 route independent, the first Stage 2 claim in Chapters 11–18, the local custody receipt redacted, and the later Lowglass annex distinct from the opening shelter. Keep the full Lowglass history, CivicCore offer, Evan counter-amendment, shared-node repair, public administrator title, and blank-bearer request for their reserved later sections.
