@@ -30,7 +30,7 @@ Raynor-Hale wiped his hands on a rag, and said, patiently, the way you explain s
 
 “It was on the list.”
 
-“It was on the list on Tuesday and the list is nineteen days long.” She put the sanding block down with its flat side up, the way she always did. “Thirty-four technicians, nine hundred and ten hinges, two crews gone to CivicCore-failed nodes on Monday, and you are the only grade III in this shop on a Friday, and your appointment review is a review of a review. So write your series six response and let the man with the card do his gate.”
+“It was on the list on Tuesday and the list is nineteen days long.” She put the sanding block down with its flat side up, the way she always did. “Thirty-four technicians, nine hundred and ten hinges, and now that the two crews that were not ours have gone to CivicCore-failed nodes every remaining crew in this shop is on the same list, and you are the only grade III here on a Thursday, and your appointment review is a review of a review. So write your series six response and let the man with the card do his gate.”
 
 Jonas wrote the series 6 response that morning on the plank across the two milk crates, because the plank was the only flat dry thing in the building, and Nina Calder had already read him the third version of the first three lines on the telephone at half past seven, twice, in a tone she reserves for people who have not slept.
 
@@ -38,7 +38,7 @@ Then at half past two a woman called Ceri Vaughan rang the shop and asked whethe
 
 ---
 
-The room was over a tool-hire place on Marsh Lane and it had a clean table and a screen on the wall showing a map of the city with two thousand and ninety civic hinges on it, coloured by who held them. It took him a minute to work out that the blue was not a district and the grey was not a fault. It was the department, and CivicCore, and *held by neither*, and the grey was a quarter of the map.
+The room was over a tool-hire place on Marsh Lane and it had a clean table and a screen on the wall showing a map of the city with two thousand and ninety civic hinges on it, coloured by who held them. It took him a minute to work out that the blue was not a district and the grey was not a fault. There were three colours on that screen. The department, and CivicCore, and *held by neither*. The grey was a quarter of the map.
 
 “You have read my file,” said Jonas.
 
@@ -112,7 +112,7 @@ Jonas looked at the screen with the two thousand and ninety hinges on it for a w
 
 He did not sign anything, and he did not say no, and he was aware of both of those as decisions rather than as outcomes.
 
-The department’s response came at ten past four in the afternoon on the Friday and would be in the minute and the minute goes public on the Monday. The four parts would be on a laminated card, and the card would have a number on it, and Vaughan gave him the card, and said the offer did not expire before the twentieth of April, and that she had put his name on it as *refused* rather than *deferred*, on the grounds that a city that cannot tell the difference between no and not-yet is how the Weir happened.
+The department’s record of the meeting came out at ten past four in the afternoon on the Friday, and it goes into a minute, and the minute goes public on the Monday. The four parts were on a laminated card, and the card had a number on it, and Vaughan put it on the table in front of him with the number face up, and said the offer did not expire before the twentieth of April, and that she had put his name on it as *refused* rather than *deferred*, on the grounds that a city that cannot tell the difference between no and not-yet is how the Weir happened.
 
 He said he would rather it said *deferred*.
 
@@ -140,11 +140,11 @@ They were four inches apart, in the same flat register, and he had read them twi
 
 He had noticed, standing in the dark, that they had changed in a way nobody had written down. Ten days ago they were a classification waiting for a review and a field with nothing in it, and there was a procedural difference between those two things, and a person could appeal against one of them. As of this afternoon both of them were a sentence with no process in front of it at all, because a standing tap that nobody has to answer is not a lapsed term, it is simply how the water behaves, and there is nothing on that board or on any board to appeal against.
 
-Clipped to the frame on the left of the board, with a bent paperclip, was a sheet of ruled net-loft paper with fifty-nine door marks on it drawn in pencil by somebody who could not draw.
+Clipped to the frame on the left of the board, with a bent paperclip, was a sheet of ruled net-loft paper with fifty-nine door marks on it drawn in pencil by somebody who could not draw, and a tree on it, and a number against the tree. That was not the paper the loft had put up on the twenty-second. That paper was four feet to the left, on four paperclips with a piece of tape over the seam, one side of a sheet, the work and the cost and the sentence in the middle of it, and it had been there five days. The map had come up on its own on the twenty-fourth, in the same hand, and nobody had written anything on it, because there was nothing yet to write on it.
 
-He could have taken it down. It was on his patch, it was curling at the corner, and it was the only unofficial thing in the whole canopy. He could have taken it down and straightened it and written a date on the back of it, and a man with a laminated card in his pocket and a review on Monday would have been doing the department a small favour.
+He could have taken it down. It was on his patch, it was curling at the corner, and of everything under that canopy it was the only thing nobody else had asked him to do anything about. He could have taken it down and straightened it and written a date on the back of it, and a man with a laminated card in his pocket and a review on Monday would have been doing the department a small favour.
 
-He did not touch it, and he understood, standing there with his hands at his sides, that this was the third time in eleven days that he had wanted to do something to that piece of paper and had not, and that the reason was not integrity. The reason was that he did not have anybody’s permission, and that not having anybody’s permission had started to feel less like a wall and more like a job.
+He did not touch it, and he understood, standing there with his hands at his sides, that wanting to was not the same as being asked, and that not having been asked had started to feel less like a wall and more like a job.
 
 On the seat beside him, face up, was the card. Four parts, a reference, a date, and the twentieth of April. In twenty-four days the nine houses at the top of that street would have had three weeks without water, and there was no version of the arithmetic in which that was a decision anybody had taken, because no decision had been taken at all.
 

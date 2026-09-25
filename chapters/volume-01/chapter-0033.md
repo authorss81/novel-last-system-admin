@@ -26,7 +26,7 @@ Oren Pell was at the end of the table with his coat still buttoned and his hands
 
 “I am going to say the thing that everybody in this room is thinking and that Mr Mercer has not said yet,” said Royden Achebe, “and then you can refuse it properly instead of half of it. It is not true that anybody is erased.
 
-“A category cannot say no. Fine. A *person* on a rota can say no, and I have read the twenty-fourth, and it is right, and the woman who reads those five lines out loud every week at ten o'clock is not a category and neither is the boy who reads them back. Your objection is about the door and about the refusal, and on the twenty-fourth of March that woman read a term aloud to a man of twenty-six and renewed it because she wanted to, and the two of them did that in a corridor for nothing. No clause in this document stops a rota doing that on Tuesday.” He put two fingers on the page. “What this document does is say that when a *continuity maintenance requirement* exists, it is served. A flooded lowland. A pump house with a burst main. A clinic door with a patient behind it and no one at it. It does not say anything about a rota on a good day and I have had it re-drafted twice to make sure of it.
+“A category cannot say no. Fine. A *person* on a rota can say no, and I have read the twenty-fourth, and it is right, and the woman who reads those five lines out loud every week at ten o’clock at night is not a category and neither is the boy who reads them back. Your objection is about the door and about the refusal, and on the twenty-fourth of March that woman read a term aloud to a man of twenty-six and renewed it because she wanted to, and the two of them did that in a corridor for nothing. No clause in this document stops a rota doing that on Tuesday.” He put two fingers on the page. “What this document does is say that when a *continuity maintenance requirement* exists, it is served. A flooded lowland. A pump house with a burst main. A clinic door with a patient behind it and no one at it. It does not say anything about a rota on a good day and I have had it re-drafted twice to make sure of it.
 
 “So tell me the sentence in that document that stops a woman keeping her own door, because I have not been able to find it and I would like to go back to a drafting meeting with something.”
 
@@ -98,7 +98,7 @@ She read it back. It was accurate and it was uglier than his version and it kept
 
 Royden Achebe stood up. He did the thing he did, which was to be fair about a thing he had wanted, and he did it without a scrap of theatre.
 
-“Then here it is, and I would rather you had it in this room than read it on Monday. Your review of the review was concluded at ten past nine this morning. Your civic practice is sound. The failures to produce were not yours. Everything I have to say after that is bad, so I am going to say it quickly. Grade three, probationary, no appointment, reviewable at the end of the season. The department is not holding it against you. The department is holding it against you because the post the contract needs is the post the waiver makes, and I am not going to let a thirty-two-year-old carry a contract in his first year of service.”
+“Then here it is, and I would rather you had it in this room than read it on Monday. Your review of the review was concluded on Thursday morning, in eleven minutes, and the outcome came out of the tray at ten past nine today. Your civic practice is sound. The failures to produce were not yours. Everything I have to say after that is bad, so I am going to say it quickly. Grade three, probationary, no appointment, reviewable at the end of the season. The department is not holding it against you. The department is holding it against you because the post the contract needs is the post the waiver makes, and I am not going to let a thirty-two-year-old carry a contract in his first year of service.”
 
 “Say the rest.”
 
@@ -106,7 +106,7 @@ Royden Achebe stood up. He did the thing he did, which was to be fair about a th
 
 “And the money.”
 
-“CiviCore’s participation fund withdrew at ten past ten this morning,” said Vaughan. “Two crews come off the Saint Orra queue on Monday, which puts the Tarn Street pump and eleven other city jobs back to a median of nineteen days, and Mr Mercer, I am not telling you that as a threat, I am telling you because you were in the room when the number was read out and it would be dishonest of me to leave it out of my own part.” She closed the folder. “The retainer and the arrears are not ours to pay and will not be offered by us again. I am sorry. I did think I could do that one.”
+“CivicCore’s participation fund withdrew at ten past ten this morning,” said Vaughan. “Two crews come off the Saint Orra queue on Monday, which puts the Tarn Street pump and eleven other city jobs back to a median of nineteen days, and Mr Mercer, I am not telling you that as a threat, I am telling you because you were in the room when the number was read out and it would be dishonest of me to leave it out of my own part.” She closed the folder. “The retainer and the arrears are not ours to pay and will not be offered by us again. I am sorry. I did think I could do that one.”
 
 At ten past ten they let him out.
 

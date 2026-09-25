@@ -1,6 +1,6 @@
 # Chapter 0039 — The Instance and the Fragment
 
-The Bellow Market cold store is on the service side of the great shed, behind a door that is open from five in the morning, and at twenty to six on Saturday morning eleven people were standing at the loading hatch with signed collection slips and a borough food-safety hold on the store that had been in force since eleven o’clock on Thursday, and the hatch was opening and shutting.
+The Bellow Market cold store is on the service side of the great shed, behind a door that is open from five in the morning, and at twenty to six on Friday morning eleven people were standing at the loading hatch with signed collection slips and a borough food-safety hold on the store that had been in force since eleven o’clock on Thursday, and the hatch was opening and shutting.
 
 Not fast. About four seconds open, six shut, four open. And the temperature inside was at three degrees and it needed to be at two, and the log said it had been at six degrees for ninety minutes on Thursday afternoon because the compressor had tripped and nobody had been able to reach anybody, and the officer had put a hold on the whole store at eleven that night and the hold had been in force ever since.
 
@@ -14,7 +14,7 @@ The Margin was open about four inches wide, the way it opens when a hinge is act
 
 He could not mend that, and the reason he could not mend it was not Stage 2, and it was not his claim, and it was not the four-in-the-morning problem, and it was the simplest and oldest thing in the trade, which is that you cannot read a fault out properly, or say out loud what a service is for, or write a term that changes somebody’s day, without somebody who is on the rota being able to say it back to you.
 
-The two terms were both in good order. The first was the collectors’ self-collect term: goods may leave the store on a member’s own claim, 05:00 to 09:00, signed at the hatch, no third party, the member collects and the member carries. The witness of record on that term was Fola Adeyemi, because the collectors’ association wrote their rules in 2009 and put the market’s working chef on them, because she was the one person in the building who could say what a fish was doing on a pallet and what it was doing on a table.
+The two terms were both in good order. The first was the collectors’ self-collect term: goods may leave the store on a member’s own claim, 05:00 to 09:00, signed at the hatch, no third party, the member collects and the member carries. Its holder was not a member. Rule eleven of the collectors’ rules, written in 2009, puts the market’s working chef in the holder field for the day’s window and her name in the witness field beside it, because she is the one person in the building who can say what a fish was doing on a pallet and what it was doing on a table, and because a plate will not take a bare role. Fola Adeyemi has stood at that hatch every morning for twenty-two years, holds a borough licence with her name on it, and put her name to rule eleven herself, and being named is not a new exposure on anybody; it is the twenty-two years she already had.
 
 The second term was a borough food-safety hold, issued on Thursday night, which said that nothing whatever may leave the store until a named officer lifts it, and that no member claim, no trader claim, and no temperature log overrides it.
 
@@ -28,17 +28,17 @@ Eleven people stood there with signed slips. A man of sixty-five with a bakery o
 
 “I know that. That is why I am standing here.” She put the slip down on the hatch ledge. “I am not asking you to open it. I am asking you to make it stop opening, because at some point in the next hour somebody who has a business and not a conscience is going to walk through it, and then all of this is a matter for a different building than this one.”
 
-He went and found the collectors’ association’s rule on the noticeboard and read it, and then he telephoned Fola Adeyemi, and she answered on the second ring and said, “No.”
+He went and read rule eleven off the collectors’ noticeboard, standing up, in the cold, and then he telephoned Fola Adeyemi, and she answered on the second ring and said, “No.”
 
 “I have not asked you.”
 
-“You have rung me at twenty-five to six in the morning to tell me that a hatch I am the named witness of is opening and shutting and to ask me to come and stand next to it, and the answer is the same as it was on Wednesday, and I have told you the reason, and I am not going to tell it twice. Go and find somebody nobody can ring at six in the morning.”
+“You have rung me at twenty-five to six in the morning to tell me that a hatch I am the named holder of is opening and shutting and to ask me to come and stand next to it, and the answer is the same as it was on Wednesday, and I have told you the reason, and I am not going to tell it twice. Go and find somebody nobody can ring at six in the morning.”
 
 He put the telephone down in a market service yard at twenty-three minutes to six in the morning and had no witness, and no holder, and no term he could touch, and he had been in the city for eleven days with a credential that could reach a root-level notice and could not reach a hatch in a shed in a market that eleven people were locked out of.
 
 At four minutes past six, Fola Adeyemi came down the yard in an apron with her hair tied back, on her own, having told nobody she was going, and stood next to Jonas Mercer and looked at the hatch for about two minutes without saying anything.
 
-“I am not doing this for you,” she said. “I want that said first and I want it said in front of the eleven of them, because you have spent a week collecting witnesses and I am about to do one thing and I am not going to have it in a list with a name on it. I am doing this because a term has my name in the witness field and that hatch is answering to two things at once, and if somebody walks through it at six o’clock on Saturday morning then it is my name at the top of the thing and I will be sixty next year and unemployed. That is all. Ask me nothing about the flood.”
+“I am not doing this for you,” she said. “I want that said first and I want it said in front of the eleven of them, because you have spent a week collecting witnesses and I am about to do one thing and I am not going to have it in a list with a name on it. I am doing this because rule eleven has my name in the holder field for today, which is a different thing from the witness field, and the holder field is the one that does not let me go home, and that hatch is answering to two things at once. And if somebody walks through it at six o’clock on Friday morning then it is my name at the top of the thing and I will be sixty next year and unemployed. That is all. Ask me nothing about the flood.”
 
 “I am not going to ask you about the flood.”
 
@@ -70,7 +70,7 @@ Jonas stood in a shed at Bellow Market at ten past six in the morning with a bra
 
 Six-forty was the Saint Orra bridge. It was on his own chain, two nodes up from the clinic door, and it was the relay on the south span that had been physically stopped on the tenth of March and formally isolated at half past ten that morning, and it had been isolated ever since, and it was the only one of the three in this equation that anybody in the city could put on a list without a fight.
 
-And the other two were a chamber and a standpipe on a street with no address, one of which had been classified as plant four hours ago, in a room with forty-one people in the gallery, by six members of a statutory panel, on the strength of six words he had written on the fourteenth of March, and one of which was in scope and uninspectable and would stay that way indefinitely because there is no address to send anybody to.
+And the other two were a chamber and a standpipe on a street with no address, one of which had been classified as plant on Tuesday, three days ago, in a room with forty-one people in the gallery, by six members of a statutory panel, on the strength of six words he had written on the fourteenth of March, and one of which was in scope and uninspectable and would stay that way indefinitely because there is no address to send anybody to.
 
 The three of them had been a set. They had been maintained as one service, by somebody, eleven years ago, in a district ironworks, and the maintenance had a return condition on it, and the return condition is on a tag that is now in a market shed in two pieces and one of the pieces is in his hand and he is not allowed to keep it.
 
@@ -86,6 +86,6 @@ It printed six lines and the fifth of them was the one that mattered and it said
 
 The hatch stayed shut. It did not flicker, it did not breathe, and it was not a fault any more, and the fault line that the overnight watch had read at ten past five that morning went off a board in River Stacks and came off the day’s list.
 
-Harminder Bhullar took the hold off at twenty past eleven in the morning from a hearing in Juniper Flats and came out to the market himself. The collection was at twenty past four in the afternoon, six hours outside the term’s own window, and the bakery order went out at ten past six because the man of sixty-five had driven it to another kitchen and cooked it there, and the woman of forty-one with the fish lost the Saturday, which is the day a fish business makes its rent, and she took the loss without saying one word about it to anybody except, later, to a fishmonger in the next pitch, who repeated it, and that is how Jonas knows it.
+Harminder Bhullar took the hold off at twenty past eleven in the morning from a hearing in Juniper Flats and came out to the market himself. The collection was at twenty past four in the afternoon, more than seven hours outside the term’s own window, and the bakery order went out at ten past six because the man of sixty-five had driven it to another kitchen and cooked it there, and the woman of forty-one with the fish lost the Saturday, which is the day a fish business makes its rent, and she took the loss without saying one word about it to anybody except, later, to a fishmonger in the next pitch, who repeated it, and that is how Jonas knows it.
 
 At half past four he stood in the yard of the River Stacks shop with nothing in his hands and a number in his head that he could not write down anywhere, and Bea Osunde, at the bench, with the bond’s yellow board behind her, looked at him for a moment and then went back to her work, because she could read a man who has been told something he is not allowed to say.

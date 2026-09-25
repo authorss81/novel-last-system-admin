@@ -32,9 +32,9 @@ Nora Bell looked at the traffic going past for a while.
 
 “I have stood in that road for nineteen years,” she said. “Somebody with a clipboard comes to me four times a year and asks me about a gate. You are the first one who has said *I need you* instead of *I need you to sign*, and I have noticed that, and I want you to know I have noticed it, because it is not nothing, and it is not enough either.” She turned round. “You can get me an answer in a week. In a week I can be told what a witness is and what I am agreeing to and what I can refuse. In a flood I have got about ninety seconds to decide whether to stand in it. You are asking me to do the ninety seconds part without the week. That is the trade and I am not refusing it, I am telling you I have noticed you made it, and I will take the week, and then I will tell you.”
 
-“The fourteenth,” she said, before he could answer. “Not Thursday — Thursday I have the school run and my granddaughter and I am not thinking about civic anything. The fourteenth, half past three, at that end of the barrier, and bring your own paper, because I do not write on other people’s paper.”
+“The fourteenth,” she said, before he could answer. “And not a Thursday. Thursday I have the school run and my granddaughter and I am not thinking about civic anything. The fourteenth, half past three, at that end of the barrier, and bring your own paper, because I do not write on other people’s paper.”
 
-He wrote it on the back of a job card at the shop: **N. BELL — TUE 14 APRIL, 15:30, BARRIER END. BRING OWN PAPER.**
+He wrote it on the back of a job card at the shop: **N. BELL — MON 14 APRIL, 15:30, BARRIER END. BRING OWN PAPER.**
 
 And then he had one name and eight lines, and Bea took the card out of his hand.
 
@@ -96,6 +96,6 @@ She put the pen down.
 
 “That is a condition with a date on it and it is not clever and it is not a trick and it is the only kind of consent I have ever been able to give anybody in nineteen years of being a clerk,” said Mina Okafor. “I will sign that, in my own hand, and bring it to you, and then you go and find me eight other people, and I hope to God you do not find them all in one building.”
 
-Bea was still in the yard at six with the gate closed and the PTFE tape on the bench, and he put the card on the bench with two names on it and eight ruled lines and the word *witness* at the top, which was new and which he had written on the Thursday morning before he had anybody to put under it.
+Bea was still in the yard at six with the gate closed and the PTFE tape on the bench, and he put the card on the bench with the word *witness* at the top, which was new and which he had written on the Thursday morning before he had anybody to put under it, and two names on it and seven ruled lines still empty.
 
 “The fourteenth,” said Bea, reading it upside down. “You have got Nora Bell for the fourteenth and Mina Okafor for a date in April. That is two out of nine, and the ninth is going to cost somebody, and I am not going to say it again.”

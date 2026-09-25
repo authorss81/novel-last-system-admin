@@ -2,7 +2,7 @@
 
 Nina Calder read the series 6 response out loud on the Friday morning at twenty past nine, standing at the end of the records counter with her coat still on, and she read all of it, including the parts she had made him write twice, and at the end she said, “That is filed,” and then she said, “And I am not going to say one word about the fourteenth of March, and you are not going to ask me to, and if anybody in this room asks you what you thought about the six words you are going to tell them you thought about them every day since, which is true, and which is not an answer, and which is the only one either of us has.”
 
-The review is on Monday. The response is in the file. Nine days of the month gone and the same six words sitting in the middle of the file in his own handwriting, and Royden Achebe’s name under them, and there was nothing at all he could do with that on a Friday.
+The review is on Tuesday. The response is in the file. Nine days of the month gone and the same six words sitting in the middle of the file in his own handwriting, and Royden Achebe’s name under them, and there was nothing at all he could do with that on a Friday.
 
 At eleven o’clock a man called Alden Rook arrived at the shop and shook his hand and asked whether he could buy him a coffee, which Jonas said no to, and then Rook said, “Fair. Then I will stand here for forty minutes and you can ask me questions and I will not answer any of them, and then you can ask me one more and I will answer that one properly. That is a fair offer and I have made it to four technicians this month.”
 
@@ -22,7 +22,7 @@ Morrow Fields, Plot 6, a market garden with eleven glasshouses and a pump house 
 
 “Because of a dispute about the contract,” said Jonas. “It is not in the catalog. It is in a private addendum written in 2011 and nobody owns it, and there was no change note, so the department cannot order from it.”
 
-Rook wrote that down, not to score it — to keep it. “Then we have agreed on a fact and it is not in your favour, so I will say the other thing and say it quickly. Ivo’s crew came on the fifth because the fourth is a Sunday and Ivo works Sundays, and Ivo is not paid for Sundays and is paid for them anyway, because if I do not pay him for them he does them anyway and resents me. That is the whole secret of this company and it took me four years to work it out. The company does not do maintenance. It does attendance, and attendance is a person, and a person can be bought, and once you have bought him he turns up.”
+Rook wrote that down, not to score it — to keep it. “Then we have agreed on a fact and it is not in your favour, so I will say the other thing and say it quickly. Ivo’s crew came on the fifth because the department had nobody in on the fourth and Ivo works the days the department does not staff him, and he is not paid for them and is paid for them anyway, because if I do not pay him for them he does them anyway and resents me. That is the whole secret of this company and it took me four years to work it out. The company does not do maintenance. It does attendance, and attendance is a person, and a person can be bought, and once you have bought him he turns up.”
 
 “That is not maintenance.”
 
@@ -152,7 +152,7 @@ Then he got into the van, and got out again, and stood on the kerb with the ledg
 
 “That is advice.”
 
-“It is the only free thing I have got,” said Rook, “and I am giving it to a man who agreed with me on a pavement about a price, and I would like it noted that I am aware of what that does to my argument and I am not sorry.”
+“It is the only free thing I have got,” said Rook, “and I am giving it to a man who agreed with me on a pavement about a price, and I am not unaware of what that does to my argument, and I am not sorry.”
 
 He shut the door and went up Marsh Lane and left Jonas Mercer with four days, a sentence he could not put in a document, and a review going exactly the way the worst possible afternoon had predicted.
 
@@ -166,7 +166,7 @@ Bea had the bench to herself and a cold cup of tea and the look of a woman who h
 
 “No.”
 
-“Right.” She drank the cold tea. “Then you are the first person in a fortnight to come back from a meeting in this city with no argument, and I want to say something about it and then I am going to bed. It is worth more than his numbers. If you stand up in that room on Monday and say *I could not answer him*, the people who want that contract are going to hear a technician admit that the department has nothing, and that is a thing that can be used, and you will not be able to take it back.”
+“Right.” She drank the cold tea. “Then you are the first person in a fortnight to come back from a meeting in this city with no argument, and I want to say something about it and then I am going to bed. It is worth more than his numbers. If you stand up in that room on Tuesday and say *I could not answer him*, the people who want that contract are going to hear a technician admit that the department has nothing, and that is a thing that can be used, and you will not be able to take it back.”
 
 “I am not going to say that.”
 

@@ -4,9 +4,9 @@ The price of an appeal in the city of Nacre, in the spring, is four things and t
 
 Nell Ardent read the form out in the laundry room at ten past eleven on Monday morning with the whole of it turned round so that the association could see it, and she read it twice because the first time she was doing her job and the second time she was making sure they had it.
 
-“The first thing is time. The panel sits on the twenty-third of April. That is twenty-four days’ notice, the minimum is fourteen, and the extra ten are not generosity — they are because the registrar’s office knows what happened on the twenty-second of March at the old canal and does not want it twice.
+“The first thing is time. The panel sits on the twenty-third of April. That is twenty-three days’ notice, the minimum is fourteen, and the extra nine are not generosity — they are because the registrar’s office knows what happened on the twenty-second of March at the old canal and does not want it twice.
 
-“The building is closed and it stays closed until the panel sits. That is the price, and it is paid whether we win or not, and the borough has bought twenty-one nights at the Anchor House, and the twenty-first night is the eleventh of April, and the twelfth and the thirteenth are nobody’s problem yet. Somebody in this room is going to have to notice that in about three weeks, and I am telling you now so that you cannot say afterwards that nobody warned you.”
+“The building is closed and it stays closed until the panel sits. That is the price, and it is paid whether we win or not, and the borough has bought fourteen nights at the Anchor House, the last of them the night of the twelfth, and the thirteenth is nobody’s problem yet. Somebody in this room is going to have to notice that in about three weeks, and I am telling you now so that you cannot say afterwards that nobody warned you.”
 
 “The second is representation. The panel will hear an appellant represented by a solicitor, an officer of a recognised civic body, or a person the panel accepts is able to instruct themselves. That third one has a bracket round it in the regulations and there is no practice direction attached to the bracket and in eight years of doing this I have seen it used twice and lost twice.
 
@@ -40,7 +40,7 @@ Yasmin Rohan took her keys off the belt and put them on the table, all eleven of
 
 Nobody contradicted her, and Jonas understood, standing at the back of a laundry room, that a nineteen-year-old courier had just made the correct procedural argument to a room of eleven adults and a lawyer and he had not made it himself in three weeks.
 
-“Two,” said Yasmin Rohan. “CivicCore wrote to me on Friday afternoon.”
+“Two,” said Yasmin Rohan. “CivicCore wrote to me on Thursday afternoon.”
 
 The room changed.
 
@@ -74,11 +74,11 @@ Oren Pell came at four and sat in the laundry room with his clipboard and did no
 
 “I tell you the panel cannot hear arithmetic,” said Oren Pell. “I do not tell you we lose, because I do not know that, and I have been wrong about a building twice and I would rather be wrong a third time than be right and have said so.”
 
-Jonas took the sheet of ruled paper out of his inside pocket. He had been carrying it since Friday and had read it in a van, and it had four names against three positions and a ring drawn round a blank space and a line underneath in his own handwriting: **THE 22ND, AT 03:00, ON A BANK. NO NAME.**
+Jonas took the sheet of ruled paper out of his inside pocket. Pia Santos had written it herself, on the Saturday morning at the bottom of the slipway, on the back of his own copy of the series 6 form, and had made him fold it into four and had watched him fold it. It was not the loft’s paper. The loft’s paper was one side of a sheet, on four paperclips under the glass canopy in the Old Ward, and he had never been near it. This had four names against three positions and a ring drawn round a blank space, and under the ring, in his own hand, because he had copied it off a kitchen wall out of memory on the way back down the path: **THE 22ND, AT 03:00, ON A BANK. NO NAME.** It was the only thing in his coat he was not allowed to write into a file.
 
 He did not put it on the table.
 
-“There is a piece of paper in that room,” said Yasmin Rohan. She had not looked at it and had not needed to. “I have heard about it. A woman on a street in a district with no address wrote down three positions and drew a ring round the place where a name would go, on purpose, so that everybody could see that there was not one. And you have been carrying it around since Friday.”
+“There is a piece of paper in that room,” said Yasmin Rohan. She had not looked at it and had not needed to. “I have heard about it. A woman on a street in a district with no address wrote down three positions and drew a ring round the place where a name would go, on purpose, so that everybody could see that there was not one. And you have been carrying it around since Saturday.”
 
 “Yes.”
 
@@ -86,7 +86,7 @@ He did not put it on the table.
 
 “That is exactly right,” said Jonas.
 
-“Good, because I have known it since Tuesday and I have been waiting to see if you would,” said Yasmin Rohan, “and you did, in about four seconds, which is the fastest anybody has got there this month, and I would like it on the record that you were the fastest and that I am not going to soften anything else.”
+“Good, because I have known it since Tuesday and I have been waiting to see if you would,” said Yasmin Rohan, “and you did, in about four seconds, which is the fastest anybody has got there this month, and put it down that you were the fastest, because I am not going to soften anything else.”
 
 “There is one more thing in that file,” said Oren Pell, standing up, “and it is the one I came to say, and then I am going because I am not a member of this association and I have no standing in a laundry room.
 
@@ -102,10 +102,10 @@ Selah Mora was the last one out. She had been in the hostel corridor in a street
 
 At the bottom of the stairs she stopped and turned round.
 
-“That is the shape,” she said. “That is the shape of every single one of these, and it is always the shape, and I have been watching it for eleven days from a corridor where a woman of twenty-six hands over a key to a woman of sixty-eight every night at ten o’clock. Eleven flats, one name. Fifty-nine doors, no name, a ring round the gap. One clinic and a hundred and eighteen thousand pounds that a woman will not let anybody compute. It is the shape, and every time the shape arrives it is always a person who is paying, and it is never the person with the lever.”
+“That is the shape,” she said. “That is the shape of every single one of these, and it is always the shape, and I have been watching it for eleven days from a corridor where a man of twenty-six hands over a key to a woman of sixty-eight every night at ten o’clock. Eleven flats, one name. Fifty-nine doors, no name, a ring round the gap. One clinic and a hundred and eighteen thousand pounds that a woman will not let anybody compute. It is the shape, and every time the shape arrives it is always a person who is paying, and it is never the person with the lever.”
 
 “Selah,” said Jonas.
 
-“I am not finished. The ninth is in nine days, and forty minutes of *matters arising*, and I am going to ring him tomorrow and I am going to read him the line off your board and I am going to make him say the words *not yet agreed* out loud in a telephone, so that on the ninth, when there are nine other things on that agenda, at least one person in that room has said them today. And that is all I have got and it is a telephone call and it is not a cheque.” She put her bag on her shoulder. “And I am not going to carry two hundred and four sandbags to a lock-up on Marsh Lane at eleven o’clock at night, and I know the woman there is watching me decide, and I have decided.”
+“I am not finished. The ninth is in nine days, and forty minutes of *matters arising*, and I am going to ring him tomorrow and I am going to read him the line off your board and I am going to make him say the words *not yet agreed* out loud in a telephone, so that on the ninth, when there are nine other things on that agenda, at least one person in that room has said them today. And that is all I have got and it is a telephone call and it is not a cheque.” She put her bag on her shoulder. “And I am not going to be one of four women hauling two thousand four hundred sandbags to a lock-up on Marsh Lane at eleven o’clock at night, and I know the woman there is watching me decide, and I have decided.”
 
 Yasmin Rohan opened the ledger to the second page, and took her own pen out of her own coat pocket, and wrote at the bottom of it, in the fourth line of the form, one name, and underlined it, and did not read it out to anybody.

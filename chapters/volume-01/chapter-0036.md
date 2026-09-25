@@ -6,7 +6,7 @@ Jonas Mercer stood up to present the series 6 response, which was the last thing
 
 “Thank you. Reporting officer, series 6 plate 41, grade three, present for the classification item only and not otherwise cleared. And before we start: the six words at the top of that recommendation are mine, and there are six of them, and two of them are a node number and four of them are two words apiece, and I would like that on the record so that nobody in this room has to guess which six I mean.” He put the sheet face down. “That is the response. I am not going to summarise it and I am not going to explain it, because everything in it is either in the file or on a wall in a place with no address, and both of those are better sources than me.”
 
-“Then we go to the recommendation,” said Councillor Marsh. “Non-civic plant, both nodes, authored on the fourteenth of March at 12:41, lodged on the twenty-second, on your reporting officer number. Mr Mercer, you have three options and I am going to read them because I would like them on the record in that order. You may maintain it, you may withdraw it, or you may decline to speak to it. Do you maintain it?”
+“Then we go to the recommendation,” said Councillor Marsh. “Non-civic plant, both nodes, authored on the fourteenth of March at 12:41, lodged on the twenty-second, on your reporting officer number. Mr Mercer, you have three options and I am going to read them in the order they were decided in, so that the order is not in dispute afterwards. You may maintain it, you may withdraw it, or you may decline to speak to it. Do you maintain it?”
 
 “No.”
 
@@ -74,7 +74,7 @@ He went back into the committee room and left Jonas in a corridor holding a pane
 
 ---
 
-The Civic Assembly sat at two o’clock with a full gallery and one hundred and nine members and an item on the paper that had been on no agenda in this city since the Quiet Cut, which Jonas knew about and the nineteen people in the morning gallery had mostly not.
+The Civic Assembly sat at two o’clock with a full gallery and one hundred and nine members and an item on the paper that had been on no agenda in this city since the Quiet Cut, which Jonas knew about and the nineteen who had come to the morning review and stayed on into the afternoon had mostly not.
 
 The continuity contract went first and it was delayed in the ordinary way.
 
@@ -100,7 +100,13 @@ It took ninety seconds to read and it said the work and the cost and the refusal
 
 **WE ARE NOT A DISTRICT. WE HAVE NEVER BEEN A DISTRICT. WE ARE A STREET WITH WATER ON IT AND A FLAP GATE AT THE BOTTOM OF IT. WE ARE NOT GIVING A LIST OF HOUSES AND WE ARE NOT GOING TO.**
 
-“Nobody is named,” said Councillor Sore. “I have checked, because I would not have moved it otherwise. Not one personal name, not one door number, and a ring drawn round a blank space on a wall somewhere in this city with nothing inside it. I want that document on the record, because in four weeks it will be a *file*, and a file can be produced, and in six months somebody in an office will produce it in a hearing about a plant asset.”
+“It names nobody,” said Councillor Sore. “I have read it twice, because I would not have moved it otherwise. It is not a schedule, it is not an application, and it carries no door number. It asks this Assembly for nothing it could count. It refers to the one technician whose name your department has been saying out loud for a fortnight, and to a woman who paid thirty-nine pounds out of her own tin. It is the only document in thirty-two years of this chamber that arrives without a number on it. I want it in the room, because in four weeks it will be a *file*, and a file can be produced, and in six months somebody in an office will produce it in a hearing about a plant asset.”
+
+“It does not name me,” said Jonas.
+
+“No,” said Councillor Sore, without looking at him. “It does not have to. I have worked out who it is, and so has everybody in this gallery, and that is not the same as being on a list, and it is the last thing left in this city that is not.”
+
+And there is no request in it. Ninety seconds of paper, the work and the cost and the sentence in the middle, and not one line of it asks this House for the bank. The ring is not in the document either, because a ring is not a thing a sheet of paper can carry, and it is drawn in pencil on a kitchen wall on a street with no address, and there is nothing inside it, and she read the whole thing twice and did not find it.
 
 “Councillor, I have a motion,” said Sore, “and it is the only motion in this Assembly tonight on this matter and I am going to move it, and I am telling you now that I expect to lose it, and I am moving it anyway, because in six years I will be able to say I moved it.
 
@@ -130,15 +136,15 @@ He stood up.
 
 The Speaker said, “Declined in the room, minuted. The Assembly will fill the post.”
 
-“The department will fill the post,” said Royden Achebe, standing, before the Speaker had finished, and Jonas turned round in the aisle and looked at the man who had written the six words into the lodging and put his own name under them on the twenty-second of March, and who had said *a department cannot be a holder of a plate* and had been right, and who was now offering to be the nearest responsible maintenance route for a street with fifty-nine doors and no address.
+“The department will fill the post,” said Royden Achebe, standing, before the Speaker had finished, and Jonas turned round in the aisle and looked at the man who had carried the six words into the series 6 file on the twenty-second of March and put his own name under them, and who had said *a department cannot be a holder of a plate* and had been right, and who was now offering to be the nearest responsible maintenance route for a street with fifty-nine doors and no address.
 
-“Mine,” said Achebe. “Field services. It is my file, it is my classification, and if the Assembly wants somebody to hold it, it is not going to be a grade three who has been reviewed twice this month and declined, and I will say the thing that makes people uncomfortable, which is that the man who wrote *non-civic plant* is the man who ought to be standing next to it, and if I am standing next to it then somebody will come and ask me what a civic plant is, and I will have to have an answer, and that is the entire mechanism and I am not going to pretend to be too pure for it.”
+“Mine,” said Achebe. “Field services. It is my file, it is my classification, and if the Assembly wants somebody to hold it, it is not going to be a grade three who has been reviewed twice since the fourteenth of March and declined, and I will say the thing that makes people uncomfortable, which is that the man who wrote *non-civic plant* is the man who ought to be standing next to it, and if I am standing next to it then somebody will come and ask me what a civic plant is, and I will have to have an answer, and that is the entire mechanism and I am not going to pretend to be too pure for it.”
 
 “Moved and carried,” said the Speaker.
 
 Jonas was on his feet before it had finished echoing, and the Speaker let him get two words out and then stopped him.
 
-“On the fourteenth of March this department withdrew a draft in this room because a department cannot be the holder of a plate. I was in the room. The point is noted, Mr Mercer, and the motion is before the House and you may not reopen it. The House will hear anything else at the item.”
+“On the fourteenth of March this department withdrew a draft in the registrar’s answer because a department cannot be the holder of a plate, and Royden Achebe put his name and a time against it at ten past nine, and I was in the room. The point is noted, Mr Mercer, and the motion is before the House and you may not reopen it. The House will hear anything else at the item.”
 
 “Point noted,” said Jonas.
 
