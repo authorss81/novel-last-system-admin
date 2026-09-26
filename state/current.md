@@ -2,23 +2,24 @@
 
 Current controller phase: phase-003-prose
 
-Writing-run status: **Volume 01 complete (Chapters 1–48). VOLUME 02 CLOSED (Chapters 49–100). VOLUME 03 OPEN. Chapters 101–110 written (Volume 03, Batch 0001) — the batch is COMPLETE, ten of ten chapters exist, and the batch's midpoint, climax and the volume's second close are all on the page.**
+Writing-run status: **Volume 01 complete (Chapters 1–48). VOLUME 02 CLOSED (Chapters 49–100). VOLUME 03 OPEN. Chapters 101–120 written (Volume 03, Batches 0001 and 0002) — Batch 0002 is COMPLETE, ten of ten chapters exist, the batch's engine is spent, the volume's question is answered in the only form it can be answered in, and the last door has been opened once and not resolved.**
 
 Current volume: 3 — *The City's Missing Floor* — **OPEN, Chapters 101–144.** There is no `outline/volume-03.md`; the volume's spine is `outline/series.md` plus the two handover files below. `outline/series.md` reserves Chapters 97–144 for Volume 03, of which 97–100 are the Volume 02 close.
 
-Current batch: Volume 03, Batch 0001 (Chapters 101–110) — **DONE**
+Current batch: Volume 03, Batch 0002 (Chapters 111–120) — **DONE**
 
-Last completed chapter: **110**
+Last completed chapter: **120**
 
-Last batch summary: `state/batch-summaries.md` — Volume 03, Batch 0001
+Last batch summary: `state/batch-summaries.md` — Volume 03, Batch 0002
 
-Next planned batch: `workspace/volume-03/batch-0002/PROMPT.md` — Chapters 111–120
+Next planned batch: `workspace/volume-03/batch-0003/PROMPT.md` — Chapters 121–130
 
 ## Handover chain, in order. Do not summarise these in this file.
 
 1. `state/volume-02-close.md` — the authoritative handover **out of** Volume 02, written before Chapter 101. Read it first if you are reading anything about October.
-2. **The "VOLUME 03, BATCH 0001" block at the end of `state/continuity.md`** — the authoritative handover **into** Batch 0002: what happened after 1 October, the state of the register of narrowings, the reading rule, CivicCore's audit, the meters, the second public record, the seats, the Chapter 0102 person, the six words out loud, and the state of all eight standing refusals.
-3. `state/open-threads.md` — the live threads, at the end of the file.
+2. **The "VOLUME 03, BATCH 0002" block at the end of `state/continuity.md`** — the authoritative handover **into** Batch 0003, and it supersedes the Batch 0001 block wherever the two differ: the answer to the housing office's letter and the fourteen, the state of the Saint Orra west term after 4 January and who read it aloud and what was not written down, whether Royden Achebe was ever told, whether the reading rule was used, the seventh refusal and the reason column, the standing of the six lowland water points and why there is no seventh shape, the two pieces of paper and the drawer with no key, the volume's sentence and what is on the floor, the opening of Prue Calloway's finding, all eleven refusals, and **the correction that the cooperative steward board has no chair at all.**
+3. **The "VOLUME 03, BATCH 0001" block above it** — what happened after 1 October, the register, the reading rule's origin, CivicCore's audit, the meters, the second public record, the seats, the Chapter 0102 person, the six words out loud, and the state of the refusals as they stood after Chapter 110.
+4. `state/open-threads.md` — the live threads, at the end of the file. **The block to read is "VOLUME 03 OPEN THREADS — as they stand after Chapter 120".**
 
 ## Calendar rule (binding on everything written so far)
 
@@ -38,9 +39,27 @@ Volume 02, April to July: **21 April Monday · 22 April Tuesday · 23 April Wedn
 
 **20 October Monday · 21 October Tuesday · 22 October Wednesday · 23 October Thursday · 24 October Friday · 27 October Monday · 28 October Tuesday · 29 October Wednesday · 31 October Friday · 3 November Monday · 4 November Tuesday · 5 November Wednesday · 6 November Thursday · 7 November Friday · 10 November Monday · 12 November Wednesday · 13 November Thursday · 14 November Friday · 17 November Monday · 19 November Wednesday · 21 November Friday · 24 November Monday · 26 November Wednesday · 28 November Friday · 1 December Monday · 3 December Wednesday · 5 December Friday · 8 December Monday · 10 December Wednesday · 12 December Friday · 15 December Monday · 17 December Wednesday · 19 December Friday · 22 December Monday · 24 December Wednesday · 26 December Friday · 29 December Monday · 31 December Wednesday.**
 
-**And the fixed date Batch 0002 must carry: the Saint Orra west term expires at 06:00 on SUNDAY 4 JANUARY 2015, and the handover is on the Saturday night before it, which is Saturday 3 January 2015, and no date has been written down for that Saturday night by anybody.**
+**The date Batch 0002 carried and has now spent: the Saint Orra west term expired at 06:00 on SUNDAY 4 JANUARY 2015, and the handover was on Saturday 3 January 2015 at ten o'clock at night, read aloud by Ezra Mbeki and Trevor Nunn, 61, a night porter, in a waiting area with four chairs, and NOTHING WAS WRITTEN DOWN AND NOTHING IS GOING TO BE.**
 
-## THE STATE OF THE CITY AT THE END OF CHAPTER 110 — Wednesday 3 December 2014, about ten past eight in the evening
+**Volume 03, January to March 2015 — Batch 0003's calendar, counted from the same anchor (Chapter 101 = Monday 20 October 2014) and to be checked line by line against its own chapter headers when it is written: Monday 2 February 2015 · Wednesday 4 February · Friday 6 February · Monday 9 February · Wednesday 11 February · Friday 13 February · Monday 16 February · Wednesday 18 February · Friday 20 February · Monday 23 February · Wednesday 25 February · Friday 27 February · Monday 2 March · Wednesday 4 March · Friday 6 March · Monday 9 March · Wednesday 11 March · Friday 13 March. Saturdays 7, 14, 21, 28 February and 7 March are available and are not the day anybody is going to write down.**
+
+**The fixed date Batch 0003 must carry: the Saint Orra west term in force was read at 22:00 on Saturday 24 January 2015 and EXPIRES AT 06:00 ON SUNDAY 1 FEBRUARY 2015, and the handover for the next one is on Saturday 31 January 2015 at ten o'clock at night, and no date has been written down anywhere in this borough for that Saturday night, or for any of the six-day Saturday nights before it, and there is not going to be one for the seventh of them on Saturday 7 March 2015.**
+
+## THE STATE OF THE CITY AT THE END OF CHAPTER 120 — Wednesday 28 January 2015, about twenty to twelve in the morning
+
+- **The register of narrowings has NINETEEN entries and it has not moved since Wednesday 26 November 2014, which is ninety-four days, and the blank line under the nineteenth is blank and is the only fixed point in the building.** It was last checked at ten past two in the morning of Sunday 4 January.
+- **A reason column was asked for in writing on 2 January 2015 and refused by Nina Calder at a counter in the right order in about eleven seconds, and it is the seventh refusal, and it stands, and the letter went back with nothing in it.** A reason column is a sentence column and a sentence column is a name box with the serial numbers left off.
+- **The answer to the housing office's letter was read out on Thursday 18 December at half past two: two lines, reference HC/CR/1147, and it says the word *scope* and it is true.** Marguerite Oyelaran asked for it to be minuted in a second building and said the reason out loud, and has paid for it with a date against her name. **A difference of fourteen is now in two files and is not fourteen households and there is no form on which anybody could write that.**
+- **The Saint Orra west gate opened at seven on Sunday 4 January 2015 and it opened because of a handover at ten o'clock on Saturday 3 January read by two people who are not on anything, and there is no document about it and there is not going to be one.** The 11:00–13:30 gap is still published and unfilled, the rota has still not been rebuilt, Bram Osei's Thursday is still refused on the board in his own words, and the man of forty-eight who did the weekly verification has still not been asked and has still not been rung.
+- **The reading rule was used once, in a corridor, in about eleven seconds, on a man of forty-four who was not told he was in it, and Jonas Mercer found out because the man said four words at a counter. Frances Tolley is not going to be asked whether it worked.**
+- **The board stands at SEVEN OF NINE, two chairs empty, and there is no chair of that body and there never was.**
+- **Six lowland water points at £11,280 a year are a winter price, which is one boiler each, and nobody has been asked to pay any part of it. A man who has been at a market stand for twenty-six years asked to be counted on 13 January and refused the sixth of the six before anybody asked him, and no seventh shape was added to any record and the seventh is not resolved.**
+- **A woman's name is in about eleven people and in no document, and there are now two pieces of paper in this city with it on them, one in a plastic wallet in a drawer with no key in a Methodist hall and one in a handbag, or not, and nobody may open either.**
+- **The volume's question has been answered in the only form it can be answered in: a counter, a person at it, a state asked for instead of a list, a date, and a blank line at the bottom of a board that nobody is required to write on. It costs eleven seconds. It does not scale.**
+
+---
+
+## SUPERSEDED — THE STATE OF THE CITY AT THE END OF CHAPTER 110 — Wednesday 3 December 2014, about ten past eight in the evening
 
 - **The register of narrowings has NINETEEN entries and the blank line is blank.** Entry 17 (2 Oct) is Meter Room 3, Salter's Yard. Entry 18 (14 Nov) is a riser space at the rear block, Carrow Lane, placed for a condition survey that lapsed. Entry 19 (26 Nov) is a yard light, and the maintenance is a bulb, and the bulb is out. **All three are correct, and a register that grows when nobody is hurt is a register with a motive in it.**
 - **A form with no name box on it has been used to find a building, twice, and neither time by anybody who meant to.** Nina Calder built the absence in March and has said so out loud three times.
