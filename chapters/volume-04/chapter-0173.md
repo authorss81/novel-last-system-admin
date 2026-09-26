@@ -18,7 +18,7 @@ The block has four flats a side and a stairwell and a service yard at the back w
 
 "**Right. So I need about forty litres, and I am not going to put a hose through a flat, and I have got a van and I have got the other one in at two.**"
 
-The man of about twenty-six said this without asking for it. She was standing on the step with her arms folded. The machine is in the hall of the first floor and it came out of the flat this morning on a sack truck and it is a white one and it is not connected to anything.
+The man of about forty-two said all of that without asking for any of it, and there were two of them in that doorway and neither of them had come to ask the other for anything, and it took him about nine seconds. The machine is in the hall of the first floor and it came out of the flat this morning on a sack truck and it is a white one and it is not connected to anything.
 
 **Nobody in that yard was asked for anything. It was a doorway and two people in it and a key on a board.**
 

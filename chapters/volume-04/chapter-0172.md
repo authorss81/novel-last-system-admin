@@ -30,9 +30,9 @@ He has thought about it three times in four weeks and each time he has got to th
 
 **A thing with a space at the bottom of it for a name can be refused.** That is not a flaw in it. That is what the space is for. A person can look at a thing with a name on it and say no, and the no holds, and nobody in this borough is going to come and ask the person why they said no, and a thing with a name on it is the safest thing there is.
 
-**A thing with nothing on it cannot be refused and cannot be required either.** And that is the whole of what this borough has built in nine months, all of it, and it is correct, and every piece of it is there because somebody worked out the same thing nine times independently and none of them has ever put it in a sentence that anybody else has read.
+**A thing with nothing on it cannot be refused and cannot be required either.** And that is very nearly the whole of what this borough has built in nine months, and he has believed it since the fourth of September, and it is nearly all of it and it is not all of it, and the two that are not are why he has got to the same place three times and stopped.
 
-**And there are two of the first kind in this city. Both of them are in buildings.**
+**And there are two of the first kind in this city. Both of them are in buildings.** He has been through both of them in his head about nine times since June and every time he has got to the same place, and the place is that they are the whole of the argument against him and he cannot answer either, and he has never seen either.
 
 He knows one of them. He was in a room with it in the second week of June and he did not read it and he was not asked about it and he said nothing, and a woman of twenty-nine who was not asked to read it has said so out loud in daylight and again on the telephone.
 

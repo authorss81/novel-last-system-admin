@@ -1,6 +1,6 @@
 # Chapter 0170 — Three Things In June
 
-Friday the tenth of July 2015, from about ten in the morning until about half past eleven, the vestibule and the ground floor of the Old Ward.
+Friday the tenth of July 2015, from about ten in the morning until about eleven, the vestibule and the ground floor of the Old Ward.
 
 **A counter in a vestibule eleven feet by nine that answers what was true on a day and gives a date, and nothing else, and it did it the way it does everything, and it did not move, and a cool week is not a reason. A man of forty-seven came in at about a quarter past ten who was not asking about anything and got something nobody offered him, and it was correct, and it cost the woman behind the counter the length of a sentence and him the walk back out, and that is the whole of what a service is, and the count of refusals in this borough did not move. He asked no question of anybody and he was asked none.**
 
@@ -20,7 +20,7 @@ A woman of about thirty-three asked what the position had been in April, and was
 
 A man of about twenty-nine asked whether a collection on a road had been altered, and was told that it had not, and was given the date of the notice, and did not ask who had made the notice.
 
-A man of about fifty-six came in at about half past ten and said:
+A man of about fifty-six came in at about ten o'clock and said:
 
 "**Can you tell me whether a person's been on that list.**"
 
@@ -86,7 +86,7 @@ He stood there afterwards for a moment.
 
 "**That is better than what I came in for.**"
 
-"**It is a Friday and it is cool and I have been in here about an hour and you are the first person in an hour who has not wanted a piece of paper off me. About eleven people come through on a good morning and it is always a piece of paper, and the piece of paper is never the thing, and I give them the thing anyway because that is what is at the front of me.**"
+"**It is a Friday and it is cool and I have been in here about three quarters of an hour and you are the first person this morning who has not wanted a piece of paper off me. About eleven people come through on a good morning and it is always a piece of paper, and the piece of paper is never the thing, and I give them the thing anyway because that is what is at the front of me.**"
 
 "**Right.**"
 
