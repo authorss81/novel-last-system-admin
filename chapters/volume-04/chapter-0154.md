@@ -2,7 +2,7 @@
 
 Monday the twenty-fifth of May 2015 into Friday the fifth of June 2015. And on the Friday, from about one o'clock in the afternoon, a hall, Tarn Street.
 
-**He asked no question of anybody in a fortnight. Nobody asked him anything after the day room at the hospital on the Monday, and two people have now said something to him in a corridor and he has answered neither of them. He did not chair anything and there is no chair of that body and there never was. One item in the standing of the city is new. He did not write any of it down and it is not going in a minute and it is not going on a wall. Nobody was harmed. And the tank at the school is a different sentence from the counter, and the two are kept apart, and there are twenty minutes of it at the end of a corridor.**
+**He asked no question of anybody in a fortnight. He answered one question, in a day room at the hospital on Monday the eighteenth of May, and two people have since said something to him in a corridor and he has answered neither of them. He did not chair anything and there is no chair of that body and there never was. One item in the standing of the city is new. He did not write any of it down and it is not going in a minute and it is not going on a wall. Nobody was harmed. And the tank at the school is a different sentence from the counter, and the two are kept apart, and there are twenty minutes of it at the end of a corridor.**
 
 ---
 
