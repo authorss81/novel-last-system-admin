@@ -30,7 +30,7 @@ A question about which of two things goes first, on a road, with thirty people o
 
 ---
 
-**AND HE SAID THE CLAUSE OUT LOUD, IN DAYLIGHT, AT ABOUT ELEVEN FIFTEEN, IN FRONT OF THIRTY PEOPLE AND TWO COUNCILLORS AND A MAN WHO HAD CAME IN A VAN.**
+**AND HE SAID THE CLAUSE OUT LOUD, IN DAYLIGHT, AT ABOUT ELEVEN FIFTEEN, IN FRONT OF THIRTY PEOPLE AND TWO COUNCILLORS AND A MAN WHO HAD COME IN A VAN.**
 
 **"I am not going to apply clause six."**
 
@@ -100,11 +100,15 @@ He said nothing.
 
 ---
 
+**AND THERE IS ONE SQUARE ON THAT DRAWING THAT HAS NOTHING IN IT, AND HE READ IT WHILE SHE WAS STILL TALKING.**
+
+He read the sheet the way he reads everything, which is once and properly and with the whole of it at once, and there is one square on it with nothing in it, and it is not a district and it is not a seat, and it is not on any of the four sheets that will be in four places tonight. **He did not say so then and he did not say so afterwards, and there is nobody in this borough who is going to be able to say so either, and that is the last thing in this borough that is still unspent, and it is now in a woman's hands who does not know she is holding it.**
+
+---
+
 **AND HE COULD HAVE STOPPED HER AND HE DID NOT, AND HE WAS NOT GOING TO, AND HE KNEW EXACTLY WHY SHE HAD DONE IT.**
 
 It is the first irreversible act anybody in this borough has produced in nine months. Everything correct that has happened here was done by a person who could not be found afterwards, and every one of them was undone by the next fortnight or held only by about four people, and none of them could be pointed at, and that is why nothing in this borough has ever been proved. **She has made a thing that cannot be taken back, on purpose, having worked out that it could not be taken back, and she is right about the need, and she is not a villain, and she is not wrong, and every word she said on that pavement was correct.**
-
-**And there is one square on that drawing that has nothing in it, and it is not on any of the four sheets, and he saw that at about ten past one on a Friday afternoon, and he did not say so, and there is nobody in this borough who is going to be able to say so either, and that is the last thing in this borough that is still unspent and it is now in a woman's hands who does not know she is holding it.**
 
 ---
 

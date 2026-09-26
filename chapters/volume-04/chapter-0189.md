@@ -48,7 +48,7 @@ The licence is a room. It is not a tenancy and he is not a lodger and he is not 
 
 **Three. A MAN OF ABOUT EIGHTY-THREE WITH A VAN IN A YARD AT THE BACK OF THAT STREET.**
 
-The yard is reached through Selby Row. The van is inside it. It is a white van and it has a card on the dashboard with a telephone number on it, and he has a job on the Monday morning that starts at about eight.
+The yard is reached through Selby Row. The van is inside it. It is a van with a ladder in it and a coil of rope, and there is nothing else in it, and he has a job on the Monday morning that starts at about eight.
 
 **He is eighty-three. The van is on the wrong side of a barrier and the barrier came off the top of that street at about six o'clock this morning, and nobody has put it back, and the closure is right and the van is behind it.**
 
@@ -56,15 +56,15 @@ He has been sitting on a wall at the bottom of Selby Row since about half past s
 
 ---
 
-**AND THE PERSON WHO HAS ALL THREE ANSWERS IS FOUR HUNDRED YARDS AWAY IN A BUILDING WITH THE LIGHTS ON, AND HE HAS THE MEANS AND NOT THE INSTRUMENT, AND NOBODY IS GOING TO ASK HIM IN ANY EVENT.**
+**AND THE PERSON WHO HAS ALL THREE ANSWERS IS FOUR HUNDRED YARDS AWAY IN A BUILDING WITH THE LIGHTS ON, AND HE PUT A PIECE OF A4 ON A BARRIER IN AUGUST, AND HE IS THE ONLY PERSON WHO COULD WRITE THE THREE POSITIONS DOWN, AND NOTHING IN THE INSTRUMENT ASKS HIM TO.**
 
-The man of about thirty-eight has the district in front of him. He has the tenancy of number fourteen in a system. He has the medical summary of the woman of eighty-two because everybody has that. He has the name of the man in the back room because the room is on a licence and licences are in a system.
+The man of about thirty-eight has the district in front of him and has walked it since June. **He does not have a system. He has three sentences: that there is a tenancy at number fourteen and it is a tenancy and not a licence; that the woman at number ten cannot get down four flights at any time; and that there is a man in a back room at number fourteen who is there on a licence and has been there since the second of May. All three were said to him, one each, over about three weeks, in a doorway and on a forecourt and once at a counter while he waited for a van, by people who wanted something to do with their week, and not one of them was said in a room, and not one of them was written down, and that is the exact arrangement this borough has been running on for nine months.**
 
 **And clause two says the field holds four things: a person's name, the hour the person was called, the hour the person went home, and the thing the person was called for. Nothing else goes in the field.**
 
-Nobody was called on to find out where three people were going to sleep. The thing those three people were called for is not a thing anybody called them for. **The order is the only instrument anybody in this city has ever made that could hold a person's name and say what the person was for, and it says what the person was for, and what the person was for is a thing that goes in a field, and a tenancy is not a thing that goes in a field, and there is no clause in the whole of it about a room with a licence on it.**
+Nobody was called on to find out where three people were going to sleep. The thing those three people were called for is not a thing anybody called them for. **The order is the only instrument anybody in this city has ever made that could hold a person's name and say what the person was for, and it says what the person was for, and what the person was for is a thing that goes in a field, and a tenancy is not a thing that goes in a field, and there is no clause in the whole of it about a room with a licence on it, and there is no clause in the whole of it that says a person who has been told a thing has to write it down, and it does not need one, because there is nothing in this city that would enforce a clause like that.**
 
-**He is in that building and he has the answers and he is not permitted to put them anywhere, and it is not because anybody forbade him. It is because the instrument is complete.**
+**He is in that building and he has the answers and he is not permitted to put them anywhere, and it is not because anybody forbade him. It is because the instrument is silent. Silence is not permission and it is not a prohibition either, and a document that cannot tell those two things apart is not a document anybody can be asked a question about. He could put three correct positions on a piece of paper this morning, and the piece of paper would not go anywhere, because there is nothing in this city that a piece of paper like that can be put into — and if there were, he is the man who went out on the morning of the twenty-second of August and put a barrier across a lane with the hour written on it, and a man with an hour written on a barrier who then produces a list of what the barrier cost is a man with a record, and nothing in this borough hands out records.**
 
 **And it may not be put in front of the seat that is fifty-four and unpaid and can be found at a shopfront and at an address, because the seat that is fifty-four can empty that body, and a body that has been emptied cannot be asked to do anything, and if that happened today then nobody in this city could ever require anybody to do anything again, and the two sentences on the card in the Methodist hall are both true and neither can be argued out of the other, and the whole of this borough's capacity is standing on both of them at once.**
 

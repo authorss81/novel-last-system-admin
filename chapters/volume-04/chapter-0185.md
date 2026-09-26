@@ -2,7 +2,7 @@
 
 Saturday the first of August 2015, from about ten in the morning, a pavement on the far side of a market.
 
-**The weather came back and it was not the same weather. In May it was a spike. This is a degrade, and a degrade is a different thing, and nobody in this borough has a system for a different thing. A proposal was put on a table out loud in a first-floor room in the afternoon by a person with a constituency and a correct instinct, and every sentence she said was correct, and the borough could not refuse it, and refusing it is the thing nobody in this borough can do. Nothing was written down. Nobody was thanked. The heat did not by itself turn anything into a rota.**
+**The weather came back and it was not the same weather. In May it was a spike. This is a degrade, and a degrade is a different thing, and nobody in this borough has a system for a different thing. A proposal was put on a table out loud in a first-floor room in the afternoon by a person with a constituency and a correct instinct, and every sentence she said was correct, and the borough could not refuse it, and refusing it is the thing nobody in this borough can do. Nothing was written down and nobody put a name to anything. The heat did not by itself turn anything into a rota.**
 
 ---
 
@@ -10,7 +10,7 @@ Saturday the first of August 2015, from about ten in the morning, a pavement on 
 
 That is the whole of the difference between the two heats and it took nine days to establish it and nobody established it. In May there were three days over thirty and after the third it broke and everybody in this borough said afterwards that they had got through it. That is true and it is the wrong word.
 
-**A spike has a shape and you can see where it started. A degrade has no top.** Nine days of it now, and twenty-six degrees at four in the morning is the warmest night anybody in this borough can remember for the first of August, and the sun came onto the front of the shopfronts at about eleven and did not go off the concrete until about half past seven, and there was nothing anybody could do about that in the first week because there is nothing anybody can do about it on any day.
+**A spike has a shape and you can see where it started. A degrade has no top.** Nine days of it now, and it was twenty-six degrees at four in the morning, which is the warmest night anybody in this borough can remember for the first of August, and the sun came onto the front of the shopfronts at about eleven and did not go off the concrete until about half past seven, and there was nothing anybody could do about that in the first week because there is nothing anybody can do about it on any day.
 
 Nobody has a system for a degrade because a system for a spike is a thing you do on the third day, and a thing you do on the third day is still available a week in, and a thing that is available a week in is not the same thing as a thing that was necessary on the third day. **Everything this borough did in May is still available today. None of it is necessary today. All of it is being done anyway, by the people who did it, and they are not doing it because anybody asked them and they are not being asked.**
 
@@ -18,7 +18,7 @@ Nobody has a system for a degrade because a system for a spike is a thing you do
 
 **AND THE PROOF OF IT IS ON A PAVEMENT ON THE FAR SIDE OF THE MARKET.**
 
-Two trestle tables and a box of water bottles have been on that pavement since about the third of July. They went up at about eleven and came in at about five. On nine of the last eleven days they have gone up at about eleven and come in at about five and nobody has noticed which nine and nobody is going to.
+Two trestle tables and a box of water bottles have been on that pavement since about the third of July. They went up at about eleven and came in at about five. On nine of the last eleven days they went up at about eleven and came in at about five, and nobody noticed which nine and nobody is going to.
 
 **The crate is still there. It has a lid on it.**
 
@@ -108,7 +108,7 @@ Nobody wrote it down. There is no minute, no agenda and no form, and there is a 
 
 **A proposal that is not written down cannot be refused and cannot be accepted and cannot be dated, and it will be said again in a room by somebody who has it in a folder, and the day somebody writes it down is the day this borough finds out whether it was ever possible not to.**
 
-Nobody was thanked. Nobody refused to be thanked.
+**And the folder went back into her bag at about half past four in front of everybody, and nobody asked her to leave it, and eight people went out into a day of thirty-one degrees and got on with the Saturday they had been in the middle of.**
 
 The register of narrowings is at nineteen and the blank line under the nineteenth has been blank for two hundred and forty-eight days, and a heat is not a reason and a cool week is not a reason and a second heat that is not the first heat is not a reason either, and nobody is obliged. The card in the slot on the ground floor is a hundred and sixty-two days old and nobody has taken it out of it. The letter in the tray on the floor above is a hundred and sixty-four days old, it has two pieces of post lying on it, and it has not been opened in front of a second person and is not going to be.
 

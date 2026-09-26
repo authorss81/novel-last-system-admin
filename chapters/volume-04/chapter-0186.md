@@ -65,7 +65,7 @@ Nobody said anything to that. She picked up her keys and went out on the landing
 
 The man of about sixty-four had the folder on his knee and he had had it since Wednesday, because a thing that is going to be read out gets read by the person whose job it is to know what a document is, and his job is that, and he is not a councillor and does not want to be.
 
-"**Then it is the answer,**" he said. "**And I have been the person who gets asked whether there is a way round a thing for twenty-two years and there is not one. The city has had four years of not being able to say who did what, and it has spent all of it being right about that, and the whole of being right about that is that the boy who carried your shopping is not a person a building can go to.**"
+"**Then it is the answer,**" he said. "**And I have been the person who gets asked whether there is a way round a thing for twenty-nine years and there is not one. This city has never once managed to say who did what, and it has spent the whole of that being right about it, and the whole of being right about it is that the boy who carried your shopping is not a person a building can go to.**"
 
 "**And this thing is a box with a boy's name in it.**"
 
@@ -79,11 +79,11 @@ The man of about sixty-four had the folder on his knee and he had had it since W
 
 Nobody answered him and he did not press it, and he said the other half himself about ten seconds later, and he said it more quietly:
 
-"**I have not got an argument against it. I have got a thing I want somebody else to hold for me. Clause three says a person who has been called on may not decline. That is the whole instrument. Everything else on that page is a formality around clause three, and clause three has never existed anywhere in this city, and it works, and I have known for about six weeks that I would vote for it and I have not got a way of saying why that is frightening.**"
+"**I have not got an argument against it. I have got a thing I want somebody else to hold for me. Clause three says a person who has been called on may not decline. That is the whole instrument. Everything else on that page is a formality around clause three, and clause three has never existed anywhere in this city, and it works, and I have known since Wednesday that I would vote for it and I have not got a way of saying why that is frightening.**"
 
 ---
 
-**AND THE MAN OF ABOUT SIXTY-FOUR WORKED OUT WHAT THE SECOND PAGE WAS IN ABOUT FOUR SECONDS, AND THE FOUR SECONDS WERE NOT AVAILABLE TO ANYBODY ELSE IN THAT ROOM.**
+**AND THE MAN OF ABOUT SIXTY-FOUR WORKED OUT WHAT THE SECOND PAGE WAS IN ABOUT THREE SECONDS, AND THE THREE SECONDS WERE NOT AVAILABLE TO ANYBODY ELSE IN THAT ROOM.**
 
 He had it open. He turned two pages, went back one, put his thumb on the line, and looked at the woman of about fifty-eight in the doorway and said:
 
@@ -97,7 +97,7 @@ Nobody in that room had read the thing twice. She had written the parts she coul
 
 **The woman of fifty-eight said the only sentence in the room that was about what the line would do, and she said it from the landing with her keys in her hand:**
 
-"**Four years of this borough have spent all their time finding out what a blank does. The blank under the nineteenth one. The empty box at the bottom of your page from May. The column nobody writes in. The row at the hospital that will not say the word. And this is the first one anybody has written down with a date sitting on top of it, and nobody in this borough has ever noticed what a date with a blank after it does to a room.**"
+"**Nine months of this borough have spent all their time finding out what a blank does. The blank under the nineteenth one. The empty box at the bottom of your page from May. The column nobody writes in. The row at the hospital that will not say the word. And this is the first one anybody has written down with a date sitting on top of it, and nobody in this borough has ever noticed what a date with a blank after it does to a room.**"
 
 "**And nobody is required to put a name on it,**" said Councillor Sore. "**That is deliberate and I will not have it improved on. There is no body in this city that can require anybody to do anything, and that is the only reason a document like this one can be made at all, and I am not going to pretend to you that the same thing that makes it possible is not what will make it permanent.**"
 

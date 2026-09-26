@@ -24,7 +24,9 @@ He came in on the Friday before with what they found when they looked, and they 
 
 **THE RECEIVING SITE COULD NOT CONFIRM IN WRITING, AND THE REASON IT COULD NOT CONFIRM IN WRITING IS THE REASON NOTHING IN THIS BOROUGH CAN DO ANYTHING AFTER HALF PAST FOUR.**
 
-Confirming capacity in writing requires a person who can commit the machine. The person who can commit the machine is on the other site and is not on until about seven in the morning, and the confirmation has to be in writing, and writing it takes about two minutes, and there is no other person there who may do it, and there is no deputy, and there is no arrangement, and there is no rota, and the rota cannot be rebuilt, and the reason the rota cannot be rebuilt is that nobody in this borough is under any obligation to rebuild it.
+Confirming capacity in writing requires a person who can commit the machine. That person is on the other site, and that site is worked in the afternoon and is shut by about half past four, and the machine runs in the evening when there is nobody on it at all, and the confirmation has to be in writing, and writing it takes about two minutes, and there is no other person there who may do it, and there is no deputy, and there is no arrangement, and there is no rota, and the rota cannot be rebuilt, and the reason the rota cannot be rebuilt is that nobody in this borough is under any obligation to rebuild it.
+
+**And there is a second thing about that site, and it is the actual reason, and it is the same shape as the first one. There are two machines there and one of them came off on the second of August and has not been back since and nobody has said whether it is going to be back, so half of what that building could take on is a machine of unknown status, and a person may not write down that she has capacity for an evening when half of the evening is a machine she has not been told anything about.**
 
 **So the transfer is not refused. It is not pending. It is not in progress. There is no state of the system in which it is anything at all, and at about eleven on Wednesday morning a man of eighty-one was on the second floor of a building he has been in since Friday, and a machine was three miles away, and both of those things were correct.**
 
@@ -42,11 +44,19 @@ A registrar from the receiving site said the thing that everybody in that corrid
 
 "**Then it stands until it arrives.**"
 
-"That is right as well. I am not saying anything else. I am saying I have a machine and a man who needs it and a piece of paper that has to be written by a person who is not here, and I am going to ring her at about twenty to six and ask her to write it, and if she cannot write it by seven o'clock then it happens tomorrow morning and that is her decision and not mine, and either way it is my problem and not yours and not his, and I am saying it in a corridor because there is nowhere else to say it.**"
+"**That is right as well. I am not saying anything else. I am saying I have a machine and a man who needs it and a piece of paper that has to be written by a person who is not here, and I am going to ring her at about twenty to six and ask her to write it, because that site shut at about half past four and the only thing left to ask her is the one machine she has not said a word about since the second of August, and if she cannot write it tonight then it is tomorrow afternoon and that is her decision and not mine, and either way it is my problem and not yours and not his, and I am saying it in a corridor because there is nowhere else to say it.**"
 
 **And then he said the other thing, which he said in a corridor on that Wednesday and did not write down, and there was nowhere to put it and he did not look for somewhere:**
 
 "**And I am not going to be able to say no to this.**"
+
+---
+
+**AND THE HOUR WAS NOT AN HOUR ANYBODY CHOSE, AND THE CAUSE IS ONE SENTENCE AND IT IS ABOUT A SHIFT AND NOT ABOUT A DOCUMENT.**
+
+That site is worked in the afternoon and shut by about half past four. The registrar's own day ends at about six. Between those two points the only two people in the whole of this arrangement are still in it, and one of them is three miles away at home, and neither of them is on anything. **There was about an hour and a half in the whole of that Wednesday on which Roy Albery could have been confirmed in writing by anybody at all, and it was the same hour and a half on every day of that week, and it does not exist as a thing anybody can put on a page, and a fit happened at about four on that afternoon, which is half an hour before the hour opened.**
+
+The two sentences on a card on a wall in a Methodist hall in this borough are about a body and about what it may be told, and neither of them is wrong, and neither of them has anything to say about a machine of unknown status on a site that shuts at half past four. **Nobody in that building on that afternoon was lazy and nobody in that building on that afternoon was wrong, and the whole of it fitted in a gap between two sets of hours that nobody had ever written down next to each other, and it fitted exactly, and that is the part that should not have fitted.**
 
 ---
 

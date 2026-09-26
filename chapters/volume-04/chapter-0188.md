@@ -2,7 +2,7 @@
 
 Wednesday the twenty-sixth of August 2015, from about ten in the morning, a first-floor room over a shop in Tideglass.
 
-**A room in which the only person who could decide a disagreement was a man with no department, and he decided it, in daylight, correctly, and there is nowhere in this borough to put the fact that he decided. He is not a party, not a member, not a departmental officer, has no grade, no department and no probation, is not on the agenda, may not chair anything, and there is no chair of that body. Nobody thanked him. The cost of his being right fell on a woman of about seventy-two who was not thanked either, because she was not the one who was wrong.**
+**A room in which the only person who could decide a disagreement was a man with no department, and he decided it, in daylight, correctly, and there is nowhere in this borough to put the fact that he decided. He is not a party, not a member, not a departmental officer, has no grade, no department and no probation, is not on the agenda, may not chair anything, and there is no chair of that body. He was given nothing for it, and there is nothing in this borough a person can be given for deciding a thing like that, and there is nowhere for it to go. The cost of his being right fell on a woman of about seventy-two, who was not the one who was wrong and who has still not been told that anything was decided.**
 
 ---
 
@@ -74,13 +74,13 @@ The woman of seventy-two is counted. She has a pitch and a licence and a rent bo
 
 **AND THE BOARD IS STILL SEVEN OF NINE, AND IT HAS NOT MET SINCE THE MIDDLE OF JANUARY, AND IT IS NOT OBLIGED TO.**
 
-Two chairs are empty and have been since October and November. There is no chair of that body and there never was. The seat that is fifty-four, and unpaid, and can be found at a shopfront and at an address, **has not been told any of this, is not going to be told any of this, and the eight who do sit there have not learned what that seat can do and nobody noticed and nobody is going to notice.**
+Two chairs are empty and have been since October and November. There is no chair of that body and there never was. The seat that is fifty-four, and unpaid, and can be found at a shopfront and at an address, **has not been told any of this, is not going to be told any of this, and the seven who do sit there have not learned what that seat can do and nobody noticed and nobody is going to notice.**
 
 **The lowland is not on the layer and cannot be seated, and the reason is that a node with no party is not a party and a place is not a person, and that reason is correct, and a heat wave, a degrade, a correct instrument, a man with no department and a decision taken in daylight have not fixed it and are not going to.**
 
 ---
 
-Nobody thanked him. The woman of seventy-two thanked the man of thirty-eight, because he made the call, and she said it in the doorway on her way out, and it was for the lorry, and it was the correct thing to thank somebody for.
+A decision with nowhere to put it cannot be thanked, and that is not a rule anybody made and it is the whole of the reason. The woman of seventy-two thanked the man of thirty-eight, because he made the call, and she said it in the doorway on her way out, and it was for the lorry, and it was the correct thing to thank somebody for.
 
 The register of narrowings is at nineteen and the blank line under the nineteenth has been blank for two hundred and seventy-three days, and a decision about a market is not a narrowing and a precedence is not a reason. The card in the slot on the ground floor is a hundred and eighty-seven days old and nobody has taken it out of it. The letter in the tray on the floor above is a hundred and eighty-nine days old and it has two pieces of post lying on it.
 

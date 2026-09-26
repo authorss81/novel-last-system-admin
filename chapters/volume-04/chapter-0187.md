@@ -2,7 +2,7 @@
 
 Saturday the twenty-second of August 2015, from about seven in the morning, a street near the market.
 
-**Nine days after the order was made, a person made a call, and about nine people in this borough are now people somebody can ring about. They went because they were asked to. They will be back because they are asked to. They are all right. It is the end of the thing this borough built. Nobody was hurt, nobody was paid less, and nobody was thanked, and the machinery works.**
+**Nine days after the order was made, a person made a call, and about nine people in this borough are now people somebody can ring about. They went because they were asked to. They will be back because they are asked to. They are all right. It is the end of the thing this borough built. Nobody was hurt, nobody was paid less, and the machinery works.**
 
 ---
 
@@ -98,10 +98,10 @@ It went round a building folded in four on the nineteenth of June and it is in n
 
 The machinery this morning was not that. The machinery this morning was nine people at seven o'clock and a gate held open for nine hours by a man of seventy-three who is not a volunteer of anything, and a card on a dashboard, and a barrier on a lane.
 
-**And the two of those are not the same kind of thing and neither of them is a form, and the second copy of the printed sheet is still the emptiest and most dangerous object in this borough, and it is still correct, and the column with **no name, no initials** printed under it is still empty and is going to stay empty, and nothing that happened this morning put anything in it and nothing that happened this morning was going to.**
+**And the two of those are not the same kind of thing and neither of them is a form, and the second copy of the printed sheet is still the emptiest and most dangerous object in this borough, and it is still correct, and the column with *no name, no initials* printed under it is still empty and is going to stay empty, and nothing that happened this morning put anything in it and nothing that happened this morning was going to.**
 
 ---
 
-Nobody was thanked. The register of narrowings is at nineteen and the blank line under the nineteenth has been blank for two hundred and sixty-nine days, and a Saturday is not a reason and an order is not a reason, and the order did not add a twentieth entry and the register was at nineteen before it and at nineteen after it and nobody in this borough is available to be surprised by that. The card in the slot on the ground floor is a hundred and eighty-three days old. The letter in the tray on the floor above is a hundred and eighty-five days old, with two pieces of post on it, and it has not been opened in front of a second person.
+Nobody in this borough has been told that any of it happened. The register of narrowings is at nineteen and the blank line under the nineteenth has been blank for two hundred and sixty-nine days, and a Saturday is not a reason and an order is not a reason, and the order did not add a twentieth entry and the register was at nineteen before it and at nineteen after it and nobody in this borough is available to be surprised by that. The card in the slot on the ground floor is a hundred and eighty-three days old. The letter in the tray on the floor above is a hundred and eighty-five days old, with two pieces of post on it, and it has not been opened in front of a second person.
 
 **And a person who is not counted is not a person who is helped, and a person who is counted is a person somebody can ring about, and this morning nine people in this borough were counted, and they are all right, and nothing that happened to any of them was a help, and one of them is about twenty-three and one of them is about seventy-three and both of them will answer the telephone, and about a mile away a man of about fifty-three with a card on his dashboard finished a job on a closed street and drove away, and he has been answerable to that card for nine years and nobody had to invent him.**
