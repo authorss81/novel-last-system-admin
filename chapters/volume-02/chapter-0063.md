@@ -52,7 +52,7 @@ And under it, in a sixth position, in the same flat register, with a full stop a
 
 > **THIS NODE IS ON A CONTINUITY SCHEDULE. TIER 2. THE SCHEDULE EXPIRES 06:00, SUNDAY 12 OCTOBER 2014.**
 
-Mina Okafor read it over his shoulder and did not say anything for about four seconds, and then she said:
+Mina Okafor read it over his shoulder and did not say anything for four seconds, and then she said:
 
 “That is a door.”
 
@@ -76,7 +76,7 @@ He did not tell her it was wrong. He had been asked that question four times in 
 
 “What does the care entrance cost now.”
 
-“Four thousand two hundred pounds a year,” said Jonas Mercer, “for the node on the other side of this building, and the care entrance is on the same schedule at the same tier, and the plate in front of you has got nowhere to write a number, and I have not got a number, and if you ask me what the care entrance costs I have to tell you that I do not know, and I have not known since half past twelve this afternoon, and the only person in this city who could tell you in about four minutes is sitting in an office four floors up and he has not been able to tell me either, and that is not because he is hiding it. It is because on the plate there is no place to put it.”
+“Four thousand two hundred pounds a year,” said Jonas Mercer, “for the node on the other side of this building, and the care entrance is on the same schedule at the same tier, and the plate in front of you has got nowhere to write a number, and I have not got a number, and if you ask me what the care entrance costs I have to tell you that I do not know, and I have not known since half past twelve this afternoon, and the only person in this city who could tell you in four minutes is sitting in an office four floors up and he has not been able to tell me either, and that is not because he is hiding it. It is because on the plate there is no place to put it.”
 
 Mina Okafor wrote that in the box too, in her own hand, and it took about eleven words and a half, and then she read it back to herself once, and then she said:
 
@@ -90,7 +90,7 @@ Mina Okafor wrote that in the box too, in her own hand, and it took about eleven
 
 ---
 
-Gunnar Halvorsen came down the corridor at about twenty past four with a jacket over his arm and four sheets of paper in his hand, and he stopped, and he did not ask permission, and he gave it to Jonas Mercer standing up in a corridor with about thirty people going past, in about four minutes, because he is a service manager who has been in post nineteen years and has run out of people to tell.
+Gunnar Halvorsen came down the corridor at about twenty past four with a jacket over his arm and four sheets of paper in his hand, and he stopped, and he did not ask permission, and he gave it to Jonas Mercer standing up in a corridor with about thirty people going past, in four minutes, because he is a service manager who has been in post nineteen years and has run out of people to tell.
 
 “I am going to give you the morning and then I am going to go and write a minute, and I want to be clear that I have made the decision and I have not slept on it and I did not ring you, and you did not ring me, and neither of us has to say anything about that.”
 

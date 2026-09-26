@@ -16,7 +16,7 @@ Under that, five fields, and all five of them had been filled in at some point i
 
 “Tier one,” he said.
 
-“Tier one,” said Emeka Rusk. “Somebody paid eighteen hundred and eighty pounds for this spur and put it on a schedule. Not the borough, because the borough has not got eighteen hundred and eighty pounds for a pipe on a lowland and I have asked. Not a district, because a district does not schedule its own. **Somebody with a standing continuity authorisation, and there is exactly one of those in this city and he sat in a car on an embankment at one o'clock in the morning on the thirtieth of April and drove away without waiting to be told.**”
+“Tier one,” said Emeka Rusk. “Somebody paid eighteen hundred and eighty pounds for this spur and put it on a schedule. Not the borough, because the borough has not got eighteen hundred and eighty pounds for a pipe on a lowland and I have asked. Not a district, because a district does not schedule its own. **Somebody with a standing continuity authorisation for this chain, and there is one of those on the lowland and he sat in a car on an embankment at one o'clock in the morning on the thirtieth of April and drove away without waiting to be told.**”
 
 “When.”
 
@@ -91,7 +91,7 @@ He telephoned Royden Achebe at about twenty past eight on the Saturday morning a
 
 “The outfall inspection duty on six dash L slash sixteen.”
 
-Royden Achebe did not say anything for about four seconds, which from him is a paragraph.
+Royden Achebe did not say anything for four seconds, which from him is a paragraph.
 
 “How do you know there is a duty and not a pipe.”
 
@@ -111,9 +111,11 @@ Royden Achebe laughed, once, without any humour in it at all.
 
 “It moves,” said Jonas Mercer. “Six dash L slash sixteen, the outfall inspection duty, from a lapsed held claim to the interim lowland maintenance post, in your name. I do the moving. You hold it. The duty is: when the supply to that spur is restricted or the gauge drops, somebody goes to the outfall at the bottom, looks at the screens and the chamber, enters a fault, and stands there while the restriction is on. It is not a water point and it does not have an address in it and there is nothing in it that anybody can read and go and find a street.”
 
-“And the maintenance on that outfall, which does not exist, and has not existed since the eleventh of May, and which somebody in my building has been doing because it is cheaper than a ticket.”
+“And the maintenance on that outfall,” said Jonas Mercer, “which is not in the record I have just read you, and which is not on any document in this city. **It has not been on one since the term broke on the twenty-ninth of April, and a man has been doing it unpaid, because a gantry and a van and a torch come to less than a ticket.**”
 
-“Nobody knows,” said Jonas Mercer. “And I have not asked him, because asking a man to inspect a chamber is asking a man to do a job and I have been told four times in five weeks that the asking is not the problem and the being is.”
+Achebe did not say anything.
+
+“Nobody knows,” said Jonas Mercer. “Not the company, not the district, and not me until this morning. And I have not asked him, because asking a man to inspect a chamber is asking a man to do a job, and I have been told four times in five weeks that the asking is not the problem and the being is.”
 
 Royden Achebe was quiet for a second.
 

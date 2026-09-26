@@ -1,6 +1,6 @@
 # Chapter 0069 — Six Points and One Number
 
-He did it on the back of a departmental form, in the room above the shop, on the evening of Sunday the eighteenth of May, with the right hand held under his left elbow, and it took him about eleven minutes and he wrote it out twice before the second one was any good.
+He did it on the back of a departmental form, in the room above the shop, on the evening of Sunday the eighteenth of May, with the right hand held under his left elbow, and it took him eleven minutes and he wrote it out twice before the second one was any good.
 
 It is one side of A4. It has a heading and four lines under the heading and then his four lines and then two more lines and then a line with his name on it and a line with the time on it. It is not a claim. It does not go in the box at the Old Ward board, and the box is four hundred yards from the room he wrote it in and closes on Friday the eighteenth of July, and a claim put in it would have established nothing, and would have established nothing *and* put eleven thousand two hundred and eighty pounds and a district nobody can name into a public document ninety days before a hearing in which a contractor is asking the city to adopt a price list.
 
@@ -17,7 +17,7 @@ He was going to put a number in the record before he said it out loud, and to ma
 > **FOR THE STANDING COMMITTEE ON CIVIC CONTINUITY, MONDAY 19 MAY 2014.**
 > **Item: Schedule 4 (continuity pricing) — number of nodes in this city not on a continuity schedule.**
 >
-> **Source. Carrow Lane Housing Association, corridor board, Marsh Lane. Written in the hand of M. Oyelaran, chief officer, on Monday 28 April 2014 at about ten past eleven in the morning, in the presence of the undersigned.**
+> **Source. Carrow Lane Housing Association, corridor board, Carrow Lane. Written in the hand of M. Oyelaran, chief officer, on Monday 28 April 2014 at about ten past eleven in the morning, in the presence of the undersigned.**
 >
 > **The figure on that board, in that hand, is as follows and is quoted exactly:**
 > **SIX LOWLAND WATER POINTS. TIER 1. £1,880 PER NODE PER YEAR. £11,280 A YEAR. NOBODY HAS ASKED ME.**
@@ -92,7 +92,7 @@ She read it standing in a corridor at ten to eight in the morning, and it took h
 
 “Where did the figure come from.”
 
-“A corridor board, in a housing association’s office in Marsh Lane, in the hand of the chief officer, on the twenty-eighth of April at about ten past eleven in the morning. I was in the room when she wrote it. I watched her write it and she told me she was writing it so that she could look at me afterwards and find out whether I would do anything with it, and I did nothing with it for twenty-one days, and that is on the sheet if you want it and it is not on the sheet.”
+“A corridor board, in a housing association’s office above a betting shop on Carrow Lane, in the hand of the chief officer, on the twenty-eighth of April at about ten past eleven in the morning. I was in the room when she wrote it. I watched her write it and she told me she was writing it so that she could look at me afterwards and find out whether I would do anything with it, and I did nothing with it for twenty-one days, and that is on the sheet if you want it and it is not on the sheet.”
 
 “No,” said Fenella Marsh. “It should not be on the sheet. I am not going to have you writing a confession into a document that goes into a minute. It is a bad habit and you have it from a union submission.” She folded it once. “I am going to read the four sentences of the clerk’s cover note at the top of this sitting, and the fourth one says that the return establishes no number of nodes in this city. And then I am going to have a piece of paper in my hand that says a number of nodes in this city, with a source and a date and a hand on it, and the two of those are going to be in the same minute four minutes apart, and **I am not going to let that be an accident that anybody in the room gets to enjoy.**”
 

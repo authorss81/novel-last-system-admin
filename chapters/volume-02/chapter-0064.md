@@ -26,7 +26,7 @@ Kofi Sarr looked at the bay numbers for a second.
 
 “We closed bay four at eleven minutes past two with a bar across it, on a stated reason, and the reason was in the book and it was that the ramp was taking water and there was a bus due,” he said. “And that was right. And about sixty people got off the last bus that came down that embankment and they walked four and a half miles, because there was nothing else, and about forty of them were over seventy. And I have got the number sixty because the fare machine counted sixty-one and one of them was a man who got on at the wrong stop, and the fare machine counted him too. **Sixty-one. Four and a half miles. Nobody was under seventy that I saw and about forty were over.** That is the answer. Put it down.”
 
-Raynor-Hale put it down. He had a card out before Kofi Sarr started and he wrote it in about four seconds in a small neat hand and then read it back, which Jonas Mercer had not expected him to do.
+Raynor-Hale put it down. He had a card out before Kofi Sarr started and he wrote it in four seconds in a small neat hand and then read it back, which Jonas Mercer had not expected him to do.
 
 “That is very useful, Mr Sarr, and I am going to say where it comes from, because I do not want you to hear it in a report in September. It comes from an operations review of the lowland that was done on the twenty-eighth of April, and in that review somebody has written *lowland evacuation capacity: unresolved* and left it there, and I have been sent out to fill in the word *unresolved*, and you have just given me about half of it, and the other half is a man at the outfall who has a gauge and did not answer his telephone on the twenty-ninth of April, and I am going to him this afternoon.”
 

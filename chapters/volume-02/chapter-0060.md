@@ -18,7 +18,7 @@ This one was the second reading of it. Four parties had sent it in a second time
 
 ---
 
-The ninth line read:
+The eighth line read:
 
 > **NODE — A SCHOOL GATE AT TARN STREET**
 > **HOLDER — A KEY**
@@ -110,7 +110,7 @@ Ibrahim Sesay is fifty-one and he has been the caretaker and the portal at Tarn 
 
 “What did you say.”
 
-“I said I have got a key.” He said it the way he says everything, which is exactly once. “And she said that is not what the form wants, and I said what does the form want, and she said a name. And I said I have been asked for my name four times this year by four different people and three of them wanted it for a list and one of them wanted it because they were building something. And then she was quiet for about four seconds and she said she was sorry and she asked me to hold on.”
+“I said I have got a key.” He said it the way he says everything, which is exactly once. “And she said that is not what the form wants, and I said what does the form want, and she said a name. And I said I have been asked for my name four times this year by four different people and three of them wanted it for a list and one of them wanted it because they were building something. And then she was quiet for four seconds and she said she was sorry and she asked me to hold on.”
 
 He held on. There was a rustle of paper.
 
@@ -124,7 +124,7 @@ He held on. There was a rustle of paper.
 
 “She said it would be read out loud in a porch by a man with a bag on his shoulder and she was not allowed to tell me who.”
 
-Jonas Mercer stood in the middle of the shop floor with a telephone in his left hand and did not say anything for about four seconds, and then said:
+Jonas Mercer stood in the middle of the shop floor with a telephone in his left hand and did not say anything for four seconds, and then said:
 
 “That is exactly right. I am the man with the bag on my shoulder. That was at half past nine this morning, fifty minutes after I read it off that board, and I would have said so in the porch as well.”
 
@@ -228,4 +228,4 @@ Then he wrote the last three lines of the day.
 > *The gate is open on a sentence in biro and it has been open for six days and the three that are not a gate have been on nothing for six days and neither fact is in any document in this city except a form that is not adopted.*
 > *He asked a technician on the twenty-first and got no in ninety seconds, and he has spent two weeks about it, and he is going to spend a Saturday morning finding out the same thing from three people who have to sign their names.*
 
-The claims box at the Old Ward board closes on Friday the eighteenth of July. The ninth line on the second return says, in a box, that the answer to *who answers for it* is *a key*, and a woman in records signed it because there was nowhere else to put it, and a man of fifty-one on a telephone on a Friday afternoon in a shop said the key is wrong and the line is his.
+The claims box at the Old Ward board closes on Friday the eighteenth of July. The eighth line on the second return says, in a box, that the answer to *who answers for it* is *a key*, and a woman in records signed it because there was nowhere else to put it, and a man of fifty-one on a telephone on a Friday afternoon in a shop said the key is wrong and the line is his.

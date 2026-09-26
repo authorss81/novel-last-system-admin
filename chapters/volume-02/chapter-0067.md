@@ -106,7 +106,7 @@ Nobody said anything for about four seconds. A lift went somewhere. A porter cam
 
 “I am not going to be able to mend it,” said Jonas Mercer.
 
-“I know you cannot. I worked that out about nine minutes ago, standing at this plate, before you came out of the corridor, and I want to tell you the reasons in order, because I have read enough of your file to know that you will not take one.”
+“I know you cannot. I worked that out nine minutes ago, standing at this plate, before you came out of the corridor, and I want to tell you the reasons in order, because I have read enough of your file to know that you will not take one.”
 
 “Go on.”
 

@@ -37,13 +37,13 @@ Councillor Imre identified the difference on the record in about ninety seconds,
 
 “The tabling list says this schedule is before the Committee to be referred on. The covering submission, at paragraph two, invites the Committee to approve Schedule 4 and to adopt it as a schedule of the Committee for the remainder of the financial year. Those are two different things in front of us. I have read both. I would like the chair to rule which of them we are doing.”
 
-“I am not going to rule,” said Fenella Marsh. “That is not a chair’s job and I am not going to pretend it is. What I will do is put it to the Committee, and the Committee will tell me, and it will take about four minutes and it is the first thing we do.”
+“I am not going to rule,” said Fenella Marsh. “That is not a chair’s job and I am not going to pretend it is. What I will do is put it to the Committee, and the Committee will tell me, and it will take four minutes and it is the first thing we do.”
 
 It took eleven minutes and the answer was: the schedule is before the Committee on the covering submission and the Committee is invited to approve and adopt it, and no member is able to move an amendment, and the chair has noted the discrepancy and will record it, and the Committee will proceed on the document in front of it.
 
 It proceeded on the document in front of it.
 
-Councillor Petrie raised one thing before anybody sat down, and she raised it in about thirty seconds and got it in.
+Councillor Petrie raised one thing before anybody sat down, and she raised it in thirty seconds and got it in.
 
 “The covering submission quotes a finding. It is the finding of the Civic Continuity Workers' Union, filed on the eighteenth of April, and it is quoted on page one as support for a procurement remedy. There is nobody from the union in this room. I have looked at the tabling list and at the gallery and I cannot see the shop steward or anybody from the shop, and I am not asking that anybody be found, and I am asking that the minute record that the author of a document relied upon by the contractor is not present.
 
@@ -65,7 +65,7 @@ And Alden Rook said: “No, it is not, and I am obliged to say so. A volunteer a
 
 The third was a member of this Committee asking a question from the floor of the gallery, which is irregular, and which the chair allowed, and which was the best four minutes anybody had all day. The question was about a lift in a block of flats, and who it belonged to, and the member from Salt Row put it to a woman of forty-seven who is not a member and not a party and who is in the back row on the left-hand side with a folder on her knees, and she answered it, and she gave four sentences.
 
-She said that a lift is not a service and that she has said so in a room with nine people in it and been told no in ninety seconds, and that on the eleventh of March this year she bought four blocks of continuity for sixteen thousand eight hundred pounds and read page two of a contractor's schedule in about eleven minutes without knowing that she was doing anything anybody could object to, and that the schedule does not care why a thing is a service, it cares that a payment is coming in, and that she passed the whole of it on at two pounds sixty a room a week because there is no version of this in which an association with a hundred and twenty-eight people in four blocks carries sixteen thousand eight hundred out of a void allowance, and that she is going to lose Block C in June and has said so in writing.
+She said that a lift is not a service and that she has said so in a room with nine people in it and been told no in ninety seconds, and that on the eleventh of March this year she bought four blocks of continuity for sixteen thousand eight hundred pounds and read page two of a contractor's schedule in eleven minutes without knowing that she was doing anything anybody could object to, and that the schedule does not care why a thing is a service, it cares that a payment is coming in, and that she passed the whole of it on at two pounds sixty a room a week because there is no version of this in which an association with a hundred and twenty-eight people in four blocks carries sixteen thousand eight hundred out of a void allowance, and that she is going to lose Block C in June and has said so in writing.
 
 And a member said: *that is a matter for the association and not for this Committee.*
 
@@ -109,9 +109,9 @@ And under the returns sheet, on the enamel, under the line about the claims box,
 
 > **WHERE TWO TERMS APPLY TO ONE USE AND NEITHER HAS PRECEDENCE, THE USE IS PERFORMED AND ENTERED, AND NOBODY IS BLAMED, AND THE ENTRY IS MADE TWICE.**
 
-He read it standing up in a porch in the sun at about half past one in the afternoon and understood, in about four words, that it was not about CivicCore and the borough, and that it was about a housing association's meter room and a price list, and that the sentence it was describing had been the shape of a form on a wall since the thirtieth of April, and that the honest answer to the Carrow Lane return was a number that had been in the record for two hours, and that the Lattice had arrived at the same answer from the other end.
+He read it standing up in a porch in the sun at about half past one in the afternoon and understood, in four words, that it was not about CivicCore and the borough, and that it was about a housing association's meter room and a price list, and that the sentence it was describing had been the shape of a form on a wall since the thirtieth of April, and that the honest answer to the Carrow Lane return was a number that had been in the record for two hours, and that the Lattice had arrived at the same answer from the other end.
 
-And at ten to two he went back upstairs, and the sitting resumed at two, and the ninth line of the first return was read, and the chair read the ten field names out in order, and there was a gap where the ninth line's holder field should have been, and the room waited about four seconds for somebody to fill it.
+And at ten to two he went back upstairs, and the sitting resumed at two, and the ninth line of the first return was read, and the chair read the ten field names out in order, and there was a gap where the ninth line's holder field should have been, and the room waited four seconds for somebody to fill it.
 
 Nobody filled it.
 
@@ -121,7 +121,7 @@ Nobody filled it.
 
 “And I am going to say it in this room and not in the minute, because a chair should not put a word into a minute that a records supervisor has not yet put into a form, and I would like Ms Calder to know that I have said it in words and she may write it tomorrow, and that if anybody in this room writes it in anything tonight I would like to be told and I would like to know who.”
 
-“Chair,” said Nina Calder, from the second row of the public seats, where she had been sitting for three hours with a folder on her knees, “the answer to *who answers for it* is a word and the word is *nobody*, and I have had that form since the thirtieth of April and I have been waiting nineteen days for a chair to ask me the question, and I would like to write it tomorrow, and I would like it written in my own words and I would like the form to be a public document, and I would like you to notice that the only reason I can do that is that you read four sentences out loud this morning.”
+“Chair,” said Nina Calder, from the second row of the gallery, where she had been sitting for three hours with a folder on her knees, “the answer to *who answers for it* is a word and the word is *nobody*, and I have had that form since the thirtieth of April and I have been waiting nineteen days for a chair to ask me the question, and I would like to write it tomorrow, and I would like it written in my own words and I would like the form to be a public document, and I would like you to notice that the only reason I can do that is that you read four sentences out loud this morning.”
 
 ---
 
@@ -141,11 +141,11 @@ Councillor Imre said, “I have no idea what you are doing.”
 
 “I know you have not,” said Councillor Sore. “That is the correct condition in which to do it.”
 
-There was no figure. The chair asked the parties present. CivicCore stated four, of which one was a tier one fee of one thousand eight hundred and eighty pounds for a lowland spur placed on a schedule on the twelfth of May, which was in the room, in a corridor, in front of a chamber, for a fortnight. The borough stated that it held no schedule in this city and could not say what it did not hold. A housing association, from the public seats, stated sixteen thousand eight hundred pounds for the year for four nodes, and the chair repeated it back to be sure, and Marguerite Oyelaran said that it was correct, and the chair asked her to state it a second time, and she did, and said that she would like it minuted exactly as she had said it both times, and the clerk typed it.
+There was no figure. The chair asked the parties present. CivicCore stated four, of which one was a tier one fee of one thousand eight hundred and eighty pounds for a lowland spur placed on a schedule on the twelfth of May, which was in the room, in a corridor, in front of a chamber, for a week. The borough stated that it held no schedule in this city and could not say what it did not hold. A housing association, from the public seats, stated sixteen thousand eight hundred pounds for the year for four nodes, and the chair repeated it back to be sure, and Marguerite Oyelaran said that it was correct, and the chair asked her to state it a second time, and she did, and said that she would like it minuted exactly as she had said it both times, and the clerk typed it.
 
 And the motion went into the minute as an outstanding request for a return of schedule commitments, and it was the only motion anybody made all afternoon that anybody in the gallery applauded, and Fenella Marsh said, “The gallery will refrain, please, this is a Committee and not a public meeting,” and it stopped, and it had been going on for about two seconds.
 
-At twenty to three the chair took one matter from the floor of the gallery and allowed it without a motion and without notice, on the ground that it was a point of order about the papers, and a woman of thirty-nine stood up in the second row of the public seats and said one sentence and sat down, and it is in the minute.
+At twenty to three the chair took one matter from the floor of the gallery and allowed it without a motion and without notice, on the ground that it was a point of order about the papers, and a woman of thirty-nine stood up in the second row and said one sentence and sat down, and it is in the minute.
 
 “The Committee is asked to note that the only instrument in this city capable of producing the number it has been asked about was printed on the thirtieth of April and has no adoption behind it,” said Nell Ardent.
 
@@ -165,7 +165,7 @@ At twenty to three the chair took one matter from the floor of the gallery and a
 
 “And where the answer to *who answers for it* is no party, that is to be recorded as no party, in those words, and it is to be read into the record of this Committee as no party.
 
-“I am aware that the second half of that sentence will produce a public record of nodes in this city that have nobody answering for them. I have thought about that for about four minutes and I have decided to do it, and my reasons are in this order: a node with no answering party is a fact about a node and not a fact about a person, and this city has no instrument that can record a fact about a node, and it has four hundred and sixty pages of price list, and at some point somebody is going to have to be the person who starts the record. It is me. I am the chair. I have got a gallery of forty-one people and a minute and a form, and nobody else in this building can do it, and in about four years the chair of this Committee will be somebody else and will not know why any of this happened, and that is the correct arrangement and I have thought about it and I am doing it.”
+“I am aware that the second half of that sentence will produce a public record of nodes in this city that have nobody answering for them. I have thought about that for four minutes and I have decided to do it, and my reasons are in this order: a node with no answering party is a fact about a node and not a fact about a person, and this city has no instrument that can record a fact about a node, and it has four hundred and sixty pages of price list, and at some point somebody is going to have to be the person who starts the record. It is me. I am the chair. I have got a gallery of forty-one people and a minute and a form, and nobody else in this building can do it, and in about four years the chair of this Committee will be somebody else and will not know why any of this happened, and that is the correct arrangement and I have thought about it and I am doing it.”
 
 She looked up from the paper.
 

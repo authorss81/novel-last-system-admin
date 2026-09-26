@@ -45,7 +45,7 @@ Fenella Marsh would not let him see the papers.
 
 He found her at about twenty past eleven on the Sunday morning outside the committee clerk’s window on the first floor, which is where she was between a Sunday and a Monday when there was anything to be done, and she was carrying a box file, and she stopped, and she was not unkind about it.
 
-“Mr Mercer,” she said. “I am not going to refuse you on the grounds that you are not a party, because I do not think that is a good ground and I have four members who would tell you it is a good ground, and I have spent two years being frustrated by that. I am refusing you because in about four minutes a man with a lanyard is going to ring this office and ask me whether the papers went to the man off the register, and I have not got an answer for him that is better than the truth, and the truth is that they did not, and the reason they did not is that you are not a member, a party, or a departmental officer, and I am not going to invent a fourth thing to get round it.”
+“Mr Mercer,” she said. “I am not going to refuse you on the grounds that you are not a party, because I do not think that is a good ground and I have four members who would tell you it is a good ground, and I have spent two years being frustrated by that. I am refusing you because in four minutes a man with a lanyard is going to ring this office and ask me whether the papers went to the man off the register, and I have not got an answer for him that is better than the truth, and the truth is that they did not, and the reason they did not is that you are not a member, a party, or a departmental officer, and I am not going to invent a fourth thing to get round it.”
 
 “That is fair.”
 
@@ -79,7 +79,7 @@ She picked the box file up.
 
 ---
 
-Nell Ardent tried to table it on the Sunday afternoon and got told, in about four minutes on the telephone by a very pleasant woman in a member’s office, that she could not.
+Nell Ardent tried to table it on the Sunday afternoon and got told, in four minutes on the telephone by a very pleasant woman in a member’s office, that she could not.
 
 The member was Sore, and the office belonged to Sore, and the woman’s name was not given and does not matter, and what she said was this, in a voice that had clearly said a version of it before.
 
@@ -163,7 +163,7 @@ Nina Calder read it standing up in the Old Ward porch on the Sunday evening of t
 
 “Will she read it out.”
 
-“She reads the cover note first. It is the first thing that happens.” Nina Calder drank her tea. “She will read those four sentences, and she will read the fourth one slowly, because she reads everything slowly, and there will be a member of that committee who will be grateful to her and a man from CivicCore who will not, and in about four minutes somebody will ask whether the return is going to be made a proper instrument, and somebody else will say that the answer to that is that the form is a mirror and a mirror is not a register, and by then it is the fourth sentence of the cover note and it is in the paper and it is in the minute and it cannot be got out.”
+“She reads the cover note first. It is the first thing that happens.” Nina Calder drank her tea. “She will read those four sentences, and she will read the fourth one slowly, because she reads everything slowly, and there will be a member of that committee who will be grateful to her and a man from CivicCore who will not, and in four minutes somebody will ask whether the return is going to be made a proper instrument, and somebody else will say that the answer to that is that the form is a mirror and a mirror is not a register, and by then it is the fourth sentence of the cover note and it is in the paper and it is in the minute and it cannot be got out.”
 
 She put the cup on the ledge of the glass canopy.
 
