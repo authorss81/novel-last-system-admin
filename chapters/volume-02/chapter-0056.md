@@ -52,7 +52,7 @@ He said it the way he said *a refusal ends the shift and not the job*, which is 
 
 “Do not come to the nineteenth of May.”
 
-Jonas Mercer stood in a yard in River Stacks on a Sunday morning and found that the sentence took him about four seconds to get past, and that the reason it took four seconds was that he had been thinking about going for nine days.
+Jonas Mercer stood in a yard in River Stacks on a Sunday morning and found that the sentence took him the length of one breath to get past, and that the reason it took that long was that he had been thinking about going for nine days.
 
 “Why.”
 

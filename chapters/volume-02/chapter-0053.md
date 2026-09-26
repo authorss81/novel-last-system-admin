@@ -4,13 +4,13 @@ The mortuary van came in to Saint Orra west at about twenty past eleven on Wedne
 
 Then he stood in the yard.
 
-He is twenty-nine. He is the night orderly at Saint Orra west, he came on at ten, he is not on the rota, he is not a holder of anything, and he has been in that building for two years and seven months. What he is is the man who is there at midnight, which is a fact about him and not about his job, and on the afternoon of the fifteenth of April he had been the least-bad option of a whole city that had run out of holders, and he had held a door open with his shoulder that he was not entitled to hold while a woman of ninety-one came out of bay nine on a chair at four minutes past four in the morning, and he had gone home at four.
+He is twenty-nine. He is the night orderly at Saint Orra west, he came on at ten, he is not on the rota, he is not a holder of anything, and he has been in that building for two years and seven months. What he is is the man who is there at midnight, which is a fact about him and not about his job, and on the morning of the eighteenth of April he had been the least-bad option of a whole city that had run out of holders, and he had held a care entrance open with his shoulder that he was not entitled to hold while a woman of ninety-one came out of bay nine on a chair at four minutes past four, and he had gone home at four.
 
 He stood in that yard for about a minute and a half. The plate on the bollard is at shoulder height on the driver's side, and the notice on it had been up since about twenty past seven that morning and he had walked past it perhaps forty times.
 
-> **A DEFERRED NODE SERVES ITS LAST VERIFIED ESSENTIAL USE. IF NONE IS RECORDED, THE USE IS THE NODE'S MAINTENANCE.**
+It is two lines and a full stop after each word, and it says that a node nobody has paid for does not shut down, it narrows, to whatever it was last recorded for, and that if nobody ever wrote that down then it narrows to its own upkeep. He had read it coming in and he read it again standing in front of it. The upkeep on a gate is a man with a key. He has a key. That is the whole of what he has to offer and he is the one standing here.
 
-And under it a rule and a cursor, and nothing in it, and it had been nothing in it for eleven years, and the plate had never once printed anything about it because the plate had never once needed to.
+And under the notice there was a rule and a cursor, and nothing in it, and it had been nothing in it for eleven years, and the plate had never once printed anything about it because the plate had never once needed to.
 
 He thought: *if I write something in that, it can't close.*
 
@@ -72,7 +72,7 @@ He waited.
 
 “It stays.”
 
-“All right,” said Ivo Bamba, and put the hose down, and then said, after about four seconds: “Are you the one off the register?”
+“All right,” said Ivo Bamba, and put the hose down, and then said, without looking up: “Are you the one off the register?”
 
 “Yes.”
 

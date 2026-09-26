@@ -1,6 +1,6 @@
 # Chapter 0054 — The Meeting in the Community Room
 
-The block at Wren Court in Salter's Yard is thirty-one rented rooms over a furniture workshop in Tideglass, it has no civic address, it has a named steward, and it has a meter cupboard at the bottom of the stairs with a plate on it, and Jonas Mercer had never been inside the building in his life and got into it on the Friday evening of the twenty-fourth of April because Yolanda Fofana had told him at the yard on the sixteenth that her residents were to be told that a card existed before anything else, and had then told them, and had then sent him a card.
+The block at Wren Court in Salter's Yard is thirty-one rented rooms over a furniture workshop in Tideglass, it has no civic address, it has a named steward, and it has a meter cupboard at the bottom of the stairs with a plate on it, and Jonas Mercer had never been inside the building in his life and got into it on the Thursday evening of the twenty-fourth of April because Yolanda Fofana had told him at the yard on the sixteenth that her residents were to be told that a card existed before anything else, and had then told them, and had then sent him a card.
 
 The card said: *There is a man coming on Thursday at eight. He is not the answer to anything. He wants to see the participation file. You may be in the room. You may leave the room. He will not be given a list of anybody and if he asks for one the answer is the address of Wren Court.*
 
@@ -56,7 +56,7 @@ He told her. He told her all of it, standing in a kitchen at the bottom of thirt
 
 Yolanda Fofana listened to the whole of it with her arms folded and did not interrupt, and at the end she said:
 
-“Right. Two things and then I am going to put the kettle on, because it is half past eight and I am forty-nine in a month and I have had a day.
+“Right. Two things and then I am going to put the kettle on, because it is half past eight and I am fifty-four and I have had a day.
 
 “One. The hospital one is a good man doing a kind thing in nine seconds and it will keep a gate open. Mine is a good woman doing an honest thing in four minutes in a room in daylight in front of eight people, and it has taken the water off thirty-one people for eleven days and me for one, and I chose to do it, and I would choose it again, and if you write down that the hospital one and mine are the same shape then you are going to have to write down that they are not the same size.
 
@@ -72,9 +72,9 @@ Yolanda Fofana listened to the whole of it with her arms folded and did not inte
 
 “Good.” She came back with two mugs. “Then the shape is this, and I have never said it out loud to anybody including the eleven people who were in here on the eighteenth of April, and I have been not saying it for four days, and you are a technician and I am going to say it to you because you cannot do anything with it.
 
-“Nineteen people signed. Four have missed a month. That leaves fifteen who are inside the term and paying.” She looked at the column. “Eleven of the nineteen who were in this building on the night of the seventeenth signed in March, and four of them had already missed. So on the night of the seventeenth, when the water came over the road and the dip filled and the low block’s back doors went at ten past five in the morning, **eleven people were in this building and eleven of them were on a lapsed term and the water was at half.**
+“Nineteen people signed. Four have missed a month. That leaves fifteen who are inside the term and paying.” She looked at the column. “Eleven of the nineteen who were in this building on the night of the seventeenth signed in March, and every one of the eleven was already lapsed. So on the night of the seventeenth, when the water came over the road and the dip filled and the low block’s back doors went at ten past five in the morning, **eleven people were in this building and eleven of them were on a lapsed term and the water was at half.**
 
-“Not off. At half. Which is the same as off, in this building, in April, and I know that and you know that and the four of them know that and I have not told them, and if I tell them tonight then they will go and look at their own date on that sheet and they will work out what it means, and one of them is seventy-four and moved here in 1979 and has a bad chest.”
+“Not off. At half. Which is the same as off, in this building, in April, and I know that and you know that and the four of them know that and I have not told them, and if I tell them tonight then they will go and look at their own date on that sheet and they will work out what it means, and one of them is seventy-four and moved in in 1995 and has a bad chest.”
 
 She put her mug down without drinking from it.
 
@@ -88,7 +88,7 @@ At about ten past nine she took him down to the meter cupboard, which is a cupbo
 
 “They cannot take it off you,” said Yolanda Fofana. “I have been trying. Since the first of April. I went to the association and I went to the water people and I went to a man at the council with a badge about participation and I have been told four times this month that the holder of a point is the person who pays for the point and that the point is not the payer’s, and every one of those four people was polite to me, and I want to say that they were not wrong and that I have started to think they are the most useful people I have spoken to this year, because they are all telling me the true thing, in the same words, four times.
 
-“The money does not buy the water. The water does not care whose it is. And I pay for it. And the day I cannot pay for it, it does not stop, it goes to whatever the last thing anybody wrote down was, and nobody has written down a last thing, and so it goes to the pipes, and I get half a stop of water in a block of thirty-one people for a fortnight, and I put *mains matter* on a board in a room with twenty people in it, and I have been doing that since 1979 and I have never once had to mean it.”
+“The money does not buy the water. The water does not care whose it is. And I pay for it. And the day I cannot pay for it, it does not stop, it goes to whatever the last thing anybody wrote down was, and nobody has written down a last thing, and so it goes to the pipes, and I get half a stop of water in a block of thirty-one people for eleven days, and I put *mains matter* on a board in a room with twenty people in it, and I have been doing that since 1995 and I have never once had to mean it.”
 
 She shut the cupboard and turned round in about six inches of space, and said her own name once, out loud, to nobody, and then carried on, because she has been called two things by two different men in nineteen years and has never got used to the second one.
 

@@ -20,7 +20,7 @@ He read it four times standing up.
 
 It is not a fault notice. He has had eleven notices in five weeks and every one of them stated a condition and he has learned the difference between a condition and a piece of administration the way a man learns the difference between a wound and a scar. This said a condition. *It is deferred.* It did not say by whom, or until when, or what deferred meant, and it did not say what a schedule was, and there is no line in any manual in this city called a continuity schedule because the manual for the Saint Orra agreement is a 2019 document and a schedule is added to a document by a later document.
 
-It was nine minutes' walk from the care entrance to the service manager's office and Jonas Mercer did it in about four because he could not walk slowly on a numb leg at half past six in the morning.
+It was nine minutes' walk from the care entrance to the service manager's office and Jonas Mercer did it in about four, because he was carrying a plate cover in his left hand and his right hand would not close, and he could not have made himself take nine minutes over it at half past six in the morning.
 
 ---
 
@@ -58,7 +58,7 @@ He had been asked a technical question at about a hundred and forty hinges in fi
 
 “That is not an answer.”
 
-“It is the only thing I have got, and I have thought about it for four seconds in your office and I would like about forty, and I am going to tell you who should answer it and then I am going to go and do something that is actually mine, and you are not going to like either half of it.”
+“It is the only thing I have got, and I have thought about it for a second and a half in your office and I would like about forty, and I am going to tell you who should answer it and then I am going to go and do something that is actually mine, and you are not going to like either half of it.”
 
 “Go on.”
 
@@ -94,11 +94,11 @@ The gate is a wrought thing about nine feet wide, two leaves, on a hydraulic clo
 
 He got the cover off the plate on the bollard. Four bolts, a cloth, a bar, and the right hand would not close on the spanner so he put a wedge of roofing slate under the cover and held it down with his forearm for eleven minutes, which is what he has done for a hundred and forty hinges in five weeks and which is now the only way his hand works at all.
 
-Inside the cover there were four fields that had names on them and a fifth that did not.
+Inside the cover there were six fields. Five of them had names on them.
 
 **HOLDER. SCOPE. WITNESS. TERM. CLAIM. PRECEDENCE.**
 
-Six, actually. Five of them were printed and dated and had somebody's handwriting in them, three of them from a commissioning card in 2011 and two of them from a schedule in 2013 that had a caretaker's initials against it, and Jonas Mercer had read them all standing up and every one of them was complete.
+All five were printed and dated and had somebody's handwriting in them, three of them from a commissioning card in 2011 and two of them from a schedule in 2013 that had a caretaker's initials against it, and Jonas Mercer had read them all standing up and every one of them was complete.
 
 The sixth field was under them and it was shorter than the others and it had no printing on it at all, only a rule and a cursor, and it said:
 
@@ -108,7 +108,7 @@ That was the fault.
 
 Not a seam. Not a hole. Not anything the Lattice prints. A field that has been on a plate on a mortuary gate since 2011 with a rule and a cursor under it and nothing in it, because a mortuary gate has had a hydraulic closer and a card reader and a working latch every single day for eleven years and nobody in the city of Nacre has ever had to write down what it is for, and the answer was always going to be *whatever somebody needed at the time*, and that was fine, and it was fine for eleven years, and it is not fine any more at midnight on Saturday.
 
-He stood up in the mortuary yard at twenty to eight on Tuesday morning with a roofing slate under a cover and a field with a cursor in it and worked out, standing up, in about four seconds, that the mortuary gate at Saint Orra west was in perfect condition and was going to stop being a gate on Saturday night at one minute past midnight, and that nobody in that building was going to be able to prevent it, and that he could not prevent it either, because a field on a plate is not a fault and a fault is the only thing he has ever been able to mend.
+He stood up in the mortuary yard at twenty to eight on Tuesday morning with a roofing slate under a cover and a field with a cursor in it and worked out, standing up, in the time it took him to get the cover back on, that the mortuary gate at Saint Orra west was in perfect condition and was going to stop being a gate on Saturday night at one minute past midnight, and that nobody in that building was going to be able to prevent it, and that he could not prevent it either, because a field on a plate is not a fault and a fault is the only thing he has ever been able to mend.
 
 Then he wrote in the pad he carries, in his left hand, four lines.
 

@@ -6,11 +6,13 @@ Take the mechanism into a room and make it cost somebody in public. The batch ca
 
 ## Starting condition
 
-Wednesday 30 April, 16:20. The pre-sitting is over. Rook has come out of committee room two. Nina Calder's form is on a public board with nine returns and a blank line. Nobody has asked Marguerite Oyelaran about six water points. Three nodes at Saint Orra west are unnamed and deferred from 00:01 on Saturday 26 April. The lowland had nine hours without water on Wednesday morning. The claims box closes Saturday 18 July. Jonas Mercer is not on anything.
+Wednesday 30 April, 20:40. The pre-sitting, which ran ten in the morning until about eight in the evening, is over. Rook has come out of committee room two and has had twenty minutes in the stairwell. Nina Calder's form is on a public board with nine returns on the first sheet — eight nodes with a holder, a ninth with none, a lowland water point — and a blank line under the rule at the bottom. Nobody has asked Marguerite Oyelaran about six water points. Three nodes at Saint Orra west are unnamed and deferred from 00:01 on Saturday 26 April. The lowland had **six hours and ten minutes** without mains water on the night of 29 into 30 April, and what came back at ten to six was a written declaration and a trickle. The claims box closes **Friday 18 July**. Jonas Mercer is not on anything.
+
+**Note on the batch's shape.** Chapter 59 closed on a coda dated **Tuesday 20 May** — the fourth return, a Cooper's Reach clinic, and *nobody* in a public document. **Do not retell 20 May.** This batch runs 1 May to 19 May, and the 20 May material is already on the page as a thing the reader has been told about; the only thing a later chapter may do with it is let somebody refer back to it.
 
 ## Calendar (authoritative; counted from Chapter 21 = Thursday 13 March)
 
-**1 May Thursday · 2 May Friday · 3 May Saturday · 4 May Sunday · 5 May Monday · 6 May Tuesday · 7 May Wednesday · 8 May Thursday · 9 May Friday · 10 May Saturday · 11 May Sunday · 12 May Monday · 13 May Tuesday · 14 May Wednesday · 15 May Thursday · 16 May Friday · 17 May Saturday · 18 May Sunday · 19 May Monday · 20 May Tuesday · 21 May Wednesday · 22 May Thursday · 23 May Friday · 26 May Tuesday · 29 May Monday.** Do not recompute from the real calendar.
+**1 May Thursday · 2 May Friday · 3 May Saturday · 4 May Sunday · 5 May Monday · 6 May Tuesday · 7 May Wednesday · 8 May Thursday · 9 May Friday · 10 May Saturday · 11 May Sunday · 12 May Monday · 13 May Tuesday · 14 May Wednesday · 15 May Thursday · 16 May Friday · 17 May Saturday · 18 May Sunday · 19 May Monday · 20 May Tuesday · 21 May Wednesday · 22 May Thursday · 23 May Friday · 26 May Monday · 27 May Tuesday · 28 May Wednesday · 29 May Thursday.** Do not recompute from the real calendar. **19 May is a Monday and 29 May is a Thursday and 18 July is a Friday.**
 
 ## Required chapter range
 
@@ -60,8 +62,8 @@ Wednesday 30 April, 16:20. The pre-sitting is over. Rook has come out of committ
 ### Chapter 0061 — Two Pounds Sixty
 - **POV / when:** Jonas, then Marguerite Oyelaran, then the Carrow Lane blocks. **Friday 2 May into Saturday 3 May.**
 - **Goal:** find out what the participation money actually bought, block by block, and who is paying it.
-- **Resistance:** **the fee does not stop**; the association has no money and Block C is a void; and one of the nineteen who signed has come to the door to ask whether she can be let out, and **the answer is that she can leave the agreement on paper in a fortnight and cannot leave the term for a year**, and Marguerite Oyelaran has to say that to a face.
-- **Major turn:** **the block's consumption is what the term is sized on, and the block's consumption went up in April, because the nineteen people who were sheltered in Wren Court in March cooked in that block's courtyard.** The fee was priced on a year in which the block was empty for eleven days and has been paid for a year in which it was full.
+- **Resistance:** **the fee does not stop**; the association has no money and Block C is a void; and one of the hundred and twenty-two who signed has come to the door to ask whether she can be let out, and **the answer is that she can leave the agreement on paper in a fortnight and cannot leave the term for a year**, and Marguerite Oyelaran has to say that to a face.
+- **Major turn:** **the block's consumption is what the term is sized on, and the block's consumption went up in April, because all four blocks were full for a week after the surge and none of them was empty for the eleven days the price was calculated on.** The fee was priced on a year in which the blocks were half empty and it is being paid for a year in which they are full, and the difference is being paid by the people who live in them.
 - **Consequence:** a notice about a node serving the term it was last read into, not the term somebody expected.
 - **Ending hook:** twelve of the hundred and twenty-eight have asked to leave the agreement. **Nell Ardent says a mass withdrawal is a data set, and Marguerite Oyelaran says it is a hundred and twenty-eight people finding out on the same day.**
 
@@ -74,7 +76,7 @@ Wednesday 30 April, 16:20. The pre-sitting is over. Rook has come out of committ
 - **Ending hook:** **the clerk's cover note for the papers** — one paragraph, four sentences, and the fourth sentence says what the *return* cannot establish, and it is going to be read out in a gallery.
 
 ### Chapter 0063 — The Saturday Decision
-- **POV / when:** Jonas at a distance, then the Saint Orra west corridor. **Saturday 9 May morning.**
+- **POV / when:** Jonas at a distance, then the Saint Orra west corridor. **Saturday 10 May morning.**
 - **Goal:** be in the corridor and not in the room when Halvorsen decides.
 - **Resistance:** he is not in the room and says so; the three unnamed nodes are the staff stair, the car park barrier and the service riser, and **the site has found £4,200 and has also found that the service riser is not a service and can be removed from the list by a person who has standing, and that person is Halvorsen.**
 - **Major turn:** **the decision is not which node is worth £4,200. It is that two of the four are not services at all, and finding that out takes a morning and a half and nobody in the city has asked the question because the schedule made it look like a menu.** Tier 2 goes to the mortuary gate, which has a hollow term on it and is therefore the most expensive gate in Nacre and the only one anybody is arguing about.
@@ -151,6 +153,6 @@ Record as canon: the 19 May outcome and its exact wording · whether the Saint O
 - **Do not resolve the Weir's three-way disagreement and do not let Jonas choose it.** A pump may be offered; Margo Doré may refuse it; it may not be argued out of her.
 - Keep the west-clinic gate running on its local term. It cannot be renewed by Jonas, the department, or a manager.
 - The 11:00–13:30 gap, Bram Osei's unfilled Thursday, and the two-refusal rule all stay open and dated. **The forty minutes of 15 April is time until the family knew, not the time the door took, and no 48-minute figure may ever be printed.**
-- **The claims box closes Saturday 18 July and nothing may be written into it that establishes a service or a person.**
+- **The claims box closes Friday 18 July and nothing may be written into it that establishes a service or a person.**
 - **A node with no term in force is not a person with no address. Do not slide from one into the other.**
 - **The cooperative steward board is the end of the volume, not a device of this batch.** It may be named, argued about, or refused. It may not be formed here.

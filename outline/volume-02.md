@@ -29,15 +29,17 @@ The volume's question, stated by the mechanism and not by a villain: **what happ
 
 **The anchor is unchanged: Chapter 21 = Thursday 13 March. Weekdays are counted from that anchor and are not the real-world calendar.**
 
-- 20 April **Sunday** · 21 April **Monday** · 22 April **Tuesday** · 23 April **Wednesday** · 24 April **Thursday** · 25 April **Friday** · 26 April **Saturday** · 27 April **Sunday** · 28 April **Monday** · 29 April **Tuesday** · 30 April **Wednesday** · 1 May **Thursday** · 2 May **Friday** · 19 May **Monday** · 29 May **Monday** · **18 July Saturday** (the ninety-day claims box expires, ninety days from 19 April).
+- 20 April **Sunday** · 21 April **Monday** · 22 April **Tuesday** · 23 April **Wednesday** · 24 April **Thursday** · 25 April **Friday** · 26 April **Saturday** · 27 April **Sunday** · 28 April **Monday** · 29 April **Tuesday** · 30 April **Wednesday** · 1 May **Thursday** · 2 May **Friday** · 3 May **Saturday** · 19 May **Monday** · 20 May **Tuesday** · 26 May **Monday** · 29 May **Thursday** · **18 July Friday** (the ninety-day claims box expires, ninety days from Saturday 19 April).
 
-## Section A — Chapters 49–60: The Schedule
+## Section A — Chapters 49–59: The Schedule
 
-The mechanism arrives, is traced, and is found to be legal. Nothing is defeated. The batch ends with a lowland water main that cannot be repaired without a written emergency declaration, because a price is a term and a burst pipe has no priced term.
+The mechanism arrives, is traced, and is found to be legal. Nothing is defeated. **The section ends on two things: a lowland water main that is repaired correctly in fifty minutes with a bar and a lump hammer and still cannot be put back in, because a price is a term and a burst pipe has no priced term — so what comes back at ten to six on Wednesday 30 April is a written declaration and a trickle; and a form with a hole in it, on a public board, with nine returns on it.**
+
+*(Reconciled after Batch 0001. Section A as first drafted ran to Chapter 60; the batch closed on 59 and Chapter 60 opens Section B. The two Section A promises are delivered on 58 and 59 respectively, and the mechanism is not resolved — it is priced.)*
 
 **Central beat:** Jonas finds that a term whose holder is a price list cannot be mended by a man who needs a person to hold it. The stage-2 sub-rule he earned in Volume 01 (a mending may be performed at a hinge he does not issue, provided a person or group **with local standing instructs it**) fails for the first time, because the thing instructing this node is a schedule.
 
-## Section B — Chapters 61–70: The Participation Agreement
+## Section B — Chapters 60–70: The Participation Agreement
 
 The hollow terms spread. **Rule 4(c): a signature on a participation agreement is a consent mark for the purposes of the Lattice and may not be withdrawn except on the same date next year.** Consent is graded by date. Nobody in the volume is lied to. The people who signed were not deceived; they were out of time, in a room, with a pen on a string.
 
@@ -66,7 +68,7 @@ The apparent denial is not caused by CivicCore inventing an injustice. It is cau
 ## Antagonist ladder (Volume 02)
 
 - **Alden Rook, CivicCore operations director.** Not softened. He argues the volume's best case: *a price is more honest than a queue nobody is accountable for*, and he can keep more hinges running than the department can, and the service floor at Gantry Ward is better on his books. His error is not greed. It is that he believes a paid claim is a *more* trustworthy claim, and that belief is stated out loud, and it is wrong, and he does not think it is wrong.
-- **Marguerite Oyelaran, chief officer of the Carrow Lane Housing Association.** Not a villain and not Rook's instrument. She bought Tier 2 for four blocks in March because the blocks lost lifts in 2011 and 2017, and passed the cost to 128 rooms because there was nowhere else to put it, and she collected thirty-one valid consent marks in a community room with a pen on a string, and she has read her own arithmetic and she can defend every line of it. **She is the person the volume is actually about.**
+- **Marguerite Oyelaran, chief officer of the Carrow Lane Housing Association.** Not a villain and not Rook's instrument. She bought Tier 2 for four blocks in March because the blocks lost lifts in 2011 and 2004, and passed the cost to 128 rooms because there was nowhere else to put it, and she put a hundred and twenty-two of a hundred and twenty-eight valid consent marks through a hundred and twenty-two letterboxes herself on Saturdays in January and February, and she has read her own arithmetic and she can defend every line of it. **She is the person the volume is actually about.**
 - **Schedule 4 itself.** The mechanism is the antagonist of the second half. It is a document. It is valid, it is readable, and it is the answer to a question the city refused to answer.
 
 ## Power progression (Volume 02)

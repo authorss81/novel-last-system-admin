@@ -70,7 +70,7 @@ She put the plate she was working on down flat on the bench, which is what she d
 
 At about twenty past seven on the Wednesday morning the twenty-third of April, Jonas Mercer was in the mortuary yard with a torch in his teeth for the second time in two days, and the plate on the bollard had changed.
 
-He got the cover off. Two of the six fields were the same and four of them were the same and one of them had a line under it in the flat civic register that had not been there on Tuesday, and it was not a fault notice and it was not a fault, and it read:
+He got the cover off. Five of the six fields were the same as they had been on Tuesday, and the sixth had a line under it in the flat civic register that had not been there before, and it was not a fault notice and it was not a fault, and it read:
 
 > **A DEFERRED NODE SERVES ITS LAST VERIFIED ESSENTIAL USE. IF NONE IS RECORDED, THE USE IS THE NODE'S MAINTENANCE.**
 
@@ -98,8 +98,8 @@ She put her pen down.
 
 ---
 
-There was a panel in Cooper’s Reach at half past nine that morning and Nell Ardent had said on the telephone the night before that she was going to lose it, and Jonas Mercer had not offered to come and she had not asked him to, and he went at ten past nine and sat at the back with a bag between his feet in a room with about sixty people in it.
+There is one other thing about the Wednesday and it is the shortest paragraph Jonas Mercer wrote that week.
 
-Halvorsen was there, because the Thursday clinic was the thing at risk and the service manager of the west site had been asked to attend to say what the hospital could absorb.
+Halvorsen telephoned the shop at about ten past four and said three words and then put the receiver down without explaining them, and when Jonas Mercer asked what they were Halvorsen said, “You will find out at half past nine tomorrow,” and would not say another word about it. He is going because the Thursday clinic is the thing at risk and the west site has been asked to say what the hospital can absorb, and he has a folder, and he does not want to go, and he is going.
 
-And on the third row, in a good coat, with a folder, sat a man of about thirty-eight with a CivicCore lanyard and a badge that said **CONTINUITY FIELD** on it, who had not been on the panel's list, and who had a schedule, and who was not going to leave before the last person had spoken.
+Jonas Mercer went at ten past nine.

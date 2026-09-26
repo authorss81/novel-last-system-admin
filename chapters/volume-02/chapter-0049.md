@@ -1,6 +1,6 @@
 # Chapter 0049 — Not a Service
 
-The stand on the Weir had been dead for about thirty-one hours and the bucket was still on the chain.
+The stand on the Weir had been dead for about twenty-six hours and the bucket was still on the chain.
 
 Jonas Mercer found that out at about ten past eight on Monday morning, standing on the road at the top of the slipway with his bag, and the first thing he did was the thing he has done every Monday morning since the second of March, which was to look at it and wait for it to ask him something.
 
@@ -34,7 +34,7 @@ She said it before he had finished the sentence, which she has been doing to him
 
 Perdita Sow was on the road.
 
-That was the part of the morning Jonas Mercer had not known about, and he found out at about half past nine when she came up the embankment footpath on the slow side with a shopping bag over the crook of her right arm and her left hand in a sling, and she is forty-four and she is out of a corridor at Saint Orra east after four nights, and she had been given eleven days and a follow-up and a leaflet.
+That was the part of the morning Jonas Mercer had not known about, and he found out at about half past nine when she came up the embankment footpath on the slow side with a shopping bag over the crook of her left arm and her right hand in a sling, and she is forty-four and she is out of a corridor at Saint Orra east after three nights, and she had been given eleven days and a follow-up and a leaflet.
 
 She swept the Weir road on Sundays for eleven unpaid years. Nobody had ever given her a map with that road on it. Nobody had ever asked her to be on anything.
 
@@ -44,7 +44,7 @@ On Monday morning, on the Monday, with a bag of her own, she came up the path.
 
 “There is nothing to write. The term ended.”
 
-“That is what I came to see,” said Perdita Sow. She put the shopping bag down on the wall and worked her right arm out of the sling strap without being asked, and then put it back in, which took her about four seconds and which she did not enjoy. “On the seventeenth of March I watched you put a wall of paper in a kitchen with your own handwriting on it. And on the second of April you sat in a room in the Old Ward and would not read a line out of a plate, and I read the newspapers about that, because a road sweeper reads the newspapers, and everybody in this city read the newspapers about that. And in April a man with a lamp came and measured a slab in Cooper’s Reach to the millimetre so that eleven flats would have to go, and that was in the newspapers too, and I could not tell from the newspaper which of you was the good one.”
+“That is what I came to see,” said Perdita Sow. She put the shopping bag down on the wall and worked her right arm out of the sling strap without being asked, and then put it back in, and it took longer than it should have and she did not enjoy it. “On the seventeenth of March I watched you put a wall of paper in a kitchen with your own handwriting on it. And on the second of April you sat in a room in the Old Ward and would not read a line out of a plate, and I read the newspapers about that, because a road sweeper reads the newspapers, and everybody in this city read the newspapers about that. And in April a man with a lamp came and measured a slab in Cooper’s Reach to the millimetre so that eleven flats would have to go, and that was in the newspapers too, and I could not tell from the newspaper which of you was the good one.”
 
 “I measured it because it was unsafe.”
 
@@ -56,7 +56,7 @@ She nodded at the plate on the pillar, which had nothing on it.
 
 “Which of us swept this road.”
 
-“You,” said Perdita Sow, “but you were not on it, and I was, and on Sunday morning I could not tell you which of the two of us you are.”
+“You,” said Perdita Sow, “but you were not on it, and I was, and on Monday I could not tell you which of the two of us you are.”
 
 ---
 

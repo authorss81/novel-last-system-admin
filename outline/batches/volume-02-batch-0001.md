@@ -14,11 +14,11 @@ Sunday 20 April, 22:20. The care term is running to 06:00 Tuesday 21 April. The 
 
 ## Batch climax (Chapter 58)
 
-**Tuesday 29 April, 23:40, a lowland main.** A commissioning clamp left on a joint after the 18 April flood works; the works order was closed on paper on 20 April by a crew that never came back. Jonas and Emeka Rusk find and shift it in forty minutes in the dark, and the restoration cannot be done on a declaration, because the spur's restoration route is a priced term and there is nobody on the tier. **A CivicCore field manager offers, in a car park, at twenty to one in the morning, to put the lowland on Tier 2 for eleven minutes**, and it would work, and nobody in Nacre can turn it into a favour without breaking a rule that costs somebody else money. They do not buy it. Nine hours. Marigold Adjei, seventy-seven, with a chest, gets a bottle, carried by Aurrie Nkemdirim, and nobody writes it down.
+**Tuesday 29 April, 23:40, a lowland main.** A commissioning clamp left on a joint after the 18 April flood works; the works order was closed on paper on 20 April by a crew that never came back. Jonas and Emeka Rusk find it and take it off in fifty minutes in the dark, and **the main is sound at ten past one and cannot be put back in**, because the spur's restoration route is a priced term and there is nobody on the tier. **A CivicCore field manager offers, in a car park, at twenty to one in the morning, to put the lowland on Tier 2 for £25,200 in eleven minutes**, and it would work, and nobody in Nacre can turn it into a favour without breaking a rule that costs somebody else money. They do not buy it. **Six hours and ten minutes**, and what comes back at ten to six is a written declaration and a trickle. Marigold Adjei, seventy-seven, with a chest, at the top of a hundred and nine steps, gets a bottle carried up by Aurrie Nkemdirim, sixty-one, at ten to five in the morning, and nobody writes it down.
 
 ## Calendar (authoritative; counted from the Volume 01 anchor Chapter 21 = Thursday 13 March)
 
-**20 April Sunday · 21 Monday · 22 Tuesday · 23 Wednesday · 24 Thursday · 25 Friday · 26 Saturday · 27 Sunday · 28 Monday · 29 Tuesday · 30 Wednesday · 1 May Thursday · 2 May Friday · 19 May Monday · 29 May Monday · 18 July Saturday.**
+**20 April Sunday · 21 Monday · 22 Tuesday · 23 Wednesday · 24 Thursday · 25 Friday · 26 Saturday · 27 Sunday · 28 Monday · 29 Tuesday · 30 Wednesday · 1 May Thursday · 2 May Friday · 19 May Monday · 20 May Tuesday · 26 May Monday · 29 May Thursday · 18 July Friday.**
 
 ## Lattice notices used (one per chapter; none in 49, 52, 53, 55, 56, 59)
 
@@ -81,13 +81,13 @@ Sunday 20 April, 22:20. The care term is running to 06:00 Tuesday 21 April. The 
 - **POV / when:** Jonas. Wren Court, Salter's Yard. **Thursday 24 April, 20:00 to 23:00.**
 - **Goal:** see rule 4(c) where it was signed, without being given a list of thirty-one people.
 - **Resistance:** Yolanda Fofana's three conditions, and the third is the one that matters — **the fee does not stop.** She shows him the file because she chooses to.
-- **Major turn:** **nineteen of thirty-one signed; four lapsed in April; and eleven of the nineteen people sheltered there on 18 April had a lapsed agreement.** And Yolanda Fofana signed her own agreement as steward and her own lapsed on 1 April and the block went to the default and she did not tell the residents why the water went.
+- **Major turn:** **nineteen of thirty-one signed; four lapsed in April; and eleven of those nineteen were in the building on the night of the seventeenth and every one of the eleven was already lapsed.** And Yolanda Fofana signed her own agreement as steward and her own lapsed on 1 April and the block went to the default and she did not tell the residents why the water went.
 - **Consequence:** a fee nobody can stop is the mechanism, and the mechanism is not a lie.
 - **Ending hook:** the notice on the meter cupboard. And Jonas realises his own city's hollow term and this one are the same shape.
 
 ## Chapter 0055 — The Second Named Clinician
 
-- **POV / when:** Jonas, and Dr. Sanaa Iqbal. Saint Orra west, a corridor, at her initiative. **Saturday 25 April, 09:40.**
+- **POV / when:** Jonas, and Dr. Sanaa Iqbal. Saint Orra west, a corridor, at her initiative. **Friday 25 April, 09:40.**
 - **Goal:** nothing. She has sent a message and he does not know what it is.
 - **Resistance:** she is not reconciled, she is not on the card, she does not let him thank her, and she will not be asked again to be a witness as a favour.
 - **Major turn:** the second named clinician exists. It exists because the west site administration found a **participation line**, and the fifth refusal reversed for money, and the money is the mechanism of this volume.
@@ -112,31 +112,31 @@ Sunday 20 April, 22:20. The care term is running to 06:00 Tuesday 21 April. The 
 - **Consequence:** the notice on the meter room wall, and the fact that nobody in the city can appeal their own bill.
 - **Ending hook:** she tells him the six lowland points could be put on a schedule for £1,880 a year each and nobody has ever asked her to. And Jonas, who has spent five weeks going round asking people for things, does not ask.
 
-## Chapter 0058 — Nineteen Days
+## Chapter 0058 — The Main Is Sound
 
 - **POV / when:** Jonas. Lowland road, the dip, a car park. **Tuesday 29 April 23:40 into Wednesday 30 April 07:40.**
 - **Goal:** get water back to a lowland that has none.
 - **Resistance:** a commissioning clamp on a joint after the 18 April flood works, a works order closed on paper on 20 April, and a restoration route that is a priced term with nobody on the tier.
 - **Major turn:** **Wendell Pryce**, 38, CivicCore continuity field manager, in a car park at twenty to one, offers to put the lowland on Tier 2 in eleven minutes, and says plainly that it is not a favour, it is a purchase, and that nobody in this city can make it a favour without breaking a rule that costs somebody else money. **And that it is the best argument anybody has made against Jonas in five weeks.**
-- **Major consequence:** they do not buy it. Nine hours. Marigold Adjei, seventy-seven, with a chest, at the top of some stairs, gets a bottle, carried by Aurrie Nkemdirim, and nobody writes it down. Emeka Rusk shifts the clamp at about ten past three with a bar and a torch.
-- **And:** the Weir stand, having no term, narrows to its maintenance — which is the pump that serves the trap — and the trap can no longer be cleared by anybody, ever, and Jonas understands the rule for the first time, six days after Margo Doré told him to say it in a room where it matters.
+- **Major consequence:** they do not buy it. **Six hours and ten minutes**, from twenty to twelve on the Tuesday to ten to six on the Wednesday. Marigold Adjei, seventy-seven, with a chest, at the top of a hundred and nine steps, gets a bottle, carried by Aurrie Nkemdirim, sixty-one, at ten to five in the morning, and nobody writes it down. Emeka Rusk shifts the clamp with a bar and a lump hammer in fifty minutes and the main is sound at ten past one and cannot be put back in.
+- **And:** the Weir stand, having no term, narrows to its maintenance — which is the pump that serves the trap — and the trap can no longer be cleared by anybody, ever, and Jonas understands the rule for the first time, nine days after Margo Doré told him to say it in a room where it matters — and he came nine days early and she let him.
 - **Ending hook:** the notice at the standpipe, and Jonas's discovery that the restoration route is a price and the price is a term and he cannot mend a term whose holder is a schedule.
 
 ## Chapter 0059 — The Return of a Deferred Node
 
-- **POV / when:** Jonas. Old Ward porch, then a stairwell. **Wednesday 30 April, 10:40 to 16:20.**
+- **POV / when:** Jonas. Old Ward porch, then a stairwell. **Wednesday 30 April, 10:40 to 20:40.**
 - **Goal:** get one thing into the record before 19 May. He is not allowed to be in the room and is not asked.
 - **Resistance:** the pre-sitting runs four hours on the schedule amendment; CivicCore's operations director is in attendance; the city cannot force CivicCore to publish anything because the schedule is not a contract term.
 - **Major turn:** **Nell Ardent and Nina Calder, separately and neither deferring to the other, arrive at the same instrument** — the city cannot make the Lattice publish a narrowing, but the city can publish one on its own paper. Pell says so and declines to draft it because he is a registrar and not a clerk. **Adopted 30 April: the Return of a Deferred Node.**
 - **Consequence:** the first return comes back the same afternoon. **Eight nodes have a holder. One does not.** It is a lowland water point. The form has no line for it. Nina Calder leaves a blank line at the bottom of the form and says it is not a design feature.
 - **And Rook, in a stairwell, twenty minutes, at the end.** He argues the volume's best case, in full, and he is right about the queue and wrong about the claim, and he says so himself. He agrees to publish his own narrowings, because he is a decent operator and visibility is not defeat. And he says the register will be used against Jonas inside two years, and that in June somebody will try to define *holder* and the definition will be drafted by whoever puts a schedule on the table.
-- **Ending hooks:** the claims box at the Old Ward board closes **Saturday 18 July**. The Standing Committee sits **Monday 19 May**. The schedule is tabled and not defeated. The form has a hole in it and the hole is the honest part.
+- **Ending hooks:** the claims box at the Old Ward board closes **Friday 18 July**. The Standing Committee sits **Monday 19 May**. The schedule is tabled and not defeated. The form has a hole in it and the hole is the honest part.
 
 ---
 
 ## Required continuity updates after this batch
 
-Record as canon: Schedule 4; tiers and prices; deferral-not-disconnection; last verified essential use; rule 4(c); challenge restriction; Ivo Bamba's note as a hollow term; Marguerite Oyelaran; the Return of a Deferred Node and its blank line; Wendell Pryce; the third refusal of Yasmin Rohan; the participation line at Saint Orra west; the Weir's dead stand narrowing to its maintenance; the nine hours without water on 29–30 April.
+Record as canon: Schedule 4; tiers and prices; deferral-not-disconnection; last verified essential use; rule 4(c); challenge restriction; Ivo Bamba's note as a hollow term; Marguerite Oyelaran; the Return of a Deferred Node and its blank line; Wendell Pryce; the third refusal of Yasmin Rohan; the participation line at Saint Orra west; the Weir's dead stand narrowing to its maintenance; the six hours and ten minutes without mains water on 29–30 April.
 
 ## Guardrails for the rest of Volume 02
 

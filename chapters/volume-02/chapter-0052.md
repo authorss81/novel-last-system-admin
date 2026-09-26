@@ -26,7 +26,7 @@ She read it.
 
 > **The order is upheld. The panel's reasons are: (1) the structural finding is not disputed; (2) the appellant has not established a safety case for the building remaining open; (3) the panel is required to weigh the civic claim attaching to the premises, and by the determination of 22 April 2014 the premises' water and refuse services are recorded as a supply and not a service, and no civic claim attaches to the supply of a supply, and the panel therefore has before it a building with no service in it and an order that is the only civic instrument in reach.**
 
-Nobody spoke for about four seconds.
+Nobody spoke.
 
 Then somebody at the back said, quite loudly, “That is not a reason.”
 
@@ -118,9 +118,9 @@ Jonas Mercer read it.
 
 “Now listen to me properly, because I have thought about it for three weeks and I have gone round it about nine times and I keep arriving back at the same place and I do not like it.
 
-“Those people were not deceived. I want that on whatever you write down. They were not tricked and they were not coerced and there was no man in a good coat in that room. Nineteen adults read a page of numbers, in a room, in daylight, and were told what it cost, and they signed, and most of them signed because the alternative was that they did not have the lift and the water and the clinic in June.
+“Those people were not deceived. I want that on whatever you write down. They were not tricked and they were not coerced and there was no man in a good coat in that room. A hundred and nineteen adults read a page of numbers, in a room, in daylight, and were told what it cost, and they signed, and most of them signed because the alternative was that they did not have the lift and the water and the clinic in June.
 
-“Four of the thirty-one have since missed a month. Their signatures have not been withdrawn. They cannot withdraw them. Not because the association will not let them — the association will let anybody out of a participation agreement on paper, in writing, in a fortnight — but because the Lattice does not know about the housing association’s paper, and what the Lattice knows is a consent mark with a date on it, and the date on it is next year, and so for about eleven months the person who cannot pay is still inside the term they signed in March.”
+“Nine of the hundred and twenty-eight have since missed a month. Their signatures have not been withdrawn. They cannot withdraw them. Not because the association will not let them — the association will let anybody out of a participation agreement on paper, in writing, in a fortnight — but because the Lattice does not know about the housing association’s paper, and what the Lattice knows is a consent mark with a date on it, and the date on it is next year, and so for about eleven months the person who cannot pay is still inside the term they signed in March.”
 
 “Nell — a person can stop paying a bill.”
 
@@ -152,6 +152,8 @@ She put her hand on the rail.
 
 She went down the stairs.
 
-Jonas Mercer stood at the top of a stairwell in a library in Cooper's Reach at ten past one on Wednesday the twenty-third of April, and thought about a green pillar on a street with no address, and a woman of sixty-three who had burned a letter in a cook-house stove in March, and a registrar's line in a car park — *the nearest person who can be reached other than a resident of an unnamed district* — and understood that the phrase he had thought was a protection had a second clause to it that nobody had ever read out loud in a room with forty-one people in it.
+Jonas Mercer stood at the top of a stairwell in a library in Cooper's Reach at ten past one on Wednesday the twenty-third of April, and thought about a green pillar on a street with no address, and about a woman of sixty-three who had burned a letter in a cook-house stove in March, and about a registrar's line in a car park — *the nearest person who can be reached other than a resident of an unnamed district* — and understood that the phrase he had thought was a protection had a second clause to it that nobody had ever read out loud in a room with forty-one people in it.
+
+He understood, standing there, that the two things he had just put in a row do not go together, and that he was not going to be the one to put them together. A post on a street with no address is a post. A woman of sixty-three who burns her own letter is a person, and she can be found at her own front door on any day of her life and cannot be got off her own stairs. Schedule 4 is about the first of those. Prue Calloway's finding, in a hearing room, in the reason section of an order, is about the second. In nine days a committee is going to take a document about the first and use it to answer a question about the second, and the answer will be a good one, and it will be true, and it will be about nobody.
 
 Then he went down to his car, because it was Wednesday afternoon and the field on the plate of a mortuary gate in Saint Orra was still empty, and because a hospital does not stop, and because somebody was going to be in that yard at four o'clock in the morning on Saturday whether anybody in this city had asked them to or not.

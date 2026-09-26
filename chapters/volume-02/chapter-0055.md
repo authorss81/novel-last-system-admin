@@ -1,6 +1,6 @@
 # Chapter 0055 — The Second Named Clinician
 
-She had left a message at the desk on the Saturday morning of the twenty-fifth of April at about nine, in the middle of the handover book, on a piece of A5 with the word **JONAS** on the top of it in capitals, and it said: *corridor. ten. I will be twenty minutes. Do not bring the file.*
+She had left a message at the desk on the Friday morning of the twenty-fifth of April at about nine, in the middle of the handover book, on a piece of A5 with the word **JONAS** on the top of it in capitals, and it said: *corridor. ten. I will be twenty minutes. Do not bring the file.*
 
 He brought the file.
 
@@ -46,7 +46,7 @@ She said it the way a person says a word they have been carrying for four days a
 
 He put the bar down on the floor.
 
-“The thing that got me a second clinician,” said Sanaa Iqbal, “is a fee. The same shape of thing as the participation agreement a man in a good coat put on a table in a library on Wednesday. Two pounds sixty a room a week out of thirty-one rooms and a nineteen-year-old steward who has read a page of numbers out loud four times in a community room, except that this one is nine hundred pounds out of a dead line item in a hospital, and it is not a fee, it is a grant, and I know which of those two words is worse and I have been sitting with that for four days and I have got to the bottom of it and here it is: from where I am standing they are the same word.
+“The thing that got me a second clinician,” said Sanaa Iqbal, “is a fee. The same shape of thing as the participation agreement a man in a good coat put on a table in a library on Wednesday. Two pounds sixty a room a week off thirty-one rooms, collected by a steward who has been in that block nineteen years and has read a page of numbers out loud four times in a community room, except that this one is nine hundred pounds out of a dead line item in a hospital, and it is not a fee, it is a grant, and I know which of those two words is worse and I have been sitting with that for four days and I have got to the bottom of it and here it is: from where I am standing they are the same word.
 
 “Ruth Nwosu is on this roster because the hospital pays her. Not well. Not enough. But it pays her, and the paying is a line, and if the line goes then she goes, and that is the whole of the design and it is a good design and I have been defending it since the fifteenth of March, and it works, and I have got eleven hours of relief on a weekday afternoon for the first time since the second of April and I got it out of a dead coffee line that nobody has spent since 2011, and somebody put money in it in 2011 because they believed a hospital would still be doing this in five years, and I got it by accident, and I have got it for as long as the nine hundred pounds lasts, which is until somebody in that building spends it on a machine.
 
@@ -74,7 +74,7 @@ She put the paper cup on the windowsill.
 
 “Then why am I here,” said Jonas Mercer, “and what is the thing you are not going to let me thank you for.”
 
-“There is no thing I am not going to let you thank me for,” said Sanaa Iqbal. “I am not going to let you thank me for anything at all, and that is not a favour, it is housekeeping, because the second that one of us starts paying the other one back we are two people in a corridor being polite, and I have spent five weeks refusing to be polite in this corridor and I am not starting on a Saturday.
+“There is no thing I am not going to let you thank me for,” said Sanaa Iqbal. “I am not going to let you thank me for anything at all, and that is not a favour, it is housekeeping, because the second that one of us starts paying the other one back we are two people in a corridor being polite, and I have spent five weeks refusing to be polite in this corridor and I am not starting on a Friday.
 
 “The thing is the four refusals. I am going to give you the four refusals, and I am giving them to you for one reason, and I am going to say the reason out loud, and I would like it in whatever you write.
 
@@ -98,7 +98,7 @@ He did not write them down. He asked her to say them again while he wrote, which
 
 Jonas Mercer read the four lines back to her from the pad, in his left hand, in a corridor, and got one word wrong on the first one and she corrected him and he changed it.
 
-“Now you may say thank you,” said Sanaa Iqbal, “because you have earned it, and then I am going to say the last thing and it is the only thing I actually wanted to say on Saturday morning, and then I am going to go and do a discharge letter that is not mine.”
+“Now you may say thank you,” said Sanaa Iqbal, “because you have earned it, and then I am going to say the last thing and it is the only thing I actually wanted to say on Friday morning, and then I am going to go and do a discharge letter that is not mine.”
 
 She did not wait.
 
@@ -110,7 +110,7 @@ She did not wait.
 
 “Was that all right or was that the thing you say when it is not all right, because you have said all right to me nine times in five weeks and four of them were not all right.”
 
-“It was the fourth kind,” said Jonas Mercer. “I have got a note from Wednesday with a field on a plate in it about a mortuary gate and the man who wrote it is twenty-nine and it is the same shape as a page of numbers in a block of thirty-one rooms, and I have been sitting on it since Friday morning because I did not think I was allowed to bring it into this corridor and I have just brought it in.”
+“It was the fourth kind,” said Jonas Mercer. “I have got a note from Wednesday with a field on a plate in it about a mortuary gate and the man who wrote it is twenty-nine and it is the same shape as a page of numbers in a block of thirty-one rooms, and I have been sitting on it since Wednesday night because I did not think I was allowed to bring it into this corridor and I have just brought it in.”
 
 He put the pad on the sill, open, and she read it standing up in about ninety seconds, and she did not touch it.
 
