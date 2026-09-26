@@ -1,6 +1,6 @@
 # Open Threads
 
-These threads reflect events written in Chapters 1–70 unless marked as reserved. **Volume 01 is complete. Volume 02 is open at Chapter 70.**
+These threads reflect events written in Chapters 1–70 unless marked as reserved. **Volume 01 is complete. VOLUME 02 IS CLOSED AT CHAPTER 100. The table below is the state as of Chapter 70 and the authoritative state is the close-of-volume block at the END of this file and in `state/continuity.md`.**
 
 | ID | Thread | Current state after Chapter 70 | Next planned movement | Constraint |
 |---|---|---|---|---|
@@ -130,3 +130,52 @@ These threads reflect events written in Chapters 1–70 unless marked as reserve
 - **No 48-minute figure may ever be printed.** The forty minutes of 15 April is time until the family knew.
 - **Nine hundred and forty is a number of times.**
 - **One Lattice notice per ordinary chapter at most, four across any ten chapters at most.** Two were printed in 81–90 (Ch 82, Ch 85) and two were restatements of a spent condition (Ch 89 spoken, Ch 90 printed in truncated and marked form). The condition about a named responsible person for an address has still never been printed and no plate has been manufactured carrying it.
+
+---
+
+# After Chapter 100 — VOLUME 02 IS CLOSED
+
+## 1. The two dates. Both are after the last chapter and neither is in this volume.
+
+**WEDNESDAY 1 OCTOBER 2014 — two days after the volume closes.** A ninety-day notice served at 11:00 on Thursday 3 July on five parties expires. The placing party may re-assert `T3/11400/0304`, or any part of it, at Tier 3, at Meter Room 3, Salter's Yard, **without the consent of any person whose name appears in the holder field of that node at any time before that date.** The Aldbrook Trust has not noticed that it has been notified; a machine answered on 4 July and Dorothy Cresswell, 63, answered on 7 July and will do her job with the notice in October. **The 28 August determination did not touch it and could not and said so in terms.** What happens on the first is not in Volume 02 and is not to be decided in advance by any later volume either — it is a date that the city will arrive at.
+
+**TOMAS RENN'S QUESTION ABOUT THE DAY AFTER IS UNANSWERED AND IS THE SERIES' CURRENT LIVE QUESTION.** *What happens on the day after, when she is in the field again because she has to be, and a consent can be given twice — which is not defeating the clause, it is complying with it, twice.* **On 24 September 2014 Yolanda Fofana declined to answer it, gave the reason, and told Jonas Mercer not to write it down. He did not write it down. He wrote down that he was told not to write it down. Nobody argued with her. This is a standing refusal and may not be argued out of her, and the reason she gave is Volume 03's door.**
+
+**SATURDAY 11 OCTOBER 2014, 22:00 — twelve days after the volume closes, and the volume's last image, and it was never staged.** A six-day term read then begins at 07:00 on Sunday 12 October, one hour after the money stops. Four people could read that term, all four have given a correct answer, none has given an answer, and there is no rule for two of them. **Jonas Mercer and Tomas Renn will not discuss it, and that rule between them is the only instrument either of them produced in the year that is any use at all. It may be named on a wall, in a minute or on a list, by anybody. It may not be staged again and it may not be resolved in Volume 03 by anybody who was not in that corridor.**
+
+## 2. What Volume 02 won, and what it did not
+
+- **Priority access is invalid in a published determination where it was bought with a fee and by nothing else.** One sentence, one page, a sub-substitution of Schedule 4, limited to precedence, with the class of node named and no consequence provided for.
+- **NOTHING WAS DISSOLVED. CivicCore keeps the physical network**, the hinges, the floor at Gantry Ward and every contract. It loses the thing it was selling. **The cost of the narrowness is Rook's, delivered in a doorway: a thing that was going to happen anyway now has to be argued for, in public, repeatedly, by people who are not paid to argue, and a clause that cannot be challenged by a person cannot require them to.**
+- **A cooperative steward board exists.** Nine seats. Eight filled by people already doing a thing and asked nothing; one filled in a hall by a woman in an apron who stated her price out loud and did not hide a word of it. **It has no money, no chair, one power and no way to lose it, and the ninth of them is a person.**
+- **A reading rule**, the Committee's first act in four months that was not a form: where a party relies on either of the two entries for Meter Room 3, the other is to be read with it. **The two entries still stand and still cannot be amended and the Committee was not misled; it was read to, twice.**
+- **A record of shapes with no name box on it, by decision and not by oversight**, and the blank line at the bottom of the register of narrowings is still blank and the register has not grown since 4 August and is now a record of a period.
+
+## 3. The new standing instruments, and they are all still unpaid
+
+- **THE FOURTH PAGE** — one week, one place, one number, what was counted, one sentence saying what it is not, no index, no name box, nothing may be added, **and a person may refuse to be counted and the count then says so and says how many refused.** On a public board. Nobody has asked Nina Calder what it is for and she has not said.
+- **NO FIFTH PAGE WAS WRITTEN AND SHE REFUSED IN A PUBLIC ROOM AT A COUNTER ON 1 SEPTEMBER**, in the right order, unargued: *the fifth page is the form, the form is a scheme, a scheme is a list with a future in it, and a form is the last thing a person writes and the first thing an institution keeps.* Standing refusal. Nobody may come back to it.
+- **A YEAR ON A PIECE OF PAPER IN A POST BOX** — one letter, 1938, thirty rooms, a stopcock that turns, a tag, four meters, one name at the bottom, no household in it at all, and the wrongness named: it is written by a man who is not authorised to write it for a woman who has not been asked what she wants in it.
+- **A CONDITION THAT A CONSENT MAY BE GIVEN TWICE** and that the record of the second is not evidence about the first, printed on an enamel strip in a corridor, unsigned, undated and unattributed.
+- **A CONDITION THAT A BODY WHICH CANNOT BE REQUIRED TO DO ANYTHING CANNOT BE ASKED WHAT IT WILL DO**, printed on a card beside the register of narrowings, initialled by a records supervisor because a condition nobody has claimed can be put in an edition.
+
+## 4. The new bodies, and the old ones, and the cost of each
+
+- **Nine seats: eight named people and one woman.** Y. Amoah, 41, ambulance duty officer, eleven years. I. Sesay, 51, caretaker, Tarn Street school. D. Fahey, facilities supervisor, Saint Orra west, six years. I. Tarrant, car park supervisor, eleven years. S. Umeh, 58, market porter and lock-up keeper, thirty years. K. Ferris, 33, night bus controller, nine years. W. Crabbe, 62, linen supervisor, nineteen years. G. Nye, 44, self-employed heating engineer, twenty-one years. **And Y. Fofana, 54, named steward of Wren Court, findable at an address, unpaid, the only seat in the body that cannot be emptied by anybody else and therefore the only seat that can empty it, and she does not know that, and is not going to be told, because a person may not be required even to be told.**
+- **The only refusal to sit** was Ronan Vasquez, 48, estates, who read all four pages of section 11 first and whose reason is on page two, and who signed the decontamination verification on 15 August for the same reason in the same fortnight, and who says his name goes on a log and does not go on a board and that both of those are true and neither cancels the other.
+- **Wren Court, thirty-one rooms, no civic address, WAS NOT SEATED. The room tried.** They are right and it has not helped them since 4 July, and being right about it is now printed on a board in a corridor.
+- **Saint Orra west is unchanged.** 11:00–13:30 gap, published, unfilled, since 2 April. Bram Osei's refused Thursday in his own words. Priya Ranganathan's card. Terms six days. The gate on its local term. The corridor board has no new name on it.
+- **A service manager is still waiting to be told whether a rota is coming, and the only nine people in this city who know are the nine who were in the room, and nobody who does the practice has been told, and that is deliberate, and it is still the worst correct thing anybody in this city has done.**
+
+## 5. Forbidden in Volume 03 and in everything after it, in addition to everything already forbidden
+
+- **Do not open the sealed envelope in the drawer on a lower floor and do not write into it.** One card, about a stair, dated and numbered in biro. Nobody may open it.
+- **Do not resolve the fourth page of section 11 to the ninth party.** Nobody acts on it, and it is a lever.
+- **Do not let the ninth seat be a chair, a veto, a job, a paid office, a rota, or anything anybody can be required to do.** And do not have the eight learn what they are, and do not have anyone notice what the ninth can do.
+- **Do not make the board work.** Its one power is to require a party to answer. A district that cannot pay has a seat and a person in it and a price of £11,280 a year that nobody has asked anybody to pay, and that is the shape of Volume 03.
+- **Do not turn the letter into a resolution.** A managing agent's clerk will answer it in about eleven days and nobody in this city is entitled to know what she said.
+- **Do not let anybody thank a person for refusing something.** Chapter 90 spent that. Six refusals stand and two more were added in this batch, and none of the eight may be argued out.
+- **Do not manufacture a count of the nodes with nobody answering for them.** It has been refused twice, in July and in August, and the record that exists is a record of shapes.
+- **Nine hundred and forty is a number of times. Fourteen is a difference between two public numbers and is on no instrument. They were never in the same sentence and must not be.**
+- **The old continuity schedule is still in force and still has nobody auditing it, and the drawing layer still has no delete operation, and a chalk board in Gantry Ward still has a nine-millimetre ghost on it that says TIDEGLASS 3.**
+- **Volume 03 enters Lowglass as a person with claims and not as a population on a form.** The Weir is on no layer, is not drawn, cannot be seated, is not in the board's eight districts, and is on nobody's list. **A priced-access case is not a recognition case. A node with no term in force is not a person with no address. A duty is an act and not a place.**
