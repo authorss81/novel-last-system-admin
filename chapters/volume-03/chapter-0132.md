@@ -12,9 +12,9 @@ He gave the state of five of the six water points in about two minutes without s
 
 One of them was a stand with a bucket on a chain and a board of forty slots that works because a man puts money in the slot and takes the bucket and washes it and puts it back.
 
-"And **Jonas Mercer could not tell you his name either.**"
+"And **I could not tell you his name either.**"
 
-That was said on the fourteenth of January. It is still true on the eighteenth of March, and it is the only thing anybody knows, and nobody has been asked anything about it since.
+That was the last of it, and it was said in that hall at about half past two in the afternoon, and it is still true on the eighteenth of March, and it is the only thing anybody knows, and nobody has been asked anything about it since.
 
 **He is not findable from any record in this city and has never been. There is no party, no reference, no holder field, no name box, no return, no rota, no minute and no form on which his name could be written, and he has been standing in a street every day of his life for a length of time that is not recorded anywhere either, and the reason there is no record of him is not that he was missed. It is that nothing in this borough has ever had to write down a man who turns a bucket.**
 
@@ -56,7 +56,7 @@ And if somebody went and looked, and stood there, and asked a man of sixty or si
 
 **The finder is the handle.**
 
-For eight months he has made two men findable by saying things about them in rooms, and a man of forty-four is a wall and a man of forty-nine is a door, and neither of them was in a room. Beatrice Osunde told him in December that a handle is cheap and that a receipt is not an apology, and she was talking about a bill, and she was right, and he has been carrying the sentence and not the thing underneath it.
+For nine months he has made two men findable by saying things about them in rooms, and a man of forty-four is a wall and a man of forty-nine is a door, and neither of them was in a room. Beatrice Osunde told him in December that a handle is cheap and that a receipt is not an apology, and she was talking about a bill, and she was right, and he has been carrying the sentence and not the thing underneath it.
 
 **The thing underneath it is that the cheapest handle in this city is not a date. It is a person walking up to a pillar and being handed a bucket. And the most expensive thing anybody can do to a man who already has one is to go and introduce yourself.**
 
@@ -96,10 +96,10 @@ So the state on the twenty-sixth of January has been in an inside pocket in a co
 
 ---
 
-He wrote it in the shop on the Friday night, on the back page of a pad, and Beatrice Osunde was cutting a piece of ash and did not read it, which is the reason he writes there.
+He wrote it in the shop on the Friday night, on the back page of a pad, and it had not taken him long, and Beatrice Osunde was cutting a piece of ash and did not read it, which is the reason he writes there.
 
 > *Twentieth of March.*
-> *Findability is not a thing this borough has been minting. Findability is what a price does when there is no counter in front of it. I have spent eight months saying sentences in rooms and telling myself I was making people findable, and the man who turns the bucket at the turning head has been findable for twenty-six years and the reason is that the water costs four pounds and a man has to take the money with his own hand in the open.*
+> *Findability is not a thing this borough has been minting. Findability is what a price does when there is no counter in front of it. I have spent nine months saying sentences in rooms and telling myself I was making people findable, and the man who turns the bucket at the turning head has been findable for twenty-six years and the reason is that the water costs four pounds and a man has to take the money with his own hand in the open.*
 > *And I have worked out today that I could not go and stand there. Not because it is dangerous and not because he would not have spoken to me. Because I would have become the second thing that ever happened to him, and the first one is a price, and a price is a handle, and I would have been a handle with a date on it and my name on it.*
 
 She read that last line twice, which she has never done about anything he has written, and then she said one thing and she said it once and she went back to the bench.

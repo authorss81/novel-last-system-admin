@@ -102,7 +102,7 @@ And what happened in that room, and it happened in about eleven seconds, and the
 
 **A slip is a record of a person's account of a thing. It is not a record of the thing. There is nobody in this city who can require a records supervisor to say what a thing is, and so the only thing anybody can be given is what a man saw from where he was standing at ten past ten on a Tuesday, and that is a true sentence, and it is in a hand, and it has a date on it, and it is wrong.**
 
-And he worked out the rest of it standing at a wall four feet from a counter he had not gone to, in about four minutes, and he has written it out in a pad in a shop on the Monday night and it is four lines and there is no form on which he could put it.
+And he worked out the rest of it standing at a wall four feet from a counter he had not gone to, and it took him no longer than the walk to the end of that corridor and back, and he has written it out in a pad in a shop on the Monday night and it is four lines and there is no form on which he could put it.
 
 > *Sixteenth of March.*
 > *A state that has gone stale belongs to a thing. The trough is a thing. It is out there. Anybody may look at it. A thing can be wrong and a thing can be looked at again, and there is no person standing between the wrongness and the looking, and that is as close as this borough gets to a correction and it has no form in it.*

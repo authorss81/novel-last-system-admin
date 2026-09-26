@@ -2,21 +2,21 @@
 
 Saturday the eleventh of April 2015, about ten past ten in the evening, four hundred yards from a building. And Sunday the twelfth, from about twenty past six in the morning, a ground-floor corridor, Saint Orra west. And Monday the thirteenth of April, about ten past ten in the morning, the vestibule, ground floor, the Old Ward.
 
-**There was no question of his in the corridor at twenty past six on the Sunday morning and there was no question of his anywhere else in this chapter, and there has not been one since the twenty-fifth of February, and the counting has been right in every week of this year. There was another handover on the Saturday night and it is not this chapter's business and it is not going to be dated here and no name is going on it and nobody is going to be asked about it.**
+**There was no question of his in the corridor at twenty past six on the Sunday morning and there was no question of his anywhere else that day, and there has not been one since the twenty-fifth of February, and the counting has been right in every week of this year. There was another handover on the Saturday night and it is not going to be dated here and no name is going on it and nobody is going to be asked about it.**
 
 ---
 
-He had worked it out on the Saturday afternoon, in about four minutes, and the four minutes were about a place.
+He had worked it out on the Saturday afternoon, standing up, and it took no longer than that, and what he had worked out was about a place.
 
 **Four hundred yards is not an answer. Four hundred yards is a place, and a place a man goes to is the first half of a schedule, and a schedule is a rota with one name on it, and he has stood on a piece of wet pavement at a bus turning head five times since December, two of them at ten o'clock on a Saturday night, and he is thirty-two.**
 
-On the third of April, at half past five in the morning, four hundred yards had been the correct amount of evidence and the only place a man could stand and not be a rota. On the eleventh of April he stood on the same pavement at about ten past ten at night for about half an hour and worked out that the reason four hundred yards was safe was not that it was far away.
+On the third of April, at about twenty past six in the morning, four hundred yards had been the correct amount of evidence and the only place a man could stand and not be a rota. On the eleventh of April he stood on the same pavement at about ten past ten at night for about half an hour and worked out that the reason four hundred yards was safe was not that it was far away.
 
 **It was safe because on the third of April it was a decision he had made on the Friday, and it was the first time. And the reason it is not safe now is that a piece of wet pavement is a piece of wet pavement however far off it is.**
 
 A thing a man does once is a decision. A thing a man does four times, on a night, in the same four hundred yards, is a man who is expected to four hundred yards away on a night, and the only person in this borough who could confirm that is a porter, and a porter who can confirm it is a person with a duty and no name on it.
 
-**So he went and stood in the corridor instead, on the Sunday morning, at about twenty past six, and he has been in a corridor at that hour exactly twice, on the fourth of January and on the twelfth of April, and the first of those had not been planned for a week and this one had, and that is the whole of the difference, and four months has not taught him anything except how to see it.**
+**So he went and stood in the corridor instead, on the Sunday morning, at about twenty past six, and he has stood in a corridor on a Sunday morning exactly twice, and the first of them was at half past four on the fourth of January and the second is this one, and the first had not been planned for a week and this one had, and that is the whole of the difference, and four months has not taught him anything except how to see it.**
 
 ---
 
@@ -62,9 +62,9 @@ Not a policy. Not a standard. Two men, a waiting area, four chairs, a machine fo
 
 ---
 
-**And then he did the arithmetic he had been avoiding for four months and it took about four minutes, and it is the reason he did not write this down until the Monday.**
+**And then he did the arithmetic he had been avoiding for four months, and it is the reason he did not write this down until the Monday.**
 
-**He has been in that corridor at twenty past six in the morning exactly twice. The first was the fourth of January and it was a decision, and it was the last hour and a half of a term. The second is the twelfth of April and it is the hour after a term has stopped, and he had arranged the whole Saturday to get here, and he had arranged it on purpose, and he was standing in the one hour of the week when nothing in this borough is in force, in a corridor, at a time he had chosen, and there was nothing whatever wrong with any of it.**
+**He has stood in that corridor on a Sunday morning exactly twice. The first was half past four on the fourth of January and it was a decision, and it was the last hour and a half of a term, and there was no hour in that morning in which this borough had nothing. The second is twenty past six this morning and it is the hour after a term has stopped, and he had arranged the whole Saturday to get here, and he had arranged it on purpose, and he was standing in the one hour of the week when nothing in this borough is in force, in a corridor, at a time he had chosen, and there was nothing whatever wrong with any of it.**
 
 **A third one is a habit. A fourth is a rota with one name in it. And he has eight weeks of that coming, one Sunday at a time, and there is no form on which anybody could stop him and there is no form he would fill in.**
 

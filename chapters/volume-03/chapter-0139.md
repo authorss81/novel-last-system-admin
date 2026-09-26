@@ -6,7 +6,7 @@ Friday the twenty-fourth of April 2015, from about ten past ten in the morning, 
 
 ---
 
-He had come in on the Friday morning to look at a board and a blank line, and the blank line under the nineteenth had been blank for a hundred and forty-nine days, which was the longest it had ever been still since the fourth of August, and he had not expected that to still be true and it was, and he stood and looked at it for about four minutes and thought about a bulb.
+He had come in on the Friday morning to look at a board and a blank line, and the blank line under the nineteenth had been blank for a hundred and forty-nine days, which was the longest it had ever been still since the fourth of August, and he had not expected that to still be true and it was, and he stood and looked at it until somebody came through the door behind him, and he thought about a bulb.
 
 At about twenty past ten a woman of about thirty came in behind him.
 
@@ -83,7 +83,7 @@ He wrote it and it is four lines.
 
 ---
 
-**And on the Saturday night there was a handover at ten o'clock at a building four hundred yards from a piece of wet pavement, and there is no document about it and there is not going to be one, and it was the fourteenth of them, and nobody wrote a date on it, and there has not been a date written on any of the fourteen, and there is not going to be one.**
+**And on the Saturday night there was a handover at ten o'clock at a building four hundred yards from a piece of wet pavement, and there is no document about it and there is not going to be one, and it was the fourteenth of them, and nobody wrote a date on it, and there has not been a date written on any of the fourteen, and there is not going to be one. It was not put in a room and it is not going to be, and the reason is that he was four hundred yards away on a wet pavement in the dark, and a man standing on wet pavement is not in a room, and there is no way of knowing from four hundred yards what a room sounds like.**
 
 The two men who read them aloud have read every one of these since the third of January 2015. **Neither of them has ever been asked about a single one of them by anybody, and neither of them ever will be, and the reason is not discretion. The reason is that there is nothing to ask about.**
 

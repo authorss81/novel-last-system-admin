@@ -8,7 +8,7 @@ Wednesday the twenty-fifth of March 2015, about two in the afternoon, a kitchen 
 
 The kitchen had one window and the window was over a yard and the yard had a wall on it with nothing on the wall. There was a table with two chairs and one of the chairs had a coat over the back of it. There was a plate in the sink with the pattern worn through in the middle.
 
-**EMMANUEL OTIENO IS THIRTY-EIGHT.** He has been on the books of four different agencies in nine years and the same two in the last four. He does nights, four to ten, at a depot. He does a second job on Fridays that he does not talk about and there is nothing in this chapter about the Fridays. He has a daughter of nine who walks to a bus stop at the end of that road on her own at twenty past seven and gets picked up and has never once been late.
+**EMMANUEL OTIENO IS THIRTY-EIGHT.** He has been on the books of four different agencies in nine years and the same two in the last four. He does nights, four to ten, at a depot. He does a second job on Fridays that he does not talk about, and nothing on that page is about the Fridays. He has a daughter of nine who walks to a bus stop at the end of that road on her own at twenty past seven and gets picked up and has never once been late.
 
 She was at school. She gets out at half past three. He had about an hour and he had used about half of it and there was nothing else to do, so he did the thing he had been not doing.
 
@@ -56,7 +56,7 @@ And the form will be a good form. It will have a box on it and a reference and a
 
 **And the wall is not the counter. The wall is the day somebody can say *we can only do eight today* and be entirely correct, and the day that can be said is the day the room is a room with a service in it, and it will not be the man who said it. It will never be the man who said it. It will be the first person who is tired and honest.**
 
-He had worked that out in about four minutes at that sink in February and he had told nobody, and there was nobody to tell, and the woman at the counter does not know his name and does not know he comes and has never been told that anything about that room is knowable from outside, and he is one of about eleven people a day and he is not going to be one of the four who has a slip, because he does not need one, and that is the only reason he has four pieces of paper and it is a stupid reason and it is his.
+He had worked that out at that sink in February, with the tap running and the window open, and he had told nobody, and there was nobody to tell, and the woman at the counter does not know his name and does not know he comes and has never been told that anything about that room is knowable from outside, and he is one of about eleven people a day and he is not going to be one of the ones who has a slip, because he does not need one, and that is the only reason he has the wallet, and it is a stupid reason and it is his.
 
 ---
 

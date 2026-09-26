@@ -92,7 +92,7 @@ It went up because two people who are not on anything were in a room with four c
 
 At about twenty past six on the Sunday morning he was four hundred yards away.
 
-He has been on that pavement twice, in the rain in January, and once in the dark in December, and he did not go into the building and he did not stand in the corridor and he was four hundred yards off, on purpose, in the dark, with his hands in his pockets, and he had decided that on the Friday afternoon in about four minutes.
+He has been on that pavement twice, in the rain in January, and once in the dark in December, and he did not go into the building and he did not stand in the corridor and he was four hundred yards off, on purpose, in the dark, with his hands in his pockets, and he had decided that on the Friday afternoon, and the decision took him about as long as the walk from that counter to the door.
 
 **The term that had been in force until twenty to six that morning was the tenth of them. It had begun at seven o'clock on Sunday the twenty-ninth of March and it ran six days and it expired at six o'clock on Sunday the fifth of April, and the eleventh was read at ten o'clock on the Saturday night before, and it began at seven o'clock on the Sunday, and so there was an hour on that Sunday morning between six and seven when no term was in force at all in the whole of this city.**
 
@@ -102,7 +102,7 @@ He stood in the middle of it and looked at nothing, and what he found out was th
 
 Not at night, not in rain, not at half past six in April. There is a light on in that corridor and there is a light on in the car park and there is a shape of a building and there is no way on God's earth to tell a man standing on a piece of wet pavement four hundred yards away whether a door on the far side of it is open, and that is not a failure of eyesight and it is not a tragedy. It is the correct amount of evidence.
 
-He had one hour of that every week and he had been in it once, on the fourth of January, at half past four in the morning, and the gate has never once been opened by anything he did in it, and the only reason he was ever there is that he was not required to be anywhere.
+That hour is his, once a week, and until this morning he had never once been in it. The only other Sunday morning he has spent in that corridor was half past four on the fourth of January, which is the last hour and a half of a term, and there is no gap in this city in that hour at all, and it was a decision, and he had not planned it for a week. **And the gate has never once been opened by anything he did in it, and the only reason he was ever there is that he was not required to be anywhere.**
 
 **And from four hundred yards he could not be a rota, could not be expected, could not be noticed, could not be seen to be there, could not be asked whether he had been, and could not be a reason that a porter began to look at a corridor.**
 

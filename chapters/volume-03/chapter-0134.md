@@ -14,7 +14,7 @@ The drawer has no key on it. There is no key in the building. It is a drawer in 
 
 **There is a plastic wallet in it. There are two pieces of paper in the plastic wallet and neither of them is a document and neither of them has a crest, a form number, a reference or a box on it, and neither of them can be used to show anybody anything.**
 
-**The four lines at the top of that sheet of A4 are the minute-taker's.** They are in biro. They were written on Wednesday the twenty-first of January, in about four minutes, on a second sheet that had nothing at the top of it when she took it.
+**The four lines at the top of that sheet of A4 are the minute-taker's.** They are in biro. They were written on Wednesday the twenty-first of January, in one go, without stopping, on a second sheet that had nothing at the top of it when she took it.
 
 And underneath them, in a different hand, are four lines that are not hers and are nobody else's, and nobody has said out loud in a room that those four lines came from the woman, and nobody in this borough is going to say it, and it is not said here.
 
@@ -52,7 +52,7 @@ Nobody can make her come. Nobody can even make anybody try to make her come, bec
 
 **And there is no number. There is no number in this borough for anybody to telephone, and it is not on a list, and it is not going on one, and the reason is four words long and they are that nobody owns that number.**
 
-A list of telephone numbers is a list of people. A list of people who cannot be reached is a list of people who are not in a room. And a room in this borough cannot require anybody to do anything, and so a room that held a list of the people it could not reach would be a room that had made a list of the people it could not ask, and that is a list, and a list is a thing somebody can hold over you, and the only person in this borough who has said that sentence out loud is a records supervisor of about fifty in a vestibule eleven feet by nine, and she said it about a bulb.
+A list of telephone numbers is a list of people. A list of people who cannot be reached is a list of people who are not in a room. And a room in this borough cannot require anybody to do anything, and so a room that held a list of the people it could not reach would be a room that had made a list of the people it could not ask, and that is a list, and a list is a thing somebody can hold over you, and the only person in this borough who has said that sentence out loud is a records supervisor of about fifty in a vestibule eleven feet by nine, and she said it about a bulb. **She is the woman who keeps the minutes and she is the woman who stands at that counter at about ten and at about three, and there is one of her and not two, and there is no box anywhere in this borough that could say so.**
 
 ---
 
@@ -66,7 +66,7 @@ Her name is not on it. There is no name box on it. It has never had her name on 
 
 ---
 
-**And here is the finding, and it is the whole of this chapter, and it is not a consolation and it is not a defence and it is not going to be improved by anybody.**
+**And here is the finding, and it is the whole of it, and it is not a consolation and it is not a defence and it is not going to be improved by anybody.**
 
 **Nothing happened.**
 

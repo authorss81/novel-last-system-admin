@@ -68,7 +68,7 @@ Then he thanked her, which is a thing people do at a counter and which nobody in
 
 **And here is the inside of it, and no minute of it exists.**
 
-**Emmanuel Otieno had a plastic wallet in the glovebox of a van he does not own, with four pieces of paper in it, and he had had it since about the middle of January, and he had not shown it to anybody.**
+**Emmanuel Otieno had a plastic wallet in the glovebox of a van he does not own, with more than one piece of paper in it, and he had had it since about the middle of January, and nobody in this city can say how many, and he had not shown it to anybody.**
 
 The first one was from the middle of January, before this counter was a counter to him, and it had come out of a different office in a different town and it had taken eleven days and it had been a form with a reference on it, and the reference had been on it because the reference was what made it findable, and he had understood nothing that had happened to him in those eleven days and had been given a date at the end of it.
 

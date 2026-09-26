@@ -74,11 +74,11 @@ And the reason she said it in front of eleven people and not to him at that coun
 
 Then she gave the other half of it, to him, and it took about nine seconds and it is the reason and it is not a rule and it is not going in a minute.
 
-"**And I am saying it to you and not to the wall because you have had a pen since the fourth of September and you have been writing down why other people say no for nine months and nobody in this city has ever once asked you for one of yours, and I have got one, and it took me four minutes to find out that I had got one, and I have never told anybody that I did not have one until you handed it to me this morning by not asking.**"
+"**And I am saying it to you and not to the wall because you have had a pen since the fourth of September and you have been writing down why other people say no for nine months and nobody in this city has ever once asked you for one of yours, and I have got one, and it took me a morning to find out that I had got one, and I have never told anybody that I did not have one until you handed it to me this morning by not asking.**"
 
 ---
 
-**Nobody may ask her a question about it afterwards and nobody did.** He did not ask her whether it was going in the minute. She did not offer. Four people in that room heard it and two of them looked at her and one of them said "**what was that**" about four minutes later to somebody else and was told it was nothing, and nothing was the correct answer, and it was not a lie, because a sentence in a room is a thing a room knows and that is a different thing from a thing anybody has been told.
+**Nobody may ask her a question about it afterwards and nobody did.** He did not ask her whether it was going in the minute. She did not offer. Four people in that room heard it and two of them looked at her and one of them said "**what was that**" a good deal later, at the end of the corridor, to somebody else and was told it was nothing, and nothing was the correct answer, and it was not a lie, because a sentence in a room is a thing a room knows and that is a different thing from a thing anybody has been told.
 
 **That sentence is now in about eleven people and in no document. And that is precisely the thing she refused on the second of January, and it has happened anyway, and it was not anybody's fault, and nobody in this borough did it to her, and she went into that room on purpose and she had worked out on the way in what she was going to do and she did it because the room has no box on it.**
 
@@ -101,7 +101,7 @@ There is nothing on it about who holds anything, and nothing on it in three year
 
 **And the drawer under that counter is a drawer and it is not locked, and there is no key on it, and there is no list of what is in it, and a tray is sitting on top of it.**
 
-There are more of them in it than there were in February, and there is no way in this borough to tell anybody how many more. They have a date on each one and a hand on each one and no reference, no number, no crest, no form, no box, and no name on any of them, including hers. She keeps a copy of each one and the person who is handed it carries it away in a pocket and that is the end of it.
+There are more of them in it than there were in February, and there is no way in this borough to tell anybody how many more. They have a date on each one and a hand on each one and no reference, no number, no crest, no form, no box, and no name on any of them, including hers. **She keeps a copy of every one she has ever written, which is not a copy of a document, because there is no document and there never was one, and a drawer of them is not a file and cannot be produced by anybody and says nothing about who wrote what or to whom.** The person who is handed a state carries it away in a pocket, and the two pieces of paper are the same state about a day and neither of them is a record of the other, and that is the end of it.
 
 **And there is no form in this borough, on any counter, on any tray, in any office, on which anybody could write *THESE ARE NOT A SERIES*. A box that says *not a series* is a series. Nobody put them there on an instruction and there is no standing order and no handbook and she is not on one and cannot be made to be on one.**
 

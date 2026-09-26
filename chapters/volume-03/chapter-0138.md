@@ -2,7 +2,7 @@
 
 Friday the seventeenth of April 2015, about two in the afternoon, a shop at the end of a street. And Monday the twentieth of April, from about ten past ten in the morning, the vestibule, ground floor, the Old Ward.
 
-**There was no question of his in the shop on the Friday afternoon and there was no question of his in the vestibule on the Monday morning, and there has not been one since the twenty-fifth of February, and the counting has been right in every week of this year. There was one question of somebody else's in that vestibule on the Monday morning and it was six words and it was not a question about anything.**
+**There was no question of his in the shop on the Friday afternoon and there was no question of his in the vestibule on the Monday morning, and there has not been one since the twenty-fifth of February, and the counting has been right in every week of this year. The man of about sixty asked four questions at that counter, the two shortest of them were four words and one of them was six words long, and not one of them was about anything.**
 
 ---
 
@@ -103,7 +103,7 @@ Nine slips is a count of documents. About eleven people a day is a count of peop
 
 **And the second thing in that arithmetic is a plastic wallet in the glovebox of a van he does not own, and nobody in this borough can say how many pieces of paper are in it, and that is correct, and the reason it is correct is that a man of thirty-eight is not findable from any record in this city and has not asked anybody anything since the sixth of February.**
 
-Two drawers, in two boroughs, in two vehicles that belong to nobody who is keeping them. **And both of them are growing, and neither of them has a rule on it, and in about four years somebody in this city is going to be able to say how many.**
+Two drawers, in two vehicles, in two yards, and neither vehicle belongs to anybody who is keeping it. **And both of them are growing, and neither of them has a rule on it, and in about four years somebody in this city is going to be able to say how many.**
 
 And how many is a capacity.
 

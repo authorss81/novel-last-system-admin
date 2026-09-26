@@ -16,7 +16,7 @@ Monday the twenty-seventh of April 2015, from about ten past ten in the morning,
 
 **A woman of about sixty who has been in that corridor every morning for about a year reading a board with an empty row on it and has never once been asked about it, and who came in on the Monday morning with a plastic cup of tea and has been in the room about four minutes.**
 
-**And four other people who are on no board, who have not been asked anything, and who are not going to be, and one of whom has been standing in that room since before he came.**
+**And eight other people who are on no board, who have not been asked anything, and who are not going to be, and one of whom has been standing in that room since before he came.**
 
 **And here is who was not in that room, and none of them was left out, and every one of them was left out on purpose by somebody standing at a wall.**
 
@@ -72,7 +72,7 @@ Nobody in that room said anything for about four seconds, and it is eleven feet 
 
 The man of about fifty-six did not ask a second question. He has asked three questions of anybody in this borough in nine months and he has got three answers and he did not ask a fourth.
 
-**And nobody repeated it, and nobody improved it, and nobody wrote it on anything, and the woman who keeps the minutes did not ask him whether he wanted it read back, and he did not ask her to.**
+**And nobody repeated it, and nobody improved it, and nobody has put it on a wall, and the only place it has ever been is the fourth item of a sheet that requires nothing, and the woman who keeps the minutes did not ask him whether he wanted it read back, and he did not ask her to.**
 
 And the man of about fifty-six has five words in biro on the back of his left hand that nobody has ever asked him about and nobody is going to.
 
@@ -138,7 +138,7 @@ A woman of thirty-four is in about eleven people and in no document, and a hole 
 
 **And Jonas Mercer is not a member of anything, is not a party, is not a departmental officer, has no grade, no department and no probation, and may not chair anything, and is in a gallery, in a corridor, or is not in the room, and has been all three, and is not going to be any of the other things.**
 
-**And nothing in the six weeks from the sixteenth of March to the twenty-ninth of April was written down by anybody, and the register did not move, and eleven standing refusals stand exactly as they stood on the thirteenth of March, none of them argued out, none of them softened, none of them revisited, and a request refused twice is one request and not two.**
+**And nothing in the six weeks from the sixteenth of March to the twenty-ninth of April was written down by anybody that anybody can be held to, and the register did not move, and eleven standing refusals stand exactly as they stood on the thirteenth of March, none of them argued out, none of them softened, none of them revisited, and a request refused twice is one request and not two.**
 
 ---
 
@@ -148,4 +148,4 @@ A woman of thirty-four is in about eleven people and in no document, and a hole 
 
 **So the counting is the thing that is missing, and the counting is not a job anybody can be given, and nobody in this city may be required even to be told, and a form has a box on it, and the box is where the name would go, and the name is the whole of what has been refused for nine months and it is the only thing anybody in this borough has ever actually needed.**
 
-**And nobody has written any of it down.**
+**And nobody has ever written down who is standing under it.**
