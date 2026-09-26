@@ -2,7 +2,7 @@
 
 Friday the nineteenth of June 2015, from about ten in the morning, a meeting room on the ground floor of the water office; and about one o'clock in the afternoon, a corridor in the same building.
 
-**On the twelfth of June a man of fifty-two went round nine doorways and got the same answer at every one of them, and on the nineteenth a sheet with those nine answers on it went into a building. It has a heading and a date on it and there is no box anywhere on it with a name in it, and it is correct, and nobody in that room can see what it has become, and the one person in that room who can see it is the one person there who is not responsible for it. Nobody thanked anybody and nothing was helped, and this is the first time in nine months that a correct thing in this borough has been produced by a machine rather than by a person.**
+**A man of fifty-two went round nine doorways in the three evenings before the twelfth of June and got the same answer at every one of them, and on the nineteenth a sheet with those nine answers on it went into a building. It has a heading and a date on it and there is no box anywhere on it with a name in it, and it is correct, and nobody in that room can see what it has become, and the one person in that room who can see it is the one person there who is not responsible for it. Nobody thanked anybody and nothing was helped, and this is the first time in nine months that a correct thing in this borough has been produced by a machine rather than by a person.**
 
 ---
 
@@ -59,7 +59,7 @@ Because here is what it now is, and it is not what anybody in that room thinks i
 
 **AND THE PART HE COULD NOT PUT DOWN, AND THE REASON IS NOT A BETTER REASON THAN ANY OTHER, IS THIS: NOBODY HAD DONE ANYTHING WRONG.**
 
-The man who went round was right and he was not thanked. The woman who did not give him her nine lines was right. The man with the pen filled in what he was given and left the names out and said out loud why. The woman who owns the contract is right that a sheet has to go round. The man with the laptop typed nine lines and did not collapse them into four.
+The man who went round was right. The woman who did not give him her nine lines was right. The man with the pen filled in what he was given and left the names out and said out loud why. The woman who owns the contract is right that a sheet has to go round. The man with the laptop typed nine lines and did not collapse them into four.
 
 **And in nine months this borough has produced a small number of correct things that are worth anything, and every one of them was made by a person, by hand, on their own time, in about a minute, and none of them had anything written on it. The last four stops of a laundry round, moved forward, at somebody else's expense. Four thousand litres into a tank that had been empty since the Thursday, in about twenty minutes, on a Friday afternoon. Every one of those cost a person something to do and none of them cost this borough anything at all.**
 
@@ -71,7 +71,7 @@ He sat at the end of that table and looked at nine identical correct lines and w
 
 ---
 
-Nobody thanked anybody. Nobody refused anything. Nobody was harmed.
+Nobody refused anything. Nobody was harmed.
 
 **Nine people said nothing to nine doors and were right, and not one of them has been helped, and not one of them is on anything, and nobody is going to be able to find out in August that there was a car park on the twelfth of June, and there is no form on which anybody could write that a man of fifty-two went round nine houses for three evenings, and the envelope is in a drawer in a kitchen in number fifty-eight and nobody has asked him for it and nobody is going to.**
 

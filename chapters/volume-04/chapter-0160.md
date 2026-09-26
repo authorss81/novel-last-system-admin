@@ -32,7 +32,7 @@ There is no form in this borough on which a person can be recorded as sleeping i
 
 ---
 
-**THE LANDLORD ASKED THE SHOPKEEPER IN MAY TO STOP LETTING ANYBODY IN. THE SHOPKEEPER DID NOT STOP LETTING ANYBODY IN AND DID NOT TELL THE LANDLORD AND DID NOT TELL ANYBODY, AND THAT IS THE ONLY INSTRUMENT IN THIS ENTIRE CHAPTER AND IT WORKS.**
+**THE LANDLORD ASKED THE SHOPKEEPER IN MAY TO STOP LETTING ANYBODY IN. THE SHOPKEEPER DID NOT STOP LETTING ANYBODY IN AND DID NOT TELL THE LANDLORD AND DID NOT TELL ANYBODY, AND IT IS THE ONLY THING IN THAT BUILDING THAT KEEPS THAT DOOR OPEN, AND IT WORKS.**
 
 **And the shop is not a drop-off point and the shutter is not a solution, and the two facts have nothing to do with each other, and the man on the blanket has been there on and off since about April and has a bag and a jug and washes at a place that is not in this borough and comes in at about eleven at night and goes out at about half past six, and he is not a customer and he has not stolen anything and there is no instrument in this city that could establish any of that, and it does not need establishing, and that is the last sentence anybody can say about it.**
 

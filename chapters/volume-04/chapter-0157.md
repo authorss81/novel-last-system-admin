@@ -58,7 +58,7 @@ The cheapest things anybody in this borough has produced in nine months, and the
 
 **The first is a sentence a woman said out loud, in a room that had a tray on a table in it, on a Friday morning in May, to a woman with a shopping bag who had asked a question at a counter. It was four sentences long and it was correct and it cost the woman who said it nothing at all, and it was not written down, and there is nowhere in this city to write it down, and the woman who said it is not on anything and is not owed anything and is not going to be.**
 
-**The second is a date on a slip of paper that was folded and put in the inside of a coat on a Saturday morning in April before last by a woman who read it out loud first. It is the only piece of paper in this city with nothing on it but a date, and it cost her a fold, and it has been in a coat for about fourteen months, and nobody in this city has asked anybody about it.**
+**The second is a date on a slip of paper that was folded and put in the inside of a coat on a Saturday morning in April last year by a woman who read it out loud first. It is the only piece of paper in this city with nothing on it but a date, and it cost her a fold, and it has been in a coat for about fourteen months, and nobody in this city has asked anybody about it.**
 
 **And both of those things came from people who were standing near a thing.**
 

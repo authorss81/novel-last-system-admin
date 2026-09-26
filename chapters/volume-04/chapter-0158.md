@@ -98,7 +98,7 @@ The man waited, and Jonas Mercer did not improve it for about as long as it take
 
 "**To two people. On nights, in the break room, in May, and I have got it wrong both times, and both of them are people I sit in a room with for eight hours. What I've said is *a floor's for a group of people* and I've said it like it's a rule, and one of them said *so which group*, and I said the group that hasn't got anybody in it that I can point at, and he said that's a very clever way of saying nothing.**"
 
-"**It is a very clever way of saying nothing.**"
+"**Yes.**"
 
 "**It is. And I have said it twice and both times it turned into a thing about me.**"
 

@@ -62,7 +62,7 @@ Councillor Iven Sore came in at about five past eleven with a folder under her a
 
 "**Go on.**"
 
-"**Not them. Whoever's on it doesn't lose anything, they've got somebody in a building now. **The people who lose are the ones who have been doing it themselves.**"
+"**Not them. Whoever's on it doesn't lose anything, they've got somebody in a building now. The people who lose are the ones who have been doing it themselves.**"
 
 "**Go on.**"
 
@@ -114,7 +114,7 @@ And the person who took the call said thank you and wrote nothing down, because 
 
 Nobody refused anything and nothing was harmed, and a woman of about twenty-nine went back to her shift at about half past four.
 
-**He was at the end of that room with nothing in his hands and he did not read the page and he was not asked about the page and he said nothing, and a page that asks for something in this borough has now been read by two people who were not asked to read it, one of them has said so out loud in a room in daylight and one of them was standing at the back of the room with nothing in his hands and did not read it and was not asked about it.**
+**He was at the end of that room with nothing in his hands and he did not read the page and he was not asked about the page and he said nothing, and a page that asks for something in this borough has now been read by one person who was not asked to read it, she has said so out loud in a room in daylight, and he is not a reader of it.**
 
 The register of narrowings is at nineteen and the blank line under the nineteenth is two hundred and ten days old. The card in the slot is a hundred and twenty-four days old and nobody has taken it out of it. The letter in the tray on the second floor of the Old Ward is a hundred and twenty-six days old and is under two other pieces of post.
 

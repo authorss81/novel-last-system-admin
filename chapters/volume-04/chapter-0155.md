@@ -104,7 +104,7 @@ He handed the envelope back to himself and put it in his pocket, which is where 
 
 Callum Nkemdirim wrote the four streets down the left in his own hand, and he wrote what nine people had said in a line beside each of the nine, and he left the name column empty and the day-time column empty, and he did it standing up in the sun in a car park because that is where the answers had been given.
 
-**And that is the moment this place stopped being a place where things happen.**
+**That was the whole of what three evenings came to.**
 
 Not because of the man with the clipboard. Because a correct answer, said on a doorstep by a person who was owed nothing and who was owed nothing the next day as well, came back into a room and became a line, and a line under a street is a fact about a street, and a fact about a street can be repeated by somebody who was not there and will be repeated by somebody who was not there.
 
@@ -112,8 +112,8 @@ Not because of the man with the clipboard. Because a correct answer, said on a d
 
 ---
 
-Nobody was thanked. Nobody refused anything. Nobody was harmed and nobody was helped and nobody in that car park had been on the receiving end of a single thing that a machine in a building was going to do for them, because there was nothing in it for a machine to do.
+Nobody refused anything. Nobody was harmed and nobody was helped and nobody in that car park had been on the receiving end of a single thing that a machine in a building was going to do for them, because there was nothing in it for a machine to do.
 
 The register of narrowings is at nineteen entries and the blank line under the nineteenth is blank and it is not going to be written on, and a heat wave is not a reason to write a form and nobody is obliged to. The rota has still not been rebuilt and cannot be. The board stands at seven of nine with two chairs empty and no chair of that body at all and has not met since the middle of January. **The lowland is not on the layer and cannot be seated, and the reason has not been fixed, and the four streets in that car park are not on the layer either, and the reason is the same one, and nobody in that car park has ever asked to be on anything.**
 
-**And a person who is not counted is not a person who is helped. Nine people said so themselves, in nine kitchens, in the correct words, and they were not thanked for saying it and they were not thanked for the three evenings.**
+**And a person who is not counted is not a person who is helped. Nine people said so themselves, in nine kitchens, in the correct words, in a heat, and none of them has been on a piece of paper since.**
