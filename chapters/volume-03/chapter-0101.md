@@ -30,7 +30,7 @@ And at the bottom of the register, under the seventeenth line, there was a blank
 
 ---
 
-He asked his one question at the counter at ten past nine, with a queue of three behind him, and it was the only question he asked in a public room that week and it was nine words.
+He asked his one question at the counter at ten past nine, with a queue of three behind him, and it was the only question he asked anybody that morning, and it was four words and it had taken him about eleven seconds to make it that short.
 
 "Who entered line seventeen."
 
@@ -38,9 +38,7 @@ The woman at the counter was about thirty-four and had been there two years and 
 
 "**Anybody can.** It's a public form. It's on a public board in a public corridor. There is a signature box on the other side for a person entering a state at the request of a party, and that one is over there, and that one is dated and initialled, and nobody has used it since July." She turned the clipboard round. "There's no box for the person who picks up a biro. There is no box and there is not going to be one, because the records supervisor designed it that way in March and has said so out loud three times."
 
-"How long has that line been on the board."
-
-"Since Wednesday morning. It was not on it on Monday and it was on it on Wednesday and I did not see anybody do it, and I am on this counter from eight until half past four and I was on it on Wednesday, and if you are asking me whether I did it then no, and if you are asking me whether I saw who did then I did not, and if you are asking me whether it is possible that it was done at eight o'clock in the morning by somebody with a lanyard then it is."
+"And you did not ask me when it went on, so I am going to say that anyway, because it is the true thing and a counter is required to answer and a counter is not required to make one. **It went on on Wednesday morning.** It was not on it on Monday and it was on it on Wednesday and I did not see anybody do it, and I am on this counter from eight until half past four and I was on it on Wednesday, and if you were asking me whether I did it then no, and if you were asking me whether I saw who did then I did not, and if you were asking me whether it is possible that it was done at eight o'clock in the morning by somebody with a lanyard then it is."
 
 Nobody in the queue said anything. The queue did what queues do.
 
@@ -72,7 +70,7 @@ Jonas Mercer looked at the tray.
 
 **One. The register has seventeen.** The seventeenth line is quoted at the top of this chapter and it is the whole of what is on it, and nobody in this city can say who put it there, and the record says a state and not a person, and is therefore correct.
 
-**Two. The counter at the records office, second floor, on the ground floor's opposite.** Any person may ask for a copy of a document received by a party holding continuity. There is no charge and there is no form and there has never been a question asked of a person standing at that counter. On Wednesday the twenty-second of October, at about eleven, a woman of about thirty-four produced, from a folder of about nine, a sheet headed **NOTICE OF RE-ASSERTION**, stamped **RECEIVED 21 OCT 2014**, and set it down flat, and said: *that one came in on Monday and it is not one of ours, it went straight to the drawer, and I am not supposed to hand those out and I have handed you that one out because you have been in here four times this year.*
+**Two. The counter at the records office, second floor, which is four floors above this vestibule and is not on the ground floor's opposite.** Any person may ask for a copy of a document received by a party holding continuity. There is no charge and there is no form and there has never been a question asked of a person standing at that counter. On Wednesday the twenty-second of October, at about eleven, a woman of about thirty-four produced, from a folder of about nine, a sheet headed **NOTICE OF RE-ASSERTION**, stamped **RECEIVED 21 OCT 2014**, and set it down flat, and said: *that one came in on Monday and it is not one of ours, it went straight to the drawer, and I am not supposed to hand those out and I have handed you that one out because you have been in here four times this year.*
 
 It was one sheet. It was dated the fourteenth of October, which was five weeks after the notice it was answering, and it was signed for a trust in Kestrel Hill, and it gave a claim reference, a tier, a node reference, a service district, and an effective date, and it re-asserted one half of a claim at Meter Room 3, Salter's Yard, at Tier 3, with effect from the first of October 2014.
 
@@ -166,7 +164,7 @@ The bench is four feet eight and it is beech and it has been planed twice this y
 
 Both of them had gone by.
 
-**The first had gone three weeks and nobody in this city who is allowed to know has said what it was, and the second had gone four days ago at ten o'clock at night on a Saturday on a stair at a hospital, and he was not in that corridor, and nobody has told him anything about it, and he is not going to ask, and Tomas Renn is not going to tell him, and that rule between the two of them has now been in force for three months and has never once been tested and has never once been broken and is the only instrument either of them produced this year that is worth anything.**
+**The first had gone three weeks and nobody in this city who is allowed to know has said what it was, and the second had gone eleven days ago at ten o'clock at night on a Saturday on a stair at a hospital, and he was not in that corridor, and nobody has told him anything about it, and he is not going to ask, and Tomas Renn is not going to tell him, and that rule between the two of them has now been in force for three months and has never once been tested and has never once been broken and is the only instrument either of them produced this year that is worth anything.**
 
 He put his hand flat on the bench, about two inches from the ink, and did not touch it, which is what he does, and which is the only thing about him that Bea Osunde has never once asked him to stop doing.
 

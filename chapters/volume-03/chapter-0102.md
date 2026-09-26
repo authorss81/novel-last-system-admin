@@ -12,7 +12,7 @@ She unscrewed the lid, counted what was in it without taking it out — thumb al
 
 **Nine hundred and eighty-six.**
 
-She knows what the tin should hold if it has had £13.60 a week put into it every week since the Wednesday in March 1995 when the price went from eleven pounds to eleven pounds, and then in June 2014 to thirteen pounds sixty. It is not the number on the card. The number on the card is what she has actually written on the card, on and off, since March 1995, and it is a number of Wednesdays, and it has been on the card since about 1996, and she has never once put a pound sign on it or written a note about what it is.
+She knows what the tin should hold if it has had £11 a week put into it every week since the Wednesday in March 1995, and then £13.60 from June 2014, and she knows both numbers and she has never asked anybody why one of them moved. It is not the number on the card. The number on the card is what she has actually written on the card, on and off, since March 1995, and it is a number of Wednesdays, and it has been on the card since about 1996, and she has never once put a pound sign on it or written a note about what it is.
 
 **The two numbers do not agree and they have not agreed for years and the difference is about four hundred and thirty pounds.**
 

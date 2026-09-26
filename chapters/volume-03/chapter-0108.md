@@ -2,9 +2,9 @@
 
 **Friday the twenty-first of November 2014, twenty-five minutes past five in the evening, the Methodist hall, Carrow Lane, Tideglass.**
 
-There were ten people. Eight chairs in the horseshoe with a ninth in the middle, and a stack of nine folding chairs against the wall that had been there since September and had never once been brought out, and the seventh chair in the horseshoe had been empty for forty-four days.
+There were ten people. Nine chairs in the horseshoe, and a stack of nine folding chairs against the wall that had been there since September and had never once been brought out, and the seventh chair in the horseshoe had been empty for forty-four days.
 
-**It had been empty since Thursday the eighth of October, when KATHLEEN FERRIS, 33, night bus controller, nine years, wrote four lines on a piece of paper and gave them to a woman who keeps the minutes, and nobody argued with her, and the four lines are in a file, and nobody has read them out.**
+**It had been empty since Wednesday the eighth of October, when KATHLEEN FERRIS, 33, night bus controller, nine years, wrote four lines on a piece of paper and gave them to a woman who keeps the minutes, and nobody argued with her, and the four lines are in a file, and nobody has read them out.**
 
 She had written them in about eleven minutes on the back of a bus timetable.
 
@@ -36,11 +36,11 @@ The question came at nine minutes past six and it came from Ibrahim Sesay, 51, c
 
 He waited. The room waited. **And then somebody said the thing that he had been carrying for eight months, out loud, in a Methodist hall, to about ten people, in eleven words, in his own words, and he had not planned it and had not decided to and it came out of him the way a thing comes out of a man at the fourth line of a page when the hand has gone.**
 
-"They are mine. **6-L/14, non-civic plant. Written on the fourteenth of March at 12:41 in a records room on the second floor and initialled, and lodged into the series six file on the twenty-second under a reporting officer number that is not mine, by Royden Achebe, who did not read it before he lodged it and has never said so.**"
+"They are mine. **6-L/14, non-civic plant. Written on the fourteenth of March at 12:41 in a records room on the second floor and initialled, and lodged into the series six file on the twenty-second under a reporting officer number that is not mine, by Royden Achebe, forty-nine, field services, who did not read it before he lodged it and has never said so.**"
 
 He said it in about nineteen seconds and he said it to the floor and not to anybody.
 
-**And the room did three different things with it inside about forty seconds, and all three of them were correct, and that is the part he has not been able to put down since.**
+**And the room did four different things with it inside about forty seconds, and all four of them were correct, and that is the part he has not been able to put down since.**
 
 **The first was a man of about fifty who said: "Then you have put all of us in it."**
 
@@ -74,11 +74,23 @@ Nobody said anything.
 
 "And if somebody in this room had put him in that chair in September then I would not be on this board, and neither would Dermot be, and neither would Winifred, and it would not be a board of nine people who are each answerable for a thing." She looked at the wall card. "**That is a liability. It is not a fault. It is the only reason there is a board at all.**"
 
+**And the fourth was the same woman, about eleven seconds later, and it was the only one of the four that was about a person who was not in the room, and she said it to him and not to the wall.**
+
+"**Mr Mercer. You have said out loud, in a room, the name of a man who is not in this room, and what he did and did not read, and he cannot answer it, and he is not forty-four.**"
+
+"He is not."
+
+"He is forty-nine, and he holds a duty at 6-L/16, and he telephoned a shop in August about a Tuesday, and he was answered, and that is the whole of what I know about him and I know it because it is on a sheet." She did not raise her voice. "**In August you put your own name to six words and you did not put his. Tonight you have put his name to a sentence about his own conduct, and nobody in this room can tell him, and you did not do it because you were angry with him. You did it because you were being complete.**"
+
+"Yes," said Jonas Mercer.
+
+"**Then be complete about what it is. It is not a bigger version of what you did in August, it is a different thing, and the difference is that a man of forty-four cannot be asked one question about any of it by anybody, ever, and a man of forty-nine can be asked one tomorrow morning and will have to answer it, and neither of them has been asked, and one of them cannot be.**"
+
 ---
 
 **And then they asked him for the chair.**
 
-It was not a demand and it could not have been, and it was made by a person who had been in the room for an hour and a half and who had said one sentence all evening, and she stood up to do it, and the whole room turned round.
+It was not a demand and it could not have been, and it was made by a person who had been in the room for an hour and a half and who had stopped speaking some time ago, and she stood up to do it, and the whole room turned round.
 
 "Mister Mercer."
 
@@ -104,9 +116,7 @@ Yolanda Fofana wrote them down. She wrote them on the four lines, on the back of
 
 "Thank you," she said.
 
-"Do not thank me."
-
-"**I was not going to. I told you in September that thanking me makes it a thing somebody did for me and I have not changed and I am not going to start on a Friday.**"
+"You are welcome," said Yolanda Fofana, and put a line under the eleven words, and read the whole of the four lines and the eleven words back to herself without saying any of it out loud, and then folded the paper once and put it in her bag.
 
 And then the ninth seat of a cooperative steward board in a Methodist hall said the thing that was the actual reason, out loud, in a room, about eleven seconds, and she said it to the room and not to him.
 
@@ -132,7 +142,7 @@ Nobody rang him about it. He had told them on the telephone on Thursday that nob
 
 He read it four times standing up.
 
-**It is a public document and it went out on the Monday and it will be in the borough's records by the end of the week, and the six words and his name are now in the same sentence in a public record for the first time in eight months and one day, and he cannot take them out.**
+**It is a public document and it went out on the Monday and it will be in the borough's records by the end of the week, and the six words and the fact that he initialled them are now in the same document in a public record for the first time in eight months and one day, and the minute does not contain his name, because there is no box for one, and he cannot take any of it out.**
 
 **Nobody in that room offered to take them out for him. Not one of the ten people, not the minute-taker, not the ninth seat, not the man who had said *then you have put all of us in it*, and not the woman who had said it was a liability and had been right.**
 
@@ -156,7 +166,7 @@ She listened to all of it and then she said one thing.
 
 "I have started."
 
-"**In eight months.**" She had a length of ash on her shoulder and she put it down on the bench. "And the first one you said out loud was yours, and it went into a public document on a Monday, and there is a woman of sixty-one in Salter's Yard who is the only one of that nine anybody can write to, and a woman of thirty-four at the bottom of a street with a folding trolley who has told you twice there is going to be a date on it and no person on it, and a woman of seventy-two in room 14 who shut a door on you a fortnight ago, and a man of forty-four in a building in Gantry Ward that you are not going to go near, and a night porter whose name was on a chalk board for six weeks in a room he sat in every day."
+"**In eight months.**" She had a length of ash on her shoulder and she put it down on the bench. "And the first one you said out loud was yours, and it went into a public document on a Monday, and there is a woman of fifty-four in Salter's Yard who is the only one of that nine anybody can write to, and a woman of thirty-four at the bottom of a street with a folding trolley who has told you twice there is going to be a date on it and no person on it, and a woman of seventy-two in room 14 who shut a door on you a fortnight ago, and a man of forty-four in a building in Gantry Ward that you are not going to go near, and a night porter whose name was on a chalk board for six weeks in a room he sat in every day."
 
 "Yes."
 

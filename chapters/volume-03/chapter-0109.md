@@ -40,7 +40,7 @@ Yolanda Fofana had said it on the twenty-ninth of September in a records office,
 
 **And there is a sentence in this account about a body of nine with one power that is not anybody's and is not in this room.**
 
-There is a fourth page of a regulation from 2008. It has been read three times in this city by three people and told to nobody, and one of those three read it once and gave a reason in a public room, and one of those three read it twice and would not read it out in a corridor, and one of those three copied it out by hand in a single afternoon in May because she did not trust herself not to improve it. It is not in this hall. It is not in anybody's bag that anybody in this hall can see. And this chapter is not going to put it in this hall, and **there is nobody in this hall tonight who knows what is on it, and the ninth seat of this body is in this hall, and she is the only one of the nine who cannot be emptied by anybody else, and nobody in this room knows that either, and she has said out loud twice that she is not going to be told, and she is right, and this chapter is not going to tell her.**
+There is a fourth page of a regulation from 2008. It has been read three times in this city by three people and told to nobody, and one of those three read it once and gave a reason in a public room, and one of those three read it twice and would not read it out in a corridor, and one of those three copied it out by hand in a single afternoon in May because she did not trust herself not to improve it. It is not in this hall. It is not in anybody's bag that anybody in this hall can see. And this chapter is not going to put it in this hall. **There is nobody in this hall tonight who knows what is on it, and there is a woman in this hall whose position in this body is not a thing anybody in this room can be told about, and she has said out loud twice that she is not going to be told anything, and she is right, and this chapter is not going to tell her and is not going to work it out in front of you.**
 
 ---
 
@@ -76,7 +76,7 @@ Nobody asked her why.
 
 "**There is a card on that wall that says a body which cannot be required to do anything cannot be told to stop. And Stanley has just gone. And that is not a contradiction, and I want it in the minute that it is not a contradiction, because in about four years somebody is going to write one of those two things at the top and the other one at the bottom and it is going to read as a hypocrisy, and it is not a hypocrisy, it is the design.**" She took her glasses off. "He went because he wanted to. That is the only way anything has ever left anything in this borough."
 
-The woman who keeps the minutes said, "It will say exactly that."
+The woman who keeps the minutes said, "It will say that, and it will say that you said it, and one of the two lines is going to be a date."
 
 "Thank you."
 

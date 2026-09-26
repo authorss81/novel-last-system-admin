@@ -20,7 +20,7 @@ It found four nodes on a schedule at a tier where the fee had been paid by a bod
 
 And it found a gate.
 
-It found a mortuary gate, node 6-44, car park barrier 3, staff stair 2, service riser 1 — four nodes, of which one was a gate — and the finding runs to nine pages, and it is the longest finding in the document, and what it says, in the audit's own words, on page two hundred and nine, is this:
+It found a mortuary gate — node 6-44 — and a car park barrier, node 3, and a staff stair, node 2, and a service riser, node 1: four nodes, of which one was a gate. And the finding runs to nine pages, and it is the longest finding in the document, and what it says, in the audit's own words, on page two hundred and nine, is this:
 
 > **The maintenance of this gate has been performed continuously since approximately 2005 by one individual who is not employed by this company, is not a party to any agreement, and whose name does not appear in any field of any document associated with this node. The record of the last verified essential use of this node was made on 23 April 2014, in nine seconds, by a different individual, and is a record of the maintenance rather than of a use. On the audit's reading the gate is therefore maintained by an act and the act is performed by a person, and the person is not findable from the record and the record does not require it to be. This audit does not name either individual and this audit's position is that the record is correct and should not be amended. It further records that if the second individual were to cease performance, the node would narrow to its maintenance, and its maintenance is the first individual, and the first individual is not a party and could not be required to continue.**
 >
@@ -74,27 +74,13 @@ He came out of the records office with four pages in the pad and a number in his
 
 And then, at about five past four, a letter came through the internal post in the same building, from the borough's housing office to CivicCore Limited, and it had a reference on it, and it was not marked private, and the woman at the counter read the envelope over her glasses and then read the first line over her glasses and then put it down flat and did not say anything, and Jonas Mercer was still standing there with four pages in his pad.
 
-"**Is that a question about the audit,**" he said.
+He had already spent his one question that day, on a covering letter, and he was not going to spend it twice, and the woman at the counter looked at him for about four seconds and then said:
 
-"Yes."
+"**That is not a question, Mr Mercer, and I am going to answer it anyway, because a counter is required to answer and a counter is not required to make one, and because I have worked this counter for eleven years and I am tired.** It is a question about your audit, and it is about the Carrow Lane association, and it is asking whether the hundred and twenty-eight rooms of that association are within the scope of it. And it is addressed to CivicCore and it has got a borough reference on it and a due date, and it will go out tomorrow, and **it is a completely ordinary letter and there is nothing in it that is anybody's fault and it is going to be answered in a fortnight and the answer is going to be read out.**
 
-"About the Carrow Lane association."
+"**In the stock review. Every written question in that borough goes in a book and every answer gets read.**" She turned the envelope over. "The stock review is on the Thursday. It is half past two. And it is the chief officer of that association who answers for her four blocks, and she is on the attendance, and she is in the room when the answers are read, and she will be sitting about nine feet from the person who reads it. The answer will be two lines. *The association is not a party to CivicCore's service agreements and its premises are not within the scope of the audit.* Something like that.
 
-The woman at the counter looked at the envelope for about four seconds and then she said the true thing, because a counter is required to answer and a counter is not required to make one.
-
-"It is asking whether the hundred and twenty-eight rooms of the Carrow Lane Housing Association are within the scope of that audit. And it is addressed to CivicCore and it has got a borough reference on it and a due date, and it will go out tomorrow, and **it is a completely ordinary letter and there is nothing in it that is anybody's fault and it is going to be answered in a fortnight and the answer is going to be read out.**"
-
-"Read out where."
-
-"**In the stock review. Every written question in that borough goes in a book and every answer gets read.**" She turned the envelope over. "The stock review is on the Thursday. It is half past two. And it is the chief officer of that association who answers for her four blocks, and she is on the attendance, and she is in the room when the answers are read, and she will be sitting about nine feet from the person who reads it."
-
-"How long is the answer going to be."
-
-"Two lines, probably. *The association is not a party to CivicCore's service agreements and its premises are not within the scope of the audit.* Something like that."
-
-"And that is the true answer."
-
-"**That is the true answer and it is worse than a wrong one, and I have worked this counter for eleven years and I can tell you why it is worse, and you did not ask me, and I am going to say it anyway because I am tired.**" She put her pen down. "Because in about four years a file in a commercial company is going to say that a hundred and twenty-eight rooms in four blocks in this borough have never been looked at by anybody, in any document, in nine years. And the only instrument this city has for turning that sentence into anything at all is a list. **And the woman it is about has spent a year refusing to produce a list, in public, in front of nineteen people, and won.**"
+"**And that is the true answer and it is worse than a wrong one, and I can tell you why it is worse, and you did not ask me, and I am saying it anyway.**" She put her pen down. "Because in about four years a file in a commercial company is going to say that a hundred and twenty-eight rooms in four blocks in this borough have never been looked at by anybody, in any document, in nine years. And the only instrument this city has for turning that sentence into anything at all is a list. **And the woman it is about has spent a year refusing to produce a list, in public, in front of nineteen people, and won.**"
 
 Jonas Mercer stood in a records office with four photocopied pages in a pad.
 

@@ -1,8 +1,8 @@
 # Chapter 0103 — Six Water Points And No Seat
 
-**Thursday the twenty-fourth of October 2014, eleven minutes past ten in the morning, the counter, the records office, second floor.**
+**Friday the twenty-fourth of October 2014, eleven minutes past ten in the morning, the counter, the records office, second floor.**
 
-He had one question and he asked it at the counter because a counter is required to answer and a counter is not required to make one, and it was nine words.
+He had one question and he asked it at the counter because a counter is required to answer and a counter is not required to make one, and it was seven words, and then he stopped asking, and the rest of it happened because counters are like that.
 
 "Who is the party for the lowland."
 
@@ -10,9 +10,9 @@ The woman at the counter was about fifty and had been there a long time and did 
 
 "**There isn't one.** There has not been one since the sixth of April. The September record says so in a line anybody can read standing up, and the quarterly says the same thing in a different line, and if you want both of them it is two pieces of paper and about four minutes."
 
-"Would the minute of the nineteenth of May say the same thing."
+He wrote the date of the meeting on the back of the fourth envelope and slid it under the glass, and he did not ask anything else, and the woman at the counter read it upside down, which is a thing counters are for, and then she said:
 
-"No, because the nineteenth of May was a determinations meeting on fourteen returns and the lowland was not at it. **The lowland's absence from those fourteen is compliance and not failure, because a node with no party is not a party and was never required to answer.** That is in the minute of the nineteenth of June, word for word, and it was read out and nobody wrote it down, and it is written down anyway."
+"**The nineteenth of May. No, it would not say the same thing, because the nineteenth of May was a determinations meeting on fourteen returns and the lowland was not at it.** And then, without being asked: **the lowland's absence from those fourteen is compliance and not failure, because a node with no party is not a party and was never required to answer.** That is in the minute of the nineteenth of June, word for word, and it was read out and nobody wrote it down, and it is written down anyway."
 
 He asked for the minute of the nineteenth of May. It came out of a box in about nine seconds, because he is a name on four documents in three buildings in two cities of a borough and every one of them is correct.
 
@@ -26,7 +26,7 @@ And then, in the margin, in the hand of the clerk of twenty-two years:
 
 ---
 
-**The rest of Thursday was arithmetic and it was his, done on a bench in a shop with a pencil and the backs of four wage envelopes, and Bea Osunde left him alone, and at about half past three he had it and it was this.**
+**The rest of the day was arithmetic and it was his, done on a bench in a shop with a pencil and the backs of four wage envelopes, and Bea Osunde left him alone, and at about half past three he had it and it was this.**
 
 A body of nine seats has one power: that a party holding continuity may be required to answer, the answer may be received, and the body may be asked to consider a matter. It has no money. It has no chair. It has no way to lose itself and no way to lose a member. It is not a committee and not a party, and none of its members may require a person to do anything, and none of them has ever been paid, and none of them can be.
 
@@ -48,7 +48,7 @@ At about four o'clock Ibrahim Sesay telephoned the shop, which he had done once 
 
 "Say the thing you want."
 
-"**We have had a chair empty since the eighth of October and we have spent three weeks trying to fill it, and we have not asked anybody, because we are not allowed to ask anybody, and the three weeks have not gone well.**" He let that sit. "And on Friday we are taking the lowland. Not the people on it. The thing. The six water points and the number, off the nineteenth of May, because the number is the only figure in this borough anybody can read and the six are the only figures in it that are not written down anywhere. And I have watched that room get hold of a phrase in about three weeks, and I do not think the phrase is a good phrase, and I would like the man who has read that minute in the room when it is said, so that somebody in the room has read it."
+"**We have had a chair empty since the eighth of October and we have spent three weeks trying to fill it, and we have not asked anybody, because we are not allowed to ask anybody, and the three weeks have not gone well.**" He let that sit. "And on Tuesday we are taking the lowland. Not the people on it. The thing. The six water points and the number, off the nineteenth of May, because the number is the only figure in this borough anybody can read and the six are the only figures in it that are not written down anywhere. And I have watched that room get hold of a phrase in about three weeks, and I do not think the phrase is a good phrase, and I would like the man who has read that minute in the room when it is said, so that somebody in the room has read it."
 
 "You want me to bring a number."
 
@@ -60,7 +60,7 @@ At about four o'clock Ibrahim Sesay telephoned the shop, which he had done once 
 
 ---
 
-**Friday the twenty-eighth of October 2014, twenty-five minutes past five in the evening, the Methodist hall, Carrow Lane, Tideglass.**
+**Tuesday the twenty-eighth of October 2014, twenty-five minutes past five in the evening, the Methodist hall, Carrow Lane, Tideglass.**
 
 About eleven people. Nine chairs in a horseshoe, **and the seventh one had been empty for twenty days**, and two others were on the windowsill because there was nothing else. The hall has a piano in it that has not been tuned since about 2011, and a trestle table at the back with the registrar's one-page statement on it in a plastic wallet, and about nine folding chairs stacked against the wall that nobody brought out.
 
@@ -82,7 +82,7 @@ The room did what rooms do with a figure that is nearly twelve thousand pounds.
 
 "It is going to be somebody's money," said a voice from the windowsill. "It is always somebody's money. Somebody has to put it in a pot and somebody has to be the pot."
 
-"Yes," said Gloria Nye. "And there is no instrument in this city by which the pot can be made, and that is not a sad thing to say at half past five on a Friday, it is a thing four of us have been reading about since March."
+"Yes," said Gloria Nye. "And there is no instrument in this city by which the pot can be made, and that is not a sad thing to say at half past five on a Tuesday evening, it is a thing four of us have been reading about since March."
 
 ---
 
@@ -138,7 +138,7 @@ The woman who keeps the minutes said, "It will say exactly that."
 >
 > Recorded further: that the layer draws nine service districts and eight are named, and that the ninth is not drawn, and that this board has no seat for it and no power to create one, and that the board has not been asked whether the absence of a seat is a consequence of the drawing or of the cost.
 >
-> Recorded further: that six shapes were identified in discussion and are not named in this minute, and that the person who identified the sixth did so of her own motion, and was not asked, and has not been thanked, and does not wish to be.
+> Recorded further: that six shapes were identified in discussion and are not named in this minute, and that the person who identified the sixth did so of her own motion, and was not asked, and that no person in this room asked her anything about it.
 >
 > Nothing in this item requires any person to do anything.**
 
@@ -166,7 +166,7 @@ Nobody rang him about it. He had expected three people to ring him and none of t
 
 At about half past eight he was at the top of a hill where you can see four of the seven river bridges and he stopped, and did the thing he does, which is to take the pad out and put his elbow on somebody's brick wall.
 
-> *Friday 28 October, Methodist hall, Carrow Lane. Item 2, fourth paragraph. It is a public document. It went out on Wednesday. That is me and those six words in the same record and I did not get asked and I did not decide, and I have said the thing I have refused to say for eight months in a room with ten people in it, and the reason is that a man of sixty-one who is not a member of anything asked me in front of everybody, and I have spent seven months refusing to be asked, and I have never once been able to name the two halves of what I do to a room.*
+> *Tuesday 28 October, Methodist hall, Carrow Lane. Item 2, fourth paragraph. It is a public document. It went out on Wednesday. That is me and those six words in the same record and I did not get asked and I did not decide, and I have said the thing I have refused to say for eight months in a room with ten people in it, and the reason is that a man of sixty-one who is not a member of anything asked me in front of everybody, and I have spent seven months refusing to be asked, and I have never once been able to name the two halves of what I do to a room.*
 > *What it has cost, and I am putting it down because I have to: the bank has four tonnes of stone owed to nobody and a man of forty-four in that building has signed a line about it and cannot be asked one question, and my name is now in the record of the sentence that made him signable, and I have made a man who has never been asked anything into a man somebody can now connect to a classification. That is the first thing I have done in seven months that has made anybody findable, and it was not me doing it, and it is still me.*
 > *Four of the nine heard it as a liability, one of them heard it as a correction, and one of them asked me whether I would stand in a chair. I have not answered that and I am not going to on a bench. It goes in the minute on Friday week or it does not go in at all.*
 > *The sixth water point is named in a room and is not in a document and I was in the room and I did not say it. That is the second time in a year that the right thing has been done by somebody else while I stood in a corridor, and it is the second time that has cost me.*

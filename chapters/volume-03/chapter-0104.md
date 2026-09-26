@@ -1,6 +1,6 @@
 # Chapter 0104 — The Reading Rule
 
-**Monday the thirty-first of October 2014, twenty past nine in the morning, the counter, the records office, second floor.**
+**Friday the thirty-first of October 2014, twenty past nine in the morning, the counter, the records office, second floor.**
 
 The file with the two entries in it is nine pages long and four of them are the determination and the other five are the correspondence about it, and the two entries are on page one under a heading that says *determinations — second determination, Thursday 21 August 2014* and they have been on page one since the twenty-first of August, unamended, unmergeable, and correct.
 
@@ -14,7 +14,7 @@ And beneath them, in the same typing, in the same face, the thing the Committee 
 
 > **READING RULE. Where a party relies on either of the two entries above, the other is to be read with it. This is not an amendment of either entry and cures nothing and changes no word. It is the only procedural act available to this Committee in the present case and it is made under the general power to give directions as to the manner in which returns are to be read.**
 
-Thirty-one days old. Nine words of substance, one page, a transcript, and a press list that was unchecked at the door.
+Seventy-one days old. Nine words of substance, one page, a transcript, and a press list that was unchecked at the door.
 
 **Read together, on the thirty-first of October, in a records office, by a man who is not a party, they say this: a party that relies on the second entry is also relying on the first, and the first entry names a trust that was served with a ninety-day notice on the third of July and has answered a machine once and a person once, and nobody has been required to tell it anything, and there is no instrument in this city that can require anybody to be aware of having been served.**
 
@@ -72,7 +72,7 @@ She was quiet for about four seconds.
 
 "That is the design."
 
-"That is the design and I have been designing things since 1999." She picked the file up. "Now go away, Mr Mercer, because I have to open a room in four minutes and if I am late twice in one week somebody will write *punctuality* on a card."
+"That is the design and I have been designing things since about 1992." She picked the file up. "Now go away, Mr Mercer, because I have to open a room in four minutes and if I am late twice in one week somebody will write *punctuality* on a card."
 
 ---
 
@@ -104,7 +104,7 @@ She gave him the sheet at about a quarter past eleven, on a bench, in a wind, an
 
 "Frances—"
 
-"I have made one, and I am going to walk it there myself, and I am going to walk back, and it is forty-one minutes each way at my age and it is a Tuesday, and you are going to walk with me because I am sixty-one and it is windy and I am not going to argue about that either."
+"I have made one, and I am going to walk it there myself, and I am going to walk back, and it is forty-one minutes each way at my age and it is a Wednesday, and you are going to walk with me because I am sixty-one and it is windy and I am not going to argue about that either."
 
 ---
 

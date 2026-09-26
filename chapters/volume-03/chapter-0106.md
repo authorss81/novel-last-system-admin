@@ -34,7 +34,7 @@ The block was constructed in 1938. The riser was removed in 1998. **Past tense, 
 
 Jonas Mercer read it three times, standing up, in the cold, about ninety feet from a door he had never knocked on.
 
-**The letter worked.** That was the first thing. It worked completely, in eleven weeks, against a firm with four hundred and ten flats and a standing instruction and a man who reads his own records. It had stopped four meters going into a cupboard in a block with no water in it, and it had done it with a year and a stopcock and a plastic handle and one name at the bottom and no household in it at all, and nobody had been asked to confirm anything, and it is the cheapest thing anybody in this borough has produced this year.
+**The letter worked.** That was the first thing. It worked completely, in seven weeks, against a firm with four hundred and ten flats and a standing instruction and a man who reads his own records. It had stopped four meters going into a cupboard in a block with no water in it, and it had done it with a year and a stopcock and a plastic handle and one name at the bottom and no household in it at all, and nobody had been asked to confirm anything, and it is the cheapest thing anybody in this borough has produced this year.
 
 **And the price of it is on a sheet of A4 in a plastic wallet, and the price is that there is now a document about that block, and the document is a freeholder's, and the freeholder has noticed that there is a document about that block, because the document is unusual, and he is going to be careful with it in the way that people are careful with things that are unusual.**
 
@@ -48,7 +48,7 @@ He went up on the Thursday.
 
 Room 14 is on the fourth floor and there is no lift and there has not been a lift since before she moved in. The stairs have a handrail on two sides. On the second landing somebody has left a bicycle against the wall in the way that has been the way since about 2011.
 
-**She opened the door before he knocked, which he took at the time to be a coincidence and did not take at the time to be a woman of seventy-two who has heard every stranger in this building go up those stairs for nineteen years and can tell the weight of them.**
+**She opened the door before he knocked, which he took at the time to be a coincidence and did not take at the time to be a woman of seventy-two who has heard every stranger in this building go up those stairs for sixteen years and can tell the weight of them.**
 
 "Yes?"
 
@@ -68,7 +68,7 @@ There were two empty plastic containers by the door with the tops off. There was
 
 "No."
 
-"I know. They are not going in. That is why I have come. I wrote the letter that stopped them and you have not been told that a letter exists, and I decided in about four minutes on Monday that I would tell you, and I have thought about it for two days and I have come on a Thursday afternoon with about nine minutes' notice, which is the worst way there is of doing it, and I am aware of that."
+"I know. They are not going in. That is why I have come. I wrote the letter that stopped them and you have not been told that a letter exists, and I decided in about four minutes on Monday that I would tell you, and I have thought about it for three days and I have come on a Thursday afternoon with about nine minutes' notice, which is the worst way there is of doing it, and I am aware of that."
 
 "Then sit down, because you are not going to be worse than that and I am seventy-two and I have got a chair."
 
@@ -88,19 +88,19 @@ She would not have a copy. That took eleven seconds and it was not remotely diff
 
 "It is about a condition survey of the riser space and the roof void and the feasibility of restored supply."
 
-"**Feasibility.**" She said the word the way you say the name of a thing you have been sold. "I have been in this borough fifty-one years. There was a feasibility in this street in about 1994 and they did the feasibility and the feasibility was a report and the report went in a drawer and there has been a lift out of the top of this building for about nineteen years and nobody ever asked for a lift again."
+"**Feasibility.**" She said the word the way you say the name of a thing you have been sold. "I have been in this borough fifty-one years. There was a feasibility in this street in about 1994 and they did the feasibility and the feasibility was a report and the report went in a drawer and there has been a lift out of the top of this building for about sixteen years and nobody ever asked for a lift again."
 
 "They are not going to do anything with it. I want to be straight with you. Feasibility has never once in this city produced a restored anything and I have no reason to think this one is different, and I did not write a notice and I cannot unwrite a notice."
 
 "Then what did you write," said Ivy Marsden.
 
-And Jonas Mercer had come up four flights with an answer to that and it went out of him on the landing, in a hallway, in the way that a thing goes out of you when you have rehearsed it on a hill.
+And Jonas Mercer had come up four flights with an answer to that and it went out of him across a table, in a room eleven feet by nine, in the way that a thing goes out of you when you have rehearsed it on a hill.
 
 "**A letter with a year on it. Saying the buckets are the block's and not yours, so that in about four years when the freeholder asks whose the water is, the answer is a building and not a person.**"
 
 She looked at him for about four seconds.
 
-"**Yes,**" she said. "**That is what it is for. And I have had two and a half days to work that out on my own and I got to it on about the second, and it took me two days and you took eleven months, and I am not being unkind, I am being accurate, and I would like to know what you want me to say about that.**"
+"**Yes,**" she said. "**That is what it is for. And I had about four minutes to work that out on my own and I got to it before you had finished the sentence, and it took me four minutes, and you took from a hall in May to a bench in September, and I am not being unkind, I am being accurate, and I would like to know what you want me to say about that.**"
 
 "I do not want you to say anything about that."
 
@@ -148,8 +148,8 @@ He did not write it down that night. He wrote it down on the Friday, at the benc
 
 > *Friday 14 November. Ivy Marsden, 72, room 14, four flights and no lift, on Thursday afternoon, in daylight, about nine minutes' notice, without telephoning first because a telephone call makes it an appointment.*
 > *She would not have a copy and the reason was not me. She will not have a thing in that flat that came from anybody. In about four years somebody is going to ask whether room 14 has had correspondence and the answer will be no and it will be true.*
-> *She worked out what the letter was for in two days. I took eleven months. She is not being unkind about that and she is being accurate and I do not want it argued with.*
+> *She worked out what the letter was for in about four minutes. I took from a hall in May to a bench in September. She is not being unkind about that and she is being accurate and I do not want it argued with.*
 > *The letter worked. Four meters are not going in and they have gone to a block of 1974. A condition survey is coming in the spring and it is on a sheet of A4 in a plastic wallet and it says feasibility and feasibility has never in this city produced a restored anything. She said that and she is right and she is the reason I came up and not a notice.*
-> *And the third half, which I did not have: a letter that makes the block a thing that can be asked has made the block a thing that has a landlord, and a thing that has a landlord has a list, and that is how it has worked since 1994. She said it on a landing with her back to me and then she said my name is now in a thing in her head that has to do with her, and that when she dies somebody is going to ring a council, and there is not going to be one line anywhere in it that says she asked.*
+> *And the third half, which I did not have: a letter that makes the block a thing that can be asked has made the block a thing that has a landlord, and a thing that has a landlord has a list, and that is how it has worked since 1994. She said it at the corner container with her back to me, in a room eleven feet by nine, and then she said my name is now in a thing in her head that has to do with her, and that when she dies somebody is going to ring a council, and there is not going to be one line anywhere in it that says she asked.*
 > *Nobody in this borough can make a person findable. I have been telling that to people since April as though it were a wall. It is not a wall. It is a thing that lasts about as long as one person, and she is the one who has just spent it, and she did not have to, and I did not ask her to, and she is seventy-two and I put my own name on her door.*
-> *Nobody was saved. There is a woman with a bucket on a Tuesday and there is going to be a survey in the spring and she is no more findable than she was on Monday and she is a great deal more frightened, and she told me so in a kitchen, and she shut the door.*
+> *Nobody was saved. There is a woman with a bucket on a Tuesday and there is going to be a survey in the spring and she is no more findable than she was on Monday and she is a great deal more frightened, and she told me so in a room the size of a kitchen, and she shut the door.*

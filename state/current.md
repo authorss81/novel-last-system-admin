@@ -2,21 +2,23 @@
 
 Current controller phase: phase-003-prose
 
-Writing-run status: **Volume 01 complete (Chapters 1–48). VOLUME 02 CLOSED (Chapters 49–100). Chapters 91–100 written (Batch 0005), which is Section E as the volume outline fixes it and then the volume's close.**
+Writing-run status: **Volume 01 complete (Chapters 1–48). VOLUME 02 CLOSED (Chapters 49–100). VOLUME 03 OPEN. Chapters 101–110 written (Volume 03, Batch 0001) — the batch is COMPLETE, ten of ten chapters exist, and the batch's midpoint, climax and the volume's second close are all on the page.**
 
-Current volume: 2 — *The Price of Access* — **CLOSED.** `outline/series.md` ends the volume at Chapter 96; Chapters 97–100 are the volume's close and were added by the Batch 0005 prompt, which discloses the divergence on its own face. The divergence is recorded as canon in `state/continuity.md`.
+Current volume: 3 — *The City's Missing Floor* — **OPEN, Chapters 101–144.** There is no `outline/volume-03.md`; the volume's spine is `outline/series.md` plus the two handover files below. `outline/series.md` reserves Chapters 97–144 for Volume 03, of which 97–100 are the Volume 02 close.
 
-Current batch: Volume 03, Batch 0001 (Chapters 101–110)
+Current batch: Volume 03, Batch 0001 (Chapters 101–110) — **DONE**
 
-Last completed chapter: 110
+Last completed chapter: **110**
 
 Last batch summary: `state/batch-summaries.md` — Volume 03, Batch 0001
 
-## AUTHORITATIVE HANDOVER OUT OF VOLUME 02
+Next planned batch: `workspace/volume-03/batch-0002/PROMPT.md` — Chapters 111–120
 
-**`state/volume-02-close.md` is the authoritative handover and it is not repeated in this file, in `state/open-threads.md` or in `state/continuity.md`.** It carries: the two declared divergences (Chapters 97–100 as the volume's close; the man who classifies streets as plant not seated and not told why) · the volume's ledger · **the eleven live and dated items, each with its date and its exact wording** · the method · and the full list of what Volume 03 must not do. **Read that file first.** Everything below is the working detail, not the handover.
+## Handover chain, in order. Do not summarise these in this file.
 
-Next planned batch: `workspace/volume-03/batch-0002/PROMPT.md`
+1. `state/volume-02-close.md` — the authoritative handover **out of** Volume 02, written before Chapter 101. Read it first if you are reading anything about October.
+2. **The "VOLUME 03, BATCH 0001" block at the end of `state/continuity.md`** — the authoritative handover **into** Batch 0002: what happened after 1 October, the state of the register of narrowings, the reading rule, CivicCore's audit, the meters, the second public record, the seats, the Chapter 0102 person, the six words out loud, and the state of all eight standing refusals.
+3. `state/open-threads.md` — the live threads, at the end of the file.
 
 ## Calendar rule (binding on everything written so far)
 
@@ -30,7 +32,29 @@ Volume 02, April to July: **21 April Monday · 22 April Tuesday · 23 April Wedn
 
 **4 August Monday · 5 August Tuesday · 12 August Tuesday · 13 August Wednesday · 14 August Thursday · 15 August Friday · 18 August Monday · 19 August Tuesday · 21 August Thursday · 22 August Friday · 25 August Monday · 28 August Thursday · 30 August Saturday · 1 September Monday · 3 September Wednesday · 4 September Thursday · 5 September Friday · 6 September Saturday · 8 September Monday · 15 September Monday · 16 September Tuesday · 17 September Wednesday · 18 September Thursday · 19 September Friday · 22 September Monday · 23 September Tuesday · 24 September Wednesday · 25 September Thursday · 26 September Friday · 27 September Saturday · 28 September Sunday · 29 September Monday.**
 
-**The two dates the volume ends holding, both fixed and both after the last chapter: Wednesday 1 October 2014 (2 days after the volume closes) and Saturday 11 October 2014 (12 days after the volume closes). 2 October is a Thursday and 12 October is a Sunday. Volume 03 opens after 12 October 2014 and its own calendar anchor is set in the volume-close prompt, not here.**
+**The two dates Volume 02 ended holding, both fixed and both now in the past: Wednesday 1 October 2014 and Saturday 11 October 2014. Volume 03 opened on Monday 20 October 2014 and neither of those two dates is ever staged in it.**
+
+**Volume 03, October to December 2014 — the batch's calendar, checked line by line against the chapter headers of Chapters 101–110 in the fixer pass, and authoritative for Batch 0002:**
+
+**20 October Monday · 21 October Tuesday · 22 October Wednesday · 23 October Thursday · 24 October Friday · 27 October Monday · 28 October Tuesday · 29 October Wednesday · 31 October Friday · 3 November Monday · 4 November Tuesday · 5 November Wednesday · 6 November Thursday · 7 November Friday · 10 November Monday · 12 November Wednesday · 13 November Thursday · 14 November Friday · 17 November Monday · 19 November Wednesday · 21 November Friday · 24 November Monday · 26 November Wednesday · 28 November Friday · 1 December Monday · 3 December Wednesday · 5 December Friday · 8 December Monday · 10 December Wednesday · 12 December Friday · 15 December Monday · 17 December Wednesday · 19 December Friday · 22 December Monday · 24 December Wednesday · 26 December Friday · 29 December Monday · 31 December Wednesday.**
+
+**And the fixed date Batch 0002 must carry: the Saint Orra west term expires at 06:00 on SUNDAY 4 JANUARY 2015, and the handover is on the Saturday night before it, which is Saturday 3 January 2015, and no date has been written down for that Saturday night by anybody.**
+
+## THE STATE OF THE CITY AT THE END OF CHAPTER 110 — Wednesday 3 December 2014, about ten past eight in the evening
+
+- **The register of narrowings has NINETEEN entries and the blank line is blank.** Entry 17 (2 Oct) is Meter Room 3, Salter's Yard. Entry 18 (14 Nov) is a riser space at the rear block, Carrow Lane, placed for a condition survey that lapsed. Entry 19 (26 Nov) is a yard light, and the maintenance is a bulb, and the bulb is out. **All three are correct, and a register that grows when nobody is hurt is a register with a motive in it.**
+- **A form with no name box on it has been used to find a building, twice, and neither time by anybody who meant to.** Nina Calder built the absence in March and has said so out loud three times.
+- **A second public record exists with a number in it: 51 nodes on the continuity schedule as at 18:00 on Monday 6 October 2014, 38 parties answering, THIRTEEN SHAPES, checkable at a counter by anybody, for nothing, unsigned, with no name box and about four hundred names added to it by other people.**
+- **The reading rule of 21 August has left the only room it was made in, once, on foot, in one copy, and a managing agent has refused a copy of it for a reason that is entirely correct.**
+- **CivicCore's audit is public. It finds real faults, it costs four hundred evenings of two people's time, and its cover note names the volume's question and the contractor is right.**
+- **The four meters did not go into the cupboard. They went to a block of 1974. A condition survey is coming in the spring. Ivy Marsden, 72, has been told, once, by the wrong man, and is a great deal more frightened and no more findable.**
+- **The board stands at SEVEN OF NINE.** The seventh seat has been vacant since 8 October and the eighth since the evening of Wednesday 26 November. Nobody can fill either and nobody can unfill either.
+- **A man has said the six words are his, out loud, in a room, twice — once in October in one word, and once on 21 November in nineteen seconds — and has said the name of a man of forty-nine who was not in the room while he did it. Neither man has been told.**
+- **A woman of thirty-four at the bottom of Quarry Street put her name at the bottom of a letter in her own hand on Friday 28 November, and on Wednesday 3 December at 18:41 a man said it out loud in a room with about eleven people in it, and the minute says that a name was stated and does not contain it.**
+
+### What Volume 03 must not do — unchanged and binding
+
+See `state/volume-02-close.md` §5 in full. In short: **one Lattice notice per ordinary chapter at most, four across any ten; nothing defines *holder*; the 1 March line on the enamel strip is not reissued, restated or quoted; no death, no rescue by chance, no lucky timing; a priced-access case is not a recognition case; a node with no term in force is not a person with no address; a duty is an act and not a place; a person who is not counted is not a person who is helped and Volume 03 may not refute that sentence in a chapter; no root reading, no root clause, no succession, no Iona, no Evan, no counter-amendment, no Quiet Cut, no three-line brass tokens; the claims box is closed and the sealed envelope may not be opened or written into; the blank line at the bottom of the register stays blank; the west-clinic gate runs on its local term; the Weir, the annex, the retainer, the two-refusal question, the burnt letter, the boy of nineteen, the map's margin, the sealed envelope, Margo Doré's pump, Dev Singh's clause, the Selah Mora log, the tin, the brass tag and the rota are all unresolved; and Jonas Mercer asks at most one question in any public room.**
 
 ## The Volume 02 mechanism (canon, established in Chapters 50, 51, 54, 57 and carried unchanged through 60–100)
 
@@ -59,6 +83,8 @@ Volume 02, April to July: **21 April Monday · 22 April Tuesday · 23 April Wedn
 - **The 19 May determinations were complied with:** fourteen returns in by 18 June. The six lowland water points are absent from the fourteen and their absence is compliance, not failure, because a node with no party is not a party and was never required to answer.
 
 ## THE STATE OF THE CITY AT THE CLOSE OF VOLUME 02 — Monday 29 September 2014, about ten past six in the evening
+
+**SUPERSEDED IN PART. This is the state as it stood at the end of Chapter 100 and is kept as the baseline the Chapter 110 section above is read against. Every item in it has moved, and where it has moved the movement is in the "VOLUME 03, BATCH 0001" block at the end of `state/continuity.md`. Read the Chapter 110 section first.**
 
 ### Dated, live, and not resolved
 

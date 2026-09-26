@@ -1,10 +1,12 @@
 # Open Threads
 
-## AUTHORITATIVE HANDOVER — READ THIS FIRST
+## Handover chain, in order. Do not duplicate these blocks.
 
-**`state/volume-02-close.md` is the handover out of Volume 02 and into Volume 03.** It carries the two declared divergences, the volume's ledger, **the eleven live and dated items with their dates and their exact wording**, the method, and the list of what Volume 03 must not do. It is not restated here. This file carries Volume 03's open threads as they stand after Chapter 110, in the block at the end.
+1. `state/volume-02-close.md` — the authoritative handover **out of** Volume 02, written before Chapter 101.
+2. **The "VOLUME 03, BATCH 0001 — CHAPTERS 101–110" block at the end of `state/continuity.md`** — the authoritative handover **into** Batch 0002, and it supersedes the Volume 02 close and the table below wherever they differ.
+3. **The Volume 03 thread list at the END of this file** — the live threads after Chapter 110, in the volume's own register.
 
-These threads reflect events written in Chapters 1–70 unless marked as reserved. **Volume 01 is complete. VOLUME 02 IS CLOSED AT CHAPTER 100. The table below is the state as of Chapter 70 and the authoritative state is the close-of-volume block at the END of this file, in `state/continuity.md`, and in `state/volume-02-close.md`.**
+The table below is the state as of Chapter 70 and is kept as the long-range memory for Threads T-01 onward. **Volume 01 is complete. Volume 02 is closed at Chapter 100. Volume 03 is open and Batch 0002 starts from the end of this file, not from here.**
 
 | ID | Thread | Current state after Chapter 70 | Next planned movement | Constraint |
 |---|---|---|---|---|
@@ -183,3 +185,81 @@ These threads reflect events written in Chapters 1–70 unless marked as reserve
 - **Nine hundred and forty is a number of times. Fourteen is a difference between two public numbers and is on no instrument. They were never in the same sentence and must not be.**
 - **The old continuity schedule is still in force and still has nobody auditing it, and the drawing layer still has no delete operation, and a chalk board in Gantry Ward still has a nine-millimetre ghost on it that says TIDEGLASS 3.**
 - **Volume 03 enters Lowglass as a person with claims and not as a population on a form.** The Weir is on no layer, is not drawn, cannot be seated, is not in the board's eight districts, and is on nobody's list. **A priced-access case is not a recognition case. A node with no term in force is not a person with no address. A duty is an act and not a place.**
+
+---
+
+# VOLUME 03 OPEN THREADS — as they stand after Chapter 110, Wednesday 3 December 2014
+
+**Read with the "VOLUME 03, BATCH 0001" block at the end of `state/continuity.md`, which carries the canon. This file carries only what is still open and what it is forbidden to do.**
+
+## 1. The nine people and two chairs
+
+- **SEVEN OF NINE. The seventh chair has been empty since Wednesday 8 October 2014, when Kathleen Ferris, 33, night bus controller, wrote four lines on the back of a bus timetable and gave them to the woman who keeps the minutes. Nobody has read them out and nobody may.** The board could not fill it, because a body that cannot require anybody cannot require one of its own, and because six weeks of working out who to want instead is a rota.
+- **The eighth chair has been empty since the evening of Wednesday 26 November 2014**, when Stanley Umeh, 58, market porter and lock-up keeper, stood up and said *Right. I'm going* and nobody argued and nobody asked him a second question. **He answered for the shutter and the padlock and what the padlock is for, and the minute records the seat as a lock-up and not as a district or a facility, and the box in the form is left empty on purpose and the minute says so.** A shape where a person was, and the shape is the only interesting thing on the page.
+- **Nobody can fill either and nobody can unfill either and there is no power in this city that could.** The body does not dissolve; a dissolution needs six.
+- **Four of the nine have said they will stop if it turns into a job.** Gloria Nye said it in eleven words on 8 October and apologised and has not withdrawn it. Ines Tarrant said she meant it and has not stopped and asked to be asked why and nobody was able to ask her. The ninth seat said it in about nine seconds in a records office in September and gave the arithmetic.
+- **The ninth seat is a woman of fifty-four who is findable at a shopfront, unpaid, doing it for nothing since 4 July, who has said she will not be paid until she is sixty-one and that after that she will not be, and who is the only door in a building of thirty-one rented rooms.** **Nobody on that board knows that the ninth seat is the only seat that cannot be emptied by anybody else, and therefore the only seat that can empty the body, and she has said out loud twice that she will not be told, and she is right.** Three people know: a clerk who copied it out by hand, a registrar who read it twice, and a records supervisor who read it once and told nobody and gave a reason in a public room. **Do not resolve it. Do not have the board notice it. Do not have anybody tell her.**
+- **Page four of section 11 is a dissolution clause at six vacancies, read by three people and told to nobody. Nobody has come near acting on it and nobody may.**
+
+## 2. The letter, and the thing it cost
+
+- **It worked. The four meters are not going into the Block C cupboard; they went to a block of 1974. The freeholder's standing instruction of 14 April was withdrawn. A condition survey of the riser space and the roof void is coming in the spring, on a sheet of A4 in a plastic wallet, and it says *feasibility*, and feasibility has never once in this city produced a restored anything.**
+- **Nobody is entitled to know what the managing agent's clerk said and the batch did not find out and Volume 03 must not.**
+- **One of the two survey nodes went into the register of narrowings on 14 November and the other did not, and there is nobody anybody is entitled to ask which of them is correct.**
+- **IVY MARSDEN, 72, was told on Thursday 13 November by the man who wrote the letter, at her own door, in daylight, with nine minutes' notice, and she refused a copy, and she worked out what the letter was for in about four minutes, and she told him the price of it: the day a piece of paper says the buckets are the block's, the block is a thing that can be asked, and a thing that can be asked is a thing that has a landlord, and a thing that has a landlord is a thing that has a list.** She is no more findable and a great deal more frightened. She let him write down that his name is now in a thing in her head that has to do with her. **Nobody goes up those stairs again.**
+- **The two conditions on the Old Ward board stay unreconciled: the city's own paper, printed 14/8, initialled N.C., and sixteen inches below it an enamel strip, unsigned, undated, unattributed, with two initials and one word in pencil on the back of it and the word is *not mine*. The initials are not a signature to the condition and the writer of any batch must never decide in prose whose they are.**
+
+## 3. The two records, and the reading rule
+
+- **Record one, September: a record of shapes, a number, sixteen, no name box by decision.** It cannot be wrong, therefore it could not be found wrong, and that is why it was a photograph.
+- **Record two, published the third week of November: FIFTY-ONE NODES on the continuity schedule as at 18:00 on Monday 6 October 2014, THIRTY-EIGHT PARTIES, THIRTEEN SHAPES, checkable at a counter by anybody, for nothing, by post, as of a date. It went out UNSIGNED, with no name box, and about four hundred people have added their names to it.** It establishes nothing and it can be argued with and being arguable is the point.
+- **Nobody is required to be told they are in it, and that is the design and not an oversight, and it was said in the room where it was agreed and it may not be softened.**
+- **The difference between the two records is FOUR, and Calder can say what three of them are and will not say the fourth, and Jonas Mercer read three and refused the fourth in a room with three people in it, and neither of them will ever write it down.**
+- **The fourth of the four is a meter room a person could walk to, and it can be walked to, and the woman who wrote the page thought about that in a corridor on 19 November with her coat on. Unresolved and the most dangerous sentence anybody has produced this year.**
+- **The reading rule of 21 August has left the only room it was made in, once, in one copy, on foot, in a woman's inside pocket. It is an act and not a document: a person reading two sentences out loud to another person in a room with the second person able to say no. It cannot be put in a form, a job description, a rota, an establishment or an edition, because any of those turns it into a service. A managing agent has refused a copy of it for a correct reason and the reason may not be argued with. A clerk has announced that she is going to misuse it in a corridor, on her own time, for a person nobody may be told about, and nobody may ask her whether she has done it.**
+
+## 4. The register, and the shape on the wall
+
+- **NINETEEN entries. Three times in nine weeks, every one of the three correct, and a records supervisor has said the true thing about it: a register that grows when nobody is hurt is a register with a motive in it and a register somebody can hold over you, and if anybody ever uses that board against anybody they will not use the meter room, they will use the bulb.**
+- **The blank line at the bottom is blank and stays blank and is now the only fixed point in the building.** It was blank on 1 December and it is expected to be blank on 4 January.
+- **A form with no name box on it has been used to find a building twice, by careful people doing exactly what it was designed to do, and there is nobody in the whole of this to blame except a man with a register who asked for a state and got one.** A design is not a promise.
+
+## 5. The six words, and the two men they connect
+
+- **`6-L/14. NON-CIVIC PLANT.` Said out loud twice in rooms: one word on 28 October to about eleven people, and nineteen seconds on 21 November to about ten people, including the name of the man who lodged it and did not read it. Both minutes are public and neither contains his name, because there is no box for one.**
+- **PETER NAYLOR, 44, level-three acceptance officer, field services, Gantry Ward, out of estates since 2011: signed an acceptance in about ninety seconds in August, does not know what any of the words mean, has a fortnight somewhere in this city with a bucket under a tap, and NOBODY IN THIS BOROUGH IS ABLE TO ASK HIM ONE QUESTION ABOUT ANY OF IT. Two people told Jonas Mercer not to and he has not. His name and the six words are now connectable in a public record and he has not been told and cannot be told.**
+- **ROYDEN ACHEBE, 49, NDC field services manager: named publicly for the first time on 21 November, in a minuted room, in a sentence about what he did and did not read before lodging a classification on 22 March. He was not in the room, he has not been told, he could be asked about it tomorrow morning, and nobody has asked him. He is NOT the man of forty-four and the two must never be conflated in prose.** He telephoned the shop on 14 August about a Tuesday and Jonas Mercer was the one who answered, and Jonas Mercer has never rung him since either.
+- **The six words took four tonnes of stone and about £1,180 off anybody's schedule and put them on nobody's invoice, and they took a lowland piece of ground out of the review, and the street is still on it because the other half of that morning was voted down, and no document anywhere says how the two halves are related.**
+
+## 6. The lowland, and the six shapes
+
+- **The lowland is not on the layer. The layer draws nine service districts, eight named, the ninth not drawn. So the lowland is not in the board's eight districts, so there is no seat for it, and there is no instrument in this city by which there could be one, and the reason is not an oversight and may not be fixed in Volume 03.**
+- **Six water points at Tier 1, £1,880 a year, £11,280, in paragraph 6.1 of the minute of 19 May, recorded as received and not as evidence, and nobody has been asked for any part of it, and the chair said in the margin in the clerk's hand: *I will not require a person at six water points. Noted. The reason nobody has asked is the reason this Committee cannot answer.***
+- **Six shapes were identified in discussion in a hall on 28 October and are named in no document. One of them is a green pillar with a bucket on a chain and a forty-slot board at the top of a three-hundred-metre street with a canal on one side and boat sheds on the other, whose trap is gone and whose bank is gone, and the ninth seat named it and would not say where it is. The Weir's three positions stand on a kitchen wall with a name against each and a fourth line has a ring of pencil round a blank space. Margo Doré's advance refusal of a pump is unargued, no pump was offered, and none exists. Jonas Mercer did not go up the path in this batch.**
+- **The Weir, the annex, the retainer, the two-refusal question and the day after, the burnt letter, the boy of nineteen, the map's margin, Dev Singh's empty-crossing clause and the Selah Mora log are all unresolved and all forbidden to resolve.**
+
+## 7. The midpoint, and what it cost
+
+- **A letter went through the door of a Methodist hall on Friday 28 November 2014, addressed to a cooperative steward board, care of a hall, because a published minute says where they sit. One side of A4, biro, no crest, no form number, no reference, no date in a box, in a hand that is not a clerk's. It is signed.**
+- **Its author is BERNICE OFORI, 34, who has been at a stand at the bottom of Quarry Street at twenty to seven every morning with a folding trolley, and who has kept to a date on that stand with no person on it for eleven years, and who gave no name to anybody in this account until 3 December.** She asked whether the stand is one of the six. She asked for nothing. She signed it on purpose, because a room is not a record, and she said so twice.
+- **On Wednesday 3 December at 18:41 a man said her name out loud in a room with about eleven people in it. He did not write it down. Nobody asked him a second question and nobody asked whether it was correct. The minute says a name was stated, once, and does not contain it, and records that the letter was not entered in it and that there is no box for one and that this is a decision and not an oversight. The minute went out on Friday 5 December and is a public document and the name is not in it.**
+- **THE NAME IS IN ABOUT ELEVEN PEOPLE AND IN NO DOCUMENT. There is no instrument in this borough that can un-say a thing in a room, and there is one that can un-write it, and it is the same instrument they have had since March.**
+- **BATCH 0002 MUST NOT: put that name in a form, a minute, a return, a holder field or any document; send anybody to that street; have her rescued, helped, given water, given a seat or given anything; have her thank anybody; or resolve what her standing now is. Findability is not answerability, and a person is not a door because a man said her name once.**
+
+## 8. The winter, and the dates that are not written down
+
+- **The Saint Orra west term expires at 06:00 on SUNDAY 4 JANUARY 2015. The terms are six days. The rota has still not been rebuilt. The 11:00–13:30 gap is still published and still unfilled. Bram Osei's refused Thursday is still on the board in his own words and Priya Ranganathan's card is still on the board because she put it there. The gate runs on its local term and cannot be renewed by Jonas, the department or a manager — only by the people who read it aloud at ten at night.**
+- **The handover is on the Saturday night before it, which is Saturday 3 January 2015, and NO DATE HAS BEEN WRITTEN DOWN ANYWHERE FOR THAT SATURDAY NIGHT, because a person is not required to be told and there is nobody in this borough who is required to write it.**
+- **The autumn compliance report is out or due with a paragraph number on it for a decontamination verification that was not evidenced for three months, at a hospital with four hundred and twenty women in it. The going-forward verification was weekly and by a named person who is not on a rota, and after October it lapsed, because a man of forty-eight said out loud in a corridor in August that a job in November has a department in it. Nobody has rung him.**
+- **A second tray is on a shelf in a building in Gantry Ward with a rubber band and a date in biro and one question outstanding: is there any party who may consent to the works. The answer is no and it has been no since 29 May, and the man who could answer it signed a piece of paper in ninety seconds in August saying *not released* and does not know what any of the words mean.**
+- **The claims box is closed and empty. The sealed envelope is in a drawer on a lower floor with one card in it about a stair. Nothing may be written into it and nobody may open it, and a man stood six feet from it in August and did not.**
+
+## 9. The refusals, all ten, none argued out
+
+The mortuary porter's four words in nine seconds · Marguerite Oyelaran's nine seconds and a person-box · Emeka Rusk's, and helping does not go on a form · Margo Doré's advance refusal of a pump · Sanaa Iqbal's twenty minutes a week · Ivo Bamba's, spent in Chapter 90 and not reused · Nina Calder's fifth page · Yolanda Fofana's refusal to answer the day after · **new, and standing: Frances Tolley's, in a corridor, on 26 November** · **new, and standing: Bernice Ofori's, which is the reason the volume has a midpoint.**
+
+**Nobody refuses to be thanked anywhere in Volume 03. Nobody thanks Ivo Bamba or Yvonne Amoah. No minute records that a person has not been thanked, and the ninth seat is not thanked for anything.**
+
+## 10. Still reserved, and forbidden to any batch in this volume
+
+No root reading, no root clause, no succession, no Iona, no Evan, no counter-amendment, no second signature, no Quiet Cut, no origin of the community-watch term, no three-line brass tokens. **Volumes 07, 09 and 15.** **Prue Calloway's location-of-record finding of 23 April — *a building has an address, it is the people who have no location of record, and a panel cannot weigh a claim from a person it cannot locate* — is the Volume 03 door and it has not been opened. It may be opened once, in a room, in daylight, and not resolved.** The forty minutes of 15 April is time until the family knew; **no 48-minute figure may ever be printed.** The forty *hours* of 3 April is the gate being open and is a different number about a different thing. **Nine hundred and forty is a number of times. Fourteen is a difference between two public numbers and is on no instrument. They have never been in the same sentence and must not be, and nine hundred and eighty-six is a number of Wednesdays and must never be in one either.**
