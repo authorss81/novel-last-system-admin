@@ -1,6 +1,10 @@
 # Open Threads
 
-These threads reflect events written in Chapters 1–70 unless marked as reserved. **Volume 01 is complete. VOLUME 02 IS CLOSED AT CHAPTER 100. The table below is the state as of Chapter 70 and the authoritative state is the close-of-volume block at the END of this file and in `state/continuity.md`.**
+## AUTHORITATIVE HANDOVER — READ THIS FIRST
+
+**`state/volume-02-close.md` is the handover out of Volume 02 and into Volume 03.** It carries the two declared divergences, the volume's ledger, **the eleven live and dated items with their dates and their exact wording**, the method, and the list of what Volume 03 must not do. It is not restated here. This file carries Volume 03's open threads as they stand after Chapter 110, in the block at the end.
+
+These threads reflect events written in Chapters 1–70 unless marked as reserved. **Volume 01 is complete. VOLUME 02 IS CLOSED AT CHAPTER 100. The table below is the state as of Chapter 70 and the authoritative state is the close-of-volume block at the END of this file, in `state/continuity.md`, and in `state/volume-02-close.md`.**
 
 | ID | Thread | Current state after Chapter 70 | Next planned movement | Constraint |
 |---|---|---|---|---|

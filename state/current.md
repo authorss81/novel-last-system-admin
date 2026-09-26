@@ -6,13 +6,17 @@ Writing-run status: **Volume 01 complete (Chapters 1–48). VOLUME 02 CLOSED (Ch
 
 Current volume: 2 — *The Price of Access* — **CLOSED.** `outline/series.md` ends the volume at Chapter 96; Chapters 97–100 are the volume's close and were added by the Batch 0005 prompt, which discloses the divergence on its own face. The divergence is recorded as canon in `state/continuity.md`.
 
-Current batch: Volume 02, Batch 0005 (prose complete, Chapters 91–100)
+Current batch: Volume 03, Batch 0001 (Chapters 101–110)
 
-Last completed chapter: 100
+Last completed chapter: 110
 
-Last batch summary: `state/batch-summaries.md` — Volume 02, Batch 0005
+Last batch summary: `state/batch-summaries.md` — Volume 03, Batch 0001
 
-Next planned batch: **the Volume 02 close / Volume 03 volume-close prompt at `workspace/volume-03/batch-0001/PROMPT.md`. The next phase is a volume audit, not prose.**
+## AUTHORITATIVE HANDOVER OUT OF VOLUME 02
+
+**`state/volume-02-close.md` is the authoritative handover and it is not repeated in this file, in `state/open-threads.md` or in `state/continuity.md`.** It carries: the two declared divergences (Chapters 97–100 as the volume's close; the man who classifies streets as plant not seated and not told why) · the volume's ledger · **the eleven live and dated items, each with its date and its exact wording** · the method · and the full list of what Volume 03 must not do. **Read that file first.** Everything below is the working detail, not the handover.
+
+Next planned batch: `workspace/volume-03/batch-0002/PROMPT.md`
 
 ## Calendar rule (binding on everything written so far)
 

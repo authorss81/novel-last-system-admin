@@ -1,5 +1,11 @@
 # Continuity State
 
+## AUTHORITATIVE HANDOVER
+
+**`state/volume-02-close.md` is the authoritative handover out of Volume 02.** It carries the two declared divergences, the volume's ledger, the eleven live and dated items with their dates and exact wording, the method, and Volume 03's prohibitions. It is not duplicated here. Everything below this line is working detail, current to the end of Chapter 110 unless a later block says otherwise.
+
+---
+
 ## Stable series canon
 
 - Nacre is a contemporary estuary city of roughly 1.3 million people, with eight official districts, nine Lattice service districts including Lowglass, and the Old Ward civic core.
