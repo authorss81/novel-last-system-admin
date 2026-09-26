@@ -2,11 +2,11 @@
 
 **Friday the second of January 2015, ten past nine in the morning, the counter, the records office, second floor.**
 
-**NINA CALDER HAS BEEN DESIGNING LISTS SINCE 1999 AND SHE HAS DESIGNED THE ABSENCE OF ONE BOX IN MARCH, AND ON THE SECOND OF JANUARY SOMEBODY PUT A SHEET OF A4 ON HER COUNTER IN AN ENVELOPE AND ASKED HER TO PUT A BOX ON IT.**
+**NINA CALDER HAS BEEN DESIGNING LISTS SINCE 1999 AND SHE HAS DESIGNED THE ABSENCE OF ONE BOX IN MARCH, AND ON THE SECOND OF JANUARY SOMEBODY PUT A SHEET OF A4 ON HER COUNTER IN AN ENVELOPE AND ASKED HER FOR A COLUMN, AND A COLUMN IS A BOX THAT HAS LEARNED TO WRITE.**
 
-She is about fifty. Nineteen years. She has a tray of correspondence on the counter most days of the week and a board in a vestibule eleven feet by nine with a slot in the counter that has been empty since the eighteenth of July, and she is the only person in this city who has said out loud, three times, in public rooms, in the same words, that the absence of a name box is a decision and not an oversight.
+She is about fifty. Nineteen years in that office and designing lists since 1999, and the two numbers are not the same number and she has never confused them in public. She has a tray of correspondence on the counter most days of the week and a board in a vestibule eleven feet by nine with a slot in the counter that has been empty since the eighteenth of July, and she is the only person in this city who has said out loud, three times, in public rooms, in the same words, that the absence of a name box is a decision and not an oversight.
 
-The board has nineteen entries on it. It had sixteen in September and it had been still since the fourth of August, and it grew three times in nine weeks — a meter room, a riser space, a yard light — and every one of the three is correct.
+The board has nineteen entries on it. It had sixteen in September and it had been still since the fourth of August, and it grew three times in about eight weeks — a meter room, a riser space, a yard light — and every one of the three is correct.
 
 **A register that only grows when somebody is hurt is a register with a motive in it. A register that grows when nobody is hurt is a register somebody can hold over you.** She said the second half of that out loud in a corridor on Monday the first of December, and added that if anybody in this borough ever uses that board against anybody, they will not use the meter room. They will use the bulb.
 
@@ -74,7 +74,7 @@ He read it. He read it twice, which she was not expecting.
 
 "So it is a rota."
 
-"**It is a rota of sentences.**" She said it flatly. "And I have been designing lists for nineteen years and I am going to tell you what a list of sentences is, and I have never had to say it out loud before, and I have been not saying it since Friday. **A list of sentences about decisions is a list of people.** That is all it has ever been. That is what every register in the world is when you take the numbers off it. A serial number is a person you have not met yet."
+"**It is a rota of sentences.**" She said it flatly. "And I have been designing lists since 1999 and I am going to tell you what a list of sentences is, and I have never had to say it out loud before, and I have been not saying it since Friday. **A list of sentences about decisions is a list of people.** That is all it has ever been. That is what every register in the world is when you take the numbers off it. A serial number is a person you have not met yet."
 
 ---
 
@@ -84,7 +84,7 @@ He read it. He read it twice, which she was not expecting.
 
 She did not stop there and she did not soften it and she did not go and get a form.
 
-"Mr Furniaux. I am going to say four things and I am going to say them in this order, and the order is the whole of the argument, and you may take it or leave it, and you will not be able to take it or leave it more than once, because I have seven of these in nineteen years and I have never let anybody come back to one and nobody is going to come back to this one either."
+"Mr Furneaux. I am going to say four things and I am going to say them in this order, and the order is the whole of the argument, and you may take it or leave it, and you will not be able to take it or leave it more than once, because I have seven of these in nineteen years and I have never let anybody come back to one and nobody is going to come back to this one either."
 
 "Somebody has—"
 
@@ -100,7 +100,7 @@ Nobody argued. Jonas Mercer did not argue, and he has never once argued with her
 
 "**You could have said no in nine words,**" he said.
 
-"I could have said no in one, and I have said no in one three times, and it is a lie every time, and every one of those three lies has been a kindness to somebody who did not deserve it and cost me a day." She squared the sheets. "You want to know why I said it in eleven seconds and not one. **Because one word is a door closing and eleven words is a door with a reason in it, and the whole of nineteen years is the second one, and in about four years somebody is going to come to this counter and ask me to give my reasons on paper, and I am going to say the same eleven words in the same order, and that is all the difference there has ever been.**"
+"I could have said no in one, and I have said no in one three times, and it is a lie every time, and every one of those three lies has been a kindness to somebody who did not deserve it and cost me a day." She squared the sheets. "You want to know why I said it in eleven seconds and not one. **Because one word is a door closing and eleven words is a door with a reason in it, and the whole of nineteen years is the second one, and somebody is going to come to this counter one day and ask me to give my reasons on paper, and I am going to say the same eleven words in the same order, and that is all the difference there has ever been.**"
 
 "**And you have not written it down.**"
 
@@ -138,11 +138,11 @@ Jonas Mercer was in the vestibule because he could not sleep and because it is e
 
 There is a counter on the left with a slot in it for post, and the slot has been empty since the eighteenth of July. There is a board on the wall at the end of it, and the register on that board has nineteen entries on it, and the nineteenth is a bulb.
 
-**And under the nineteenth line, there is a blank line.** No rule, no caption, no label, nothing in a box, nothing in a hand. It was blank on Monday morning and it is blank at ten past two on Sunday morning, and it is the only fixed point in the building.
+**And under the nineteenth line, there is a blank line.** No rule, no caption, no label, nothing in a box, nothing in a hand. It was blank on Friday morning and it is blank at ten past two on Sunday morning, and it is the only fixed point in the building.
 
-Above it, where anybody coming up the ground-floor corridor has to walk underneath, the two conditions from August were still there, and they are still not the same document, and they are still not reconciled, and nobody in this borough is going to reconcile them: **the city's own paper, printed the fourteenth of August and initialled N.C.**, and **sixteen inches below it an enamel strip with nothing on its face at all, undated, unattributed, with two initials and one word in pencil on the back of it, and the word is *not mine*.**
+Above it, two things from August were still hanging on the same wall, and they are still not the same document, and nobody in this borough is going to reconcile them: one of them has a date and a printing on it and two letters in the corner, and the other one has had nothing on its face for as long as anybody can remember and is not a document anybody has ever been able to identify, and there is a word on the back of it in pencil and the word is *not mine*.
 
-He stood in front of the board for about ten minutes and did not touch it, because there is nothing to touch, and because a man who puts his hand on a public board at two in the morning is a man who has started something.
+He stood in front of the board for about ten minutes and did not touch it, because there is nothing to touch, and because a man who puts his hand on a public board at two in the morning is a man who has started something, and there has been nothing on that board for five weeks and four days that could have been started by anybody at all.
 
 **At ten past two on the morning of Sunday the fourth of January 2015 the Saint Orra west term had three hours and fifty minutes left in it, and the gate on that term opens at seven, and the rota has still not been rebuilt, and the eleven o'clock to half past one gap is still published and still unfilled, and Bram Osei's Thursday is still refused on a board in his own words with *no reason I can give* under a *no reason given* in somebody else's hand, and Priya Ranganathan's card is still on that board because she put it there, and the man who signs the weekly verification stopped in October because a job in November has a department in it, and nobody has rung him.**
 

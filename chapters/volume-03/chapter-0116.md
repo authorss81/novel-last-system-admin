@@ -18,7 +18,7 @@ The card in the plastic sleeve was nine feet from the door.
 
 "It is a number nobody has ever asked anybody to pay," said Ibrahim Sesay.
 
-"**It is a number on a piece of paper in a minute from May, in December, in a hall, with the heating on.**"
+"**It is a number on a piece of paper in a minute from May, and it is still a number in January, in a hall, with the heating on.**"
 
 Gloria Nye put her pen down.
 
@@ -30,13 +30,13 @@ Gloria Nye put her pen down.
 
 "That reason is correct," said Oren Pell, from the back, where he had been standing for about an hour and had not sat down, because a registrar who sits down in a body that cannot minute him is a registrar who has joined something. "**And I am going to say, because I am the only person in this room who can be asked to say it, that it is correct, and that it has been correct since the first of March, and that I am not going to be the man who makes it wrong in January because the weather has turned.**"
 
-Nobody argued with him, and he put his hands back in his pockets, and the registrar went out at about ten.
+Nobody argued with him, and he put his hands back in his pockets, and the registrar went out at about ten past three and did not come back in, because a registrar who comes back into a room is a registrar who is in it.
 
 ---
 
 **And then a man came in at about ten past three, and he was not late, and he had come in out of the cold, and he was not on any list.**
 
-He was about sixty and he had a plastic bag with a thermos in it and he had come forty minutes on a bus and he was not on the agenda and nobody knew who he was.
+He was fifty-eight and he had a plastic bag with a thermos in it and he had come forty minutes on a bus and he was not on the agenda and nobody knew who he was.
 
 The woman who keeps the minutes said the standing sentence at the top of the afternoon, which she says for everybody now, including people who are not known: "You are not on the agenda, not a party, not a member, not a departmental officer, you are welcome to stay, and nobody is entitled to the answer to anything you may say, and you may decline to say it."
 
@@ -52,7 +52,7 @@ He sat down.
 
 "**Now say the number,**" said Winifred Crabbe.
 
-"No. **I want to be counted. That is what I came for.** I have read the number in the minute and I have read the record that went out in November and I can check the number in it, and I am not here to check the number. **I am here because there is a page in this borough that says what was done and it does not say where, and I know where five of the five I am going to say are, and I know them because I have been next to them, and in about four years somebody is going to come with a piece of paper about that market and there is going to be nothing on the table that says anything was there.**"
+"No. **I want to be counted. That is what I came for.** I have read the number in the minute and I have read the record that went out in November and I can check the number in it, and I am not here to check the number. **I am here because there is a page in this borough that says what was done and it does not say where, and I know where five of the six I am going to talk about are, and I know them because I have been next to them, and in about four years somebody is going to come with a piece of paper about that market and there is going to be nothing on the table that says anything was there.**"
 
 "Mr Bakayoko—" said Dermot Fahey, and stopped, because the body he is in cannot require anybody to do anything, including to stop talking.
 
@@ -76,7 +76,7 @@ Yolanda Fofana said: "**Nobody is going to ask you. And that refusal is the same
 
 "**Mr Mercer.**" A man near the back. "You are the only person in this room who is good at this. **Is this a seventh shape?**"
 
-And Jonas Mercer, against the left-hand wall, with nothing in his hands, said the only thing he said in that room that afternoon, and he said it because he was the only person in it who had spent eight months on the difference between a shape and a person, and he had not been asked to, and it was seventeen words, and it was not a question.
+And Jonas Mercer, against the left-hand wall, with nothing in his hands, said two things in that room that afternoon and neither of them was a question. The first was seven words long and went past. The second was the seventeenth, and he said it because he was the only person in the room who had spent eight months on the difference between a shape and a person, and he had not been asked to.
 
 "**A shape has to have a place you can point at. That has a person in it.**"
 
@@ -84,7 +84,7 @@ And Jonas Mercer, against the left-hand wall, with nothing in his hands, said th
 
 **And the room wrote it down, in the correct words, and what it wrote down is the whole of what a service floor is made of, and it took about eleven seconds to say and about four minutes to type, and the woman who keeps the minutes did the typing later, on a machine on a table at the back with a cloth over it, because that is where the typing gets done.**
 
-**There is no chair. There has never been a chair, because a body of nine seats has one power and a chair is not one of the three parts of it, and the ninth seat has been going through things in the order she goes through things in since the fourth of July because she is the only one of the nine anybody can write to, and she has said in a room that that is not a chair and that nobody is to make it into one.**
+**There is no chair in that hall and there has never been one. A body of nine seats has one power and a chair is not one of the three parts of it, and anybody who has been in that hall on a Wednesday has already worked that out by standing up. The ninth seat has said in a room that she is not one and that nobody is to make her into one, and she said it in that order on purpose.**
 
 "Is there a party to whom this body may serve anything? **No party.** Is there a seat to which this may be referred? **The lowland is not among the districts this body may be constituted for.** Is there any money? **This body has no money and cannot obtain any.** Is there any person this body may require to do anything? **No person may be required to do anything, and this body has twice asked for that to be minuted and it has been.** Then what can this body do."
 
@@ -100,7 +100,7 @@ And Jonas Mercer, against the left-hand wall, with nothing in his hands, said th
 
 **It went out on Thursday the fifteenth of January 2015 and it is a public document and anybody may ask for it at a counter for nothing, and this is the whole of what is in it.**
 
-> **Item 6. A person attended, not on the agenda, not a party, not a member and not a departmental officer, and asked that it be recorded that a thing exists at a place where a thing is needed. He stated the condition of six nodes in his own words. He was asked no question. He was not asked a second question and made no further statement.**
+> **Item 6. A person attended, not on the agenda, not a party, not a member and not a departmental officer, and asked that it be recorded that a thing exists at a place where a thing is needed. He stated the condition of five nodes in his own words and declined to state the sixth, and the declining is recorded below. He was asked one question, which was answered. He was not asked a second question and made no further statement.**
 >
 > **Recorded: that the state of each node was given and is recorded here as a statement and not as a return, and that no number was given and none is recorded, and that no name appears in this minute and this minute has no box for one.**
 >
@@ -118,7 +118,7 @@ And Jonas Mercer, against the left-hand wall, with nothing in his hands, said th
 
 **And there is a seventh shape question and it was answered in a Methodist hall in about seventeen words and the answer was no, and the reason was that a shape has to have a place you can point at and that one has a person in it, and that is now in a minute, and it is in nobody's document about the lowland, and the sixth shape is where it has been since the twenty-eighth of October, which is a street that will not be named in this volume in any document that leaves it.**
 
-**The seventh is not resolved and it is not going to be resolved by a person sitting in a hall in January, and nobody in this borough is entitled to ask him again, and the standing instruction on a kitchen wall with a ring of pencil round a blank space is still a ring of pencil round a blank space, and the trap is lost, and no pump has been offered, and none exists.**
+**The seventh is not resolved and it is not going to be resolved by a person sitting in a hall in January, and nobody in this borough is entitled to ask him again, and there is a kitchen wall in this borough with three names written on it in biro and a fourth line with a ring of pencil round a blank space and nothing in the ring, and it is exactly as it was in the spring, and the trap at the top of that three-hundred-metre street is packed and lost for good.**
 
 ---
 

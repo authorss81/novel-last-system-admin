@@ -2,11 +2,11 @@
 
 **Thursday the eleventh of December 2014, about half past four in the afternoon, a kitchen off a landing, Wren Court, Salter's Yard, Tideglass.**
 
-The kitchen is eight feet by six. Two gas rings and one of them does not light, and the table with the cloth off because the cloth goes on a Sunday and comes off on the Sunday and she is particular about that in a way she has never had to be particular about anything, and a chair with a wobble in the front left leg, and a mug on the draining board that has been there since Friday.
+The kitchen is eight feet by six. Two gas rings and one of them does not light, and the table with the cloth off because the cloth goes on a Sunday and comes off on the next one and she is particular about that in a way she has never had to be particular about anything, and a chair with a wobble in the front left leg, and a mug on the draining board that has been there since Friday.
 
 A room has a minute.
 
-**A kitchen does not have a minute, and that is the whole of the difference, and it is the reason this is the second time this account has gone inside a person who is on no board and is paid nothing, and the reason it is allowed to happen twice in three months and not once in a year, is that a kitchen is not a room and a close one costs a chapter and the chapter is worth it when the person is not in a room and cannot be got into one.**
+**A kitchen does not have a minute, and that is the whole of the difference, and it is the reason this is the second time this account has gone inside a person who is on no board and is paid nothing, and the reason it is allowed to happen twice in three months and not once in a year, is that a kitchen is not a room, and she cannot be got into a room, and there is nowhere to put a day like this one that is not a minute.**
 
 There is a salt and a pepper and a tin of something and a rent book on that table and a plastic folder of council letters that came in the post on Monday and that she has not opened and is not going to open, because they are the fourth kind and there are only three kinds and the fourth kind is a letter that wants a date in a box.
 
@@ -38,13 +38,13 @@ He had a pad in his hand and he put it down on the table, face down, which she n
 
 "Then ask it."
 
-He asked it, and it was eleven words, and it was: **whether she had decided what she was going to do about two empty chairs.**
+He asked it, and it was fourteen words, and it was: **whether she had decided what she was going to do about two empty chairs.**
 
 And she put the tea down.
 
 ---
 
-**And then she did the thing she has done four times in nineteen years, and she did it before she had finished the sentence he had started, and it is worth setting down what it is because nobody in this borough has ever described it and she has never described it either.**
+**And then she did the thing she has done four times in fourteen years, and she did it before she had finished the sentence he had started, and it is worth setting down what it is because nobody in this borough has ever described it and she has never described it either.**
 
 She did not refuse him. That is the whole of what she is about to do and it is not a small thing and she does it harder every year.
 
@@ -52,13 +52,13 @@ She took about four seconds, and she looked past him at the door of the kitchen,
 
 "I am not going to argue with you."
 
-"**I know you are not going to. That is the difficulty and it has been the difficulty since about the eleventh of September.**" She sat down on the side with the wobble in it. "You have never argued with me about anything, and neither has anybody else, and the whole of what that is is that nobody in this borough is permitted to argue with me about a thing I have said no to, and it does not turn out to be the same thing as nobody arguing with me because I would win."
+"**I know you are not going to. That is the difficulty and it has been the difficulty since about the eleventh of September.**" She sat down on the side with the wobble in it. "You have never argued with me about anything, and neither has anybody else, and the whole of what it is comes down to the fact that nobody in this borough is permitted to argue with me about a thing I have said no to, and it does not turn out to be the same thing as nobody arguing with me because I would win."
 
 That was true, and she let it sit, and the tea went cold about a degree and a half.
 
 "Now sit down, because you have not got long and I have not got long and the kettle is on a timer and this is a kitchen."
 
-He sat down on the box side, which is the side that is not the chair.
+He sat down on the far side of the table, which is the side that is not the chair.
 
 ---
 
@@ -82,7 +82,7 @@ He did not say anything at all to that, and she went on, and it is worth saying 
 
 ---
 
-**And then she said the thing nobody has said in a room in this borough, and she said it in a kitchen, and there is no minute for it, and there never will be, and it is the reason this chapter exists.**
+**And then she said the thing nobody has said in a room in this borough, and she said it in a kitchen, and there is no minute for it, and there never will be, and it is the reason this morning happened in this kitchen and not in a hall.**
 
 "**Listen to what I am about to say and then you can go, and I have thought about whether to say it for about four days and I have decided to say it to a man in a kitchen and not to a room, and that is a decision and it is mine and it took four days.**"
 
@@ -98,7 +98,7 @@ He did not say anything at all to that, and she went on, and it is worth saying 
 
 "Say it and I will not write it."
 
-"I know you will not. **I am going to have an answer ready, and it is going to be no, and it is going to be a very short no, and it is going to be in about nine seconds, and it is going to be about a thing and not about me, and it is going to be the same no every time, and nobody will ever be able to tell whether I have thought about it or not, and that is nineteen years of practice and it is the only thing I have that is worth anything in this building.**"
+"I know you will not. **I am going to have an answer ready, and it is going to be no, and it is going to be a very short no, and it is going to be in about nine seconds, and it is going to be about a thing and not about me, and it is going to be the same no every time, and nobody will ever be able to tell whether I have thought about it or not, and that is fourteen years of practice and it is the only thing I have that is worth anything in this building.**"
 
 The clock on the wall of the kitchen, which is a kitchen clock with a picture of a cat on it and which loses about four minutes a week and which she winds on Fridays, said something that was not right.
 
@@ -154,8 +154,8 @@ At the bottom he stopped and looked up, and said, "Mrs Fofana—"
 
 ---
 
-**And the piece of paper stayed in the bag, in a handbag, on a table in a kitchen off a landing, in a building of thirty-one rented rooms in Tideglass, for another five and a half weeks.**
+**And the piece of paper stayed in the bag, in a handbag, on a table in a kitchen off a landing, in a building of thirty-one rented rooms in Tideglass, and it was there on the third of December and it was still there seven weeks later, which is the twenty-first of January.**
 
 **It is the only piece of paper in this borough that is addressed to a room and is signed, and it is the only one anybody in this borough has ever had in a handbag, and it did not go in a minute, and it was never going to.**
 
-**And on the twenty-first of January a sheet of A4 went into a Methodist hall in daylight, in the hand of the woman it was about, and it came back out of that hall with nine seconds on the top of it and her name and the street and the date, and the letter never went near the hall at all: it has been in a handbag in a kitchen off a landing since the third of December, and neither of those two things was a decision anybody took, and both of them are the only ones available.**
+**And on the twenty-first of January four lines of a woman's own went onto the top of a sheet of A4 in a Methodist hall in daylight, in the hand of the woman they were about, over four lines of somebody else's biro, and they take about nine seconds to say and they say her name and the street and the date, and there is no form number on that sheet and no box and nothing to be used for, and the letter never went near the hall at all: it has been in a handbag in a kitchen off a landing since the third of December, and neither of those two things was a decision anybody took, and both of them are the only ones available.**

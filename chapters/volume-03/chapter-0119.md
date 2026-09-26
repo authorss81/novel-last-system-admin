@@ -2,13 +2,13 @@
 
 **Monday the twenty-sixth of January 2015, about ten past nine in the morning, the vestibule, ground floor, the Old Ward.**
 
-It is eleven feet by nine and it is the smallest room in this city in which anybody in this city can be said to work, and the reason it is the smallest rather than the largest is that a person cannot stand in it comfortably with another person in it and has to turn sideways, the way nine people had to stand sideways in a hall on Carrow Lane a week ago, and that has turned out in nine months to matter more than anything about the size.
+It is eleven feet by nine and there is a smaller room in this city, off a corridor on level two at Saint Orra west, with four chairs in it and no door, where two people have to be at ten o'clock at night and neither of them is on anything. This one is the smallest room in this city in which anybody can be said to work, and the reason it is small rather than large is that a person cannot stand in it comfortably with another person in it and has to turn sideways, the way nine people had to stand sideways in a hall on Carrow Lane earlier in January, and that has turned out in nine months to matter more than anything about the size.
 
 **Here is what is on the floor of it, and it is the whole of the inventory, and the woman who comes down from the second floor every morning can say all of it without looking at anything.**
 
-A counter, along the left, eleven feet of it, with a slot in it for post. **The slot has been empty since the eighteenth of July.** Not full, not emptied — empty: no post has been put in it since the eighteenth of July and nobody has asked why and there is no box on the building that says the slot is a service, and in about four years somebody will put a post in it and somebody else will call that a change.
+A counter, along the left, eleven feet of it, with a slot in it for post. **The slot has been empty since the eighteenth of July.** Not full, not emptied — empty: no post has been put in it since the eighteenth of July and nobody has asked why and there is no box on the building that says the slot is a service, and one day somebody will put a post in it and somebody else will call that a change.
 
-A board on the wall at the end of the counter. The register on that board has **nineteen entries** on it, and under the nineteenth there is a **blank line**, and the blank line is the only fixed point in the building and it has been blank since the fourth of December and it was blank before that and it will be blank on any given morning.
+A board on the wall at the end of the counter. The register on that board has **nineteen entries** on it, and under the nineteenth there is a **blank line**, and the blank line is the only fixed point in the building and it has been blank since the twenty-sixth of November, when the nineteenth entry went on the board, and it was blank before that, under eighteen entries, and it will be blank on any given morning.
 
 Two conditions, sixteen inches apart on the wall above it, where anybody coming up the ground-floor corridor has to walk underneath. **The city's own paper, printed the fourteenth of August, initialled N.C.** And **an enamel strip with nothing on its face, undated, unattributed, with two initials and one word in pencil on the back of it, and the word is *not mine*.** They are not the same document, they have never been reconciled, and nobody in this borough is going to reconcile them, and there is a person in this borough who has been asked once and did not take it.
 
@@ -38,7 +38,7 @@ And about nine people a day, which is the last item on the list and the only one
 
 **And then a man came in at about ten past ten, and Jonas Mercer had not asked him to and did not know him, and the clerk at the counter did not know him either, and he had come in off the street in the rain.**
 
-He was about sixty, and he was the man from the hall on Carrow Lane with the thermos, and he had a bowser on the road outside with a man in it, and he said: "Is this where you do the water."
+He was fifty-eight, and he was the man from the hall on Carrow Lane with the thermos, and he had a bowser on the road outside with a man in it, and he said: "Is this where you do the water."
 
 "This is a records counter."
 
@@ -62,11 +62,13 @@ He was about sixty, and he was the man from the hall on Carrow Lane with the the
 
 "I do not want six."
 
-"**You want a state.** A state is what a thing is doing. Give me the two you care about and I shall tell you what I can be held to, and what I cannot be held to I shall say so, and then I shall put a date on it and you shall take it, and that is the whole of the service and it takes eleven seconds and I have never done it before."
+"**You want a state.** A state is what a thing is doing. Name the two you care about and I shall tell you what I can be held to and what I cannot, and then I shall put a date on it and you shall take it, and that is the whole of the service and it takes eleven seconds and I have never done it before."
+
+"There is only the one of those two I can be held to," he said. "I do not know which one yet."
 
 "Say it then."
 
-"**The two are running and two are dry and one is frozen.** The standpipe at the top of the market runs when somebody has paid the water. The stand by the bus turning head has a bucket on a chain and a board with forty slots on it, and it works when a man puts money in the slot and takes the bucket and washes it and puts it back, and I have never seen that man's name on anything and he is not on anything. The trough by the lock-ups has been frozen since about the twenty-second of December. The stand at the back of the school wall runs on a timer for forty minutes at a quarter to eight and then it is a pipe. **The one by the yard is a tap and it is dry and it has been dry since the summer, and there is a person who is not a party and no answer has been received from anybody and that is in a file and the file is the whole of what the records office knows.**"
+"**Two of them are running and three of them are not, and I can be held to all five of them and not to the sixth.** The one at the bus turning head takes money in a slot and a bucket comes off a chain and you wash it and hang it back, and I have never seen a name anywhere near it, and that is the one I would sign. The school wall one is a timer and a quarter to eight and forty minutes and then it is a pipe, and the children get theirs before most people are up, and that is the other one I would sign. The market one has a tap on a post and it only runs when somebody has paid for the water, and nobody has paid for it since the Friday of the twenty-eighth of November, and the man who carries the water in a bowser is the man you are, and I know that because it is in a minute and the minute is public. The trough by the lock-ups has been frozen since about the twenty-second of December and a trough is not going to be anything else in February. **And the one by the yard has been a dry tap since the summer, and there is a person who is not a party and no answer has been received from anybody, and that is in a file, and the file is the whole of what the records office knows.**"
 
 She wrote a date on the top of a slip and turned it round and put it on the counter.
 
@@ -88,7 +90,7 @@ There is no scheme. There is no form and no form number and no box for his name 
 
 **And it cannot be argued with, because there is nothing in it to argue with.** That is the point and Calder has said it five times in the same order since April: a document nobody can be held to is not a safer document, it is only a document that has not been argued with yet, and the day it is argued with is the only day that matters. It will be argued with. Any person may come back to that counter on any morning and say *the state of the market standpipe is not that*, and be right, and be argued with, and get a second date.
 
-**And the man does not get his Tuesday back. The water still costs him four pounds a bucket and his man on the bowser is still not on anything and is still paid out of a pocket on a Friday, and the trough is still frozen and the tap by the yard is still dry, and the man who turns the bucket on the board of forty slots is still not findable from any record in this city, and a person who is not counted is not a person who is helped, and this chapter has not argued with that sentence and is not going to.**
+**And the man does not get his Tuesday back. The water still costs him four pounds a bucket and his man on the bowser is still not on anything and is still paid out of a pocket on a Friday, and the trough is still frozen and the tap by the yard is still dry, and the man who turns the bucket on the board of forty slots is still not findable from any record in this city, and a person who is not counted is not a person who is helped, and nothing in nine months has argued with that sentence, and nothing in a vestibule eleven feet by nine is going to.**
 
 He took the slip and put it in his bag and said, "That is the first time anybody has told me anything in this borough that I could put in a van."
 

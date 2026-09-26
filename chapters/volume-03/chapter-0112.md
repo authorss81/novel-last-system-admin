@@ -1,12 +1,12 @@
 # Chapter 0112 — Two Lines On A Thursday
 
-**Thursday the eighteenth of December 2014, ten past two in the afternoon, a corridor outside the housing office, and then a room with a book in it.**
+**Thursday the eighteenth of December 2014, about ten past two in the afternoon, a corridor outside the housing office, and then a room with a book in it.**
 
 There is a room off that corridor with a table down the middle of it and about nineteen folding chairs and a window that does not open, and on the table there is a book.
 
 **Every written question in that borough goes in that book and every answer gets read.** That is not a policy anybody decided. It is what the book is, and it has been since before anybody in this account was on it, and the reason it matters this week is that the book has a column in it for the person who read the answer aloud, and that person is a woman of about sixty called Doreen Whitlock who has been doing it for eleven years, and she reads every answer in the voice she reads everything, which is a voice that does not know it is a voice.
 
-Jonas Mercer had asked his one question in that corridor, at four minutes past two, and it was five words, and it was: **"Who reads the answers out."**
+Jonas Mercer had asked his one question in that corridor, at about ten minutes past two, and it was five words, and it was: **"Who reads the answers out."**
 
 "I do," said Doreen Whitlock, without looking up. "It is in the book. It is a column. You get used to being a column."
 
@@ -16,17 +16,17 @@ Jonas Mercer had asked his one question in that corridor, at four minutes past t
 
 ---
 
-**He had not warned her. That was the decision and he had made it on a pavement in November and written it down and then written down, later, that it was the one that was going to cost the most.**
+**He had not warned her. That was the decision, and he had made it on a pavement in November, and he wrote it down there, and a fortnight later he wrote down under it that it was going to be the one that cost the most.**
 
 Marguerite Oyelaran is forty-seven and is the chief officer of an association with four blocks and a hundred and twenty-eight rooms and no assistant and four thousand three hundred and sixty-one pounds and sixty pence on no form at all, and she was in that room, on the attendance, because she answers for her four blocks, and she was at the third chair on the left with a folder in front of her that was about two inches thick.
 
-He had met her twice. He had not telephoned her five times. Both of them had said in public that the not-telephoning is permanent, and he had taken that as a rule because it is easier to hold a rule than a preference, and in November he worked out standing on a pavement that it is not a rule, it is a preference, and he is the only person in this city it is available to.
+He had met her twice. **The not-telephoning has been said in public by both of them and he has never once broken it, and neither has she.** He had taken it as a rule, because it is easier to hold a rule than a preference, and in November he worked out standing on a pavement that it is not a rule, it is a preference, and he is the only person in this city it is available to.
 
 **He stood at the back on the left with nothing in his hands, the way he has stood in every room since the nineteenth of June, and he was not on the agenda, not a party, not a member and not a departmental officer, and no instrument in the room required anybody to say so, and the woman who keeps the minutes for that other body was not in this room and had no reason to be, because the two sets of minutes in this borough are kept by two different people in two different buildings and neither of them has ever known the other exists.**
 
 ---
 
-The item came at about twenty past two, and it was item seven, and there were three on the agenda, and the chair did not hurry it, because the chair never hurries an item, and there is a clock in that room that is four minutes fast and everybody in it except the chair knows it.
+The item came at about half past two, and it was item seven, and there were three on the agenda, and the chair did not hurry it, because the chair never hurries an item, and there is a clock in that room that is four minutes fast and everybody in it except the chair knows it, and the book is written from the chair's clock and not from the wall.
 
 "Seven. Housing office correspondence, received answers."
 
@@ -78,7 +78,7 @@ Nobody argued with her. It is a correspondence item and there is no power in tha
 
 **And that is the whole of what she did, and it was the right thing, and it is the worst thing that could have happened to her, and the two of those are not different and Jonas Mercer knew both of them at the same time standing at the back on the left with nothing in his hands.**
 
-She had just put the word *scope* into a second public record. In four months there will be two pieces of paper in two buildings that say her four blocks were not looked at by anybody in any document in nine years, and she will be able to hold them up side by side, and she will be able to produce them at a hearing without a lawyer, and she will be able to hand one to a journalist.
+She had just put the word *scope* into a second public record. There are now two pieces of paper in two buildings that say her four blocks were not looked at by anybody in any document in nine years, and she will be able to hold them up side by side, and she will be able to produce them at a hearing without a lawyer, and she will be able to hand one to a journalist.
 
 **And in exchange she has told a room of nineteen people that she disputes it, on the record, on a Thursday, with a date on it, and a person who has disputed a thing in public on a date is a person who has an opinion, and an opinion is findable, and in about four years that is exactly what somebody is going to want: a chief officer with a known position, on a known date, who can be asked to produce the thing her position is based on.**
 
@@ -90,7 +90,7 @@ And the thing her position is based on is a hundred and twenty-eight rooms and a
 
 "…and the return, enclosures, one to four."
 
-"Four enclosures," said Doreen Whitlock, and she was already turning, and Jonas Mercer did not move and did not speak and did not use a question, because he had spent it in the corridor at four minutes past two and he was not going to spend it twice.
+"Four enclosures," said Doreen Whitlock, and she was already turning, and Jonas Mercer did not move and did not speak and did not use a question, because he had spent it in the corridor at about ten minutes past two and he was not going to spend it twice.
 
 Enclosure three was the association's return on a form the housing office had sent in June and had chased in September. It had a box on it that said *number of dwellings in the association's charge* and the box was not empty, and the number in it was one hundred and six.
 
@@ -106,7 +106,7 @@ Enclosure three was the association's return on a form the housing office had se
 
 One hundred and six was in a ring-number box in May and she had given it to somebody who had not asked her for a list, because a ring-number box is a thing a person can hold up and a list is a thing a person has to make. Ninety-two was in August and she gave that one on purpose, having worked out that if a number is going to be public it should be one she has chosen, because a number she has chosen is a number she can be held to and a number that was taken off her is a number somebody else can use. **The difference between them is not fourteen dwellings. It is a floor she has moved in four months, and it may be a floor and it may be two floors and it may be nothing at all, and the only honest answer is that she does not know and has not decided and has refused to say.**
 
-**And there is now a fourteen in a company file and a fourteen in a borough record, in a book in a room, on a Thursday in December, in a column with a woman's name against it in the question column, and a number of fourteen in a housing file reads as fourteen households and is not fourteen anything, and must never be worked into one, and there is no form anywhere on which anybody could write *this is not fourteen households*.**
+**And there is now a hundred and six in a housing file and a hundred and six in a borough record, in a book in a room, on a Thursday in December, in the same book and on the same page as the question she asked in June, and a number of fourteen in a housing file reads as fourteen households and is not fourteen anything, and must never be worked into one, and there is no form anywhere on which anybody could write *this is not fourteen households*.**
 
 She said one thing about it and it is the last thing she said in that room.
 
@@ -118,11 +118,11 @@ And the chair said, "That concludes it," and moved to the next item.
 
 They finished at about ten past three, and there was a cup of tea, and Jonas Mercer did not have it, and Doreen Whitlock poured him one anyway and put it down at the end of the table with the sugar on the side and did not say a word about it.
 
-Marguerite Oyelaran went out first, with the folder, at about six minutes past three, and she did not speak to him in the corridor and he did not speak to her and he was not going to, and she has not telephoned him five times and he has not telephoned her, and that is a Tuesday, meaning that nothing moves on it and nobody is required to move anything, and it is also the only thing he has got to offer her.
+Marguerite Oyelaran went out first, with the folder, at about six minutes past three, and she did not speak to him in the corridor and he did not speak to her and he was not going to, and the rule held again, and a rule that holds twice is a Tuesday: nothing moves on a Tuesday and nobody is required to move anything, and it is also the only thing he has got to offer her.
 
-**He stood in the corridor for about four minutes and then went and did four hours of something else.**
+**He stood in the corridor for about four minutes and then went and did about three hours of something else.**
 
-At about half past six he wrote it on the back of the fourth envelope, in a hand that is not his best, and it is the second thing in the pad in three weeks that is longer than a sentence, and he did not cross any of it out.
+At about a quarter past six he wrote it on the back of the fourth envelope, in a hand that is not his best, and it is the second thing in the pad in three weeks that is longer than a sentence, and he did not cross any of it out.
 
 > *Thursday 18 December, the housing office corridor. Half past two, item seven, a book in a room.*
 > *The answer is two lines and it says the word scope and it is true and the company that wrote it paid nine thousand pounds for the privilege of being able to write it.*
@@ -133,6 +133,6 @@ At about half past six he wrote it on the back of the fourth envelope, in a hand
 
 ---
 
-**And on the Friday morning the twentieth of December the register of narrowings had nineteen entries on it and the blank line under the nineteenth was blank, and it had been blank since the twenty-sixth of November, and it was the fourth week of December, and in this borough a public board that nobody is required to look at does not stay still for very long, and it had stayed still for three weeks and eight days, and there was a woman in a records office who had said out loud twice that if anybody ever uses that board against anybody they will not use the meter room, they will use the bulb.**
+**And on the Friday morning the nineteenth of December the register of narrowings had nineteen entries on it and the blank line under the nineteenth was blank, and it had been blank since the twenty-sixth of November, and it was the third week of December, and in this borough a public board that nobody is required to look at does not stay still for very long, and it had stayed still for three weeks and two days, and there was a woman in a records office who had said out loud twice that if anybody ever uses that board against anybody they will not use the meter room, they will use the bulb.**
 
-**On Monday the twenty-second of December somebody put a sheet of A4 on the counter at that office, in an envelope, with a request on it, and it was the fourth request anybody had made of that board in a year and it was the first one that asked for a box.**
+**On Monday the twenty-second of December somebody who is not a records officer put a sheet of A4 on the counter at that office, in an envelope, with a request on it about the board, and it went back in the same envelope with nothing written on it. Nobody at the counter wrote anything down about the fact that it had come in, because nobody was required to, and because a person is not required even to be told. And in the Friday morning post of the second of January there was going to be another envelope on that counter, from a man of sixty-one who had asked at the counter once before, and that one was going to be about a column, and a column is a box that has learned to write, and it is going to be refused, and it is not going to be the eighth of anything.**

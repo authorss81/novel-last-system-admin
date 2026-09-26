@@ -36,15 +36,9 @@ He went to the building in Gantry Ward at about half past two on the Monday. **H
 
 He counted the routes, because counting them is what he does instead of doing them.
 
-**One.** The switchboard. That is a person, in a room, with a list, and the list has a date on it, and in about four years that is a switchboard log with a call from a man who said a name.
+The switchboard is a person in a room with a list, and the list has a date on it. The team answers to somebody, and going to a team is going to a manager, and a manager has a diary. The post arrives at that building in a rack and somebody signs for it. And the reporting officer number is the worst of them, because the number is not Achebe's, it is his own, and it is on a piece of paper a man of forty-four signed in ninety seconds — and if anybody rings that number and asks who wrote six words and a manager lodges on the twenty-second of March, they will get the number and not the man, and then they will find the man, and the man is in this corridor.
 
-**Two.** The team. Field services answers to somebody. Going to a team is going to a manager, and a manager has a diary, and a diary is a document.
-
-**Three.** The post. It arrives at the building, in a rack, and somebody signs for it, and the somebody is a person.
-
-**Four.** The reporting officer number. That is the worst of the four, because the number is not Achebe's, it is Jonas Mercer's, and it is on a piece of paper that a man of forty-four signed in ninety seconds, and if anybody rings that number and asks who wrote six words and a manager lodges on the twenty-second of March, they will get the number and not the man, and then they will find the man, and the man is in this corridor.
-
-**Five,** and he wrote it down afterwards and not at the time: the thing he had never once thought about, which is that an apology, said in a corridor, in about forty seconds, to a man in his own doorway, is the cheapest and smallest thing in the world, and that a doorway is not a room, and that he has been to one doorway this year and it went badly and cost a woman of seventy-two the only thing she had left.
+**There is a fifth thing, and he wrote it down afterwards and not at the time,** which is that an apology, said in a corridor, in about forty seconds, to a man in his own doorway, is the cheapest and smallest thing in the world, and a doorway is not a room, and he has been to one doorway this year and it went badly and cost a woman of seventy-two the only thing she had left.
 
 He did not use the keypad. He did not telephone. **He did not ask his one question, because there was nobody there to ask it of, and the counting has been right in every chapter of this year and it is going to stay right.**
 
@@ -90,7 +84,7 @@ Beatrice Osunde did not say anything for about four seconds, and she picked up t
 
 ---
 
-**He wrote it down on the Wednesday morning, on the bench, in the shop, in a pad he had not opened for a fortnight, and he wrote the reason and not the apology, and that distinction is the whole of the chapter:**
+**He wrote it down on the Wednesday morning, on the bench, in the shop, on the back page where he keeps the things that are his, and he wrote the reason and not the apology, and that distinction is the whole of the chapter:**
 
 > *Wednesday 24 December, the shop. I am not going to see Royden Achebe and the reason is on the sheet in front of me and I am writing the reason because Bea Osunde told me a pad is for your own protection and not for the other person, and she is right, and I have been writing things down for other people since the third of April.*
 > *It has to be said in a room. There is no room in this borough in which it can be said that does not also become a record, and the only kind of room left is somebody's kitchen, and I have not got one and I am not entitled to one.*
@@ -110,8 +104,8 @@ She said, when he told her on the Wednesday: "**That is what a pad is for.** You
 
 **And three, and he is the one nobody in this borough talks about, and he is not a wall and he is not a door.** A man of forty-eight did a verification every week for about eleven weeks in the autumn, on his own time, with no name against it, and stopped in October, and the reason he stopped is in a corridor in August in his own words, which is that a job in November has a department in it and a department is a rota. **He said that in August, in a corridor, to about four people, and it was correct, and he has not been asked about it since, and nobody has rung him, and there is an autumn compliance report out with a paragraph number on it in front of four hundred and twenty women, and the paragraph number is about a machine on level zero.**
 
-**All three of them said no. Two of them said no in a form. One of them said no in a tray and did not know what he had said no to, and one of them said no in a corridor on a Tuesday in August and has not been asked about it since, and a fourth thing in this account that a person has been put into that they cannot get out of has happened, and three of those four are his, and it is not a document, and he is not going to do a fifth.**
+**All three of them said no and each of them said it in the correct place for it: the first in ninety seconds on a form with a man's hand on it, the second out loud in rooms to about nine people on a Friday in November, and the third in a corridor on a Tuesday in August to about four people, and nobody has asked the third one about it since. A fourth thing in this account that a person has been put into that they cannot get out of has happened, and three of those four are his, and it is not a document, and he is not going to do a fifth.**
 
 ---
 
-**And it is December, and the term at Saint Orra west is going to expire at six o'clock on Sunday morning in eleven days, and the eleven o'clock to half past one gap is still published and still unfilled, and there is a man in a building in Gantry Ward who has a fortnight somewhere in this city with a bucket under a tap, and in January it will be four degrees, and nobody in this borough is allowed to ask him whether he has got a coat.**
+**And it is December, and the term at Saint Orra west is going to expire at six o'clock on Sunday morning in six days, and the eleven o'clock to half past one gap is still published and still unfilled, and there is a man in a building in Gantry Ward who has a fortnight somewhere in this city with a bucket under a tap, and in January it will be four degrees, and nobody in this borough is allowed to ask him whether he has got a coat.**

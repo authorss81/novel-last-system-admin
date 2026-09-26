@@ -2,7 +2,7 @@
 
 **Saturday the third of January 2015, four minutes to ten at night, the corridor outside level two, Saint Orra west.**
 
-**Jonas Mercer was four hundred yards away, on foot, and he was not going to come, and the reason is the reason and not a rule, and it took him about eleven seconds standing in the rain at the bottom of a service road where there is no pavement.**
+**Jonas Mercer was four hundred yards away, on foot, and he was not going to come, and none of that was a rule, and deciding it took him about eleven seconds standing in the rain at the bottom of a service road where there is no pavement.**
 
 If he is in that corridor at ten o'clock on the last night before a term expires, then for the rest of his life there is a version of that corridor with him in it. And the two people who do it — and they will do it, because they do it, because that is the thing they do — will be able to say *he was there*. And a thing that two tired people can say in about four years is a rota with one name on it, and that is the exact object he has spent eight months refusing to be, and it cost a bank four tonnes of stone to know it.
 
@@ -28,7 +28,7 @@ The one that had been read at ten o'clock last night began at seven o'clock this
 
 There was a light on in the corridor and there were two people in it, and neither of them was on anything, because there is nothing to be on.
 
-**EZRA MBEKI, who has been in and out of that building since 1992 and who is one of four people in this city who could read a handover aloud, and TREVOR NUNN, 61, a night porter, twenty-two years, who is not on a roster because the roster does not exist.**
+**EZRA MBEKI, who has been in and out of that building since 1992 and who is one of four people in this city who could read a handover aloud, and TREVOR NUNN, 58, a night porter, nineteen years, who is not on a roster because the roster does not exist.**
 
 Neither of them had seen Jonas Mercer and neither of them was looking for him. Trevor Nunn was sitting in one of the four chairs with his coat on over his uniform. Ezra Mbeki was standing at the wall where the board is.
 
@@ -86,7 +86,7 @@ There is no document about Saturday the third of January. There is no minute, be
 
 ---
 
-**It is January. The second half of the volume opens here, and the volume's question is a service floor and not a corridor, and nobody has built one yet.**
+**And this is the smallest room in the city doing anything at all, and it is a corridor with four chairs in it, and the thing this borough has not got is a service floor, which is a different kind of room altogether and costs money that nobody has.**
 
 **The terms are six days. They have been six days since the first week of April. The rota has still not been rebuilt. The gate still runs on its local term and it cannot be renewed by the department, by a contractor, by a manager or by a rule mender with civic standing and no grade, and it cannot be renewed at all except by two people standing in a waiting area with four chairs and a machine for hot water that has not worked since August, at ten o'clock at night, on a Saturday, because nobody wrote a date on anything and therefore nobody has to turn up, and they turn up.**
 

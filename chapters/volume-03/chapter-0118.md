@@ -2,7 +2,7 @@
 
 **Thursday the twenty-second of January 2015, about four in the afternoon, a corridor, second floor, the civic offices.**
 
-**He has asked Frances Tolley nine questions about documents since March and got the same no every time, and on the twenty-sixth of November she said no before he had said what the question was, and gave the reason, and the reason was a pattern and not a fault, and he has written it down twice.**
+**He has asked Frances Tolley nine questions about documents since March and been refused four of them, and on the twenty-sixth of November she said no before he had said what the question was, and gave the reason, and the reason was a pattern and not a fault, and he has written it down twice.**
 
 She was on her way to open a room and she had a lever-arch file under her arm and she stopped about four feet away when she saw who it was, and she did not put the file down.
 
@@ -16,7 +16,7 @@ She was on her way to open a room and she had a lever-arch file under her arm an
 
 "Five."
 
-"**Four about a document and one in a corridor in November before you had said what it was, and I want to correct something you have got wrong in your own pad, which is that you have written down twice that I gave you a reason, and I did not give you a reason the second time. A reason is a thing you give once. The second time it is a policy and I am not a policy.**"
+"**Three about a document and one in a corridor in November before you had said what it was, and this is the fifth, and I want to correct something you have got wrong in your own pad, which is that you have written down twice that I gave you a reason, and I did not give you a reason the second time. A reason is a thing you give once. The second time it is a policy and I am not a policy.**"
 
 "I wrote that you gave me a reason and that it was a pattern and not a fault. That is what you said."
 
@@ -44,11 +44,11 @@ She stopped walking.
 
 "And so nobody can check."
 
-"**Nobody can check and nobody can say I have not, and I would not want them to be able to, and the price of that is that on any given Tuesday in this borough nobody in the world can tell whether a reading rule was read in a corridor at a counter in Kestrel Hill or in Tideglass, including me.**" She stopped at the door. "**That is what a corridor is for, by the way. You have been asking me that for five months. A corridor is the only place in this borough that has no minute in it, no agenda, no box, no name, no gallery and no publication, and a rule is a door, and a door in a corridor is a door that can be opened by a person on her own time for a person who turns up, and there is no other room in this city where that sentence is true.**"
+"**Nobody can check and nobody can say I have not, and I would not want them to be able to, and the price of that is that on any given Tuesday in this borough nobody in the world can tell whether a reading rule was read in a corridor at a counter in Kestrel Hill or in Tideglass, including me.**" She stopped at the door. "**That is what a corridor is for, by the way. You have been asking me that since June. A corridor is the only place in this borough that has no minute in it, no agenda, no box, no name, no gallery and no publication, and a rule is a door, and a door in a corridor is a door that can be opened by a person on her own time for a person who turns up, and there is no other room in this city where that sentence is true.**"
 
 ---
 
-**And that is what happened on the Tuesday, or the Thursday, or a Tuesday in January, and nobody knows which, and nobody is going to be told, and there is no date on it anywhere.**
+**And that is what happened on a day in January, and nobody knows which day, and nobody is going to be told, and there is no date on it anywhere.**
 
 It is in a corridor at the records counter, second floor, at about eleven in the morning on a day in January, and it took about eleven seconds, and it is the only time in this account that a rule of a Committee has been used, and it was used wrongly, deliberately, by a clerk of sixty-one who announced it on a hill in November and told nobody she was going to and told a man in a shop in June that she had never done anything like it.
 
@@ -60,7 +60,7 @@ She does not know whether it worked.
 
 ---
 
-**Jonas Mercer found out on Thursday the twenty-second of January at about eleven in the morning, because a man of forty-four said four words at a counter to somebody else.**
+**Jonas Mercer found out five hours earlier the same day, at about eleven in the morning, before any of the above, because a man of forty-four said four words at a counter to somebody else.**
 
 He had been at the counter with nothing in his hands and had not spent a question, because it was a Thursday and the extract had come on Monday and he had come for something else, and Peter Naylor came in at about a quarter past eleven, which is not a time anybody at that counter is expecting a man of forty-four who is not on the rota to be, and he put a hand on the counter to ask a question about a different thing entirely and the woman at the counter answered him, and he said:
 
@@ -80,7 +80,7 @@ He did not ask it.
 
 **He wrote it down on the Friday, the twenty-third, on the bench, in the shop, in about four minutes, and Bea Osunde was cutting a piece of ash and did not read it over his shoulder, which is the reason he writes there.**
 
-> *Thursday 22 January. A corridor, then a counter, then the shop on Friday.*
+> *Thursday 22 January. A counter at about eleven, then a corridor at four, then the shop on Friday.*
 > *I did not ask. That is the fifth time and I have now stopped keeping a list of the times, which is the only progress I have made in eight months.*
 > *The sheet is in her inside pocket. It has been there since the fifth of November. Forty-one minutes each way on a Tuesday, on her own time, in the wind, at sixty-one, and nobody knows and nobody is to know, and she has now said the price out loud to me in a corridor, which she had not done before, and she did it because I asked her whether it was still there and the answer to that is yes and the answer costs forty-one minutes a week forever.*
 > *She did it. Once. In a corridor, at a counter, in about eleven seconds, to a man of forty-four who does not know what any of the words mean, who has never known, and who was not told he was in them, and who said four words this morning at that counter that I am not going to write down in this pad because four words said at a counter by a man who came in for something else is the only thing in this year that has arrived without a document.*
