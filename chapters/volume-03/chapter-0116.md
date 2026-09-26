@@ -76,7 +76,7 @@ Yolanda Fofana said: "**Nobody is going to ask you. And that refusal is the same
 
 "**Mr Mercer.**" A man near the back. "You are the only person in this room who is good at this. **Is this a seventh shape?**"
 
-And Jonas Mercer, against the left-hand wall, with nothing in his hands, said two things in that room that afternoon and neither of them was a question. The first was seven words long and went past. The second was the seventeenth, and he said it because he was the only person in the room who had spent eight months on the difference between a shape and a person, and he had not been asked to.
+And Jonas Mercer, against the left-hand wall, with nothing in his hands, said the only thing he said in that room that afternoon, and he said it because he was the only person in it who had spent eight months on the difference between a shape and a person, and he had not been asked to, and it was seventeen words, and it was not a question.
 
 "**A shape has to have a place you can point at. That has a person in it.**"
 

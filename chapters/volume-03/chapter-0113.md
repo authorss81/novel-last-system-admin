@@ -36,9 +36,15 @@ He went to the building in Gantry Ward at about half past two on the Monday. **H
 
 He counted the routes, because counting them is what he does instead of doing them.
 
-The switchboard is a person in a room with a list, and the list has a date on it. The team answers to somebody, and going to a team is going to a manager, and a manager has a diary. The post arrives at that building in a rack and somebody signs for it. And the reporting officer number is the worst of them, because the number is not Achebe's, it is his own, and it is on a piece of paper a man of forty-four signed in ninety seconds — and if anybody rings that number and asks who wrote six words and a manager lodges on the twenty-second of March, they will get the number and not the man, and then they will find the man, and the man is in this corridor.
+**One.** The switchboard. That is a person in a room with a list, and the list has a date on it.
 
-**There is a fifth thing, and he wrote it down afterwards and not at the time,** which is that an apology, said in a corridor, in about forty seconds, to a man in his own doorway, is the cheapest and smallest thing in the world, and a doorway is not a room, and he has been to one doorway this year and it went badly and cost a woman of seventy-two the only thing she had left.
+**Two.** The team. Field services answers to somebody, and going to a team is going to a manager, and a manager has a diary.
+
+**Three.** The post. It arrives at that building in a rack and somebody signs for it, and the somebody is a person.
+
+**Four.** The reporting officer number. That is the worst of the four, because the number is not Achebe's, it is his own, and it is on a piece of paper a man of forty-four signed in ninety seconds — and if anybody rings that number and asks who wrote six words and a manager lodges on the twenty-second of March, they will get the number and not the man, and then they will find the man, and the man is in this corridor.
+
+**Five,** and he wrote it down afterwards and not at the time, and it is the thing he had never once thought about, which is that an apology, said in a corridor, in about forty seconds, to a man in his own doorway, is the cheapest and smallest thing in the world, and a doorway is not a room, and he has been to one doorway this year and it went badly and cost a woman of seventy-two the only thing she had left.
 
 He did not use the keypad. He did not telephone. **He did not ask his one question, because there was nobody there to ask it of, and the counting has been right in every chapter of this year and it is going to stay right.**
 
@@ -108,4 +114,4 @@ She said, when he told her on the Wednesday: "**That is what a pad is for.** You
 
 ---
 
-**And it is December, and the term at Saint Orra west is going to expire at six o'clock on Sunday morning in six days, and the eleven o'clock to half past one gap is still published and still unfilled, and there is a man in a building in Gantry Ward who has a fortnight somewhere in this city with a bucket under a tap, and in January it will be four degrees, and nobody in this borough is allowed to ask him whether he has got a coat.**
+**And it is December, and the term at Saint Orra west is going to expire at six o'clock on Sunday morning in eleven days, and the eleven o'clock to half past one gap is still published and still unfilled, and there is a man in a building in Gantry Ward who has a fortnight somewhere in this city with a bucket under a tap, and in January it will be four degrees, and nobody in this borough is allowed to ask him whether he has got a coat.**
