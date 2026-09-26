@@ -2,9 +2,9 @@
 
 On Sunday the eighth of June Jonas Mercer did four things and none of them was preparation.
 
-He got up at half past six. He walked to the shop because it is forty minutes and it was already twenty-six degrees at seven. He rebolted a bracket on the shop's own riser cabinet that had worked loose in May, and he did it well, and it took eleven minutes. And then he sat on the crate in the yard with the pad in his pocket and did not take it out, for about fifty minutes, while Bea Osunde cut a length of two-inch galv pipe at the bench and did not speak to him, and then he got up and went and held one end of it while she rolled it round, which is a thing you can do and which does not require a conversation.
+He got up at half past six. He walked to the shop because it is forty minutes and it was already twenty-six degrees at seven. He rebolted a bracket on the shop's own riser cabinet that had worked loose in May, and he did it well, and it took about ten minutes. And then he sat on the crate in the yard with the pad in his pocket and did not take it out, for about fifty minutes, while Bea Osunde cut a length of two-inch galv pipe at the bench and did not speak to him, and then he got up and went and held one end of it while she rolled it round, which is a thing you can do and which does not require a conversation.
 
-The temperature had been below twenty-seven for four days after the twenty-ninth of May and above it every day since Thursday the fifth. Monday the ninth was the fourth consecutive day, which put it eleven days into the run and about nine days past the return date that a laminated card in a civic office said was the fourth of August, which was the fourteenth of August, which was a date on a card in a drawer in a records office and had never been read out loud.
+The temperature had been under twenty-seven for the four days after the twenty-ninth of May and over it every day since Thursday the fifth, which made Monday the ninth the fifth day of a run, and there was a laminated card in a civic office with a return date on it of the fourth of August, which was fifty-six days off, and the card went into a drawer on the second floor of that building on Monday, and nobody has read it out loud to anybody.
 
 At about eleven he said, “Do you want to say anything about Monday.”
 
@@ -20,31 +20,29 @@ He did not bring anything.
 
 The room was on level two at Saint Orra west, off the corridor, with nine chairs round one side of a table and a whiteboard that had not been written on since 2012, and at ten o'clock on the morning of Monday the ninth of June **Dr Sanaa Iqbal** took the chair at the head of it because she had signed the renewal clause in the first week of April and she was the only person in this city who could chair a review of it and she had not asked anybody whether she could.
 
-On the table: the five lines of the care entrance plate as they had read on the second of April, the card table log for April and May in a plastic wallet, the rota board in its acrylic with a gap in it, a red diary, and a printed agenda of one page with four items on it, one of which was **standing item: is the structure a rota, and if it is not, what is it** and had been on the page since the eighth of May.
+On the table: the five lines of the care entrance plate as they had read on the second of April, the card table log for April and May in a plastic wallet, a photograph of the rota board in its acrylic with a gap in it, taken on Friday afternoon by a doctor standing up in a corridor, a red diary, and a printed agenda of one page with four items on it, one of which was **standing item: is the structure a rota, and if it is not, what is it** and had been on the page since the eighth of May.
 
-**Ruth Nwosu.** She reads them out loud, and she has a red diary in her bag and a nineteen-year memory of a handover, and she has said no four times in five weeks to being asked anything about a date, and she is on this because she is on the roster.
+They came in the way people come into a thing that has been put on a whiteboard, one at a time, and nobody looked at anybody else.
 
-**Ezra Mbeki**, twenty-six, on since the second of April, doing the two-to-ten as well as the handover, and he has read the five lines back twice at every handover since the third of April because he does not trust the first time, and he is on the roster.
+Ruth Nwosu was first, at about ten to ten, with a red diary in her bag and a nineteen-year memory of a handover, and she has said no four times in five weeks to being asked anything about a date, and she is on this because she is on the roster. Mina Okafor was already at the card table and came up with it, nine years at that card table, and she reads things back and writes down who put a piece of paper up and at what time, and everything she gets handed goes into a plastic wallet.
 
-**Bram Osei**, who has refused a Thursday since the first week of March, whose refusal is on the board in the corridor in his own words at his own insistence, and who came, and who is on the roster.
+Ezra Mbeki came in at five to ten. He is twenty-six, he has been on since the second of April, and he does the two-to-ten as well as the handover, and he has read the five lines back twice at every handover since the third of April because he does not trust the first time. Bram Osei came in with his coat already off and put his chair at the end of the table and not in the middle. He has refused a Thursday since the first week of March, his refusal is on the board in the corridor in his own words at his own insistence, and he came, and he is on the roster.
 
-**Priya Ranganathan**, forty-one, part-time, on the west roster as a named on-call clinician since the second of May, two days a week until Friday the thirty-first of May, and since Friday a name on a list with no money against it, and a daughter of eleven, and who came on her own time on a Sunday after a late shift.
+Priya Ranganathan came on her own time, on a Sunday after a late shift, forty-one, with a daughter of eleven, and she has been a named on-call clinician on the west roster since the second of May, two days a week, and since Friday she is a name on a list with no money against it.
 
-**Gunnar Halvorsen**, nineteen years in post, who has a budget, four nodes, a fee, a hole in a rota, twenty minutes a week with nobody against it, a decision on a Thursday, and no assistant.
+Gunnar Halvorsen came in with a folder and without an assistant, nineteen years in post, and he has a budget, four nodes, a fee, a hole in a rota, twenty minutes a week with nobody against it, and a decision on a Thursday.
 
-**Mina Okafor**, nine years at the card table, who reads things back and writes down who put a piece of paper up and at what time.
+Yvonne Amoah came in eleven minutes early and asked the only question anybody asked before ten o'clock, which was whether the words *at the time* were going to be in the minute, and was told that they were going to be in the minute whether she asked for them or not. She is forty-one and she has been the Saint Orra ambulance duty officer for eleven years, and she is the second bearer of the west lane, and she is the only person in the room who has ever demanded that wording.
 
-**Yvonne Amoah**, forty-one, eleven years as the Saint Orra ambulance duty officer, and the second bearer of the west lane, and the only person in the room who has ever demanded the wording *at the time*.
-
-**Fiona Grieve**, fifty-two, trust governance and quality, who has come because the minutes of this have to go into a file somewhere and the file has an owner, and who said at the start that she is not on the roster and has no standing to say anything and will only speak if the chair asks her, and the chair asked her once, and she said *nothing*.
+Fiona Grieve came last and sat down and said, before she had taken her coat off, that she was not on the roster and had no standing to say anything and would only speak if the chair asked her. She is fifty-two and she is trust governance and quality and she is here because the minutes of this have to go into a file somewhere and the file has an owner.
 
 And at the back, on a chair against the wall that had come from the corridor, Jonas Mercer, with nothing in his hands.
 
 ---
 
-She did not open with a summary and she did not open with a finding. She opened by putting the acrylic rota board on the table face up and saying:
+She did not open with a summary and she did not open with a finding. She opened by putting the photograph face up on the table and saying:
 
-“This is the third of June. That is the board as it stood on the third of June and it has not been written on since the ninth of May, in this building, by me, in my own hand, and that is the first item and it is the only item I am going to speak to for about twenty minutes, and I want to say before I start that I am not going to defend it.
+“That is the board as it stood on Friday, and it has not been written on since the ninth of May, in this building, by me, in my own hand, and that is the first item and it is the only item I am going to speak to for about twenty minutes, and I want to say before I start that I am not going to defend it.
 
 “The finding of this review, which I have already written and which is one sentence, is this. **The renewal clause has not failed because it was badly written. It has failed because a rota does not exist.**
 
@@ -60,15 +58,17 @@ Nobody contradicted her.
 
 “And then the other half, and I have saved this one because it is the one that matters and it is the one that nobody in this city will say out loud for about a year.
 
-“**The same structure that failed is the structure that kept the door open for forty hours.**
+“**The forty hours are the failure, and I want that said first and in those words.** A clause that needs two people in a corridor at ten at night went forty hours without either of them — from six o'clock on the morning of Tuesday the fifteenth of April to ten o'clock on the night of Wednesday the sixteenth — and there was a woman of eighty-four in bay six for the whole of it, and a man of eighty-one who wanted his own sheets, and about forty other people who came into a building that had been told in writing by a price list that it was no longer connected to anything. That is what forty hours is. It is not a story and it is not a finding. It is a number of hours, and I signed the clause.
 
-“Not despite. Because of. I want to be exact, because I know what is coming and I would like to have said this first. Nobody could have opened that door at twenty to five on the third of April with a piece of paper. Not the department, not CivicCore, not a register of attachment, not a man off a register, not me. It opened because a night orderly of twenty-nine who was not on anybody's rota wrote four words in nine seconds in biro on the back of a laundry delivery note so that a mortuary gate would not narrow down to its own maintenance, and a registrar of sixty-one declined to strike them in ninety seconds on a telephone, for the correct reason, which was that striking them would have emptied the field and the maintenance on a mortuary gate is a man with a key.
+“**And on the night of Wednesday the twenty-third of April, eight days later, the same structure did the other thing, and nobody has written that down either, because it did not cost anything.**
+
+“Not despite. Because of. I want to be exact, because I know what is coming and I would like to have said this first. Nobody could have opened that gate with a piece of paper. Not the department, not CivicCore, not a register of attachment, not a man off a register, not me. It opened at about twenty to twelve on a Wednesday night because a night orderly of twenty-nine who was not on anybody's rota wrote four words in nine seconds in biro on the back of a laundry delivery note so that a mortuary gate would not narrow down to its own maintenance, and a registrar of sixty-one declined to strike them in ninety seconds on a telephone, for the correct reason, which was that striking them would have emptied the field and the maintenance on a mortuary gate is a man with a key.
 
 “That is the whole of the design. Two strangers doing the correct enormous thing for no reason, and neither of them knowing the other existed, and a piece of paper between them with a laundry number on it.
 
 “**And a witness arrangement is a promise made by people who are tired at ten at night.** That is the only kind of promise anybody in this city has ever been able to make. I have been on the other side of it — I have signed a clinical declaration in a car park for a registrar, and I have put my name in a fallback clause in a plate knowing that one day it will ring me in a resuscitation room, and I have done both of those things and I would do them again.
 
-“So if anybody in this room, or in this city, or in a committee in six months, is going to propose replacing this with something that is not made by tired people at ten at night, then they need to read April first, and they need to read it properly, and not the finding, and not the recommendation. The forty hours. That is what it was for. It was not for anybody in this room. It was for a woman of eighty-four and a man of eighty-one and about forty other people who arrived in a building that had been told in writing by a price list that it was no longer connected to anything.
+“So if anybody in this room, or in this city, or in a committee in six months, is going to propose replacing this with something that is not made by tired people at ten at night, then they need to read April first, and they need to read it properly, and not the finding, and not the recommendation. The fifteenth of April and the twenty-third of April. One of them is what it cost and one of them is what it is for, and they are the same clause, and a person who has only read the first of them has worked out nothing at all.
 
 “And I will not be doing the second half of my job if I stop there, so here is the second half, and it is the part that is going to be uncomfortable, and it is about me.”
 
@@ -159,7 +159,7 @@ Then he went downstairs and sat on the front steps in thirty degrees with the pa
 
 He wrote four lines instead, at the bottom of a different page, and they are the last four lines he wrote in the first week of June, and nobody in this city read them until the summer.
 
-> *The practice held the door for forty hours. The practice is four tired people making a rota out of nothing on a Friday, and it is not a service, and it cannot be made into one, and it is not going to last.*
+> *The practice failed for forty hours and then it held a mortuary gate open for nothing. It is four tired people making a rota out of nothing on a Friday, and it is not a service, and it cannot be made into one, and it is not going to last.*
 > *Everything anybody in this city has agreed to do about water, about heat, about a form, about a tier, about a name, and about a door has been correct, and the district has still run out of water, and it is going to run out again, and in six weeks somebody is going to price it.*
 > *So the question, in the only words I have got: can a city keep a shared service floor when urgent access is legally priced — and when a resident refuses the price, who pays for the refusal?*
 > *The man in a kitchen at the top of a slipway knows the answer and has said she would rather be the bad refusal on a board than the good one on a form. There is nobody else in this city who has said anything about it, and I have not asked her, and I am not going to.*

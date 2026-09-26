@@ -30,7 +30,7 @@ They were on the same table by half past ten, and Nina Calder had laid them out 
 
 The thing that made it a fact rather than an argument was on the shelf.
 
-Nina Calder pulled the folder of answered returns off the shelf above the printer and put the twenty-second of May on the table, and it was the fourth return, and on the ninth line, in her own handwriting, in biro, at the bottom of the ninth line and not at the bottom of the page, there was a word.
+Nina Calder pulled the folder of answered returns off the shelf above the printer and put the twentieth of May on the table, and it was the fourth return, and on the ninth line, in her own handwriting, in biro, at the bottom of the ninth line and not at the bottom of the page, there was a word.
 
 Jonas Mercer read it and did not say anything about where the word came from or who had said it first, because it was on a form with a date on it and it was a week old and it was hers, and there was nothing on that page that was his.
 
@@ -44,7 +44,7 @@ Jonas Mercer read it and did not say anything about where the word came from or 
 
 “**It means that for eight days this city has had a public obligation with no date on it.** The chair said *by the next sitting*. There is no next sitting. Nobody has set one. So a determination that requires every party holding continuity in this city to answer a form, in public, on a form, by a date that does not exist, is not a thing with a deadline. It is a thing that is now in the room, in everybody’s post, and nobody has to receive it, and nobody can fail to receive it, and the obligation is discharged — when it is discharged — by the act of answering and not by anybody receiving the answers.
 
-“Nobody has to be in a room. A clerk does not have to sit in a room with a table and a stack. The answers arrive at a counter. And every one of them is a document that has been made public by being answered, and there are nine on the board and I put the ninth one there myself with a pin on the eighteenth of April and it is a piece of paper in the rain under a canopy.”
+“Nobody has to be in a room. A clerk does not have to sit in a room with a table and a stack. The answers arrive at a counter. And every one of them is a document that has been made public by being answered, and there are nine on the board and I put the ninth one there myself, on my own, on the Saturday night, with a drawing pin, and I have never told anybody in this building that I did it, and it is a piece of paper in the rain under a canopy.”
 
 She squared the two forms against the rule.
 
@@ -132,6 +132,6 @@ And she spent Friday morning doing the thing that had arrived, which was telepho
 
 ---
 
-And on the Friday morning at about eleven o'clock, in a room in Gantry Ward, a man with nine hundred words of a report in it was going to have to file the report on a piece of ground he could not reach, and Jonas Mercer was going to be in the lowland chamber at eleven o'clock on the Friday morning because Emeka Rusk had rung him at ten past eight and said the screens were worse and he wanted somebody in the chamber who was not him.
+And on the Friday morning at about eleven o'clock, in a room in Gantry Ward, a man with nine hundred words of a report in it was going to have to file the report on a piece of ground he could not reach, and Jonas Mercer was going to be in the lowland chamber at eleven o'clock because Emeka Rusk had rung him at ten past eight and said the screens were worse and he wanted somebody in there who was not him.
 
-Which he was. And he went, and did not ask, and did not say that he was going, and did not say that he would not be able to come out of the chamber before half past twelve, and Royden Achebe filed his report on time with nobody from this account in the room, which is the correct arrangement and which had been arranged that way on Wednesday without either of them saying so.
+Which he was. And he went, and did not ask, and did not say that he was going, and did not say that he would not be able to come out of the chamber before half past twelve. Which was the arrangement, and it had been made on the Wednesday afternoon in about nine words on a telephone, and neither of them had said out loud at the time that he was arranging it, and neither of them says so now.

@@ -22,7 +22,7 @@ She listened to the whole of it standing up with her back against the dresser an
 
 “No.”
 
-“You did not ask me, and you did not ask Ottie, and you did not ask Bo, and you went into a room with forty-one chairs in it and you read a number out that prices six water points, and one of the six is the stand at the top of this slip, and the man who read it out said in the same breath that the Committee is not going to make a person at six water points on a lowland and would like it minuted that she was asked to and declined in the only words available.”
+“You did not ask me, and you did not ask Ottie, and you did not ask Bo, and you went into a room with forty-one chairs in it and you read a number out that prices six water points, and one of the six is the stand at the top of this slip, and the chair who read it out said in the same breath that the Committee is not going to make a person at six water points on a lowland and would like it minuted that she was asked to and declined in the only words available.”
 
 “Yes.”
 
@@ -32,7 +32,7 @@ She listened to the whole of it standing up with her back against the dresser an
 
 “And the second one is that **I am not angry with you**, and I want that said out loud in a kitchen, because you are going to go away from here and do something with it and I would rather you did not.
 
-“You did the thing you said you would do. I asked you for a sentence and you went and found where a sentence had been printed on a plate in four rooms in this borough and you took it to a chair. I would have said no. I have said no to you three times and I would have said no again, and my no would have been eleven words and it would not have been in a minute, and in September when somebody comes with a piece of paper and a date, the sentence on the paper will be mine and it will have been in a room.
+“You did the thing you said you would do. I asked you for a sentence and you went and found where a sentence had been printed on a plate in four rooms in this borough and you took it to a chair. I would have said no. I have said no to you three times and I would have said no again, and my no would have been ten words and it would not have been in a minute, and in September when somebody comes with a piece of paper and a date, the sentence on the paper will be mine and it will have been in a room.
 
 “So there it is. That is the whole of what I have got and I have had it ready since the twentieth of May and I have not been able to use it because you have not been in this kitchen since the thirtieth of April, and I have been aware for thirteen days that the not coming was the politest thing you have ever done and it has cost me thirteen days of not knowing.”
 
@@ -72,7 +72,7 @@ Ronan Vasquez, forty-eight, estates office, Saint Orra west, eleven years in pos
 
 ---
 
-He had come at a quarter past ten on his own time, and he had a folder, and he had not been asked, and he said so in eleven seconds, and then he did not say anything else for about six minutes while Frances Tolley explained the mechanism.
+He had come at a quarter past ten on his own time, and he had a folder, and he had not been asked, and he said so in about ten seconds, and then he did not say anything else for about six minutes while Frances Tolley explained the mechanism.
 
 Frances Tolley is the committee clerk of the Standing Committee on Civic Continuity and has been for twenty-two years, and she had found it in about an hour and a half on the Friday, in the 2008 regulations, and she had it on a piece of paper because she had copied it out by hand, which she said was because she did not trust herself not to improve it.
 
@@ -122,7 +122,7 @@ Nobody said anything for about eleven seconds.
 
 “He is right,” said Frances Tolley, and she wrote it down, and then she said, without looking up: “Chair, if I am going to put this to her, I need to know what I put. Because if the reason is *we cannot afford it*, that is a minute, and I can minute a reason and I have minuted worse. And if the reason is what the registrar has just said, then that is a finding about the standing orders and about section eleven, and it goes to the committee as a committee matter and not as a scheme, and it will be reported on at a sitting that has not been dated, and the fourteen of us will still be post.”
 
-“The chair will hear of it,” said the member's aide on the telephone, from a desk in the Old Ward, in a voice that had been asked a question and was answering it in about nine seconds. “The chair's position, which I have been given and which I am reading: **the chair will not constitute a body on a Sunday, and will not constitute one on the strength of a permissive power found in a corridor on a Friday afternoon, and will say so in writing if anybody puts it in writing.**”
+“The chair will hear of it,” said the member's aide on the telephone, from a desk in the Old Ward, in a voice that had been asked a question and was answering it in about nine seconds. “The chair's position, which I have been given and which I am reading: **the chair will not constitute a body at all on the strength of a permissive power found in a corridor on a Friday afternoon, and will say so in writing if anybody puts it in writing.**”
 
 “Then write it down,” said Oren Pell. “That is the second useful thing anybody has done in this room in nine days and it has been done by a woman reading down a telephone.”
 
@@ -142,7 +142,7 @@ She wrote it. It took eleven seconds.
 
 ---
 
-They got up at about half past eleven, and it took twenty minutes, and Marguerite Oyelaran went out first because she had a thing at two, and the estates officer went second because he had a van, and Raynor-Hale went and left a laminated card on the table, which he said was for the room and not for anybody in it, and which said **HEAT PROTOCOL — ACTIVATED 26/05 — RETURN BY 04/08** in eleven words and a room number in the civic offices, and nobody picked it up for about ninety seconds, and then Nina Calder picked it up and put it in a drawer, and said, “That is the first thing anybody has put in a drawer in this room in three weeks and it is going in a drawer because it is the only correct place for it.”
+They got up at about half past eleven, and it took twenty minutes, and Marguerite Oyelaran went out first because she had a thing at two, and the estates officer went second because he had a van, and Raynor-Hale went and left a laminated card on the table, which he said was for the room and not for anybody in it, and which said **HEAT PROTOCOL — ACTIVATED 26/05 — RETURN BY 04/08** in seven words and a room number in the civic offices, and nobody picked it up for about ninety seconds, and then Nina Calder picked it up and put it in a drawer, and said, “That is the first thing anybody has put in a drawer in this room in three weeks and it is going in a drawer because it is the only correct place for it.”
 
 Nina Calder said the last thing.
 

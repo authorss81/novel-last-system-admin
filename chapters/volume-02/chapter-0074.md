@@ -12,7 +12,7 @@ Above the gauge, on the wall of the chamber, on a plate that has been there sinc
 
 Jonas Mercer read it standing up in a chamber at thirty-one degrees with the tide coming up the lowland behind him, and then he read it a second time, and then he took the pad out of his coat and wrote the date on a page and did not write anything else on the page, because there was nothing else on the page that was true yet.
 
-The duty is Royden Achebe's. Since eight o'clock on Sunday the eighteenth of May, at eight in the evening, in a garden in Tideglass, with a lemon tree in a pot and a witness reading it in his own words, it has been Royden Achebe's in his own name on the interim lowland maintenance post, and the claim is unpaid, and the party that pays for the spur does not answer for it, and there is a word NIL in the second witness line that has not stopped being true since it was typed.
+The duty is Royden Achebe's. Since about eight in the evening on Sunday the eighteenth of May, in a garden in Tideglass, with a lemon tree in a pot and a witness reading it in his own words, it has been Royden Achebe's in his own name on the interim lowland maintenance post, and the claim is unpaid, and the party that pays for the spur does not answer for it, and there is a word NIL in the second witness line that has not stopped being true since it was typed.
 
 And Royden Achebe was, at ten to nine on the morning of Saturday the twenty-fourth of May, forty minutes away in a room in Gantry Ward with a report open in front of him that is due on Thursday the twenty-ninth, and which is going to say that a chamber and a bank are not maintainable, that four tonnes of stone and a sill beam are owed, and that the burden should be released.
 
@@ -30,7 +30,7 @@ Jonas Mercer telephoned him at nine minutes past nine.
 
 Jonas Mercer said, “Understood,” and put the telephone in his coat, and then stood in the chamber for a while and did the thing he had come down to do, which was to look, because looking is his trade and looking is free.
 
-The screens were silted. They had been silted since the twenty-ninth of April. The water in the chamber was at the level it comes to on a big spring tide and the tide was due on the twenty-eighth and there is no such thing as a station four miles away that will tell him what the water is going to do on the twenty-eighth at this end of it, and he stood and looked at about eleven minutes' worth of it, and then he did the other thing, which was to get his pad out and read the claim back.
+The screens were silted. They had been silted since the twenty-ninth of April. The water in the chamber was at the level it comes to on a big spring tide and the tide was due on the twenty-eighth and there is no such thing as a station four miles away that will tell him what the water is going to do on the twenty-eighth at this end of it, and he stood and looked at about ten minutes' worth of it, and then he did the other thing, which was to get his pad out and read the claim back.
 
 > **CLAIM: the holder inspects the outfall and screens after any restriction on the supply, and stands the restriction down, and enters the fault. THE CLAIM IS UNPAID AND THE PARTY THAT PAYS FOR THE SPUR DOES NOT ANSWER FOR THIS.**
 
@@ -99,8 +99,9 @@ It took about eleven seconds and Nina Calder wrote it down as she heard it, whic
 
 He read it back. She typed it. She read the typed version out. He agreed with it.
 
-And then at about eleven o'clock that night, in a room in Gantry Ward with a report open on a table, Royden Achebe read the two entries on the same file and said the thing that Jonas Mercer wrote on a page at about half past eleven at night and did not put in the shop book and has not shown anybody.
+And then at about eleven o'clock that night, in a room in Gantry Ward with a report open on a table, Royden Achebe read the two entries on the same file and said the thing that Jonas Mercer wrote on a page at about half past eleven at night, in his own words and not the man's, and did not put in the shop book and has not shown anybody:
 
-He said: *in August somebody will ring him about a Tuesday. The man who will ring him is me. And he has got until then to work out whether he is going to be the one who answers, and I have not got the right to be angry with him whatever he decides, because I asked him in a corridor for eleven hours of his life and he gave it, and gave it correctly, and I am the one who is going to ring.*
+> *That somebody will ring Jonas Mercer in August about a Tuesday. That the man who will ring him is Royden Achebe. That Mercer has until then to work out whether he is going to be the one who answers, and that Achebe has not got the right to be angry with him whatever he decides, because he asked him for eleven hours of his life and he gave it, and gave it correctly, and Achebe is the one who is going to ring.*
+> *That he has known it since the eighteenth of May. That he has had five days to work out what to do about it and there is nothing, and there is not going to be anything, and the only thing left in this account that is actually his to do about it is to be the one who rings, and he is not going to pretend to anybody that he is calling about a screen.*
 
-*I have known that since the eighteenth of May. I have had five days to work out what to do about it and there is nothing, and there is not going to be anything, and the only thing left in this account that is actually mine to do about it is to be the one who rings, and I am not going to pretend to anybody that I am calling about a screen.*
+Above the first line, in the margin, he had written *corridor*, because it is the word his hand reaches for when he is writing about Achebe and it is nearly always wrong, and he struck it out, because it was a garden, and because he was not going to get that wrong either.

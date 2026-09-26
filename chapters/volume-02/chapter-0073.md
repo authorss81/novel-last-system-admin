@@ -4,7 +4,7 @@ On Thursday the twenty-second of May, Jonas Mercer was at the River Stacks shop,
 
 There is a particular kind of discipline in not going somewhere. It is not the same as the discipline of going. It has no moment in it. He got up at half past six because he always did, and he walked to River Stacks because it is a forty-minute walk, and he spent the day on a cabinet in the corner of the shop that had a fault in it that he had been putting off since February on the grounds that it was not urgent, and on Thursday it was thirty degrees in the yard by ten o'clock and the cabinet was in the shade and it was not going to get better.
 
-Bea Osunde was at the long bench with a plate in a vice and a length of two-inch galv pipe in a vice next to it, and she did not look up when he came in, and at about eleven she said, without any preamble at all:
+Bea Osunde was at the long bench with a plate in a vice and a length of two-inch galv pipe in a vice next to it, and she did not look up when he came in, and a little before midday she said, without any preamble at all:
 
 “He will have done it in a corridor and it will have taken six minutes and it will have changed nothing, and you will not find out until tomorrow, and I have nothing to do with it and I want that said out loud in this yard before the day starts.”
 
@@ -22,7 +22,7 @@ At half past four the telephone rang and it was Mina Okafor from the card table 
 
 “I was not in the corridor,” she said. “I want that first because you will ask me and I would rather you had it. I was at the card table from seven and I am at the card table now and there is a queue at my end and I have about ninety seconds so I am going to say the shape and then you are going to ask me one question and I am going to answer it and then I am going to go back to my queue.
 
-“The shape is: four people in that corridor at about eleven o’clock this morning for about six minutes, near the plate, and one of them was not one of us, and the other three were, and I counted them because counting heads and minutes is what I do and I have been doing it since 2016.
+“The shape is: four people in that corridor at about eleven o’clock this morning for about six minutes, near the plate, and three of them were on the roster and one of them was not, and none of them was there at ten at night, because I do not read the handover either and I have never once been in that corridor at ten in nine years. And I counted them because counting heads and minutes is what I do and I have been doing it since I was twenty-two.
 
 “The one thing I know is this. At about ten past twelve Ruth Nwosu came to the card table and put a piece of A5 down on it with the word *unscheduled* on it in capitals and nothing else on it, and she said, and I am giving you her words and not mine: *if you see a man with a date on the back of his hand, put it in the box, and do not put a name on it.* And I said what date. And she said that was hers to give and not mine to ask after.”
 
@@ -85,3 +85,13 @@ He did not sit down.
 “He is protecting the refusal,” said Tomas Renn. “Those are not the same thing and in about four years they are going to be the same thing, and that is the whole of what he has ever been on this board for, and I have never once been able to say so to him, and I have had four months.”
 
 He went out into a yard at thirty degrees and opened the shop.
+
+Bea Osunde had the tide table open on the bench under a piece of offcut, three spring tides on it inside four days — the twenty-eighth and the twenty-ninth of May and the first of June — and she did not look up.
+
+“You read that in a drawer yesterday,” she said. “You have not written it anywhere since.”
+
+“No.”
+
+“You are not going to.”
+
+“No,” said Jonas Mercer, and unrolled the canvas on the bench, and Bea Osunde put the offcut back on the tide table, and neither of them said anything else about it.

@@ -2,7 +2,7 @@
 
 The notice was on a piece of A4 with a council crest on it in a typeface of about 2011, and it had gone up on the frame of the Old Ward public notice board on the morning of Monday the nineteenth of May while forty-one people were sitting in committee room two with the door shut, and it was still there on the Tuesday morning at twenty past nine with a drawing pin through the top corner and one corner curling off the board because of the sun coming off the bridge.
 
-Jonas Mercer read it standing up, with his bag at his feet, in about ninety seconds, because he had read it on the Monday and had spent Monday afternoon and Monday evening and most of Sunday not reading it.
+Jonas Mercer read it standing up, with his bag at his feet, in about ninety seconds, because he had read it on the Monday and had spent Monday afternoon and Monday evening and both halves of Sunday not reading it.
 
 > **BOROUGH HEAT THRESHOLD PROTOCOL — ACTIVATION ON THREE CONSECUTIVE DAYS AT 27°C OR ABOVE. FROM THE DATE OF ACTIVATION, RESIDENTIAL CARE PREMISES ARE REQUIRED TO CONFIRM OCCUPANCY AND A NAMED RESPONSIBLE PERSON FOR EVERY ADDRESS IN THEIR CUSTODY. ENQUIRIES: [a number].**
 
@@ -30,11 +30,13 @@ Jonas Mercer asked the one question he had come in with.
 
 “Where is the station.”
 
-“The saltmarsh. Four miles and a bit. It is the only station in this borough with a continuous daily record going back to 1974, so it is the designated station, and that is in the protocol, and I have asked twice whether a second station could be named and I was told that a threshold that moves is not a threshold.” Raynor-Hale put the folder back in the sleeve. “The reading at the saltmarsh at four o'clock yesterday was twenty-eight point one. The reading at the Old Ward bridge at the same time, which I took off the top of the public box with a thermometer my own mother gave me, was thirty. **The borough is on its second day. Carrow Lane has been over twenty-seven for two days already and it will be over twenty-seven tomorrow and the day after that, and on Friday the protocol activates, and the thing it activates is a form.**”
+“The saltmarsh. Four miles and a bit. It is the only station in this borough with a continuous daily record going back to 1974, so it is the designated station, and that is in the protocol, and I have asked twice whether a second station could be named and I was told that a threshold that moves is not a threshold.” Raynor-Hale put the folder back in the sleeve. “The reading at the saltmarsh at four o'clock yesterday was twenty-eight point one. The reading at the Old Ward bridge at the same time, which I took off the top of the public box with a thermometer my own mother gave me, was thirty. **The borough is on its second day. Carrow Lane has been over twenty-seven for two days already and it will be over twenty-seven tomorrow and the day after that, and if the saltmarsh holds it across the weekend then the protocol activates on Monday morning, and the thing it activates is a form.**”
 
 “You have taken a reading with your mother's thermometer.”
 
-“I have taken about forty of them, since Saturday, in a car park, at four o'clock, on the bridge and in front of a betting shop on Carrow Lane, and there is nowhere to put them, and that is not a complaint, that is the finding.” He closed the bag. “There is no form for it. There is a protocol that says the heat has started and there is a thermometer in a car park that says it started three days earlier, and in September somebody is going to produce the protocol and somebody else is going to produce a number off the internet, and both of them will be right, and the people who are in the middle of the difference will not be in either document.”
+“I have taken about forty of them, since Saturday, in a car park, at four o'clock, on the bridge and in front of a betting shop on Carrow Lane, and there is nowhere to put them, and that is not a complaint, that is the finding.” He closed the bag. “There is no form for it. There is a protocol that says the heat has started and there is a thermometer in a car park that says it started three days earlier, and in September somebody is going to produce the protocol and somebody else is going to produce a number off the internet, and both of them will be right, and the people who are in the middle of the difference will not be in either document.
+
+“And I will tell you the other half of it, because you have come in with a question and I have got a month of this. The saltmarsh has been under on eleven days in May and over on eleven and the middle days are the ones that decide this city, and the thirty degrees on that bridge on Friday was a number in a car park, and if Monday is the day the protocol fires then it will be because four miles of estuary did what four miles of estuary has done every May since 1974, and not one person in this borough will have been in a position to notice either fact.”
 
 ---
 
@@ -56,15 +58,15 @@ Jonas Mercer stood in the doorway, because there was one chair and the desk and 
 
 “You have had that since Monday,” he said.
 
-“Since about ten past nine on Monday, and it was on my desk when I came in at half past seven, and it came in a plastic wallet with twenty-six other sheets and it is the only one of the twenty-six I have read twice.” She turned the sheet round and pushed it two inches towards him, which was an offer and not an invitation. “I did not ring anybody. I have had it for thirty-one hours and I have not rung the number and I have not rung that trade desk that rang me on the second of May and told me my morning was gone, and I want you to hear the reason from me before you decide what it is.”
+“Since about ten past nine on Monday, and it was on my desk when I came in at half past seven, and it came in a plastic wallet with twenty-six other sheets and it is the only one of the twenty-six I have read twice.” She turned the sheet round and pushed it two inches towards him, which was an offer and not an invitation. “I did not ring anybody. I have had it for twenty-seven hours and I have not rung the number and I have not rung that trade desk that rang me on the second of May and told me my morning was gone, and I want you to hear the reason from me before you decide what it is.”
 
 “All right.”
 
-“I have been waiting nineteen days to find out whether anybody in this city would ask me a question before they asked me a question about me,” said Marguerite Oyelaran.
+“I have been waiting eighteen days to find out whether anybody in this city would ask me a question before they asked me a question about me,” said Marguerite Oyelaran.
 
 She said it flatly, and then she picked up a pencil and put it down again without marking anything, and looked at the board on the wall behind the door, which was the one she had written the six water points on on the twenty-eighth of April, and which had a £11,280 on it in her own hand that was now in a minute in a building four miles away with a chair's name attached to it.
 
-“Nineteen days is from the second of May, and the second of May is the morning a man rang the borough association of housing officers and asked me to confirm the number of my stock by the afternoon of the same day, and I spent the morning on the telephone telling him that my morning was gone. And on the fifth of May a man I have never spoken to rang that same desk and asked them whether a housing association was a residential care premise under the heat protocol, and the desk did not ring me, because he did not ask them to ring me, and they did not think of it, because it was a Wednesday and they had twenty other things.
+“Eighteen days is from the second of May, and the second of May is the morning a man rang the borough association of housing officers and asked me to confirm the number of my stock by the afternoon of the same day, and I spent the morning on the telephone telling him that my morning was gone. And on the fifth of May a man I have never spoken to rang that same desk and asked them whether a housing association was a residential care premise under the heat protocol, and the desk did not ring me, because he did not ask them to ring me, and they did not think of it, because it was a Wednesday and they had twenty other things.
 
 “And on the nineteenth of May a chair in the Old Ward read out a number that I wrote on a wall in this room, in this room, in front of you, on the twenty-eighth of April at about ten past eleven in the morning, and you gave it to her at ten to eight on the Monday morning, and I was in the gallery and I heard her say it, and I have not been able to work out since Monday whether I would rather you had asked me or whether I would rather you had not.
 

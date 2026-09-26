@@ -8,9 +8,9 @@ Jonas Mercer got in on Wednesday the twenty-first of May at about ten past ten i
 
 **2.** There is no key. There has never been a key to that cupboard in the twenty-two years anybody in this building can remember, and the reason there is no key is that the cupboard has never been locked, and the reason it has never been locked is that when it was last closed somebody could not find the key, and that has been true long enough that a brass tag with a date on it is the most official-looking object in the room.
 
-**3.** The plate is on the wall of the meter room at eye height, and it is the Carrow Lane plate, and it has four lines on it now.
+**3.** The plate is on the wall of the meter room at eye height, and it is the association's own plate, bought with four meters in 2004, and it has four lines on it now.
 
-He read the four lines standing up, the way you read a thing you have read three times.
+He read the four lines standing up, the way you read a thing you have read three times, and he understood where they had come from, because he had watched the thing happen three times since March: the drawing layer in the Old Ward basement will put a line onto any plate it can find a frame for, it does not need a party and it does not need a reason and nobody in that basement has been asked to keep a list, and a housing association that bought a tier in March is a service district as far as that machine is concerned, and a plate inside a service district is a plate.
 
 > *A TIER MAY BE CHALLENGED BY A SERVICE DISTRICT OR BY A NODE IN THE SAME TIER. IT MAY NOT BE CHALLENGED BY A PERSON.*
 >
@@ -42,7 +42,7 @@ And a notice that cannot be wrong about an empty building, he thought, standing 
 
 Marguerite Oyelaran did not want any of it looked at, and she said so in a corridor at half past eleven with the door of the meter room open behind her and a person she had not authorised standing in the room.
 
-“I have known about that stopcock since the twenty-ninth of April,” she said. “I have known about it since a letter came, and I have known about the cupboard since 1998 because the tag in it says 1998 and my predecessor put a note about the tag in the file in 2016 and the file has been in a carrier bag since 2019.
+“I have known about that stopcock since the twenty-ninth of April,” she said. “I have known about it since a letter came, and I have known about the cupboard since 1998 because the tag in it says 1998 and my predecessor put a note about the tag in the file in 2001 and the file has been in a carrier bag since 2004.
 
 “And I am not going to have it looked at, and I want you to understand that this is not guilt. It is the other thing. The day I look at it is the day it is a record, and it is already a record — it is on your plate and it is in my log and it is on Nina Calder’s form with my name on the line. And if somebody comes into my meter room with a camera, then I have got a photograph of a meter room with a council crest on the wall, and a crest on a wall is the beginning of a circular, and I have got two of those in eleven years and one of them cost a friend of mine a job and the other one cost me four hundred and twenty pounds and a year of somebody’s wages.
 
@@ -62,7 +62,7 @@ The person standing in the meter room was the freeholder's agent, and she had co
 
 ---
 
-They went round the back at about half past one on the Thursday.
+They went round the back at about half past one on the Wednesday.
 
 The standpipe at the end of the lane is a fifty-millimetre galvanised riser with a tap at knee height and a bucket on a string, and it is fed from a main that belongs to nobody who has ever come and looked at it, and on the twenty-first of May at half past one in the afternoon it was at the end of its flow, running about a mouthful every forty seconds, and there were nine households' worth of empty buckets and two trugs lined up against the wall, and the trugs belonged to a man who was not on the rota and had not been asked and had brought them anyway.
 

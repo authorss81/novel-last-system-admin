@@ -1,6 +1,6 @@
 # Chapter 0077 — The Report on 6-L/14
 
-The report was filed at eleven o'clock on Thursday the twenty-ninth of May in a room in Gantry Ward with two doors, and there was nobody from this account in it, which was the correct arrangement and which had been arranged on Wednesday in about nine words on a telephone between two men who have never been in a room together.
+The report was filed at eleven o'clock on Thursday the twenty-ninth of May in a room in Gantry Ward with two doors, and there was nobody from this account in it, and two men who have never been in a room together each found out at the same time on the Friday morning that the other one had kept to it.
 
 Jonas Mercer was in a chamber on the lowland at eleven o'clock on the twenty-ninth of May, with a torch in his left hand and a tide coming up behind him, because Emeka Rusk had rung the shop at ten past eight and said the screens were worse and he wanted somebody in the chamber who was not him, and Jonas Mercer had got on a bus.
 
@@ -33,25 +33,27 @@ Jonas Mercer read those four lines standing in a chamber on the lowland at about
 
 ---
 
-What the report does not contain, and it took three people and eight weeks to get it that way, is the point of the whole thing.
+The eleven pages have no people in them. Not one resident of the Weir, not one name, not one household, not one count, not one address, not one reference to a stand, a stair, a bench, a tin, a tap, a bucket, a path, a letter, a bicycle, or a woman of sixty-three with an opinion. They are about a chamber, a trap, a flap gate, a sill beam, four tonnes of stone, a level, a date, and a man.
 
-**There is not one resident of the Weir in it. Not one name, not one household, not one count, not one address, not one reference to a stand, a stair, a bench, a tin, a tap, a bucket, a path, a letter, a bicycle, or a woman of sixty-three with an opinion. There are no people in it at all.** The eleven pages are about a chamber, a trap, a flap gate, a sill beam, four tonnes of stone, a level, a date, and a man.
+He had been sitting in the van doorway with a bag of gravel at his feet for about four minutes by then, and he said the obvious thing.
 
-And getting it to that state was not luck. It was three decisions by three people, made in three rooms, in eight weeks, and not one of them made for the purpose of writing a good report.
+“You have written nine hundred words about a piece of ground you have never stood on,” he said. “So tell me how a man with no standing got a report about a place that nobody maintains.”
 
-**The first was a registrar in an office on the eighteenth of April**, who read a condition line into a public record because the law required him to make a record of the state of a node, and put under it, for the file and not for any person, the sentence that the condition line on 6-L/14 was available to be recorded on the first of April and was not. Nobody has ever been asked to explain that sentence and it is the reason there is a document in this city that describes a piece of ground as it actually is, and it is four lines long and it is in a minute, and the fourth line is an accusation with no name in it.
+“Three decisions,” said Royden Achebe. “In three rooms, in eight weeks, by three people, and not one of them made for the purpose of writing a good report. I have thought about that more than I have thought about the bank.
 
-**The second was a service manager on the first of April**, who took an interim post in nine words on a telephone from a yard in Gantry Ward because a department cannot hold a plate, and who said then, and says now, that he would rather have had it before the post, and who has spent eight weeks writing nine hundred words about a piece of ground he has not been able to reach, and who is going to keep the burden for the rest of his working life because a burden cannot be refused.
+“The first was a registrar in an office on Friday the eighteenth of April, who read a condition line into a public record because the law required him to make a record of the state of a node, and put under it, for the file and not for any person, the sentence that the condition line on 6-L/14 was available to be recorded on the first of April and was not. Nobody has ever been asked to explain that sentence. It is the reason there is a document in this city that describes a piece of ground as it actually is, and it is four lines long and it is in a minute, and the fourth line is an accusation with no name in it.
 
-**The third was a probationary grade three technician on the fourteenth of March, in a records room, in a hurry, with a question mark after 6-L/14 on a piece of paper, who wrote six words into a field because the field would not take blank and there was nowhere else to put them:**
+“The second was me, and I am going to say this part exactly. The Assembly made the post on the first of April at two o’clock, in a room, and I stood up in it and said *mine*, because a department cannot hold a plate and a man can, and because I would rather have had it before I had the post. Then on the eighteenth of April a registrar attached a piece of ground I cannot reach to that post, and he telephoned me, and I said yes in nine words out of a yard in Gantry Ward because I was standing beside a lorry, and then I said the other thing, which was that I would rather have had it before I had the post, which I have now said twice. Eight weeks of nine hundred words about a piece of ground I have not been able to reach. I am going to keep the burden for the rest of my working life, because a burden cannot be refused by the person holding it.
+
+“The third was not mine, and it has never been mine, and I have never asked him about it. Six words went into a field on the fourteenth of March, in a records room, in a hurry, by a probationary grade three technician who had a question mark after 6-L/14 on a piece of paper, because the field would not take blank and there was nowhere else to put them:
 
 > **NON-CIVIC PLANT**
 
-Six words. Written in eleven minutes. And at the Reclamation Season maintenance review they were accepted, and the acceptance was recorded as *6-L/14 accepted as non-civic plant, no civic claim attaching to the chamber or the bank*, and Jonas Mercer was in that room and said true evidence out loud and said nothing about this, deliberately, on the same afternoon, and has not been asked to unwrite them by anybody, and nobody in this city knows that they are his.
+“Six words. In eleven minutes. And at the Reclamation Season maintenance review they were accepted, and the acceptance was recorded as *6-L/14 accepted as non-civic plant, no civic claim attaching to the chamber or the bank*, and the man who wrote them was in that room and said true evidence out loud and said nothing about this, deliberately, on the same afternoon, and has not been asked to unwrite them by anybody. **I lodged them on the twenty-second of March under his reporting officer number and I have known since the day I did it, and I have not asked him about it, and I am not going to.**
 
-**No civic claim attaches to the chamber or the bank.** That sentence is the reason a service manager could report in the first person and in the plainest words that a chamber and a bank are not maintainable and that the burden should be released. If there had been a civic claim on it, he would have had to name the claim, and the claim is a street, and a street is a location of record, and a location of record is a survey, and a survey is a count, and a count is the price.
+“Why that matters to my report. **No civic claim attaches to the chamber or the bank.** That sentence is the reason I was able to report in the first person and in the plainest words that a chamber and a bank are not maintainable and that the burden should be released. If there had been a civic claim on it, I would have had to name the claim, and the claim is a street, and a street is a location of record, and a location of record is a survey, and a survey is a count, and a count is the price.
 
-**And the six words are also the reason nobody can pay the four tonnes of stone and the sill beam.** No civic claim attaches, so there is nobody to be invoiced, so the £1,180 in that one useful line cannot be put on anybody's schedule, because a continuity fee buys a node and this is not a node; it is not maintainable; it has no term; and it is not on a map, and there is no map, and there is no form, and there is no address.
+“**And it is also the reason nobody can pay for the four tonnes of stone and the sill beam.** No civic claim attaches, so there is nobody to be invoiced, so the thousand one hundred and eighty pounds in that one useful line cannot be put on anybody’s schedule. A continuity fee buys a node and this is not a node. It is not maintainable, it has no term, it is not on a map, there is no map, there is no form, and there is no address.”
 
 ---
 
@@ -113,4 +115,6 @@ One said: *a node with no term in force is not disconnected, it is deferred, and
 
 The other said: *the structure is not maintainable and the burden should be released and it cannot be.*
 
-Both of them were true. Both of them were about the same bank. One of them was from the eighteenth of April and one of them was from the twenty-ninth of May, and they were in two drawers, in two buildings, on two files, and **there is no rule anywhere in this city that anybody has to read both, and neither file knows the other exists, and no person is required to be in the way.**
+Both of them were true. Both of them were about the same bank. One of them was written on the eighteenth of April and one of them on the twenty-ninth of May, and they are in two drawers in two buildings on two files, and neither drawer has ever been opened by anybody who knew the other drawer existed, and there is no person in this city who is required to be in the way.
+
+**And that is not an oversight in the design. That is the design.**
