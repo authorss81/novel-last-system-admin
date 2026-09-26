@@ -38,15 +38,19 @@ She had been on since about eight and she finished at about half past four on Mo
 
 "**All right.**"
 
-"**Because here is what I have worked out and I cannot get anybody else to work it out. The building knows I read it. That is it. That is all it took. I telephoned them on the Thursday and I said one sentence and the woman who took the call said thank you, and now a building in this city knows that there is a person in it who reads what is in trays, and nobody asked her to write it down, and she wrote it down anyway, because that is what a building does with a thing that has been said to it in daylight.**"
+"**Because here is what I have worked out and I cannot get anybody else to work it out. I telephoned them on the Thursday and I said one sentence and the woman who took the call said thank you, and I have been sitting with that sentence ever since, and the thing I cannot get past is what a building does with a sentence that has been said to it in daylight.**"
 
-"**She wrote it down.**"
+"**What does it do.**"
 
-"**Somewhere. Not necessarily on me. But the sentence is in the building. And the sentence is *a person called in and said she had read the thing off the tray*, and that sentence has a space in it where a name goes, and nobody has put a name in the space, and the space is there, and the space is the problem, and the space will be there in August.**"
+"**I think it writes it down.**"
+
+"**Nobody can tell you that.**"
+
+"**No. And that is the whole of it. If it is in there somewhere then what is in there is *a person called in and said she had read the thing off the tray*, and that sentence has a space in it where a name goes, and nobody has put a name in the space, and the space is there, and the space is the problem, and the space will be there in August. And if it is not in there then I have spent eleven days being frightened of a piece of paper that does not exist, and I have told nobody that, and from where I am standing the two of those are the same, because from where I am standing there is no way to tell which one I am.**"
 
 "**So you are findable.**"
 
-"**I am findable. And being findable is not the same as being owed. I have worked that out since the twenty-fourth of June and I have not been owed anything once.**"
+"**I am findable. And being findable is not the same as being owed. I have worked that out since the twenty-fourth of June and I have not been owed anything once. And I am not doing this because I know it is in there. I am doing it because I cannot get anybody to tell me that it is not.**"
 
 ---
 
@@ -88,7 +92,7 @@ A shop is not a person. That is true and it is why she did it.
 
 **And the sentence that will get said is *there is a woman who sorts the bins on that street, she does not want to be found*, and that sentence is a person, and a person is findable, and she has put herself in a document in a shop on a street, in her own handwriting, with a shop's telephone number on it, and nobody will ever be able to prove whose handwriting it is.**
 
-She is the person who read a page off a tray because she was in a room for twenty minutes with nothing to do, and she has spent three weeks being right about everything, and the price of being right out loud in a building is that the building has got a person in it that it can go to, and there is no instrument in this city that can stop a building remembering a person, and she is the one who has just handed it a telephone number.
+She is the person who read a page off a tray because she was in a room for twenty minutes with nothing to do, and she has spent three weeks being right about everything, and the price of being right out loud in a building is that from then on she has to assume the building has got a person in it that it can go to, and there is no instrument in this city that can stop a building remembering a person and no instrument in this city that can tell her it has not remembered her either, and she is the one who has just handed it a telephone number.
 
 ---
 
@@ -112,7 +116,7 @@ She had not carried a bin in since the middle of June.
 
 **A man of thirty-two walked the length of that street at about ten past nine on his way nowhere and saw a light go off at the top of it and did not know what it was, and he did not knock, and he did not go up, and he was not asked anything by anybody, and he did not tell the woman of twenty-nine about it and is not going to.**
 
-Nobody in this borough is required to do anything about any of this. A bin on a kerb is not a form. A woman of about sixty-three behind a counter has a shop's telephone number written on a card by somebody else and does not know who. And the cheapest thing a person in this borough can do is stop being findable, and it is the correct instinct, and this is what it costs, and the person it costs is not the person doing it.
+Nobody in this borough is required to do anything about any of this. A bin on a kerb is not a form. A woman of about sixty-five behind a counter has a shop's telephone number written on a card by somebody else and does not know who. And the cheapest thing a person in this borough can do is stop being findable, and it is the correct instinct, and this is what it costs, and the person it costs is not the person doing it.
 
 The register of narrowings is at nineteen. The blank line under the nineteenth is two hundred and twenty-two days old and nobody is obliged to write on it. The card in the slot in that building is a hundred and thirty-six days old and nobody has emptied it and nobody is going to. The letter in the tray on the floor above is a hundred and thirty-eight days old and it has two pieces of post lying on it and it has not been opened in front of a second person and is not going to be.
 

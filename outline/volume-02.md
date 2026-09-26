@@ -27,7 +27,7 @@ The volume's question, stated by the mechanism and not by a villain: **what happ
 
 ## Calendar (authoritative; counted from the Volume 01 anchor)
 
-**The anchor is unchanged: Chapter 21 = Thursday 13 March. Weekdays are counted from that anchor and are not the real-world calendar.**
+**The anchor is unchanged: Chapter 21 = Thursday 13 March 2014. Weekdays are counted forward from that anchor on the real 2014 calendar, and every chapter header in this volume agrees with it.** *(Corrected after the Volume 04 Batch 0003 review. This line used to say the weekdays are *not* the real-world calendar. That was false: the account has been on the real calendar throughout, the anchor is a real Thursday, and a mechanical check of all thirty Volume 04 chapter headers against a real calendar found no mismatch in any of them. No chapter date changed.)*
 
 - 20 April **Sunday** · 21 April **Monday** · 22 April **Tuesday** · 23 April **Wednesday** · 24 April **Thursday** · 25 April **Friday** · 26 April **Saturday** · 27 April **Sunday** · 28 April **Monday** · 29 April **Tuesday** · 30 April **Wednesday** · 1 May **Thursday** · 2 May **Friday** · 3 May **Saturday** · 19 May **Monday** · 20 May **Tuesday** · 26 May **Monday** · 29 May **Thursday** · **18 July Friday** (the ninety-day claims box expires, ninety days from Saturday 19 April).
 

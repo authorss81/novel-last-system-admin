@@ -26,7 +26,7 @@ Nobody was in charge and nobody took minutes.
 
 **THE SECOND WEEK OF JUNE, AND THE WORST HEAT IN NINETEEN YEARS.** Nine doors and the same correct word at every one of them, and the word was nothing, and it was printed on the nineteenth with a heading and four streets in a column headed *location* and no name box anywhere on it, and it went round a building in a tray on a Friday and it is in nine other buildings and nobody in any of them knows where it came from. **Nine people said yes to a correct question in a heat and they have not been counted and nothing since the nineteenth of June has counted them.**
 
-Also that week: a laundry round with the last four stops done first at a cost to a hospital bed and a woman of about ninety-one, granted in about four seconds by somebody who could have said no. Four thousand litres into a school tank from a corridor, by a telephone call, by a person who said out loud unasked that it was a third of the problem. A cool hall opened at eleven by a woman of seventy-seven with a key.
+Also that week: a laundry round with the last four stops done first at a cost to a hospital bed and a woman of about ninety-one, granted by somebody who could have said no. Four thousand litres into a school tank from a corridor, by a telephone call, by a person who said out loud unasked that it was a third of the problem. A cool hall opened at eleven by a woman of seventy-seven with a key.
 
 **Nobody had to do any of it. All of it was done by a person who was not required to, not one of it is on a form, and a roster of the people who did it would be the only instrument in this city that could make them findable, and there is not going to be one.**
 
@@ -40,11 +40,11 @@ Also a report from 2011 on a shelf in a building it has nothing to do with that 
 
 ---
 
-**THE FIRST WEEK OF JULY.** A form dated the twenty-third of June walked down a lane at half past ten in the morning in the hand of a man of about forty-one who was right, and a man of sixty told him he should go away before anybody had asked him anything, and he was right too, and the round did not get funded and does not get done and nothing is helped.
+**THE FIRST HALF OF JULY.** A form dated the twenty-third of June walked down a lane at half past ten in the morning in the hand of a man of about forty-one who was right, and a man of sixty told him he should go away before anybody had asked him anything, and he was right too, and the round did not get funded and does not get done and nothing is helped.
 
 A column headed *date seen again* went into a sheet on the eighth of July, and under it three words, **no name, no initials**, and the space is empty and it is the emptiest and the most dangerous object in this borough and it is correct.
 
-A woman of twenty-nine put a shop's telephone number on a card in a shop window on the sixth of July with nothing else on it, and asked the woman who keeps that shop not to say who left it, and did not ring the man of about twenty-six about a fan that was not brought back, and left a number where nothing used to be.
+A woman of twenty-nine put a shop's telephone number on a card in a shop window on the sixth of July with nothing else on it, and asked the woman who keeps that shop not to say who left it, and left a number where nothing used to be. **And in a different shop, in a different part of the borough, a man of about twenty-four who keeps that one did not telephone the man of about twenty-six about a fan that was not brought back, and did not buy another one out of a box at the back, and did not write it in the book on the back of his own counter, and none of those three is a decision.**
 
 A street of terraces where two men were working in the middle of a cool month, one with a price and a card and one with a blanket under his arm, and neither in a document, and a printed sheet in another building saying, correctly, *no requirement stated*.
 
@@ -92,6 +92,8 @@ There are eight things in this borough that anybody can walk in and read, and ev
 
 The eighteenth of February. The twentieth of February. The twenty-sixth of November. The nineteenth of June. The twenty-fifth of June. The sixth of July. The eighth of July. The seventeenth, which is today.
 
-**A day can be pointed at. A name cannot. In nine months nobody in this city has found a person by a date, and nobody has been found by a name either, and that is the only privacy anybody here has ever had, and it was never designed and it is not defended and it is one table away from not existing.**
+**Seven of those eight are on paper somewhere and a person can walk in and look at them. The eighth is this room. There is nothing on the wall of it, there is no page and there is no minute, and the only account of the seventeenth of July that exists is four people saying it out loud to each other this afternoon with nobody taking it down, and if all four of them stopped walking into this room tomorrow the seventeenth of July would not be a day anybody in this borough could point at. It is the only one of the eight that is not a thing in a building, and it is the only one of the eight that could be lost by four people dying.**
+
+**A day can be pointed at. A name cannot.** In nine months nobody in this city has found a person by a date, and nobody has been found by a name either, and that is the only privacy anybody here has ever had, and it was never designed and it is not defended and it is one table away from not existing. A room is not a record, and there is no way in this borough to ask a room what it remembers, and the eighth of these eight is a room.
 
 So which of the eight is the first one somebody in this borough decides to keep, and is it going to be kept because it was good or because it was expensive.
