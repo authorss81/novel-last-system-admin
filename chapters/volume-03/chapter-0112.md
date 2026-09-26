@@ -6,7 +6,7 @@ There is a room off that corridor with a table down the middle of it and about n
 
 **Every written question in that borough goes in that book and every answer gets read.** That is not a policy anybody decided. It is what the book is, and it has been since before anybody in this account was on it, and the reason it matters this week is that the book has a column in it for the person who read the answer aloud, and that person is a woman of about sixty called Doreen Whitlock who has been doing it for eleven years, and she reads every answer in the voice she reads everything, which is a voice that does not know it is a voice.
 
-Jonas Mercer had asked his one question in that corridor, at four minutes past two, and it was six words, and it was: **"Who reads the answers out."**
+Jonas Mercer had asked his one question in that corridor, at four minutes past two, and it was five words, and it was: **"Who reads the answers out."**
 
 "I do," said Doreen Whitlock, without looking up. "It is in the book. It is a column. You get used to being a column."
 
@@ -118,7 +118,7 @@ And the chair said, "That concludes it," and moved to the next item.
 
 They finished at about ten past three, and there was a cup of tea, and Jonas Mercer did not have it, and Doreen Whitlock poured him one anyway and put it down at the end of the table with the sugar on the side and did not say a word about it.
 
-Marguerite Oyelaran went out first, with the folder, at about six minutes past three, and she did not speak to him in the corridor and he did not speak to her and he was not going to, and she has not telephoned him five times and he has not telephoned her, and that is a Tuesday and it is also the only thing he has got to offer her.
+Marguerite Oyelaran went out first, with the folder, at about six minutes past three, and she did not speak to him in the corridor and he did not speak to her and he was not going to, and she has not telephoned him five times and he has not telephoned her, and that is a Tuesday, meaning that nothing moves on it and nobody is required to move anything, and it is also the only thing he has got to offer her.
 
 **He stood in the corridor for about four minutes and then went and did four hours of something else.**
 

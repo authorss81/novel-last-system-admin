@@ -158,4 +158,4 @@ At the bottom he stopped and looked up, and said, "Mrs Fofana—"
 
 **It is the only piece of paper in this borough that is addressed to a room and is signed, and it is the only one anybody in this borough has ever had in a handbag, and it did not go in a minute, and it was never going to.**
 
-**And in the third week of January it went back out of a Methodist hall in daylight, in the hand of the woman who wrote it, and it came back into that hall with nine seconds on a sheet of A4 and her name at the top of it, and neither of those two things was a decision anybody took, and both of them are the only ones available.**
+**And on the twenty-first of January a sheet of A4 went into a Methodist hall in daylight, in the hand of the woman it was about, and it came back out of that hall with nine seconds on the top of it and her name and the street and the date, and the letter never went near the hall at all: it has been in a handbag in a kitchen off a landing since the third of December, and neither of those two things was a decision anybody took, and both of them are the only ones available.**

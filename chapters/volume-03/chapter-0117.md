@@ -85,7 +85,7 @@ Nine seconds, at a fair walk, if you do not hurry it. And it cost her nothing: n
 
 She read it back. She did not cross anything out and she did not improve it, and she put no mark in any of the three boxes, because a person does not tick a box to say that she has not been asked to tick it, and because putting a fourth box on that sheet would make it a form with a place to put a refusal in, and that would be a different document, and it would be one.
 
-**She left both pieces of paper on the table and took the letter she had written in November — her own letter, the one side of A4 with her name at the bottom of it — and put it in a bag, and she went out through the door at about ten to five.**
+**She left both pieces of paper on the table and took nothing with her, because there was nothing of hers on that table to take — her own letter of the twenty-eighth of November has been in a handbag in a kitchen four hundred yards away since the third of December and it was still in it — and she went out through the door at about ten to five.**
 
 ---
 
@@ -93,7 +93,7 @@ She read it back. She did not cross anything out and she did not improve it, and
 
 She read the top of it. She could not help it. It is the first time anybody has ever read a name off a piece of paper in that hall that she did not have to, and it took her about four seconds and then she looked away, and then she read it again, because nobody was going to stop her and because in about four years somebody is going to come and ask whether that hall holds correspondence.
 
-Then she picked both pieces of up, and she did not put them in the minute, and she did not put them in a file, and she did not put them in a tray, and she put them in a plastic wallet with a rubber band round it, and she put the wallet in the drawer of the trestle table, and she shut the drawer, and there is no key.
+Then she picked both pieces up, and she did not put them in the minute, and she did not put them in a file, and she did not put them in a tray, and she put them in a plastic wallet with a rubber band round it, and she put the wallet in the drawer of the trestle table, and she shut the drawer, and there is no key.
 
 **She has told nobody. She is not going to tell anybody. And in about four years there is going to be a drawer in a Methodist hall with a name in it, and no list of what is in any drawer in that building, and that is the only record of it in the world and it is a drawer.**
 
@@ -125,7 +125,7 @@ Yolanda Fofana put a card down on the counter, face up, the way he puts things, 
 
 **And here is the question, and it was asked on the Friday in a shop by a man, and it was answered, and the answer is not an answer to it, and this chapter is not going to pretend that it is.**
 
-He asked it once, in about eleven words, and it was this: **whether a person may hold a document about herself in this borough.**
+He asked it once, in twelve words, and it was this: **whether a person may hold a document about herself in this borough.**
 
 And Yolanda Fofana said: "**That is not a question about this borough. A person may put whatever she likes in her own bag. That has never needed an instrument and it is not going to get one, and you have spent eight months building instruments that cost nothing and this one costs nothing at all because it does not exist, and that is the reason it is worth having.**"
 

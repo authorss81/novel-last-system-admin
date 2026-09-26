@@ -76,7 +76,7 @@ Yolanda Fofana said: "**Nobody is going to ask you. And that refusal is the same
 
 "**Mr Mercer.**" A man near the back. "You are the only person in this room who is good at this. **Is this a seventh shape?**"
 
-And Jonas Mercer, against the left-hand wall, with nothing in his hands, said the only thing he said in that room that afternoon, and he said it because he was the only person in it who had spent eight months on the difference between a shape and a person, and he had not been asked to, and it was eleven words, and it was not a question.
+And Jonas Mercer, against the left-hand wall, with nothing in his hands, said the only thing he said in that room that afternoon, and he said it because he was the only person in it who had spent eight months on the difference between a shape and a person, and he had not been asked to, and it was seventeen words, and it was not a question.
 
 "**A shape has to have a place you can point at. That has a person in it.**"
 
@@ -116,7 +116,7 @@ And Jonas Mercer, against the left-hand wall, with nothing in his hands, said th
 
 ---
 
-**And there is a seventh shape question and it was answered in a Methodist hall in about eleven words and the answer was no, and the reason was that a shape has to have a place you can point at and that one has a person in it, and that is now in a minute, and it is in nobody's document about the lowland, and the sixth shape is where it has been since the twenty-eighth of October, which is a street that will not be named in this volume in any document that leaves it.**
+**And there is a seventh shape question and it was answered in a Methodist hall in about seventeen words and the answer was no, and the reason was that a shape has to have a place you can point at and that one has a person in it, and that is now in a minute, and it is in nobody's document about the lowland, and the sixth shape is where it has been since the twenty-eighth of October, which is a street that will not be named in this volume in any document that leaves it.**
 
 **The seventh is not resolved and it is not going to be resolved by a person sitting in a hall in January, and nobody in this borough is entitled to ask him again, and the standing instruction on a kitchen wall with a ring of pencil round a blank space is still a ring of pencil round a blank space, and the trap is lost, and no pump has been offered, and none exists.**
 
@@ -124,7 +124,7 @@ And Jonas Mercer, against the left-hand wall, with nothing in his hands, said th
 
 **And the minute goes out, and there is no number in it, and there is no name in it, and there is a woman of about thirty-four in this borough who has been counted in a room and has not been written down, and the two of those are different problems, and the difference between them is the whole of this volume, and neither of them is going to be solved by anybody in a hall.**
 
-He got the extract on the Thursday at ten past eleven, at the counter, on the second floor, and it is the only arithmetic anybody in this borough can be held to, and he asked his one question of the day, and it was four words.
+He got the extract on the Thursday at ten past eleven, at the counter, on the second floor, and it is the only arithmetic anybody in this borough can be held to, and he asked his one question of the day, and it was three words.
 
 "Is it postable."
 

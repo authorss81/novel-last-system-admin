@@ -2,7 +2,7 @@
 
 **Monday the twenty-sixth of January 2015, about ten past nine in the morning, the vestibule, ground floor, the Old Ward.**
 
-It is eleven feet by nine and it is the smallest room in this city in which anybody in this city can be said to work, and the reason it is the smallest rather than the largest is that a person cannot stand in it comfortably with another person in it and has to turn sideways, and that has turned out in nine months to matter more than anything about the size.
+It is eleven feet by nine and it is the smallest room in this city in which anybody in this city can be said to work, and the reason it is the smallest rather than the largest is that a person cannot stand in it comfortably with another person in it and has to turn sideways, the way nine people had to stand sideways in a hall on Carrow Lane a week ago, and that has turned out in nine months to matter more than anything about the size.
 
 **Here is what is on the floor of it, and it is the whole of the inventory, and the woman who comes down from the second floor every morning can say all of it without looking at anything.**
 
@@ -38,7 +38,7 @@ And about nine people a day, which is the last item on the list and the only one
 
 **And then a man came in at about ten past ten, and Jonas Mercer had not asked him to and did not know him, and the clerk at the counter did not know him either, and he had come in off the street in the rain.**
 
-He was about sixty and he had a plastic bag with a thermos in it and he had a bowser on the road outside with a man in it, and he said: "Is this where you do the water."
+He was about sixty, and he was the man from the hall on Carrow Lane with the thermos, and he had a bowser on the road outside with a man in it, and he said: "Is this where you do the water."
 
 "This is a records counter."
 

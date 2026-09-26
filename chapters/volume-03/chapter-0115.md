@@ -16,13 +16,13 @@ He walked. It is about fifty minutes from the shop in the rain and it was about 
 
 **The smallest possible room in this city is not eleven feet by nine.** Eleven feet by nine has a counter in it and a board and a slot for post. The smallest possible room is off a corridor on level two at Saint Orra west and it is a waiting area with four chairs in it and a machine for hot water that has not worked since about August, and it has no door, and it is not a room anybody has ever thought to call anything, and it is where the two people have to be at ten o'clock at night, and it has been that room since the first week of April.
 
-He got there at about twenty-five to five.
+He got there at about twenty-five past four.
 
-**The term in force had one hour and thirty-five minutes left in it.** The one that had been read aloud at ten o'clock on Saturday the twenty-seventh of December at the last handover, which had begun at seven o'clock on Sunday the twenty-ninth of December and ran six days, because the terms are six days and the rota has still not been rebuilt and there is no instrument in this borough by which the terms could be anything else.
+**The term in force had one hour and thirty-five minutes left in it.** The one that had been read aloud at ten o'clock on Saturday the twenty-seventh of December at the last handover, which had begun at seven o'clock on Sunday the twenty-eighth of December and had run its six days, and a term is six days and it means six whole days and not the seventh morning: Monday to Saturday, and then six o'clock on the Sunday, when the next one takes over at seven. The rota has still not been rebuilt and there is no instrument in this borough by which the terms could be anything else.
 
 The one that had been read at ten o'clock last night began at seven o'clock this morning.
 
-**Between six o'clock and seven o'clock this morning there is no term at all.** That is not a fault anybody has been told about. It is arithmetic. A term is six days. Six days from seven o'clock on Sunday the fourth of January is six o'clock on Sunday the eleventh of January, and the gate opens at seven, and for an hour every morning in this borough there is a door that exists because a person decided to be there, and in about four years somebody is going to write a schedule for that hour and the schedule will be good.
+**Between six o'clock and seven o'clock this morning there is no term at all.** That is not a fault anybody has been told about. It is arithmetic. A term is six days. Six days from seven o'clock on Sunday the fourth of January is six o'clock on Sunday the eleventh of January, and the gate opens at seven, and once a week, every Sunday morning, for an hour, there is a door in this borough that exists because a person decided to be there, and in about four years somebody is going to write a schedule for that hour and the schedule will be good.
 
 ---
 

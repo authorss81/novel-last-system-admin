@@ -32,7 +32,7 @@ Inside there was one sheet of A4, printed, folded once, and it had a heading on 
 >
 > *Reason for this request: in about four years I would like to be able to sit in a kitchen and explain that board to somebody who is frightened of it, without inventing anything, and I cannot do that now, and the reason I cannot do that now is that nobody has ever written down why.*
 
-**It is a completely ordinary letter. It comes from a man of sixty-one at the back of a block of thirty rented rooms, and it is signed, and it is the most sensible letter anybody has put in front of her in a year, and and it is the single most dangerous letter anybody in this borough has handed to that counter since March.**
+**It is a completely ordinary letter. It comes from a man of sixty-one at the back of a block of thirty rented rooms, and it is signed, and it is the most sensible letter anybody has put in front of her in a year, and it is the single most dangerous letter anybody in this borough has handed to that counter since March.**
 
 She read it four times standing up.
 
@@ -62,11 +62,11 @@ He read it. He read it twice, which she was not expecting.
 
 "And it is the most dangerous thing anybody has put in front of you this year."
 
-"**Yes.** And both of those are true and they are not in tension and that is what I have found difficult since about eleven o'clock this morning."
+"**Yes.** And both of those are true and they are not in tension and that is what I have found difficult since the post came this morning."
 
 ---
 
-**He asked his one question. It was nine words and he asked it at a counter, and a counter is required to answer and a counter is not required to make one, and it is the only question he asked that day.**
+**He asked his one question. It was eleven words and he asked it at a counter, and a counter is required to answer and a counter is not required to make one, and it is the only question he asked that day.**
 
 "Would a reason column have to be filled in by hand."
 
@@ -142,7 +142,7 @@ There is a counter on the left with a slot in it for post, and the slot has been
 
 Above it, where anybody coming up the ground-floor corridor has to walk underneath, the two conditions from August were still there, and they are still not the same document, and they are still not reconciled, and nobody in this borough is going to reconcile them: **the city's own paper, printed the fourteenth of August and initialled N.C.**, and **sixteen inches below it an enamel strip with nothing on its face at all, undated, unattributed, with two initials and one word in pencil on the back of it, and the word is *not mine*.**
 
-He stood in front of the board for about eleven minutes and did not touch it, because there is nothing to touch, and because a man who puts his hand on a public board at two in the morning is a man who has started something.
+He stood in front of the board for about ten minutes and did not touch it, because there is nothing to touch, and because a man who puts his hand on a public board at two in the morning is a man who has started something.
 
 **At ten past two on the morning of Sunday the fourth of January 2015 the Saint Orra west term had three hours and fifty minutes left in it, and the gate on that term opens at seven, and the rota has still not been rebuilt, and the eleven o'clock to half past one gap is still published and still unfilled, and Bram Osei's Thursday is still refused on a board in his own words with *no reason I can give* under a *no reason given* in somebody else's hand, and Priya Ranganathan's card is still on that board because she put it there, and the man who signs the weekly verification stopped in October because a job in November has a department in it, and nobody has rung him.**
 

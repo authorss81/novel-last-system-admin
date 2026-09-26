@@ -2,7 +2,7 @@
 
 **Monday the twenty-second of December 2014, twenty past ten in the morning, the counter, the records office, second floor.**
 
-He had come in to ask about something else and he spent his one question of the day on this instead, and it was nine words, and the woman at the counter did not need to look anything up.
+He had come in to ask about something else and he spent his one question of the day on this instead, and it was eleven words, and the woman at the counter did not need to look anything up.
 
 "**What would it take to reach Royden Achebe without a record.**"
 
@@ -32,7 +32,7 @@ She put her pen down. She is about fifty and has been at that counter for eleven
 
 **He did not go on the Monday afternoon and he did not go on the Tuesday and there is a piece of paper in the pad that says so in three lines, and the three lines are the whole of what this chapter did for two days.**
 
-He went to the building in Gantry Ward at about half past two on the Monday. **He did not go in.** He stood on the first landing outside a fire door for about eleven minutes with nothing in his hands, and there was a keypad on the door and a laminated sign about parking, and a bench made of two planks and a rail, and twice somebody came out of that door and went past him and neither of them looked at him and he did not look at either of them.
+He went to the building in Gantry Ward at about half past two on the Monday. **He did not go in.** He stood on the first landing outside a fire door for about ten minutes with nothing in his hands, and there was a keypad on the door and a laminated sign about parking, and a bench made of two planks and a rail, and twice somebody came out of that door and went past him and neither of them looked at him and he did not look at either of them.
 
 He counted the routes, because counting them is what he does instead of doing them.
 
@@ -68,7 +68,7 @@ She put the ash down when he told her, all of it, standing up, in about nine min
 
 "Then say the reason, and do not improve it, and do not stand there being brave at me, because I have watched you be brave at me since about the fourth of September and it is the most expensive thing you do." She put both hands flat on the bench. "**Say why not.**"
 
-Jonas Mercer said it in about thirty seconds and he said it once, and it is the reason and it is the correct reason and it is the hardest refusal anybody in this borough has watched him make, and the reason it is the hardest is that nobody in the shop was arguing with him and nobody in the shop was asking him for anything and Bea Osunde had said the word *nobody* eleven times in ten minutes.
+Jonas Mercer said it in about thirty seconds and he said it once, and it is the reason and it is the correct reason and it is the hardest refusal anybody in this borough has watched him make, and the reason it is the hardest is that nobody in the shop was arguing with him and nobody in the shop was asking him for anything and Bea Osunde had said the word *nobody* nine times in ten minutes.
 
 "**An apology from the man who named you in a room you were not in has to be said in a room. That is the whole of it. It cannot be said in a corridor because a corridor has people in it who will remember it and it cannot be said on a telephone because a telephone is a document with a date on it, and it cannot be said in the Methodist hall because that room has a minute and a woman who keeps it and a box on a sheet that says who wrote a thing down, and it cannot be said in a records office or a counter or a meeting room, and it cannot be said on a bench outside a shop because you have a shop open and a shutter and about four customers a week who would be looking at it.**"
 
@@ -90,7 +90,7 @@ Beatrice Osunde did not say anything for about four seconds, and she picked up t
 
 ---
 
-**He wrote it down on the Monday morning, on the bench, in the shop, in a pad he had not opened for a fortnight, and he wrote the reason and not the apology, and that distinction is the whole of the chapter:**
+**He wrote it down on the Wednesday morning, on the bench, in the shop, in a pad he had not opened for a fortnight, and he wrote the reason and not the apology, and that distinction is the whole of the chapter:**
 
 > *Wednesday 24 December, the shop. I am not going to see Royden Achebe and the reason is on the sheet in front of me and I am writing the reason because Bea Osunde told me a pad is for your own protection and not for the other person, and she is right, and I have been writing things down for other people since the third of April.*
 > *It has to be said in a room. There is no room in this borough in which it can be said that does not also become a record, and the only kind of room left is somebody's kitchen, and I have not got one and I am not entitled to one.*
@@ -98,7 +98,7 @@ Beatrice Osunde did not say anything for about four seconds, and she picked up t
 > *He can be asked one question about it tomorrow morning. That is the whole difference between him and the man of forty-four and it is not a difference in either of them. It is in me. I made one of them findable and the other one I made a handle, and I do not get to make him a door as well.*
 > *It is a refusal and it is mine and nobody argued with me about it, which is how I know it is the right one, and it is going to be the one I am judged on, and I would rather it was.*
 
-She said, when he told her on the Monday: "**That is what a pad is for.** You have been writing things down since April for the people in the room. That last one is yours. Do not lose it and do not show it to anybody, and there is no box on it anywhere and that is also the point."
+She said, when he told her on the Wednesday: "**That is what a pad is for.** You have been writing things down since April for the people in the room. That last one is yours. Do not lose it and do not show it to anybody, and there is no box on it anywhere and that is also the point."
 
 ---
 
@@ -106,7 +106,7 @@ She said, when he told her on the Monday: "**That is what a pad is for.** You ha
 
 **One.** The man of forty-four. He signed a line in about ninety seconds in August and he does not know what any of the words in it mean, and **nobody in this borough is able to ask him one question about any of it, ever**, and two people have told Jonas Mercer not to and he has not. He is a wall. He is a wall because the answer to every question anybody might want to ask him is no, and he does not know that the questions exist.
 
-**Two.** The man of forty-nine. He can be asked one question about anything, for ever, by anybody, and nobody has asked him, and there is a pad in a shop with a reason on it, and a switchboard with a queue on it, and a landing outside a fire door in Gantry Ward where a man stood for eleven minutes on a Monday and did not use a keypad. He is a door, and a door is not a favour.
+**Two.** The man of forty-nine. He can be asked one question about anything, for ever, by anybody, and nobody has asked him, and there is a pad in a shop with a reason on it, and a switchboard with a queue on it, and a landing outside a fire door in Gantry Ward where a man stood for ten minutes on a Monday and did not use a keypad. He is a door, and a door is not a favour.
 
 **And three, and he is the one nobody in this borough talks about, and he is not a wall and he is not a door.** A man of forty-eight did a verification every week for about eleven weeks in the autumn, on his own time, with no name against it, and stopped in October, and the reason he stopped is in a corridor in August in his own words, which is that a job in November has a department in it and a department is a rota. **He said that in August, in a corridor, to about four people, and it was correct, and he has not been asked about it since, and nobody has rung him, and there is an autumn compliance report out with a paragraph number on it in front of four hundred and twenty women, and the paragraph number is about a machine on level zero.**
 
