@@ -2,7 +2,7 @@
 
 Saturday the second of May 2015, from about ten past ten in the morning, the records office, second floor, the Old Ward. And a corridor outside it.
 
-**He asked no question of anybody in that office or in that corridor, and he has not asked one since the twenty-fifth of February, and the counting has been right in every week of this year. There were seven questions of a stranger's in that corridor at about half past ten, the shortest of them four words, he asked every one of them at the counter and not one of them at the wall, and not one of them was about anything, and he was given one thing and the one thing he was given was a sheet of paper that is public and requires nothing of anybody.**
+**He asked no question of anybody in that office or in that corridor, and he has not asked one since the twenty-fifth of February, and the counting has been right in every week of this year. There were five questions of a stranger's in that corridor at about half past ten, the shortest of them four words, he asked every one of them at the counter and not one of them at the wall, and not one of them was about anything, and he was given one thing and the one thing he was given was a sheet of paper that is public and requires nothing of anybody.**
 
 ---
 
@@ -84,7 +84,7 @@ She turned a sheet over and squared it with the edge of the counter.
 
 **And then he said the thing he had come to say, and it is two questions, and it is the question the minute was never written to answer.**
 
-He had got as far as saying what was wrong with her, in a corridor, on a Thursday, and had stopped, and had said *somebody I work with* instead, and had done it without appearing to notice that he had done it.
+He had got as far as saying what was wrong with her, in a corridor, on a day that was not this one, and had stopped, and had said *somebody I work with* instead, and had done it without appearing to notice that he had done it.
 
 "**I am asking because of somebody I work with.**"
 
@@ -108,13 +108,13 @@ He had got as far as saying what was wrong with her, in a corridor, on a Thursda
 
 **And Jonas Mercer was at the end of that corridor, at the wall, about nine feet from the counter, for the whole of it, and he did not say one word, and nobody at that counter asked him anything, and the man never knew he was there.**
 
-He had one question available to him in nine months and he has not spent it since the twenty-fifth of February, and this was not the morning to spend it, and he worked that out in about four seconds and it did not take him four seconds to work out the other thing and that is where the four seconds went.
+Jonas Mercer had one question available to him in nine months and he has not spent it since the twenty-fifth of February, and this was not the morning to spend it, and he worked that out in about four seconds and it did not take him four seconds to work out the other thing and that is where the four seconds went.
 
 **The man did not say who he was thinking of.**
 
 He said *a group of people* and *somebody I work with* and he did not say a name, and he did not say where she works, and he did not say what is wrong with her, and Jonas Mercer has watched a great many people make a mistake in nine months and that is the first time he has watched somebody not make one.
 
-**And a man who is not on a board and is not on a list and has not been asked anything by anybody either said a name he had not said out loud, on a Saturday morning, in a corridor, and put it back: a person who is not in a record cannot be talked about in a place where the talking might be written down, because the writing down is the part that lasts, and the talking is the part that does not. Whether he worked that out in about four seconds or whether he has simply never once done the other thing is not knowable and is not going to be looked into.**
+**And a man who is not on a board and is not on a list and has not been asked anything by anybody either did not say a name, on a Saturday morning, in a corridor, and put it back: a person who is not in a record cannot be talked about in a place where the talking might be written down, because the writing down is the part that lasts, and the talking is the part that does not. Whether he worked that out in about four seconds or whether he has simply never once done the other thing is not knowable and is not going to be looked into.**
 
 Nobody taught him that. Nobody in this borough is able to teach anybody that. **And Jonas Mercer is the person who made the first half of it cheap, in a room, in daylight, in nine seconds, on the third of December, and he has never met this man and is not going to and did not ask him one word.**
 

@@ -18,7 +18,7 @@ He left at about a quarter past ten and did not go up the stairs and did not go 
 
 ---
 
-She is about sixty. Nobody in this account knows her name, and she has been in that corridor every morning since about the beginning of last summer, which is about a year, and she has never once been asked about it.
+She is about sixty. Nobody in this account knows her name, and she has been in that corridor every morning since about the beginning of last summer, which is about a year, and she has never once been asked about it, and she is not the other woman of about sixty in this borough who has read a board with an empty row on it every morning for eleven months, and the two of them have never been in a room together and there is nothing anywhere that says they are the same person.
 
 The reason she goes is the mornings. She is on her own and the flat is warm and there is a bus she can get from the top of that street, and the corridor at Saint Orra west is on the way, and there is a board at the end of it about nine feet long and about four feet off the floor, and everybody who comes up that corridor reads it and everybody who comes up that corridor has read it every morning since the second of April a year ago.
 
@@ -86,7 +86,7 @@ The only way to stop being asked about the door is to stop being at the door, an
 
 **On the Tuesday a man at the bins asked her whether she knew who lived at number four B. On the Thursday a girl on the second landing asked her whether the water was going off at the weekend. Both of them were thirty seconds long. Both of them were ordinary. She said no to both of them and she was not thanked for it and she was not asked anything else and she was not helped with either of them, and afterwards she stood at her own window for a bit.**
 
-The rest of the week was a week. She did the shopping and she did not go to the clinic on the Wednesday because it was raining and there was no need to, and the corridor will be there on Monday and it has been there every morning for about a year, and she is not going to stop going, and the going is not the problem and was never the problem.
+The rest of the week was a week. She did the shopping and she did not go down to the shops on the Wednesday because it was raining and there was no need to, and the corridor will be there on Monday and it has been there every morning for about a year, and she is not going to stop going, and the going is not the problem and was never the problem.
 
 **The problem is that a thing happened at a quarter to eleven on Friday in a corridor and there is no part of her, now, that is the same as it was at a quarter to twelve. Nothing was taken from her. Nobody told her anything. A man asked her a question and she gave him the correct answer and he went away with his card. And the whole of what she has instead is that in a building of about thirty flats a person has been established as the one who is asked, and she did not agree to it, and she cannot be released from it, and the only instrument anybody in this borough has for releasing anybody from anything is a piece of paper with a name on it, and the one instrument she is not getting is a piece of paper with a name on it, because the absence of her name is the only thing keeping her out of it.**
 

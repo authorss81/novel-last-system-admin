@@ -6,7 +6,7 @@ Saturday the second of May 2015, from ten o'clock at night, a waiting area off a
 
 ---
 
-**And here is the only notice anybody is going to get about Volume 03, and it is at the top of two pages, and it is this: a room with four chairs in it at ten o'clock on a Saturday night, and an hour on a Sunday morning between six and seven. Neither of them is going to stop. What is going to stop is this.**
+**And here is the only notice anybody is going to get about any of this, and it is at the top of two pages, and it is this: a room with four chairs in it at ten o'clock on a Saturday night, and an hour on a Sunday morning between six and seven. Neither of them is going to stop. What is going to stop is this.**
 
 **They are the two cheapest things anybody in this city has ever produced, and they are here because a man worked them out in April, standing up, on a Friday afternoon, and wrote them in a pad in a shop at the end of a street, and the pad goes in a drawer in that shop and it is the only place any of it is.**
 
@@ -42,11 +42,13 @@ Nobody was helped and nobody was hurt and there is no minute of it and there is 
 
 **And he was four hundred yards away, on purpose, and he had decided it on the Friday, and the reason has not changed since the thirteenth of April and it has not changed this month, and there is nobody in that building who could be asked about it.**
 
-The gate went up at seven on that Sunday because two people who are not on anything had been in a room with four chairs in it the night before, and nobody wrote that down, and there is nobody in that building who could be asked why, and it has been like that since the twenty-fifth of January and it will be like that in June.
+The gate went up at seven on that Sunday because two people who are not on anything had been in a room with four chairs in it the night before, and nobody wrote that down, and there is nobody in that building who could be asked why, and it has been like that since the morning of the twenty-fifth of January and it will be like that in June.
 
 ---
 
 At about twenty past six on the Sunday morning Jonas Mercer was out on that wet pavement again and the term that had been in force stopped at six.
+
+**He had said at the end of the Saturday morning, at the end of that corridor, that he was not going to stand in it again, and he had said it the way he says the counting, and the counting has been right in every week of this year. He went out at twenty past six on the Sunday morning anyway. There was no reason on that wet pavement except four months of it, and no rule that could stop him and nobody who could tell him to, and nobody saw him and nobody is going to be told, and he wrote nothing down about it, which is what he does.**
 
 **The hour between six and seven is the hour after a term has stopped and before the next one begins, and it happens every Sunday morning, and it has no name in this borough, and there is no date in this city for it, and it is the only hour of the week in which this borough requires nothing of anybody at all.**
 
@@ -54,13 +56,13 @@ The last hour and a half of a term is not that hour. The first hour of a term is
 
 He stood in it for about half an hour. A light came on in a car park on the far side of a building he could not see into and he could not tell what it was about and it was nothing.
 
-**And this is the last time either of those two things is going to be staged in Volume 03, and it is said here, on the page, in a book, in a place nobody is ever going to look, which is the only place anything in this borough has ever been said twice.**
+**And this is the last time either of those two things is going to be stood in by anybody, and it is said here, on the page, in a book, in a place nobody is ever going to look, which is the only place anything in this borough has ever been said twice.**
 
 The finding is four months old and it has not improved and it is not going to. **The hour cannot be scheduled without somebody being required to be in it, and the only instrument that keeps it unscheduled is two people who are not on anything turning up at ten o'clock on a Saturday because nobody wrote anything down.**
 
 **He has stood in a corridor on a Sunday morning exactly twice and he is not going to do it a third time, because a third is a habit and a fourth is a rota with one name in it, and he is thirty-two, and he worked that out in April.**
 
-**And he has stood on that wet pavement six times since December by ten o'clock that night, and on the Sunday morning it was the seventh, and he did the arithmetic standing in it and it came out the same as it had come out in April: four hundred yards is not an answer, because a place a man goes to is the first half of a schedule. He is doing it anyway. The reason he is doing it anyway is that there is no rule that could stop him and there is no person who could tell him to, and the whole of this borough's arrangement is that the only thing holding the shape of it together is one man not being caught out, and he is thirty-two years old, and he knows exactly what the odds on that are, and he did it anyway, and that is the last of it.**
+**And he has stood on that wet pavement seven times since December by ten o'clock that night, and on the Sunday morning it was the eighth, and he did the arithmetic standing in it and it came out the same as it had come out in April: four hundred yards is not an answer, because a place a man goes to is the first half of a schedule. He is doing it anyway. The reason he is doing it anyway is that there is no rule that could stop him and there is no person who could tell him to, and the whole of this borough's arrangement is that the only thing holding the shape of it together is one man not being caught out, and he is thirty-two years old, and he knows exactly what the odds on that are, and he did it anyway, and that is the last of it.**
 
 **And the hour does not need him. It has not needed him for four months. The only reason he was ever in it at all is that he was not required to be anywhere.**
 
@@ -154,9 +156,7 @@ He went out into the street at about half past ten. Nobody followed him. Nobody 
 
 A counter in a vestibule eleven feet by nine answers in about eleven seconds, and it is not a service, it cannot be given to anybody, it does not scale, nobody is required to keep it going, and it works because a person is standing at it who is not findable.
 
-A register with nineteen entries and a blank line under the nineteenth, and a bulb, and a hundred and sixty-eight days.
-
-A card in a slot, eighty-two days. A letter in a tray with post on top of it, eighty-four days. A drawer with no key on it and no list in it. Two numbers that were never added. Two conditions sixteen inches apart that do not agree.
+**A register with nineteen entries and a blank line under the nineteenth, a hundred and sixty-eight days, and a bulb out on the nineteenth. A card in a slot, eighty-two days. A letter in a tray with post on top of it, eighty-four days. A drawer with no key on it and no list in it. Two numbers that were never added. Two conditions sixteen inches apart that do not agree.**
 
 A public report with a paragraph number on it standing in front of four hundred and twenty women, and a strip going into a drawer in a room on level zero about forty times a day, and a hand that has not been found.
 
@@ -176,7 +176,7 @@ A street that is on no layer, and three positions nobody has argued out, and a r
 
 A claims box that is closed and is empty. A sealed envelope in a drawer on a lower floor that has not been opened and is not going to be.
 
-**And a finding of a borough safety panel of the twenty-third of April that was stated out loud once, in a room, in daylight, on the twenty-eighth of January, by a man with no standing to state it, and it is in a minute, and nothing in the minute requires any person to do anything, and it is not resolved, and it is not going to be opened again, and what is left of it is its consequence, and nobody in this borough has been made to live under that consequence yet, and nobody is going to be.**
+**And a finding of a borough safety panel of the twenty-third of April 2014, which was stated out loud once, in a room, in daylight, on the twenty-eighth of January 2015, by a man with no standing to state it, and which is not in a minute, because there is no minute of it and there is not going to be one, and there is nowhere in this borough on which it could be written down, and it is not resolved, and it is not going to be opened again, and what is left of it is its consequence, and nobody in this borough has been made to live under that consequence yet, and nobody is going to be.**
 
 **And a method that came out of that counter has gone out of that room three times and has gone on from each of the three, and it has touched a district, and there is a girl on a till somewhere who is not surprised by it, and it is in no document and cannot be produced by anybody, and it has gone further than he knows about and will go further, and nobody has written one word of it down, and nobody is going to, and he is the person who made it cheap and he is not going to go and ask one question about it, ever, and the reason is eight words and it is in a pad and it is not going in here.**
 
