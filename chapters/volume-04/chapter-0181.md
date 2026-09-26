@@ -18,7 +18,7 @@ The bench is a two-slat bench on two cast-iron ends, and it is about nine years 
 
 **Somebody in this borough is obliged to deal with that bench.** Not a person. A thing of this borough, which is a schedule, which is held by a works depot on the far side of the tracks, and which lists street furniture on estates, and which says in the ordinary way that such things are inspected and defects are reported.
 
-Nobody has to do anything about it this afternoon. No person is required to inspect a bench, to report one, or to answer for one, and the notice by the bin store says so in three lines and defines nothing at all.
+Nobody has to do anything about it this afternoon, and the notice by the bin store says so in three lines and defines nothing at all.
 
 ---
 
@@ -66,7 +66,7 @@ He could have gone in on Monday and asked one question — *how often does that 
 
 **AND THIS IS THE ELEVENTH TIME THIS BOROUGH HAS BEEN KEPT GOING BY A PERSON NOBODY IS OBLIGED TO NAME, AND IT IS NOT COUNTED HERE, BECAUSE COUNTING IT IS THE THING THAT WOULD STOP IT.**
 
-It is the eleventh time. There have been a woman of about fifty with a tray, a woman of about fifty-seven with a tray on a Friday, a woman of about sixty-five with a card, a woman of about seventy-six with a bin, a woman of about thirty-one with four containers, a man of sixty-three with a bucket, a man of twenty-four with a door he did not open, a man of about twenty-six with a fan, a man of about forty-two with a towel, a man of about thirty-five with a bag, and now a woman of about seventy-one with a cloth.
+It is the eleventh time. There have been a woman of about fifty with a tray, a woman of about fifty-seven with a tray on a Friday, a woman of about sixty-five with a card in her window, a woman of about seventy-six with a bin, a woman of about thirty-one with four containers, a man of sixty-three with a bucket, a man of twenty-four with a crate he moved before he opened, a man of about twenty-six with a fan he carried in, a man of about forty-two with a towel, a man of about forty-seven with a bag he was not asked about, and now a woman of about seventy-one with a cloth.
 
 **And it is not the eleventh, and the reason it is not the eleventh is that the two of those lists are a list. And a list of people who did things is a list of people, and there is a drawer under a counter in this borough with a sentence in it about a tray that nobody knows is there, and the reason nobody knows is that a person who is written down to do a thing is a person somebody can ring about it, and a woman of seventy-one with a cloth in her coat pocket is the safest person in this city this afternoon and she will stay that way for exactly as long as nobody counts her.**
 

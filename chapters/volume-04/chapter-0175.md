@@ -16,7 +16,7 @@ Saturday the eighteenth of July 2015, from about eleven in the morning, a paveme
 
 Two trestle tables and a cardboard box of water bottles have been on that pavement since about the third of July, put out at about eleven and brought in at about five, in the shade, with nothing written on them and nothing hanging over the front of them. A man who works in the cold store at the back of that shop puts them out, because he was already going out into the sun at about eleven with a sack truck and because there was a box of water going soft behind the counter that nobody was drinking.
 
-Nobody is required to put them out or to bring them in. There is no list of them, no name on them and no sign.
+There is no list of them, no name on them and no sign, and nobody has ever asked him why he does it.
 
 **And on the Friday of the tenth of this month a crate appeared beside the box, and nobody brought it.**
 
@@ -108,7 +108,7 @@ It is not the same number because a person can drink two, and a person can pick 
 
 ---
 
-**AND AT ABOUT FIVE THE MAN FROM THE COLD STORE CAME OUT AND PUT THE TABLES IN AND TOOK THE BOX IN AND THEN WENT BACK FOR THE CRATE, WHICH HE HAD TO GO ROUND THE SIDE FOR, AND HE PUT FOUR EMPTIES AND TWO EMPTIES INTO A SACK ON THE WAY IN AND HE TOOK THE CRATE IN WITH THEM, AND THE PAVEMENT HAD NOTHING ON IT AT ALL BY ABOUT TEN PAST FIVE.**
+**AND AT ABOUT FIVE THE MAN FROM THE COLD STORE CAME OUT AND PUT THE TABLES IN AND TOOK THE BOX IN AND THEN WENT BACK FOR THE CRATE, WHICH HE HAD TO GO ROUND THE SIDE FOR, AND HE PUT FOUR EMPTIES AND TWO FULLS INTO A SACK ON THE WAY IN AND HE TOOK THE CRATE IN WITH THEM, AND THE PAVEMENT HAD NOTHING ON IT AT ALL BY ABOUT TEN PAST FIVE.**
 
 He did not say anything. Nobody said anything to him. He has not been thanked and nobody has refused to be thanked and he will not be recognised and there is no form in this borough on which a person could write that a man carried a crate in on the eighteenth of July, and the reason there is not going to be one is that the crate would be on it and the crate is nobody's.
 

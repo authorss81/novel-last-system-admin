@@ -16,9 +16,9 @@ Friday the thirty-first of July 2015, from about two in the afternoon, a first-f
 
 **THE SECOND WEEK OF JUNE AND THE WORST HEAT IN NINETEEN YEARS.** Nine doors and the same correct word at every one of them, and the word was nothing, and it was printed on the nineteenth with four streets in a column headed *location* and no name box on it.
 
-**That sheet is in its seventh week and there are two of them.** The second one has a column headed *date seen again* with **no name, no initials** printed under it, and the space is empty and is going to stay empty, and the June sheet was not withdrawn. Nobody in any of the nine buildings knows there are two.
+**That sheet is in its seventh week, and so is a chair on a landing. There are two sheets.** The second one has a column headed *date seen again* with **no name, no initials** printed under it, and the space is empty and is going to stay empty, and the June sheet was not withdrawn. Nobody in any of the nine buildings knows there are two.
 
-Also that week: a laundry round with the last four stops done first at a cost to a hospital bed, and not one of it on a form, and a roster of the people who did it would be the only instrument in this city that could make them findable.
+Also that week: a laundry round with the last four stops done first at a cost to a hospital bed, and none of it on a form, and a roster of the people who did it would be the only instrument in this city that could make them findable.
 
 ---
 
@@ -60,23 +60,23 @@ And a corner shop behind a market has a second fridge in it that could not have 
 
 ---
 
-**AND THE REST OF IT, WHICH DID NOT MOVE.**
+**AND THE REST OF IT, WHICH DID NOT MOVE IN THE TEN DAYS.**
 
-A drawer under a counter with no key on it and no list in it, a tray on top of it that is not a list, and nobody can say how many; the only figure ever written about it is nine and that was in March. Three pieces of paper in a van since about Christmas that nobody owns. A sentence about a catch tray that went into that drawer on the twentieth of May, which nobody in this borough knows is there, including him. A public report with a paragraph number on it, never answered, and a machine still running. Two conditions on one wall that do not agree, and two letters and one word in pencil on an enamel strip that have not been read. **Nothing in this borough defines *holder*.**
+A drawer under a counter with no key on it and no list in it, a tray on top of it that is not a list, and nobody can say how many; the only figure ever written about it is nine and that was in March. Three pieces of paper in a van since about Christmas that nobody owns. A sentence about a catch tray that went into that drawer on the twentieth of May, which nobody in this borough knows is there, including him. A public report with a paragraph number on it, never answered, and a machine still running. Two conditions on one wall that do not agree, and two letters and one word in pencil on an enamel strip nobody has read. **Nothing in this borough defines *holder*.**
 
 Seven of nine, two chairs empty, no chair of that body at all, not met since the middle of January. The ninth seat is fifty-four, unpaid, findable at a shopfront and at an address, and has not been told anything. The lowland is not on the layer and cannot be seated, because a node with no party is not a party and a place is not a person.
 
-A gate that goes up at seven on a Sunday morning and stops at six on the Sunday morning after that, six days long and not a week, with no date on it anywhere in this city. **No handover has been staged since the fifteenth, and the hour between six and seven was staged once and once is all it is getting.** The row from eleven o'clock to half past one at a hospital is empty and it does not say *vacant*, and a porter's Thursday is still refused in his own handwriting with a second line under it in somebody else's hand, and nobody has looked at the second line.
+A gate that goes up at seven on a Sunday morning and stops at six on the Sunday morning after that, six days long and not a week, with no date on it anywhere in this city. **Nobody has handed one over since the fifteenth, and the hour between six and seven was not handed over either.** The row from eleven o'clock to half past one at a hospital is empty and does not say *vacant*, and a porter's Thursday is still refused in his own handwriting with a second line under it in somebody else's hand, and nobody has looked at the second line.
 
-And a man of forty-four nobody can ask, a man of forty-nine nobody has told, a man of forty-eight nobody has asked, and a man of thirty-two who is on nothing and is four hundred yards away on purpose and has stopped counting.
+And a man of forty-four nobody can ask, a man of forty-nine nobody has told, a man of forty-eight nobody has asked, and a man of thirty-two who is four hundred yards away on purpose and has stopped counting.
 
-**AND A SENTENCE THAT HAS BEEN TRUE IN THIS BOROUGH SINCE THE SECOND OF JUNE, AND WHICH A FAN, A PAGE, A ROW, A COLUMN, A CARD, A CRATE, A BAG, A BENCH, A BOTTLE AND A CLOTH DID NOT REFUTE: A PERSON WHO IS NOT COUNTED IS NOT A PERSON WHO IS HELPED.**
+**AND THE SENTENCE IS THE ONE THAT HAS BEEN TRUE IN THIS BOROUGH SINCE THE SECOND OF JUNE, AND WHICH A FAN, A PAGE, A ROW, A COLUMN, A CARD, A CRATE, A BAG, A BENCH, A BOTTLE AND A CLOTH DID NOT REFUTE: A PERSON WHO IS NOT COUNTED IS NOT A PERSON WHO IS HELPED.**
 
 ---
 
 **AND THE LAST OF IT, WHICH IS A QUESTION, AND NOT ABOUT A PERSON, AND NOT ABOUT A FLOOD BARRIER, A SCHOOL CROSSING, A COUNTER-AMENDMENT, A SECOND SIGNATURE, A PROVISIONAL CIVIC STANDING, A NINETY-DAY RENEWAL OR AN ORDER.**
 
-There are more things in this borough that have been done once, correctly, and then not done again and not written down, than there were in June. **Every one of them is still true and none of them is on anything, and the two done most often were done by people who are owed nothing, did not know they were doing them, and will not be asked. In nine months not one of them has ever been proved.**
+There are more things in this borough that have been done once, correctly, and then not done again and not written down, than there were in June. **All of them are still true and none of them is on anything, and the two done most often were done by people who are owed nothing, did not know they were doing them, and will not be asked. In nine months not one of them has ever been proved.**
 
 A thing done once and not written down is a thing that four people remember differently, and if one of them talks it is a story, and if a building hears a story it is a record.
 

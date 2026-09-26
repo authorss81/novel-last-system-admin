@@ -56,7 +56,7 @@ He put the sixty pieces into the sack with the string and the bucket, and the sa
 
 **And that is the first time in nine months that a piece of this borough's paperwork has actually been destroyed.**
 
-Not filed. Not moved. Not put in a cupboard. Not scanned. **Destroyed**, in a skip behind a building, on a Friday morning, by a man of thirty-six who has a job that is not a job.
+Not filed. Not moved. Not put in a cupboard. Not scanned. **Destroyed**, in a skip behind a building, on a Friday morning, by a man of thirty-six who has a job that is not a job. **And on the twenty-ninth of June it was going to be about a year, and it has taken twenty-five days.**
 
 **And it is not said in that building, and it is not said here, whether that is a loss or a correction, and this is not a rhetorical way of putting it. Both of those are available and they do not exclude each other, and there is no instrument in this city that can tell which one it is, because telling would require somebody to have decided, and nobody decided, and the only person who ever came near deciding it said *say it's a tray* in a room on the twenty-ninth of June and then went back to a counter.**
 

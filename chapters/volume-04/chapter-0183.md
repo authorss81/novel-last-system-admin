@@ -52,7 +52,7 @@ The reason it is about thirty times is that a shop is not a person and a shop is
 
 **AND THE THING IS NOT GOING ANYWHERE, AND SHE IS NOT GOING TO STOP, AND THE FINDING IS THE OPPOSITE OF THE ONE ANYBODY WOULD EXPECT.**
 
-Nobody has asked that shop for a form. Nobody has asked that street for a list. Nobody has printed a card, and nobody has asked the woman of sixty-five a single question in writing, and there is no page and no minute and no agenda item and no building has taken an interest in Harker Street or in any other street this month.
+Nobody has asked that shop for a form. Nobody has asked that street for a list. Nobody has printed a card, and nobody has asked the woman of sixty-five a single question in writing, and there is no page and no minute and no agenda item and no building has taken an interest in that street in three weeks.
 
 **The card has been left alone for three weeks, and being left alone is the only thing that has ever worked in this borough, and it has worked, and here is what it has done.**
 

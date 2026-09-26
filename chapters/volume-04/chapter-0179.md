@@ -98,7 +98,7 @@ Nobody asked him what his name was. Nobody asked him which number he lived at. N
 
 ---
 
-He left at about four. He walked to the parade and turned right and got on the bus and went nine stops to a shop he has been going to for eleven years, and the man of seventy-four went out at the same time and said good afternoon to him on the stairs, which is a thing he has done to him before and will do again, and neither of them said anything else.
+He left at about four. He walked to the parade and turned right and got on the bus and went nine stops to a shop he has been going to for twelve years, and the man of seventy-four went out at the same time and said good afternoon to him on the stairs, which is a thing he has done to him before and will do again, and neither of them said anything else.
 
 **Nobody in that room was thanked and nobody refused to be thanked. Nothing was resolved, nothing is going to be minuted, and nobody is going to tell him anything.**
 
