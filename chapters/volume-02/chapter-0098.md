@@ -10,7 +10,7 @@ Bea Osunde read it standing at the end of the bench, which is where she reads th
 
 "Yes."
 
-"That is the only sentence in here that could hurt somebody, and you have written it three times, and in one of them you have written *the eight households*." She handed it back. "**A count. In a letter. To a managing agent. In a year when that block has thirty rooms with no water in nine of them and a chief officer has put ninety-two in a public box on purpose.** You have written the number eight into a document about a building with no water in it since the sixth of May, and the number eight is a number of who, and a number of who is the only thing in this borough anybody with a form can use."
+"That is the only sentence in here that could hurt somebody, and you have written it three times, and in one of them you have written *the eight households*." She handed it back. "**A count. In a letter. To a managing agent. In a year when that block has thirty rooms and no mains water in any of them and none at all since the sixth of May, and a chief officer has put ninety-two in a public box on purpose.** You have written the number eight into a document about a building with no water in it since the sixth of May, and the number eight is a number of who, and a number of who is the only thing in this borough anybody with a form can use."
 
 He looked at it for about four minutes.
 
@@ -93,7 +93,7 @@ There was a pause of about four seconds.
 
 "Do not send me a copy." She said it fast. "**Do not send me a copy and do not tell me that you have sent it. I have thought about that for ten weeks and I have got it down to that and I am telling you why, and it is the only reason I am still on this telephone.** A person who knows that a letter has been sent is a person somebody can ask whether the letter has been answered. And if somebody asks me that in about two years — and somebody will, because the agent's office rings — then I will be a woman in a block who has had a letter sent, and I will be a record, and I will be a name, and **I have been a person with no date on me for eleven years and it is the only thing in this borough that is mine.**"
 
-"You will be a person with a year on it," said Jonas Mercer. "That is what is on the paper. And that is a document, and a document is what twelve people in another block refused in March, and I know that, and I am writing it anyway, and it is not your decision and I am not asking you to make it and I would have written it if you had said no."
+"You will be a person with a year on it," said Jonas Mercer. "That is what is on the paper. And that is a document, and a document is what six agreements in four blocks have not been sent back since January, and two of those six have told her to her face that they will not sign a thing that makes her name a door, and she has not chased them, and I heard all of that in a room with a transcript in it on Thursday, and I know what I am writing. And I am writing it anyway, and it is not your decision and I am not asking you to make it and I would have written it if you had said no."
 
 "I would not have said no," said the woman. "**I have said no to two things in sixteen years and one of them was them and one of them was a company, and there is a third thing I say no to every week and it is my own name.**"
 
@@ -103,7 +103,7 @@ He wrote the letter out at the bench from half past four until about ten past si
 
 > **To the managing agent, freehold, four blocks, Carrow Lane. Written on the nineteenth of September 2014.**
 >
-> **I am writing about the block of 1938 at the rear of those four blocks. It has thirty rooms. The internal riser has not existed since February 1998 and has not been replaced. Water for those thirty rooms has been carried, by hand, in containers, by the households of that block, since 1998.**
+> **I am writing about the block of 1938 at the rear of those four blocks. It has thirty rooms. There is no mains water in it. The internal riser has not existed since February 1998 and has not been replaced, and no water has come into that building from the mains since then. A freeholder's agent isolated the incoming supply on the sixth of May 2014 and the block has had no water at all since that day. What the households of that block have carried, by hand, in containers, up four flights, is that water, and they have been carrying it, in whole or in part, since 1998.**
 >
 > **No household is named in this letter. No household is asked to confirm anything in this letter. No list of anybody accompanies this letter and none will be supplied, and a request for one will not produce one.**
 >
@@ -147,4 +147,4 @@ He had a pad in his coat with ten weeks of a telephone number in it and four mon
 
 **The block's node is still at Tier 2 at four thousand two hundred pounds a year. There is no water in that block. The fee did not stop and the letter does not stop it, and the letter is not going to fix a riser, and he wrote that on the outside of the envelope in pencil on Thursday afternoon and then rubbed it out, because a letter that says what it is not is a second letter.**
 
-On the Sunday he planed the surface of the bench and oiled it and did not notice that the ink in the grain had come up under the plane in a long pale ghost the shape of a date, and he wiped the bench with his thumb, and the wood was clean.
+On the Sunday he planed the surface of the bench and oiled it and took the ghost of an old date up out of the grain, and he wiped the bench with his thumb.

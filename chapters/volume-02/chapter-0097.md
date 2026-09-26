@@ -73,7 +73,7 @@ It was not raining. It had been warm and dry for a week and the ground had a cru
 
 "Good," said Emeka Rusk, and went on.
 
-Royden Achebe was in Gantry Ward with a socket set of his own and a man from Manchester and did not ring, and did not come, and had said on the fourteenth of August that he would not, and had not, and had told Jonas Mercer he would not in eleven words on a telephone in a shop and then had not rung him back to say so.
+Royden Achebe was in Gantry Ward with a socket set of his own and a man from Manchester and did not ring, and did not come, and had said on the fourteenth of August that he would not, and had not, and had told Jonas Mercer so on a telephone in a shop in a sentence that was not eleven words and has not been counted since.
 
 Jonas Mercer stood on the lip for three hours and eleven minutes and did not go down the ladder and did not touch the plate. He wrote down the time he arrived in his own hand, and the time he left, and the number of people on site, and what was done, and he wrote his own name at the bottom of it, in the line that says what the man who moved it is, and there was no line on the form that said what the man who watched it is, so he wrote his name in a margin and initialled the margin and gave a copy to Emeka Rusk and kept one.
 

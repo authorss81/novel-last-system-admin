@@ -38,7 +38,7 @@ There was a sheet on the board. It had been up since half past two and it was no
 >
 > **The ninth seat is filled separately, and it is filled in a hall, and it is filled in front of people.**
 >
-> **There was one refusal.** It is on a piece of paper in a file, and the man who refused it read four pages of a regulation before he did it, and the reason he gave is on the second page, and it is not about money and it is not about standing, and it has been carried round this building for eleven weeks and I have watched four people walk past it, and it is the most important sentence anybody has said in this borough since March.
+> **There was one refusal.** It is on a piece of paper in a file, and the man who refused it is called Ronan Vasquez, he is forty-eight, he is in estates and not on a rota, and he said no on a piece of paper in his own words and did not read anything first, and the reason he gave is the same sentence he gave a week earlier on a form on a level below this one, and it is not about money and it is not about standing, and it was ten days before these eight seats were filled and it has been carried round this building since and I have watched four people walk past it, and it is the most important sentence anybody has said in this borough since March.
 
 > **Wren Court, Salter's Yard — thirty-one rooms, no civic address — was not seated. The room tried. Thirty-one people in a building with no civic address are not a body and cannot be seated, cannot vote, cannot require anybody to do anything and cannot be challenged, because a tier may not be challenged by a person. Being right about that has not helped them since the fourth of July and it did not help them on Monday afternoon either and nobody is going to pretend that it did.**
 
@@ -74,9 +74,9 @@ The fourth page of a regulation is in a lever-arch file in a clerk's own hand. A
 
 She put the pad down.
 
-"**A person who answers for a service and is not a body.** Nine words. It is on the second page, and it is the whole of the ninth seat, and there is nothing else about it in four pages. It has been in a book since 2008. It has been read in this city four times this year and three of those times were by men looking for a way not to constitute anything.
+"**A person who answers for a service and is not a body.** Eight words. It is on the second page, and it is the whole of the ninth seat, and there is nothing else about it in four pages. It has been in a book since 2008. It has been read in this city four times this year and three of those times were by men looking for a way not to constitute anything.
 
-"And the ninth words on that page are these: **the ninth seat is not a veto, is not a chair, and cannot be removed by the other eight.** And I have read that sentence four times since Monday and I am not going to say anything else about it, and I am not going to say it at this counter, and if you ask me again I will put the laminated heat card back in the drawer and take the whole of this office with me."
+"And the last line on that page is this: **the ninth seat is not a veto, is not a chair, and cannot be removed by the other eight.** And I have read that sentence four times since Monday and I am not going to say anything else about it, and I am not going to say it at this counter, and if you ask me again I will put the laminated heat card back in the drawer and take the whole of this office with me."
 
 "I was not going to ask you again."
 

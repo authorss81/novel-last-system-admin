@@ -10,13 +10,13 @@ At the bottom of the form there was a blank line. No rule, no caption, no label.
 
 Beside the register, the ninety-day claims box with its slot in the lid and a printed card on a string round its neck, and the card said it closes, and it closed on the eighteenth of July, and the box is empty, and it stays empty until there is another one, and nothing was ever written into it.
 
-**The one card that was in it is sealed into an envelope, dated and numbered in biro, in a drawer in a records store on a lower floor.** He went down to that floor on the Thursday of the twenty-first, on his way back from a determination, with the second tray from Gantry Ward still open in his coat pocket, and stood in front of the drawer for about six minutes, and did not open it, and did not put his hand on it, and went back up.
+**The one card that was in it is sealed into an envelope, dated and numbered in biro, in a drawer in a records store on a lower floor.** He went down to that floor on the Thursday of the twenty-first, on his way back from a determination, with his hands in his pockets, and stood in front of the drawer for about six minutes, and did not open it, and did not put his hand on it, and went back up.
 
 **The card is about a stair. A stair is a thing a person climbs. A stair cannot be held in a field and it cannot be put in a holder, and there is no form in this city that would hold it, and if there were one then the drawer it was in would be a register and the box would have been the fourth list.** That is the only reason in the world and it is not a good enough reason and it is the reason he has got.
 
-The laminated heat protocol was still on the board with somebody's biro under the return date that said **RETURNED 4/8. SEE COUNTER.**, and above the box, where anybody coming up the ground-floor corridor has to walk under it, the two lines that had gone onto that board in the last fortnight: that a body which cannot be required to do anything cannot be asked what it will do and a body which may not be challenged cannot be told to stop; and that where a consent may be given, and may be given again, the record of the second consent is not evidence that the first was withdrawn.
+The laminated heat protocol was still on the board with somebody's biro under the return date that said **RETURNED 4/8. SEE COUNTER.**, and above the box, where anybody coming up the ground-floor corridor has to walk under it, the two conditions that have gone onto that board since August: **one in the flat register on the city's own paper, initialled, dated and explained, and one on a strip with nothing on it at all on its face and two initials and one word on the back of it in pencil.** He reads both of them about twice a month and could not tell you today which of the two is hers.
 
-And above those two, on the enamel strip, the line that has been on that strip since the first of March, unsigned, and not touched by anybody since March, and not going to be reissued, and not going to be read out loud by anybody, and standing there in a corridor that about four hundred people have walked under in the last six months without anybody stopping.
+And above both of them, higher up on the same enamel strip, the line that has been on that strip since the first of March, unsigned, and not touched by anybody since March, and not going to be reissued, and not going to be read out loud by anybody, and standing there in a corridor that about four hundred people have walked under in the last six months without anybody stopping.
 
 He looked at it for about a second and a half, the way a man looks at a thing he has decided to keep not doing, and then he read the register of narrowings again instead.
 
@@ -76,7 +76,7 @@ It did not rain. On the Saturday morning he planed the surface of the bench and 
 
 **It is in the wood and not on it, and that is the only mark this account has produced that nobody in this city can be required to look at, and it is not a record of anything, and in four years a man with a plane will find it and think it is a fault in the timber.**
 
-On the Sunday he did not go up the path. **The Weir is a three-hundred-metre lowland street between the canal embankment and a row of boat sheds, blank on the library index, and the trap is lost for good, and the bank is gone, and there are three positions on a kitchen wall with a name against each and a fourth line with a ring of pencil round a space with nothing in it, and a woman of sixty-three refused a pump in advance on the first of June in her own words to a man who came for nothing and not to a pump, and nobody argued, and she is not angry with him, and she has not forgiven him, and he has not been up that path since the first of June and he was not going to go for the price of one paragraph in a report.**
+On the Sunday he did not go up the path. **He had walked past the bottom of it on the Tuesday for forty-one minutes and had walked back forty-one minutes and had not gone up, and there is a fourth line on a kitchen wall on that street with a ring of pencil drawn round a blank space, and a woman of sixty-three refused a pump in advance on the first of June in her own words to a man who came for nothing and not to a pump, and nobody argued, and she is not angry with him, and she has not forgiven him, and he has not been up that path since the first of June and he was not going to go for the price of one paragraph in a report.**
 
 He did not ring the number in the pad. He had rung it once, on the nineteenth, and a woman of about seventy-one had given him nine seconds and had told him not to send her a copy and had not given him her name, and that is in a shop diary and nowhere else, and the number is in the pad and is going to stay in the pad.
 
@@ -118,7 +118,7 @@ The bench is four feet eight and it is beech and it has been planed twice this y
 
 **He wrote two dates in biro on the bench, and the right hand did it, because on Thursday it had come back for about an hour, and he did not tell anybody that either.**
 
-Not on the pad. On the bench, on the flat, along the grain, in the place where the plane had taken the ink up on Saturday and made a pale ghost of it. He wrote them big, about an inch and a half high, because he was not going to make a woman of seventy crouch down in a shop and read a pencil line off a bench.
+Not on the pad. On the bench, on the flat, along the grain, in the place where the plane had taken the ink up on Saturday and made a pale ghost of it. He wrote them big, about an inch and a half high, because he was not going to make a woman of seventy crouch down in a shop and read a biro line off a bench.
 
 > **1 OCT**
 > **11 OCT**
@@ -129,7 +129,7 @@ He put the pen down and looked at them.
 
 **And twelve days to the eleventh of October, which is a Saturday, at ten o'clock at night, on a stair at a hospital, where the renewal begins at seven the next morning, an hour after the money stops.** He is not going to be in that corridor. He and Tomas Renn have each separately and correctly refused to discuss it in a shop and that is now the whole of the rule between them, and it is a rule about not making a plan, and it is the only instrument anybody in this city has produced in five months that is any use at all.
 
-He knew the wood would take it. That was the point of a bench and the point of a Saturday and the point of a plane, and in about four years somebody will sand it back and oil it and the ink is in the wood and not on it and it will still be there, and it will be nine millimetres high, and nobody in this city will know what it is, and there is no rule anywhere that says anybody has to read it.
+He knew the wood would take it. That was the point of a bench and the point of a Saturday and the point of a plane, and in about four years somebody will sand it back and oil it and the ink is in the wood and not on it and it will still be there, and it will be an inch and a half high, and nobody in this city will know what it is, and there is no rule anywhere that says anybody has to read it.
 
 Bea Osunde came back through at about half past five to shut the lights and saw it and stopped and stood in the doorway for a moment.
 
