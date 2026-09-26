@@ -166,3 +166,105 @@
 ## Relationship Policy
 
 One slow-burn relationship only: Jonas and Sanaa. Volume 01 produced a refusal in a corridor, in front of two people, given for a better reason than he had prepared her with; a piece of professional information she had been carrying since 24 March and had not told him; a declaration at nine seconds; and nothing else. No romance has begun and none may begin before Volume 8.
+
+---
+
+# Character State — After Chapter 59 (VOLUME 02, BATCH 0001)
+
+## Jonas Mercer
+
+- **Age / role:** 32; NDC field technician, grade III, probationary, no appointment, no cabinet, no gate-initiation rights at 6-41. **On the register of attachment as LAST WORKING SYSTEM ADMINISTRATOR, CITY OF NACRE — civic standing, released by no person.** Not a promotion; it gives no power and no right to refuse an attachment.
+- **Power:** Stage 2, unchanged. **Three bounded civic edits in five weeks, all at hinges he does not own, none issued by him.** In Chapter 58 he established a new limit on the page: a stage-2 mending needs a person with local standing to instruct it and a named holder to take it; **a restoration route for a burst pipe is a price, the price is a term, the holder field on that term is the name of a company, and a company cannot be argued with, does not get tired, and is not standing in a chamber at half past twelve in the morning.** He still cannot read the root, write a root clause, issue a citywide command, or make anybody consent.
+- **Body:** the seam mark runs past the elbow into the upper arm. The right hand is numb to the elbow and will not close. He braces a roofing slate under a cover and holds it with his forearm for the whole of a mend.
+- **What he did in this batch:** refused a money question and named who should answer it; wrote his own failure on a pad and read it out loud; **did not ask Marguerite Oyelaran for anything**; did not read a stranger's card in the claims box; went into a chamber in the dark at half past twelve at night and did not read anything into a public record.
+- **Flaw in action, named by six people this batch:** he reaches for competence instead of asking. **Bea Osunde: *you do not get to be modest on behalf of a mortuary gate. That is not restraint. That is a vacuum with your face in it.*** **Perdita Sow: *on Monday I could not tell you which of the two of us you are.*** **Margo Doré: *say that again in a fortnight in a room where it matters.*** **Ivo Bamba, who was right: *I have not got the people who do not come in a van.***
+- **Change:** he has learned that **the asking is not the hard part and the being is.** He spent nine days going into rooms, was refused twice, both times correctly, and came away with a number in a woman's handwriting that he then declined to spend. He was told to stay out of a room on 19 May and he said yes.
+
+## Dr. Sanaa Iqbal
+
+- **Age / role:** 35; Saint Orra emergency physician. Named on-call clinician in the gate's fallback clause. **The ninth line is still refused and the refusal stands.**
+- **The second named clinician exists.** **Priya Ranganathan, 41**, on the west roster as a named on-call clinician from **2 May**, part-time, on the same terms as her. Found by **Gunnar Halvorsen in about nine hundred pounds of a dead 2011 participation line item**, under a site-administration order on 22 April that did not need a board because it is under four thousand pounds. The fifth refusal reversed for money.
+- **The fix and the disease are the same money.** She said it herself: *from where I am standing they are the same word, and the hospital line is nine hundred pounds from 2011 and the block is two pounds sixty a week off thirty-one people, and if those are the same then the whole of what I have said to you in five weeks about care is a thing about money, and it is not, and I would like us to be careful.*
+- **The four refusals, given for work and not for trust:** a consultant on 26 March (a rota line is money, I have a person); a consultant on 2 April (I will not be on a rota I did not staff); **the education office on 9 April, which was the no, and the whole letter was *the post is not vacant***; a consultant on 17 April (*not from you*, because he would rather not be a fact in a story the site administration is telling about how it solved a rota).
+- **What she told Jonas:** do not prepare anything for me; do not come into a room in June with something I have said in a corridor in April in your pocket. **And that the moment there are two clinicians on the roster the argument in his own head is going to sound like duty, and it is not duty, it is the third of April with a rota and a hole in it.**
+- **State:** not reconciled, not closed, not thanked. He asked whether it was all right or the fourth kind, and she told him it was the fourth kind, and he then put the pad on the sill and let her read the mortuary gate.
+
+## Oren Pell
+
+- **Age / role:** 61; deputy registrar, nineteen years in post.
+- **Refused to strike a hollow term**, in about ninety seconds, on a telephone, on a Thursday morning, and gave the reason: *a hollow term is a permission that functions. Striking it empties the field. An empty field means the node's maintenance. And the maintenance on a mortuary gate is a man with a key.*
+- **And then said the thing nobody has said in this city:** *I have struck four hollow terms in nineteen years and there are about nine hundred of them because we do not count, and every one of them is a sentence somebody wrote in nine seconds for the best reason available to them at the time. I have never seen one before that was in a hospital. This is not a defect of maintenance. It is a defect of the design.*
+- **Told Jonas he may not attend the 30 April pre-sitting** — a closed meeting, no gallery, no public box, no public minute, no standing for a man who is not a member, not a party and not a departmental officer — and that he may be at the back of the 19 May hearing if he can stand being at the back of it.
+- **Ruled out naming the lowland water point in the porch** of the Old Ward board, on filing grounds, in about forty seconds: describing it would require a location of record; a location of record would be a survey; a survey is a count; a count is the price.
+- **Standing position:** on Jonas's side of the argument, against his own department, and he said in the same week that he has been unable to argue with a line a borough panel wrote about water and has been in the job nineteen years.
+
+## Nina Calder
+
+- **Age / role:** NDC records supervisor, she/her. Drafted the register of attachment twice and invented *released by no person*.
+- **In this batch she built the first instrument of public revision in this city and told Jonas it was nobody's idea.** The **Return of a Deferred Node**, ten fields, nine lines, a blank rule at the bottom, printed at 2 p.m. on 30 April by a records clerk who had never printed one. Not adopted, not minuted, not enforceable. **She sent Doina Serkis back to the plate to take Ivo Bamba's name out of the first return, because the form is not the place to make a man findable at a gate.**
+- **The blank line is not a design feature.** She put it there so the shape of the hole is in the document before somebody prints it on a district with a name. *A form with a hole in it is the only honest thing available to me this week, and I have been a records supervisor for nineteen years and I have never issued one.*
+- **Where she got it:** the man at the basement printer, unasked, who said the drawing layer will draw a shape and a term and a date and the claim under it **and has never once drawn what a thing stopped doing.** So the Lattice cannot publish a narrowing and the city can.
+- **Told Jonas, unprompted, to say thank you to her from Oren Pell and not to put it in a file.**
+
+## Nell Ardent
+
+- **Age / role:** 39; founder of the Open Covenants Legal Clinic.
+- **Found the mechanism of the volume** — clause 4(c) of a participation agreement — in a document she had carried since 2 April, and then refused to make it easier: *those people were not deceived, not coerced, and there was no man in a good coat in that room. I have been doing this for eleven years and I have spent eleven years getting people to sign things, and I have never once been able to make one of them un-sign anything, and this morning I read a piece of paper that says the city has finally built the un-signing button, and it is the shape of a calendar, and there is no appeal against a date.*
+- **Told the residents the fee went up. Did not tell them what the up is**, and said so to Jonas, and went to find out whether they have been told.
+- **Boundary unchanged:** she told them the appeal would fail and filed it anyway; she is not the city's lawyer; she does not reduce a case to a binary and call it a win.
+
+## Marguerite Oyelaran
+
+- **Age / role:** 47; chief officer of the Carrow Lane Housing Association, two rooms above a betting shop on Carrow Lane, eleven years in post, no assistant. The sign says ASK FOR MARGUERITE.
+- **Four blocks, 128 rooms.** Bought Tier 2 on **11 March 2014** for **£16,800**, having read to page two in eleven minutes without knowing she was doing anything anybody could object to. Passed it on at **£2.60 a room a week**, a rise from £11 to £13.60, **by putting a standing order form through 128 letterboxes herself on Saturdays in January and February and knocking on every door.**
+- **Why:** the lift in Block D went out for nine days in 2011 and six days in 2017; a man of eighty-three on four went into a care home for eleven weeks and came out of it having lost the use of one side; a board said no to her in a room with nine people in it in ninety seconds because a lift is a piece of plant and no claim attaches to a piece of plant.
+- **Her line, and it is the volume's thesis from the wrong end:** *I did not invent the price. I passed it on because I had nowhere to put it.*
+- **Said yes in four seconds to putting her own name in six lowland holder fields, and then declined**, and said so out loud, and asked him to write it down: *a person who says yes in four seconds to a thing they know is wrong is worse than a person who says no, and I have done it once in my life and I have just done it in front of you for no reason except that you asked me to wait.*
+- **The refusal:** a plate will not take a bare role; an officer findable at six water points on a street with no address is a document with a name on it, and the street will be on the form. **The draw ends. The job does not.**
+- **Wrote £11,280 on her own board in her own hand** — six lowland points at Tier 1 — and said she was doing it so she could look at Jonas afterwards and find out whether he would do anything with it. **He did not.**
+- **She is not Rook's instrument and has never met him**, and said on the page that she has read what people write about this city and has never once seen anybody get the scale of it right: sixteen thousand eight hundred pounds is the price of a wheelie bin for two years. **She expects to lose Block C.**
+
+## Alden Rook
+
+- **Age / role:** 46; CivicCore operations director. A water authority man, a ledger, and right about enough to be dangerous.
+- **The stairwell, Wednesday 30 April, twenty minutes, and the volume's best argument.** He says the best clause in his own document is the one that says a tier may be challenged by a district or by a node in the same tier, because the alternative is a private queue, and a private queue is a man you know, and a man you know is worse than an invoice. **He also says it is the reason a man on an embankment in April can be beaten by an invoice, and that he has known since March.**
+- **He is not going to try to define *holder* on 19 May**, and he said so unasked, so that Jonas can say he asked. *I want you to know I am not going to do it, so that when somebody tells you the contractor is going to define holder, you can say that you asked him in a stairwell.*
+- **He agreed to publish CivicCore's own narrowings on Nina Calder's form in a fortnight, unasked, and gave the real reason:** on 29 April at 23:11 the first thing that happened to that lowland at one o'clock in the morning was that a contractor's own pressure system noticed — not a person, a system — and in four months that is the most damaging line available to him and he would rather it be in his own document on page eleven with a heading.
+- **He also said: in about two years somebody is going to use the register to say this city has an administrator, and he will have been right in a stairwell with nobody on his side.**
+- **Unsoftened.** He is not softened, not redeemed, and does not lose an argument in this batch.
+
+## Wendell Pryce
+
+- **Age / role:** 38; CivicCore continuity field manager, lanyard and a CONTINUITY FIELD badge. Eleven years in the trade.
+- **The Cooper's Reach panel, Wednesday 23 April:** came to a public hearing, said he was not there to make an offer, then put a written Tier 2 offer on four blocks in a side room with four people in it, with a date on it of 17 April — the night of the surge — written by somebody who did not know eleven people were in a Methodist hall at six in the morning.
+- **The embankment, Wednesday 29 April, 00:20 to 01:25:** in a car with the hazards on, for fifty-five minutes, having been on the embankment since half past twelve because a borough gauge they maintain dropped and **CivicCore watch the lowland.** He offered to put the lowland spur and six points on Tier 2 in **eleven minutes**, for **£25,200**, and said three things:
+  1. it works and he has done it twice;
+  2. **it is not a favour — it is a purchase, and he cannot make it a favour without spending about four hundred pounds of company money on a district that cannot pay on a night when a man from the register is standing on the embankment, which makes the fastest way to get a district bought to be in the room at one o'clock in the morning when it is dark, and in two years a rota of nights**;
+  3. and then, unasked: **there is no rota of nights, there is an acquisition — about two years after that, a tender for *emergency discretionary continuity, section four*, priced, awarded on a track record of discretionary actions, to a procurement officer who has never met any of them.**
+- **He drove away without waiting to be answered.** He refused to soften it afterwards, said the clinic without the fee was still available until the last of June, and that there is no clinic without a fee.
+- **Not the villain. The reason he is frightening is that he is right about a third of it and the third he is right about is the third that wins.**
+
+## Dev Singh
+
+- **Issuer of a live term; owner of the next fight.** The two handovers from 18 April are still in the crossing log and he has told three people this week.
+- **The empty-crossing clause is nine days into a file with no hours on it**, and has been told *historic terms are not resourced* twice. He has eighteen months of fight in front of him.
+- **He worked out, in nine days, why he never actually asked Jonas for it, and said so out loud, once:** every reason not to ask is a reason that would make Jonas the technician who owns his clause, and in about two years somebody would use Jonas to say the city has an administrator who happens to care about a bridge. **He asked for it to be written on a card in the coat and not in the shop, and said he will deny it.**
+- **And he put two numbers together for Jonas to hold: nineteen days, the department's median first attendance on a failed civic hinge; and forty minutes, the number on a board in a corridor. *Write nineteen down next to forty somewhere, and do not let anybody tell you a number is a detail.***
+
+## Ivo Bamba
+
+- **Age / role:** 29; Saint Orra west night orderly. On since ten, not on the rota, not a holder.
+- **Wrote a last verified essential use on 6-44 at about twenty past eleven on Wednesday 23 April, in about nine seconds, in biro, on the back of a laundry delivery note, with no date and no initials:** `ANYBODY WITH A DEAD BODY OR A PERSON WHO CANNOT GET IN ON THEIR OWN`.
+- **He is the least-bad option for the second time in this account**, and the first hollow term in the city in nineteen years, and both of those are because of the same shift pattern.
+- **His reason, and it is the best line about consent in the volume:** *I did not do it for the hospital. If I had done it for the hospital I would have written *a mortuary van* and left it there. I wrote the second half because on the fifteenth of April I was the one holding a laundry bag in a corridor with a door I had no business holding, and there is a number on a board in that building that says forty minutes, and forty minutes is not about a door. Forty minutes is about a family.*
+- **Jonas told him what he had done and that it could not be withdrawn and must not be asked to be, and did not ask him to take it back, and said why.** Ivo Bamba said *then it stays* and went home to bed for eleven hours.
+- **His name was removed from the first public return** by Nina Calder and he is not on any list. He is findable at a mortuary gate for a year and nowhere else.
+
+## Carried refusals and new local figures
+
+- **Gunnar Halvorsen** (service manager, Saint Orra west) has **£4,200** and four nodes and must write to one person by **Saturday 26 April**, and he asked a technician which, and was refused, and was told to write to the mortuary porter and find out that he was right. He also **found about nine hundred pounds in a dead 2011 participation line item on 22 April and put a second named clinician on the west roster without asking anybody**, and has not been thanked.
+- **Yolanda Fofana** (54, Wren Court) told Jonas **he was not the answer to the Weir, first, in front of other people**, said the fee does not stop, and that preferences are what you have when you have not got a right. Her own signature lapsed on 1 April and the block went thin for eleven days and she told the block meeting *there was a mains matter* and has not told the thirty-one. **She predicted he would come back on Sunday and told him to come and not to pretend it was for the file.**
+- **Margo Doré** (63) refused him on 21 April in a kitchen; made him write a refusal down in full and read it back; said a woman of sixty-three burnt a water-authority letter in March about her own supply and would not say what was in it; told him to say a sentence in a fortnight in a room where it matters; **at half past one on 30 April he said it in her kitchen and she made him promise not to come up the path at two in the morning without something that cannot wait.** And she said she wants the trap left packed.
+- **Perdita Sow** (44), out of hospital Thursday 24 April with a sling and a dislocated finger and eleven weeks ahead of her, on the road on a Monday with a shopping bag because Monday is not Sunday and the borough gave her a day: *Five weeks. Every single thing you have done has ended up on a piece of paper that somebody in a building two miles from here is going to read out loud in a room. And there is a woman on this street who has been counting the doors since 1994 and has not written one of them down, and a boy of seventeen who is on a water rota and does not know what a claim is, and me. And that is the list.*
+- **Prue Calloway** (58), borough safety panel chair, eleven years, used section nine of the panel rules for the first time in her career and asked for it to be minuted, and gave the finding that hands Volume 03 its door: *a building has an address. It is the people who have no location of record, and a panel cannot weigh a claim from a person it cannot locate.*
+- **Mina Okafor** put the deferred-node board line in the public box on 23 April with the time and who put it up, and said she had decided at a quarter to eight in the morning that it is not an event, and asked somebody to tell her she was wrong, and nobody did.

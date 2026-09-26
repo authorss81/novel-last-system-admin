@@ -221,3 +221,64 @@ Jonas ends **Stage 2, unchanged in capability and changed in standing for the la
 **Volume 01 is complete at Chapter 48.** The next phase is a volume-close and handoff phase selected by the self-dispatch workflow. **No Chapters 49+ prose, no batch-0006 directory, and no next-phase prompt were created in this batch.**
 
 **The Volume 01 → Volume 02 handoff is the priced-access market.** CivicCore's contract before the Standing Committee on **Monday 19 May**, adjourned from 2 June because the committee cannot define the word *holder*. The mechanism is **paragraph 11 of the Saint Orra service agreement of 2019 — a node is in failure where its civic term has not been continuously in force for more than twenty-four consecutive hours** — which makes maintenance conditional on continuity and continuity a thing people do. Alongside it: **Wren Court's clause nine, thirty-one rooms, no civic address, a participation fee, and nineteen people sheltered there during a flood**; the Anchor House hostel money that ran out on 12 April; the £2,000 continuation bond payable because the Brine Wharf appeal will probably fail; and Selah Mora's line — *money is never the thing that was going to save it, and the only way it is five weeks late is if nobody is standing there when it goes wrong.* **The question Volume 02 asks is what happens to a service when payment becomes a prerequisite for urgent care.**
+
+---
+
+## Volume 02, Batch 0001 — Chapters 49–59
+
+### Story Progress
+
+Volume 02 opens on a green pillar on a street with no address and finds nothing on it, and the batch is the story of a city discovering that the absence is a market.
+
+**Schedule 4 to the Saint Orra service agreement of 2019 — continuity pricing — is the mechanism.** It has been valid since 1 March and nobody in this city had read it until 22 April. It takes paragraph 11's *contractual* failure definition — a node in failure where its civic term has not been continuously in force for more than twenty-four consecutive hours — and converts it into tiers. **An unfunded node is not disconnected; it is deferred. A deferred node serves its last verified essential use, and if none is recorded, it serves its own maintenance. The order of tiers is set by the fee. A tier may be challenged by a district or by a node in the same tier and not by a person.** Tier 1 £1,880, Tier 2 £4,200, Tier 3 £11,400, per node per year.
+
+Nothing in the batch is defeated. The schedule is tabled for 19 May with a covering submission that quotes Tomas Renn's own finding in support of a procurement remedy. The fourth small node at Saint Orra west is still undecided. Two thousand four hundred sandbags are still behind a seven-to-seven key. The Weir's silt trap can no longer be cleared by anybody, ever.
+
+### Midpoint
+
+**Chapter 55. The fix and the disease are the same money.** Dr. Sanaa Iqbal has the second named clinician she has been refused five times since 24 March, and it exists because Gunnar Halvorsen found about nine hundred pounds in a dead 2011 participation line item and wrote an order through the site administration on 22 April that did not need a board. On the same day Tomas Renn learns that his finding is already being cited by a contractor, and that his two dissenting stewards have been cited in a footnote. **The thing that made the witness structure survivable is the instrument that prices it.**
+
+### Climax and Cost
+
+**Chapter 58. Tuesday 29 April, 23:40.** A commissioning clamp, fitted on 11 April with a removal date of 18 April, is still on a lowland spur joint; a works order was closed on paper on the twentieth by a crew that never came back. Emeka Rusk finds it from a gauge and takes it off with a bar and a lump hammer at ten past one in the morning, and the main is sound.
+
+**And that is not the point.** The six lowland water points are not a pipe. They are a term, the term is a price, and there is nobody on the tier at one o'clock in the morning, and the duty engineer says no on the telephone in about forty seconds of the plainest professional English in the batch. **Wendell Pryce of CivicCore has been in a car on that embankment since half past twelve because a gauge they maintain dropped, and he offers to put the lowland on Tier 2 in eleven minutes for £25,200, and says three things: it works; it is a purchase and not a favour, and he cannot make it a favour without creating a rota of nights; and the third reason he was told to say is true.** Then he adds a fourth of his own, about a tender in two years for *emergency discretionary continuity, section four*, priced and awarded on a track record of discretionary actions. He drives away without waiting to be answered.
+
+**They do not buy it.** Nine hours with no mains water on the lowland. Fourteen households at the bottom of the street with kitchens at the back. Eleven Brine Wharf households four days into a month they are not paying for. A net loft with a hundred and nine people in it. **Six bottles carried up a hundred and nine steps at ten to five in the morning by Aurrie Nkemdirim, sixty-one, not on any rota, for Marigold Adjei, seventy-seven, with a chest — and nobody wrote it down, and if anybody had, she would have asked them to take it out.**
+
+**And the Weir.** The stand has no term, no holder and no recorded use, so it serves its maintenance, and its maintenance is the pump that is in the silt trap, so **the trap can no longer be cleared by anybody, ever.** Margo Doré said the sentence on Monday 21 April and made him say it in her kitchen at half past one on 30 April, and then said she wants the trap left packed and the bank left gone and the street left with nothing on it, because a pump is a thing and a thing can be bought.
+
+### Character Change
+
+- **Jonas Mercer refuses a money question** and tells Halvorsen to write to the mortuary porter. **He writes his own failure on a pad in his own hand and reads it out** — *I did not go to the yard on Tuesday. I had it on a pad on Tuesday. I knew on Tuesday what was going to happen on Wednesday night and I did not go* — and it does not stop the hollow term and it did not prevent it. **He does not ask Marguerite Oyelaran for anything**, though she builds the opportunity in front of him, and says out loud that he will not spend it this morning because in nine days the number is worth nothing. **He agrees to stay out of the room on 19 May**, which is the first time he has chosen not to use the register.
+- **Dr. Sanaa Iqbal** refuses to be thanked, gives the four refusals for work and not for trust, and warns him that a second clinician on the roster will make his own argument sound like duty. **Nothing is reconciled and nothing is asked to be.**
+- **Oren Pell** refuses to strike a hollow term in ninety seconds and then says the true thing about it: there are about nine hundred and nobody counts them, and this is a defect of the design and not of maintenance. **He also rules out naming the lowland point in a public porch, on the ground that a location of record would be a survey and a survey is a count and a count is the price.**
+- **Bea Osunde** gives him the sharpest sentence anybody has given him this volume — *you do not get to be modest on behalf of a mortuary gate* — and then, unprompted, tells him that not having a plan was the correct thing to do.
+- **Ivo Bamba, 29**, writes a standing instruction for a mortuary gate in nine seconds on the back of a laundry delivery note and is told what he has done and that it cannot be undone, and says *then it stays*, and goes to bed. **Nina Calder removes his name from the first public return because the form is not the place to make a man findable.**
+- **Nell Ardent** finds rule 4(c) and then refuses to make it easier: nobody was deceived, and she has spent eleven years getting people to sign things and has never once been able to un-sign one.
+- **Marguerite Oyelaran** says yes in four seconds to a thing she knows is wrong, out loud, and asks him to write it down, and then refuses for the best reason anybody has given all year: *a plate will not take a bare role, and an officer findable at six water points on a street with no address is a document with a name on it.* **The draw ends. The job does not.**
+- **Yasmin Rohan refuses CivicCore for the third time, in a third room, and this time gives a reason she has not given before**, which is that in week twelve the people who signed nothing find out that the thing they were using was bought, and by then they have a habit.
+- **Yolanda Fofana** says he is not the answer to the Weir *first*, in front of other people, and says the fee does not stop, and tells him her own signature lapsed on 1 April and that she has not told the thirty-one.
+- **Margo Doré** makes him write a refusal down in full and read it back, and says she burnt a letter about her own water in March and will not say what was in it.
+- **Alden Rook argues the batch's best case in a stairwell, for twenty minutes, and wins a third of it, and says so himself**, and promises not to define *holder*, and agrees to publish CivicCore's own narrowings on the city's form, unasked, for a reason that is not sentiment.
+- **Tomas Renn** is quoted by a contractor, sees his two dissenting stewards quoted in a footnote, tells Jonas not to come to 19 May, and says he knew the cost on the Friday and paid it anyway.
+
+### Power and Continuity State
+
+Jonas ends **Stage 2, unchanged in capability, newly limited in a way he has never been limited before.** In Chapter 58 he established, on the page, that a stage-2 mending requires a person with local standing to instruct it and a named holder to take it; that a restoration route for a burst pipe is a price; that the price is a term; and **that the holder field on that term is the name of a company, and a company cannot be argued with, does not get tired, and is not standing in a chamber at half past twelve in the morning.**
+
+**His first transfer attempt failed**, in Chapter 57, on Volume 01's own rule, and it failed because a plate will not take a bare role and because a person who can be found at six points on an unnamed street is a document with a name on it. **Volume 02 must produce a transfer that works, and must make the reader understand what it costs the receiving holder.**
+
+The body cost is unchanged: the seam mark runs past the elbow into the upper arm, the right hand is numb to the elbow and will not close, and he braces a roofing slate under a cover and holds it with his forearm for the whole of a mend.
+
+### New canon this batch
+
+Schedule 4 and tiers · unfunded node · deferral-not-disconnection · the last verified essential use · rule 4(c) · the challenge restriction · Ivo Bamba's record as the first hollow term in nineteen years · Pell's count of about nine hundred · Marguerite Oyelaran and the Carrow Lane Housing Association · the Return of a Deferred Node and its blank line · Wendell Pryce · the third Yasmin Rohan refusal · the participation line at Saint Orra west · the Weir trap lost for good · nine hours without water on 29–30 April.
+
+### Handoff
+
+**The next batch is Chapters 60–70 and must open on or before Monday 19 May.** The committee has Schedule 4 tabled, a covering submission quoting a shop steward's finding, a registrar who cannot define *holder*, and an operations director who has promised not to define it. The only instrument the city has built is a form with a hole in it. The public box exists. **Jonas is not on anything and is not on the agenda and must not be written as though he is.**
+
+Open threads: 19 May itself · who asks Marguerite Oyelaran about the six water points · the three unnamed nodes at Saint Orra west and who Halvorsen writes to · the nineteen of thirty-one and the eleven who were in that building on the seventeenth · the rota at Saint Orra west that has still not been built again · the cooperative steward board, which does not exist yet · and **the first transfer that works.**
+
+**Unspent and forbidden in Volume 02:** the Quiet Cut, the civic erasure, the origin of the watch term, the three-line brass tokens, Evan's counter-amendment and second signature, Iona, the root chamber, the blank bearer, the name in biro on the map, the boy of nineteen on the bicycle, the letter burnt in the cook-house stove, and the Weir's three positions.
