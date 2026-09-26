@@ -1,6 +1,6 @@
-# Chapter 0122 — The Man Who Was Asked And Did Not Know What He Was Signing
+# Chapter 0122 — The Man Who Is Safer Not Knowing
 
-**Wednesday the fourth of February 2015, about twenty past eleven in the morning, the counter, the records office, second floor. And Friday the sixth of February, about half past ten in the morning, a ground-floor corridor, Saint Orra west.**
+Wednesday the fourth of February 2015, about twenty past eleven in the morning, the counter, the records office, second floor. And Friday the sixth of February, about half past ten in the morning, a ground-floor corridor, Saint Orra west.
 
 **He asked nothing in either room, and that is not an omission. It is the finding.**
 
@@ -20,7 +20,7 @@ And then there is the third one, and he is the one nobody in this borough talks 
 
 ---
 
-**On the Friday morning he went to Saint Orra west, and he did not go to level zero, and he did not try.**
+On the Friday morning he went to Saint Orra west, and he did not go to level zero, and he did not try.
 
 He went as a member of the public on a Friday, in daylight, and he stood in a ground-floor corridor for about half an hour with nothing in his hands, the way he has stood in corridors since the fourth of September, and a man came past with a mop and did not look at him, and the corridor smelled of the same thing it has smelled of all year, which is warm plastic and floor polish and a thing underneath both of them that four hundred and twenty women would recognise and he has never been able to name.
 
@@ -32,7 +32,7 @@ On the wall by the lift there was a sheet in a plastic wallet, printed, and it i
 
 Nothing on it defines anything. It does not say who empties the drawer. It does not say what a strip is held to prove. It says the strip goes in the drawer in the room and it does not say that anybody has to, and that is the design, or it is the neglect, and there is no instrument in this city that can tell the difference between those two words about a wall.
 
-**Bram Osei was on the desk by the lift. He is a porter. He is the day bearer and he has refused a Thursday in his own handwriting and asked twice that it not be looked at, and the second line under his name was written by somebody else and says in their hand that no reason was given, and he knows about the second line and has never asked for it to come off.**
+Bram Osei was on the desk by the lift. He is a porter. He is the day bearer and he has refused a Thursday in his own handwriting and asked twice that it not be looked at, and the second line under his name was written by somebody else and says in their hand that no reason was given, and he knows about the second line and has never asked for it to come off.
 
 They talked for about nine minutes. Jonas Mercer did not ask him anything. There was no question of his in that corridor and there was not going to be one.
 
@@ -56,7 +56,7 @@ Bram Osei did not look up from the desk.
 
 ---
 
-**And then Bram Osei said the thing that made the sentence survivable, and he said it to the desk, and it took about four seconds, and Jonas Mercer wrote it down on the Friday evening in a shop on the back page of a pad where he keeps the things that are his.**
+And then Bram Osei said the thing that made the sentence survivable, and he said it to the desk, and it took about four seconds, and Jonas Mercer wrote it down on the Friday evening in a shop on the back page of a pad where he keeps the things that are his.
 
 "**Then the only instrument in this borough that keeps a man from being askable is a man who does not know, and there is no other one, and I have never said that out loud before.**" He looked up. "**You have understood that I have known it since June and I have said nothing about it, and the reason I have said nothing is that I have a Thursday on that board with a line under it in somebody else's hand, and if I knew about the forty-eight I would be two men knowing and there is no room on that board for that.**"
 
@@ -70,11 +70,11 @@ Bram Osei did not look up from the desk.
 
 **The autumn compliance report stands. Paragraph 4.11 stands. Four hundred and twenty women stand behind a paragraph number and no person stands in front of it. The bench steriliser on level zero is four years old and running on four hundred and ten pounds of service that a doctor bought herself, and the room goes on working, and the instruments go on coming out of it, and not one person in this borough is going to be harmed by any of that this year.**
 
-**And nobody in this borough has been helped by any of it either, and that is going to be said out loud here, in its own voice, and it is not going to be apologised for, because apologising would be a way of making the not-helping into a thing that somebody intends, and it is not a thing that anybody intends. It is a machine in a room on level zero with a strip that comes out of it about forty times a day, and nobody has been hurt, and nobody has been helped, and both of those are true at once and there is no third thing to say.**
+And nobody in this borough has been helped by any of it either, and that is going to be said out loud here, in its own voice, and it is not going to be apologised for, because apologising would be a way of making the not-helping into a thing that somebody intends, and it is not a thing that anybody intends. It is a machine in a room on level zero with a strip that comes out of it about forty times a day, and nobody has been hurt, and nobody has been helped, and both of those are true at once and there is no third thing to say.
 
 ---
 
-**And here is the part that is going to be in the pad, and it is the only thing in any of it that Jonas Mercer worked out on his own, and he worked it out standing at the bottom of a fire stair on the Friday morning because it was raining again.**
+And here is the part that is going to be in the pad, and it is the only thing in any of it that Jonas Mercer worked out on his own, and he worked it out standing at the bottom of a fire stair on the Friday morning because it was raining again.
 
 **The machine is still running.**
 
@@ -82,6 +82,6 @@ The report says the cycle is recorded. The notice by the lift says the record is
 
 **A strip is a piece of paper. A drawer is a place. And a piece of paper does not put itself in a drawer.**
 
-So somebody has been putting the strips in the drawer — not the doctor, who has refused in her own words and must not be asked; not the man of forty-eight, who stopped in October; not a name, because there is no name field and there never was. Somebody is doing a small, correct, unremarkable act about forty times a day in a room on level zero at a hospital in this borough, and that person is not on a form, is not on a rota, is not in a paragraph, and has not been asked, and **has not been found either, and Jonas Mercer is not going to go and find him, and that is the second time in three days he has decided not to find somebody, and the reason in both cases is the same one, and it is going to be the sentence he is judged on.**
+So somebody has been putting the strips in the drawer — not the doctor, who has refused in her own words and must not be asked; not the man of forty-eight, who stopped in October; not a name, because there is no name field and there never was. Somebody is doing a small, correct, unremarkable act about forty times a day in a room on level zero at a hospital in this borough, and that person is not on a form, is not on a rota, is not in a paragraph, and has not been asked, and **has not been found either, and Jonas Mercer is not going to go and find him, and that is the first time in nine months that he has decided not to find somebody on purpose, and the reason is the one he gave out loud in that corridor on the Friday morning, and it is going to be the sentence he is judged on.**
 
 The slot in the counter of the vestibule is still empty. The register still has nineteen entries in it. The blank line under the nineteenth is blank and it is the only fixed point in the building and it will be blank on Friday morning and on Tuesday morning and on the morning of the seventh of March.

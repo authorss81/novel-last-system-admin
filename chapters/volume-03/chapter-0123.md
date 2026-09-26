@@ -1,6 +1,6 @@
 # Chapter 0123 — What Comes Back To A Counter
 
-**Friday the sixth of February 2015, about ten past ten in the morning and about half past three in the afternoon, the vestibule, ground floor, the Old Ward. And the corridor outside it.**
+Friday the sixth of February 2015, about ten past ten in the morning and about half past three in the afternoon, the vestibule, ground floor, the Old Ward. And the corridor outside it.
 
 ---
 
@@ -24,6 +24,8 @@ A counter that answers nine people a day is a counter that has been asked to ans
 
 **Nobody has to cut it. The number does the cutting, by existing.** That is the whole of what a number of nine in a record is, and it is why it is going to stay on the back of a hand in a room eleven feet by nine, and it is the reason that a person who is good at this has spent nineteen years designing the absence of boxes instead of the boxes.
 
+**And the nine is people, and the nine is not slips.** That is the thing that has to be understood about every number in that room and nobody has ever said it out loud, because it is not the sort of thing anybody says out loud: nine people a day come through that door and almost none of them ask what was true on a day, and a piece of paper only gets written for the ones who do, and there are three of those and all three have come more than once, and the two numbers have nothing to do with each other and must never be added together. **A counter that writes one slip a week and sees nine people a day is not under-performing and is not over-performing. It is a counter.**
+
 There was no question of his in that vestibule on the Friday morning, and the counting has been right in every month of this year.
 
 ---
@@ -36,9 +38,9 @@ He wanted two things and he asked for both in one go, and Jonas Mercer was four 
 
 He wanted a state about the water at the tap on the wall of the yard where he parks the van, and he wanted to know whether a bus stop was being moved.
 
-"**The yard is on the council side and the tap is a tap and it runs when somebody has paid for the water, and it has not run since before Christmas, and I have been buying bottled water for a van of eleven men and I would like to know what is true about it on a date.**"
+"**The yard is on the council side and the tap is a tap and it runs when somebody has paid for the water, and it has not run since before Christmas, and I have been buying bottled water for a van of ten men and I would like to know what is true about it on a date.**"
 
-Nina Calder gave him a state and a date in about eleven seconds, and it was the fifth time she had done that to anybody since the twenty-sixth of January, and she did it standing up and she did not look anything up.
+Nina Calder gave him a state and a date in about eleven seconds, and it was the seventh time she had written one for anybody since the twenty-sixth of January and the fourth time she had written one for the same man, and she did it standing up and she did not look anything up.
 
 Then the bus stop.
 
@@ -80,7 +82,7 @@ He had worked out the difference on the Sunday, in a kitchen, on his own, and he
 
 **The difference is that a date can be wrong, and if it is wrong you can come back.** That is the whole of it. That is the entire mechanism, and it is eleven words long and nobody in this borough has said it to him and nobody in this borough is going to.
 
-**And the second thing he worked out, in the same kitchen, on the same Sunday, and it is the thing that nobody in this borough has thought about, and it is the thing that Jonas Mercer spends the rest of the morning being frightened of:**
+And the second thing he worked out, in the same kitchen, on the same Sunday, and it is the thing that nobody in this borough has thought about, and it is the thing that Jonas Mercer spends the rest of the morning being frightened of:
 
 **He can now do this to anything.**
 

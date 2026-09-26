@@ -1,6 +1,6 @@
 # Chapter 0127 — The Man Who Could Be Asked, Still
 
-**Wednesday the twenty-fifth of February 2015, about half past nine in the morning, the counter, the records office, second floor. And Friday the twenty-seventh of February, about two in the afternoon, the shop.**
+Wednesday the twenty-fifth of February 2015, about half past nine in the morning, the counter, the records office, second floor. And Friday the twenty-seventh of February, about two in the afternoon, the shop.
 
 **There was one question in that counter and it was five words long and it was asked by Jonas Mercer, and the woman who answered it is not on any board and has been at that counter for eleven years, and she is not Nina Calder, and the two of them are the same age and work on the same floor and have never once been confused for each other.**
 
@@ -26,13 +26,13 @@ That is the whole of the change and it took three weeks for him to see what it a
 
 For nine months the only thing this borough had to make a person findable was a person going to a place and standing in a corridor, and a corridor costs a day and a raincoat and a decision, and a decision is expensive, and a man who has spent eight months refusing to be a person anybody can ring has understood that expense in his body and has been living on it.
 
-**And in the third week of January a woman stood up in a vestibule eleven feet by nine and said that a person could ask a question and get a date, and a date is a piece of paper, and a piece of paper saying what was true on a day is the cheapest handle in this city.**
+And in the third week of January a woman stood up in a vestibule eleven feet by nine and said that a person could ask a question and get a date, and a date is a piece of paper, and a piece of paper saying what was true on a day is the cheapest handle in this city.
 
 Not cheap to her. Cheap to him. He is the one who would be handing it over.
 
 ---
 
-**And so he did the arithmetic, and here it is, and it is four lines and it is the reason the second refusal of a man of forty-nine is harder than the first, and nobody in this borough has ever seen it because it is on the back page of a pad in a shop.**
+And so he did the arithmetic, and here it is, and it is four lines and it is the reason the second refusal of a man of forty-nine is harder than the first, and nobody in this borough has ever seen it because it is on the back page of a pad in a shop.
 
 > *Twenty-fifth February.*
 > *A date is a state with a day on it. That is all it is. A records supervisor can be held to one about a trough and cannot be held to one about a bus stop, and the difference between the two is the whole of what she can be held to.*
@@ -43,7 +43,7 @@ Not cheap to her. Cheap to him. He is the one who would be handing it over.
 
 ---
 
-**And the woman at the counter on the second floor answered the five words, and she has never asked him a question in three years and has never once thanked him for coming, and there is no box anywhere in that office on either of those two subjects.**
+And the woman at the counter on the second floor answered the five words, and she has never asked him a question in three years and has never once thanked him for coming, and there is no box anywhere in that office on either of those two subjects.
 
 "**Does a correction go anywhere.**"
 
@@ -91,7 +91,7 @@ Beatrice Osunde put the ash down, which is the thing she does when she is about 
 
 ---
 
-**And then she said the sentence, and she said it to the bench oiling, and she said it once and she did not say it twice, and she has never said anything twice in thirty-one years at the end of that street, and Jonas Mercer wrote it down on the Friday night in a shop in about four seconds because he knew he was not going to be able to hold it otherwise.**
+And then she said the sentence, and she said it to the bench oiling, and she said it once and she did not say it twice, and she has never said anything twice in thirty-one years at the end of that street, and Jonas Mercer wrote it down on the Friday night in a shop in about four seconds because he knew he was not going to be able to hold it otherwise.
 
 "**You have been finding people for eight months and you have not yet found out that the expensive half is not being found. It is being asked.**"
 
@@ -99,13 +99,13 @@ Nobody answered it. A trolley came past. She went back to the bench.
 
 ---
 
-**And here is what February established, and it is a finding and not a scheme, and it is the last thing anybody in this borough has to say about a man of forty-nine.**
+And here is what February established, and it is a finding and not a scheme, and it is the last thing anybody in this borough has to say about a man of forty-nine.
 
 **Findability and askability are two different currencies, and this borough has been minting the first one very successfully since the third of April, and it has not spent one unit of the second one at all.**
 
 He made a man of forty-four a wall in August and a man of forty-nine a door in November, and neither of them was in a room. **A wall is a person who cannot be asked. A door is a person who can be asked. Both of them are findable. Findability is what he has been producing, deliberately, in rooms, out loud, with his own mouth, and it is the only thing he has actually built this year, and it is in two public minutes and one of them contains no names at all.**
 
-**And the price of a door is that it opens. The price of being found is nothing. The argument of the last three months is that being findable is not the same as being useful, and a woman of about sixty said that to him in a shop in November and told him she was only going to say it once, and he wrote it down because he writes everything down, and she was right. And a woman of fifty-four said something else to him in a kitchen in December and told him not to write it down, and he did not, and she was also right. Put the two of them together and the second half is worse: **being findable is not the same as being askable**, and a borough that has learned how to make people findable has not thereby learned anything at all about whether anybody can be asked anything.**
+And the price of a door is that it opens. The price of being found is nothing. The argument of the last three months is that being findable is not the same as being useful, and a woman of about sixty said that to him in a shop in November and told him she was only going to say it once, and he wrote it down because he writes everything down, and she was right. And a woman of fifty-four said something else to him in a kitchen in December and told him not to write it down, and he did not, and she was also right. Put the two of them together and the second half is worse: being findable is not the same as being askable**, and a borough that has learned how to make people findable has not thereby learned anything at all about whether anybody can be asked anything.**
 
 **And a man of forty-nine can be asked one question tomorrow morning, about anything, for ever, by anybody, and he is not untouchable, and he is not to be protected, and there is no argument in this borough in which protecting him is the right thing, and he is not going to be asked, and Jonas Mercer is not going to go, and the reason is eleven seconds long and it is on the back page of a pad and it is the only reason he has got.**
 
@@ -117,4 +117,4 @@ He made a man of forty-four a wall in August and a man of forty-nine a door in N
 
 And he has a fortnight. He has had one in this city since before Christmas and one in the middle of January and he has one again now, and it ends on the twenty-eighth of February, or the first of March, and he goes somewhere in this city with a bucket and a tap and he does whatever a man does with a fortnight and a bucket, and he is on his own, and he is not on a rota, and there is no instrument in this city that has ever recorded that he goes.
 
-**It has been four degrees all week. There is a frost warning out for the twenty-eighth that nobody in this borough is anybody's business to act on. And there is nobody in this borough who is able to ask him whether he has got a coat.**
+It has been four degrees all week. There is a frost warning out for the twenty-eighth that nobody in this borough is anybody's business to act on. And there is nobody in this borough who is able to ask him whether he has got a coat.

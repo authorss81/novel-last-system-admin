@@ -1,6 +1,6 @@
-# Chapter 0125 — A Reason Column, Again, And The Eighth
+# Chapter 0125 — A Reason Column, Again, And Why There Is No Eighth
 
-**Monday the sixteenth of February 2015, about twenty past ten in the morning, the vestibule, ground floor, the Old Ward. And Wednesday the eighteenth of February, about a quarter past eleven in the morning, the same room.**
+Monday the sixteenth of February 2015, about twenty past ten in the morning, the vestibule, ground floor, the Old Ward. And Wednesday the eighteenth of February, about a quarter past eleven in the morning, the same room.
 
 **There was one question of Jonas Mercer's in that room on the Monday morning and it was nine words. The other question in that room was asked by a man of sixty-one who is not on any list, and it took him about four minutes to get to, and it is the best argument anybody has made in this borough since the first of March.**
 
@@ -8,7 +8,7 @@
 
 **It is not M. Furneaux.**
 
-He wrote once, on the second of January, and was refused at that counter in the right order in about eleven seconds, and the letter went back with nothing in it on the fifth, and a records supervisor said out loud at that counter that he would write again in about four years and she would say no a second time in the same words, and he has not written. **He is not going to write before about 2018 and he is sixty-one and he lives at the back of a block of rented rooms on Carrow Lane and nothing has happened to him since the second of January except that a board in a vestibule has not moved.**
+He wrote once, on the second of January, and was refused at that counter in the right order in about eleven seconds, and the letter went back with nothing in it on the fifth, and a records supervisor said out loud at that counter that he would write again in about four years and she would say no a second time in the same words, and he has not written. He is not going to write before about 2018 and he is sixty-one and he lives at the back of a block of rented rooms on Carrow Lane and nothing has happened to him since the second of January except that a board in a vestibule has not moved.
 
 This is a different man, and he is also sixty-one, and he is not a pattern, and there is a card on a wall in a Methodist hall that says a pattern is a thing two people can see and one of them can write down, and nobody has written this one down and nobody is going to.
 
@@ -16,11 +16,11 @@ This is a different man, and he is also sixty-one, and he is not a pattern, and 
 
 He came in on the Monday morning with a plastic wallet and he had it out before he had got to the counter, which is the second time in a fortnight that a man has done that in this room, and Jonas Mercer understood all of it in about four seconds.
 
-Inside the wallet: a printed extract, three pages, unsigned, no name box, fifty-one nodes, thirty-eight parties, thirteen shapes, as at 18:00 on Monday the sixth of October 2014, checkable at a counter by anybody, for nothing, by post, as of a date. **He had gone and asked for that himself, in the third week of January, and a clerk had given it to him, and it has about four hundred other people's names written on the top sheet in about four hundred different hands, and he has read it.**
+Inside the wallet: a printed extract, three pages, unsigned, no name box, fifty-one nodes, thirty-eight parties, thirteen shapes, as at 18:00 on Monday the sixth of October 2014, checkable at a counter by anybody, for nothing, by post, as of a date. He had gone and asked for that himself, in the third week of January, and a clerk had given it to him, and it has about four hundred other people's names written on the top sheet in about four hundred different hands, and he has read it.
 
 And in the other pocket: a slip of paper with a date on it and a hand on it and no reference and no name, which said what was true about a standpipe on a post at the bottom of his car park at about ten past ten on the morning of Thursday the fifth of February, in eleven seconds, by a person standing up.
 
-**A date is a thing you can attach a question to.** That is the whole mechanism and it is nine months old and it has been sitting in this borough the entire time waiting for somebody to work out that it works on other things.
+A date is a thing you can attach a question to. That is the whole mechanism and it is nine months old and it has been sitting in this borough the entire time waiting for somebody to work out that it works on other things.
 
 ---
 
@@ -56,7 +56,7 @@ He put two fingers on the board at the end of the counter without looking away f
 
 ---
 
-**And that is the argument, and it is a good one, and it is the best argument anybody has made in this borough since the first of March, and Jonas Mercer, who was four feet away with nothing in his hands, felt it land.**
+And that is the argument, and it is a good one, and it is the best argument anybody has made in this borough since the first of March, and Jonas Mercer, who was four feet away with nothing in his hands, felt it land.
 
 **Because she can.**
 
@@ -68,7 +68,7 @@ He looked at her and waited, and he was not being clever, and Jonas Mercer had t
 
 ---
 
-**And she refused in the right order, at a counter, in a public room, in about eleven seconds, and it is the same refusal, and it is not the eighth of anything, and here is the sentence she said about that, out loud, in daylight, in a room, in February.**
+And she refused in the right order, at a counter, in a public room, in about eleven seconds, and it is the same refusal, and it is not the eighth of anything, and here is the sentence she said about that, out loud, in daylight, in a room, in February.
 
 "No."
 
@@ -112,7 +112,7 @@ She put her hand flat on the counter, which she does about four times a year, an
 
 ---
 
-**He stood there for about four seconds and then he said the thing that Jonas Mercer wrote down afterwards and did not show to anybody.**
+He stood there for about four seconds and then he said the thing that Jonas Mercer wrote down afterwards and did not show to anybody.
 
 "**That is the first time in nineteen months that anybody in this borough has told me the price of a thing instead of telling me I cannot have it, and I am not going to argue with it, and I would like to say one thing back and then I am going to leave.**"
 
@@ -132,24 +132,24 @@ He shook her hand, which is a thing people do, and went out, and he did not writ
 
 Not easier. Cheaper. **By the second time, both of them know what it is for.** The first letter in January was a man of sixty-one being careful. The second was a man of sixty-one with a wallet and a photograph in it and an argument, and the argument was better than anything she had been asked to refuse, and the reason it could be better is that the first refusal was public enough to be found, in the sense that a person who has been told no at a counter talks about it, and that is the only mechanism this borough has for improving a refusal, and it is not a mechanism anybody designed and it is not a mechanism anybody can close.
 
-**That is what the second one cost her: about nine minutes instead of eleven seconds, and she is going to be judged on the seconds and the nine minutes are the price of doing it properly.**
+That is what the second one cost her: about nine minutes instead of eleven seconds, and she is going to be judged on the seconds and the nine minutes are the price of doing it properly.
 
 ---
 
-**And in the corridor outside, the man of about fifty-six, who is not a member and did not come as a member and is not on any list, was standing at the wall, and he had a pen, and he wrote five words on the back of his left hand in about four seconds, and nobody saw him do it and nobody has ever asked him what is on his hand and nobody is going to.**
+And in the corridor outside, the man of about fifty-six, who is not a member and did not come as a member and is not on any list, was standing at the wall, and he had a pen, and he wrote five words on the back of his left hand in about four seconds, and nobody saw him do it and nobody has ever asked him what is on his hand and nobody is going to.
 
 **IT IS NOT A LIST.**
 
-That is all it says. It is not a document, it is not a minute, it is not in a file, it cannot be produced, it is in biro on the back of a hand that has been in a car park since December, and it is the truest sentence anybody has said in this borough in nine months and there is nowhere in this city to put it.
+That is all it says. It is not a document, it is not a minute, it is not in a file, it cannot be produced, it is in biro on the back of the left hand of a man who has been sitting in a car park since December, and it is the truest sentence anybody has said in this borough in nine months and there is nowhere in this city to put it.
 
 ---
 
-**And on the Wednesday morning, the eighteenth of February, the eighteenth of February was a Wednesday, and a letter came into the records office on the second floor at about half past nine and went into a tray, and Jonas Mercer saw the envelope because the tray is in his eyeline every time he comes up those stairs.**
+And on the Wednesday morning, the eighteenth of February, a letter came into the records office on the second floor at about half past nine and went into a tray, and Jonas Mercer saw the envelope because the tray is in his eyeline every time he comes up those stairs.
 
 The envelope was not on borough stock and it had no crest on it. It had a departmental reference on it, a real one, in the correct typeface, and it had a date on it, and it was about four lines long.
 
-**Neither of them wrote a third time. Somebody else did, and he is a records officer, and it is not a reason column, and it is not a list, and it is the only thing in this borough anybody has wanted since the first of March that is smaller than a list and it is one word long, and it is the word the whole of this year has been walking towards without anybody saying it.**
+Neither of them wrote a third time. Somebody else did, and he is a records officer, and it is not a reason column, and it is not a list, and it is the only thing in this borough anybody has wanted since the first of March that is smaller than a list and it is one word long, and it is the word the whole of this year has been walking towards without anybody saying it.
 
 Nobody opened it in front of anybody. It went into the tray with the rest of the correspondence, and the tray is on the second floor, and the ground-floor counter has a tray of its own, and the two trays are eleven feet and one floor apart, and in about four years somebody is going to be able to say which one a thing was in.
 
-**And the board at the end of the counter has nineteen entries on it and a blank line under the nineteenth, and nobody has written on the line and nobody is going to, and it is the only fixed point in the building, and the two conditions are sixteen inches apart above it and nobody has reconciled them and nobody is going to.**
+And the board at the end of the counter has nineteen entries on it and a blank line under the nineteenth, and nobody has written on the line and nobody is going to, and it is the only fixed point in the building, and the two conditions are sixteen inches apart above it and nobody has reconciled them and nobody is going to.

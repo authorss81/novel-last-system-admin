@@ -1,6 +1,6 @@
 # Chapter 0128 — A Saturday Night Nobody Wrote Down
 
-**Monday the second of March 2015, about eleven in the morning, a ground-floor corridor, Saint Orra west. And Wednesday the fourth of March, about ten past ten in the morning, the records office, second floor.**
+Monday the second of March 2015, about eleven in the morning, a ground-floor corridor, Saint Orra west. And Wednesday the fourth of March, about ten past ten in the morning, the records office, second floor.
 
 **There was one question of his in that office on the Wednesday morning and it was ten words long and it was asked at a counter, and there was no question of his at all in the corridor at the hospital, and he had told the porter in advance that he was not going to ask him one, and he did not.**
 
@@ -10,13 +10,13 @@ He had worked it out on Sunday evening, and it took about four minutes, and the 
 
 **The fourth time is a habit.**
 
-**He had been in that corridor once, at half past four in the morning on Sunday the fourth of January 2015, for the last hour and a half of a term.** That was the only time. He had not gone on the Saturday night before it, at ten o'clock, and had stood four hundred yards away in the rain and had not telephoned, because ringing is the same as going. And on Friday the twenty-seventh of December, in a different building and for an entirely different reason, he had stood on a first landing outside a fire door for about ten minutes and had not used the keypad.
+He had been in that corridor once, at half past four in the morning on Sunday the fourth of January 2015, for the last hour and a half of a term. That was the only time. He had not gone on the Saturday night before it, at ten o'clock, and had stood four hundred yards away in the rain and had not telephoned, because ringing is the same as going. And on Friday the twenty-seventh of December, in a different building and for an entirely different reason, he had stood on a first landing outside a fire door for about ten minutes and had not used the keypad.
 
 Three decisions, and they were three different decisions, and the reason they were different is that each of them was about a different thing and none of them was about a habit.
 
 **And then the first of February came and went, and he did not go, and he did not decide not to go, and there was nothing on any day of that week that said a man had chosen anything at all. That was the fourth one. That is what a fourth one is.**
 
-**So the fifth is coming.** It is half past four in the morning on Sunday the eighth of March, in a corridor, for the last hour and a half of a term, and the handover in front of it is at ten o'clock on the Saturday night, which is the seventh. **A fifth is not a decision either. A fifth is a man who does this.** And what a man does in a corridor at half past four in the morning, five times, is be the man who is in the corridor at half past four in the morning, and a man who is in a corridor at half past four in the morning is a man who can be expected to be in one, and a man who can be expected is on a rota, and a rota with one name on it is the exact object this borough has spent nine months refusing to be, and it has already cost four tonnes of stone and about eleven hundred and eighty pounds off somebody's schedule and it has not bought anybody anything at all.
+**So the fifth is coming.** It is half past four in the morning on Sunday the eighth of March, in a corridor, for the last hour and a half of a term, and the handover in front of it is at ten o'clock on the Saturday night, which is the seventh. A fifth is not a decision either. A fifth is a man who does this. And what a man does in a corridor at half past four in the morning, five times, is be the man who is in the corridor at half past four in the morning, and a man who is in a corridor at half past four in the morning is a man who can be expected to be in one, and a man who can be expected is on a rota, and a rota with one name on it is the exact object this borough has spent nine months refusing to be, and it has already cost four tonnes of stone and about eleven hundred and eighty pounds off somebody's schedule and it has not bought anybody anything at all.
 
 He wrote it down on the Sunday in about four minutes on the back page of a pad, and then he did something he has never done in nine months, which is that he read it back and it did not need improving.
 
@@ -28,7 +28,7 @@ He wrote it down on the Sunday in about four minutes on the back page of a pad, 
 
 ---
 
-**He went into the building on the Monday at about eleven in the morning, in daylight, on foot, off the street, the way anybody walks into a hospital.**
+He went into the building on the Monday at about eleven in the morning, in daylight, on foot, off the street, the way anybody walks into a hospital.
 
 He was not on the rota. He was not on a board. He was not a member of anything and he had not come as a member of anything. He was a person with civic standing and no grade and no department and no probation, and he was standing in a public corridor of a hospital at eleven in the morning on a Monday, and there is no box anywhere in that building that says he may not.
 
@@ -44,7 +44,7 @@ Bram Osei finished putting the trolley down.
 
 "**Why are you telling me.**"
 
-"**Because you are the person in this building who has a day on a board in his own handwriting and a second line under it in somebody else's, and because I have said to you before, on the sixth of February, that the only instrument in this borough that keeps a man from being askable is a man who does not know, and I have just made you a person who knows something, which is the one thing I told you in a corridor six weeks ago that must not happen to you, and I have done it to you anyway, on purpose, and I would rather you had it from me in a corridor in daylight than work it out.**"
+"**Because you are the person in this building who has a day on a board in his own handwriting and a second line under it in somebody else's, and because I have said to you before, on the sixth of February, that the only instrument in this borough that keeps a man from being askable is a man who does not know, and I have just made you a person who knows something, which is the one thing I told you in a corridor twenty-four days ago that must not happen to you, and I have done it to you anyway, on purpose, and I would rather you had it from me in a corridor in daylight than work it out.**"
 
 "**Then I am a man who knows something now.**"
 
@@ -70,7 +70,7 @@ The two men were Ezra Mbeki, who has been in and out of that building since 1992
 
 ---
 
-**And on the Wednesday morning, the fourth of March, Jonas Mercer went up to the second floor and asked the woman who has been at that counter for eleven years and is not Nina Calder one question, and it was ten words, and he had not spent it.**
+And on the Wednesday morning, the fourth of March, Jonas Mercer went up to the second floor and asked the woman who has been at that counter for eleven years and is not Nina Calder one question, and it was ten words, and he had not spent it.
 
 "**Does anything the records office holds bear on that gate.**"
 
@@ -88,11 +88,11 @@ He did not ask a second question. There was no second question of his in that of
 
 ---
 
-**And here is the whole of what happened at Saint Orra west between the first of March and the eighth, and there is not very much of it, and none of it was done by him.**
+And here is the whole of what happened at Saint Orra west between the first of March and the eighth, and there is not very much of it, and none of it was done by him.
 
 **The rota has still not been rebuilt.** It has not been rebuilt since the second of April and there is no instrument in this city by which it could be, and the eleven o'clock to half past one row is still empty and still not shaded and still does not say *vacant*, and anybody coming up that corridor reads it every morning and has read it every morning for eleven months and has not been asked about it.
 
-**Bram Osei's Thursday is still refused on the board in his own words.**
+Bram Osei's Thursday is still refused on the board in his own words.
 
 > **B. OSEI. NO.**
 > *no reason I can give*
@@ -100,7 +100,7 @@ He did not ask a second question. There was no second question of his in that of
 
 The second line is still in somebody else's hand. He has asked twice that it not be looked at. Nobody has looked at it this year and nobody is going to.
 
-**Priya Ranganathan's card is still in a plastic sleeve on the Friday and Saturday rows because she put it there**, and it is there because it is hers, and nobody has asked her to move it and nobody is going to.
+Priya Ranganathan's card is still in a plastic sleeve on the Friday and Saturday rows because she put it there, and it is there because it is hers, and nobody has asked her to move it and nobody is going to.
 
 **A term is six days.** It is not seven and nobody in this borough is going to call it seven. It is read on the Saturday night before the Sunday it starts on, which is why the Saturday nights are what are a week apart and why there is an hour on every Sunday morning between six and seven when no term is in force at all. The handovers were read on the twenty-fourth of January, and on the thirty-first, and on the seventh of February, and on the fourteenth, and on the twenty-first, and on the twenty-eighth, and **there has not been a date written down anywhere in this city for a single one of them, and there is not going to be one, and the reason is not an oversight, and the reason is that a person is not required to be told and there is nobody in this borough who is required to write it.**
 
@@ -108,7 +108,7 @@ The second line is still in somebody else's hand. He has asked twice that it not
 
 **And the gate opened at seven o'clock on Sunday the first of March 2015, and it will open at seven o'clock on Sunday the eighth, and it opened at seven because two people were in a waiting area with four chairs at ten o'clock the night before and neither of them was on anything.**
 
-**That is still the only move anybody in this borough has, and it is worth exactly nothing, and it is the only thing that works, and there is no instrument that can put a man on a board that says a rota, because there is no board.** A man who cannot be required to do anything is the only person in that building who can be there without being a service — and on the fourth of January that man was there, and on the first of February he was not there and did not decide not to be there, and on the seventh of March he will not be there either and has said so out loud, and **the gate opened anyway, and that is the finding, and it took him three decisions, one silence and eight months to be allowed to say it in a corridor in daylight to a man with a trolley:**
+That is still the only move anybody in this borough has, and it is worth exactly nothing, and it is the only thing that works, and there is no instrument that can put a man on a board that says a rota, because there is no board. A man who cannot be required to do anything is the only person in that building who can be there without being a service — and on the fourth of January that man was there, and on the first of February he was not there and did not decide not to be there, and on the seventh of March he will not be there either and has said so out loud, and **the gate opened anyway, and that is the finding, and it took him three decisions, one silence and eight months to be allowed to say it in a corridor in daylight to a man with a trolley:**
 
 **The man was never in it. The gate has never once been opened by anything he did in a corridor at half past four in the morning, and the only reason he was ever there is that he was not required to be anywhere.**
 

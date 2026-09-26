@@ -1,6 +1,6 @@
 # Chapter 0121 — The Same Eleven Seconds
 
-**Monday the second of February 2015, about ten past ten in the morning, the vestibule, ground floor, the Old Ward.**
+Monday the second of February 2015, about ten past ten in the morning, the vestibule, ground floor, the Old Ward.
 
 Seven days. That is all a week is, and the man with the bowser was back inside one, and Jonas Mercer had known that he would be before the rain started, because a thing a person is handed on a Tuesday is a thing a person carries for a week and then cannot stop carrying.
 
@@ -26,13 +26,13 @@ He put his hand flat on the counter the way people do when they are about to ask
 
 ---
 
-**And this is where the same eleven seconds stopped being available, and Jonas Mercer was standing four feet away with nothing in his hands and worked it out in about four seconds and did not like it.**
+And this is where the same eleven seconds stopped being available, and Jonas Mercer was standing four feet away with nothing in his hands and worked it out in about four seconds and did not like it.
 
 A counter is required to answer and a counter is not required to make one. What she can be held to is a state on a date. She cannot be held to a state about a place, because a place does not hold still, and a trough by the lock-ups is a place, and a place is a thing that keeps happening to you whatever anybody down here says about it on a Tuesday.
 
 What she *could* be held to was this: that at about ten past ten on the second of February 2015 the trough by the lock-ups was not frozen, and that it had about two inches in the bottom of it that was not water, and that the man saying so was the man who would be standing next to it at one o'clock in the afternoon.
 
-That is a state on a date. It is also worth nothing whatsoever, and she knew that before he finished saying it, and she did it anyway, and the reason she did it anyway is the end of this chapter.
+That is a state on a date. It is also worth nothing whatsoever, and she knew that before he finished saying it, and she did it anyway, and the reason she did it anyway is on the back page of a pad in a shop, and it took him a week to be able to write it down.
 
 He asked her one question and it was not a good one and it was an ordinary one and she answered it because she is required to.
 
@@ -58,7 +58,7 @@ Then she said the other thing, and she said it out loud, and she was not arguing
 
 "**I have got two of them.**"
 
-"**You have got two of them, and neither has a reference on it, and neither has my name on it, and there is no box on this counter that says I wrote either one. I keep a copy of each in a drawer under here and there is no list of what is in that drawer and no key on it, and the copy is not evidence of anything, and if anybody in about four years asks me whether I said a thing to a man on a date, the answer is that I cannot be held to it and neither can he, and that is the correct arrangement and I have not got a better one.**"
+"**You have got two of them, and neither has a reference on it, and neither has my name on it, and there is no box on this counter that says I wrote either one. I keep a copy of each in a drawer under here and there is no list of what is in that drawer and no key on it, and the copy is not evidence of anything, and if anybody in about four years asks me whether I said a thing to a man on a date, the answer is that I cannot be held to it and neither can he, and that is the correct arrangement and I have not got a better one. And the reason that drawer is not a shelf is this, and it is the whole of it: a piece of paper only gets written when a person stands in front of me and asks what was true on a day, and it is remarkable, and it is a little frightening, how few of them do.**"
 
 "And that is a problem?"
 
@@ -70,15 +70,15 @@ Then she said the other thing, and she said it out loud, and she was not arguing
 
 ---
 
-**And the man went out to the bowser, and Jonas Mercer said nothing in that room after that, and there is nothing in the corridor outside either.**
+And the man went out to the bowser, and Jonas Mercer said nothing in that room after that, and there is nothing in the corridor outside either.
 
 He did not ask her how many of them there are. He had it in his hand to ask and he did not, and the reason is on the page in the shop on the Friday and the reason is this: **the count of what a counter does is on the back of a hand and it is not going in a book, and if a man with a rule mender's civic standing asks a records supervisor how many of these there are, then from that morning it is a number two people know, and a number two people know is a number with a witness, and a number with a witness is a number that somebody can be asked to confirm in about four years by somebody who is not asking about water.**
 
-There was one question in that room all morning that was his, and it was four words long, and it was *is it drinkable*, and it was asked by a man of fifty-eight about his own bowser, and it was answered in one go, and the counting has been right in every month of this year.
+There was no question of his in that room all morning, and the counting has been right in every month of this year. The one question in that room that got an answer was three words long, and it was *is it drinkable*, and a man of fifty-eight asked it about his own bowser, and she gave him the whole of it in one go.
 
 ---
 
-**And then he stood in the ground-floor corridor with his back against the wall for about eleven minutes, and the thing he worked out there is the thing this volume has been walking towards since the third of April without knowing it, and it took him a week and it is not complicated.**
+And then he stood in the ground-floor corridor with his back against the wall for about ten minutes, and the thing he worked out there is the thing he has been walking towards since the third of April without knowing it, and it took him a week and it is not complicated.
 
 **A state given on a Tuesday can be wrong on the Wednesday.**
 
@@ -94,7 +94,7 @@ And then the third thing, and it is the one that is going to cost Nina Calder so
 
 **A register that only grows when somebody is hurt is a register with a motive in it. A register that grows when nobody is hurt is a register somebody can hold over you.** She said the second half of that out loud in a corridor on Monday the first of December and then said that if anybody in this borough ever used that board against anybody, they would not use the meter room, they would use the bulb.
 
-**A shelf is not that.** Nobody has been hurt. Nobody is going to be hurt by a slip with a date on it. And a shelf grows the way the register grew, out of correct things done by careful people, and it is going to grow at the rate of a counter, and the first four hundred of them are going to be about a trough and a market and a tap and a standpipe, and every one of them will be true on the day it was written.
+A shelf is not that. Nobody has been hurt. Nobody is going to be hurt by a slip with a date on it. And a shelf grows the way the register grew, out of correct things done by careful people, and it is going to grow at the rate of a counter, and the first four hundred of them are going to be about a trough and a market and a tap and a standpipe, and every one of them will be true on the day it was written.
 
 **A shelf of true things with a date on each of them and nobody's name on any of them is not a list of people. It is a list of decisions, and it is a list that this borough cannot argue with, because there is no name on it to argue with, and that is going to turn out to be the best thing anybody has ever built here and it is going to be used against somebody, and it will not be the bulb.**
 
@@ -102,6 +102,6 @@ He is not going to say that to her. She has been right about this class of thing
 
 ---
 
-**The board at the end of the counter still has nineteen entries on it and a blank line under the nineteenth, and the line has been blank since the twenty-sixth of November, which is sixty-eight days, and the longest it had been still since the fourth of August. The slot in the counter is still empty. The two conditions are still sixteen inches apart and have never been reconciled. The man went out to his bowser at about a quarter past ten and he has a fold of paper in an inside pocket that he did not look at, and there are two of them, and he has not been back in seven days, and **a fortnight is going to come out of that, and somebody is going to work out what a fortnight is, and nobody is going to be in a position to stop them.**
+The board at the end of the counter still has nineteen entries on it and a blank line under the nineteenth, and the line has been blank since the twenty-sixth of November, which is sixty-eight days, and the longest it had been still since the fourth of August. The slot in the counter is still empty. The two conditions are still sixteen inches apart and have never been reconciled. The man went out to his bowser at about a quarter past ten and he has a fold of paper in an inside pocket that he did not look at, and there are two of them, and he has not been back in seven days, and a fortnight is going to come out of that, and somebody is going to work out what a fortnight is, and nobody is going to be in a position to stop them.
 
 **Nobody has asked the counter how many of these there are. She is not going to tell. And the back of her hand is not a book.**

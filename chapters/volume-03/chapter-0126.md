@@ -1,6 +1,6 @@
 # Chapter 0126 — The Two Conditions, Sixteen Inches Apart
 
-**Friday the twentieth of February 2015, from about half past nine in the morning, the ground-floor corridor, the Old Ward. And Monday the twenty-third of February, about ten past ten.**
+Friday the twentieth of February 2015, from about half past nine in the morning, the ground-floor corridor, the Old Ward. And Monday the twenty-third of February, about ten past ten.
 
 **There was one question of his in that vestibule on the Friday morning and it was eight words long. He has not asked one in that corridor at all this year and he is not going to, and the counting has been right in every month of it.**
 
@@ -18,11 +18,11 @@ The ground-floor corridor of that building is forty-one feet long and everybody 
 
 ---
 
-**On the Friday morning he stood at the east end of that corridor with a watch in his hand and nothing else, and he did four things in about fifty minutes, and none of them were a question, and he wrote none of it down.**
+On the Friday morning he stood at the east end of that corridor with a watch in his hand and nothing else, and he did four things in about fifty minutes, and none of them were a question, and he wrote none of it down.
 
 One. A man of about thirty with a folder went the full length at a normal walk and did not look up.
 
-Two. A woman of about sixty went the full length, stopped for about two seconds about four feet short of the two things, looked at the printed one, went on. **Two seconds is not hesitation. Two seconds is a person recognising a piece of paper that is about a building they live in and deciding there is nothing they can do about it before the next step.**
+Two. A woman of about sixty went the full length, stopped for about two seconds about four feet short of the two things, looked at the printed one, went on. **Two seconds is not hesitation.** Two seconds is a person recognising a piece of paper that is about a building they live in and deciding there is nothing they can do about it before the next step.
 
 Three. A boy of about fourteen, on his own, going the other way, went the full length at a faster walk and did not look up.
 
@@ -30,13 +30,13 @@ Four. A woman in a blue uniform with a lorry docket went the full length and **p
 
 ---
 
-**And the finding is physical and it is not moral, and Jonas Mercer worked it out on the Friday morning and did not say it to anybody until the twenty-third, and it is the whole of this chapter.**
+And the finding is physical and it is not moral, and Jonas Mercer worked it out on the Friday morning and did not say it to anybody until the twenty-third, and it is the whole of that morning.
 
 **A person walking under two conditions that do not agree does not slow down. A person walking under two conditions that do not agree goes faster.**
 
 He did it four more times over two days with a watch, and it held, and the reason is not psychology and it is not fear and it is not anything anybody in this borough would want to write in a minute.
 
-It is this. If there were one condition on that wall, a person would have to do one of three things with it: obey it, or refuse it, or stop. Those are all slow. All three of them take time in a corridor and all three of them are visible to the person behind you. **Give that person a second condition that says something else and you have taken all three of those off the table, because whichever one they choose, the other piece of paper is still on the wall contradicting it, and there is no version of stopping that is not being wrong in front of a clerk.**
+It is this. If there were one condition on that wall, a person would have to do one of three things with it: obey it, or refuse it, or stop. Those are all slow. All three of them take time in a corridor and all three of them are visible to the person behind you. Give that person a second condition that says something else and you have taken all three of those off the table, because whichever one they choose, the other piece of paper is still on the wall contradicting it, and there is no version of stopping that is not being wrong in front of a clerk.
 
 What is left is the fourth thing, and the fourth thing is walking.
 
@@ -50,7 +50,7 @@ Put that beside a woman with a hand up in front of her face and you get this: **
 
 ---
 
-**And on the Friday morning, at about ten past ten, he asked his one question, and it was in a public room, and it was eight words, and she answered it before he had finished it because she had been waiting for it since the twenty-eighth of January.**
+And on the Friday morning, at about ten past ten, he asked his one question, and it was in a public room, and it was eight words, and she answered it before he had finished it because she had been waiting for it since the twenty-eighth of January.
 
 "**Do either of those apply to this counter.**"
 
@@ -76,7 +76,7 @@ He waited.
 
 ---
 
-**He did not ask a second question in that room on either day, and there were no more questions of his in that corridor, and there was nothing in it that was a question on the Friday except the one he had already spent.**
+He did not ask a second question in that room on the Friday, and there was nothing in that corridor on the Friday except the one he had already spent, and on the Monday morning he asked two words and could not have helped it, and there was no more of him in either room after that.
 
 And what he took away from the Friday, and wrote on the back page of a pad in a shop on the Saturday morning, in about four minutes, with Bea Osunde cutting a piece of ash and not reading it, which is the reason he writes there, is this:
 
@@ -88,7 +88,7 @@ And what he took away from the Friday, and wrote on the back page of a pad in a 
 
 ---
 
-**And on Monday the twenty-third of February, at about ten past ten in the morning, he came in off the street and stopped four feet short of the counter, which he has not done in nine months, and Nina Calder, who was at the counter, saw him do it and did not say anything about it.**
+And on Monday the twenty-third of February, at about ten past ten in the morning, he came in off the street and stopped four feet short of the counter, which he has not done in nine months, and Nina Calder, who was at the counter, saw him do it and did not say anything about it.
 
 **There was something in the slot in the counter.**
 
@@ -110,6 +110,6 @@ Nobody had taken it out. Nobody had put it up. The card was still in the slot an
 
 "**I am not leaving it in it. I am not taking it out of it. Those are different, and the difference is the whole of what this room is, and if you can hold it in your head for four years without saying it in a room, then you are the only person in this borough who can.**"
 
-The board at the end of the counter read nineteen entries and a blank line under the nineteenth. **The line had now been blank for eighty-nine days, and the longest it had ever been still since the fourth of August, and Nina Calder had been right about it since the first of December and was going to be right about it for a good while yet, and nobody was going to be told.**
+The board at the end of the counter read nineteen entries and a blank line under the nineteenth. The line had now been blank for eighty-nine days, and the longest it had ever been still since the fourth of August, and Nina Calder had been right about it since the first of December and was going to be right about it for a good while yet, and nobody was going to be told.
 
 **Sixteen inches above it, the two conditions went on not agreeing with each other, and one of them would have been right if anybody had said the three words that nobody in this borough said.**
