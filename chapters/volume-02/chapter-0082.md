@@ -30,7 +30,7 @@ The plate had picked up a line some time on Friday afternoon, in the flat regist
 
 He read it standing up in nineteen degrees of rain with a car going past too fast on a private road, and it told him nothing he did not already know and it cost somebody the price of a thing, and that is what a plate is for.
 
-The plate carried a tier line as well. **Tier 3.** He put his hand flat on the gatepost the way he puts it flat on a sill, and read the four fields off it, and the third field was a claim reference, and it was **T3/11400/0304**, and the reference in two plastic wallets in committee room two on Thursday was the same string, and the same string was in a box on a form in a records office on the second floor of a building in this city, and the same string was in a cupboard under a stair four miles the other side of a lowland, in a building where thirty-one people lived and where a fee had gone from eleven pounds a week to thirteen pounds sixty in a year and a half.
+The plate carried a tier line as well. **Tier 3.** He put his hand flat on the gatepost the way he puts it flat on a sill, and read the four fields off it, and the third field was a claim reference, and it was **T3/11400/0304**, and the reference in two plastic wallets in committee room two on Thursday was the same string, and the same string was in a box on a form in a records office on the second floor of a building in this city, and the same string was on a standing-charge line on a water bill four miles the other side of a lowland, in a building where thirty-one people lived and where a fee had gone from eleven pounds a week to thirteen pounds sixty on the first of June.
 
 He did not ring the bell. He wrote down the address and the post code and the name of the clinic and the date and he walked back.
 
@@ -62,7 +62,7 @@ There were five people in the room and four of them had been named on a form.
 
 And **Alden Rook**, who came at a quarter past ten and sat down without a folder, which Jonas Mercer noticed, and did not think about again for eleven weeks.
 
-What they had in front of them was four assignments, and somebody — Beverley Annis, before Jonas arrived, from her own files — had laid them out in order with about a centimetre of space between each one, on the table, face up, in the order of the dates, with nothing on top of each other.
+What they had in front of them was four documents, which is one placing and three assignments, and somebody — Beverley Annis, before Jonas arrived, from her own files — had laid them out in order with about a centimetre of space between each one, on the table, face up, in the order of the dates, with nothing on top of each other.
 
 Nobody had been asked to do that. They had done it because it is what you do when a man in a corridor tells you that four documents in two buildings turn out to be one thing.
 
@@ -94,7 +94,7 @@ Nobody said anything for about eleven seconds, which in that room was a long tim
 
 ---
 
-Ceri Vaughan said, "Then I am going to say the next part, and I am going to say it because Mr Mercer is in the room and he has found it and it is going to be read out in a Committee in September whether I say it in June or not, and I made one of those four assignments and I would like it known that I made it and I would like it known that I am not going to be asked about it, and if I am asked about it I will answer it correctly, and I have answered it correctly now so that nobody has to ask."
+Ceri Vaughan said, "Then I am going to say the next part, and I am going to say it because Mr Mercer is in the room and he has found it and it is going to be read out in a Committee before the end of August whether I say it in June or not, and I made one of those three assignments and I would like it known that I made it and I would like it known that I am not going to be asked about it, and if I am asked about it I will answer it correctly, and I have answered it correctly now so that nobody has to ask."
 
 She put her hands flat on the table. She had a legal pad and no pen and she did not need one.
 

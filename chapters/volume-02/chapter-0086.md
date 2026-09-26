@@ -2,7 +2,7 @@
 
 **Thursday the third of July 2014, nine o'clock in the morning, the registrar's office, second floor of the civic offices.**
 
-Oren Pell read six lines on a sheet of A4, and behind them a page in a hand he has not seen before in his life, which was a note of what a woman had said out loud in a room in front of twenty-nine people at eleven o'clock on the previous night, and the note had the time on it and the number of people in the room on it and nothing else on it, and no names, and he read it twice.
+Oren Pell read four lines on a sheet of A4, and behind them a page in a hand he has not seen before in his life, which was a note of what a woman had said out loud in a room in front of twenty-nine people at eleven o'clock on the previous night, and the note had the time on it and the number of people in the room on it and nothing else on it, and no names, and he read it twice.
 
 "Right," he said. "That is the second one. **I am entering it now, and I entered nothing yesterday, and the reason I entered nothing yesterday is dated on the record I made yesterday afternoon and the date on it is the second of July, and anybody who wants to look at why a registrar refused a request for one day has a date.**"
 

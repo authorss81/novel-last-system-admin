@@ -122,7 +122,7 @@ Nobody spoke for about four seconds.
 
 "Two minutes to one o'clock," said Frances Tolley.
 
-"The notice period is ninety days from the date of withdrawal and it is at annex six and I have not got it in front of me and I am not going to quote it," said Rook, "and I am not going to be asked about it by a member today, because if I am asked about it by a member today I will answer it, and it is not mine to answer."
+"The notice period is ninety days from the date of service and it is at annex six and I have not got it in front of me and I am not going to quote it," said Rook, "and I am not going to be asked about it by a member today, because if I am asked about it by a member today I will answer it, and it is not mine to answer."
 
 ---
 
@@ -132,7 +132,7 @@ Nina Calder had a folder and a page in it and she said, at the door, to nobody, 
 
 "How long," said Sore.
 
-"However long the record goes," said Nina Calder. "The other half of it is that neither line can be taken out and the second one is not wrong, and neither of them can be amended, and so a meter room in Tideglass is going to have two answers in a public minute for as long as the paper lasts, and there is a Trust on one of them and a person on the other, and they are the same claim, and the claim is at a tier that outranks a standpipe on a lowland, and it came out of Kestrel Hill through four assignments, and **nobody in this room has read the four assignments and I am not going to, because I am a records supervisor and I have a form and a pad with nothing on it and I have told a man in a records office that I am not having a fourth.**"
+"However long the record goes," said Nina Calder. "The other half of it is that neither line can be taken out and the second one is not wrong, and neither of them can be amended, and so a meter room in Tideglass is going to have two answers in a public minute for as long as the paper lasts, and there is a Trust on one of them and a person on the other, and they are the same claim, and the claim is at a tier that outranks a standpipe on a lowland, and it came out of Kestrel Hill through three assignments, and **nobody in this room has read the three assignments and I am not going to, because I am a records supervisor and I have a form and a pad with nothing on it and I have told a man in a records office that I am not having a fourth.**"
 
 ---
 

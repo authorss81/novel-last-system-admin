@@ -10,7 +10,7 @@ The temperature was twenty-six degrees. He came on foot and he came at twenty-se
 
 She came out into the yard at about ten past three, having been told by somebody that there was a man at the bottom of the steps, and she came out because she is the steward and that is what happens.
 
-She is fifty-four. Nineteen years in the block, fourteen of them as named steward. Black, silver-haired at the front and not at the back, a cardigan over a work apron, reading glasses on a chain, and on the back of her left hand in biro, gone grey and eleven weeks old, a claim reference.
+She is fifty-four. Nineteen years in the block, fourteen of them as named steward. Black, silver-haired at the front and not at the back, a cardigan over a work apron, reading glasses on a chain, and on the back of her left hand in biro, not faded, four days old, a claim reference, and she has washed it once and it has not come off.
 
 Jonas Mercer said, "Mrs Fofana."
 
@@ -40,11 +40,11 @@ She looked at him for about four seconds and then she said: "No," and Jonas Merc
 
 "No," she said. "I am not going to answer that on a step at a quarter past three on a Friday with six people behind that window who can hear the whole of it, and I am not going to answer it to a man I met once, in a workshop, in April, for about eleven minutes.
 
-"And I am not going to answer it because I have not read the four assignments, and I am not going to say yes or no about a thing I have not read, and I have been in this block nineteen years and I have signed things on behalf of thirty-one people for fourteen of them and I have never once signed a thing I had not read, and I am not starting in June.
+"And I am not going to answer it because I have not read the three assignments, and I am not going to say yes or no about a thing I have not read, and I have been in this block nineteen years and I have signed things on behalf of thirty-one people for fourteen of them and I have never once signed a thing I had not read, and I am not starting in June.
 
 "So here is what is going to happen. **I am going to read them.** They are in a public register and the counter will give them to anybody who asks and I asked on Tuesday and there is a woman at the second floor who copied them out for me onto four sheets of her own paper, and she said, and I am telling you because I want you to know what kind of counter it is, that she did not trust herself not to improve them, and I have never had a stranger be careful with a document on my behalf before and I did not know what to do with it so I have written her name down.
 
-"And then I am going to do the arithmetic, which I have already started, and then I am going to call a meeting, and then I am going to say something. And that will not be on a Friday afternoon. **It is going to be in this building, in front of the people it happens to, on a night this week, and I am going to choose the night on Monday and I am going to tell you the night on Monday, and you are going to come to it, and I am going to be able to check that you have come, and that is not distrust, that is nineteen years.**"
+"And then I am going to do the arithmetic, which I have already started, and then I am going to call a meeting, and then I am going to say something. And that will not be on a Friday afternoon. **It is going to be in this building, in front of the people it happens to, on a night after the weekend, and I am going to choose the night on Monday and I am going to tell you the night on Monday, and you are going to come to it, and I am going to be able to check that you have come, and that is not distrust, that is nineteen years.**"
 
 "I have to be able to ask you one question a day, in a room anybody can hear," said Jonas Mercer. "I have not got a pass for this and I am not asking for one. And I have just used it, and you have not answered it, and I am not going to ask a second one on this step, and if you want to tell me what you will do you will tell me, and if you do not want to tell me then I will come back on Monday at twenty-seven minutes past two and ask you that."
 
@@ -56,7 +56,7 @@ She looked at him for about four seconds and then she said: "No," and Jonas Merc
 
 "**I am going to say it twice.** Once to you, now, in my own words, in daylight, and once again in front of that block, out loud, with thirty-one people in the room, because I am not taking a node out of a chain on one person's word on a step, and I have watched four months of this city do exactly that — one person, one corridor, one thing said at ten at night — and it held a mortuary gate open for nothing in April and it cost a woman of eighty-four forty hours in the same month, and both of those are true and I have read both of them because they are in a minute and a form like everything else.
 
-"So: **I am going to instruct it. Not you. Me, in my own name, to a registrar, on a Tuesday, in front of my own block. And that is the whole of what I have decided on this step and I am not deciding anything else on this step.**"
+"So: **I am going to instruct it. Not you. Me, in my own name, to a registrar, on a Wednesday night, in front of my own block. And that is the whole of what I have decided on this step and I am not deciding anything else on this step.**"
 
 ---
 
@@ -67,7 +67,7 @@ On the way he worked out, in the way he has worked things out since March, which
 He wrote three lines that night at the back of a delivery note, and the first two of them are the only part of this business in five months that he has not had to argue with anybody about.
 
 > *She has not said yes. She has said she will say it twice, and the second time is in a room with thirty-one people in it, and the room is the thing being protected and the thing being put at risk, and she worked that out on a step in about four seconds without any help.*
-> *Four days to Monday. She has set the day and she will check that I came, and she is right to check. I have not set a single date in this city since April and she has set one on a step in four seconds, and she has never once been asked for a date.*
+> *Three days to Monday. She has set the day and she will check that I came, and she is right to check. I have not set a single date in this city since April and she has set one on a step in four seconds, and she has never once been asked for a date.*
 
 And on the third line he wrote the question he was not going to be able to answer, and then he did not delete it, because he does not delete them.
 
@@ -91,7 +91,7 @@ She did not make him sit at the head of anything. She put the wallet on the benc
 
 "**Four.** The twenty-seventh of May, that half to a managing agent who runs four hundred and ten flats. Six hundred pounds. I have looked at that one twice because six hundred pounds for half of eleven thousand is a price, and the price is about a tenth of what the half is worth, and I have worked out why, and it is because a share of a claim is a share of a *place in a queue* and a place in a queue that you will never need is worth a tenth of nothing. A man in an office told me that in a room in Kestrel Hill and he said it without being asked, and he was right, and I have thought about it every day since."
 
-"And then there is no four. **That is the last one and it is not an assignment and it is not signed by anybody.** On the third of June a woman in an office in Kestrel Hill went into a cupboard under my stairs with a torch and read a plate off the wall and entered my name in a box because the plate says the holder of this point pays for it and the point is not the payer's. **And she was right.** The point is not the payer's. The point is a pipe. And I am the holder of it, and I did not know until Monday the twenty-third of June, and she was not asked, and she has not slept about it either, and she is a managing agent of twenty-six years who is now frightened that she has done something wrong to a woman in Salter's Yard."
+"And then there is no five. **That is the last one and it is not an assignment and it is not signed by anybody, and it is the reason I have written *three assignments* at the top of this page and not four, because one of the four things I have just read to you is a placing, and a placing is not a hand.** On the third of June a woman in an office in Kestrel Hill went into a cupboard under my stairs with a torch and read a plate off the wall and entered my name in a box because the plate says the holder of this point pays for it and the point is not the payer's. **And she was right.** The point is not the payer's. The point is a pipe. And I am the holder of it, and I did not know until Monday the twenty-third of June, and she was not asked, and she has not slept about it either, and she is a managing agent of twenty-six years who is now frightened that she has done something wrong to a woman in Salter's Yard."
 
 She turned the wallet round.
 
@@ -151,7 +151,7 @@ Yolanda Fofana put the wallet down and said, "Right," and then said, "No, that i
 
 "And three, and this one is for me and not for you, and it is the reason I came up a step on Friday and the reason I did not telephone you.
 
-"**You are going to ask me what it costs.** And nobody in this city is allowed to ask you what it costs — I have spent nineteen years finding that out from the other side of it — and so it falls to me, because you are allowed to ask me and I am not allowed to refuse. And I have to give you a number, in writing, before the night. And I do not have the number. I have got a shape and the shape is not a number. **And I am not going to invent one for you, and I would rather tell you that on the thirtieth of June than tell you something on the Tuesday that turns out to be a person.**"
+"**You are going to ask me what it costs.** And nobody in this city is allowed to ask you what it costs — I have spent nineteen years finding that out from the other side of it — and so it falls to me, because you are allowed to ask me and I am not allowed to refuse. And I have to give you a number, in writing, before the night. And I do not have the number. I have got a shape and the shape is not a number. **And I am not going to invent one for you, and I would rather tell you that on the thirtieth of June than tell you something on the Wednesday that turns out to be a person.**"
 
 ---
 

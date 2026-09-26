@@ -36,7 +36,7 @@ Tomas Renn came in at about half past two and had a rucksack and a folded piece 
 
 "One. **The eleventh of October.** I am not going to talk to you about the eleventh of October in a shop. I have told three people that this month and two of them were right to be told, and it is not because it is secret. It is because every time the two of us put it in the same room it comes out as a plan, and it is not a plan, it is a Saturday night, and if you and I have a plan for it then two tired porters in a corridor at ten o'clock have got a thing to be disappointed about, and that is how the last one went wrong.
 
-"It is the third Saturday in October and it is half past ten at night and I will be in the room, and I will not have a paper, and you will not have a paper, and that is the whole of what either of us can do about it in July."
+"It is the second Saturday in October and it is half past ten at night and I will be in the room, and I will not have a paper, and you will not have a paper, and that is the whole of what either of us can do about it in July."
 
 "Two. **The first of October.** Because it is twelve weeks away and it is a Wednesday, and you have a form with your name on it going onto a public board on Monday afternoon, and I read it on the board at about a quarter to five, along with about nine other people, and I want to say three things about it and I am going to say them quickly.
 
@@ -64,7 +64,7 @@ Oren Pell had the fan on the windowsill and the window open and a file of about 
 
 "**Question one. Can a chain of valid assignments be broken other than by the consent of the party at the end of it?**
 
-"No. Not other than. There is no other door and there has never been any other door and I have checked all four hundred and sixty pages twice since Friday. An assignment is undone by a person, and only a person, and the person at the end of the chain. Everything before her is unimpeachable. **A power of attorney, four assignments, six hundred pounds, a managing agent with nineteen years in post, and a torch in a cupboard. Not one of those people can be asked to undo any part of it, and I include the man who wrote the clause.** Eleven seconds. That is question one and it took eleven seconds and I have wanted to say it since the nineteenth of May."
+"No. Not other than. There is no other door and there has never been any other door and I have checked all four hundred and sixty pages twice since Friday. An assignment is undone by a person, and only a person, and the person at the end of the chain. Everything before her is unimpeachable. **A power of attorney, three assignments, six hundred pounds, a managing agent with twenty-six years in post, and a torch in a cupboard. Not one of those people can be asked to undo any part of it, and I include the man who wrote the clause.** Eleven seconds. That is question one and it took eleven seconds and I have wanted to say it since the nineteenth of May."
 
 "And question two," said Jonas Mercer. "Can the placing party be made to carry the cost of what its chain did."
 
@@ -90,7 +90,7 @@ He opened the file and turned it round and there was a sheet on top with eleven 
 
 "That is it," said Oren Pell. "That is the answer to the thing you have been carrying since the fourth of March, and I have watched you carry it, and I want to tell you what it is in plain words and then I am going to stop.
 
-"**You did the right thing and the right thing cost a woman a day and a half of daylight and it will cost her again on the first of October unless twenty-nine other people and a woman on a landing do something about it in eleven weeks, and there is no mechanism by which any of them can be made to, and the party that assembled the chain is in Kestrel Hill and it is not going to pay for a pipe in Tideglass and it is not going to be asked to.**
+"**You did the right thing and the right thing cost a woman a day and seven hours that no power in this city could have shortened, and thirty-one people knew about every hour of it, and it will cost her again on the first of October unless twenty-nine other people and a woman on a landing do something about it in twelve weeks, and there is no mechanism by which any of them can be made to, and the party that assembled the chain is in Kestrel Hill and it is not going to pay for a pipe in Tideglass and it is not going to be asked to.**
 
 "That is transfer stewardship. Not the transferring. The part where the person who moves a thing does not get rid of it. **I have been a registrar for nineteen years and I have watched about nine hundred claims go out of this office and I have never written that sentence down before this year and I have written it four times this year and I am tired of it and I am not going to soften it.**"
 

@@ -82,7 +82,7 @@ And that was the discovery, and it was discovered wrongly, and she was the one w
 
 **She had three days to say the rest of it and she said this instead**, and she was not lying, and every word of it was true, and it was the first time in nineteen years that she had managed a room by leaving out a thing she had been asked not to leave out.
 
-Because the rest of it was: that the schedule was not bought for this building; that it came into this building through four assignments from a clinic in Kestrel Hill; that the name in the field at the bottom of the chain was hers; that nobody had asked her; and that if she said that in this room then thirty-one people would be in a room with a tier and a reference and a public minute, and eleven of them had been on a lapsed term on the seventeenth of April, and a person in this city who is on a lapsed term in a building that has a chain in it is a person who can be found in about four days by anybody with a counter and a form.
+Because the rest of it was: that the schedule was not bought for this building; that it came into this building through three assignments from a clinic in Kestrel Hill; that the name in the field at the bottom of the chain was hers; that nobody had asked her; and that if she said that in this room then thirty-one people would be in a room with a tier and a reference and a public minute, and eleven of them had been on a lapsed term on the seventeenth of April, and a person in this city who is on a lapsed term in a building that has a chain in it is a person who can be found in about four days by anybody with a counter and a form.
 
 Cynthia Akintola said, into the noise: "So the council's put the water on a list."
 

@@ -24,7 +24,7 @@ He wrote one line on a sheet and turned it round.
 
 "Now the part you came for, and I am going to be short and I am going to be right.
 
-"Withdrawal of consent operates from the moment it is entered and not before. The entry requires a person with local standing twice, and a registrar, and a registrar means me, and **I am not going to enter anything on Wednesday the second, and I want that written down in your own words, because on Wednesday the second you are going to come in here with six lines of hers on a sheet of A4 and you are going to ask me to enter them, and I am going to say no, and the no is the rule and not me.** The second statement has to have been made, aloud, in a room, after the chain is known. **So the entry is Thursday the third at nine o'clock in the morning, and the term at that node runs to six o'clock on Friday the fourth, and there is no way to bring either of those forward, and no power in this city can bring them forward.**
+"Withdrawal of consent operates from the moment it is entered and not before. The entry requires a person with local standing twice, and a registrar, and a registrar means me, and **I am not going to enter anything on Wednesday the second, and I want that written down in your own words, because on Wednesday the second you are going to come in here with four lines of hers on a sheet of A4 and you are going to ask me to enter them, and I am going to say no, and the no is the rule and not me.** The second statement has to have been made, aloud, in a room, after the chain is known. **So the entry is Thursday the third at nine o'clock in the morning, and the term at that node runs to six o'clock on Friday the fourth, and there is no way to bring either of those forward, and no power in this city can bring them forward.**
 
 "And I want you to notice what I have just done, because I have done it on purpose. I have given you a date and it is not the eleventh of October and it is not the fourth of August and it is not the nineteenth of June. **It is the fourth of July, and it is on account of a standpipe on a lowland, and there is no Committee sitting in that sentence and there never was.**"
 
@@ -59,17 +59,17 @@ And above it, since Monday, a second line, in the same flat register:
 
 He put his left forearm against the plate and his right hand flat on the top of it, and the right hand is numb to the elbow and does not close, and he had it flat for about four minutes.
 
-On the shelf above the meter, face up, was a sheet of A4 with six lines on it in a hand that was not his:
+On the shelf above the meter, face up, was a sheet of A4 with four lines on it in a hand that was not his:
 
 > *I am withdrawing the claim at this node, reference T3/11400/0304, held in my name, and I instruct that it be taken off, and I do not want it replaced with anything, and I am not authorising a registrar to substitute a party.*
 >
-> *I have read four assignments and I understand what the claim is and I understand that a claim is a duty and I am the duty.*
+> *I have read three assignments and I understand what the claim is and I understand that a claim is a duty and I am the duty.*
 >
 > *I was not asked before I was entered. I am not being paid to be asked now. I am not going to be asked what it costs because nobody in this city is allowed to ask me that and I have noticed that I am the only person in England who cannot be asked what her own water costs.*
 >
 > *Yolanda Fofana. Named steward. Salter's Yard. Monday the thirtieth of June.*
 
-Six lines, dated the thirtieth, given in a workshop with six people in it, on a sheet of A4 that had come out of a ring binder in a flat above a shop.
+Four lines, dated the thirtieth, given in a workshop with six people in it, on a sheet of A4 that had come out of a ring binder in a flat above a shop.
 
 He read it four times. It was good standing. It was as good standing as he had ever been handed. There was not a registrar in this city who could have improved it by one clause, and she had written it in about nine minutes on a Monday morning with the shop going round her, and she had thought of the substitution, which is a thing that eleven people in this city had thought of and none of them had put in writing.
 
@@ -81,13 +81,13 @@ He said it out loud, in a cupboard, under a stair, to nobody, which is the only 
 
 "I am not going to do this. And I want to say why in my own words while there is nobody in this cupboard, because on Thursday morning there is going to be a record of it and I am not having that record be a summary of a registrar's sentence.
 
-"**I found the chain.** I am the only person in this city who has read all four assignments, and I read them because I sat in a gallery with nothing in my hands, and I read them because nobody else in that room was going to.
+"**I found the chain.** I am the only person in this city who has read all three assignments, and I read them because I sat in a gallery with nothing in my hands, and I read them because nobody else in that room was going to.
 
 "And if I put my hand on this plate and take this claim off it, then this plate will have on it one name, and it will be mine, and there will not be a second line anywhere saying that the person at the end of the chain asked for it, because **she cannot be on this plate. She cannot be on this plate because a tier may not be challenged by a person.** So the only name that ends up in the record of the ending is the name of the man who found it. And then somebody, in about nine years, in a room, reads it and says *he ended it because he found it*, and that is true, and it is not the whole truth, and there is nowhere in the record to put the whole truth, and a record with one name in it is a record that cannot be argued with.
 
 "And I have watched that happen four times this year. A hundred and twenty-two letterboxes in January. Four words in nine seconds in April. One hundred and six in a ring-number box in May. A blank line at the bottom of a form in June. **Four competent people, all of them right, all of them alone, and every one of them made a thing out of number four hundred and sixty pages that has got one name in it and cannot now be taken apart.**
 
-"So I am not doing it. And I want it recorded that the reason I am not doing it is not that I do not have the standing and not that I am cautious and not that a registrar told me to. **The reason is that the woman whose name is in the field wrote six lines on a sheet of A4 and every one of them was better than anything I could have mended, and the standing she gave me on Monday is not enough, and the only person in this city who can tell me that is a man with a fan on a windowsill, and he is right, and I would not have written it and I would not have wanted it and it is right.**
+"So I am not doing it. And I want it recorded that the reason I am not doing it is not that I do not have the standing and not that I am cautious and not that a registrar told me to. **The reason is that the woman whose name is in the field wrote four lines on a sheet of A4 and every one of them was better than anything I could have mended, and the standing she gave me on Monday is not enough, and the only person in this city who can tell me that is a man with a fan on a windowsill, and he is right, and I would not have written it and I would not have wanted it and it is right.**
 
 "And here is the price and I am going to pay attention to it, because I have spent five weeks learning that the price never goes somewhere else.
 
@@ -95,11 +95,11 @@ He said it out loud, in a cupboard, under a stair, to nobody, which is the only 
 
 "A woman with a trolley has been at a stand at the bottom of Quarry Street at twenty to seven every weekday since a Tuesday in May. On Wednesday morning she will be there. On Thursday morning she will be there, and there is nothing wrong with that, and I have not put her in a document, and I am not going to.
 
-"**And the record of what this costs is going to have a day and a half in it, and no name in it except mine, and I want you to understand that I have never had her name. I stood opposite her for twenty minutes on Tuesday morning and I did not ask, and I have not asked since, and I am not going to, and I am not going to write a face in a form either, because a woman in Salter's Yard has been asked for a list of four people twice this spring and has said no twice, and she is right, and I am not going to be the man who breaks that for a figure of one.**"
+"**And the record of what this costs is going to have three days and twenty hours in it, and no name in it except mine, and I want you to understand that I have never had her name. I stood opposite her for twenty minutes on Tuesday morning and I did not ask, and I have not asked since, and I am not going to, and I am not going to write a face in a form either, because a woman in Salter's Yard has been asked for a list of four people twice this spring and has said no twice, and she is right, and I am not going to be the man who breaks that for a figure of one.**"
 
 He took his hand off the plate.
 
-He put the six lines back on the shelf, squared to the edge, where they were.
+He put the four lines back on the shelf, squared to the edge, where they were.
 
 He did not open the tool roll.
 
@@ -111,7 +111,7 @@ He sat in the shop from one o'clock to half past four on Tuesday afternoon with 
 
 *Money* he can do. Two thousand four hundred and thirty-one pounds and sixteen pence, out of a workshop, since the eleventh of March, and two thousand eight hundred and eighty pounds a year leaving a water bill on Friday morning. Both of those are checkable and she can check them before he can.
 
-*Time* he can do, and it is the wrong shape. From ten o'clock on Monday morning, when she said it to him in a workshop with six people in it, to six o'clock on Friday morning, is three days and twenty hours, and he caused about a day and a half of it himself and a registrar's Thursday morning caused the rest, and a number that describes him is not a number she can use.
+*Time* he can do, and it is the wrong shape. From ten o'clock on Monday morning, when she said it to him in a workshop with six people in it, to six o'clock on Friday morning, is three days and twenty hours, and it comes apart into three pieces and only one of them was his. One day and twenty-three hours before anybody refused him anything, which is his. Fourteen hours in which a registrar said no and a woman went round her own block telling twenty-nine people, which is not his. And one day and seven hours of a term that cannot be shortened by anybody being in a hurry, which is nobody's. **And a number that describes him is not a number she can use.**
 
 *Water* he cannot do at all, and he says so.
 
@@ -119,7 +119,7 @@ So he wrote, at the bottom of a page, in the ordinary hand, and he read it over 
 
 > *What she is entitled to be told, and what I can stand behind, in writing, on the first of July, and this is the whole of it:*
 > *Money — £2,431.16 out of a workshop since the eleventh of March, and £2,880 a year leaving that building's water bill on Friday morning. Both are arithmetic and she can check them before I can and I am not going to put them in a form.*
-> *Time — three days and twenty hours, from ten o'clock on Monday to six o'clock on Friday, and about a day and a half of it is mine. I am not going to soften that by putting it in a different unit.*
+> *Time — three days and twenty hours, from ten o'clock on Monday to six o'clock on Friday, and one day and twenty-three hours of it is mine, and the last one day and seven hours of it is a term and no power in this city can shorten a term, and I am not going to soften any of it by putting it in a different unit.*
 > *Water — I cannot give you a number and I am not going to manufacture one out of a public record in about four minutes. I can name one standpipe of six, because I broke a chain, and naming it is a fact about a node and not a fact about the woman who is at it at twenty to seven every morning. The reason I cannot give you six is that the only public record in this city which produces six is a list of who does not pay, and a woman in your building has been asked for a list of four people twice and has said no both times, and she is right, and I would be doing in a shed what four hundred and sixty pages of Schedule 4 do to you every month.*
 > *And the fourth line is the one I am frightened of. Between now and six o'clock on Friday there is somebody at the bottom of Quarry Street who is carrying water, and I am not going to give you her name, because nobody asked me for it and I have not asked her, and you are the one person in this city that anybody is allowed to ask, and I am not going to spend that on myself.*
 
@@ -127,9 +127,9 @@ So he wrote, at the bottom of a page, in the ordinary hand, and he read it over 
 
 **Wednesday the second of July 2014, four minutes past nine in the morning, the registrar's office.**
 
-Pell read the six lines off a sheet of A4 and asked one question, which was whether she had thought about the substitution, and she had, and then he put the sheet down in the middle of his desk and said no.
+Pell read the four lines off a sheet of A4 and asked one question, which was whether she had thought about the substitution, and she had, and then he put the sheet down in the middle of his desk and said no.
 
-"I am not entering this," he said. "You have the standing of a person with local standing, once, in a workshop, on Monday, and I ruled on Monday morning, three days ago, that twice is the rule, and I do not make exceptions for anybody and I have been asked twice this month by two people who have names on things.
+"I am not entering this," he said. "You have the standing of a person with local standing, once, in a workshop, on Monday, and I ruled on Monday morning, two days ago, that twice is the rule, and I do not make exceptions for anybody and I have been asked twice this month by two people who have names on things.
 
 "**Come back on Thursday at nine with the second one.**"
 
@@ -143,7 +143,7 @@ And then she went and told her block, and that is the only room in this whole ac
 
 There were twenty-nine of the thirty-one in that workshop at eleven o'clock on the night of Wednesday the second of July. Two were at a hospital with a relative and had sent word by telephone that they would be there in the morning. There were twenty-nine people in it and nobody was standing at the back because there was no room at the back.
 
-She did not use a chair. She stood at the end of the table with the six lines on the sheet of A4 in her hand, and she said, before anything else:
+She did not use a chair. She stood at the end of the table with the four lines on the sheet of A4 in her hand, and she said, before anything else:
 
 "**I am going to say a thing twice.** I said it once on Monday to a man in this room with six people in it, and he has told me, correctly, that once is not enough, and that I have to say it again in front of everybody, and that the second time is the one that gets written down. So I am going to say it twice, and I am going to do the thing properly, and the second time is now.
 
@@ -153,7 +153,7 @@ Nobody left.
 
 "Then here is the first time, for the record, in my own words.
 
-"**I am withdrawing the claim at this node.** It is at Tier 3. It came into this building on the fourth of March from a clinic in Kestrel Hill, through four assignments, and it has cost this building two thousand four hundred and thirty-one pounds and sixteen pence since the eleventh of March out of my own workshop, and the share of it that is still coming is two thousand eight hundred and eighty pounds a year, and it is on our water bill and it is not on our water, and I am stopping it. I have not been asked. I was entered on the third of June by a woman who read a plate in the cupboard under this stair and was right. **And I am not going to tell any of you what to do about it and I am not going to ask one of you to sign anything tonight, and if anybody in this room wants to sign something there is nothing to sign and I will put the pen down.**"
+"**I am withdrawing the claim at this node.** It is at Tier 3. It came into this building on the fourth of March from a clinic in Kestrel Hill, through three assignments, and it has cost this building two thousand four hundred and thirty-one pounds and sixteen pence since the eleventh of March out of my own workshop, and the share of it that is still coming is two thousand eight hundred and eighty pounds a year, and it is on our water bill and it is not on our water, and I am stopping it. I have not been asked. I was entered on the third of June by a woman who read a plate in the cupboard under this stair and was right. **And I am not going to tell any of you what to do about it and I am not going to ask one of you to sign anything tonight, and if anybody in this room wants to sign something there is nothing to sign and I will put the pen down.**"
 
 And then she said the nine seconds, and she said them to the twenty-nine people and not to the man at the back of the room, and she took about four minutes to get to them, and the four minutes were about the meter cupboard and the chain and the money and the arithmetic, and nobody interrupted her, and at the end of the four minutes she said:
 

@@ -4,7 +4,7 @@
 
 There is no such thing as a flood forum in this city with nine seats and a quorum and a minute book. There is a room above a building society, a ring binder, eleven plastic sleeves, a laminated card with a plastic sleeve that has been replaced twice, and eleven people who turn up.
 
-**Gareth Raynor-Hale**, about fifty, resilience officer, full-time, in post two years and four months, had a printout on the table with the top edge folded over, and he had been writing the September quarterly report since Monday, because the terms of reference say the report is written in the month before the quarter it covers, and he does the terms of reference, and he is the only person in the room who does anything at all.
+**Gareth Raynor-Hale**, about fifty, resilience officer, full-time, in post two years and four months, had a printout on the table with the top edge folded over, and he had been writing the September quarterly report since Monday, five weeks early, because the terms of reference say the report is written in the month before the quarter it covers and that month is August, and he does the terms of reference, and he is the only person in the room who does anything at all, and doing it five weeks early is the same kind of thing.
 
 "Three weeks," he said. "That is what I have got, and I am telling you the figure because I am writing a report and the report goes to print in three weeks and there is a section in it that says *unresolved* and nothing under it.
 
@@ -14,7 +14,7 @@ He turned the printout round.
 
 **lowland evacuation capacity: unresolved**
 
-"There. That's the heading. That's the whole of the section. Underneath it there is nothing, and I am writing a report in eight weeks and a member of this forum has asked me in writing for a figure, and he is entitled to it, and I have not got one, and I have not lied about not having one in any document, and I have been sitting on this for eleven weeks.
+"There. That's the heading. That's the whole of the section. Underneath it there is nothing, and it goes to print in three weeks, and a member of this forum has asked me in writing for a figure, and he is entitled to it, and I have not got one, and I have not lied about not having one in any document, and I have been sitting on this for eleven weeks.
 
 "Now. **Nora Bell.**" He said the name the way he says every name, which is with the source attached, in the room, for the minutes, because that is a thing he does and it has made him unlikable in four meetings and indispensable in two. "Nineteen years of pencil marks in a book at the end of that embankment. Nine hundred and forty. **It is not nine hundred and forty people.** It is nine hundred and forty *times* that somebody stood at the barrier end and could not get across. A few hundred people, more than once each, and the number of people is not on the page and she has never tried to work it out, because — and I am quoting, and I asked her in a room and she said it and it is in the minutes of the sixth of May — *because if I work it out then it is a number of people.*"
 
