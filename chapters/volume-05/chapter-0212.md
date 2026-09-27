@@ -36,7 +36,7 @@ He took the bottle and he paid the price on the window and he went out, and the 
 
 Nobody saw the man of about eighty-four again that afternoon. Jonas Mercer did not go after him and did not speak to him. Nobody in that shop is on anything and neither is he, and nobody is going to find out.
 
-Jonas Mercer walked up the street to the bus shelter at about twenty past two because the bus was due.
+Jonas Mercer walked up the street to the bus shelter at about ten to three because the bus was due.
 
 **THE ONLY LATTICE NOTICE ON THE INSIDE OF THAT SHELTER THAT AFTERNOON, printed at about the height of a person of average height, and it defines nothing, and nothing on it defines *holder*:**
 
@@ -60,6 +60,6 @@ The bus came at about ten to four and Jonas Mercer got on it and she got on it, 
 
 Jonas Mercer got off near the slip at about half past four, and the light had not changed and the water was where it had been in the morning and there was nobody on it.
 
-**AND THE SECOND THING HAPPENED AT ABOUT TWENTY PAST TWO AND THE FIRST THING HAPPENED AT ABOUT TEN TO THREE, AND THEY WERE FOUR HUNDRED YARDS APART ON THE SAME STREET, AND JONAS MERCER WALKED IT TWICE, AND HE TOLD NEITHER OF THE TWO PEOPLE ANYTHING AND NEITHER OF THEM KNEW ANYTHING ABOUT THE OTHER, AND BY MONDAY MORNING THERE WAS A LABEL ON A SHELF IN A CHEMIST'S AND A TIMETABLE IN A BAG AND NOTHING ELSE ANYWHERE IN EITHER CITY.**
+**AND THE FIRST THING HAPPENED AT ABOUT TWENTY PAST TWO AND THE SECOND THING HAPPENED AT ABOUT TEN TO THREE, AND THEY WERE FOUR HUNDRED YARDS APART ON THE SAME STREET, AND JONAS MERCER WALKED IT TWICE, AND HE TOLD NEITHER OF THE TWO PEOPLE ANYTHING AND NEITHER OF THEM KNEW ANYTHING ABOUT THE OTHER, AND BY MONDAY MORNING THERE WAS A LABEL ON A SHELF IN A CHEMIST'S AND A TIMETABLE IN A BAG AND NOTHING ELSE ANYWHERE IN EITHER CITY.**
 
 The chemist on the corner put a label in on the Monday at about ten past nine, and it says the same as the window, and nobody on that street has asked anybody about it since.

@@ -20,7 +20,7 @@ Jonas Mercer was not in the room. He was in the corridor outside it with his han
 
 The last name on the schedule is the man of about thirty-nine.
 
-Jonas Mercer has had that sheet in his head since the thirtieth of September, when a duty clerk read nine names out in a room over a shop and the last one was a name with a place under it, and the place was this city, and he had not looked at anybody in the room while she was saying it, and he was looking at a man of about thirty-nine in a corridor in another city at about twenty past two that Wednesday, and he knew the name and he did not use it, and there is nobody in that corridor who could have heard him use it.
+Jonas Mercer has had that sheet in his head since the thirtieth of September, when a duty clerk read nine names out in a room over a shop and the last one was a name with a place under it, and the place was this city, and he had not looked at anybody in the room while she was saying it, and he was looking at a man of about thirty-nine in a corridor in another city at about twenty past two this Wednesday, and he knew the name and he did not use it, and there is nobody in that corridor who could have heard him use it.
 
 The man of about thirty-nine is a strong man with a working face. He had come in off the morning boat and he had a sandwich in a paper bag and he had a job at a pumping station in his own city, in Tideglass, four days a week, on the distribution side of the estuary, doing the work of two men because the third one left in the spring.
 

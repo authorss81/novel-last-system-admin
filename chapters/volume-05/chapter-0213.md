@@ -24,7 +24,7 @@ He read it.
 
 It is one sheet. It is dated the eleventh of December and it carries a reference that is the same six characters as the reference on the permission, and a heading, and the heading says it is a claim made under the mutual-aid permission of the thirtieth of September 2015 and that it is made in the city in which the work was done. It names one man, who is about twenty, and it says he was employed for fourteen days in October under that permission at a pumping station on the north bank at Alderwick, and that on the last day of that fortnight he was injured, and that the injury is described in two lines, and that a sum is claimed.
 
-The sum is in the middle of the page. It is not a large sum. It is about what a man of that age costs to keep for about a month, which is to say it is not a number that is going to make anybody's hair stand up, and Jonas Mercer has been in this borough for nine months and knows what a number that small means when it arrives on a piece of paper from another city.
+The sum is in the middle of the page. It is not a large sum. It is about what a man of that age costs to keep for about a month, which is to say it is not a number that is going to make anybody's hair stand up, and Jonas Mercer has been in this borough a year and seven months and knows what a number that small means when it arrives on a piece of paper from another city.
 
 The last paragraph asks the authority that granted the permission to provide the sum.
 

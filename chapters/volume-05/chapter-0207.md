@@ -14,7 +14,7 @@ The fourth paragraph is the one he read three times.
 
 "There is no budget for this," he said, out loud, to his own kitchen. "There is nothing in this borough I can book a seat on and no way of booking one anywhere else either, and there is nothing in this borough that can make me be in a room in another city on the fourth of December, and if nobody makes me then I can decide not to go, and if I decide to go then I am a man who has gone, and the whole of what they have got is a man who has gone."
 
-He read the fourth paragraph again. The arrangement had a word for him in it and the word was not true. He was not their correspondent. He had no body behind him, and there was nothing in this borough that corresponded to anything, and if he said yes to the word then he would have accepted an office in a group three towns away, and an office is a thing that can be required, and he had spent three months in this borough learning what happens to a person who is standing in a hole in a piece of paper when the paper stops.
+He read the fourth paragraph again. The arrangement had a word for him in it and the word was not true. He was not their correspondent. He had no body behind him, and there was nothing in this borough that corresponded to anything, and if he said yes to the word then he would have accepted an office in a group three towns away, and an office is a thing that can be required, and a piece of paper three months old had already taught him what happens to a person who is standing in a hole in a piece of paper when the paper stops.
 
 So he wrote back on the Saturday, on a sheet of his own, and it went in the post on the Saturday, and it said that he would come on the fourth and that he would sit in the room, and that he was not their correspondent and was not anybody's delegate, and that if the group had a word for a person who is in a room and is not standing for anything, he would be glad to have it, and if not, he would be a person who was there.
 
@@ -42,7 +42,7 @@ Nell Ardent picked the box up again.
 
 "Agreed," said Jonas Mercer.
 
-"I'm not agreeing to anything. Go and get your bus money." She went down the last four steps and out. "And the early one on Sunday is the only one that gets in before the meeting, and it gets in at about ten past."
+"I'm not agreeing to anything. Go and get your bus money." She went down the last four steps and out. "And the early one on Sunday is the only one that gets in before the meeting, and it gets in at about ten past eight."
 
 Sanaa Iqbal was outside the gate of the hospital at about half past twelve with her coat open and her bag over her shoulder, going out to a car park for a sandwich, and she had been on nights.
 

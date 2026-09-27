@@ -24,7 +24,7 @@ That one is off the wall in the corridor of the works office, and Jonas Mercer h
 
 *Nothing is required of any person in order to use any part of this system.*
 
-"That is the whole of it," said Nell Ardent. "One line, six inches of type, four inches of white underneath it. And there is a person who comes to that standpipe at about half past six every morning, and she has been coming since before the filters were done, and she has never in her life been asked for anything, and she is right not to be, and that is the sentence on the wall."
+"That is the whole of it," said Nell Ardent. "One line, six inches of type, four inches of white underneath it. And there is a woman of about seventy-three who comes to that standpipe at about half past six every morning, and she has been coming since before the filters were done, and she has never in her life been asked for anything, and she is right not to be, and that is the sentence on the wall."
 
 She put the second sheet down beside it.
 
@@ -36,7 +36,7 @@ She put the second sheet down beside it.
 
 Nobody said anything for a bit. The gas ring ticked.
 
-"Now I am going to say the thing I have been trying to say since the fourth of December and I am going to say it carefully because Tomas is not here and he would have done it better," said Nell Ardent, "and I am not going to say it to Jonas, because he has read more paper this month than the rest of us put together and I would like this to be a table. I am going to say it to the table, and Sanaa, you are the only person in this room who is not being paid by anybody to be here, so you are the one I would like to hear it against."
+"Now I am going to say the thing I have been trying to say since the fourth of December and I am going to say it carefully because Tomas is not here and he would have done it better," said Nell Ardent, "and I am not going to say it to Jonas, because he has read more paper this month than the rest of us put together and I would like this to be a table. I am going to say it to the table, and Sanaa, you are the one I want to hear it against, because you are the only one of the three of us who spends her working days being handed a person that nobody can be made to answer for, and I have got nothing else to go on."
 
 **AND THE QUESTION SHE HAD BEEN CARRYING CAME OUT OF HER MOUTH AS A FACT ABOUT TWO PIECES OF PAPER, AND SHE DID NOT ANSWER IT, AND IT IS NOT ANSWERED NOW.**
 
@@ -60,4 +60,4 @@ Nell Ardent folded her four sheets in half and put them in her bag, in the order
 
 There was a bus at about ten past nine. Nell Ardent got on it and Jonas Mercer walked her to the stop and then walked back, and Sanaa Iqbal had gone out to the car park at about nine and had said she would see the other three on the Monday and had not said anything else about any of it. The group does not sit between Christmas and the sixth and Iselin Krogh is in on a Monday and had said so, and the works office is a two-storey building with a lamp in the car park that comes on at about half past four whether anybody is on it or not.
 
-The early boat is at ten past seven on the Wednesday and all four of them will be on it, and there is nothing open in this city at six o'clock in the morning and there has not been since before any of them came.
+The early boat is at ten past seven on the Wednesday and all four of them will be on it, and it goes from the slip outside the works to the landing on the other side, which is the other way round from the twenty-ninth of November and the same seven minutes past ten in the morning, and there is nothing open in this city at six o'clock in the morning and there has not been since before any of them came.
