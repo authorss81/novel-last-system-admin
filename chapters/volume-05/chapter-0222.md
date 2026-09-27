@@ -4,7 +4,7 @@ Friday the twelfth of February 2016, from about half past seven in the evening, 
 
 **NINE PEOPLE CAME TO A ROOM THEY ARE NOT ON ANYTHING FOR, TWO PIECES OF PAPER IN ONE WOMAN'S HANDWRITING WENT ON THE TABLE, SOMEBODY ASKED FOR THE SHEET ON A WALL IN ANOTHER CITY, NOBODY COULD PRODUCE IT, AND THE ROOM WENT ON.**
 
-The room is let out on Sundays to a group that meets every three months, and it is free on Sundays because the people who come work six days and cannot come at any other time, and it was free on the Friday evening in February because the woman who has the key to it was in it and does not charge anybody for the gas.
+The room is let out on Sundays to a group that meets every three months, and it is free on Sundays because the people who come work six days and cannot come at any other time, and it was free on the Friday evening in February, which was the Friday he had asked her about, because the woman who has the key to it was in it and does not charge anybody for the gas.
 
 She had turned down a hall in the parade that charges four pounds a head back in November, out loud, to a man who had come to tell her he had a van, and nobody had asked her about it since.
 

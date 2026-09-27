@@ -8,7 +8,7 @@ The room was the same room and about seven of the nine people were the same peop
 
 Mavis Bray had a single sheet in front of her with a column of figures down it and she gave it out and let people read it, which is not what a clerk does, and the reason she did it was that the sheet had been in that room every January for eleven years and everybody in it already knew what was on it.
 
-The water is ninety pence a quarter. The shelter is free and has not had anybody in it who could not pay since the year the town bought it, and has not had anybody at all in it since the summer before last. The clinic is free and the doctor comes on four days and the nurse comes on five and the dispensing comes from the works's own store. The gate is open seven to six. The yard is anybody's who has a reason to be in it.
+The water is ninety pence a quarter. The shelter is free and has not had anybody in it who could not pay since the year the town bought it, and has not had anybody at all in it since the summer before last. The clinic is free and the doctor comes on four days and the nurse comes on five and the dispensing comes from the works's own store. The gate is a chain on a bar and it is not a machine and it has never been a machine. The yard is anybody's who has a reason to be in it.
 
 The works line was a figure and the works line was a quarter of the sheet.
 
@@ -50,17 +50,19 @@ Mavis Bray stood in the yard with her sheet rolled up in her hand and looked at 
 
 "The bill for those nine days was the three days of that man and a fortnight of his wages because we paid him, and a tank, and that is all that anybody could put on a piece of paper." She stopped. "That is the bit I have never once said out loud in this room and I have been the clerk of this town for twenty years and it has been eleven Januaries."
 
-She said that to a man who was not going to be in the room in June, and then she said the rest of it anyway, which Jonas Mercer understood was the price of standing in a yard with a woman who had been doing a job for two decades.
+She said that to a man who was never going to be in that room, and then she said the rest of it anyway, which Jonas Mercer understood was the price of standing in a yard with a woman who had been doing a job for two decades.
 
 "The figure for the works is the same this year as it was last year, and it will be the same next year, and I have never once in eleven Januaries been able to make it go up, because there is nothing to compare it with. There is no nine days line. There is no line at all for what it costs on a day when it is not happening, and the reason there is no line is that it has never not happened, and that is the cheapest figure this town has ever produced, and it is cheap because of a man of eighty-six, and not because of anything we did, and if I say that in there this afternoon four people will hear it as me asking somebody to stop, and I am not asking anybody to do anything at all, and I have already told him so about three times and I have got nowhere and I am not going to."
 
-Nobody said it in the room.
+Nobody said it in the room, because it had been said in a yard, to one man, standing up, in the cold, next to a lorry.
 
-Jonas Mercer was in the room. There were seven people in it and a woman of about seventy-five who had come to the room on the first of the month every month for nine years and had not once been asked to be there and was on no list, and a man of about ninety-one, and five others, and about half past two in the afternoon, when Mavis Bray came back in with the sheet rolled up and put it on the table and asked whether anybody had anything else, four of them thought the sentence at the same time.
+There were seven people in that room at about half past two in the afternoon, when Mavis Bray came back in with the sheet rolled up and put it on the table and asked whether anybody had anything else, and among them were a woman of about seventy-five who had come to the room on the first of the month every month for nine years and had not once been asked to be there and was on no list, and a man of about ninety-one, and five others, and four of the seven of them thought the sentence at the same time.
 
-Nobody put it in the room. The clerk had said it to a man in a yard and had said it about a man who was standing on the other side of the yard with a spanner in his hand and had not heard a word of it.
+Nobody put it in the room. Walter Sallow was not in it either. He was over on the far side of that yard with a spanner in his hand at about the same time and had not heard a word of any of it, and he is never going to hear a word of any of it, and there is nobody in that town who is going to tell him.
 
-He was the only person in two countries who could have said it there.
+And Jonas Mercer was in the corridor outside that room with his coat over the back of a chair, the whole of that morning and that afternoon, exactly where he had been in January when four people in it had said out loud that nobody had ever asked him.
+
+He was the only person in two countries who could have said it there, and he was the wrong side of a door away from the room, and that is the whole of what that corridor is.
 
 ---
 

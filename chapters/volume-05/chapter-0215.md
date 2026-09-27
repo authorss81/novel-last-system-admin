@@ -72,7 +72,7 @@ At about one o'clock Nell Ardent said, "He is not in the room."
 
 Nell Ardent did not answer that and wrote nothing down, and she had a handbag with four sheets in it that were in her own handwriting, and she has never let anybody else hold one of them and is not going to.
 
-At half past one Jonas Mercer walked out of the yard gate, which was open because it is open from seven to six, and up the bank to the intake, because somebody in a room had said *he'll be on the intake at six tomorrow* and it was half past one on the Wednesday and it was worth the eight minutes to find out what sort of place this was.
+At half past one Jonas Mercer walked out of the yard gate, which was up, and up the bank to the intake, because somebody in a room had said *he'll be on the intake at six tomorrow* and it was half past one on the Wednesday and it was worth the eight minutes to find out what sort of place this was.
 
 The works was shut and the intake was not. There was a man of about eighty-six sitting on an upturned crate at the end of the steel platform with his back to the water and his legs over the side, doing nothing at all, in the cold, with a flask beside him and his hat over his face, which is what a man of eighty-six does at half past one on a Wednesday in January when the hard part of his day was over at seven that morning.
 

@@ -6,7 +6,7 @@ Tuesday the second of February 2016, from about half past six in the evening, a 
 
 There were about nine people in the room and a gas heater on the wall that everybody had their back to, and the woman of about forty-two who has the key was in a chair by the switch, and there was a pot of tea on the table that had been going since about half past four.
 
-Jonas Mercer had come in at twenty past six to ask her one question, which was whether the room was free on a Wednesday evening in the middle of February, and she had said yes, and had said it the way she says most things, which is before he had finished, and had not asked why he wanted it, because the answer to that question is always no and everybody in that room knows the answer to that question is no and about one person in five asks it anyway.
+Jonas Mercer had come in at twenty past six to ask her one question, which was whether the room was free on a Friday evening in the middle of February, and she had said yes, and had said it the way she says most things, which is before he had finished, and had not asked why he wanted it, because the answer to that question is always no and everybody in that room knows the answer to that question is no and about one person in five asks it anyway.
 
 Sanaa Iqbal came in at about half past six. She had been on since two and she had done nine hours of it and she had a cup of tea in her hand before she had got her coat off, and she was not there for anything, and Jonas Mercer had not known she was going to be there and had not arranged it and had not come early because of it.
 
@@ -36,7 +36,7 @@ The room did what the room does. A woman of about eighty-nine had brought a shoe
 
 At about a quarter to eight the photographs were still going round, and Jonas Mercer looked at about six of them and could not tell anybody in the room who was in any of them, and said so, twice, and laughed at himself both times, and the man of about eighteen said "that's the whole idea, mate" and went back to his tea, and the woman of about forty-two laughed too, which she had not been going to.
 
-At about ten to eight somebody asked him about the room in February, which is what he had come in to ask about, and he said what he wanted it for, and it was about ten minutes of talking, and the woman of about forty-two agreed to it and wrote nothing down, because she has never written anything down in nine years, which is not a virtue, it is a fact about a room where a card is by the door.
+At about ten to eight somebody asked him about the room in February, which is what he had come in to ask about, and he said what he wanted it for, and it was about ten minutes of talking, and the woman of about forty-two agreed to it, and wrote it in the notebook in the drawer, and not on the card by the door, because the card is a list of names and a Friday in the middle of February is not a name, and there has not been one on that card in nine years.
 
 Sanaa Iqbal left at about ten past eight, and he left at about ten past eight, and neither of them waited for the other and neither of them said goodnight to the other in the room, and they were on the same pavement for about two minutes and then one of them went north and one of them went west, and that was the whole of it.
 
