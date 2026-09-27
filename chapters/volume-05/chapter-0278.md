@@ -24,7 +24,7 @@ The woman at number six said she would take the Friday, and then she sat on the 
 
 ---
 
-The man at number two came past her door at about half past eight that morning with a bag of tools in one hand and his keys in the other, and he said good morning, and she said good morning, and he went on past her on the far side of the road with his head turned away from her house, and she did not say to him.
+The man at number two came past her door at about half past eight that morning with a bag of tools in one hand and his keys in the other, and he said good morning, and she said good morning, and he went on past her on the far side of the road with his head turned away from her house, and she let him go.
 
 She has seen him out there on his Saturdays in a van with a sign on the side of it, and she has seen two other houses on that lane take a sheet off him about a kettle and about a radiator. It had come to her at about a quarter to ten that she could slide a tenner note under his door, and it had come to her and she had not done it, and it was not a thing anybody in that lane discussed, and the door of number two was shut at eight o'clock and again at noon.
 

@@ -10,11 +10,11 @@ He had been in that shop since about half past eight, and he had asked for a bag
 
 Three barrowloads, and the sand came out of a builder's merchant over the river because she had no account and he had a card.
 
-That was the whole of it, and she had not mentioned it since July, and on the Thursday of the second week of July he had also been at a house at the top of a street off Marsh Lane where a slab was lifting at the back and there was a gap under the edge of it about the width of two fingers, and he had gone down there on the Wednesday with the same card and shovelled six barrowloads into it and tamped it with the back of the spade, and he had told the woman who was in the kitchen of that house about four weeks after that, in a different week altogether, in the middle of September, and told her that it would hold.
+That was the whole of it, and she had not mentioned it since July, and on the Thursday of the second week of July he had also been at a house at the top of a street off Marsh Lane where a slab was lifting at the back and there was a gap under the edge of it about the width of two fingers, and he had gone down there on the Wednesday with the same card and shovelled six barrowloads into it and tamped it with the back of the spade, and he had told the woman who was in the kitchen of that house about two months after that, in a different week altogether, in the middle of September, and told her that it would hold.
 
 ---
 
-There was no queue at all until about ten to twelve, and the first person through that door was the woman who works at the yard at Sarn, and she had been coming in on a Saturday for the best part of two years for a paper and a jar of something, and she had never once been asked anything by the woman behind that counter.
+There was no queue at all until about half past ten, and the first person through that door was the woman who works at the yard at Sarn, and she had been coming in on a Saturday for the best part of two years for a paper and a jar of something, and she had never once been asked anything by the woman behind that counter.
 
 "You've had that man in the back, haven't you," she said. "Shovelling. About the time it was warm."
 

@@ -6,7 +6,7 @@ Friday the twenty-fifth of November 2016, from about five past twelve in the mor
 
 The building by the water has five doors on the first floor along the front and a fire door at the top of the stair, and the agent who came along that landing on the Friday morning had the company that owns the freehold of it behind him, which is over the water and has been in the same family since before he was born, and which he had started at the property in March.
 
-He had four reasons and they were all in his head. The fire door had been closing too fast since about the summer and had come back on its own hard enough on the Friday to be heard on the landing from the top and the bottom. The stair light was on a fitting that flickered. The letterboxes at that end were the old grey pattern and had been promised new ones in June. And the agent was supposed to look at the fronts of the doors while he was on the landing, and there is no sheet for that and there never has been one, and he had done two of the five before half past ten.
+He had four reasons and they were all in his head. The fire door had been closing too fast since about the summer and had come back on its own hard enough on the Friday to be heard on the landing from the top and the bottom. The stair light was on a fitting that flickered. The letterboxes at that end were the old grey pattern and had been promised new ones in June. And the agent was supposed to look at the fronts of the doors while he was on the landing, and there is no sheet for that and there never has been one, and he had done two of the five before half past one.
 
 The first one was open and a man stood in it with a newspaper and told him the light had been flickering since the summer and that he had a torch.
 
