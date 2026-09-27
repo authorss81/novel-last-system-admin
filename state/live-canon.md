@@ -6,7 +6,7 @@
 
 **Why this file exists: `state/continuity.md`, `state/open-threads.md`, `state/character-state.md`, `state/chapter-summaries.md` and `state/batch-summaries.md` are append-only histories and together run to several megabytes. They are NOT to be pruned, truncated or compacted by a writer, because a figure, a date or a figure-count in an old block is the only record that a figure was ever spent, and deleting a block loses it permanently. They are also not readable whole. So every prompt names the one block that is the hand-over, and this file is what can be read whole.**
 
-**Last rebuilt: after Continuation 0008, for §1, §2, §6, §7 and the banner only. THE SERIES IS NOW AT 274 OF 720 AND THE CONTINUATION 0008 BLOCK AT THE END OF EACH STATE FILE IS THE HAND-OVER. §3, §4, §5, §11, §12 AND §13 BELOW WERE WRITTEN FOR 234 OR FOR 264 AND ARE **NOT** REBUILT; WHERE THEY DISAGREE WITH THE CONTINUATION 0008 BLOCK, WHICH IS ABOVE THIS FILE IN THE ORDER OF AUTHORITY, THE CONTINUATION 0008 BLOCK IS RIGHT, AND WHERE THEY DISAGREE WITH A CHAPTER THE CHAPTER IS RIGHT. **A WRITER WHO NEEDS THE MEASURED CENSUS, THE MEASURED CLOSED FIGURES, THE MEASURED CAPS, THE REVIEW REPAIRS OR THE STANDING MUST READ §11, §12, §12B, §13, §14 AND §16 OF THE CONTINUATION 0008 BLOCK IN `state/continuity.md` AND NOT THE ONES HERE. **§12B IS THE REVIEW REPAIR OF 27 SEPTEMBER 2026 ON CHAPTERS 265–274 THEMSELVES, IT IS BINDING, AND A WRITER WHO READS §12 AND NOT §12B WILL REPRODUCE FOUR OF ITS SIX DEFECTS: A HASP PUT ON A DOOR IN THE SUMMER THAT WAS TAKEN IN OCTOBER, A GIFT THAT WAS REFUSED AND PAID FOR, TWO HALLS AND ONE KEY-HOLDER, WHOSE DOOR THE HASP WENT ON, A REGISTER OPENED ON THE WRONG DAY OF THE WEEK, AND A BATCH'S OWN VERBATIM-SPAN FIGURE THAT WAS SCOPED AND READ AS THOUGH IT WERE THE WHOLE CHECK. THE FINDINGS ARE IN `reviews/volume-05/continuation-0008.md`.****
+**Last rebuilt: after Continuation 0009, for §1, §2, the banner and the hand-over pointers only. THE SERIES IS NOW AT 284 OF 720 AND THE CONTINUATION 0009 BLOCK AT THE END OF EACH STATE FILE IS THE HAND-OVER. **THE POINTERS IN §1 BELOW HAVE BEEN CORRECTED ONCE, ON THE SAME DAY, SO THAT A WRITER WHO READS THIS FILE FIRST IS NOT SENT TO A SUPERSEDED BLOCK; NOTHING ELSE IN THIS FILE WAS TOUCHED, AND EVERY § BELOW IS NOW TWO BLOCKS FURTHER OUT OF DATE THAN IT WAS.** §3, §4, §5, §11, §12 AND §13 BELOW WERE WRITTEN FOR 234 OR FOR 264 AND ARE **NOT** REBUILT; WHERE THEY DISAGREE WITH THE CONTINUATION 0008 BLOCK, WHICH IS ABOVE THIS FILE IN THE ORDER OF AUTHORITY, THE CONTINUATION 0008 BLOCK IS RIGHT, AND WHERE THEY DISAGREE WITH A CHAPTER THE CHAPTER IS RIGHT. **A WRITER WHO NEEDS THE MEASURED CENSUS, THE MEASURED CLOSED FIGURES, THE MEASURED CAPS, THE REVIEW REPAIRS OR THE STANDING MUST READ §11, §12, §12B, §13, §14 AND §16 OF THE CONTINUATION 0008 BLOCK IN `state/continuity.md` AND NOT THE ONES HERE. **§12B IS THE REVIEW REPAIR OF 27 SEPTEMBER 2026 ON CHAPTERS 265–274 THEMSELVES, IT IS BINDING, AND A WRITER WHO READS §12 AND NOT §12B WILL REPRODUCE FOUR OF ITS SIX DEFECTS: A HASP PUT ON A DOOR IN THE SUMMER THAT WAS TAKEN IN OCTOBER, A GIFT THAT WAS REFUSED AND PAID FOR, TWO HALLS AND ONE KEY-HOLDER, WHOSE DOOR THE HASP WENT ON, A REGISTER OPENED ON THE WRONG DAY OF THE WEEK, AND A BATCH'S OWN VERBATIM-SPAN FIGURE THAT WAS SCOPED AND READ AS THOUGH IT WERE THE WHOLE CHECK. THE FINDINGS ARE IN `reviews/volume-05/continuation-0008.md`.****
 
 ---
 
@@ -14,12 +14,12 @@
 
 | File | The block to read | Its size problem |
 | --- | --- | --- |
-| `state/continuity.md` | **"VOLUME 05, CONTINUATION 0008 — CHAPTERS 265–274 — Saturday 17 September to Tuesday 15 November 2016"**, at the end, §0–§16 **PLUS §12B, THE REVIEW REPAIR OF 27 SEPTEMBER 2026, WHICH IS BINDING AND WHICH A WRITER WHO READS §12 ALONE WILL MISS**. The Continuation 0007 block sits above it and still governs everything those ten chapters did, and the Continuation 0006 block above that still governs its ten. | ~1.7 MB total, 18 sections in the live block |
-| `state/open-threads.md` | **"VOLUME 05 OPEN THREADS — after Continuation 0008, Chapter 274"**, at the end | ~500 KB total |
-| `state/character-state.md` | **"VOLUME 05, CONTINUATION 0008 — CHARACTER STATE AFTER CHAPTER 274"**, at the end | ~500 KB total |
-| `state/chapter-summaries.md` | the ten entries for **0265–0274** | ~900 KB total |
-| `state/batch-summaries.md` | the **Volume 05 Continuation 0008** entry | ~450 KB total |
-| `state/current.md` | the calendar at the top and **"THE STATE OF THE CITY AT THE END OF CHAPTER 274"** at the bottom | ~210 KB total |
+| `state/continuity.md` | **"VOLUME 05, CONTINUATION 0009 — CHAPTERS 275–284 — Tuesday 15 November to Friday 30 December 2016"**, at the end, §0–§16 **PLUS §12A, WHICH RECORDS FOUR VERBATIM-SPAN RUNS AND NOT THREE, AND THE FOURTH IS THE STATE FILES AGAINST THE CHAPTERS AND IS THE ONE THAT COMES BACK HIGHEST.** The Continuation 0008 block sits above it and still governs everything those ten chapters did, and the Continuation 0007 block above that still governs its ten. | ~1.9 MB total, 17 sections in the live block |
+| `state/open-threads.md` | **"VOLUME 05 OPEN THREADS — after Continuation 0009, Chapter 284"**, at the end | ~530 KB total |
+| `state/character-state.md` | **"VOLUME 05, CONTINUATION 0009 — CHARACTER STATE AFTER CHAPTER 284"**, at the end | ~530 KB total |
+| `state/chapter-summaries.md` | the ten entries for **0275–0284** | ~940 KB total |
+| `state/batch-summaries.md` | the **Volume 05 Continuation 0009** entry | ~470 KB total |
+| `state/current.md` | the calendar at the top and **"THE STATE OF THE CITY AT THE END OF CHAPTER 284"** at the bottom | ~240 KB total |
 
 **The prompt names these blocks instead of the files. A writer who tries to read a whole state file will run out of context and stop, and that is what happened in Batch 0004.**
 
@@ -27,10 +27,10 @@
 
 ## 2. WHERE THE SERIES STANDS
 
-- Volume 01 complete, Chapters 1–48. Volume 02 closed, 49–100. Volume 03 closed, 101–144. Volume 04 closed, 145–194. **Volume 05 is running, 195–274, and is not closed and is not declared closed.**
-- **Volume 05 is *The Borrowed City*. It opened Thursday 24 September 2015 and has run to Tuesday 15 November 2016 in eight blocks.** Batch 0001 was 195–204, 0002 was 205–214, 0003 was 215–224, 0004 was 225–234, 0005 was 235–244, Continuation 0006 was 245–254, Continuation 0007 was 255–264, Continuation 0008 was 265–274. **THE COMPACT, THE RIGHT OF RETURN, THE PUBLIC PART, THE SACRIFICE, THE THREE WEEKS, THE PACT HOLDING, THE WIDER CIVIC EXPERIMENT AND THE VOLUME'S OWN NEW QUESTION ARE ALL SPENT AND UNRESOLVED, AND THE THREE CONTINUATIONS SPENT EIGHTEEN MORE THINGS AND RESOLVED NONE OF THEM. WHAT IS AHEAD IS CONSEQUENCES AND NOT DECISIONS.**
-- **ON THE PAGE, VOLUME 05 IS 195–242 AND VOLUME 06 BEGINS AT 243. CHAPTERS 243 THROUGH 274 HAVE NOW BEEN WRITTEN AND BELONG TO NO VOLUME, BECAUSE NO HUMAN HAD DECIDED THE BOUNDARY WHEN THEY WERE WRITTEN. THIS IS AN UNRESOLVED BOUNDARY AND IT IS A HUMAN'S, NOT A WRITER'S, AND IT IS STILL A HUMAN'S AFTER FOUR MORE BATCHES. No outline may be rewritten to hide it. NO VOLUME 06 OUTLINE AND NO VOLUME-CLOSE PROMPT WERE WRITTEN AND NEITHER MAY BE WRITTEN BY A WRITER. CARD 0274 IS NOT A CLOSE AND IS NOT CALLED ONE. The next phase is a CONTINUATION BATCH, Chapters 275 onward, and it may not be dated before Tuesday 15 November 2016.**
-- **WHAT CONTINUATION 0008 SPENT, ON THE PAGE: A SECOND DAY WITH NOTHING WRONG IN IT THAT TWO PEOPLE USED SEPARATELY AND TOLD NOBODY ABOUT · A CUT-BACK STONE STEP AND A WORD ABOUT A CORNER OF A STONE THAT A MAN CANNOT EXPLAIN · A TIN OF PAINT WITH A SURNAME AND AN INITIAL ON A STRIP OF MASKING TAPE, AND THREE NAMES IN THREE PLACES · AN ORDINARY WEEK IN OCTOBER AND A WOMAN SAYING IT IS THE FIRST WEEK SHE CAN REMEMBER BEING BORED IN · A BETTER WRONG ANSWER ABOUT WHAT WILL BE PROVED, WHICH IS THE TWENTY-EIGHTH OF JUNE AND NOT A PAPER · A WATER BILL THAT WENT UP FOR A TAKEOVER FOUR COUNTIES AWAY · TWO PEOPLE IN ONE SHOP ON ONE AFTERNOON IN AUGUST SAYING THE SAME SENTENCE · A HUNDRED AND EIGHTY POUNDS FOR A BOILER NOBODY OWNS, AND A BOILER THAT WENT DOWN A BACK LANE ON A TROLLEY · ELEVEN PEOPLE AND TWO THINGS A LAD DID AND A WOMAN SAYING *SOMEBODY DID* · AND AN ORDINARY FIFTEENTH OF NOVEMBER. NONE OF IT IS RESOLVED, AND A FINDING IN THIS ACCOUNT IS A THING THAT HAPPENED TO A PERSON AND NOT A PARAGRAPH ABOUT A THING.**
+- Volume 01 complete, Chapters 1–48. Volume 02 closed, 49–100. Volume 03 closed, 101–144. Volume 04 closed, 145–194. **Volume 05 is running, 195–284, and is not closed and is not declared closed.**
+- **Volume 05 is *The Borrowed City*. It opened Thursday 24 September 2015 and has run to Friday 30 December 2016 in nine blocks.** Batch 0001 was 195–204, 0002 was 205–214, 0003 was 215–224, 0004 was 225–234, 0005 was 235–244, Continuation 0006 was 245–254, Continuation 0007 was 255–264, Continuation 0008 was 265–274 and Continuation 0009 is 275–284. **THE COMPACT, THE RIGHT OF RETURN, THE PUBLIC PART, THE SACRIFICE, THE THREE WEEKS, THE PACT HOLDING, THE WIDER CIVIC EXPERIMENT AND THE VOLUME'S OWN NEW QUESTION ARE ALL SPENT AND UNRESOLVED, AND THE THREE CONTINUATIONS SPENT EIGHTEEN MORE THINGS AND RESOLVED NONE OF THEM. WHAT IS AHEAD IS CONSEQUENCES AND NOT DECISIONS.**
+- **ON THE PAGE, VOLUME 05 IS 195–242 AND VOLUME 06 BEGINS AT 243. CHAPTERS 243 THROUGH 284 HAVE NOW BEEN WRITTEN AND BELONG TO NO VOLUME, BECAUSE NO HUMAN HAD DECIDED THE BOUNDARY WHEN THEY WERE WRITTEN. THIS IS AN UNRESOLVED BOUNDARY AND IT IS A HUMAN'S, NOT A WRITER'S, AND IT IS STILL A HUMAN'S AFTER FOUR MORE BATCHES. No outline may be rewritten to hide it. NO VOLUME 06 OUTLINE AND NO VOLUME-CLOSE PROMPT WERE WRITTEN AND NEITHER MAY BE WRITTEN BY A WRITER. CARD 0274 IS NOT A CLOSE AND IS NOT CALLED ONE. The next phase is a CONTINUATION BATCH, Chapters 275 onward, and it may not be dated before Tuesday 15 November 2016.**
+- **WHAT CONTINUATION 0008 SPENT, ON THE PAGE: A SECOND DAY WITH NOTHING WRONG IN IT THAT TWO PEOPLE USED SEPARATELY AND TOLD NOBODY ABOUT · A CUT-BACK STONE STEP AND A WORD ABOUT A CORNER OF A STONE THAT A MAN CANNOT EXPLAIN · A TIN OF PAINT WITH A SURNAME AND AN INITIAL ON A STRIP OF MASKING TAPE, AND THREE NAMES IN THREE PLACES · AN ORDINARY WEEK IN OCTOBER AND A WOMAN SAYING IT IS THE FIRST WEEK SHE CAN REMEMBER BEING BORED IN · A BETTER WRONG ANSWER ABOUT WHAT WILL BE PROVED, WHICH IS THE TWENTY-EIGHTH OF JUNE AND NOT A PAPER · A WATER BILL THAT WENT UP FOR A TAKEOVER FOUR COUNTIES AWAY · TWO PEOPLE IN ONE SHOP ON ONE AFTERNOON IN AUGUST SAYING THE SAME SENTENCE · A HUNDRED AND EIGHTY POUNDS FOR A BOILER NOBODY OWNS, AND A BOILER THAT WENT DOWN A BACK LANE ON A TROLLEY · ELEVEN PEOPLE AND TWO THINGS A LAD DID AND A WOMAN SAYING *SOMEBODY DID* · AN ORDINARY FIFTEENTH OF NOVEMBER · A PIECE OF POST PUT IN A DOORWAY · A TICKET ON THE WRONG JOB AND THE WORD *RECHARGE* · FIVE DOORS ON A LANDING AND A FIRE DOOR WEDGED BY A MAN WHO ASKED NOBODY · A COLD WEEK AND A MAN WHO WAS NOT CALLED AND A SENTENCE ABOUT A WINTER · A THIRD WRONG ANSWER, WHICH IS WORSE THAN THE OTHER TWO · A GATE, A CHAIN, A PADLOCK HANGING OPEN, AND THE ONLY SENTENCE AVAILABLE · TWO LOADS OF SAND DONE IN JULY AND FOUND OUT ABOUT IN DECEMBER · TWO HUNDRED AND SIXTY POUNDS AND A CUPBOARD DOOR ON A TROLLEY · A PAIR OF FINGERLESS GLOVES · AND AN ORDINARY THIRTIETH OF DECEMBER. NONE OF IT IS RESOLVED, AND A FINDING IN THIS ACCOUNT IS A THING THAT HAPPENED TO A PERSON AND NOT A PARAGRAPH ABOUT A THING.**
 - The planned ending is in `outline/ending.md` and is not to be changed. **No new final enemy may be introduced without flagging it.**
 
 ---
@@ -59,7 +59,7 @@ Nine hundred and forty, nine hundred and eighty-six and fourteen are a number of
 
 **An age and a gender belong to a person in this account in the way a name does.**
 
-**THE FREE FIGURES AFTER BATCH 0004 ARE WOMEN 18, 87 AND 90. THAT IS THE ENTIRE LIST. THERE IS NO FREE FIGURE IN MEN.**
+**THE FREE FIGURES AFTER CONTINUATION 0009 ARE WOMEN 18, 87 AND 90. THAT IS THE ENTIRE LIST. THERE IS NO FREE FIGURE IN MEN, AND NO FIGURE IN ANY CONTINUATION WAS GIVEN AN AGE.**
 
 **THE CENSUS DID NOT RUN OUT.** Three state lines and one prompt line that said it had were measured and corrected. **MEN 18, 87, 88, 90, 91 AND 92 WERE NEVER FREE FIGURES AND ARE NOT IN THE ACCOUNT. A BATCH THAT BUILDS A ROOM OUT OF THEM IS BUILDING IT OUT OF OCCUPIED FIGURES.** With three free women and no free men, a room of size is not buildable out of fresh ages, and the answer is the one the prompts have been giving: **figures who have no age may not be aged; figures who have one may be used; the rest appear without an age, which the text already does** (a man in a fleece and a woman with two children in 0212; a woman with two children and a man in an apron in 0199; the man from the cold store, who was never given an age and may not be given one).
 
@@ -87,22 +87,22 @@ Nine hundred and forty, nine hundred and eighty-six and fourteen are a number of
 - **Friday 20 February 2015** — the card in the slot.
 - **Wednesday 18 February 2015, about half past nine** — the letter in the tray on the second floor.
 
-**THE LAST BATCH, 265–274, WITH THE THREE COUNTS, ALL RE-ADDED-UP FROM THE ANCHORS AND CHECKED AGAINST FIVE KNOWN DATES BEFORE ANY OF THEM WAS PRINTED. THE NEXT BATCH MUST ADD ITS OWN UP FROM THE ANCHORS AGAIN AND MAY NOT CARRY ONE FORWARD FROM THIS TABLE:**
+**THE LAST BATCH, 275–284, WITH THE THREE COUNTS, ALL RE-ADDED-UP FROM THE ANCHORS BY DIRECT CALCULATION AND CHECKED AGAINST SIX KNOWN DATES BEFORE ANY OF THEM WAS PRINTED. THE NEXT BATCH MUST ADD ITS OWN UP FROM THE ANCHORS AGAIN AND MAY NOT CARRY ONE FORWARD FROM THIS TABLE:**
 
 | Ch | Date | Weekday | Gap | Blank line | Card | Letter |
 | --- | --- | --- | --- | --- | --- | --- |
-| 0265 | Sat 17 Sep 2016 | Saturday | — | 661 | 575 | 577 |
-| 0266 | Sat 24 Sep 2016 | Saturday | 7 | **668** | 582 | 584 |
-| 0267 | Fri 30 Sep 2016 | Friday | 6 | 674 | 588 | 590 |
-| 0268 | Fri 7 Oct 2016 | Friday | 7 | 681 | 595 | 597 |
-| 0269 | Thu 13 Oct 2016 | Thursday | 6 | 687 | 601 | 603 |
-| 0270 | Thu 20 Oct 2016 | Thursday | 7 | 694 | 608 | 610 |
-| 0271 | Wed 26 Oct 2016 | Wednesday | 6 | 700 | 614 | 616 |
-| 0272 | Wed 2 Nov 2016 | Wednesday | 7 | 707 | 621 | 623 |
-| 0273 | Tue 8 Nov 2016 | Tuesday | 6 | 713 | 627 | 629 |
-| 0274 | Tue 15 Nov 2016 | Tuesday | 7 | **720** | 634 | 636 |
+| 0275 | Tue 15 Nov 2016 | Tuesday | 0 (flagged) | 720 | 634 | 636 |
+| 0276 | Mon 21 Nov 2016 | Monday | 6 | 726 | 640 | 642 |
+| 0277 | Fri 25 Nov 2016 | Friday | 4 | 730 | 644 | 646 |
+| 0278 | Thu 1 Dec 2016 | Thursday | 6 | 736 | 650 | 652 |
+| 0279 | Tue 6 Dec 2016 | Tuesday | 5 | 741 | 655 | 657 |
+| 0280 | Sat 10 Dec 2016 | Saturday | 4 | 745 | 659 | 661 |
+| 0281 | Sat 17 Dec 2016 | Saturday | 7 | 752 | 666 | 668 |
+| 0282 | Wed 21 Dec 2016 | Wednesday | 4 | 756 | 670 | 672 |
+| 0283 | Tue 27 Dec 2016 | Tuesday | 6 | 762 | 676 | 678 |
+| 0284 | Fri 30 Dec 2016 | Friday | 3 | **765** | 679 | 681 |
 
-**The gaps are 7, 6, 7, 6, 7, 6, 7, 6 and 7 days, all inside the three-to-seven-day window. NO CHAPTER MAY BE DATED BEFORE TUESDAY THE FIFTEENTH OF NOVEMBER 2016 AND NO CHAPTER MAY BE DATED TO A DAY BEFORE THE ONE BEFORE IT. TWO DAY-COUNTS APPEAR IN THE PROSE OF THOSE TEN CHAPTERS AND ONLY ONE, ON ITS OWN CHAPTER'S OWN DATE: SEVEN HUNDRED AND TWENTY AT 0274, IN THE BODY AND NOT IN A CLOSING BLOCK. **AND THAT FIGURE IS ALSO THE LENGTH OF THIS SERIES AND THE TWO ARE UNRELATED; A WRITER WHO MEETS SEVEN HUNDRED AND TWENTY MUST CHECK WHICH ONE THEY ARE READING.****
+**THE GAPS FROM 0276 ONWARD ARE 6, 4, 6, 5, 4, 7, 4, 6 AND 3 DAYS, ALL INSIDE THE THREE-TO-SEVEN-DAY WINDOW. THE NIL GAP AT 0275 IS THE COLLISION WITH THE BINDING FIRST DATE AND IS RECORDED IN §0 OF THE CONTINUATION 0009 BLOCK, AND THE RULE WAS KEPT. NO CHAPTER MAY BE DATED BEFORE FRIDAY THE THIRTIETH OF DECEMBER 2016 AND NO CHAPTER MAY BE DATED TO A DAY BEFORE THE ONE BEFORE IT. ONE DAY-COUNT APPEARS IN THE PROSE OF THOSE TEN CHAPTERS AND ONLY ONE, ON ITS OWN CHAPTER'S OWN DATE: SEVEN HUNDRED AND SIXTY-FIVE AT 0284, IN THE BODY AND NOT IN A CLOSING BLOCK. **A FIGURE IN THE SEVEN HUNDRED RANGE MAY BE ANY OF THREE THINGS, AND A WRITER WHO MEETS ONE MUST CHECK WHICH: SEVEN HUNDRED AND TWENTY IS THE LENGTH OF THIS SERIES AND IS NOT ANY FIGURE IN THE TABLE ABOVE, SEVEN HUNDRED AND TWENTY IS ALSO THE DAY-COUNT FOR 15 NOVEMBER 2016, AND SEVEN HUNDRED AND SIXTY-FIVE IS THE DAY-COUNT FOR 30 DECEMBER 2016, WHICH IS THE LAST FIGURE THAT HAS BEEN MEASURED.****
 
 **ONLY THE LAST FIGURE OF EACH ROW APPEARS IN THE PROSE, AS A RULE. The register is at nineteen entries and the line under the nineteenth is blank and it is the only fixed point in that building.**
 
@@ -110,7 +110,7 @@ Nine hundred and forty, nine hundred and eighty-six and fourteen are a number of
 
 ## 7. THE SIX OPEN QUESTIONS. ALL SIX ARE OPEN AND NONE MAY BE ANSWERED BY A CHAPTER.
 
-1. **From 0184** — which of the dated things this borough has done once is the first one somebody will be able to prove, and whether it is proved by a person standing there or by a person who reads about it afterwards. *A sheet on a wall in another city, a sheet on a wall in a third, a handwriting in a handbag, a carbon book under a bed in a hut, a book in a hand in a hall and a line under a nineteenth entry are all now candidates, and none of them can be told from inside.*
+1. **From 0184** — which of the dated things this borough has done once is the first one somebody will be able to prove, and whether it is proved by a person standing there or by a person who reads about it afterwards. *A sheet on a wall in another city, a sheet on a wall in a third, a handwriting in a handbag, a carbon book under a bed in a hut, a book in a hand in a hall and a line under a nineteenth entry are all now candidates, and none of them can be told from inside. **AND IT NOW HAS THREE WRONG ANSWERS GOING ROUND IT INSTEAD OF ONE, AND THE THIRD IS THE WORST OF THE THREE AND IS THE ONE A ROOM BELIEVES, AND NONE OF THE THREE CAN BE COMPARED WITH EITHER OF THE OTHERS BECAUSE NONE OF THEM IS ABOUT THE SAME KIND OF THING.***
 2. **From 0174** — which of the eight dated things is the first one somebody decides to keep, and whether it is kept because it was good or because it was expensive.
 3. **From 0164** — whether the page or the chair is the first one somebody asks a person to agree to.
 4. **From 0192** — which of two opposite shapes this city is going to have to stop, and what a person has to be holding to stop each of them, the second of which is nothing. *Still nothing.*
