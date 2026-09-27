@@ -1,0 +1,30 @@
+# Review — Volume 05, Continuation 0007 — Chapters 0255–0264
+
+Reviewed: commit `331e86906a7eb7e5ff0605deb6ee6cfcb6eb558e`, "novel: save writer work continuation-0007", against `outline/`, `bible/`, `PHASE_SYSTEM.md` and the state files. Working tree clean at the start of the review.
+
+Full record with before-and-after figures: §12A of the "VOLUME 05, CONTINUATION 0007" block in `state/continuity.md`.
+
+## What passes, verified independently rather than taken from the state files
+
+The prose of this batch is sound and none of the four findings below is a defect in it. Re-measured from the chapter files:
+
+- **Word counts.** 1,510 / 1,624 / 1,709 / 1,172 / 1,187 / 1,256 / 1,807 / 1,159 / 1,383 / 1,717. Total 14,524, median 1,446.5. Exact match on all ten against what the batch recorded.
+- **Scene breaks.** 2, 2, 2, 2, 1, 2, 2, 2, 2, 2 = nineteen, against a cap of two in each.
+- **Calendar.** All ten weekdays correct against the real 2016 calendar. Gaps 4, 5, 5, 6, 6, 7, 6, 5, 5, all inside the window. No chapter precedes Saturday 30 July 2016.
+- **All-caps paragraphs.** Two in every chapter, twenty in all, against a cap of five. (A first count returned one for 0258; that was a regex artefact on the reviewer's side, not a defect.)
+- **Motifs and closed figures.** `four hundred yards`, `eleven feet by nine`, `there is no form in this borough`, `nobody is required` and its variants, `a level of service`, `a borrowed city` and `thank*` all at zero. The stem `requir-` appears nowhere in the ten. `a Tuesday` stands at 0, 0, 0, 0, 0, 0, 0, 1, 0, 0 under a cap of two. All five surviving `forty` uses are `forty-one` (the address) or `forty-two` (an existing figure's age).
+- **Day-counts.** Two appear in the prose, each on its own chapter's own date. Independently recomputed from the three anchors: 612 at 30 July, 661 at 17 September.
+- **Hygiene.** No meta markers, no truncation, no duplicated paragraph across the ten, no impossible staging, and the six state files each received a matching block. Exactly one new workspace directory, ten chapters, correctly not a volume close.
+
+## Findings, in the order they were acted on
+
+1. **The batch's own headline verification claim was false, and it would have propagated.** `state/open-threads.md` recorded that a six-gram diff of all twenty all-caps blocks against every state, outline, bible and workspace file *returned nothing*. It did not, and it never could: a state file that summarises a chapter must repeat that chapter's nouns and its register, so a clean result is not a reachable outcome. Measured on chapters 255–264 **and those chapters alone** — a figure of 1,624 six-grams and 254 matches is also in circulation and is wrong by scope, because that run swept in 0250–0254, which belong to Continuation 0006 — the twenty blocks hold 1,127 distinct six-grams and 481 matched the state files at the time. **The false record was corrected in all five files that carried it, and the check itself was replaced**, because a next writer told to run a check that cannot fail will record a false result a third time.
+2. **Under a check that can fail, the batch had a real defect, and it was not small.** One hundred and thirty-three distinct verbatim spans of nine words or more, ninety-five of eleven or more, fifty-five of fourteen or more, and the longest at twenty-seven, in which a state file held one of the ten chapters' own sentences — 0256's form and its two blank boxes, 0258's sack barrow, 0262's man crossing at eight, 0263's statement, 0264's meter, 0255's true detail, 0257's four accounts, 0259's gate, 0261's argument. **Twenty-one passages across the five state files were rewritten at the source, each to describe the event in the file's own words. Not one date, figure, name, card, day-count, major turn, standing or flag was changed, and not one chapter file was touched.** The count now stands at none of eleven words or more.
+3. **The surviving span at ten words is not a defect and is not to be chased.** *From the works on the far side of the river* is a figure's own by-name description, and it could only be broken by misidentifying somebody the account is tracking. A check will always find spans of this kind, so the figure to record is the number of spans that survive — which may not be zero and is not expected to be. A writer who records zero has probably not looked.
+4. **Two errors of fact in the batch's own hand-over, both in the next prompt's flags.** *All fifty of Volume 05* is wrong twice over: `chapters/volume-05/` holds seventy chapters, 195–264, and Volume 05 as `outline/volume-05.md` dates it is forty-eight and runs 195–242. Fifty is correct only of Volume 04. And the map of *Halsey Cross* against *Halse Cross* was wrong on both halves: 0243 does not print one spelling but both, *Halsey Cross* in its body and *Halse Cross* in its own closing all-caps block thirty-four lines lower, and the conflict is not between the chapters and the state files but inside the state files, where four print both spellings, one prints only *Halsey Cross*, one only *Halse Cross* and one prints neither. **A writer sent to look for chapters saying one spelling and files saying the other would have found neither. Both flags are now mapped correctly in the prompt and in every state file that carried them.**
+
+## Deliberately not flagged
+
+The *Nacre* / *River Stacks* / *Tideglass* drift and the Volume 05 boundary are author-level canon questions. The batch escalated both rather than deciding them, which is correct, and neither was decided here. The boundary has now been deferred for three consecutive batches, so Volume 05 stands at seventy chapters against a forty-eight-chapter outline; that remains a human's to settle, and the honest handling is to keep writing continuation batches and keep flagging it, which is what has happened.
+
+`state/phase-ledger.json` still reads volume 1 / batch 1 with the work at chapter 264. It is controller-owned and was not touched, here or in the writer phase.
