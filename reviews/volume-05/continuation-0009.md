@@ -1,6 +1,9 @@
 # Review — Volume 05, Continuation 0009, Chapters 275–284
 
-**REVIEWED 27 SEPTEMBER 2026, IN TWO PASSES. NOT A VOLUME CLOSE AND NOT A RULING ON THE BOUNDARY.**
+**REVIEWED 27 SEPTEMBER 2026, IN THREE PASSES. NOT A VOLUME CLOSE AND NOT A RULING ON THE BOUNDARY.**
+**THE CANON IS IN THE "VOLUME 05, CONTINUATION 0009 — CHAPTERS 275–284" BLOCK AT THE END OF `state/continuity.md`. THE FINDINGS BELOW ARE IN §12, §12A, §12B, §12C AND §12D OF THAT BLOCK and the repairs are in the chapters and the seven state files. A CHAPTER GOVERNS; WHERE A FINDING IS ONLY ABOUT A STATE FILE, THE STATE FILE WAS REWRITTEN AND THE CHAPTER WAS NOT TOUCHED.**
+
+**THE THIRD PASS READ THE TWO REPAIRS OF THE DAY INSTEAD OF THE CHAPTERS, ON THE GROUND THAT A PHASE WHICH REPAIRS ITS OWN STATE FILES CAN BE WRONG ABOUT THE REPAIRS, AND FOUND TEN THINGS IN THEM. ALL NINE THAT WERE OURS TO REPAIR ARE REPAIRED, IN §12B ITEMS 17 AND 19, IN §12C ITEMS 4, 5, 6 AND 10, in §16 of this repository's own hand-over, IN `state/character-state.md`, IN `state/live-canon.md` §1 and §2, in this file, and in `workspace/volume-05/continuation-0010/PROMPT.md`. The ninth is `state/phase-ledger.json`, which is four volumes behind the manuscript and is owned by the workflow, so it is recorded in §12D and left alone. **THE THREE THAT MATTER MOST ARE THESE. §12B ITEM 19 RECORDED THE CORRECTED FLOOR AS *SATURDAY THE THIRTIETH OF DECEMBER 2016*, WHICH IS A FRIDAY AND IS 0284'S OWN DATE, IN THE SECTION THAT BOTH THE PROMPT AND `state/live-canon.md` CALL BINDING. The tail of the `state/character-state.md` hand-over still said the collision was *CORRECTED IN THE PROMPT AND NOT YET IN HERE*. And card 0294 asks for *the middle of a January*, which ten gaps of three to seven days from Saturday 31 December 2016 cannot reach, the earliest legal date being **Monday 30 January 2017**, and which the prompt's own collision paragraph said to flag and which was not flagged.****
 **THE CANON IS IN THE "VOLUME 05, CONTINUATION 0009 — CHAPTERS 275–284" BLOCK AT THE END OF `state/continuity.md`. THE FINDINGS BELOW ARE IN §12, §12A, §12B AND §12C OF THAT BLOCK AND THE REPAIRS ARE IN THE CHAPTERS AND THE SEVEN STATE FILES. A CHAPTER GOVERNS; WHERE A FINDING IS ONLY ABOUT A STATE FILE, THE STATE FILE WAS REWRITTEN AND THE CHAPTER WAS NOT TOUCHED.**
 
 ## What was read
@@ -9,9 +12,11 @@ Chapters 0275–0284 whole. The Continuation 0009 block of `state/continuity.md`
 
 ## The two passes, and what each of them is
 
-**PASS ONE** was a reading pass with a measuring pass behind it. It found **twenty-two things, eleven in the ten chapters and eleven in the state files and the next prompt**, and all twenty-two were repaired at the source. The first six are the ones this review calls canon contradictions, because each of them put a chapter into a state file that the same review had already established, and they are set out in full at **§12B**. The repair that mattered most in that pass was not a sentence at all: it was the removal of a gloss in 0276, where a man on the far side of an estuary explained exactly why a word is the word and the chapter then said in its next paragraph that nobody had explained it to him. The card required that he not be told. He now is not.
+**PASS ONE** was a reading pass with a measuring pass behind it. It **set down twenty enumerated items, eleven in the ten chapters and nine in the state files and the next prompt**, and all twenty were repaired at the source. The first six are the ones this review calls canon contradictions, because each of them put a chapter into a state file that the same review had already established, and they are set out in full at **§12B**. **This file first said *twenty-two things, eleven in the ten chapters and eleven in the state files and the next prompt*, and §12B's own heading repeated that split, and a third pass counted the items §12B actually enumerates and found twenty, eleven and nine, and the figure that was twice printed was not the figure that was twice true. The count that can be checked is the count of the items.** The repair that mattered most in that pass was not a sentence at all: it was the removal of a gloss in 0276, where a man on the far side of an estuary explained exactly why a word is the word and the chapter then said in its next paragraph that nobody had explained it to him. The card required that he not be told. He now is not.
 
-**PASS TWO** was run afterwards, independently, and it found **twenty-five more, four of them in the ten chapters and the rest in the state files**, all repaired at the source. They are set out in full at **§12C**. The largest single group was the fourth verbatim-span pass: the seven state files were holding four passages of the ten chapters in the chapters' own words, one of them eighteen words long, and one of the four was in §12B itself, in the very item that records the repair of a reuse of prose. That is the failure mode the whole exercise exists to catch, and it was caught by running the pass at the end and not at the start.
+**PASS TWO** was run afterwards, independently, and it found **twenty-five more, four of them in the ten chapters and twenty-one in the state files — four in the chapters, seven in prose, fourteen counts, floors and figures — all repaired at the source.** They are set out in full at **§12C**. The largest single group was the fourth verbatim-span pass: the seven state files were holding four passages of the ten chapters in the chapters' own words, one of them eighteen words long, and one of the four was in §12B itself, in the very item that records the repair of a reuse of prose. That is the failure mode the whole exercise exists to catch, and it was caught by running the pass at the end and not at the start. **§12C was printed with a headline saying *the six in the chapters* over a list of four, and the two files that point at it printed its total as twenty-seven and twenty-three, and a third pass caught both.**
+
+**PASS THREE** read passes one and two and the files that repeat them, and found the ten things set out in full at **§12D**. It changed no chapter. Its three serious findings were all on the floor date and all in a file the next batch is told to read first; its flag on card 0294 is the first instance in three batches of the prompt's own collision rule being applied to a card; and its ninth finding is not a fiction file and is not ours.
 
 ## The four in the chapters, and what they were
 
@@ -26,7 +31,7 @@ All four are timeline figures. Not one of them touches a card, a date, a day-cou
 
 `state/character-state.md` gave Jonas Mercer a tenure of **a year and eleven months**. *Eleven months* is on the list of figures that were spent and removed from this account long ago. The tenure is gone and **nothing has been put in its place**, because no chapter in this account states how long he has been in this borough and a substitute figure would be an invented fact. That is the whole of the repair and it is the correct size.
 
-The same file said nobody had asked him anything for nineteen weeks since a price was put to him on the twenty-third of July. The twenty-third of July to the thirtieth of December is twenty-two weeks and four days.
+The same file said nobody had asked him anything for nineteen weeks since a price was put to him on the twenty-third of July. The twenty-third of July to the thirtieth of December is one hundred and sixty days, which is **twenty-two weeks and six days**.
 
 ## The figures that were not what they said they were
 
@@ -48,10 +53,12 @@ The same file said nobody had asked him anything for nineteen weeks since a pric
 | Two | the ten chapters against each other, each against the other nine | 9 words | 21 | 4 | none |
 | Three | the ten chapters against 265–274 | 9 words | 30 | 20 | none |
 | Three | the ten chapters against 255–274 | 9 words | 63 | 27 | none |
-| Four | the ten chapters against the seven state files this batch wrote | 11 words | 15 | 24, then 20 after repair | 4, all rewritten in the files |
-| Five | the whole text of the ten chapters against every non-chapter file | 11 words | not recorded | 20 | none |
+| Four | the ten chapters against the seven state files this batch wrote | 11 words | 15, then 24, then 20 | **45 spans, every one of them exactly 11 words, so none exceeds the threshold at all** | 4 on the first measurement, all rewritten in the files, and none after them |
+| Five | the whole text of the ten chapters against every non-chapter file, 82 files | 11 words | not recorded, then 20 | **49 spans, every one of them exactly 11 words, so none exceeds the threshold at all** | none |
 
 **Every span in every one of those six figures is a dateline, a borough's own house form, or a figure's own by-name description, and not one of them is a reuse of prose.** Those three kinds are set aside and counted rather than chased, because breaking them would mean misidentifying somebody or breaking the form a chapter is dated in. A run is the longest contiguous shared sequence, a window inside a run is not counted again, and no chapter is ever compared with itself.
+
+**THE FOURTH AND FIFTH ROWS ARE THE ONES A THIRD PASS HAD TO REBUILD, AND THE REASON IS WORTH THE SPACE.** The first two figures in the fourth row were printed by the very pass that raised this defect against §12A, and neither could be reproduced by the method printed beside them in §12C. **Re-measured, the two runs return 45 and 49 spans and not one span in either is longer than the threshold, which means the honest result is *zero qualifying spans* rather than a large number of exempt ones — and that is a stronger claim than the one it replaces, not a weaker one.** The absolute counts are a property of the corpus at the moment of measurement, and these repairs are themselves written into state files, so a later repair will move them. What a later writer may rely on is the method, the window, the threshold and the conclusion, in that order, and not the count.
 
 **THE SECOND RUN IS THE ONE THAT MATTERS, AND IT IS THE ONE THE EARLIER PASSES SCOPED AND THEN READ AS THOUGH IT WERE THE WHOLE CHECK.**
 
@@ -69,6 +76,10 @@ It did not decide the boundary, and it did not rewrite an outline, write a Volum
 **What Volume 05 is centrally.** The series outline and the Volume 04 close prompt describe it differently and the reconciliation is an author-level question. No root term expires, no reclamation season opens, and nothing in these ten chapters is described as leading to one.
 **The spelling of the third of the eight places.** It is not read out in any of these ten chapters, so neither spelling appears in them and the conflict is neither touched nor resolved nor noticed. Five state files print both spellings and that census was measured and corrected on 27 September 2026.
 **The boundary.** On the page Volume 05 runs 195–242 and chapters 243–284 belong to no volume, because no human had decided the boundary when they were written. It is still a human's. Three answers are on the table and a writer may pick none of them.
+
+## One flag that is not a story flag, and was not repaired
+
+**`state/phase-ledger.json` is four volumes behind the manuscript and is not ours to touch.** It reads `currentPhase: phase-002-batch-plan`, range volume 1, batch 1, chapters 1–10, status `planned`, while the chapters run to 284 in Volume 05 and the top of `state/current.md` reads `phase-003-prose`. **That file is owned by the workflow, it is not a fiction file, and no writer and no review may edit it, so it is recorded here and in §12D and left exactly as it is.** The creative phase and the controller phase are different things and `state/current.md` says so at the top of itself; the ledger is outside the order of authority that begins with a chapter, and a stale ledger is not a canon contradiction, however wrong it is. A human who owns it should know.
 
 ## One observation carried with no fix available
 
