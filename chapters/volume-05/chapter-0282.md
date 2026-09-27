@@ -6,7 +6,7 @@ Wednesday the twenty-first of December 2016, from about a quarter to eight in th
 
 The stair on the left of that hall goes up to a landing with a fire door on it and a door on the landing, and the light over the foot of that stair is a batten fitting with two tubes in it, and one of those tubes has been out since the summer.
 
-On the Wednesday evening the eighth of December a man had come and put a new one in and had done a test on the one that was out and had told the woman of about forty-two with the key to that hall that it would do another six months, and that the fitting wanted doing in the spring, and she had said that would be in the spring.
+On the Thursday evening the eighth of December a man had come and put a new one in and had done a test on the one that was out and had told the woman of about forty-two with the key to that hall that it would do another six months, and that the fitting wanted doing in the spring, and she had said that would be in the spring.
 
 The outside light over the door of that hall has not worked since about 2011 and the switch by it turns and nothing comes of it, and on the Wednesday night of this week a man was up a ladder against it with a tester in one hand and had a sheet out of his coat.
 

@@ -2,13 +2,13 @@
 
 Tuesday the twenty-seventh of December 2016, from about half past eight in the morning, a parade of shops in Tideglass, a kitchen, a house in Corrance Lane, a hall, and a first-floor room at the end of a parade.
 
-**HE WAS IN FIVE ROOMS THAT DAY AND IN ONE OF THEM SOMEBODY PUT SOMETHING IN HIS HAND, AND HE PUT IT IN THE POCKET OF HIS CARDIGAN, AND HE DID NOT ASK ANYBODY WHAT IT WAS FOR.**
+**HE WAS IN FIVE ROOMS THAT DAY AND IN ONE OF THEM SOMEBODY PUT SOMETHING ON A TABLE BESIDE HIS CUP, AND HE PUT IT IN THE POCKET OF HIS CARDIGAN, AND HE DID NOT PUT IT ON.**
 
 The kitchen at the back of the parade had about nine plates in the sink at half past eight on the Tuesday morning, which is an ordinary morning, and the machine that heats the water had a timer on it that nobody has ever reset, and the clock on that wall said ten to nine when it was about a quarter to nine.
 
 He was there from half past seven. He is on the dishes and that is a thing he does for money and it is the only thing he does.
 
-There was nobody else in that kitchen. The woman he washes up for had gone at six on the Friday and would not be back until the fourth of January, and the machine that heats the water has a timer on it that nobody has ever reset, and the clock on that wall is still nine minutes fast.
+The woman he washes up for had gone at six on the Friday and would not be back until the fourth of January, and the plate rack was down over the sink when he came in, and he put it up.
 
 He washed the plates. The hot water went off at about nine because of the timer and he finished the last of them in cold.
 
@@ -36,11 +36,11 @@ At about twenty past eight, when she was putting her coat over the back of a cha
 
 They were a pair of gloves, wool, grey, and they had no fingers in them, and the wool had gone a bit shiny at the tips of the thumb and the heel from being in a bag, and there was a paper band still on one of them.
 
-"They're not much use," she said. "You'll not want them."
+"They're not much use on a dish," she said. "You'll have had a bad winter."
 
 He looked at them.
 
-"You don't have to say anything about it," said the young woman of about twenty, and went back to her chair.
+"There's a pair of the proper ones in a shop on the parade that does the outdoor," said the young woman of about twenty, "and I've been in twice and asked for them, and I've not asked twice in the same shop."
 
 He picked them up and turned one over and looked at the fingers that were not there, and then he did not put them on, and he did not put them back on the table, and he put them in the pocket of his cardigan, which was over the back of his own chair, and the pocket took them.
 
@@ -50,7 +50,7 @@ He picked them up and turned one over and looked at the fingers that were not th
 
 "I said no and she went out and got them somewhere else," said the man of about eighteen.
 
-He did not ask her what they were for. He washed the rest of that day's things out of the pocket before he went, because the pocket of that cardigan is not a place a thing can stay in and be dry.
+He put a hand in the pocket to check it the way anybody checks a pocket, and there was a receipt and a lolly stick off one of that house's own pots in there, and he left the gloves where they were, and he shut that door on the latch behind him the way he had found it.
 
 At about half past nine he was in a first-floor room over a shop at the end of a parade, where about six of them play cards on a weeknight, because a warm room in this part of the town is the one that is free, and it is a mile from the hall off the parade and the church wants paying for. A man in his thirties keeps it. He opens the door on a Tuesday and shuts it on a Wednesday, and nothing is written down, and he rings nobody to say which.
 

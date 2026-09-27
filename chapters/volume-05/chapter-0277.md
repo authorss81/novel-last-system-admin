@@ -1,6 +1,6 @@
 # Chapter 0277 — Five Doors
 
-Friday the twenty-fifth of November 2016, from about eleven in the morning, a first-floor landing in a building by the water in Tideglass, and a shop that shuts early on a parade.
+Friday the twenty-fifth of November 2016, from about five past twelve in the morning, a first-floor landing in a building by the water in Tideglass, and a shop that shuts early on a parade.
 
 **THERE ARE FIVE DOORS ON THAT LANDING AND ONE OF THEM SHUTS AND ONE OF THEM DOES NOT, AND A MAN WENT ALONG IT WITH FOUR REASONS IN HIS HEAD AND COULD DO NOTHING WITH ANY OF THEM, AND NOBODY JOINED THE TWO UP.**
 
@@ -38,7 +38,7 @@ He did not say anything about that. He looked at the door, and he looked at the 
 
 He wrote nothing down, because he had nothing in his hand to write it down on, and he said, "Right," and moved on to the fourth door.
 
-The fourth door is four doors along from hers counting past the fire door, and it was standing open three inches.
+The fourth door was the next one along from hers counting past the fire door, and it was standing open three inches.
 
 It had been shut when he came along the landing. It had not been shut at five past twelve either, and it was not shut at half past, and the woman who was in that room had a chair against it and a draught coming under it that had made a rug on the landing move every time a door opened anywhere on that floor.
 
@@ -47,6 +47,8 @@ He knocked and said his name and the name of the company and asked whether he co
 "I'd rather you didn't," she said.
 
 He did not go in. He did not ask again and he did not stand in the doorway. He said he was sorry to bother her and that there was nothing in particular, only that he was on the landing and it was a thing you did, and she said, and it is the whole of what she said, "I know it is," and shut the door until it was a hand's width and left it there.
+
+The fifth door was at the end of that landing with that window against it, and the draught came off that end hard enough to lift a corner of a mat, and he shut it before he knocked, and a man in a dressing gown came to it and told him that the company had that window on a list going back before the summer, and that the list had been round about a fortnight, and that he would not stand in his own doorway for the sake of a list. The man said the round was not his, and the man in the dressing gown said that it was nobody's, and shut the door on it, and the draught came the whole length of that landing behind him with the door shut.
 
 He went down the stair with the fire door coming back on him twice on the way, and he had a wedge in his pocket because he had come prepared to put one under it, and he did not put it under it, because a wedge under a fire door is a thing that is somebody's job, and he did not know whose job it was, and there was no body in this borough that could tell him by asking.
 
@@ -58,6 +60,6 @@ The bag is in the back of the shop that shuts early, and it has been in the back
 
 The young woman of about twenty paid for the tea and put the bag of tea on the counter in her other arm and did not say whose door it was, and did not say whether she had a door, and the shutter came down behind her at about ten past one as it does.
 
-And the young woman of about twenty did not go up towards the water afterwards, and did not go and look at the hasp, and did not tell anybody that the woman of about fifty-five had a door that shut, and had known since the Thursday before last of October, and had said so in a room over a shop that was not hers.
+And the young woman of about twenty went back up the parade on the far side from the water with the tea in a bag against her chest, and she stopped at the corner by the bank long enough for a bus to come and go the other way, and then she carried on up the bank, and when she got in she put the bag of post-fix in the drawer upstairs on top of a scarf and pushed it to with her hip, and then she had her tea out of the bag standing at the window with the back of her coat still damp.
 
 **AND THE GALE WENT ON UNTIL THE MONDAY, AND THE FIRE DOOR CAME BACK ON ITS OWN ALL DAY AND WAS WEDGED ON THE THURSDAY BY A MAN WHO CAME BACK WITH A DOOR WEDGE OFF A VAN AND PUT IT DOWN WITHOUT ASKING ANYBODY ANYTHING, AND ON THE FRIDAY MORNING THE LANDING WAS QUIET, AND THE WOMAN OF ABOUT FIFTY-FIVE CAME OUT OF HER ROOM AT HALF PAST NINE TO GET A BAG FROM THE CORRIDOR OUTSIDE IT AND HELD THE BAG AGAINST HER KNEE WITH ONE HAND WHILE SHE PUT HER KEY IN WITH THE OTHER, BECAUSE THE HANDLE ON HER SIDE STOPS A FOOT SHORT OF THE DOOR WHEN THE SIDE WITH THE HASP IS IN.**

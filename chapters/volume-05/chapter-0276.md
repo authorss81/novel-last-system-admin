@@ -88,7 +88,7 @@ The man in his thirties read it out.
 
 "I know what it sounds like."
 
-"It sounds like nothing," said the man. "It is the word for work that has been paid for twice because nobody could be bothered to write six digits down. That's all it is. Credit note Friday, bin the sheet."
+"It sounds like nothing," said the man. "It's the word we put on it and I am not going to unpick it for you on a Monday morning, and neither is anybody else in that office, and the day one of us did it by hand it would stop being a ticket. Credit note Friday, bin the sheet."
 
 He did not ask about it again, and nobody explained it to him, and he used the word twice in the fortnight that followed: once in a shop about a kettle that somebody else had paid for, and once, correctly, to a man who had come to look at a gutter and was quoting a price for a job that had already been done and invoiced by another firm in August.
 

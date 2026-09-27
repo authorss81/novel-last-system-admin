@@ -30,7 +30,7 @@ The man in his thirties had a job on at about half past three on the Friday, cut
 
 A van came off the bridge behind him at about a quarter to four and stopped, and a man in it put a ladder out of the back and a coil of rope and went into a passage, and the man in his thirties said, to nobody, that that was the third ladder in a week, and the man in the van said, "Ay," and went in, and that was the whole of it.
 
-The hall off that parade was full at about half past seven, the meter on and nobody letting out for the night, and about nine of them were in it, and not one of them was on anything.
+The hall off that parade was full at about half past seven, the meter on and nobody letting out for the night, and there were nine of them in it, and not one of them had come out for any reason you could put on a piece of paper.
 
 The man from the parade came early. The man in his forties turned up late and stayed about an hour, as he does. The woman with the key had her coat over a chair before her bag was out of her hand. The man in his sixties had a cup of tea and spent the first part of the night looking out of the window at the parade, which is what he has done all winter. The woman of about fifty-five was in by about ten past eight with her bag over her shoulder. The young woman of about twenty came off the bus.
 
@@ -40,9 +40,9 @@ At about a quarter to nine, at the table under the window at the end, a woman wh
 
 "There's two of them going," said a woman who works in a parade in a place off Corrance Lane with a name on it. "Somebody's been saying the day's going to be the one. The twenty-eighth of June. That's a good deal better than the register."
 
-"The day's better than the register," said the woman beside her, and gave it across the table without being asked, the way she gave it in November.
+"The day's better than the register," said the woman beside her, and gave it across the table without being asked, the way she gave it in October.
 
-"There's a third one going about as well," said the woman who works in a shop, and looked round to see whether anybody had heard the third one, and nobody had, because it was a month old and nobody in that room had been in a room that somebody was saying it in.
+"There's a third one going about as well," said the woman who works in a shop, and looked round to see whether anybody had heard the third one, and there was a pause of about a second at that table, because there had been a third one in that hall on the sixth with about eight of them in it, and it had come back now with a shape on it that it had not had then, and nobody at that table could say who had put the shape on it.
 
 "It's not ours," she said. "It'll be one of theirs. Somebody over that water will open a drawer in a building they have never been inside and find a sheet with our postcode on the top of it, and that will be the one, and the lot of us will be moved or dead before anybody comes and tells us what it was."
 
