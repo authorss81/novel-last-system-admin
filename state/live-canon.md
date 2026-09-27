@@ -6,7 +6,7 @@
 
 **Why this file exists: `state/continuity.md`, `state/open-threads.md`, `state/character-state.md`, `state/chapter-summaries.md` and `state/batch-summaries.md` are append-only histories and together run to several megabytes. They are NOT to be pruned, truncated or compacted by a writer, because a figure, a date or a figure-count in an old block is the only record that a figure was ever spent, and deleting a block loses it permanently. They are also not readable whole. So every prompt names the one block that is the hand-over, and this file is what can be read whole.**
 
-**Last rebuilt: after Continuation 0007, for §1, §2, §6, §7 and the banner only. THE SERIES IS NOW AT 264 OF 720 AND THE CONTINUATION 0007 BLOCK AT THE END OF EACH STATE FILE IS THE HAND-OVER. §3, §4, §5 AND §11 BELOW WERE WRITTEN FOR 234 AND ARE **NOT** REBUILT, AND §9 AND §10 WERE NOT EITHER; WHERE THEY DISAGREE WITH THE CONTINUATION 0007 BLOCK, WHICH IS ABOVE THIS FILE IN THE ORDER OF AUTHORITY, THE CONTINUATION 0007 BLOCK IS RIGHT, AND WHERE THEY DISAGREE WITH A CHAPTER THE CHAPTER IS RIGHT. **A WRITER WHO NEEDS THE CENSUS, THE CLOSED FIGURES, THE MOTIF CAPS OR THE STANDING MUST READ §13, §14 AND §16 OF THE CONTINUATION 0007 BLOCK IN `state/continuity.md` AND NOT THE ONES HERE.****
+**Last rebuilt: after Continuation 0008, for §1, §2, §6, §7 and the banner only. THE SERIES IS NOW AT 274 OF 720 AND THE CONTINUATION 0008 BLOCK AT THE END OF EACH STATE FILE IS THE HAND-OVER. §3, §4, §5, §11, §12 AND §13 BELOW WERE WRITTEN FOR 234 OR FOR 264 AND ARE **NOT** REBUILT; WHERE THEY DISAGREE WITH THE CONTINUATION 0008 BLOCK, WHICH IS ABOVE THIS FILE IN THE ORDER OF AUTHORITY, THE CONTINUATION 0008 BLOCK IS RIGHT, AND WHERE THEY DISAGREE WITH A CHAPTER THE CHAPTER IS RIGHT. **A WRITER WHO NEEDS THE MEASURED CENSUS, THE MEASURED CLOSED FIGURES, THE MEASURED CAPS OR THE STANDING MUST READ §11, §12, §13, §14 AND §16 OF THE CONTINUATION 0008 BLOCK IN `state/continuity.md` AND NOT THE ONES HERE.****
 
 ---
 
@@ -14,12 +14,12 @@
 
 | File | The block to read | Its size problem |
 | --- | --- | --- |
-| `state/continuity.md` | **"VOLUME 05, CONTINUATION 0007 — CHAPTERS 255–264 — Saturday 30 July to Saturday 17 September 2016"**, at the end, §0–§16. The Continuation 0006 block sits above it and still governs everything those ten chapters did, and the Batch 0005 block above that still governs its ten. | ~1.7 MB total, 17 sections in the live block |
-| `state/open-threads.md` | **"VOLUME 05 OPEN THREADS — after Continuation 0007, Chapter 264"**, at the end | ~500 KB total |
-| `state/character-state.md` | **"VOLUME 05, CONTINUATION 0007 — CHARACTER STATE AFTER CHAPTER 264"**, at the end | ~500 KB total |
-| `state/chapter-summaries.md` | the ten entries for **0255–0264** | ~900 KB total |
-| `state/batch-summaries.md` | the **Volume 05 Continuation 0007** entry | ~450 KB total |
-| `state/current.md` | the calendar at the top and **"THE STATE OF THE CITY AT THE END OF CHAPTER 264"** at the bottom | ~210 KB total |
+| `state/continuity.md` | **"VOLUME 05, CONTINUATION 0008 — CHAPTERS 265–274 — Saturday 17 September to Tuesday 15 November 2016"**, at the end, §0–§16. The Continuation 0007 block sits above it and still governs everything those ten chapters did, and the Continuation 0006 block above that still governs its ten. | ~1.7 MB total, 17 sections in the live block |
+| `state/open-threads.md` | **"VOLUME 05 OPEN THREADS — after Continuation 0008, Chapter 274"**, at the end | ~500 KB total |
+| `state/character-state.md` | **"VOLUME 05, CONTINUATION 0008 — CHARACTER STATE AFTER CHAPTER 274"**, at the end | ~500 KB total |
+| `state/chapter-summaries.md` | the ten entries for **0265–0274** | ~900 KB total |
+| `state/batch-summaries.md` | the **Volume 05 Continuation 0008** entry | ~450 KB total |
+| `state/current.md` | the calendar at the top and **"THE STATE OF THE CITY AT THE END OF CHAPTER 274"** at the bottom | ~210 KB total |
 
 **The prompt names these blocks instead of the files. A writer who tries to read a whole state file will run out of context and stop, and that is what happened in Batch 0004.**
 
@@ -27,9 +27,10 @@
 
 ## 2. WHERE THE SERIES STANDS
 
-- Volume 01 complete, Chapters 1–48. Volume 02 closed, 49–100. Volume 03 closed, 101–144. Volume 04 closed, 145–194. **Volume 05 is running, 195–264, and is not closed and is not declared closed.**
-- **Volume 05 is *The Borrowed City*. It opened Thursday 24 September 2015 and has run to Saturday 17 September 2016 in seven batches.** Batch 0001 was 195–204, 0002 was 205–214, 0003 was 215–224, 0004 was 225–234, 0005 was 235–244, Continuation 0006 was 245–254, Continuation 0007 was 255–264. **THE COMPACT, THE RIGHT OF RETURN, THE PUBLIC PART, THE SACRIFICE, THE THREE WEEKS, THE PACT HOLDING, THE WIDER CIVIC EXPERIMENT AND THE VOLUME'S OWN NEW QUESTION ARE ALL SPENT AND UNRESOLVED, AND CONTINUATIONS 0006 AND 0007 SPENT SIX MORE THINGS AND RESOLVED NONE OF THEM. WHAT IS AHEAD IS CONSEQUENCES AND NOT DECISIONS.**
-- **ON THE PAGE, VOLUME 05 IS 195–242 AND VOLUME 06 BEGINS AT 243. CHAPTERS 243 THROUGH 264 HAVE NOW BEEN WRITTEN AND BELONG TO NO VOLUME, BECAUSE NO HUMAN HAD DECIDED THE BOUNDARY WHEN THEY WERE WRITTEN. THIS IS AN UNRESOLVED BOUNDARY AND IT IS A HUMAN'S, NOT A WRITER'S, AND IT IS STILL A HUMAN'S AFTER THREE MORE BATCHES. No outline may be rewritten to hide it. NO VOLUME 06 OUTLINE AND NO VOLUME-CLOSE PROMPT WERE WRITTEN AND NEITHER MAY BE WRITTEN BY A WRITER. CARD 0264 IS NOT A CLOSE. The next phase is a CONTINUATION BATCH, Chapters 265 onward, and it may not be dated before Saturday 17 September 2016.**
+- Volume 01 complete, Chapters 1–48. Volume 02 closed, 49–100. Volume 03 closed, 101–144. Volume 04 closed, 145–194. **Volume 05 is running, 195–274, and is not closed and is not declared closed.**
+- **Volume 05 is *The Borrowed City*. It opened Thursday 24 September 2015 and has run to Tuesday 15 November 2016 in eight blocks.** Batch 0001 was 195–204, 0002 was 205–214, 0003 was 215–224, 0004 was 225–234, 0005 was 235–244, Continuation 0006 was 245–254, Continuation 0007 was 255–264, Continuation 0008 was 265–274. **THE COMPACT, THE RIGHT OF RETURN, THE PUBLIC PART, THE SACRIFICE, THE THREE WEEKS, THE PACT HOLDING, THE WIDER CIVIC EXPERIMENT AND THE VOLUME'S OWN NEW QUESTION ARE ALL SPENT AND UNRESOLVED, AND THE THREE CONTINUATIONS SPENT EIGHTEEN MORE THINGS AND RESOLVED NONE OF THEM. WHAT IS AHEAD IS CONSEQUENCES AND NOT DECISIONS.**
+- **ON THE PAGE, VOLUME 05 IS 195–242 AND VOLUME 06 BEGINS AT 243. CHAPTERS 243 THROUGH 274 HAVE NOW BEEN WRITTEN AND BELONG TO NO VOLUME, BECAUSE NO HUMAN HAD DECIDED THE BOUNDARY WHEN THEY WERE WRITTEN. THIS IS AN UNRESOLVED BOUNDARY AND IT IS A HUMAN'S, NOT A WRITER'S, AND IT IS STILL A HUMAN'S AFTER FOUR MORE BATCHES. No outline may be rewritten to hide it. NO VOLUME 06 OUTLINE AND NO VOLUME-CLOSE PROMPT WERE WRITTEN AND NEITHER MAY BE WRITTEN BY A WRITER. CARD 0274 IS NOT A CLOSE AND IS NOT CALLED ONE. The next phase is a CONTINUATION BATCH, Chapters 275 onward, and it may not be dated before Tuesday 15 November 2016.**
+- **WHAT CONTINUATION 0008 SPENT, ON THE PAGE: A SECOND DAY WITH NOTHING WRONG IN IT THAT TWO PEOPLE USED SEPARATELY AND TOLD NOBODY ABOUT · A CUT-BACK STONE STEP AND A WORD ABOUT A CORNER OF A STONE THAT A MAN CANNOT EXPLAIN · A TIN OF PAINT WITH A SURNAME AND AN INITIAL ON A STRIP OF MASKING TAPE, AND THREE NAMES IN THREE PLACES · AN ORDINARY WEEK IN OCTOBER AND A WOMAN SAYING IT IS THE FIRST WEEK SHE CAN REMEMBER BEING BORED IN · A BETTER WRONG ANSWER ABOUT WHAT WILL BE PROVED, WHICH IS THE TWENTY-EIGHTH OF JUNE AND NOT A PAPER · A WATER BILL THAT WENT UP FOR A TAKEOVER FOUR COUNTIES AWAY · TWO PEOPLE IN ONE SHOP ON ONE AFTERNOON IN AUGUST SAYING THE SAME SENTENCE · A HUNDRED AND EIGHTY POUNDS FOR A BOILER NOBODY OWNS, AND A BOILER THAT WENT DOWN A BACK LANE ON A TROLLEY · ELEVEN PEOPLE AND TWO THINGS A LAD DID AND A WOMAN SAYING *SOMEBODY DID* · AND AN ORDINARY FIFTEENTH OF NOVEMBER. NONE OF IT IS RESOLVED, AND A FINDING IN THIS ACCOUNT IS A THING THAT HAPPENED TO A PERSON AND NOT A PARAGRAPH ABOUT A THING.**
 - The planned ending is in `outline/ending.md` and is not to be changed. **No new final enemy may be introduced without flagging it.**
 
 ---
@@ -86,23 +87,22 @@ Nine hundred and forty, nine hundred and eighty-six and fourteen are a number of
 - **Friday 20 February 2015** — the card in the slot.
 - **Wednesday 18 February 2015, about half past nine** — the letter in the tray on the second floor.
 
-**THE LAST BATCH, 255–264, WITH THE THREE COUNTS, ALL RE-ADDED-UP FROM THE ANCHORS AND CHECKED AGAINST FOUR KNOWN DATES BEFORE ANY OF THEM WAS PRINTED. THE NEXT BATCH MUST ADD ITS OWN UP FROM THE ANCHORS AGAIN AND MAY NOT CARRY ONE FORWARD FROM THIS TABLE:**
+**THE LAST BATCH, 265–274, WITH THE THREE COUNTS, ALL RE-ADDED-UP FROM THE ANCHORS AND CHECKED AGAINST FIVE KNOWN DATES BEFORE ANY OF THEM WAS PRINTED. THE NEXT BATCH MUST ADD ITS OWN UP FROM THE ANCHORS AGAIN AND MAY NOT CARRY ONE FORWARD FROM THIS TABLE:**
 
 | Ch | Date | Weekday | Gap | Blank line | Card | Letter |
 | --- | --- | --- | --- | --- | --- | --- |
-| — | Sat 23 Jul 2016 | Saturday | — | **605** | **519** | **521** |
-| 255 | Sat 30 Jul 2016 | Saturday | — | **612** | 526 | 528 |
-| 256 | Wed 3 Aug 2016 | Wednesday | 4 | 616 | 530 | 532 |
-| 257 | Mon 8 Aug 2016 | Monday | 5 | 621 | 535 | 537 |
-| 258 | Sat 13 Aug 2016 | Saturday | 5 | 626 | 540 | 542 |
-| 259 | Fri 19 Aug 2016 | Friday | 6 | 632 | 546 | 548 |
-| 260 | Thu 25 Aug 2016 | Thursday | 6 | 638 | 552 | 554 |
-| 261 | Thu 1 Sep 2016 | Thursday | 7 | 645 | 559 | 561 |
-| 262 | Wed 7 Sep 2016 | Wednesday | 6 | 651 | 565 | 567 |
-| 263 | Mon 12 Sep 2016 | Monday | 5 | 656 | 570 | 572 |
-| 264 | Sat 17 Sep 2016 | Saturday | 5 | **661** | **575** | **577** |
+| 0265 | Sat 17 Sep 2016 | Saturday | — | 661 | 575 | 577 |
+| 0266 | Sat 24 Sep 2016 | Saturday | 7 | **668** | 582 | 584 |
+| 0267 | Fri 30 Sep 2016 | Friday | 6 | 674 | 588 | 590 |
+| 0268 | Fri 7 Oct 2016 | Friday | 7 | 681 | 595 | 597 |
+| 0269 | Thu 13 Oct 2016 | Thursday | 6 | 687 | 601 | 603 |
+| 0270 | Thu 20 Oct 2016 | Thursday | 7 | 694 | 608 | 610 |
+| 0271 | Wed 26 Oct 2016 | Wednesday | 6 | 700 | 614 | 616 |
+| 0272 | Wed 2 Nov 2016 | Wednesday | 7 | 707 | 621 | 623 |
+| 0273 | Tue 8 Nov 2016 | Tuesday | 6 | 713 | 627 | 629 |
+| 0274 | Tue 15 Nov 2016 | Tuesday | 7 | **720** | 634 | 636 |
 
-**The gaps are 4, 5, 5, 6, 6, 7, 6, 5 and 5 days, all inside the three-to-seven-day window. NO CHAPTER MAY BE DATED BEFORE SATURDAY THE SEVENTEENTH OF SEPTEMBER 2016 AND NO CHAPTER MAY BE DATED TO A DAY BEFORE THE ONE BEFORE IT. TWO DAY-COUNTS APPEAR IN THE PROSE OF THOSE TEN CHAPTERS AND ONLY TWO, EACH ON ITS OWN CHAPTER'S OWN DATE: SIX HUNDRED AND TWELVE AT 0255 AND SIX HUNDRED AND SIXTY-ONE AT 0264.**
+**The gaps are 7, 6, 7, 6, 7, 6, 7, 6 and 7 days, all inside the three-to-seven-day window. NO CHAPTER MAY BE DATED BEFORE TUESDAY THE FIFTEENTH OF NOVEMBER 2016 AND NO CHAPTER MAY BE DATED TO A DAY BEFORE THE ONE BEFORE IT. TWO DAY-COUNTS APPEAR IN THE PROSE OF THOSE TEN CHAPTERS AND ONLY ONE, ON ITS OWN CHAPTER'S OWN DATE: SEVEN HUNDRED AND TWENTY AT 0274, IN THE BODY AND NOT IN A CLOSING BLOCK. **AND THAT FIGURE IS ALSO THE LENGTH OF THIS SERIES AND THE TWO ARE UNRELATED; A WRITER WHO MEETS SEVEN HUNDRED AND TWENTY MUST CHECK WHICH ONE THEY ARE READING.****
 
 **ONLY THE LAST FIGURE OF EACH ROW APPEARS IN THE PROSE, AS A RULE. The register is at nineteen entries and the line under the nineteenth is blank and it is the only fixed point in that building.**
 
@@ -167,7 +167,7 @@ A card in a slot, not taken out, not put up, not read · a letter in a tray on t
 
 ## 12. TWO CANON QUESTIONS THAT ARE OPEN AND ARE NOT A WRITER'S TO CLOSE
 
-1. **The name of the city.** `bible/world.md` and `outline/series.md` call it *Nacre*; Volumes 01 and 02 say *River Stacks*; from Volume 03 onward, in every chapter written so far, the prose says ***Tideglass***. **NO FILE RECORDS A RENAME AND NONE MAY BE INVENTED. KEEP USING *TIDEGLASS* FOR THIS CITY, WRITE THE OTHER TWO NAMES NOWHERE IN THE PROSE, DO NOT NARRATE A RENAME, A CORRECTION, A DISCOVERY OR A CONFUSION, AND DO NOT LET A CHARACTER NOTICE, MISNAME OR ASK.** A character from another city may arrive and be confused about something else.
+1. **The name of the city.** `bible/world.md` and `outline/series.md` call it *Nacre*; Volumes 01 and 02 say *River Stacks*; from Volume 03 onward, in every chapter written so far, the prose says ***Tideglass***. **NO FILE RECORDS A RENAME AND NONE MAY BE INVENTED. IT WAS NOT TOUCHED IN CONTINUATION 0007 OR 0008 ONLY BECAUSE THE EIGHT PLACES ARE NOT READ OUT IN ANY OF THOSE TWENTY CHAPTERS. **IF A LATER BATCH READS THE EIGHT PLACES ALOUD, IT PRINTS *Halsey Cross*, WHICH IS THE SPELLING ALREADY ON THE PAGE IN 0244, IN 0251 AND IN 0243'S BODY, AND *Halse Cross* IS THE SPELLING IN 0243'S OWN CLOSING BLOCK AND IS THE ONE A HUMAN MAY HAVE TO RULE ON AGAINST THAT CHAPTER ITSELF.** KEEP USING *TIDEGLASS* FOR THIS CITY, WRITE THE OTHER TWO NAMES NOWHERE IN THE PROSE, DO NOT NARRATE A RENAME, A CORRECTION, A DISCOVERY OR A CONFUSION, AND DO NOT LET A CHARACTER NOTICE, MISNAME OR ASK.** A character from another city may arrive and be confused about something else.
 2. **What Volume 05 is centrally.** `outline/series.md` makes it a river disaster and mutual-aid permissions; the Volume 04 close prompt described it as the reclamation season and every old root term expiring in a different place. **The series outline governs the writing of a chapter. The reconciliation of the two descriptions is an author-level question and is carried forward unresolved.** The operative rules bind whatever an author decides: no root term expires, no reclamation season opens, nothing in the batch is described as leading to one.
 
 **And a third, structural: the on-page end of Volume 05 is 242 and the next batch's ten cards run to 244. See §2.**
