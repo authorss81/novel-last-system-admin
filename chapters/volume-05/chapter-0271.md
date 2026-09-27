@@ -4,7 +4,7 @@ Wednesday the twenty-sixth of October 2016, from about half past three in the af
 
 **TWO PEOPLE WENT INTO THE SAME SHOP ON THE SAME AFTERNOON IN AUGUST AND SAID THE SAME SENTENCE, AND NEITHER OF THEM KNEW, AND IT CAME OUT IN A QUEUE FOR A KEY CUT SIX WEEKS LATER, OUT OF A MAN WHO HAD BEEN TOLD BY SOMEBODY WHO IS ON NOTHING.**
 
-The young woman of about twenty went into the shop that shuts early at about half past three because it was still open and because the woman of about fifty-five had said on the Thursday before, in a room over a shop with her bag on the sill, that the door of that room does not shut.
+The young woman of about twenty went into the shop that shuts early at about half past three because it was still open and because the woman of about fifty-five had said, on the Thursday before last, in a room over a shop with her bag on the sill, that the door of the room she had taken does not shut.
 
 "Does it."
 

@@ -38,7 +38,7 @@ On the way in he put his other hand flat on the door frame as he came through, t
 
 That was the two of them. There was nothing else. Neither of them took more than about half a minute together and half of that was the door, and neither of them was done because anybody asked.
 
-At about twenty to ten, with the tea still being mopped up off the table and nobody still talking about the price of a boiler, the woman of about forty-two with the key to that hall came past him on her way to the meter by the door with her coat over her arm, and stopped, and looked at his hands, which were grey to the second knuckle off the spanner and the door frame and a bit of biscuit.
+At about twenty to ten, with the tea still being mopped up off the table and nobody still talking about the price of a boiler, the woman of about forty-two, who has the key to that hall as well as the key to the one off the parade, came past him on her way to the meter by the door with her coat over her arm, and stopped, and looked at his hands, which were grey to the second knuckle off the spanner and the door frame and a bit of biscuit.
 
 "You've done that before," she said.
 
@@ -50,7 +50,7 @@ At about twenty to ten, with the tea still being mopped up off the table and nob
 
 She laughed at that and said, "Somebody did."
 
-And then she went and shut the gas off at the meter by the door, which she does, and put the padlock on it, which she does, and did not say one other thing to him all evening, and he did not say one other thing to her.
+And then she went over to that meter and shut the gas off, which she does, and put the padlock on it, which she does, and did not say one other thing to him all evening, and he did not say one other thing to her.
 
 He stayed until the chairs went up at ten past ten, because he does that. He carried four of them, because the man from the parade had carried four on the first of September and had not mentioned it and neither does he, and he went out into a rain that had set in at about nine and stood on the step for a second with his cardigan over his arm, because that step is the width of the hall and there is nothing to come out under.
 
