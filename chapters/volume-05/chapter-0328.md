@@ -58,7 +58,7 @@ The woman who works in a shop is on the front of that shop four days a week and 
 
 "It is the top of the road."
 
-"Quarter past nine yesterday morning a man told a woman with a folded umbrella at the bottom of the Cleeve road that it was the Thursday that was moving and it was the road works at the junction, and he said it was that parade," said the woman who works in a shop. "I don't know how he got into this shop on a Saturday, he was in on the Thursday and he said it at the counter, which is a day earlier, and I'm not saying he was in on the Sunday, because a man in a fleece goes where he likes on a Sunday. He said the Thursday was moving."
+"A woman with a folded umbrella stopped me in the road as I came up from the bus stop and told me that at a quarter past nine this morning a man told her at the bottom of the Cleeve road that it was the Thursday that was moving and it was the road works at the junction, and he said it was that parade," said the woman who works in a shop. "He was in this shop on the Thursday and he said it at the counter then, and the notices had only just come round that day, and I have not been out of this shop this morning and I could not tell you where he got his from, and I am not going to stand here and tell you he made it up, because a man in a fleece goes where he likes on a Sunday. He said the Thursday was moving."
 
 "They move it one day forward or one day back and the men who say so don't know which," said the man who puts shutters up. "The Thursday moving is the same as the Tuesday starting if you count the other way, is it not."
 

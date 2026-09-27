@@ -22,7 +22,7 @@ She did not take the staples out. It came off that house with the staples in it 
 
 On Friday the twenty-third of June she got the corner of it up off the skirting with her fingernails, because she wanted to sweep under it and there is no way to sweep under a thing that is down and turned up against a board. It came away in a shape. It would not go back the way it had been, and it sat against the wall of that room on its edge for a week, and on the Friday morning of the thirtieth she got her back to it and got it round on to its side and stood it against the wall under the window.
 
-There is nowhere in that room to have it on the floor. It is about nine foot each way and there is a bed, a chair, a table and a wardrobe in it, and a carpet down on that floor means everything else is up against the walls, and she is not going to live like that because a man brought a carpet up a stair on a weekday morning in June.
+There is nowhere in that room to have it on the floor. It is about nine foot by six and there is a bed, a chair, a table and a wardrobe in it, and a carpet down on that floor means everything else is up against the walls, and she is not going to live like that because a man brought a carpet up a stair on a weekday morning in June.
 
 ---
 

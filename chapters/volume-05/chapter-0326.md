@@ -58,7 +58,7 @@ There was a knock at the back of that shop at about five to twelve and the man w
 
 It was an under-counter fridge with a compressor on the back of it and it was in its box, and the man with the hand truck had come up the alley with it on the tray and got it as far as the back door, and it would not go through.
 
-The back door is eight hundred wide and the fridge is a shade over that, and the compressor is the part that will not go first, and that man had it square in the doorway with the tray tipped and it was not going any further, and he said so.
+The back door is about two foot eight wide and the fridge is a shade over that, and the compressor is the part that will not go first, and that man had it square in the doorway with the tray tipped and it was not going any further, and he said so.
 
 "There is a bar on the outside of that door," said the man who works nights.
 
@@ -84,7 +84,7 @@ Nobody said anything for about a minute.
 
 Then the man who works nights lifted that bar off its staple, and the woman who works in a shop watched him do it, and the man with the hand truck took the fridge through in one go on the tray with the compressor last, and they had it against the far wall of the cold room and the door shut.
 
-And then the three of them stood in that corridor and worked out that the fridge is on the swing of that door and the door is a hundred and ninety on the hinge and the fridge is two foot further in than the swing allows, and there is no way to have both.
+And then the three of them stood in that corridor and worked out that the fridge is on the swing of that door and the door is a hundred and ninety degrees on the hinge and the fridge is two foot further in than the swing allows, and there is no way to have both.
 
 They tried it twice. On the second try the door came back on the front of the box with about four inch to spare and stopped.
 

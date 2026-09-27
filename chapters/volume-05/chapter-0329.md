@@ -44,7 +44,7 @@ The woman in the room next door along said aye, and stood there about another ha
 
 The woman of about fifty-five went in and shut her own door and put her jugs down.
 
-The bowl is under that strip. It has been emptied nine or ten times a day since the Monday and the water in it is not clean and she has a second bowl for the jugs now, and there is a towel round the outside of the first one. There is a wet mark on the ceiling about the size of a tea tray where the run comes off and she has looked at that mark every day since and it has not got bigger and she has not decided whether that is a thing to be glad of.
+The bowl is under that strip. It is emptied four or five times a day and has been since the Tuesday, and the water in it is not clean and she has a second bowl for the jugs now, and there is a towel round the outside of the first one. There is a wet mark on the ceiling about the size of a tea tray where the run comes off and she has looked at that mark every day since and it has not got bigger and she has not decided whether that is a thing to be glad of.
 
 And the machine is on its side in the corner where that corridor widens by the fire door, with its lead across the top of it and about half a bag of that landing's own grit still in the filter, and the bowl is about five foot from the machine, and the two of them are on the same landing and neither of them is anything to do with the other.
 
@@ -66,7 +66,7 @@ He went back down the passage and got into his van and shut the door and went to
 
 ---
 
-The woman who works in a shop was in that parade on the Friday afternoon and the man in his forties came along the front of it about half past four and she was putting a card up in the window and she said good evening to him and he said good evening and went on about ten foot and stopped and came back and put his head round the side of her door.
+On the Friday afternoon the man in his forties came along the front of that parade about half past four while the woman who works in a shop was putting a card up in the window, and she said good evening to him and he said good evening and went on about ten foot and stopped and came back and put his head round the side of her door.
 
 "Did you see anything to do with a bin in that passage off the top of Marsh Lane."
 

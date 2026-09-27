@@ -48,7 +48,7 @@ And there is no fourth, and there has never been a fourth that he has seen, and 
 
 He thought about writing it down. He has a pad in the van with about nine lines used in it in six months and a great deal of it is measurements off other people's houses with the address of the other people's house nowhere on the same line. He got into the van and put the pad on the boards and shut it again, because there is nowhere in this town to put a pad with a count on it in it, and a piece of paper in a van with three things on it is a piece of paper that gets put somewhere, and where it gets put is not a thing he can stand behind on a Wednesday.
 
-The woman who works in a shop was in that parade at about half past four and he came by the front of it and she was on a step with a box of something at her feet.
+About half past four he came by the front of that shop on his way up the parade and stopped, and the woman who works in a shop was on the step with a box of something at her feet.
 
 "I counted them," he said.
 
@@ -98,6 +98,6 @@ The woman who works in a shop went to put her box in the cold room and came back
 
 "I never said it was a gate," said the woman who works in a shop. "I said it was a bit of polythene on a kerb."
 
-"Aye," said the man in his thirties. "So you said it exactly right, and that's the third thing somebody has said exactly right about this lane in two months and I can remember all three of them."
+"Aye," said the man in his thirties. "So you said it exactly right, and that is the second thing you have said exactly right about that lane this afternoon, and I can remember both of them."
 
 **A BARROW WENT UP THAT LANE AT SIX IN THE MORNING WITH A WHITE THING ON IT AND CAME BACK DOWN IT EMPTY, AND THE WOMAN WHO WATCHED IT GO FROM A WINDOW HAS SAID NOTHING TO THE MAN WHO WORKED THAT LANE, AND HE WILL NOT ASK HER, AND THERE IS A YARD NEAR THE TOP OF THAT LANE WITH A GREEN MARK ON THE BRICK IN IT AND NOTHING ELSE.**

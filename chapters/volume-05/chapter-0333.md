@@ -32,7 +32,7 @@ The floor of that first-floor corridor has had nothing on it to mop since before
 
 At about a quarter to ten the woman of about fifty-five came out of the far room carrying two empty jugs, one in each hand, went past him and down that flight, and shut the street door at the bottom, and came back up at about ten past ten with both of them full and a kettle hanging off her other arm.
 
-A bowl has been standing under the wet strip at the end of that corridor since the middle of June, and it is emptied twice a day by the person the water is coming in on, and the woman in the room next door along goes past that bowl twice a day herself and has never once said a word about it.
+A bowl has been standing under the wet strip at the end of that corridor since the middle of June, and the person the water is coming in on empties it four or five times a day, and the woman in the room next door along goes past that bowl twice a day herself and has never once said a word about it.
 
 He did not speak to her on that stair this time. He spoke to her once, in May, and she did not answer, and he carried it round with him for a fortnight, and he was not going to do that a second time.
 
@@ -64,4 +64,4 @@ The bucket and the mop were still in that bin store at the head of the parade wh
 
 What he said in that room is still in that room. The three people who heard it are not going into it, and the one who spoke said a thing that was a way of setting it down, and the one who said a word meant nothing by the word, and none of that is a finding and none of it is the answer to anything, and it is an ordinary Monday in the first week of July.
 
-**HE WALKED THE TWO MILES HOME WITH NOTHING IN HIS HANDS, AND A MAN PUT A SACK OF LEEKS ON A COUNTER AT TWENTY TO TWELVE AND WENT OUT AGAIN, AND A BOWL HAS BEEN EMPTIED TWICE A DAY UNDER A STRIP OF WET PAPER AT THE END OF A FIRST-FLOOR CORRIDOR SINCE THE MIDDLE OF JUNE.**
+**HE WALKED THE TWO MILES HOME WITH NOTHING IN HIS HANDS, AND A MAN PUT A SACK OF LEEKS ON A COUNTER AT TWENTY TO TWELVE AND WENT OUT AGAIN, AND A BOWL HAS BEEN EMPTIED FOUR OR FIVE TIMES A DAY UNDER A STRIP OF WET PAPER AT THE END OF A FIRST-FLOOR CORRIDOR SINCE THE MIDDLE OF JUNE.**

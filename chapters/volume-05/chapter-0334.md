@@ -28,7 +28,7 @@ The man who does that hall looked at him.
 
 "I'm all right," said the man in a fleece, and nobody asked him anything else, and that is the whole of what that room ever did with him.
 
-The woman of about fifty-five had brought nothing with her. The man in his thirties said good evening to her and she said good evening back and that was all.
+The man in his thirties said good evening to her and she said good evening back and that was all.
 
 She said it about halfway through, out of nothing, with her hands round her cup.
 
@@ -50,15 +50,15 @@ The man in his forties did not look up.
 
 ---
 
-There are four of them. They have been four since the twelfth of January. The four being talked about in that room on the evening of the eighth of July are those same four, and nothing has happened to any of them, and there is still no way of putting one of them beside another.
+There are four of them and there have been four since the twelfth of January, and the four being talked about in that room on the evening of the eighth of July are those same four, and not one of them has been put on or taken off since, and no two of them can be laid alongside one another by anybody in that room or out of it.
 
 "Four," said the woman who works in a shop, to nobody in particular.
 
-"It's four," said the man in his forties.
+"Still four," said the man in his forties.
 
-"Nobody's put one on and nobody's taken one off and nobody's said where any of the four came from, and I'm not going to sit here and add up four things I've never seen the edges of."
+"None of us has put a fifth one on and none of us has taken a fourth one off, and I have not the least idea where the four came from, and I am not going to sit in this room and add up four things none of us has ever seen the ends of."
 
-The man in his forties said that if four were going to be anything else that evening it would not be by anybody at that table counting, and that anybody who recasts four as five for the sake of seeing what five would look like has not come back with anything except extra work for the rest of us.
+The man in his forties said that if those four were going to turn into something else it would not be because somebody at that table counted them again over a cup.
 
 "That is not the first time anybody has said that," said the man from the parade, to the man in his forties, and not unkindly.
 
@@ -72,18 +72,18 @@ At about a quarter to nine the man in a fleece set his cup down nearer the front
 
 Nobody at that table said anything to that for about half a minute.
 
-"That's a question," said the man in his forties.
+The man in his forties put both hands flat on the boards of that table.
 
-"That's a question," said the man in a fleece.
+"And it stays a question," said the man in his forties.
 
-"Then it stays one," said the man in his forties.
+"That's right," said the man in a fleece, and not unkindly, and that was the end of it. He lifted his cup and drank, and the man in his forties turned his cup round on the boards, and nobody at that table carried it any further.
 
-The man in a fleece said that was fair and lifted his cup and drank, and nobody at that table carried it any further, and the man in his thirties said the two slates on that corner gable have not moved, and the man in his forties said he had heard about the slates from a man in a shop and would not take it further, and the man in his thirties said that was fair.
+Then the man in his thirties said that the two slates on that corner gable are still on that gable with the nail heads a good deal further out of them than they were in May, and the man in his forties said he had it from a man in a shop and he was not going to build on a man in a shop, and the man in his thirties said aye.
 
-The gas went out at nine o'clock, the case was shut and locked after that, and the chairs went up on the wall, and the porch light came on as the door opened, and it was still burning about a quarter of an hour later when the corner lamp took over outside and did whatever it does.
+Nobody turned the corner lamp off and nobody had to, because that one comes on by itself at that time in the year and stays on until about half past six in the morning, and the case was shut and locked at about twenty past nine, and the chairs went up on the wall afterwards one at a time by whoever was nearest, and the man who does that hall did the last two without asking anybody for help with either of them, and the porch light on that side of the door was on the whole of the time and nobody in that hall knows which of the two of them turned it on.
 
 A man came past that porch light at about ten o'clock with a bag over his shoulder, and nobody inside that hall could have told anybody what was in it.
 
-In a building by the water a bowl is still standing under a strip of wet paper at the end of a first-floor corridor, and a nine foot by six carpet with staples still in the seams is stood up along a wall in a room over that parade, and neither of them has anything to do with the other, and nobody in that building has been told about either of them.
+At about a quarter past ten somebody in that hall asked whether anybody knew what the woman of about fifty-five had come in with, and nobody answered that either, and she said she had not come in with anything, and then she said that there was a bowl under a wet strip at the end of that corridor which nobody had asked her to put there and which she had emptied four or five times a day since the Tuesday of that week without being told to, and nobody at that table said a word about the bowl or about the carpet on its side against a wall three streets away, and those two things have never had anything to do with one another and neither of them is anything to do with her.
 
 **NINE PEOPLE WENT OUT OF THAT HALL AT TEN O'CLOCK INTO A STREET THAT HAD BEEN SOFT AND THEN HARD SINCE ABOUT ONE O'CLOCK IN THE AFTERNOON, AND A PADLOCK WENT ON THE CASE BEHIND THEM, AND A MAN IN A FLEECE WALKED DOWN THAT STREET TOWARD A PARADE WITH HIS HANDS IN HIS POCKETS.**
