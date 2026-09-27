@@ -8,7 +8,7 @@ Nina Calder comes in about once a month when nobody is asking her for anything, 
 
 Jonas Mercer stood at the table by the wall and did not open the register, because he never opens it.
 
-Nineteen entries. The eighteenth is a door. The nineteenth is a yard light with a maintenance column against it that says a bulb, and the bulb is out. Under the nineteenth a line goes down the page and stops about two inches short of the bottom, and there is nothing after it.
+The register had been at nineteen for longer than he had been coming in, and the nineteenth was the last line anybody had ever written in it, and under that line there was a ruled column with a heading at the top of it and nothing whatever under the heading, and the heading was a number of days. He had done that sum once a month for the whole of the time he had been coming in, and had never once been asked to do it for, and had never once put it on the page.
 
 He had a piece of paper in his coat with a date on it and did the sum standing up in the margin with a biro, and it came to five hundred and fifty-six, and he wrote it on the piece of paper and put the piece of paper back in his coat.
 
