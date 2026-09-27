@@ -30,11 +30,11 @@ The woman who works in a shop looked at the building by the water from where she
 
 "That's fair."
 
-"You'll want the street door open, though," said the woman who works in a shop. "That stair's a landing stair and it's about two foot nine at the turn, and I'd not want a woman of about fifty-five doing that on her own with a thing the size of a perambulator. I'll open the door for you and I'll take an end of it up those stairs. I do want to be straight with you, though, that I'm doing it because that stair is tight and not for any other reason."
+"You'll want the street door open, though," said the woman who works in a shop. "That stair's a landing stair and it's about two foot nine wide the whole way up it, and I'd not want a woman of about fifty-five doing that on her own with a thing the size of a perambulator. I'll open the door for you and I'll take an end of it up those stairs. I do want to be straight with you, though, that I'm doing it because that stair is tight and not for any other reason."
 
 "I understand that."
 
-They went up. The machine went up on its side in two goes at the turn, and the woman who works in a shop held the bottom end of it and the man with the van held the top, and neither of them said anything while they were doing it.
+They went up. The machine went up on its side in two goes, the first one up to the second tread and the second one the rest of the way, and the woman who works in a shop held the bottom end of it and the man with the van held the top, and neither of them said anything while they were doing it.
 
 The woman of about fifty-five opened the street door with her coat already on.
 

@@ -2,7 +2,7 @@
 
 Monday the fifteenth of May 2017, from about half past eight in the morning, the corner house at the low end of Peverell Street in Tideglass, and a shop off the Cleeve road.
 
-**A MAN SAID HOW LONG A JOB WOULD TAKE IN A VOICE THAT ANYBODY STANDING NEXT TO HIM WOULD HAVE HEARD AS A PROMISE, AND HE WAS HEARD TWICE, AND TEN DAYS LATER HE TOLD TWO PEOPLE AT A COUNTER IN A SHOP OFF THE CLEEVE ROAD THAT HE HAD NEVER SAID HE WOULD DO IT, AND THE SLATES ARE STILL ON THAT GABLE.**
+**A MAN SAID HOW LONG A JOB WOULD TAKE IN A VOICE THAT THE MAN BESIDE HIM HEARD AS A PROMISE, AND TEN DAYS LATER THE WOMAN UNDER THOSE TWO SLATES ASKED HIM FOR A BIT OF PAPER, AND HE TOLD HER WHY HE WOULD NOT GIVE HER ONE, AND THE SLATES ARE STILL ON THAT GABLE.**
 
 The house is on the corner at the low end of Peverell Street and it is two storey with a bay on the ground floor and a gable above the bay, and the gable carries about fifty slates laid in a diminishing course, and the two lowest slates on the left-hand side have slipped.
 
@@ -26,52 +26,74 @@ The man in his thirties saw it at about half past eight on the morning of the fi
 
 Aye, said the man in a fleece, into his coffee, and then gave him the thing he gives people, which is that a man in a white van will be stood under that gable in ten years saying it was always like that.
 
-A woman came past going the other way toward the parade, and she was about a foot off them and she slowed down for about a second, and she went on, and she did not stop and she did not say anything, and she is the woman with a clipboard and she has not carried one since before the summer last year.
+A woman came past going the other way toward the parade, and she was about a foot off them and she did not turn her head, and in the bay below them the woman with the plant looked up at a man stood in the road and then went back to her table, and neither of those two women ever said one word about it to anybody.
 
 ---
 
 The shop off the Cleeve road has a trade counter at the back of it and a woman on it two days a week, and she was on it that morning because the woman who usually stands there had a week off.
 
-The man in his thirties came in at about half past eight for a box of three-and-a-half inch screws and a roll of DPC, and the man in a fleece was at the front counter with a box of masonry nails and a bar of soap, and neither of them said anything for about four minutes, and the woman with a clipboard took the screws through and put them on the counter and he paid her for them.
+The man in his thirties came in at about half past eight for a box of three-and-a-half inch screws and a roll of DPC, and the man in a fleece was at the front counter with a box of masonry nails and a bar of soap.
 
-"You've not done that gable," said the man in a fleece.
+The man in a fleece looked up at him and then looked at the floor of that shop, and neither of them said one word about a gable.
 
-"What gable."
+That was the whole of it. The woman on that counter took his money and put the screws in a bag and did not ask him what they were for, and he did not tell her, and nobody behind that counter has said one word about the fifth of May.
 
-"You know what gable."
+---
 
-"I haven't done it," said the man in his thirties. "And I never said I'd do it."
+He came past that bay at about ten past nine on that Monday with his bag, and the sash was up and the window behind her stood open the width of a hand, and she said his name across the front of that bay and it was enough to stop him where he was.
 
-"You said a fortnight," said the man in a fleece, "and I said notice of what, and you said notice of nothing happening. That is not the same as saying you'll have a look at it. That is a man telling me when it will be done."
+He had told a man in a fleece on the fifth of May that he had never spoken to her and had never intended to, and it was ten days since he had said that, out loud, in a road, to a man drinking coffee.
 
-"I said what it wants and how long it wants it in, and I said I have not been asked," said the man in his thirties, "and there's a woman in that bay with a table in it. I say how long things take. I said a fortnight about a chimney in March and a fortnight about a floor in February and there's no chimney and there's no floor, and there's two slates on a gable and I have not put a tower up in front of that bay."
+She had the name off the man in a fleece, who had been at her door on the Thursday and had told her that a man had stood in that road and said a fortnight, and who had told her that he did not know the man's name, and that a man who says a fortnight at you like that is not a man you ask for a telephone number.
 
-"I was stood under it," said the woman with a clipboard, from behind the counter, "on the morning you said it, because I was going down to the parade and you were the second thing I passed and I turned round. I counted it. It is not a hard thing to have heard."
+"I want to ask you about those two slates," she said.
 
-"You did hear me say a fortnight."
+"Go on."
 
-"You said a fortnight the way a man says a fortnight when he is telling you it will be done," said the woman with a clipboard. "I've done a course in that at a college and they tell you it for weeks, and the first thing it is, and the only thing I am any good at, is whether somebody's going to turn up. And the answer about you is that you don't turn up for things you're asked to do either, you're just on a different road at a different hour, and that's fine, and I'd rather have the fortnight said out loud on a pavement than not have said it at all, because then it's just two slates."
+"A man in a fleece told me on Thursday that you said a fortnight. That is his word for it and it is the only one I have. He has not got it off anybody, and he was not standing next to you when you said it, and I was not either. I have come out here to hear you say it."
 
-"What do you want me to say," said the man in his thirties.
+"That is what I said."
 
-"I want you to say you'll not do it," said the woman with a clipboard, "and then I can say that I heard you say that, and there is somebody on that parade who'll want to know what to do about it and I can tell her what to do about it. And that is the whole of what I want out of it, and I have been working on that since about half past ten this morning."
+"You said a fortnight."
 
-The man in a fleece put the masonry nails on the counter and looked at the woman with a clipboard, and then at the man in his thirties, and he said that he had said a man's business to another man on a pavement, and that he had not said it to a woman who counts things for a living, and that the two of them were welcome to make whatever they liked of it.
+"I said what the work wants in it and how long it wants it in," said the man in his thirties. "A tower, a scaffold over the front of that bay, and a day and a half of a weekend. And I said I had not been asked by anybody in that house, and he heard that as well, and I would rather he had not been stood in front of that bay when I said it."
 
-"Write it down," said the woman with a clipboard. "Write down that you will not do it. On anything. Then I can take it to whoever wants it."
+"He said it back to me the same as he said it to you. That you had not been asked."
+
+"I hadn't."
+
+"I am asking you now," she said.
+
+He was quiet for a while, and the table with the plant on it was about a foot from where he was stood.
+
+"I never said I'd do it," he said. "And I have not said it since, and I am not going to. I said how long it takes, because I know how long it takes, and because you have two of them up there with the nails standing. If you had come out of that door on the fifth of May and asked me the same thing, I would have given you those figures and asked you for a telephone number, and I would have had your street in that pad before I was back in the van. I did not ask you for a telephone number, and I did not write your street anywhere, and I am not going to do either of those things now because you have come out and asked me."
+
+She said that nobody had ever given her a reason for anything before, and that she was not ready for it.
+
+"I am not asking you to do the work," she said. "I want a bit of paper. That is all of it. A name and a date, and it goes in the front room and nobody sees it, and if those two come off in a gale in the autumn and one of them goes through that window, I want to be able to say that I asked a man in this road in May and that he wrote it down and did not come. I would have the paper and not the work."
 
 "There's nothing to write it on," said the man in his thirties. "That's the whole of it. Nobody's given me anything in this town to put my name on, and nobody's going to. If I put a piece of paper in a shop with my name at the top of it, then in six months somebody takes that paper off a shelf and it is the only bit of paper in this borough with my name at the top of it, and it will be about two slates."
 
-"You've got a pad in that van," said the woman with a clipboard. "You carry it everywhere. I've seen you with it in the parade."
+"That is not the whole of it and you know that it isn't," she said, "because you have never once said my name."
 
-"I've got a pad on the boards of that van with a bit of elastic round it," said the man in his thirties, "and it is not in here, and you are not going to have a look at it, and if I did take it out and open it there would be a line about a chimney in it in March and a line about a floor in it in February, and if there was a line about a gable on it, that would be me having written down that a man on a pavement asked me a question, which is not the same as me having been asked to do a job, and it would be the only page out of that pad that anybody in this town had ever seen, and there is nobody to have seen it with me."
+"I have not said it because I have never had it."
 
-"You've not been asked by anybody in that house," said the woman with a clipboard.
+"You could have had it any morning you liked."
 
-"No," said the man in his thirties. "Nobody in that house has asked me anything and nobody in that house is going to. In a year or two that pair of slates will either have come down in a gale in the autumn or a man with a tower will have been up there for a different reason and put them back, and I will not have been in it."
+"That is what I said and you did not hear it."
 
-He put the screws and the roll in a bag and went out into the road, and the man in a fleece stood at that counter with a box of masonry nails and said to the woman with a clipboard that he was on the same road every morning and he would not have said what he said if he had thought it would come back into a shop like this, and she said that was all right and that he was not the first man to say a thing on a pavement and come back in at a trade counter and find out what it had become.
+He shifted the bag off that shoulder onto the other one, and when he spoke again he was talking up at the pitch over her head and not at her.
+
+"And I will tell you what is over your head, because you have asked me and you are stood in the middle of the room under them. Those two have not come loose by themselves and they are not going to slide any further. The nail at the top of each one is rusted through, and when it goes it goes all at once and on a westerly, and there is about four foot of air between that pitch and the top of that window and a plant on a table in the way. I have told you that. I am not going to tell you again in a fortnight or in a month, because the next time I say it to you it will be the day one of them has already gone through that glass."
+
+"Write that down as well," she said.
+
+"And I will not, and that is not because of the two of them."
+
+"No," she said. "I had that as well."
+
+She went in and put the sash down behind her and left the window where it was, and he went on up that road with his bag and about a hundred yards of it in front of him being a man who had told a woman in a bay that two slates were coming and had not put his name to any part of it.
 
 The slates are on that gable. The nails are still standing about half an inch proud of both of them and the woman with the plant is still sitting behind that bay most afternoons.
 
-**AND A WOMAN AT A TRADE COUNTER OFF THE CLEEVE ROAD TOLD BOTH OF THEM SOMETHING AND NEITHER OF THEM WAS WRONG, AND A MAN WALKED OUT INTO THE ROAD WITH A BAG OF SCREWS AND DID NOT WRITE ONE WORD OF IT DOWN ANYWHERE.**
+**AND A WOMAN IN A BAY ASKED A MAN IN THAT ROAD FOR A BIT OF PAPER AND HE TOLD HER WHY HE WOULD NOT GIVE HER ONE, AND SHE WENT IN AND LEFT THE SASH DOWN, AND THE TWO SLATES ON THAT GABLE HAVE NOT BEEN TOUCHED BY ANYBODY.**

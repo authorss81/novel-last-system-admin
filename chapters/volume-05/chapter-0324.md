@@ -30,11 +30,11 @@ Up the stairs from that bay, on that first-floor landing, a vacuum cleaner is st
 
 ---
 
-At half past eight on the Saturday evening there were nine of them in the hall on Carrow Lane and the meter was on and the window was still open at the top because the room had been warm since about six.
+At half past eight on the Saturday evening there were eight of them in the hall on Carrow Lane and the meter was on and the window was still open at the top because the room had been warm since about six.
 
 The man in his sixties had the chair in the corner with the leg coming through it. The man in his forties was at the near end with both hands down on the table either side of a cup, as he has them. The man in his thirties had his bag on the floor by his foot and had come in at about eight and had not taken his coat off. The man who works nights was by the door in his coat, as he is. The man from the parade had got there early, as he does, and was sitting with a cup in both hands. The woman who works in a shop had turned her chair about and was sitting with her back to that window. The woman of about fifty-five came in early and hung her coat over the back of the chair. And the man who does the hall had the urn going at the far end of that table with a cloth folded over the top of it, and was at the door taking a chair off its hook with his coat still on.
 
-There are four of them and there have been four since the twelfth of January, and the four on that table this evening are those same four, and nobody in this borough has managed to lay one of them beside another.
+There are four of them and the number has been four since the twelfth of January, and the four sitting at that table this evening are those same four, and nobody in this borough has managed to lay one of them beside another.
 
 "Four," said the woman who works in a shop, to nobody in particular.
 
@@ -62,4 +62,4 @@ The man in his thirties said that there were two slates on that gable with the n
 
 The gas went out at nine o'clock, the case was shut and locked after that, and the chairs went up on the wall, and the porch light came on as the door opened, and it was still burning about a quarter of an hour later when the corner lamp took over outside and did whatever it does.
 
-**AND NINE PEOPLE WENT OUT OF THAT HALL INTO A STREET THAT HAD BEEN DRY SINCE BEFORE CHRISTMAS, AND A PADLOCK WENT ON THE CASE BEHIND THEM, AND TWO SLATES ARE STILL ON A GABLE AT THE LOW END OF PEVERELL STREET WITH THE HEADS OF THEIR NAILS STANDING OUT OF THEM, AND A WOMAN IS STILL SITTING BEHIND THAT BAY WITH A PLANT ON HER TABLE.**
+**AND EIGHT PEOPLE WENT OUT OF THAT HALL INTO A STREET THAT HAD BEEN DRY SINCE BEFORE CHRISTMAS, AND A PADLOCK WENT ON THE CASE BEHIND THEM, AND TWO SLATES ARE STILL ON A GABLE AT THE LOW END OF PEVERELL STREET WITH THE HEADS OF THEIR NAILS STANDING OUT OF THEM, AND A WOMAN IS STILL SITTING BEHIND THAT BAY WITH A PLANT ON HER TABLE.**

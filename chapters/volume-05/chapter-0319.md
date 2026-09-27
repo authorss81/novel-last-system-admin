@@ -18,7 +18,7 @@ Nobody in that building had been down that passage at half past seven on a weeke
 
 She turned the cold tap over the sink in the ground floor flat a quarter of a turn and it ran for about two seconds and stopped.
 
-There is a meter on the wall of that passage with a glass in the front of it and a row of figures behind the glass, and it was going while she stood there, and it is the only thing in that building that got what it wanted in that week, and there is no number on it that anybody in that building has ever written down, and nobody in that borough could tell you who reads it or where what it says goes.
+There is a meter on the wall of that passage with a glass in the front of it and a row of figures behind the glass, and it was going while she stood there, and it alone in that building got what it wanted in that week, and there is no number on it that anybody in that building has ever written down, and nobody in that borough could tell you who reads it or where what it says goes.
 
 She put the board back and shut the case over it and carried two empty jugs up that outside stair and in at her own door and put them on the floor by the sink.
 
@@ -52,7 +52,7 @@ The stair outside that street door is a concrete stair with a steel handrail on 
 
 It lifts because the nosing on it has rusted through at one end and the fixing has worked loose in the concrete, and it is not a tread anybody has replaced, and it is a tread that everybody who uses that stair uses, and everybody puts a hand on the wall side as they go up it and steps over that one with the foot they have already got down.
 
-On the Thursday morning at about ten to ten, the man in his forties came along that street with a bit of kit in a bag, and he went up that outside stair, and the second tread came up about half an inch under his weight and made a noise like somebody knocking once.
+On the Thursday morning, a few minutes short of ten, the man in his forties came along that street with a bit of kit in a bag, and he went up that outside stair, and the second tread came up about half an inch under his weight and made a noise like somebody knocking once.
 
 He came back down for the spanner, the length of wire and the driver with its own battery on the end of it, and went back up.
 

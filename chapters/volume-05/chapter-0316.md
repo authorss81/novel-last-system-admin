@@ -4,7 +4,7 @@ Saturday the twenty-second of April 2017, from about half past seven in the even
 
 **A MAN IN HIS SIXTIES SAID SOMETHING ABOUT A LAMP OVER A DOOR IN A ROOM THAT HAS HEARD A THING SAID BEFORE, AND THE MAN NEXT TO HIM SAID IT AGAIN IN A DIFFERENT ROOM WITH NO IDEA HE WAS DOING IT, AND HALF AN HOUR LATER A MAN CAME IN AND SAID WHERE IT HAD COME FROM, AND TWO QUESTIONS WERE PUT ABOUT IT IN A ROOM AT THE BACK OF A SHOP AND NEITHER OF THEM GOT AN ANSWER.**
 
-The hall on Carrow Lane is a long room with a folding table down the middle of it, a bit of carpet worn through in front of the hearth, and an overhead fitting on a pull that everybody in that room pulls at some point in an evening without anybody saying anything about it.
+The hall on Carrow Lane is a long room with a folding table set the length of it, a bit of carpet worn through in front of the hearth, and an overhead fitting on a pull that everybody in that room pulls at some point in an evening without anybody saying anything about it.
 
 There are seven in there. The man in his forties at the near end with his hands either side of a cup. The man in his sixties in the seat that has got the table leg coming through it. The man in his thirties, who had a bag at his feet and had come in about ten minutes before the gas came on because he had been in the weather. The woman who works in a shop, in from the parade about ten minutes before that. The woman of about fifty-five, in a coat, at the far end. A man with a walking stick who comes when it is warm. And a man who does the hall, who was putting a tablecloth over the corner of the table because there is something on that table he does not want seen, and he was not quick enough about it.
 
@@ -90,7 +90,7 @@ He had a folded scrap in the pocket of his coat that he did not take out.
 
 "Then it's in five places," said the man in his thirties.
 
-"It's in five places and there is nobody going to any of them, and that is what I am telling you," said the man in his forties. "You have just been in that room and passed that on to a man and a woman in the back of a shop, and neither of them asked you for it, and one of them asked you two questions and could not get one answer out of you about whose lamp it is, and the two of you are now four people who know a thing about a light in a bank in a town none of you has been in. And on Monday there'll be five. And in June, or whenever the six of you have got a book of your own, somebody's going to write it down as a thing that was found out about, and it will have been said in a room, and it was said in a room by a man who admitted he ought to have had it in the other room."
+"It's in five places and there is nobody going to any of them, and that is what I am telling you," said the man in his forties. "You have just been in that room and passed that on to a man and a woman in the back of a shop, and neither of them asked you for it, and one of them asked you two questions and could not get one answer out of you about whose lamp it is, and the two of you are now four people who know a thing about a light in a bank in a town none of you has been in. And on Monday there'll be five. And in a year, or whenever the six of you have got a book of your own, somebody's going to write it down as a thing that was found out about, and it will have been said in a room, and it was said in a room by a man who admitted he ought to have had it in the other room."
 
 The woman who works in a shop said, "That's not a fair way to put it."
 

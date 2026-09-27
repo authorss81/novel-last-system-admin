@@ -36,7 +36,7 @@ At about four he took his cup and washed it again and put it back on the same ho
 
 The corridor in the building by the water on the first floor is twelve foot wide from the fire door to the end wall and it has four doors off it and it has a concrete floor with a skirt all round it, and he has gone in that building on a Monday since about the middle of January with a mop and a bucket and has done that landing and that corridor and the outside stair.
 
-That building's stop tap is shut every weekend from about half past seven on the last night until somebody opens it in the morning, and he was in that passage at about eight, and the case was shut and the board was back and the strip fitting was on, which is how it is once somebody has been down and put the tap on.
+That building's stop tap is shut from the last evening of every week until somebody in there turns it back on, and whoever comes down that passage first on a Monday morning is the one who does it, and after that the place has water in it again. He was in there at about eight, and the case was standing open with the board out on the floor of the passage, and the handle of that tap turned the way it stands when it is running. Somebody had been down there before him on that Monday and had gone back up again without a word to anybody, and neither of them ever found out who the other one was.
 
 There was nothing on that corridor floor to mop. He went along it with the bucket anyway, about the length of the mop, and came back, and stood at the top of the outside stair for about ten minutes with his hands in his pockets and the mop leaning against the wall behind him.
 
@@ -44,7 +44,7 @@ At about a quarter to twelve the woman of about fifty-five came out of the far r
 
 He was still on that landing at about ten past twelve and she came back up with both jugs full and a full kettle hooked over the arm that was not carrying one, and she went past him again without stopping, and he said it then, not loudly, to the back of her as she went through her own door.
 
-"I see you on that stair every Monday," he said. "Ten past seven, about, with the two empty ones, and I'm in this building at about eight. So I've seen you and you haven't seen me, and I wasn't going to stand up here and make you turn round on a stair with a jug in each hand and say something about it."
+"I see you on that stair every Monday," he said. "Half past seven, about, with the two empty ones, and I'm in this building at about eight. So I've seen you and you haven't seen me, and I wasn't going to stand up here and make you turn round on a stair with a jug in each hand and say something about it."
 
 She did not say anything.
 
