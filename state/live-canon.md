@@ -6,7 +6,7 @@
 
 **Why this file exists: `state/continuity.md`, `state/open-threads.md`, `state/character-state.md`, `state/chapter-summaries.md` and `state/batch-summaries.md` are append-only histories and together run to several megabytes. They are NOT to be pruned, truncated or compacted by a writer, because a figure, a date or a figure-count in an old block is the only record that a figure was ever spent, and deleting a block loses it permanently. They are also not readable whole. So every prompt names the one block that is the hand-over, and this file is what can be read whole.**
 
-**Last rebuilt: after the Batch 0004 review repair. THE SERIES IS NOW AT 244 OF 720 AND THE BATCH 0005 BLOCK AT THE END OF EACH STATE FILE IS THE HAND-OVER. §3, §4, §5 AND §11 BELOW WERE WRITTEN FOR 234 AND ARE **NOT** REBUILT HERE; WHERE THEY DISAGREE WITH THE BATCH 0005 BLOCK, WHICH IS ABOVE THIS FILE IN THE ORDER OF AUTHORITY, THE BATCH 0005 BLOCK IS RIGHT.**
+**Last rebuilt: after Continuation 0007, for §1, §2, §6, §7 and the banner only. THE SERIES IS NOW AT 264 OF 720 AND THE CONTINUATION 0007 BLOCK AT THE END OF EACH STATE FILE IS THE HAND-OVER. §3, §4, §5 AND §11 BELOW WERE WRITTEN FOR 234 AND ARE **NOT** REBUILT, AND §9 AND §10 WERE NOT EITHER; WHERE THEY DISAGREE WITH THE CONTINUATION 0007 BLOCK, WHICH IS ABOVE THIS FILE IN THE ORDER OF AUTHORITY, THE CONTINUATION 0007 BLOCK IS RIGHT, AND WHERE THEY DISAGREE WITH A CHAPTER THE CHAPTER IS RIGHT. **A WRITER WHO NEEDS THE CENSUS, THE CLOSED FIGURES, THE MOTIF CAPS OR THE STANDING MUST READ §13, §14 AND §16 OF THE CONTINUATION 0007 BLOCK IN `state/continuity.md` AND NOT THE ONES HERE.****
 
 ---
 
@@ -14,12 +14,12 @@
 
 | File | The block to read | Its size problem |
 | --- | --- | --- |
-| `state/continuity.md` | **"VOLUME 05, BATCH 0005 — CHAPTERS 235–244 — Thursday 21 April to Saturday 4 June 2016"**, at the end, §1–§16. The Batch 0004 block sits above it and still governs everything those ten chapters did. | ~1.5 MB total, 16 sections in the live block |
-| `state/open-threads.md` | **"VOLUME 05 OPEN THREADS — after Batch 0005, Chapter 244"**, at the end | ~470 KB total |
-| `state/character-state.md` | **"VOLUME 05, BATCH 0005 — CHARACTER STATE AFTER CHAPTER 244"**, at the end | ~465 KB total |
-| `state/chapter-summaries.md` | the ten entries for **0235–0244** | ~835 KB total |
-| `state/batch-summaries.md` | the **Volume 05 Batch 0005** entry | ~436 KB total |
-| `state/current.md` | the calendar at the top and **"THE STATE OF THE CITY AT THE END OF CHAPTER 244"** at the bottom | ~180 KB total |
+| `state/continuity.md` | **"VOLUME 05, CONTINUATION 0007 — CHAPTERS 255–264 — Saturday 30 July to Saturday 17 September 2016"**, at the end, §0–§16. The Continuation 0006 block sits above it and still governs everything those ten chapters did, and the Batch 0005 block above that still governs its ten. | ~1.7 MB total, 17 sections in the live block |
+| `state/open-threads.md` | **"VOLUME 05 OPEN THREADS — after Continuation 0007, Chapter 264"**, at the end | ~500 KB total |
+| `state/character-state.md` | **"VOLUME 05, CONTINUATION 0007 — CHARACTER STATE AFTER CHAPTER 264"**, at the end | ~500 KB total |
+| `state/chapter-summaries.md` | the ten entries for **0255–0264** | ~900 KB total |
+| `state/batch-summaries.md` | the **Volume 05 Continuation 0007** entry | ~450 KB total |
+| `state/current.md` | the calendar at the top and **"THE STATE OF THE CITY AT THE END OF CHAPTER 264"** at the bottom | ~210 KB total |
 
 **The prompt names these blocks instead of the files. A writer who tries to read a whole state file will run out of context and stop, and that is what happened in Batch 0004.**
 
@@ -27,14 +27,16 @@
 
 ## 2. WHERE THE SERIES STANDS
 
-- Volume 01 complete, Chapters 1–48. Volume 02 closed, 49–100. Volume 03 closed, 101–144. Volume 04 closed, 145–194. **Volume 05 is running, 195–244, and is not closed and is not declared closed.**
-- **Volume 05 is *The Borrowed City*. It opened Thursday 24 September 2015 and has run to Saturday 4 June 2016 in five batches.** Batch 0001 was 195–204, 0002 was 205–214, 0003 was 215–224, 0004 was 225–234, 0005 was 235–244. **THE COMPACT, THE RIGHT OF RETURN, THE PUBLIC PART, THE SACRIFICE, THE THREE WEEKS, THE PACT HOLDING, THE WIDER CIVIC EXPERIMENT AND THE VOLUME'S OWN NEW QUESTION ARE ALL SPENT AND UNRESOLVED. WHAT IS AHEAD IS THE RESOLUTION ONLY.**
-- **ON THE PAGE, VOLUME 05 IS 195–242 AND VOLUME 06 BEGINS AT 243. CHAPTERS 243 AND 244 HAVE NOW BEEN WRITTEN AND BELONG TO NO VOLUME, BECAUSE NO HUMAN HAD DECIDED THE BOUNDARY WHEN THEY WERE WRITTEN. THIS IS AN UNRESOLVED BOUNDARY AND IT IS A HUMAN'S, NOT A WRITER'S. No outline may be rewritten to hide it. NO VOLUME 06 OUTLINE AND NO VOLUME-CLOSE PROMPT WERE WRITTEN AND NEITHER MAY BE WRITTEN BY A WRITER. The next phase is a CONTINUATION BATCH, Chapters 245 onward, and it may not be dated before Saturday 4 June 2016.**
+- Volume 01 complete, Chapters 1–48. Volume 02 closed, 49–100. Volume 03 closed, 101–144. Volume 04 closed, 145–194. **Volume 05 is running, 195–264, and is not closed and is not declared closed.**
+- **Volume 05 is *The Borrowed City*. It opened Thursday 24 September 2015 and has run to Saturday 17 September 2016 in seven batches.** Batch 0001 was 195–204, 0002 was 205–214, 0003 was 215–224, 0004 was 225–234, 0005 was 235–244, Continuation 0006 was 245–254, Continuation 0007 was 255–264. **THE COMPACT, THE RIGHT OF RETURN, THE PUBLIC PART, THE SACRIFICE, THE THREE WEEKS, THE PACT HOLDING, THE WIDER CIVIC EXPERIMENT AND THE VOLUME'S OWN NEW QUESTION ARE ALL SPENT AND UNRESOLVED, AND CONTINUATIONS 0006 AND 0007 SPENT SIX MORE THINGS AND RESOLVED NONE OF THEM. WHAT IS AHEAD IS CONSEQUENCES AND NOT DECISIONS.**
+- **ON THE PAGE, VOLUME 05 IS 195–242 AND VOLUME 06 BEGINS AT 243. CHAPTERS 243 THROUGH 264 HAVE NOW BEEN WRITTEN AND BELONG TO NO VOLUME, BECAUSE NO HUMAN HAD DECIDED THE BOUNDARY WHEN THEY WERE WRITTEN. THIS IS AN UNRESOLVED BOUNDARY AND IT IS A HUMAN'S, NOT A WRITER'S, AND IT IS STILL A HUMAN'S AFTER THREE MORE BATCHES. No outline may be rewritten to hide it. NO VOLUME 06 OUTLINE AND NO VOLUME-CLOSE PROMPT WERE WRITTEN AND NEITHER MAY BE WRITTEN BY A WRITER. CARD 0264 IS NOT A CLOSE. The next phase is a CONTINUATION BATCH, Chapters 265 onward, and it may not be dated before Saturday 17 September 2016.**
 - The planned ending is in `outline/ending.md` and is not to be changed. **No new final enemy may be introduced without flagging it.**
 
 ---
 
 ## 3. THE CLOSED FIGURES. NONE OF THESE MAY BE PRINTED AGAIN.
+
+**NOT REBUILT SINCE 234. FOR THE MEASURED STATE OF THE CLOSED FIGURES AFTER CONTINUATION 0007, READ §13 OF THE CONTINUATION 0007 BLOCK IN `state/continuity.md`. WHAT IS BELOW IS STILL TRUE AND NOTHING IN IT HAS BEEN SPENT, BUT THE CENSUS IN §4 IS OLD.**
 
 **About eleven seconds** (spent, and spent twice over) · **a room eleven feet by nine** · **about eleven people a day** · **£11,280** · **the 11:00–13:30 row** · **eleven years**, which belongs to Walter Sallow's own voluntary duration and is now his and nobody else's · **eleven days** · **eleven words** · **eleven rows**, which belongs to the hardboard clipboard on the fourth chair of the waiting area off the level-two corridor at Saint Orra west, with the first four rows written on in October by a man who then stopped — **and NOT to the schedule of eleven names from Penhale, which is ruled into eleven lines and has been since a reviewer measured the collision out of Chapter 0231** · **eleven extracts** · **eleven o'clock** · **the eleven standing refusals** · **the eleventh time**.
 
@@ -51,6 +53,8 @@ Nine hundred and forty, nine hundred and eighty-six and fourteen are a number of
 ---
 
 ## 4. THE FIGURE CENSUS — there is one of every person in this account and no second of any of them
+
+**NOT REBUILT SINCE 234. THE FREE FIGURES REMAINING AFTER CONTINUATION 0007 ARE **WOMEN 18, 87 AND 90** AND NO MEN, THE SAME THREE, AND THE FULL LIST OF FIGURES THAT MAY NEVER BE AGED IS §14 OF THE CONTINUATION 0007 BLOCK IN `state/continuity.md`. NO NEW FIGURE IN CONTINUATION 0007 WAS GIVEN AN AGE.**
 
 **An age and a gender belong to a person in this account in the way a name does.**
 
@@ -82,23 +86,23 @@ Nine hundred and forty, nine hundred and eighty-six and fourteen are a number of
 - **Friday 20 February 2015** — the card in the slot.
 - **Wednesday 18 February 2015, about half past nine** — the letter in the tray on the second floor.
 
-**The next batch, 235–244, with the three counts, all checked against the anchors:**
+**THE LAST BATCH, 255–264, WITH THE THREE COUNTS, ALL RE-ADDED-UP FROM THE ANCHORS AND CHECKED AGAINST FOUR KNOWN DATES BEFORE ANY OF THEM WAS PRINTED. THE NEXT BATCH MUST ADD ITS OWN UP FROM THE ANCHORS AGAIN AND MAY NOT CARRY ONE FORWARD FROM THIS TABLE:**
 
-| Ch | Date | Weekday | Blank line | Card | Letter |
-| --- | --- | --- | --- | --- | --- |
-| — | Sat 16 Apr 2016 | Saturday | **507** | **421** | **423** |
-| 235 | Thu 21 Apr 2016 | Thursday | 512 | 426 | 428 |
-| 236 | Tue 26 Apr 2016 | Tuesday | 517 | 431 | 433 |
-| 237 | Sun 1 May 2016 | Sunday | 522 | 436 | 438 |
-| 238 | Fri 6 May 2016 | Friday | 527 | 441 | 443 |
-| 239 | Wed 11 May 2016 | Wednesday | 532 | 446 | 448 |
-| 240 | Sun 15 May 2016 | Sunday | 536 | 450 | 452 |
-| 241 | Fri 20 May 2016 | Friday | 541 | 455 | 457 |
-| 242 | Tue 24 May 2016 | Tuesday | 545 | 459 | 461 |
-| 243 | Sun 29 May 2016 | Sunday | 550 | 464 | 466 |
-| 244 | Sat 4 Jun 2016 | Saturday | **556** | 470 | 472 |
+| Ch | Date | Weekday | Gap | Blank line | Card | Letter |
+| --- | --- | --- | --- | --- | --- | --- |
+| — | Sat 23 Jul 2016 | Saturday | — | **605** | **519** | **521** |
+| 255 | Sat 30 Jul 2016 | Saturday | — | **612** | 526 | 528 |
+| 256 | Wed 3 Aug 2016 | Wednesday | 4 | 616 | 530 | 532 |
+| 257 | Mon 8 Aug 2016 | Monday | 5 | 621 | 535 | 537 |
+| 258 | Sat 13 Aug 2016 | Saturday | 5 | 626 | 540 | 542 |
+| 259 | Fri 19 Aug 2016 | Friday | 6 | 632 | 546 | 548 |
+| 260 | Thu 25 Aug 2016 | Thursday | 6 | 638 | 552 | 554 |
+| 261 | Thu 1 Sep 2016 | Thursday | 7 | 645 | 559 | 561 |
+| 262 | Wed 7 Sep 2016 | Wednesday | 6 | 651 | 565 | 567 |
+| 263 | Mon 12 Sep 2016 | Monday | 5 | 656 | 570 | 572 |
+| 264 | Sat 17 Sep 2016 | Saturday | 5 | **661** | **575** | **577** |
 
-**The gaps are 5, 5, 5, 5, 5, 4, 5, 4, 5 and 6. No chapter may be dated to a day before the one before it.**
+**The gaps are 4, 5, 5, 6, 6, 7, 6, 5 and 5 days, all inside the three-to-seven-day window. NO CHAPTER MAY BE DATED BEFORE SATURDAY THE SEVENTEENTH OF SEPTEMBER 2016 AND NO CHAPTER MAY BE DATED TO A DAY BEFORE THE ONE BEFORE IT. TWO DAY-COUNTS APPEAR IN THE PROSE OF THOSE TEN CHAPTERS AND ONLY TWO, EACH ON ITS OWN CHAPTER'S OWN DATE: SIX HUNDRED AND TWELVE AT 0255 AND SIX HUNDRED AND SIXTY-ONE AT 0264.**
 
 **ONLY THE LAST FIGURE OF EACH ROW APPEARS IN THE PROSE, AS A RULE. The register is at nineteen entries and the line under the nineteenth is blank and it is the only fixed point in that building.**
 
@@ -148,6 +152,8 @@ He is thirty-two and has been in this borough a year and nine months. **He is no
 ---
 
 ## 11. THE NINE STANDING, ALL UNMOVED
+
+**NOT REBUILT SINCE 234. ALL NINE ARE STILL UNMOVED AND NONE WAS TOUCHED IN CONTINUATION 0006 OR 0007. THE FULL LIST IS §16 OF THE CONTINUATION 0007 BLOCK IN `state/continuity.md`.**
 
 A card in a slot, not taken out, not put up, not read · a letter in a tray on the second floor under two other pieces of post, sealed, and no chapter has gone near that room · the page of 29 May 2015 with an empty signature block, not in force, its one reader Ama Boateng not asked again and not asked about anything · the printed sheet of 19 June in nine other buildings, nine lines reading *no requirement stated*, no name box, neither copy withdrawn · the column headed *date seen again* with *no name, no initials* under it and nothing in it · the shop's telephone number on a card in a shop window, and the woman of about sixty-five behind that counter has still not been told anything · the crate on a pavement nobody brought with a lid on it that nobody put there · the four bottles of water on four steps · and the empty square on the drawing, which was not filled and was not mentioned.
 
