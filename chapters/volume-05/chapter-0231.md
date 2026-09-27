@@ -28,7 +28,7 @@ She got it out of the drawer without any difficulty at all, which is the thing a
 
 "You may," she said. "I haven't opened it and I'm not going to. It came up on the Friday and it's got the yard on the top of it, and the yard is a place I have never heard of, and it's got a list down the side of it."
 
-It came from Penhale, from the shared yard, on a single sheet with a rule across it and a column headed CLAIM. Eleven rows. In the first column, a date: the fifth of May last year, and then the nineteenth of May, and then the second of June, and then a gap, and then the eleventh of August, and then the second of September, and then the fourth of October, and then the sixteenth of November, and then the twenty-ninth of January, and then the last two in March. In the second column, a place. In the third, in capitals, a name.
+It came from Penhale, from the shared yard, on a single sheet with a rule across it and a column headed CLAIM, and it is ruled down the side and there are eleven lines of it. In the first column, a date: the fifth of May last year, and then the nineteenth of May, and then the second of June, and then a gap, and then the eleventh of August, and then the second of September, and then the fourth of October, and then the sixteenth of November, and then the twenty-ninth of January, and then the last two in March. In the second column, a place. In the third, in capitals, a name.
 
 Ansell. Brackley. Colley. Danby. Ellery. Farnworth. Gilchrist. Hewitt. Inkster. Jarrett. Kelmar.
 
@@ -38,7 +38,7 @@ In the fourth column, a sum, and against every one of the eleven a sum the yard 
 
 "Is it."
 
-"Two of the names on it are two people I have spoken to in this borough in the last fortnight. Nine of the eleven are the ones a woman called Hanna Wray has been keeping in an envelope since the August before last, and she does not know that her eleven are on a list in a county she has not been to."
+"Two of the names on it are two people I have spoken to in this borough in the last fortnight. Nine of the eleven are the ones a woman called Hanna Wray has been keeping in a carrier bag since the August before last, and she does not know that her eleven are on a list in a county she has not been to."
 
 The woman of about fifty-five looked at the sheet for a while.
 
