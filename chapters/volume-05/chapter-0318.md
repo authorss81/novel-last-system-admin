@@ -1,6 +1,6 @@
 # Chapter 0318 — What the Two of Them Said
 
-Sunday the thirtieth of April 2017, from about half past ten in the morning, a bus stop at the end of Marsh Lane in Tideglass, and a parade of shops.
+Sunday the thirtieth of April 2017, from about half past ten on the Sunday morning, and later the same day, a bus stop at the end of Marsh Lane in Tideglass and the shops on that parade.
 
 **A MAN IN A FLEECE TOLD A STRANGER AT A BUS STOP THAT THE SHOP THAT SHUTS EARLY WAS GOING TO BE A CAFE AND THE RADIO SHOP NEXT DOOR WAS GOING TO GO WITH IT, AND A MAN WHO PUT SHUTTERS UP FOR A LIVING TOLD A STRANGER OUTSIDE THAT SAME SHUTTER THAT THE RADIO SHOP WAS GOING TO BE A CAFE AND THE WOMAN WHO RAN THE OTHER ONE HAD BOUGHT IT, AND THE TWO OF THOSE WERE SAID WITHIN A QUARTER OF AN HOUR OF EACH OTHER ABOUT A QUARTER OF A MILE APART AND NOBODY PUT THEM TOGETHER.**
 

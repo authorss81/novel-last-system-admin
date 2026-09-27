@@ -1,6 +1,6 @@
 # Chapter 0320 — Twice, and About a Month Apart
 
-Wednesday the tenth of May 2017, from about half past eight in the morning, a lane behind a row of shops off a parade in Tideglass.
+Wednesday the tenth of May 2017, from about half past eight on the Wednesday morning, a lane behind a row of shops off a parade in Tideglass.
 
 **A FOLDED METAL GREENHOUSE FRAME WENT UP ON ITS LONG EDGE AGAINST BRICK IN A YARD AT THE TOP OF THAT LANE IN THE FIRST WEEK OF APRIL AND IS STILL UP ON IT AT THE END OF MAY, AND THE SAME SORT OF FRAME WENT AGAINST A WALL IN A DIFFERENT YARD FURTHER DOWN THAT LANE IN THE SECOND WEEK OF MAY, AND THE MAN WHO PUT THAT ONE DOWN HAD NEVER ASKED ANYBODY ANYTHING ABOUT THE FIRST ONE AND HAD FORGOTTEN THAT HE HAD PUT ONE ANYWHERE.**
 
@@ -22,7 +22,7 @@ Nobody asked her a single question about it. Nobody came out of a gate and said 
 
 She did not put a word in with anybody about it. She put it against that wall and she went to work and she went to work again at the same hour the next morning, and she has not been up that lane since, and five weeks later it is against that wall, and the man who does that lane with the barrow has gone past it about five times and has never once asked anybody anything about it, because it is not his and it is not in the road.
 
-The three gates either side of it have all been open and shut on their latches all that time and the wall has had about three weeks of weather on it and there is green coming up along the bottom of it where the bottom edge is standing in a puddle that does not drain off that side.
+The three gates either side of it have all been open and shut on their latches all that time and the wall has had about three weeks of weather on it and there is green coming up along the bottom of it where the bottom edge is standing in a puddle that has not gone anywhere since the winter.
 
 ---
 
@@ -30,7 +30,7 @@ On the Wednesday morning, the man in his thirties came along that lane at about 
 
 He had it out of a back bedroom on that row on the Monday, where a woman was having a small bathroom put in and had said the frame could go when he had the old bath out, and it came out in three pieces and it came out flat against the wall of a back room for about eight months and it had the same weight as the other one everywhere in this town.
 
-"Can't you put it on the roof?" said a man who was on the top deck getting off at the bottom of that lane, and then got on again and went, so it was not really said to anybody.
+"Can't you put it on the roof?" said a man who was in the next yard along with a stepladder open at the second step, and then carried on with what he was doing, so it was not really said to anybody.
 
 "No," said the man in his thirties. "There's about six foot of it and I've got trestles on the boards and there's a wind coming up that lane from the back of the parade that would take it off the roof rack and put it through the front of that shop."
 
@@ -58,4 +58,4 @@ The woman who works in a shop did not go and look at the wall at the top of that
 
 He had forgotten about the first one. He put it down at about ten past nine and he was back in that yard two days later for about ten minutes, and again the week after, and the thing was there both times, and the only person in this borough who has ever been told anything about any of them is a woman behind a counter who was told a thing about one of them by the man who put it there, and she cannot use it for anything and did not ask him one question about the other.
 
-**AND A FOLDED FRAME IS AGAINST A BRICK WALL AT THE TOP OF THAT LANE WITH GREEN COMING UP ROUND THE BOTTOM OF IT, AND A FOLDED FRAME IS AGAINST A BRICK WALL TWO DOORS ABOVE A SHOP, AND THE WOMAN WHO PUT THE FIRST ONE DOWN HAS NOT BEEN UP THAT LANE AGAIN, AND NOBODY HAS ASKED HER ANYTHING ABOUT IT.**
+**AND A FOLDED FRAME IS AGAINST A BRICK WALL AT THE TOP OF THAT LANE AND A FOLDED FRAME IS AGAINST A BRICK WALL TWO DOORS ABOVE A SHOP, AND THE WOMAN WHO PUT THE FIRST ONE DOWN HAS NOT BEEN UP THAT LANE AGAIN, AND NOBODY HAS ASKED HER ANYTHING ABOUT IT.**

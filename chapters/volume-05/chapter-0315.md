@@ -1,6 +1,6 @@
 # Chapter 0315 — A Foot of Scaffold
 
-Tuesday the eighteenth of April 2017, from about a quarter past seven in the morning, the low end of Peverell Street in Tideglass.
+Tuesday the eighteenth of April 2017, from about a quarter past seven in the morning, at the low end of Peverell Street in Tideglass.
 
 **THE OFFSIDE MIRROR OF A VAN WENT ACROSS A DOWNPIPE ON THE FRONT OF A HOUSE IN THAT STREET AT TWENTY PAST EIGHT AND TOOK TWO BRACKETS AND ABOUT TWO FOOT OF PIPE WITH IT, AND THE MORNING OF A MAN WHO GOES TO THE WORKS WENT ON FROM THERE, AND THE ONLY PERSON WHO EVER HEARD ABOUT THE PIECE OF SCAFFOLD SOMEONE PUT BEHIND IT WAS A WOMAN AT A COUNTER WHO WAS NOT IN THAT STREET THAT MORNING.**
 
@@ -106,8 +106,8 @@ The woman who works in a shop looked at the floral paper.
 
 "That pipe's not going to hold that wall up in the winter."
 
-"No," said the woman who runs that shop, and cut another length off the roll. "It'll be somebody's in the autumn, with a proper trade, and it'll cost what it costs, and the house is going to have a hole in it where he's been in. You can put a bit of scaffold under a pipe any morning you like and it changes none of that, and none of it this morning. He came off that road at ten to four and he never came back in. He's not on a list of anything, and he wasn't on one this morning before he was on that road either."
+"No," said the woman who runs that shop, and cut another length off the roll. "It'll be somebody's in the autumn, with a proper trade, and it'll cost what it costs, and the house is going to have a hole in it where he's been in. You can put a bit of scaffold under a pipe any morning you like and it changes none of that, and none of it this morning. He came off that road at ten to four. He's not on a list of anything, and he wasn't on one this morning before he was on that road either."
 
 The man in a fleece came in on the Saturday for a roll of paper, and she waited on him the way she waits on everybody, and he paid and went, and nothing was said to him about a pipe, and he has not been in that shop since, and he does not know that either woman said any of it.
 
-**AND A PIPE IS STANDING ON A FOOT OF SCAFFOLD AND A PIECE OF WIRE ON THE FRONT OF A HOUSE AT THE LOW END OF PEVERELL STREET, AND A MAN IN A FLEECE WENT BACK UP THAT STREET ON THE NEXT MORNING AND SAW IT AND SAID NOTHING TO ANYBODY, AND THE BOARD CAME OUT OF A VAN THAT HAS A LENGTH OF SCAFFOLD IN THE BACK OF IT AND HE DID NOT FIND OUT WHOSE.**
+**AND A PIPE IS STANDING ON A FOOT OF SCAFFOLD AND A PIECE OF WIRE ON THE FRONT OF A HOUSE AT THE LOW END OF PEVERELL STREET, AND A MAN IN A FLEECE PRESSED IT AN INCH IN WITH ONE HAND AND LET GO OF IT AND IT CAME BACK AND STAYED, AND NEITHER OF THE TWO OF THEM SAID ANYTHING ABOUT IT, AND THE ONLY PERSON WHO HAS DESCRIBED THAT PIPE TO ANYBODY WAS BEHIND A COUNTER UP THE PARADE AND WAS NOT IN THAT STREET THAT MORNING.**

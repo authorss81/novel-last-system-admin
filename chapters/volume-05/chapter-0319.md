@@ -1,6 +1,6 @@
 # Chapter 0319 — Three Days With No Water in It
 
-Thursday the fourth of May 2017, from about half past seven on the last Saturday in April until about ten in the morning, a building by the water in Tideglass.
+Thursday the fourth of May 2017, from about half past seven on the last Saturday in April until about ten to ten that morning, a building by the water in Tideglass.
 
 **THE STOP TAP IN THAT BUILDING WAS PUT BACK ON LATE ON THE LAST NIGHT OF THAT WEEK AND STAYED ON THROUGH THE WHOLE WEEKEND, AND A WOMAN WENT DOWN THAT PASSAGE THREE MORNINGS WITH TWO EMPTY JUGS AND A STAIR TREAD ON THE STAIR OUTSIDE HER DOOR CAME UP LOOSE AND A MAN SCREWED IT DOWN, AND NEITHER OF THOSE THINGS WAS TOLD TO THE OTHER.**
 
@@ -54,7 +54,7 @@ It lifts because the nosing on it has rusted through at one end and the fixing h
 
 On the Thursday morning at about ten to ten, the man in his forties came along that street with a bit of kit in a bag, and he went up that outside stair, and the second tread came up about half an inch under his weight and made a noise like somebody knocking once.
 
-He came back down and got a length of scaffold out of the van he had not got a van, and got a spanner, a length of wire and a driver with its own battery on the end of it out of the bag, and went back up.
+He came back down for the spanner, the length of wire and the driver with its own battery on the end of it, and went back up.
 
 He took the front left corner of that nosing up off its fixings with the driver and found that one of the two screws had sheared about an inch and a half up the shaft and the other one had pulled out of the concrete with a plug about the size of a finger, and he cleared the hole out with the bit, put a longer screw through the bracket that came with the tread, and drove it about two inches into the concrete, and put the corner back down and put the other screw in about half a turn, and stood on it twice.
 
@@ -62,8 +62,8 @@ It did not move and it made no noise at all, and he went back down that stair, a
 
 Three feet above his head on that stair the woman of about fifty-five came past with a full jug in each hand and a full kettle hooked over one arm, and she said nothing to him, and he said nothing to her, and he had his back to the top of that stair when she went up past him, and neither of them was looking at the other.
 
-There is a hole in the ceiling of the top flat off Cleeve Street about five inches across with old plaster round it and a stack under it with a cap on it. There is a cap on an outlet on the outside stair of the building by the water where four foot of pipe used to be. There is a foot of flat steel in a cupboard under a stair. There is a length of four inch and a coupling and a coil of hemp standing against a wall on a landing. And the second tread of the outside stair of the building by the water is screwed down and does not knock.
+The second tread of that outside stair is screwed down and does not knock, and the man who put two screws into the front corner of it has gone back down the street with his bag, and nobody in that building is ever going to know that it was ever loose.
 
-None of that was connected to anything else by anybody and none of it was done for anybody and none of it is going to be spoken about in that building.
+Nobody in that building knows why that tread is down and nobody on that street knows it was ever up, and none of it was done for anybody, and none of it is going to be spoken about in there.
 
-**AND A WOMAN OF ABOUT FIFTY-FIVE IS STILL IN THAT ROOM AT THE END OF THAT CORRIDOR ON THE SAME TERMS SHE WAS ON IN FEBRUARY, AND A MAN PUT TWO SCREWS IN A STAIR AND WENT DOWN IT, AND A FOLDED BLANKET IS STILL LYING ACROSS THE FOOT OF HER BED.**
+**AND SHE WENT UP PAST HIM ON THAT STAIR WITH A JUG IN EACH HAND AND NEITHER OF THEM SAID ONE WORD, AND HE WENT BACK DOWN A STAIR THAT DID NOT KNOCK UNDER HIM, AND SHE SHUT HER OWN DOOR ON THE LANDING AT THE END OF THAT CORRIDOR.**

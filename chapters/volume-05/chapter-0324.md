@@ -1,6 +1,6 @@
 # Chapter 0324 — A Saturday in May
 
-Saturday the twenty-seventh of May 2017, from about ten to eight in the morning, a parade in Tideglass, the low end of Peverell Street, a building by the water, and a hall on Carrow Lane.
+Saturday the twenty-seventh of May 2017, from about ten to eight in the morning, and later that same evening, out on that parade in Tideglass, the low end of Peverell Street, a building by the water, and a hall on Carrow Lane.
 
 **IT WAS THE FIRST DRY MORNING SINCE BEFORE CHRISTMAS, AND A GUTTER HAD BIRDS IN IT, AND FOUR SENTENCES HAD BEEN GOING ROUND A TABLE IN A HALL SINCE THE TWELFTH OF JANUARY, AND A MAN PUT A QUESTION AT HALF PAST EIGHT THAT NOBODY ANSWERED, AND A BOOK ON A SHELF IN A BUILDING BY THE WATER IS OPEN AT NINETEEN ENTRIES WITH A BLANK LINE UNDER THE NINETEENTH.**
 
@@ -32,7 +32,7 @@ Up the stairs from that bay, on that first-floor landing, a vacuum cleaner is st
 
 At half past eight on the Saturday evening there were nine of them in the hall on Carrow Lane and the meter was on and the window was still open at the top because the room had been warm since about six.
 
-The man in his sixties had the chair in the corner with the leg coming through it. The man in his forties was at the near end with both hands down on the table either side of a cup, as he has them. The man in his thirties had his bag on the floor by his foot and had come in at about eight and had not taken his coat off. The man who works nights was by the door in his coat, as he is. The man from the parade had got there early, as he does, and was sitting with a cup in both hands. The woman who works in a shop had turned her chair about and was sitting with her back to that window. The woman of about fifty-five came in early and hung her coat over the back of the chair. The woman of about forty-two with the key had the urn going and a cloth in her hand. And the man who does the hall was at the door taking a chair off its hook.
+The man in his sixties had the chair in the corner with the leg coming through it. The man in his forties was at the near end with both hands down on the table either side of a cup, as he has them. The man in his thirties had his bag on the floor by his foot and had come in at about eight and had not taken his coat off. The man who works nights was by the door in his coat, as he is. The man from the parade had got there early, as he does, and was sitting with a cup in both hands. The woman who works in a shop had turned her chair about and was sitting with her back to that window. The woman of about fifty-five came in early and hung her coat over the back of the chair. And the man who does the hall had the urn going at the far end of that table with a cloth folded over the top of it, and was at the door taking a chair off its hook with his coat still on.
 
 There are four of them and there have been four since the twelfth of January, and the four on that table this evening are those same four, and nobody in this borough has managed to lay one of them beside another.
 
@@ -46,7 +46,7 @@ The man in his forties said that if four were going to be anything else tonight,
 
 The man in his sixties said, "What are they between them, then. The four."
 
-Nobody at that table said anything to that, and the man who does the hall put his chair back against the wall, and the woman of about forty-two with the key said that the tea was going and she was not going to make it up again that night.
+Nobody at that table said anything to that, and the man who does the hall put his chair back against the wall and said that the tea was going and he was not going to make it up again that night.
 
 Then the man from the parade put his cup down about an inch from the edge of that table.
 
@@ -62,4 +62,4 @@ The man in his thirties said that there were two slates on that gable with the n
 
 The gas went out at nine o'clock, the case was shut and locked after that, and the chairs went up on the wall, and the porch light came on as the door opened, and it was still burning about a quarter of an hour later when the corner lamp took over outside and did whatever it does.
 
-**AND THE GAS WENT OUT AT NINE O'CLOCK AND A PADLOCK WENT ON THAT CASE AND THE LIGHT IN THAT PORCH WAS STILL BURNING A QUARTER OF AN HOUR LATER WHEN THE CORNER LAMP TOOK OVER, AND FOUR WERE STILL ON A TABLE, AND A GUTTER ON A GABLE AT THE LOW END OF PEVERELL STREET HAD BIRDS STANDING IN IT AT TEN TO EIGHT IN THE MORNING AND NOTHING UNDER IT ALL DAY.**
+**AND NINE PEOPLE WENT OUT OF THAT HALL INTO A STREET THAT HAD BEEN DRY SINCE BEFORE CHRISTMAS, AND A PADLOCK WENT ON THE CASE BEHIND THEM, AND TWO SLATES ARE STILL ON A GABLE AT THE LOW END OF PEVERELL STREET WITH THE HEADS OF THEIR NAILS STANDING OUT OF THEM, AND A WOMAN IS STILL SITTING BEHIND THAT BAY WITH A PLANT ON HER TABLE.**

@@ -2,11 +2,11 @@
 
 Thursday the twenty-seventh of April 2017, from about ten in the morning, the first floor of a building off Cleeve Street in Tideglass.
 
-**A MAN IN HIS THIRTIES HAD A LENGTH OF FOUR INCH PIPE STUCK UP THROUGH A CEILING ON A LANDING WITH ONE END ON A STEP AND THE OTHER ABOUT SEVEN FOOT IN THE AIR, AND HE NEEDED SOMEBODY ON THE FAR END OF IT, AND THERE WAS NOBODY ON THE FAR END OF IT, AND A WOMAN WHO WORKS IN A SHOP SAID WAIT AND HE SAID NOT TILL NEXT WEEK, AND THE PIPE IS STILL IN THAT CEILING.**
+**A MAN IN HIS THIRTIES HAD A LENGTH OF FOUR INCH PIPE STUCK UP THROUGH A CEILING ON A LANDING WITH ONE END ON A STEP AND THE OTHER ABOUT SEVEN FOOT IN THE AIR, AND THE JOB AT THE END OF IT WILL NOT GO ALONE, AND THE ONLY PERSON ON THAT LANDING THAT MORNING SAID SHE WAS NOT GOING TO BE THE ONE WHO HOLDS IT.**
 
 The building is one of four off Cleeve Street and it goes up three floors, and on the first floor there is a landing with a fire door at the bottom of the stair, two flat doors, and a step up into each of them about nine inches high, and the carpet on that landing came up about a fortnight ago because the woman who lives in the top flat has had a man in with a gauge on the hot water, and it is rolled in two rolls against the wall by the top flat's door.
 
-The soil stack on that landing goes up through the ceiling of the ground floor flat and comes out in the middle of the landing floor about a foot in from the top flat's door, and it is a four inch, and it is an old cast iron one with a hopper into it out of the top flat's bathroom, and in the week before that, a man from the drainage office had gone down at the bottom of that stack in the ground floor flat and fitted a new length onto the top of the old one and had gone, and had left a length of open pipe about three foot up out of the floor of the landing with a hopper on the side of it, and the last man through that building left the water off at the stop and nothing else.
+The soil stack on that landing goes up through the ceiling of the ground floor flat and comes out in the middle of the landing floor about a foot in from the top flat's door, and it is a four inch, and it is an old cast iron one with a hopper into it out of the top flat's bathroom, and in the week before that, a man from a firm that does that work had gone down at the bottom of that stack in the ground floor flat and fitted a new length onto the top of the old one and had gone, and had left a length of open pipe about three foot up out of the floor of the landing with a hopper on the side of it, and the last man through that building left the water off at the stop and nothing else.
 
 The man in his thirties had been up at about half nine to look at it.
 
@@ -38,7 +38,7 @@ She stopped at the bottom of the flight.
 
 "What do I hold it with."
 
-"Your two hands," said the man in your thirties, "and something under the top of it, a bit of board, because the weight of it is at the top of it and if you let go of it the top end comes down and it goes through your ceiling again and I've had that hole out once today."
+"Your two hands," said the man in his thirties, "and something under the top of it, a bit of board, because the weight of it is at the top of it and if you let go of it the top end comes down and it goes through your ceiling again and I've had that hole out once today."
 
 The woman who works in a shop stood at the bottom of that stair and looked up the flight at a length of four inch pipe standing on a step.
 
@@ -90,4 +90,4 @@ So there is a stack on that landing with a new length on the bottom of it, cappe
 
 Nobody gave anybody anything, and nothing was asked, and no arrangement was made with anybody, and neither of them said a word to anybody else about it in the four days that followed.
 
-**AND A MAN IN HIS THIRTIES CARRIED A CAULKING IRON DOWN A STAIR IN A BUILDING OFF CLEEVE STREET AND LEFT A CAP ON A STACK AND LEFT THE REST AGAINST A WALL ON A LANDING, AND A WOMAN WHO WORKS IN A SHOP PUT A BAG OF PLASTER IN HER BIN AND CLOSED HER DOOR, AND THE TWO OF THEM DISAGREED ON THAT LANDING AND WENT DOWN THE STAIR.**
+**AND IT WAS ARGUED ON A LANDING IN A BUILDING OFF CLEEVE STREET, AND ON A STEP UP INTO THE TOP FLAT, AND ON A STAIR THAT SOMEBODY ELSE WENT DOWN CARRYING A FRIDGE, AND A WOMAN WHO WORKS IN A SHOP CLOSED HER OWN DOOR AND A MAN IN HIS THIRTIES WENT OUT INTO THE STREET, AND NEITHER OF THEM WENT BACK UP.**

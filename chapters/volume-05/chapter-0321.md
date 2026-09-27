@@ -1,8 +1,8 @@
 # Chapter 0321 — The Gable
 
-Monday the fifteenth of May 2017, from about half past eight in the morning, the low end of Peverell Street in Tideglass, and a shop off the Cleeve road.
+Monday the fifteenth of May 2017, from about half past eight in the morning, the corner house at the low end of Peverell Street in Tideglass, and a shop off the Cleeve road.
 
-**A MAN SAID HOW LONG A JOB WOULD TAKE IN A VOICE THAT ANYBODY AT A DOOR WOULD HAVE HEARD AS A PROMISE, AND HE WAS HEARD TWICE, AND FOUR WEEKS LATER HE TOLD TWO PEOPLE IN A SHOP HE HAD NOT SAID HE WOULD DO IT, AND THE SLATES ARE STILL ON THAT GABLE.**
+**A MAN SAID HOW LONG A JOB WOULD TAKE IN A VOICE THAT ANYBODY STANDING NEXT TO HIM WOULD HAVE HEARD AS A PROMISE, AND HE WAS HEARD TWICE, AND TEN DAYS LATER HE TOLD TWO PEOPLE AT A COUNTER IN A SHOP OFF THE CLEEVE ROAD THAT HE HAD NEVER SAID HE WOULD DO IT, AND THE SLATES ARE STILL ON THAT GABLE.**
 
 The house is on the corner at the low end of Peverell Street and it is two storey with a bay on the ground floor and a gable above the bay, and the gable carries about fifty slates laid in a diminishing course, and the two lowest slates on the left-hand side have slipped.
 
@@ -74,4 +74,4 @@ He put the screws and the roll in a bag and went out into the road, and the man 
 
 The slates are on that gable. The nails are still standing about half an inch proud of both of them and the woman with the plant is still sitting behind that bay most afternoons.
 
-**AND TWO PEOPLE WERE TOLD SOMETHING BY A MAN IN A SHOP OFF THE CLEEVE ROAD, AND NEITHER OF THEM WAS WRONG, AND A MAN WALKED OUT INTO THE ROAD WITH A BAG OF SCREWS AND DID NOT WRITE ONE WORD OF IT DOWN ANYWHERE.**
+**AND A WOMAN AT A TRADE COUNTER OFF THE CLEEVE ROAD TOLD BOTH OF THEM SOMETHING AND NEITHER OF THEM WAS WRONG, AND A MAN WALKED OUT INTO THE ROAD WITH A BAG OF SCREWS AND DID NOT WRITE ONE WORD OF IT DOWN ANYWHERE.**

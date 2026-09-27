@@ -1,6 +1,6 @@
 # Chapter 0323 — Five Rooms, and Not One Word
 
-Monday the twenty-second of May 2017, from about half past seven in the morning until about seven in the evening, a kitchen at the back of a parade, a shop off a parade, a kitchen in a house at the end of Marsh Lane, a corridor in a building by the water, and a hall off the parade in Tideglass.
+Monday the twenty-second of May 2017, from about half past seven in the morning until about seven in the evening, and in that order, the back of a parade, a greengrocer's off it, a house at the end of Marsh Lane, a first-floor landing where the water comes in, and the hall off the parade, in Tideglass.
 
 **NOT ONE PERSON PUT A SINGLE TASK TO HIM IN ANY OF FIVE ROOMS ON ONE DAY, AND FOUR OF THOSE ROOMS HAD NOTHING IN THEM FOR HIM AT ALL, AND HE SAID SOMETHING IN A CORRIDOR AT THE END OF IT THAT NOBODY ANSWERED, AND HE WALKED HOME.**
 
@@ -8,7 +8,7 @@ He is on the sink in the kitchen at the back of that parade, and he is there at 
 
 He came in that Monday morning and the kitchen was clean.
 
-Not clean for a kitchen at the end of a Sunday. Clean. The surfaces were wiped and dry, the two ring hobs were off and cold, the sink had been through a cycle, the rack over that sink was empty and the drainer beside it was empty and there was not a third glass anywhere in that kitchen, and the man who cooks in there had gone home at about nine the night before and had not left a note.
+Not clean for a kitchen at the end of a Sunday. Clean. The surfaces were wiped and dry, the two ring hobs were off and cold, the sink had been through a cycle, the rack over that sink was empty and the board at the end of it was empty and there was not a third glass anywhere in that kitchen, and the man who cooks in there had gone home at about nine the night before and had not left a note.
 
 He stood in that kitchen for about a minute and then he washed the two things that were in the sink, which was a wooden spoon and a knife, and dried them, and put them away, and wiped the sink, and then stood in there again.
 
@@ -50,7 +50,7 @@ She did not say anything.
 
 The door at the end of that corridor went shut, and the woman in the room next door along, whose door stands open the width of a hand, did not say anything either, and neither of them said anything to anybody about anything for the rest of that day.
 
-Later that same evening he was in the hall off that parade, which has a meter on it, and a key, and a woman of about forty-two who has that key and also the key to the hall on Carrow Lane.
+Later that same evening he was in the hall off that parade, which has a meter on it, and a key, and a woman of about forty-two who has that key.
 
 He used to be on the tea in that hall and he has not been on the tea in that hall since before Christmas, and nobody in that hall has said anything to him about it, and he has not asked anybody in that hall about it.
 
@@ -64,6 +64,6 @@ He picked his bag up off that floor at about a quarter to seven and went out int
 
 He walked. It is about two miles from that parade to where he lives and he has walked it about sixty times since Christmas and he has never once been asked whether he has got money for it or whether he would like a lift, and nobody in this borough has ever been told how long it takes him.
 
-He had carried a mop and a bucket the mile up that parade himself at about half past four in the afternoon and put them in a bin store at the top of it, and they were still there on the Wednesday.
+He had gone back over to that building by the water at about half past four for the mop and the bucket and carried them the mile up that parade himself and put them in a bin store at the top of it, and they were still there on the Wednesday.
 
 **AND HE WALKED THE TWO MILES, AND A BUCKET AND A MOP WENT INTO A BIN STORE AT THE TOP OF THAT PARADE AT HALF PAST FOUR WITH NOBODY ASKING HIM TO CARRY THEM, AND A WOMAN AT THE END OF A CORRIDOR SHUT A DOOR ON WHAT A LAD OF ABOUT EIGHTEEN SAID TO HER BACK, AND HE DID NOT KNOW SHE HAD HEARD IT AND SHE SAID NOTHING.**

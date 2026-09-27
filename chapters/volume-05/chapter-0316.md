@@ -1,8 +1,8 @@
 # Chapter 0316 — Two Rooms
 
-Saturday the twenty-second of April 2017, from about half past seven in the evening, a hall on Carrow Lane in Tideglass, and the room at the back of a shop off a parade.
+Saturday the twenty-second of April 2017, from about half past seven in the evening, in a hall on Carrow Lane in Tideglass, and later in that evening in the room at the back of a shop off a parade.
 
-**A MAN OF ABOUT SIXTY SAID SOMETHING ABOUT A LAMP OVER A DOOR IN A ROOM THAT HAS HEARD A THING SAID BEFORE, AND THE MAN NEXT TO HIM SAID IT AGAIN IN A DIFFERENT ROOM WITH NO IDEA HE WAS DOING IT, AND HALF AN HOUR LATER A MAN CAME IN AND SAID WHERE IT HAD COME FROM, AND A WORDNESS OF IT WAS STILL A QUESTION A QUARTER OF AN HOUR AFTERWARDS.**
+**A MAN IN HIS SIXTIES SAID SOMETHING ABOUT A LAMP OVER A DOOR IN A ROOM THAT HAS HEARD A THING SAID BEFORE, AND THE MAN NEXT TO HIM SAID IT AGAIN IN A DIFFERENT ROOM WITH NO IDEA HE WAS DOING IT, AND HALF AN HOUR LATER A MAN CAME IN AND SAID WHERE IT HAD COME FROM, AND TWO QUESTIONS WERE PUT ABOUT IT IN A ROOM AT THE BACK OF A SHOP AND NEITHER OF THEM GOT AN ANSWER.**
 
 The hall on Carrow Lane is a long room with a folding table down the middle of it, a bit of carpet worn through in front of the hearth, and an overhead fitting on a pull that everybody in that room pulls at some point in an evening without anybody saying anything about it.
 

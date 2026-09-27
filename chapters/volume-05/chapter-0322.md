@@ -78,4 +78,4 @@ She has not used it again. The filter is full of sand off that landing and the c
 
 The man with the van was down that street two days after that, and the woman of about fifty-five was at the gate at about half past ten with her coat on, and he put a hand up and she put a hand up, and neither of them said one word, and he has not been back up that street since, and nobody in that borough has ever told him what happened to the machine or that anybody ran it, and the woman who works in a shop did not tell him, and the woman in the room next door along has not mentioned it to a living soul.
 
-**AND AN UPRIGHT CLEANER IS LYING ON ITS SIDE IN A CORNER BY A FIRE DOOR ON A FIRST-FLOOR LANDING WITH ABOUT HALF A BAG OF SAND IN IT, AND A MAN WITH A VAN DROVE PAST THAT BUILDING TWO DAYS LATER AND PUT A HAND UP, and nobody has told him anything.**
+**AND A MACHINE WENT UP A LANDING STAIR IN A BUILDING BY THE WATER ON A THURSDAY IN MAY BECAUSE A MAN ASKED A WOMAN AT THE DOOR WHETHER SHE WANTED IT, AND SHE RAN IT ONCE AND LEANED IT OVER IN A CORNER THAT EVERYBODY GOES ROUND, AND HE HAS NOT BEEN UP THOSE STAIRS SINCE.**
