@@ -64,4 +64,4 @@ The Methodist hall on Carrow Lane is the other one and the argument on the Monda
 
 Which is exactly what the man in his sixties had said on the Monday, word for word in the part that mattered, by a mouth that had never heard him say it and would never know that he had arranged it.
 
-**AND THE SIX WERE NOT ANSWERED, AND ONE OF THEM WAS WRONG, AND THE MAN WHO PUT IT THERE SAID SO FIRST, AND THE ROOM LEFT IT, AND BY THE WEDNESDAY IT HAD GOT ITSELF INTO A CORRIDOR BY ITSELF, AND NINE PEOPLE WENT HOME WITH IT.**
+**AND BY THE WEDNESDAY A MAN OFF THE PARADE HAD SAID IT IN A CORRIDOR ON CARROW LANE TO SOMEBODY WHO HAD NOT BEEN IN THE ROOM, IN THE SAME WORDS, AND HE WAS BELIEVED.**

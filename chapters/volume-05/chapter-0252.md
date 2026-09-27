@@ -2,7 +2,7 @@
 
 Thursday the fourteenth of July 2016, from about half past seven in the evening, a hall off a parade of shops in Tideglass, and the corridor outside it.
 
-**SIX WEEKS, TWO YESES AND ONE NO, AND AT THE END OF THE SIX WEEKS NOBODY IN THIS BOROUGH COULD PUT A FINGER ON ANYTHING, AND THE ONLY THING THAT HAD HAPPENED WAS THAT FOUR PEOPLE HAD DONE SOMETHING SMALL ON THE SAME TUESDAY WITHOUT ANY OF THEM KNOWING THE OTHER THREE WERE DOING IT.**
+**SIX WEEKS, TWO YESES AND ONE NO, AND AT THE END OF THE SIX WEEKS NOBODY IN THIS BOROUGH COULD PUT A FINGER ON ANYTHING, AND THE ONLY THING THAT HAD HAPPENED WAS THAT FOUR PEOPLE HAD DONE SOMETHING SMALL ON THE SAME DAY WITHOUT ANY OF THEM KNOWING THE OTHER THREE WERE DOING IT.**
 
 The woman of about forty-two who has the key to that hall put the booking book on the table without being asked to and opened it at the July page, and the gas column in it was hers and had been hers for nine years and the Tuesdays in it were the thing she gave in April, and there were twelve of them marked in pencil in her own hand with a tick beside each one, and about half of them had a number of people against them and about half of them had nothing at all against them.
 
@@ -10,7 +10,7 @@ The woman of about forty-two who has the key to that hall put the booking book o
 
 The man in his forties had been in the room and had the carbon book from Penhale with him in a plastic bag, which he had carried up the road himself, and he put it on the table and opened it at the page and showed the column headed with nothing at all, and the gap in the writing about two inches deep, and the one line in it that was not a claim, and that was all.
 
-"Twelve Tuesdays," said the young woman of about twenty. "Twelve rooms with about nine people in them at some point, and one line in a book at the bottom of a hill. That is the entire output of six weeks and I have been in every one of those rooms."
+"Twelve of them," said the young woman of about twenty. "Twelve rooms with about nine people in them at some point, and one line in a book at the bottom of a hill. That is the entire output of six weeks and I have been in every one of those rooms."
 
 "You have not," said Tomas Renn.
 
@@ -50,7 +50,7 @@ The man from the works on the far side of the river had finished at two on the t
 
 The boat crew had brought four feet of pipe and a fitting back from over the water on the Friday and had left it on the kerb at the parade outside a shop that is shut on a Sunday, and had told nobody it was there, and it was still on the kerb on the Wednesday when the woman who has been in that hall about two years put it in the yard of the house behind because she was tired of looking at it.
 
-Somebody had put a pound into the meter of that hall in the last week of June and nobody had seen who, and there had been no sign of it, and the gas had gone on for a Tuesday evening with about nine people in the room, and it was still not known.
+Somebody had put a pound into the meter of that hall in the last week of June and nobody had seen who, and there had been no sign of it, and the gas had gone on for an evening with about nine people in the room, and it was still not known.
 
 And the man at the bottom of Peverell Street had walked up to the parade on the Friday, bought a length of chain about eight feet long, paid for it, walked back down, and had not given it to anybody and had not put it anywhere anybody could find, and when the woman who has been in that hall about two years asked him about it on the Sunday he said it was for a gate and would not say which gate.
 
@@ -64,4 +64,4 @@ He had not been asked anything in the whole of the seven weeks since the elevent
 
 He stood there and listened to the sound of a hall with about nine people in it deciding that it could not find out what it had done, which is a sound he had not heard before in this borough, and he had heard a good many.
 
-**AND A HALL WITH TWELVE PENCIL TICKS IN IT AND A COLUMN IN A BOOK AT THE BOTTOM OF A HILL WITH ONE LINE IN IT ARE THE WHOLE OF WHAT SIX WEEKS PRODUCED, AND FOUR PEOPLE DID SOMETHING SMALL ON THE TWENTY-EIGHTH OF JUNE WITHOUT ARRANGING IT, AND NOBODY HAS MADE A LIST, AND THE MAN AT THE BOTTOM OF PEVERELL STREET BOUGHT A LENGTH OF CHAIN.**
+**HE HAD A BIRO IN HIS COAT AND NOTHING TO PUT IT ON, AND HE DID NOT WRITE THE FOUR THINGS DOWN, AND ON HIS WAY DOWN THE PARADE HE WENT PAST THE SHOP WITH THE SHUTTER THAT GOES UP AND DOWN AND DID NOT GO IN.**

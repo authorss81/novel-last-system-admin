@@ -34,7 +34,7 @@ He listened to the whole of it with his head on one side.
 
 "What's in it for me," he said.
 
-"Nothing," said the man of about eighteen. "I'm not offering you anything. There's no money in it and there's no list afterwards and your name doesn't go anywhere, because there is nowhere for it to go. That's not me being straight with you, that's me telling you what I actually have, which is a question and a Tuesday morning."
+"Nothing," said the man of about eighteen. "I'm not offering you anything. There's no money in it and there's no list afterwards and your name doesn't go anywhere, because there is nowhere for it to go. That's not me being straight with you, that's me telling you what I actually have, which is a question and a Wednesday morning."
 
 "What's reciprocal."
 
@@ -46,7 +46,7 @@ The man from the works on the far side of the river thought about that for a whi
 
 "That's a day."
 
-"That's a day," he said, "and it's a Tuesday, and I'll tell you the whole of it now so you don't have to work it out. It's one Tuesday, and the Tuesday after that I'm in Leeds till Wednesday, and the Tuesday after that I've no idea. That's your right of return. That's the size of it. One Tuesday and a man who finishes at two."
+"That's a day," he said, "and it's a Tuesday, and I'll tell you the whole of it now so you don't have to work it out. It's one day, and the day after that I'm in Leeds till Wednesday, and the day after that I've no idea. That's your right of return. That's the size of it. One Tuesday and a man who finishes at two."
 
 ---
 
@@ -62,4 +62,4 @@ A fifth was not asked, because there was no fifth, because the man of about eigh
 
 He put the pen back where it had been and went out.
 
-**AND TWO PEOPLE SAID YES TO A DAY AND NOT TO A THING, AND ONE OF THEM FINISHED AT TWO ON A TUESDAY, AND THE ONLY PERSON WHO HAD EVER RELIABLY BEEN THERE WAS NOT ASKED, AND A MAN OF ABOUT EIGHTEEN WENT BACK TO HIS KITCHEN WITH NOTHING WRITTEN DOWN ANYWHERE.**
+**HE PUT THE PEN BACK WHERE IT HAD BEEN AND WENT OUT, AND IT WAS A WEDNESDAY, SO THERE WERE NO DISHES IN IT FOR HIM, AND HE WILL BE ON THAT PARADE IN THE MORNINGS UNTIL SOMEBODY STOPS HIM, AND HE WILL NOT HAVE A LIST.**

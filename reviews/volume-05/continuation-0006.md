@@ -1,0 +1,34 @@
+# Review — Volume 05, Continuation 0006 — Chapters 0245–0254
+
+Reviewed: commit `b07e6dde50e9c872fed90e022ebe97159d75b4b4`, "novel: save writer work continuation-0006", against `outline/`, `bible/`, `PHASE_SYSTEM.md` and the state files. Working tree clean at the start of the review.
+
+This is the first review artefact for Volume 05. No artefact exists for Batches 0001–0005, and none was back-filled, because a back-filled review is a review nobody performed.
+
+## What passes, verified independently rather than taken from the state files
+
+- **Calendar.** All ten weekday labels match the real 2016 calendar. Gaps 6, 4, 5, 3, 5, 4, 6, 5, 4 days, all inside the three-to-seven-day window. No chapter precedes 23 July 2016.
+- **Day-counts.** Recomputed from the 26 November 2014 anchor: 21 June → 573, 4 July → 586, 23 July → 605. Each printed on its own chapter's own date and no other.
+- **Figure discipline.** Every `forty` is `forty-one` (the address) or `forty-two` (an existing figure's age). Every `eleven` is a time of day, a date, or the schedule of eleven names from Penhale. Zero `thank*`, `load-bearing` / `key moment` / `turning point` / `pivot`, `level of service`, `four years`, `forty-eight`, or `the ninth` / `ninth day`.
+- **Scene breaks and caps.** 2, 1, 2, 2, 2, 2, 0, 2, 2, 2 breaks against a cap of two in each; 0251 has none, which is correct for a chapter that is one room and one piece of paper. Two all-caps paragraphs in every chapter, against a cap of five.
+- **Canon flags.** *Tideglass* in all ten; *Nacre* and *River Stacks* nowhere. The *Halsey Cross* / *Halse Cross* conflict is real and is flagged in three places rather than silently normalised, which is the right handling. The Volume 05 boundary question is escalated rather than decided, which is also right.
+- **Prose.** 0249 and 0251 are real scenes with real dialogue. The man of about eighteen's argument in 0251 — that the thing which is not a place is the one that is on the list — is the strongest beat in the batch.
+- **The batch's own §12.** Its fourteen items are accurate. Items 1, 10, 12 and 14 were re-checked against the current text and all four repairs are genuinely in the prose.
+
+## Findings, in the order they were acted on
+
+Full record with before-and-after figures: §12A of the "VOLUME 05, CONTINUATION 0006" block in `state/continuity.md`.
+
+1. **Six chapters bookended the same assertion in two registers.** 0247, 0249, 0250, 0251, 0252 and 0253 opened with an all-caps thesis paragraph and closed with a near-verbatim paraphrase of it. 0249 opened on *two people said yes, and neither of the two said yes to a thing* and closed on *two people said yes to a day and not to a thing*. 0247 was the worst: its closing block reprinted the day-count and a door width the body had already delivered. **Repaired in all six, and in 0254 as well, whose closing block was an item-by-item restatement of the borough.** Every chapter still carries exactly two all-caps paragraphs — the caps are this book's voice and were not touched. 0245, 0246 and 0248 were checked against the same rule and left alone.
+2. **`*A Tuesday*` over its cap in five chapters.** Body counts as found: 3, 4, 7, 5, 3 against a cap of two. The cap was added to the list only by the `continuation-0007` prompt, so it did not bind the batch — but the tics were cut rather than defended. Now 2, 0, 1, 2, 2, 0, 0, 2, 1, 2. The twenty-eighth of June is still established as a Tuesday, and *one Tuesday and a man who finishes at two* is untouched.
+3. **The chapters' own opening blocks were stored verbatim in `state/chapter-summaries.md`** — five of ten, word for word. This is both the failure the prose limit names and the mechanism by which a banned closing block gets restored. All ten entries for 0245–0254 were rewritten; a diff now returns no chapter all-caps block reproduced in any state file.
+4. **Self-explaining narration.** 0247 stated its theme three times; 0245 explained why its one question mattered in the sentence that asked it; 0253's man in his sixties labelled his own finding and warned the room off building a thing out of it. Repaired by cutting two narrator paragraphs and two speech tails. Every scene beat and every part of the argument, including the guard on the midpoint reversal, survives.
+5. **`state/character-state.md` misattributed a line.** The Hanna Wray entry said she read the returned sheet first and said *Us*. The woman of about fifty-five read it over her shoulder and said the word first; Hanna Wray repeated it. The fifty-five entry was right and the Wray entry was wrong, on the speaker and on the reading. Corrected in place, with the old claim recorded rather than deleted.
+6. **An unanchored *the drawer*, and three key-holding women where a card said two.** At the end of 0254 the woman of about forty-two with the hall key put a key in *the drawer* with nothing in the scene to anchor it, in an account that already has a locked drawer under a trade counter and a lock-up. The `continuation-0007` prompt had inherited the confusion twice: card 0256 asserted *the two women in this account who hold keys*, and card 0260 built on *shut the drawer*. Repaired in the chapter, in `state/character-state.md` and in `state/open-threads.md` — the prose now says her bag, established at 0219. Card 0256 now names all three; card 0260 names the three drawers.
+7. **The state files were wrong about their own batch three times over.** §12 and §13 reported *nobody is required* at one in 0253; re-measured, it stands at zero in all ten and the word *require* appears nowhere in chapters 245–254. The all-caps paragraph total was reported as nineteen against ten chapters at two each, which is twenty. The word-count median named the wrong middle two chapters; sorted, they are 1,556 and 1,563, giving 1,560. All three corrected in `state/continuity.md` and `state/batch-summaries.md`, with the old figures recorded rather than deleted. The first was found by re-measuring; the second and third were found by adding the file's own totals up, which is the cheapest check in this repository and the one least often run.
+8. **Two findings not acted on, neither a writer's.**
+   - `state/phase-ledger.json` reads volume 1 / batch 1 with the work at Volume 05, chapter 254. Controller-owned; not touched. Flagged in §12A so it is not read as truth.
+   - `reviews/` held only `volume-04/`. This artefact is the first for Volume 05. Earlier Volume 05 batches were not back-filled.
+
+## Deliberately not flagged
+
+Chapter lengths (1,079–2,022 words) sit inside the volume's established shape and 0247 at 1,079 is a complete scene. The volume-boundary ambiguity and the *Nacre* / *River Stacks* / *Tideglass* conflict are author-level canon questions that the batch escalated rather than decided, and that handling is correct.

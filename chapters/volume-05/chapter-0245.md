@@ -2,7 +2,7 @@
 
 Saturday the eleventh of June 2016, from about ten in the morning, a parade of shops in Tideglass, and the low end of Peverell Street.
 
-**THE BOAT WENT OUT OF THIS BOROUGH ON TUESDAY AND CAME BACK ON FRIDAY, AND THE ENGINE WENT OUT ON TUESDAY AND CAME BACK ON WEDNESDAY, AND NEITHER OF THEM WAS ASKED TO GO BY ANYBODY, AND THE ONLY THING IN THIS BOROUGH THAT WAS ACTUALLY ARRANGED LAST WEEK WAS A VAN.**
+**THE BOAT WENT OUT OF THIS BOROUGH ON A TUESDAY AND CAME BACK ON FRIDAY, AND THE ENGINE WENT OUT ON THE SAME MORNING AND CAME BACK ON WEDNESDAY, AND NEITHER OF THEM WAS ASKED TO GO BY ANYBODY, AND THE ONLY THING IN THIS BOROUGH THAT WAS ACTUALLY ARRANGED LAST WEEK WAS A VAN.**
 
 Jonas Mercer had been in the doorway of the shop next door to the one with the trade counter since about half nine, and he had been in that doorway most mornings since the eleventh of May, and nobody had asked him anything in all that time, and he had stopped noticing that somewhere towards the end of May and had started noticing the parking instead.
 
@@ -36,7 +36,7 @@ Nobody on the parade looked up.
 
 Tomas Renn looked up, and then looked back down at the crate, and went inside, and shut the door, and did not say anything about it, and there was nothing to say and he had not said it.
 
-Jonas Mercer asked one question. He had not asked anybody anything since the eleventh of May, and it had gone on being strange after the first fortnight, and on that Saturday morning it was simply the fourth minute of a conversation he had started.
+Jonas Mercer asked one question.
 
 "Who is it for."
 

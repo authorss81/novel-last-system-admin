@@ -58,7 +58,7 @@ They talked about the price of a fitting, the weather, a man in the third house 
 
 And then the man from the parade said the thing that was in everybody's mouth and nobody had wanted to say first.
 
-"That's the fifth Tuesday running I've not known where a van in this borough was," he said. "Not a fortnight. Five Tuesdays. And I've stopped minding, and I want to be careful here, because I know how this sounds, and I'd like it in the room that I have stopped minding and I have not made my peace with it, and those are two different things, and the difference is the whole of it."
+"That's the fifth time I've not known where a van in this borough was," he said. "Not a fortnight. Five Tuesdays. And I've stopped minding, and I want to be careful here, because I know how this sounds, and I'd like it in the room that I have stopped minding and I have not made my peace with it, and those are two different things, and the difference is the whole of it."
 
 Nobody argued with him and nobody agreed with him and the young woman of about twenty wrote nothing down, because there was nothing on the table to write on, and nobody had brought anything, and that has been true of every one of these rooms since the first of them.
 
@@ -72,6 +72,6 @@ At about half past four most of it went out into the parade in the ordinary way,
 
 "No."
 
-"Right," she said, and put the key in the drawer, and shut the drawer, and that was the end of it.
+"Right," she said, and put the key in her bag, and shut the bag, and that was the end of it.
 
-**AND THE LINE UNDER THE NINETEENTH ENTRY IN A REGISTER IN A BUILDING BY THE WATER IS SIX HUNDRED AND FIVE DAYS, AND A PARADE WENT ON BEING A PARADE, AND A VAN CAME BACK AT ELEVEN, AND A MAN AT NUMBER FORTY-ONE HAS A CHAIN ROUND THE BACK OF HIS HOUSE ON A GATE HE WOULD NOT EXPLAIN, AND NOBODY HAS ANSWERED THE QUESTION, AND THE GAS WAS STILL ON.**
+**SHE LEFT THE GAS ON UNTIL THE LAST OF THEM WERE OUT AND THEN TURNED IT OFF AT THE METER BY THE DOOR, AND THE RADIATOR IN THAT CORRIDOR HAS BEEN OUT SINCE ABOUT 1998 AND WAS STILL OUT, AND THE KEY WENT IN HER BAG AND SHE WENT OUT AND LOCKED UP, AND THE PARADE WAS A PARADE.**
