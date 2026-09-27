@@ -1,0 +1,167 @@
+# LIVE CANON — what a writer must not get wrong, and where the rest of it lives
+
+**THIS FILE IS A DISTILLATION, NOT A SOURCE. IT SUPERSEDES NOTHING.**
+
+**The order of authority, and it is not negotiable: a chapter on the page is right; then the block of `state/continuity.md` that hand-over names; then the other blocks of that file in order, newest first; then `outline/series.md` and the volume outline, WHICH ARE NOT CANON; then this file. WHERE THIS FILE AND ANYTHING ABOVE IT DISAGREE, THE THING ABOVE IS RIGHT AND THIS FILE IS WRONG AND HAS TO BE CORRECTED.**
+
+**Why this file exists: `state/continuity.md`, `state/open-threads.md`, `state/character-state.md`, `state/chapter-summaries.md` and `state/batch-summaries.md` are append-only histories and together run to several megabytes. They are NOT to be pruned, truncated or compacted by a writer, because a figure, a date or a figure-count in an old block is the only record that a figure was ever spent, and deleting a block loses it permanently. They are also not readable whole. So every prompt names the one block that is the hand-over, and this file is what can be read whole.**
+
+**Last rebuilt: after the Batch 0004 review repair. The series is at 234 of 720.**
+
+---
+
+## 1. THE FILE MAP — WHICH BLOCK IS THE HAND-OVER
+
+| File | The block to read | Its size problem |
+| --- | --- | --- |
+| `state/continuity.md` | **"VOLUME 05, BATCH 0004 — CHAPTERS 225–234 — Sunday 28 February to Saturday 16 April 2016"**, at the end, §1–§16 | ~1.4 MB total, 16 sections in the live block |
+| `state/open-threads.md` | **"VOLUME 05 OPEN THREADS — after Batch 0004, Chapter 234"**, at the end | ~460 KB total |
+| `state/character-state.md` | **"VOLUME 05, BATCH 0004 — CHARACTER STATE AFTER CHAPTER 234"**, at the end | ~455 KB total |
+| `state/chapter-summaries.md` | the ten entries for **0225–0234** | ~825 KB total |
+| `state/batch-summaries.md` | the **Volume 05 Batch 0004** entry | ~426 KB total |
+| `state/current.md` | the calendar at the top and **"THE STATE OF THE CITY AT THE END OF CHAPTER 234"** at the bottom | ~170 KB total |
+
+**The prompt names these blocks instead of the files. A writer who tries to read a whole state file will run out of context and stop, and that is what happened in Batch 0004.**
+
+---
+
+## 2. WHERE THE SERIES STANDS
+
+- Volume 01 complete, Chapters 1–48. Volume 02 closed, 49–100. Volume 03 closed, 101–144. Volume 04 closed, 145–194. **Volume 05 is running, 195–234.**
+- **Volume 05 is *The Borrowed City*. It opened Thursday 24 September 2015 and has run to Saturday 16 April 2016 in four batches.** Batch 0001 was 195–204, 0002 was 205–214, 0003 was 215–224, 0004 was 225–234. The next batch is 235–244.
+- **ON THE PAGE, VOLUME 05 IS 195–242 AND VOLUME 06 BEGINS AT 243. THE NEXT BATCH'S TEN CARDS RUN TWO PAST THAT. THIS IS AN UNRESOLVED BOUNDARY AND IT IS A HUMAN'S, NOT A WRITER'S. No outline may be rewritten to hide it. If a human has not decided, write all ten cards as dated, mark 243 and 244 as belonging to no volume, and do not create a Volume 06 outline or a volume-close prompt.**
+- The planned ending is in `outline/ending.md` and is not to be changed. **No new final enemy may be introduced without flagging it.**
+
+---
+
+## 3. THE CLOSED FIGURES. NONE OF THESE MAY BE PRINTED AGAIN.
+
+**About eleven seconds** (spent, and spent twice over) · **a room eleven feet by nine** · **about eleven people a day** · **£11,280** · **the 11:00–13:30 row** · **eleven years**, which belongs to Walter Sallow's own voluntary duration and is now his and nobody else's · **eleven days** · **eleven words** · **eleven rows**, which belongs to the hardboard clipboard on the fourth chair of the waiting area off the level-two corridor at Saint Orra west, with the first four rows written on in October by a man who then stopped — **and NOT to the schedule of eleven names from Penhale, which is ruled into eleven lines and has been since a reviewer measured the collision out of Chapter 0231** · **eleven extracts** · **eleven o'clock** · **the eleven standing refusals** · **the eleventh time**.
+
+**`Eleven months` is not available and was removed in an earlier batch. `Eleven names` is not available: it is now occupied by the schedule of eleven names from Penhale.**
+
+**THE ONLY FIGURE OF MINUTES IN THIS BOROUGH IS FORTY — time until a family knew on 15 April 2014. A CHAPTER MAY NOT USE THE WORD FORTY FOR ANY OTHER DURATION.** `Forty-one minutes each way` is a bus journey and the forty hours of 3 April 2014 is the gate being open; those are the only other two. No 48-minute figure may ever be printed.
+
+**"In about four years" is at zero and the count is carried forward, not reset. "Four years" not at all.**
+
+Nine hundred and forty, nine hundred and eighty-six and fourteen are a number of times, a number of Wednesdays and a difference between two public numbers. **They are not a number of people and they may never be in one sentence.**
+
+*`A level of service`* is permitted at most once per batch, in a head, about a printed row.
+
+---
+
+## 4. THE FIGURE CENSUS — there is one of every person in this account and no second of any of them
+
+**An age and a gender belong to a person in this account in the way a name does.**
+
+**THE FREE FIGURES AFTER BATCH 0004 ARE WOMEN 18, 87 AND 90. THAT IS THE ENTIRE LIST. THERE IS NO FREE FIGURE IN MEN.**
+
+**THE CENSUS DID NOT RUN OUT.** Three state lines and one prompt line that said it had were measured and corrected. **MEN 18, 87, 88, 90, 91 AND 92 WERE NEVER FREE FIGURES AND ARE NOT IN THE ACCOUNT. A BATCH THAT BUILDS A ROOM OUT OF THEM IS BUILDING IT OUT OF OCCUPIED FIGURES.** With three free women and no free men, a room of size is not buildable out of fresh ages, and the answer is the one the prompts have been giving: **figures who have no age may not be aged; figures who have one may be used; the rest appear without an age, which the text already does** (a man in a fleece and a woman with two children in 0212; a woman with two children and a man in an apron in 0199; the man from the cold store, who was never given an age and may not be given one).
+
+**ANY NEW FIGURE MUST HAVE:** an age not occupied in its gender · a gender · a reason of their own · a count in `state/character-state.md` at the end of the batch · and a name no reader could confuse with a person already in the account. **NO TWO NEW FIGURES IN ONE BATCH MAY SHARE AN AGE WITH ANOTHER NEW FIGURE OF THE SAME GENDER IN THAT BATCH. THE CENSUS IS BUILT FIRST AND RUN AGAIN AT THE END, NOT AFTER.**
+
+**The figures who appeared in Batch 0004 WITHOUT an age and may never be given one:** two men in their thirties who went out on 12 March, one of them with a wrist he could not use for the second board · a man in his forties at the Penhale office who keeps the book · a man in his sixties who is the building estimator in the Methodist hall · a lad of about twenty with a broom at Penhale · a woman who had been on the Corrance trade counter about nine years · a man in a cabin at Lowdale Hire · a man behind a till · a man with a clipboard and nothing to write on · a woman who had been in the Methodist hall about two years · and somebody who wrote the notes in that hall in a book and went out of the door with it. **HANNA WRAY'S AGE IS NOT STATED ANYWHERE IN THIS ACCOUNT AND MAY NOT BE STATED LATER.**
+
+---
+
+## 5. THE MOTIFS, WHICH ARE MOTIF AND NOT TICS — at most twice in one chapter each, and no new use of any of them to make a sentence land
+
+***four hundred yards*** · ***there is no form in this borough*** · ***nobody is required*** (counting *nobody's required*, *nobody is required*, *nothing is required of*, *nobody has to do*) · ***a level of service*** (see §3).
+
+**`Eleven feet by nine` is a motif AND a closed figure and is spent. A dateline does not count towards any cap.**
+
+**WHERE A MOTIF CAP AND A HARD LIMIT BOTH TOUCH THE SAME PHRASE, THE HARD LIMIT GOVERNS, AND A FIGURE THAT CAME IN AT ZERO IS A FACT AND NOT A SECOND CAP.**
+
+---
+
+## 6. THE CALENDAR AND THE THREE DAY-COUNTS
+
+**THE ANCHORS ARE FIXED AND EVERY COUNT IS ADDED UP FROM AN ANCHOR ON THE DAY AND NEVER CARRIED FORWARD FROM A SUMMARY:**
+
+- **Wednesday 26 November 2014** — the blank line under the nineteenth entry of the register.
+- **Friday 20 February 2015** — the card in the slot.
+- **Wednesday 18 February 2015, about half past nine** — the letter in the tray on the second floor.
+
+**The next batch, 235–244, with the three counts, all checked against the anchors:**
+
+| Ch | Date | Weekday | Blank line | Card | Letter |
+| --- | --- | --- | --- | --- | --- |
+| — | Sat 16 Apr 2016 | Saturday | **507** | **421** | **423** |
+| 235 | Thu 21 Apr 2016 | Thursday | 512 | 426 | 428 |
+| 236 | Tue 26 Apr 2016 | Tuesday | 517 | 431 | 433 |
+| 237 | Sun 1 May 2016 | Sunday | 522 | 436 | 438 |
+| 238 | Fri 6 May 2016 | Friday | 527 | 441 | 443 |
+| 239 | Wed 11 May 2016 | Wednesday | 532 | 446 | 448 |
+| 240 | Sun 15 May 2016 | Sunday | 536 | 450 | 452 |
+| 241 | Fri 20 May 2016 | Friday | 541 | 455 | 457 |
+| 242 | Tue 24 May 2016 | Tuesday | 545 | 459 | 461 |
+| 243 | Sun 29 May 2016 | Sunday | 550 | 464 | 466 |
+| 244 | Sat 4 Jun 2016 | Saturday | **556** | 470 | 472 |
+
+**The gaps are 5, 5, 5, 5, 5, 4, 5, 4, 5 and 6. No chapter may be dated to a day before the one before it.**
+
+**ONLY THE LAST FIGURE OF EACH ROW APPEARS IN THE PROSE, AS A RULE. The register is at nineteen entries and the line under the nineteenth is blank and it is the only fixed point in that building.**
+
+---
+
+## 7. THE SIX OPEN QUESTIONS. ALL SIX ARE OPEN AND NONE MAY BE ANSWERED BY A CHAPTER.
+
+1. **From 0184** — which of the dated things this borough has done once is the first one somebody will be able to prove, and whether it is proved by a person standing there or by a person who reads about it afterwards. *A sheet on a wall in another city, a sheet on a wall in a third, a handwriting in a handbag, a carbon book under a bed in a hut, a book in a hand in a hall and a line under a nineteenth entry are all now candidates, and none of them can be told from inside.*
+2. **From 0174** — which of the eight dated things is the first one somebody decides to keep, and whether it is kept because it was good or because it was expensive.
+3. **From 0164** — whether the page or the chair is the first one somebody asks a person to agree to.
+4. **From 0192** — which of two opposite shapes this city is going to have to stop, and what a person has to be holding to stop each of them, the second of which is nothing. *Still nothing.*
+5. **The volume's own**, restated on 16 April 2016 as a fact about three pieces of paper in three places and not answered: **a permission is a thing a person may do and an obligation is a thing a person has to do, and the same act is one of each on two pieces of paper eight miles and an estuary apart, and one of the two of them is a sheet on a wall with a man's name under it, and he is not the only one who can and he is not the only one who does, and the difference between those two sentences is what five things are being kept on.**
+6. **The sixth, about a document and not a person:** a claim has been in a drawer at the end of a corridor, and it is a price and a receipt and a precedent, and there is now a second document in the same room which is a schedule of eleven names with dates and places and sums on it, and two people in two cities know what the first of those is and neither has said.
+
+**The three pieces of paper in the three places:** the one-line sheet on a wall in a corridor in a city on the other side of the water, which is a thing a person may do · the four-line sheet on a wall in a room in a town up the estuary, which is a thing a person has to do and which nobody in this borough could produce, and of which Jonas Mercer refused a copy on 22 January · the folded sheet in the drawer at the end of a corridor, which is a thing somebody else sent and which may be answered or not answered.
+
+**A batch may extend the fifth and the sixth. It may not answer any of the six, and it should not add a seventh of its own without saying so in the prompt that asks for it.**
+
+---
+
+## 8. THE ELEVEN STANDING REFUSALS STAND AT ELEVEN AND ARE NOT TWELVED
+
+**A lapse, a permission, a claim, a regional system, a shared yard, a spreadsheet, a crew, a schedule of eleven names, a borough that has been sent a bill by another city, a regional trade and a man who is not counted are NONE of them a twelfth.** The enumeration of the eleven itself is accumulated across the account and is in the older blocks; the count is what binds.
+
+The board may not be made to work. The lowland may not be seated. The thirty-one of Wren Court may not be put on a list. **A body that cannot require anybody to do anything cannot be told what it will do, and a body that cannot require anybody to do anything is not asked what it will do. Both are on a card on a wall in a Methodist hall in this borough and neither may be argued out of the other.** The ninth seat may not be told anything, the seven may not learn what she can do, and nobody may notice. **Ama Boateng, twenty-nine, is a different person from the ninth seat, fifty-four, and the two may never be in one sentence.**
+
+---
+
+## 9. WHAT IS IN FORCE, AND WHAT IS NOT
+
+- **The central continuity order is NOT in force and has not been since about nine in the morning of Wednesday 11 November 2015, when all seven clauses of it stopped at once.** It was not renewed, expired, cancelled, suspended, amended, replaced or quoted at length, and not one word of its seven clauses or its page two has been altered. Nobody put a name in the line under the date and the blank term was not renamed. **The field is a column in a working book on a table in a building by the water and its last entry is the fourteenth of September 2015.** The mechanism: a clause saying an order is renewed, or is not renewed, needs a person, and there is no body in this city that can require a person. **The order and the idea of a borough form may not be put in one sentence.**
+- **A mutual-aid permission from a city called Alderwick is in force**: two pages, correct, signed at both ends, nine names on its schedule, and it is still in a plastic wallet on the other side of the water.
+- **All three regional systems have now been entered.** The first is in **Ravensmere** and every part of it is held by somebody privately. The second is the town of **Marrowgate**, which owns its works, its clinic, its shelter, its gate and its yard, and Walter Sallow, a man of about eighty-six, is still raking an intake by hand. The third is at **Penhale**, which is not a town but a bend in a road with a shared yard, a shared rule and a book with a column in it, and **it owns nothing at all: the shed, the racking, the pipe, the two trucks, the hut, the bench and the fence all belong to somebody else, and that is why it is the best of the three.**
+- **The midpoint reversal is spent, in full, on the page, in 0229 and 0230, and it is not to be spent again, restated, improved on or explained to a new reader.** It is not fraud, it has no perpetrator, it is not a new final enemy, it is not a twelfth refusal, it is not resolved, and **not one person has been discovered.** Nobody is being cheated: the sum is the sum the region agreed in 1987, the work was done for that sum then, every job since has been done for that sum, and the rate has not been revised because nobody who is owed the difference is still in any of the bodies that agreed it. **The drain is not the sum, which is small, and not the paper, which is correct. The drain is that every job a crew from this borough does in that region puts a claim against this borough that nobody in this borough can answer, measure, refuse or plan for.** The cumulative figure is eleven claims and £1,812 since the spring, added up twice by hand. The four companies that sell into the shared yard are **Corrance Supply, Sarn Aggregates, Lowdale Hire and Marcement**; all four are correct and not one of them has ever been asked a question.
+- **A person who is not counted is not a person who is helped, and no chapter may refute it.** A lapse is not a rescue and a lapse is not an expiry and neither is a death. A man who stops being able to be called is not a man who has been set free. **A priced-access case is not a recognition case. A node with no term in force is not a person with no address, in either direction. A duty is an act and not a place, and may not become a way of making a street findable. A mutually agreed right of return may not be written as a lane anybody lives in and is not yet in any document.**
+
+---
+
+## 10. JONAS MERCER'S OWN STANDING, WHICH MAY BE ARGUED AND MAY NOT BE RESOLVED
+
+He is thirty-two and has been in this borough a year and nine months. **He is not on the agenda, is not a party, is not a member, has no grade and no department, is in a gallery or a corridor or is not in the room. The word *warden* is never used of him by anybody.** He is a man who can tell you which of two clauses outranks the other and who was, until about nine in the morning on 11 November 2015, the only person in this city who could. **The price instead of a principle was said out loud once, to one person, on 13 April 2015, and is not going to be said again.** `There is nothing I can put next to it` is not to be said again. **No chapter may give a new reason for his not-going that is the same reason in different words.** His own losing of a standing is not a new reason and may not be dressed as one, may not be given back to him, and may not be told to him that it was borrowed. He has not answered Iselin Krogh's letter of Friday 5 February 2016, which came on Saturday the sixth, and is not going to.
+
+**NOBODY MAY BE GIVEN A TITLE, A GRADE, A DEPARTMENT, A CHAIR, A SEAT, A MEMBERSHIP, A FORM, A ROTA ROW, A THANK-YOU OR A WAY OF BEING THANKED. NOBODY REFUSES TO BE THANKED, NO MINUTE RECORDS THAT A PERSON HAS NOT BEEN THANKED, NO CHARACTER SAYS OUT LOUD THAT THEY HAVE NOT BEEN THANKED, AND A NARRATION THAT REPORTS THAT A PERSON SAID NOTHING ABOUT BEING THANKED IS OUT — THAT CONSTRUCTION IS BANNED IN ANY KEY, INCLUDING A STATE FILE, AND HAS BEEN CUT TWICE BY MEASURING.**
+
+**A STATE FILE MAY NOT SUPPLY A CHAPTER WITH A SENTENCE THE CHAPTER DOES NOT HAVE. If a state file describes a chapter more cleanly than the chapter is, the state file is wrong.**
+
+---
+
+## 11. THE NINE STANDING, ALL UNMOVED
+
+A card in a slot, not taken out, not put up, not read · a letter in a tray on the second floor under two other pieces of post, sealed, and no chapter has gone near that room · the page of 29 May 2015 with an empty signature block, not in force, its one reader Ama Boateng not asked again and not asked about anything · the printed sheet of 19 June in nine other buildings, nine lines reading *no requirement stated*, no name box, neither copy withdrawn · the column headed *date seen again* with *no name, no initials* under it and nothing in it · the shop's telephone number on a card in a shop window, and the woman of about sixty-five behind that counter has still not been told anything · the crate on a pavement nobody brought with a lid on it that nobody put there · the four bottles of water on four steps · and the empty square on the drawing, which was not filled and was not mentioned.
+
+**Nothing defines *holder*. The buff file of 14 October 2011 is not opened. Paragraph 4.11 is not answered and the compliance week is not verified. The hand that puts the strip in the drawer may not be found and nobody may look for him. Prue Calloway's finding of 23 April 2014 may not be opened a second time. The reading rule may not be used. Frances Tolley is not to be named. Royden Achebe is still not told. Peter Naylor is still a wall. Colin Wharton is not a thread. Nobody goes up Collier Lane. No Weir resident may be described in any document that leaves that street, and nobody on the Weir tells anybody that anything exists.**
+
+**The counter in the vestibule is a live object and is not a service. It may not answer anything about the order, a gate, a rota, a compliance paragraph, a person, a permission, a lapse or a claim, may not give a count to anybody, and it stops the morning the woman stops coming. It may be in one scene. Nobody asks it what the order is, because the day somebody asks is the day it stops being a counter. The drawer under it has no key and no list and is not opened, not counted and not asked about.**
+
+**No handover is staged. The hour between six and seven is not staged. No stand is added to the wet pavement and the count stays closed at eight. The gate sentence — a gate that goes up at seven on a Sunday morning and stops at six on the Sunday morning after that, six days long and not a week, with no date on it anywhere in this city — may be used at most once per batch, unstaged, in that form, and no term after the twenty-third may be named or dated. Nobody dies unless a card says so, and no card says so. Nobody walks again. Nobody is rescued. Nothing is resolved by a person arriving. No root term expires. No reclamation season opens.**
+
+---
+
+## 12. TWO CANON QUESTIONS THAT ARE OPEN AND ARE NOT A WRITER'S TO CLOSE
+
+1. **The name of the city.** `bible/world.md` and `outline/series.md` call it *Nacre*; Volumes 01 and 02 say *River Stacks*; from Volume 03 onward, in every chapter written so far, the prose says ***Tideglass***. **NO FILE RECORDS A RENAME AND NONE MAY BE INVENTED. KEEP USING *TIDEGLASS* FOR THIS CITY, WRITE THE OTHER TWO NAMES NOWHERE IN THE PROSE, DO NOT NARRATE A RENAME, A CORRECTION, A DISCOVERY OR A CONFUSION, AND DO NOT LET A CHARACTER NOTICE, MISNAME OR ASK.** A character from another city may arrive and be confused about something else.
+2. **What Volume 05 is centrally.** `outline/series.md` makes it a river disaster and mutual-aid permissions; the Volume 04 close prompt described it as the reclamation season and every old root term expiring in a different place. **The series outline governs the writing of a chapter. The reconciliation of the two descriptions is an author-level question and is carried forward unresolved.** The operative rules bind whatever an author decides: no root term expires, no reclamation season opens, nothing in the batch is described as leading to one.
+
+**And a third, structural: the on-page end of Volume 05 is 242 and the next batch's ten cards run to 244. See §2.**
