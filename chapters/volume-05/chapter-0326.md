@@ -118,4 +118,4 @@ The man who works nights said that was about right, and drank his tea, and said 
 
 And at about half past one the woman who works in a shop shut the front and the man who works nights went out into the street, and the bar across the back of that shop stayed off the frame, and there is a fridge in a cold room in a position it cannot be got out of without a second pair of hands, and nobody in that shop has said a word about it to anybody in that parade.
 
-**THE MAN WHO WORKS NIGHTS ASKED A WOMAN AT HALF PAST ELEVEN WHICH FIRM HAD GONE OVER AND GOT NOTHING, AND A BAR THAT WAS ON A BACK DOOR OFF A PARADE IS STILL OFF THE FRAME, AND NINE MILES OFF, IN A TOWN WITH A CAR PARK IN IT, A FIRM THAT DOES THE OUTSIDE OF HOUSES IS OR WAS SOMETHING THAT NOBODY IN THIS BOROUGH CAN NAME.**
+**THE MAN WHO WORKS NIGHTS ASKED A WOMAN AT ABOUT TWENTY PAST TWELVE WHICH FIRM HAD GONE OVER AND GOT NOTHING, AND A BAR THAT WAS ON A BACK DOOR OFF A PARADE IS STILL OFF THE FRAME, AND NINE MILES OFF, IN A TOWN WITH A CAR PARK IN IT, A FIRM THAT DOES THE OUTSIDE OF HOUSES IS OR WAS SOMETHING THAT NOBODY IN THIS BOROUGH CAN NAME.**

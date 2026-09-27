@@ -50,7 +50,7 @@ The man in his forties did not look up.
 
 ---
 
-There are four of them and there have been four since the twelfth of January, and the four being talked about in that room on the evening of the eighth of July are those same four, and not one of them has been put on or taken off since, and no two of them can be laid alongside one another by anybody in that room or out of it.
+They were the same four the room had been given since the twelfth of January, and the woman of about fifty-five had sat through all of them being said out loud at that table, and there was still no way of setting one of them beside another to see what the pair came to, and she had stopped saying so out loud, because saying it had not moved any of the four.
 
 "Four," said the woman who works in a shop, to nobody in particular.
 
@@ -84,6 +84,6 @@ Nobody turned the corner lamp off and nobody had to, because that one comes on b
 
 A man came past that porch light at about ten o'clock with a bag over his shoulder, and nobody inside that hall could have told anybody what was in it.
 
-At about a quarter past ten somebody in that hall asked whether anybody knew what the woman of about fifty-five had come in with, and nobody answered that either, and she said she had not come in with anything, and then she said that there was a bowl under a wet strip at the end of that corridor which nobody had asked her to put there and which she had emptied four or five times a day since the Tuesday of that week without being told to, and nobody at that table said a word about the bowl or about the carpet on its side against a wall three streets away, and those two things have never had anything to do with one another and neither of them is anything to do with her.
+At about a quarter past ten somebody in that hall asked whether anybody knew what the woman of about fifty-five had come in with, and nobody answered that either, and she said she had not come in with anything, and then she said that there was a bowl under a wet strip at the end of that corridor which nobody had asked her to put there and which she had emptied four or five times a day since the Tuesday of that week without being told to, and nobody at that table said a word about the bowl or about the carpet on its side against a wall three streets away, and those two things have never had anything to do with one another, and she is not going to be told otherwise by anybody who was not in that corridor.
 
 **NINE PEOPLE WENT OUT OF THAT HALL AT TEN O'CLOCK INTO A STREET THAT HAD BEEN SOFT AND THEN HARD SINCE ABOUT ONE O'CLOCK IN THE AFTERNOON, AND A PADLOCK WENT ON THE CASE BEHIND THEM, AND A MAN IN A FLEECE WALKED DOWN THAT STREET TOWARD A PARADE WITH HIS HANDS IN HIS POCKETS.**
