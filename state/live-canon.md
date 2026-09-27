@@ -6,7 +6,7 @@
 
 **Why this file exists: `state/continuity.md`, `state/open-threads.md`, `state/character-state.md`, `state/chapter-summaries.md` and `state/batch-summaries.md` are append-only histories and together run to several megabytes. They are NOT to be pruned, truncated or compacted by a writer, because a figure, a date or a figure-count in an old block is the only record that a figure was ever spent, and deleting a block loses it permanently. They are also not readable whole. So every prompt names the one block that is the hand-over, and this file is what can be read whole.**
 
-**Last rebuilt: after the Batch 0004 review repair. The series is at 234 of 720.**
+**Last rebuilt: after the Batch 0004 review repair. THE SERIES IS NOW AT 244 OF 720 AND THE BATCH 0005 BLOCK AT THE END OF EACH STATE FILE IS THE HAND-OVER. §3, §4, §5 AND §11 BELOW WERE WRITTEN FOR 234 AND ARE **NOT** REBUILT HERE; WHERE THEY DISAGREE WITH THE BATCH 0005 BLOCK, WHICH IS ABOVE THIS FILE IN THE ORDER OF AUTHORITY, THE BATCH 0005 BLOCK IS RIGHT.**
 
 ---
 
@@ -14,12 +14,12 @@
 
 | File | The block to read | Its size problem |
 | --- | --- | --- |
-| `state/continuity.md` | **"VOLUME 05, BATCH 0004 — CHAPTERS 225–234 — Sunday 28 February to Saturday 16 April 2016"**, at the end, §1–§16 | ~1.4 MB total, 16 sections in the live block |
-| `state/open-threads.md` | **"VOLUME 05 OPEN THREADS — after Batch 0004, Chapter 234"**, at the end | ~460 KB total |
-| `state/character-state.md` | **"VOLUME 05, BATCH 0004 — CHARACTER STATE AFTER CHAPTER 234"**, at the end | ~455 KB total |
-| `state/chapter-summaries.md` | the ten entries for **0225–0234** | ~825 KB total |
-| `state/batch-summaries.md` | the **Volume 05 Batch 0004** entry | ~426 KB total |
-| `state/current.md` | the calendar at the top and **"THE STATE OF THE CITY AT THE END OF CHAPTER 234"** at the bottom | ~170 KB total |
+| `state/continuity.md` | **"VOLUME 05, BATCH 0005 — CHAPTERS 235–244 — Thursday 21 April to Saturday 4 June 2016"**, at the end, §1–§16. The Batch 0004 block sits above it and still governs everything those ten chapters did. | ~1.5 MB total, 16 sections in the live block |
+| `state/open-threads.md` | **"VOLUME 05 OPEN THREADS — after Batch 0005, Chapter 244"**, at the end | ~470 KB total |
+| `state/character-state.md` | **"VOLUME 05, BATCH 0005 — CHARACTER STATE AFTER CHAPTER 244"**, at the end | ~465 KB total |
+| `state/chapter-summaries.md` | the ten entries for **0235–0244** | ~835 KB total |
+| `state/batch-summaries.md` | the **Volume 05 Batch 0005** entry | ~436 KB total |
+| `state/current.md` | the calendar at the top and **"THE STATE OF THE CITY AT THE END OF CHAPTER 244"** at the bottom | ~180 KB total |
 
 **The prompt names these blocks instead of the files. A writer who tries to read a whole state file will run out of context and stop, and that is what happened in Batch 0004.**
 
@@ -27,9 +27,9 @@
 
 ## 2. WHERE THE SERIES STANDS
 
-- Volume 01 complete, Chapters 1–48. Volume 02 closed, 49–100. Volume 03 closed, 101–144. Volume 04 closed, 145–194. **Volume 05 is running, 195–234.**
-- **Volume 05 is *The Borrowed City*. It opened Thursday 24 September 2015 and has run to Saturday 16 April 2016 in four batches.** Batch 0001 was 195–204, 0002 was 205–214, 0003 was 215–224, 0004 was 225–234. The next batch is 235–244.
-- **ON THE PAGE, VOLUME 05 IS 195–242 AND VOLUME 06 BEGINS AT 243. THE NEXT BATCH'S TEN CARDS RUN TWO PAST THAT. THIS IS AN UNRESOLVED BOUNDARY AND IT IS A HUMAN'S, NOT A WRITER'S. No outline may be rewritten to hide it. If a human has not decided, write all ten cards as dated, mark 243 and 244 as belonging to no volume, and do not create a Volume 06 outline or a volume-close prompt.**
+- Volume 01 complete, Chapters 1–48. Volume 02 closed, 49–100. Volume 03 closed, 101–144. Volume 04 closed, 145–194. **Volume 05 is running, 195–244, and is not closed and is not declared closed.**
+- **Volume 05 is *The Borrowed City*. It opened Thursday 24 September 2015 and has run to Saturday 4 June 2016 in five batches.** Batch 0001 was 195–204, 0002 was 205–214, 0003 was 215–224, 0004 was 225–234, 0005 was 235–244. **THE COMPACT, THE RIGHT OF RETURN, THE PUBLIC PART, THE SACRIFICE, THE THREE WEEKS, THE PACT HOLDING, THE WIDER CIVIC EXPERIMENT AND THE VOLUME'S OWN NEW QUESTION ARE ALL SPENT AND UNRESOLVED. WHAT IS AHEAD IS THE RESOLUTION ONLY.**
+- **ON THE PAGE, VOLUME 05 IS 195–242 AND VOLUME 06 BEGINS AT 243. CHAPTERS 243 AND 244 HAVE NOW BEEN WRITTEN AND BELONG TO NO VOLUME, BECAUSE NO HUMAN HAD DECIDED THE BOUNDARY WHEN THEY WERE WRITTEN. THIS IS AN UNRESOLVED BOUNDARY AND IT IS A HUMAN'S, NOT A WRITER'S. No outline may be rewritten to hide it. NO VOLUME 06 OUTLINE AND NO VOLUME-CLOSE PROMPT WERE WRITTEN AND NEITHER MAY BE WRITTEN BY A WRITER. The next phase is a CONTINUATION BATCH, Chapters 245 onward, and it may not be dated before Saturday 4 June 2016.**
 - The planned ending is in `outline/ending.md` and is not to be changed. **No new final enemy may be introduced without flagging it.**
 
 ---
