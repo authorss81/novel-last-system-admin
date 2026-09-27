@@ -2,7 +2,7 @@
 
 Sunday the eighteenth of October 2015, from about half past two in the afternoon, a room over a shop in Tideglass.
 
-**A SHOP STEWARD SAID THE ONE SENTENCE NOBODY IN THIS BOROUGH HAS SAID OUT LOUD IN A ROOM, AND IT WAS THAT A PERMISSION AND AN OBLIGATION ARE OPPOSITES, AND THIS BOROUGH HAS BEEN LIVING ON THE SECOND ONE FOR NINE MONTHS, AND IT WAS HANDED THE FIRST ONE SIX DAYS AGO IN PRINT, AND A MAN WENT OFF WITH IT ON TUESDAY MORNING IN AN ENVELOPE.**
+**A SHOP STEWARD SAID THE ONE SENTENCE NOBODY IN THIS BOROUGH HAS SAID OUT LOUD IN A ROOM, AND IT WAS THAT A PERMISSION AND AN OBLIGATION ARE OPPOSITES, AND THIS BOROUGH HAS BEEN LIVING ON THE SECOND ONE FOR NINE MONTHS, AND IT WAS HANDED THE FIRST ONE EIGHTEEN DAYS AGO IN PRINT, AND A MAN WENT OFF WITH IT TWELVE DAYS AGO ON A TUESDAY MORNING IN AN ENVELOPE.**
 
 There is a branch meeting in that room on Sundays because the room is free on Sundays and the people in it work six days, and about nine of them came, and a woman of about thirty-six called Mrs Obi was taking the minutes in her own hand on a pad she takes home with her, as she does every three months.
 
@@ -32,17 +32,17 @@ Nobody said anything for about four seconds.
 
 "That is the August document," said Jonas Mercer.
 
-"That is the August document," said Tomas Renn. "Clause three and clause one and the field with four things in it, and I asked for it in a room like this one in March, and I wrote it down, and somebody has it, and I am not withdrawing it. I am going to keep asking for it in this room every three months until somebody gives it to me. I want that written down as well."
+"That is the August document," said Tomas Renn. "Clause three and clause one and the field in clause two with four things in it, and I asked for it in a room like this one in March, and I wrote it down, and somebody has it, and I am not withdrawing it. I am going to keep asking for it in this room every three months until somebody gives it to me. I want that written down as well."
 
 Nobody argued with him. There was nothing to argue with, and the room had heard it, and a man in an apron at the back said *he's right* to nobody in particular and meant it.
 
 **AND THEN HE SAID THE THING, AND HE SAID IT WITHOUT ANY PREPARATION AT ALL, AND NOBODY IN THE ROOM HAD SAID IT BEFORE.**
 
-"Read clause two of the thing that came on Wednesday. A person who is asked takes the work or does not take it, at the hour the work begins. Read clause three of the order that was made in August. A person who has been called on may not decline." He put both hands flat on the table. "Those are opposites. One of them is a door. The other one is a hand on it. This borough has been standing on the hand for nine months and it has worked, and the reason it has worked is that the only thing anybody has ever been able to put on anybody in this city is a hand, and the hand does not need a reason, and nobody has ever been able to write the reason down."
+"Read clause two of the thing that came across the water on the Wednesday at the end of September. A person who is asked takes the work or does not take it, at the hour the work begins. Read clause three of the order that was made in August. A person who has been called on may not decline." He put both hands flat on the table. "Those are opposites. One of them is a door. The other one is a hand on it. This borough has been standing on the hand for nine months and it has worked, and the reason it has worked is that the only thing anybody has ever been able to put on anybody in this city is a hand, and the hand does not need a reason, and nobody has ever been able to write the reason down."
 
 He turned round for the first time.
 
-"Last Tuesday a man of about thirty-seven was told at ten past six in the morning in a yard that he had fourteen days, and he had said yes on the Saturday before, and nobody had told him, and he went, and he is all right, and he is paid. That is a door. That is the first door anybody has handed anybody in this city in nine months and it came from across the water in an envelope, and every sentence in it is right, and I have read it twice and I could not find one thing in it I would change."
+"Twelve days ago on a Tuesday a man of about thirty-seven was told at ten past six in the morning in a yard that he had fourteen days, and he had said yes on the Saturday before, and nobody had told him, and he went, and he is all right, and he is paid. That is a door. That is the first door anybody has handed anybody in this city in nine months and it came from across the water in an envelope, and every sentence in it is right, and I have read it twice and I could not find one thing in it I would change."
 
 "Somebody did have to tell him," said a man of about twenty-eight.
 
@@ -64,7 +64,7 @@ Nobody asked him for anything else and he was not asked, and then Renn looked at
 
 Renn did not answer that. He looked at the table for about two seconds and then he said, "That is the first useful thing anybody has said to me in six months, and I am not going to repeat it, and Mrs Obi was not going to get that down anyway."
 
-"Two documents," Renn said. "One made in this city in August by a councillor, and one that came across the water on Wednesday from a duty clerk, and there is not one word in either of them about the other, and neither of the people who wrote them has ever spoken to the other one, and that is not a scandal, that is just two pieces of paper that happen to be about the same city."
+"Two documents," Renn said. "One made in this city in August by a councillor, and one that came across the water on the Wednesday at the end of September from a duty clerk, and there is not one word in either of them about the other, and neither of the people who wrote them has ever spoken to the other one, and that is not a scandal, that is just two pieces of paper that happen to be about the same city."
 
 **AND THEN HE SAID THE THING THAT WAS STILL HIS, AND HE SAID IT TO JONAS MERCER, AND IT HAS NOT BEEN ANSWERED AND IS NOT ANSWERED NOW.**
 
@@ -78,4 +78,4 @@ Jonas Mercer did not argue with that either.
 
 The woman with the minutes said, "I'll write them down," and wrote them down, and that is the only piece of paper that came out of that room that afternoon. It is a list of three things in one woman's hand on a pad she has taken home, and it is not in a field, and nobody in this city could produce it if they were asked. Mrs Obi was not asked. Nobody who had anything to do with the document made in August was in that room, and none of them is going to be asked about it either.
 
-They left at about half past three. It was an ordinary Sunday afternoon in Tideglass and the weather had turned again and the room went back to being a room over a shop, and the pad went home in a handbag, and the eight of them went out into a street that was no busier or quieter than the day before, and nothing anywhere in this city says that three things were asked for on it.
+They left at about half past three. It was an ordinary Sunday afternoon in Tideglass and the weather had turned again and the room went back to being a room over a shop, and the pad went home in a handbag, and the nine of them went out into a street that was no busier or quieter than the day before, and nothing anywhere in this city says that three things were asked for on it.

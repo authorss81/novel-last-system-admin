@@ -2,7 +2,7 @@
 
 Friday the thirtieth of October 2015, from about half past three in the afternoon, a canteen in a building in Tideglass.
 
-**A PRINTED SHEET WENT ROUND NINE BUILDINGS IN JUNE WITH NINE LINES ON IT AND EVERY ONE OF THEM SAYING *no requirement stated*, AND IT IS A LEVEL OF SERVICE, AND IT IS THE ONLY ONE IN THIS BOROUGH, AND IT IS IN ALL NINE OF THOSE BUILDINGS STILL, AND NOBODY PUT A NAME ON IT.**
+**THE HATCH ON THAT CANTEEN GOES UP ON A FRIDAY AFTERNOON FOR ONE MAN AND ONE PERSON PUTS IT UP, AND THE ONLY THING IN THIS BOROUGH THAT COULD BE CALLED A LEVEL OF SERVICE IS A PRINTED SHEET THAT WENT ROUND NINE BUILDINGS IN JUNE WITH NINE LINES ON IT, EVERY ONE OF THEM SAYING *no requirement stated*, AND IT IS IN ALL NINE OF THOSE BUILDINGS STILL, AND NOBODY PUT A NAME ON IT.**
 
 The canteen is on the ground floor and it shuts its hatch at two. It has shut its hatch at two for about nine years. There is a hatch and a counter and about nine tables and a woman of about sixty-four behind it called Beryl, who has worked there for six years and was on the counter before her, and who is not on anything, and there is no document in that building with her name on it.
 
@@ -12,7 +12,7 @@ A man of about thirty-one comes in at about ten to three every Friday and has do
 
 That is the whole of the correct thing. She opens the hatch on Friday afternoons for a man of about thirty-one who comes at ten to three, and nobody asked her to, and nobody can, and the kitchen staff had gone at two, and she does it herself with a mop and a bucket and about six minutes of a gas ring, and it costs her a half hour of her own time on a Friday, which is the most expensive half hour in this building and is not in any budget because there is no budget for it and no line for it.
 
-**AND IT WAS THE ELEVENTH TIME HE HAD WATCHED SOMEBODY IN THIS BOROUGH DO A CORRECT THING AND WRITE NOTHING DOWN, AND HE HAD BEEN COUNTING SINCE THE SPRING, AND HE HAD NEVER TOLD HER, AND SHE HAD NEVER ASKED HIM ANYTHING.**
+**AND SOMEBODY SAID THE SENTENCE THAT IS ALWAYS AVAILABLE IN THAT KIND OF ROOM, WHICH IS THAT SOMEBODY OUGHT TO WRITE IT DOWN, AND IT WAS A MAN WHO WANTS HIS TEA AND IS IN NO HURRY, AND A WOMAN OF ABOUT SIXTY-FOUR BEHIND A HATCH THAT SHUTS AT TWO SAID NO IN ONE WORD.**
 
 Jonas Mercer had eaten in this room on and off since the middle of May. He had watched that hatch go up twice, and both times it had been the woman doing it and nobody else in the room, and both times he had thought *there is a thing that happens here* and had gone on drinking his tea, because that is what a thing that happens is. It happens, and it goes on happening, and a room can tell you that it happened and cannot tell you when it will happen again, and that is as much as anybody gets anywhere in this borough and it is not a thing anybody can be shown.
 

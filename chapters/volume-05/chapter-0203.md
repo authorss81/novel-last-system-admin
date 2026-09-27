@@ -40,7 +40,7 @@ The hall was not quiet. Nine people in a hall on a Saturday morning are never qu
 
 "No," he said. "It is a worse one, and you should be annoyed with me, and I would be, if it were my hall."
 
-A man at the back said the square was obviously for a district nobody had made yet, and the woman of about forty-two said no it was not, it had no term in it and a district with no term in it is not a district, which is correct, and then a woman of about twenty-four said it was for a person, and about four people said that was not what a square is on a drawing, and a man of about seventy-nine said the whole thing was a poster and had been since the eighteenth of September, and a man of about thirty-one said his mate had said it was where they put the thing they had not decided yet, and nobody laughed.
+A man at the back said the square was obviously for a district nobody had made yet, and the woman of about forty-two said no it was not, it had no term in it and a district with no term in it is not a district, which is correct, and then a woman of about twenty-four said it was for a person, and about four people said that was not what a square is on a drawing, and a man of about seventy-nine said the whole thing was a poster and had been since the eighteenth of September, and a man of about eighty-two said his mate had said it was where they put the thing they had not decided yet, and nobody laughed.
 
 "Which is not the same as nothing," said Jonas Mercer. "If somebody drew a square and left it, that is somebody drawing a square and leaving it. It is not a district, because it has no term in it. It is not a seat either, because a seat on that sheet is a shape with a name over it and there is no name over this one, and there is no person on any of that paper anywhere, and that is not an oversight. And the line that comes into it from the district above goes nowhere, and it goes nowhere because there is nothing on the other end of it yet."
 
@@ -50,9 +50,7 @@ A man at the back said the square was obviously for a district nobody had made y
 
 Nobody said anything for a moment. Then the woman putting chairs out said, "Are you the one who's on all of them?" meaning the drawing, and he said no, and she said sorry, and it was over.
 
-**A ROOM CAN HOLD A SENTENCE AND A ROOM CANNOT HOLD A PERSON.**
-
-What has happened is that there is a fact about a drawing in a room in Tideglass, said out loud in front of a roomful of people by a man of about thirty-two who read it on a Friday in September and had said nothing for seven weeks. In about a week some of those nine will have told about nine other people and two of those will have got it slightly wrong, which is what a sentence does. The sentence is in the room now and it cannot be got back out of the room, and there is no way of knowing on any evening in December which room it is in or who is in it.
+What has happened is that there is a fact about a drawing in a room in Tideglass, said out loud in front of a roomful of people by a man of about thirty-two who read it on a Friday in September and had said nothing for seven weeks. There is no box on a room. A room can hold a sentence and a room cannot hold a person, and in about a week some of those nine will have told about nine other people and two of those will have got it slightly wrong, which is what a sentence does. The sentence is in the room now and it cannot be got back out of the room, and there is no way of knowing on any evening in December which room it is in or who is in it.
 
 Nothing was given to him for it. He did not get a department out of it and he did not get a form, and nobody stood up and gave him anything, because it was half past ten on a Saturday in a hall and the nine people in it had come about a class and about a warm room.
 

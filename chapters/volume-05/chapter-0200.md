@@ -56,7 +56,7 @@ The man of about seventy-six sat with his hands on his knees. He said, "I have h
 
 "Yes," she said. "You could have posted it in April and you did not, and there is nothing in this city that could have made you, and the reason you did not is that you are a careful man, and I have not been able to get a careful man in a room with a piece of paper with a person's name on it in three years."
 
-He left at about half past eleven with the A4 folded again in his pocket. He said thank you to her on the stairs, which she has never once asked anybody not to do, and she said it was all right, and neither of those things was about the case. The man of about seventy-one left with him and said on the landing that the power of attorney could be got, and she said yes it could, and let him say it twice.
+He left at about half past eleven with the A4 folded again in his pocket. He said thank you to her on the stairs, and she said it was all right, and neither of those things was about the case. The man of about seventy-one left with him and said on the landing that the power of attorney could be got, and she said yes it could, and let him say it twice.
 
 **AND BEING RIGHT IS NOT A FINDING, AND IT IS NOT A VICTORY, AND IT IS NOT A LOSS, AND ON THE TABLE BY THE WINDOW THE FOUR BOXES ARE AS EMPTY AS THEY WERE AT TEN PAST TEN.**
 

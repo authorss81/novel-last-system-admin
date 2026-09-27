@@ -18,7 +18,7 @@ The man of about sixty-two was standing by the window with his coat still on.
 
 "Would you," said Sandiford, and wrote nothing down, and the room did not laugh and she had not said it to be funny.
 
-She read the seventh row out because he asked her to, twice, and it is what it says on the last Friday of the month: Ewen Ashgrove, about sixty-two, at Alderwick, contract renewed, fourteen days, present since 11 August, no absence, no claim, no contact with the sending city.
+She read the seventh row out because he asked her to, twice, and it is what it says on the last Friday of the month: Ewen Ashgrove, about sixty-two, at Alderwick, contract renewed six times, fourteen days, present since 11 August, no absence, no claim, no contact with the sending city.
 
 Then somebody at the back of the room — a woman of about thirty-eight who had come with a folder and had not said anything up to that point — said the true thing.
 
@@ -38,7 +38,7 @@ Nobody answered her. And the reason nobody answered her is not that she was wron
 
 He said it to the table and not to anybody in it, the way a person says a thing they have had ready since Friday and have been carrying across an estuary on a Monday morning in a coat.
 
-"That is the whole of it. There is no part of this anybody asked me for. I did not write. I did not ring. I have not sent anything to anybody in this city since April and I was not going to, and I have not, and on Wednesday the thirtieth of September I was working on a gully in a city where I have never lived and a woman on a different side of the water wrote my name in a line on a piece of A4, and that is all it took, and I am not being dramatic about it, I am telling you what happened because you have all got a piece of paper in front of you and I think somebody ought to have said it in the room."
+"That is the whole of it. There is no part of this anybody asked me for. I did not write. I did not ring. I have not sent anything to anybody in this city since April and I was not going to, and I have not, and on Wednesday the thirtieth of September I was on a pumping station in a city I had been living in for seven weeks, and a woman in an office in that city wrote my name in a line on a piece of A4, and that is all it took, and I am not being dramatic about it, I am telling you what happened because you have all got a piece of paper in front of you and I think somebody ought to have said it in the room."
 
 Nobody said anything.
 
