@@ -42,7 +42,7 @@ The woman who runs that shop came out through the kitchen at about a quarter to 
 
 "Nothing," said the man in his thirties. "It's a barrow."
 
-The man who had moved in came in through the gate at about ten past ten with a bag of shopping and stood in the middle of that yard in his coat without a coat on, and the three of them had a conversation about a barrow in about nine hundred words over about six minutes, and none of the three of them established anything.
+The man who had moved in came in through the gate at about ten past ten with a bag of shopping and stood in the middle of that yard in his coat without a coat on, and the three of them had a conversation about a barrow over about six minutes, and none of the three of them established anything.
 
 The woman who ran the shop said the barrow was in the way of the oil tank and had been in the way of the oil tank since September and that the man on the insurance wanted to know what was behind the door because of the oil tank. The man who had moved in said the tray had a dent in the corner and that the dent was the same one he had beaten out in the summer in a yard about four miles off, and that if it was the same one then somebody else had had it off him first, and that he was not going to be the one to say. The man in his thirties said he had never had a barrow off anybody and had never seen that one in his life.
 

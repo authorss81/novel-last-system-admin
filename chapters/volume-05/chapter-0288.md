@@ -12,7 +12,7 @@ The woman with the clipboard was at the end of it, on her own, with a hard hat a
 
 She is doing a course. There is a college that runs a certificate and the certificate wants a tally of footfall and she had asked the man in the office of that college whether she could do it at the top of Marsh Lane and he had said yes, and nobody in this borough has asked her what she is doing and nobody has offered to help.
 
-There was a woman in a green coat at the front of the plants and a man of about sixty behind the potatoes and a bus came at about half past ten and went off up the Cleeve road with nine people on it.
+There was a woman in a green coat at the front of the plants and a man in a wax jacket behind the potatoes and a bus came at about half past ten and went off up the Cleeve road with nine people on it.
 
 The man from the parade stood about four foot from the woman with the clipboard and looked at the people on the hard for a while, and then he said, out loud, in the open air, to nobody in particular, which was the first time in about four months he had said it anywhere but a room.
 
@@ -44,7 +44,7 @@ He did not know that about nine people had heard the same shape of that sentence
 
 The woman in the green coat went back to her table and started putting paper round a tray of bulbs, and the man in the wax jacket went back to his potatoes, and the man from the parade went off down the parade to open his shop, and the question went down the lane with him and did not come back out into the street.
 
-At about a quarter to twelve the woman with the clipboard got a sheet off her board, and the bus came in and went out, and she wrote a one against a column headed for a quarter of an hour without looking up, and then she wrote something else underneath it in the box where the notes went, and then she took her gloves out of her pocket and put them on and packed the board under her arm and carried it back down the lane to a car park, and she did not speak to the man in the wax jacket or the woman in the green coat or anybody else, and the pitch was bare by about half past one, and the man of about sixty took his barrow up the parade singing.
+At about a quarter to twelve the woman with the clipboard got a sheet off her board, and the bus came in and went out, and she wrote a one against the quarter of an hour column without looking up, and then she wrote something else underneath it in the box where the notes went, and then she took her gloves out of her pocket and put them on and packed the board under her arm and carried it back down the lane to a car park, and she did not speak to the man in the wax jacket or the woman in the green coat or anybody else, and the pitch was bare by about half past one, and the man in the wax jacket took his barrow up the parade singing.
 
 The man in his forties was at the bus shelter at about a quarter to twelve with a folded piece of paper in his pocket and he had heard the whole of it from about twenty foot away, and the man from the parade came past him going down and stopped.
 

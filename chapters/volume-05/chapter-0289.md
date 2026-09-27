@@ -10,7 +10,7 @@ There was no fire in it on that Sunday because there was nobody in it.
 
 She had come off the bus at about twenty past three with her bag of books and gone the length of that parade because there was nothing on and the rain had stopped, and she went up the stair at the back of that shop because the door of that stair was open and it is never locked, and she went in and shut it behind her, and the room was cold and smelled of ashtrays and old card.
 
-There was a table with the baize on it, six chairs, and a fire in a grayed-out hearth, and one of those six chairs was the chair nearest the door.
+There was a table with the baize on it, six chairs, and a hearth with the fire out of it and the grate gone grey, and one of those six chairs was the chair nearest the door.
 
 The other five had cushions on them. That one had not, and it had not had one since the summer, and she noticed that when she put her bag down on the table, which is a thing that takes about two seconds and does not mean anything at the time.
 
@@ -22,11 +22,11 @@ She did not put it on the chair, exactly. She put it on the seat and pushed it b
 
 He came in on the Tuesday with his own key, as he does, and he opened the room, and put the fire in, and put the jug on, and about five of them came up between half past seven and a quarter to eight and played one hand and then three more, and one of them said, at about ten o'clock, that the cold was getting into that room from the back, and the man in his thirties said it had been getting into that room from the back since about the summer, and nobody went and looked at the wall.
 
-The cushion was on the chair nearest the door the whole of that night, and two of the five sat on the other five, and one of the five pulled that chair out a foot to get at the fire and pushed it back with the cushion still on it, and at about half past ten they went down the stair and he shut the hatch and locked the room and went.
+The cushion was on the chair nearest the door the whole of that night, and two of the five sat on the other five chairs, and one of the five pulled that chair out a foot to get at the fire and pushed it back with the cushion still on it, and at about half past ten they went down the stair and he shut the hatch and locked the room and went.
 
 It was the same on the Tuesday after that, and the Wednesday after that, and the Tuesday after that.
 
-The room was opened and shut twice a week for a fortnight. A man came up with a fire and a jug and five men and a woman came up with a fire and a jug and four men, and the green baize was bald in the middle on every one of those nights, and the cushion was on the chair nearest the door on every one of those nights, and nobody looked at it twice, and nobody ever sat on it, and nobody mentioned it, and it did not gather dust because there was no dust in that room worth the name.
+The room was opened and shut twice a week for a fortnight. A man came up with a fire and a jug, and on some of those nights five came up behind him and on some of them four, and the green baize was bald in the middle on every one of those nights, and the cushion was on the chair nearest the door on every one of those nights, and nobody looked at it twice, and nobody ever sat on it, and nobody mentioned it, and it did not gather dust because there was no dust in that room worth the name.
 
 It is not a thing anybody would describe if they were asked to describe the room, and if the man in his thirties had been asked on the Wednesday what was in it he would have said a table, six chairs, a fire and a jug, and he would have been right about all four and would not have mentioned the sixth chair twice.
 

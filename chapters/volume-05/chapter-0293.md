@@ -2,7 +2,7 @@
 
 Friday the twenty-seventh of January 2017, from about twenty to eight in the morning, a kitchen at the back of a parade in Tideglass.
 
-**HE WAS IN FOUR PLACES BEFORE HALF PAST EIGHT IN THE EVENING, AND SOMEBODY AT A TABLE ASKED HIM ONE QUESTION, AND HE ANSWERED IT, AND NOBODY AT THAT TABLE DID ANYTHING WITH THE ANSWER.**
+**HE WAS IN FIVE PLACES BEFORE HALF PAST EIGHT IN THE EVENING, AND SOMEBODY AT A TABLE ASKED HIM ONE QUESTION, AND HE ANSWERED IT, AND NOBODY AT THAT TABLE DID ANYTHING WITH THE ANSWER.**
 
 The kitchen at the back of that parade had about nine plates in the sink at half past seven on the Friday morning and the machine that heats the water has a timer on it that nobody has ever reset, and the clock on that wall says ten to nine when it is about a quarter to nine.
 
