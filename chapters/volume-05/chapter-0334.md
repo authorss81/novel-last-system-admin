@@ -2,7 +2,7 @@
 
 Saturday the eighth of July 2017, from about half past eight in the morning until about ten o'clock at night, a hall on Carrow Lane in Tideglass.
 
-**THE HOTTEST EVENING OF THAT YEAR SO FAR CAME DOWN TO A STREET WITH A SHUTTER GOING UP AT THE FAR END OF IT, A VAN THAT STOOD AND WENT, A MAN WHO WENT UP A STREET WITH A BAG AND CAME BACK DOWN WITHOUT ONE, NINE PEOPLE IN A ROOM, A HARD-BACKED BOOK ON A SHELF IN A BUILDING BY THE WATER WITH NOTHING WRITTEN ON A LINE UNDER THE LAST THING IN IT, FOUR SENTENCES STILL GOING ROUND THAT TABLE, AND ONE QUESTION THAT NOBODY ANSWERED.**
+**A HALL ON CARROW LANE HAS HELD EIGHT OF THEM ON A SATURDAY NIGHT SINCE THE TWELFTH OF JANUARY, AND ON THE EIGHTH OF JULY IT HELD NINE, AND THE ONE THING THE HEAT DID FOR THAT ROOM WAS TO MAKE EVERYBODY SIT CLOSER TOGETHER, AND NOT ONE PERSON IN IT SAID SO OUT LOUD.**
 
 It was the hottest day that year had managed. The tar outside was soft at the kerb by one in the afternoon and the front of that hall has a window that looks out over a parade of shops, and at about a quarter to nine that evening a man was on a ladder at the shutter of the shop at the far end of it and he was doing it on his own, and he came down the ladder and folded it and carried it twenty yard and put it up again at the next one.
 
@@ -78,7 +78,7 @@ The man in his forties put both hands flat on the boards of that table.
 
 "That's right," said the man in a fleece, and not unkindly, and that was the end of it. He lifted his cup and drank, and the man in his forties turned his cup round on the boards, and nobody at that table carried it any further.
 
-Then the man in his thirties said that the two slates on that corner gable are still on that gable with the nail heads a good deal further out of them than they were in May, and the man in his forties said he had it from a man in a shop and he was not going to build on a man in a shop, and the man in his thirties said aye.
+Then the man in his thirties said that the gutter on that parade has come away from the kerb for about a yard outside the fish shop and that there is a puddle standing in it every time it rains, and the woman who works in a shop said her bin has been stood in that puddle since April, and the man in his thirties said he had not seen her bin in it, and she said he had not been down that end since April, and the man who does that hall said there was tea in the urn for anybody who wanted some, which is what he says.
 
 Nobody turned the corner lamp off and nobody had to, because that one comes on by itself at that time in the year and stays on until about half past six in the morning, and the case was shut and locked at about twenty past nine, and the chairs went up on the wall afterwards one at a time by whoever was nearest, and the man who does that hall did the last two without asking anybody for help with either of them, and the porch light on that side of the door was on the whole of the time and nobody in that hall knows which of the two of them turned it on.
 

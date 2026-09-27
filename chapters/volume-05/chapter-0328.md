@@ -1,6 +1,6 @@
 # Chapter 0328 — The Bin Day
 
-Sunday the eleventh of June 2017, from about a quarter past nine in the morning until about half past eleven, the bottom of the Cleeve road, a parade off it, and a shop on that parade, in Tideglass.
+Sunday the eleventh of June 2017, from about a quarter past nine in the morning until about a quarter past eleven, the bottom of the Cleeve road, a parade off it, and a shop on that parade, in Tideglass.
 
 **TWO MEN WHO HAVE NEVER SPOKEN TOLD TWO STRANGERS ON ONE MORNING THAT THE RUBBISH ON THAT STRETCH IS GOING ON A DIFFERENT DAY, AND THE TWO THINGS THEY SAID CANNOT BOTH BE RIGHT, AND A WOMAN WHO HEARD BOTH OF THEM SAID THAT NEITHER OF THEM WAS NOISE.**
 

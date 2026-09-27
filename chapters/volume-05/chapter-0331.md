@@ -24,7 +24,7 @@ He had been in that street at the half-hour look at the gap on the Thursday, at 
 
 The man in a fleece said that was fine and went on down the street, and the man in his thirties shut his van and went off down it about ten foot and then stood still in the road, because he had heard the sentence he had just said going away from him down the pavement and he knew the shape of it.
 
-He had not said he would look at it. That is the whole of what was wrong with it, and it took him about four seconds on that Sunday morning nine days later to work out what it was, and by then it had been said at a door on the Friday to a man in a fleece and there was nobody to unsay it to.
+He had not said he would look at it. That is the whole of what was wrong with it, and it took him about four seconds on that Sunday morning nine days later to work out what it was, and by then it had been said at a door to a man in a fleece and there was nobody to unsay it to.
 
 ---
 
@@ -38,7 +38,7 @@ The woman with a clipboard was on that beat at about a quarter past ten and she 
 
 She was about thirty houses down that one side when she got to the low end and there were three lengths of close-board against a wall inside a gate and a man standing in the road drinking something out of a cup with a bag at his feet.
 
-She wrote a figure against that gate on her sheet and then she did not write the second thing, and the man in his forties has never found out that there was a space on it, and neither has anybody else.
+She wrote a figure against that gate on her sheet and then she did not write the second thing, and the man in his thirties has never found out that there was a space on it, and neither has anybody else.
 
 "You're on that gate twice," she said, to him rather than to the yard. "I've had a fella tell me one number and a woman tell me another and I know it's one gate."
 
@@ -50,7 +50,7 @@ She wrote a figure against that gate on her sheet and then she did not write the
 
 She waited, and he was not going to be let off, and he had not expected to be.
 
-"I said it at that door on the Friday," said the man in his thirties, "to a man in a fleece, standing on the step, at about a quarter to ten. I said I'd have those three lengths into that gap before the end of the month. I did say it, and I am not going to come at you now and say I said something else, because I didn't, and because a man in a fleece has already said to you what I said and there is no version of this where I get to be the one that was misheard."
+"I said it at that door last week," said the man in his thirties, "to a man in a fleece, standing on the step, at about a quarter to ten. I said I'd have those three lengths into that gap before the end of the month. I did say it, and I am not going to come at you now and say I said something else, because I didn't, and because a man in a fleece has already said to you what I said and there is no version of this where I get to be the one that was misheard."
 
 "Well," said the woman with a clipboard.
 
@@ -66,7 +66,7 @@ The woman with a clipboard wrote something on the edge of her sheet, about a qua
 
 "Right," she said.
 
-"The reason is not the rain and it's not that I can't be bothered," said the man in his thirties. "It's that to start it I have to walk into that yard through a gate on a latch and unbolt nothing and shut nothing behind me, and there is nobody in that house I know and nobody has asked me for anything, and a man in a fleece was standing on a doorstep and not in that yard, and a man who promises a thing in a yard from a doorstep has promised a thing about somebody else's house. I'm not going to go in there on a wet morning in July and be a man in a yard that a person comes home to. And I said it anyway, out loud, on that Friday in a road, to a man who was not going to have to live next to it."
+"The reason is not the rain and it's not that I can't be bothered," said the man in his thirties. "It's that to start it I have to walk into that yard through a gate on a latch and unbolt nothing and shut nothing behind me, and there is nobody in that house I know and nobody has asked me for anything, and a man in a fleece was standing on a doorstep and not in that yard, and a man who promises a thing in a yard from a doorstep has promised a thing about somebody else's house. I'm not going to go in there on a wet morning in July and be a man in a yard that a person comes home to. And I said it anyway, out loud, on a doorstep in a road, to a man who was not going to have to live next to it."
 
 "You could say that to him now."
 
@@ -74,7 +74,7 @@ The woman with a clipboard wrote something on the edge of her sheet, about a qua
 
 The woman with a clipboard put her pencil behind her ear.
 
-"I've got thirty houses on this sheet and there's about two inches left on this page," she said. "And I'm not going to write a man's name on this sheet because a man said a thing on that Friday in a road and did not do it, and I'm not going to put a tick or a number against it either, because the second one of those is a thing about that yard and the first one is a thing about you, and neither of them is a thing that street is."
+"I've got thirty houses on this sheet and there's room on it for about two more," she said. "And I'm not going to write a man's name on this sheet because a man said a thing in a road and did not do it, and I'm not going to put a tick or a number against it either, because the second one of those is a thing about that yard and the first one is a thing about you, and neither of them is a thing that street is."
 
 "Then what is it."
 

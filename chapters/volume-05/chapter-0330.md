@@ -46,6 +46,8 @@ The first is the one that was there for four weeks. The second is the one that i
 
 And there is no fourth, and there has never been a fourth that he has seen, and nobody in this borough has ever mentioned a white wrapped thing to him except the woman who works in a shop, and what she said was that he had told her about it.
 
+A fortnight and a day ago he had stood in the doorway of that shop and put it to the woman who works in a shop that he had never counted anything in this town, and that the day anybody started counting was the day a thing like this stopped being a thing a man kept to himself. He had not been joking then and he was not joking now. What he had found out between that doorway and this lane was that the two halves of that sentence are not the same half, and that a man can keep one of them and lose the other, and that the way he loses it is to stand in a lane at ten past ten on a Wednesday morning and say a number out loud where a person is standing in the room with him.
+
 He thought about writing it down. He has a pad in the van with about nine lines used in it in six months and a great deal of it is measurements off other people's houses with the address of the other people's house nowhere on the same line. He got into the van and put the pad on the boards and shut it again, because there is nowhere in this town to put a pad with a count on it in it, and a piece of paper in a van with three things on it is a piece of paper that gets put somewhere, and where it gets put is not a thing he can stand behind on a Wednesday.
 
 About half past four he came by the front of that shop on his way up the parade and stopped, and the woman who works in a shop was on the step with a box of something at her feet.

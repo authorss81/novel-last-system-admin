@@ -126,4 +126,4 @@ The woman who works in a shop looked at the floor of her shop for a bit.
 
 The man in his thirties went back at about half past four and took his trestle off that stair and left it on the landing against the wall, and the door is still on the floor of that landing with the paint marks on it and the wardrobe is in the front room of that flat with its foot through the wall, and at the top of that landing a new sash window has a top sash that will not go up and will not go down without being put back into its rebate by hand, which nobody in that building can do.
 
-**A SASH WINDOW ON THAT LANDING IS AN INCH OUT OF ITS REBATE AND A FRONT DOOR IS ON THE FLOOR WITH ITS OWN PAINT MARKS ON IT, AND THE MAN WHO LIVES IN THE GROUND FLOOR FLAT OF THAT BUILDING WENT BACK INSIDE TWICE, AND HE PUT HIS SHOES ON.**
+**A SASH WINDOW ON THAT LANDING IS AN INCH OUT OF ITS REBATE AND A FRONT DOOR IS LAYING ON THE LANDING WITH THE HINGES STILL SCREWED TO THE FRAME, AND A MAN IN A PAIR OF SOCKS PUT HIS SHOES ON BEHIND THAT DOOR AND WENT UP HIS OWN STAIRS.**

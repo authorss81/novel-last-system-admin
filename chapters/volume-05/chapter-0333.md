@@ -46,7 +46,7 @@ He put his bag down beside the counter and stood there, and nobody in that room 
 
 At about ten to seven he said it, across the length of the table, in a voice that was not low, and the other two could both hear it.
 
-"The woman next door along in that building by the water," he said. "I have been in that building every Monday since the middle of January and I have seen that woman in that corridor every Monday of that time, and I have not set eyes on her since a Wednesday three weeks ago. She goes past that bowl twice a day. She is the only other person on that landing and she has been in and out of that door in front of me for seven months, and in seven months the two of them have not said one word to each other, and I have been on that landing the whole time and I have not worked out whether they are not speaking or whether they never were."
+"The woman next door along in that building by the water," he said. "I have been in that building every Monday since the middle of January and I have seen that woman in that corridor every Monday of that time, and I have not set eyes on her since a Wednesday nineteen days ago. She goes past that bowl twice a day. She is the only other person on that landing and she has been in and out of that door in front of me for seven months, and in seven months the two of them have not said one word to each other, and I have been on that landing the whole time and I have not worked out whether they are not speaking or whether they never were."
 
 Nobody in that room answered him.
 

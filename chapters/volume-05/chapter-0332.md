@@ -2,17 +2,17 @@
 
 Friday the thirtieth of June 2017, from about ten in the morning until about half past four in the afternoon, a building by the water in Tideglass.
 
-**A CARPET A MAN WITH A VAN CARRIED UP AN OUTSIDE STAIR IN JUNE HAS BEEN DOWN ON A WOMAN'S BARE BOARDS FOR THREE WEEKS AND IS NOW ON ITS SIDE AGAINST A WALL UNDER A WINDOW, AND ON THE SAME MORNING THAT SAME MAN CARRIED A WOODEN CHEST UP THE SAME STAIR AND PUT IT DOWN ON A STEP AND SHE SAID NO, AND SHE DID NOT SAY WHY, AND HE DID NOT ASK.**
+**THE FLOOR OF THE ROOM AT THE END OF THAT FIRST-FLOOR CORRIDOR IS BARE BOARDS AND HAS BEEN SINCE A WOMAN MOVED INTO IT, AND THERE IS SAND ON THOSE BOARDS IN EVERY WEEK THE WIND IS OFF THE WATER, AND A FOLDED BLANKET HAS BEEN ACROSS THE FOOT OF THAT BED SINCE BEFORE CHRISTMAS, AND AT ABOUT A QUARTER PAST TEN ON THE MORNING OF THE THIRTIETH OF JUNE SOMETHING WENT UP THAT OUTSIDE STAIR AND CAME BACK DOWN IT INSIDE FOUR SECONDS.**
 
 The carpet is off a roll and it had the underlay pinned to the back of it in staples.
 
 It came out of a house on the Cleeve road that he emptied in May for a woman who took herself a long way off with her sister, and it was in the front room, and it is about nine foot by six, and it is a wool one, dark, with a pattern on it that is about four inches apart, and it weighs about the weight of a man and a half.
 
-He carried it up that outside stair on the Friday in the second week of that month and it is not in her room and it is not in the hall and it is not anywhere else in that building. It is on its side against the wall under the window of the room at the end of the first-floor corridor, with the pattern facing into the room and the underlay to the carpet, and it is about a foot thick and about six foot up the wall.
+He carried it up that outside stair in the second week of that month and it is not in her room and it is not in the hall and it is not anywhere else in that building. It is on its side against the wall under the window of the room at the end of the first-floor corridor, with the pattern facing into the room and the underlay to the carpet, and it is about a foot thick and about six foot up the wall.
 
 Here is the whole of how that happened and there is not one person in this borough who could give a second version of it.
 
-She had it down on the floor on the Sunday after that. She put it down with the underlay still pinned to the back of it and the staples in the seams, and she did that in about half an hour, and the short bit went under the bed and the long bit lay in front of the bed with about six inches turned up on the skirting at the wall.
+She had it down on the floor two days after that. She put it down with the underlay still pinned to the back of it and the staples in the seams, and she did that in about half an hour, and the short bit went under the bed and the long bit lay in front of the bed with about six inches turned up on the skirting at the wall.
 
 She did it because that floor is bare boards and it is a hard floor and there had been about five weeks of sand coming in off the parade and she can feel it under her feet at night when the wind is off the water, and there is a folded blanket across the foot of that bed since before Christmas because of the draught off that landing door.
 
@@ -20,13 +20,13 @@ She said at the time that she was not going to have a carpet in that room, and s
 
 She did not take the staples out. It came off that house with the staples in it and it was on her floor with the staples in it and it is on its side against that wall with the staples in it.
 
-On Friday the twenty-third of June she got the corner of it up off the skirting with her fingernails, because she wanted to sweep under it and there is no way to sweep under a thing that is down and turned up against a board. It came away in a shape. It would not go back the way it had been, and it sat against the wall of that room on its edge for a week, and on the Friday morning of the thirtieth she got her back to it and got it round on to its side and stood it against the wall under the window.
+On the twenty-third of June she got the corner of it up off the skirting with her fingernails, because she wanted to sweep under it and there is no way to sweep under a thing that is down and turned up against a board. It came away in a shape. It would not go back the way it had been, and it sat against the wall of that room on its edge for a week, and on the morning of the thirtieth she got her back to it and got it round on to its side and stood it against the wall under the window.
 
 There is nowhere in that room to have it on the floor. It is about nine foot by six and there is a bed, a chair, a table and a wardrobe in it, and a carpet down on that floor means everything else is up against the walls, and she is not going to live like that because a man brought a carpet up a stair on a weekday morning in June.
 
 ---
 
-He was at the top of that stair at about a quarter past ten on that Friday morning with a chest.
+He was at the top of that stair at about a quarter past ten that morning with a chest.
 
 It is a wooden chest about two foot long and a foot deep and a foot high, with a lid and a catch on the front of the lid, of a soft light wood that has never been painted, and it came out of the front room of a house on the Cleeve road on the Monday of that week when he went back for a bathroom suite somebody had changed their mind about.
 
@@ -80,4 +80,4 @@ He took his change and went.
 
 She is not the woman who works in a shop and he is not the man in his thirties and neither of those two facts has made one thing of this. The man with a van has carried two things up an outside stair in this borough in seven weeks and been taken in once and turned away once, and the woman at the top of that stair has taken one of them and not the other, and has not said a word about either of them to anybody, and the man who carried them has not been up that street since the thirtieth of June and does not know that the carpet is on its side against a wall under a window, and does not know where the chest is, and has not asked.
 
-**A CHEST WITH A LID AND A CATCH ON IT IS UNDER TWO TRESTLES IN THE BACK OF A VAN OFF THE LOW END OF PEVERELL STREET, AND A CARPET WITH STAPLES STILL IN THE SEAMS IS STANDING ON ITS SIDE AGAINST A WALL UNDER A WINDOW, AND THE MAN WHO CARRIED BOTH OF THEM UP THAT STAIR HAS SAID NOTHING TO ANYBODY ABOUT EITHER ONE.**
+**A STREET DOOR AT THE BOTTOM OF THAT OUTSIDE STAIR WAS SHUT AT ABOUT A QUARTER PAST TEN IN THE MORNING BY A MAN WHO HAD KNOCKED TWICE UPSTAIRS AND CARRIED A CHEST BACK DOWN IN HIS ARM, AND A LENGTH OF PIPE WENT ACROSS A COUNTER AT ABOUT HALF PAST FOUR IN THE AFTERNOON AND OUT INTO THE PARADE, AND THAT WAS THE WHOLE OF THE THIRTIETH OF JUNE.**
