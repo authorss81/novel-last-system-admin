@@ -2,7 +2,7 @@
 
 Friday the eighth of December 2017, from about half past seven in the morning until about half past nine at night, a house in a row off the Cleeve road, and a street, in Tideglass.
 
-**A JOINT UNDER A KITCHEN SINK WAS WEEPING IN THAT HOUSE ON THAT MORNING AND A MAN CAME AND DID IT IN ABOUT TWENTY MINUTES, AND WHILE THE SINK WAS OFF HE FOUND THAT THE FRONT EDGE OF THE WORKTOP HAD GONE SOFT WHERE IT RAN INTO THE RAIL, AND HE TOOK IT OFF AND CUT A NEW PIECE AND PUT IT BACK, AND NOBODY HAD ASKED HIM TO. THE WOMAN OF THAT HOUSE WAS AT WORK AND WAS NOT THERE. THE MAN WHO WAS IN THE HOUSE SAID DO IT AND WENT OUT TO HIS OWN WORK AND CAME BACK AT HALF PAST SIX AND SAID NOTHING ABOUT IT, AND THE MAN WHO DID IT SAID NOTHING ABOUT IT EITHER, AND NEITHER OF THEM HAS SAID ANYTHING SINCE.**
+**A JOINT UNDER A KITCHEN SINK WAS WEEPING IN THAT HOUSE ON THAT MORNING AND A MAN CAME AND DID IT IN ABOUT TWENTY MINUTES, AND WHILE THE SINK WAS OFF HE FOUND THAT THE FRONT EDGE OF THE WORKTOP HAD GONE SOFT ALONG THE WHOLE OF ITS LENGTH WHERE IT SAT ON THE FRAME WITH NOTHING BEHIND IT AT ALL, AND HE TOOK IT OFF AND CUT A NEW PIECE AND PUT IT BACK, AND NOBODY HAD ASKED HIM TO. THE WOMAN OF THAT HOUSE WAS AT WORK AND WAS NOT THERE. THE MAN WHO WAS IN THE HOUSE SAID DO IT AND WENT OUT TO HIS OWN WORK AND CAME BACK AT HALF PAST SIX AND SAID NOTHING ABOUT IT, AND THE MAN WHO DID IT SAID NOTHING ABOUT IT EITHER, AND NEITHER OF THEM HAS SAID ANYTHING SINCE.**
 
 The row is nine houses off the Cleeve road with a footway about four foot wide and no back yards at all, and the last of those nine houses has a strip of ground behind it about as long as a car and as wide as a door, fenced in with three foot of boarding, and there is a man in that last house, a woman, and a girl who is at college four days a week.
 
@@ -58,6 +58,6 @@ The man who cut it has been in about four houses a week since the summer and he 
 
 ---
 
-On the Friday morning the man in his forties was in that kitchen at about a quarter to eight and he was out of the house before nine, and the woman of that house was at work from half past seven until about half past four, and the girl was at college, and the whole of what was done in that kitchen that day was done in a house with nobody in it but a cat and a man who had said do it and gone out to his own work.
+That Friday, the man in his forties was in that kitchen at about a quarter to eight and he was out of the house before nine, and the woman of that house was at work from half past seven until about half past four, and the girl was at college, and the whole of what was done in that kitchen that day was done in a house with nobody in it but a cat and a man who had said do it and gone out to his own work.
 
 **ON THE MONDAY AFTER, HE ASKED HER ONE QUESTION ABOUT THAT KITCHEN, WHICH WAS WHETHER THE TILES BEHIND IT WERE THE SAME AS THE ONES ON THE OTHER WALL, AND SHE SAID THEY WERE NOT, AND HE WROTE THAT DOWN ON THE BACK OF A SHEET OF HIS OWN, AND NEITHER OF THEM ASKED ABOUT THE FRONT EDGE OR MENTIONED IT THEN OR ON ANY DAY SINCE.**

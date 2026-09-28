@@ -52,7 +52,7 @@ Nobody has said which of those three things it is.
 
 The woman who lives in the first flat thinks the clock has slipped. She has not been in that cupboard and has not looked at it, and she has not said so to anybody, and if she were asked she would say she thought the clock had slipped, and she would be guessing.
 
-The man in his thirties thinks the lamp in that fitting is going. He came back into that block on the Monday morning, because there was something else to do up there and he was coming back anyway, and he was on that half-landing at about eight and the light came on, and he stood and looked at it, and it is not his fitting and not his building and not his lamp, and he has said nothing about it to anybody and has not thought about it since the Monday.
+The man in his thirties thinks the lamp in that fitting is going. He came back into that block on the Monday morning, because there was something else to do up there and he was coming back anyway, and he was on that half-landing at about eight and the light came on, and he stood and looked at it, and it is not his fitting and not his building and not his lamp, and he has not mentioned it to anybody and has not turned it over since the Monday.
 
 The man in his sixties thinks somebody has been holding that switch down. He has never seen anybody holding that switch down and there was nobody on that half-landing when the light came on but himself.
 

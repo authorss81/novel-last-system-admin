@@ -10,7 +10,7 @@ There are two men in it. The older of them has had that yard since before the ar
 
 The other man works in that yard and has done for a couple of years and is a good deal younger and does most of the going out on the jobs.
 
-The man who works nights finished at about four in the morning and came into that yard at about twenty to five on the afternoon of the sixteenth of January to pick up a coil he had left on the bench, and the two men in that yard did not know that was what he was there for and did not ask.
+The man who works nights came into that yard at about twenty to five on the afternoon of the sixteenth of January to pick up a coil he had left on the bench, having been up since about two and out and back, and the two men in that yard did not know that was what he was there for and did not ask.
 
 ---
 
@@ -18,7 +18,7 @@ A wall like that will not take a screw.
 
 That is what the older man says, and he has been saying it for longer than the younger man has been alive, and he says it about any wall that has ever been built out of a soft block or a cavity or anything that was made to be filled.
 
-The way he says it is not a rule and it is not a boast. It is the way a man says a thing that has never once been proved wrong to him. He has put a fixing into a soft wall in his own hand and watched it turn in it. He has had a plate come away off a wall in a house he was not even working in. He was told it once, at the start, by a man who is not working now, and it was said as a fact about the world and not as an opinion, and it went in the way those things go in.
+The way he says it is not a rule and it is not a boast. It is how a man talks about a thing nobody has ever shown him to be wrong about. He has put a fixing into a soft wall in his own hand and watched it turn in it. He has had a plate come away off a wall in a house he was not even working in. He was told it once, at the start, by a man who is not working now, and it was said as a fact about the world and not as an opinion, and it went in the way those things go in.
 
 The resin comes in a cartridge and a gun goes on the end of it and it costs about what a box of screws costs, and it takes about a minute longer per fixing than a plug does, and it works.
 
@@ -66,6 +66,6 @@ The man who works nights came into that yard at about twenty to five that aftern
 
 He came in at the gate and the older man was out and the younger man was down on his knees at the back wall with a length of batten on the floor beside him and a claw hammer and a screwdriver and about a foot of plaster lying face up in the dust, and he stood there and looked at that for a moment and picked his coil up off the bench and went out through the gate.
 
-He has not told either of them what was happening on that landing floor, then or since, and he is not a man who would go back and ask what had happened to a wall, and he will be in that yard again.
+He has not told either of them what was happening at the back of that yard, then or since, and he is not a man who would go back and ask what had happened to a wall, and he will be in that yard again.
 
 **THE YOUNGER MAN KNOWS NOW AND WILL CARRY THE GUN UP THAT LADDER NEXT MONTH, AND THE OLDER MAN WILL SAY THE SAME THING HE HAS ALWAYS SAID, AND NOTHING ABOUT THE WALL ON THE BACK OF THAT YARD IS GOING TO BE PUT IN FRONT OF EITHER OF THEM, AND A THING THAT WAS FIXED INTO IT WITH RESIN IN THE AUTUMN IS STILL HOLDING UP A BATTEN WITH A THING ON IT.**

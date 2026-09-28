@@ -6,7 +6,7 @@ Thursday the twenty-eighth of December 2017, from about half past eight in the m
 
 The shop is on a parade a hundred yard off the main one and it is set back about eight foot from the footway with a forecourt in front of it that it does not use, and there are two things on that forecourt, a rack of firelighters and a stack of baskets.
 
-The woman who works in a shop is on that counter from about ten to nine on six days and had come in at about half past nine because the boiler in the back had gone out and she wanted to be in before the kettle went.
+The woman who works in that shop has that counter from about ten in the morning until nine at night on six days, and had come in that morning at about half past nine because the boiler in the back had gone out and she wanted to be in before the kettle went.
 
 The man in his forties was in that street at about ten past ten that morning because he had a roll of insulating tape on a list and he was going down the parade to the shop that keeps a bigger stock of it and had come back past this one empty-handed.
 
@@ -42,13 +42,13 @@ The whole of it took about two minutes and neither of them gave a reason, and th
 
 ---
 
-The woman who works in a shop was at her counter with her back to the window of that shop and the radio on the shelf above the till going, and it was on the local station and she had it low, and there were two people in there at about five to ten that morning and then there was one.
+Behind her own window on the morning of that refusal, with the local station on low on the shelf above the till and two people in the shop at about five to ten and then one, she was standing at that counter with her back to the glass.
 
 She saw a pickup standing outside her shop with its tailgate down and a man at the kerb, and she saw a second man come along the street and stop, and she saw the first man come round the front of the pickup and the two of them stand there, and she could see from where she was that one of them was holding something and that the other one was not.
 
-She did not turn round. She has raised none of it with either of them and does not intend to, and the reason is not caution: she simply has no way of asking that is not a question about a man she knows nothing about, and a woman who asks a man in a street what he is doing with a freezer in front of a shop has admitted an interest in the answer.
+She did not turn round while either of them was at that kerb. She turned round when the tailgate had come up and the pickup had gone up the street, and there was nothing at that window to look at but a shop doing what a shop does at half past ten in the morning. She has raised none of it with either of them and does not intend to, and the reason is not caution: she simply has no way of asking that is not a question about a man she knows nothing about, and a woman who asks a man in a street what he is doing with a freezer in front of a shop has admitted an interest in the answer.
 
-The man in his forties came in at about ten past ten and bought his roll of tape and paid for it and said the shop was on about being out of them and she said they had two left, and that was the whole of that visit from both sides.
+He came into that shop at about ten past ten, paid for the roll of tape he had come for, and told her they were nearly out of it, and she told him there were two left, and that was the whole of the visit from both of them.
 
 The man in his thirties drove off and went and did a job in a terrace at the bottom of the town and came back to that street at about half past four with the pickup still in it.
 
@@ -59,8 +59,8 @@ Not to the man he was working for in October, who is not the man in his forties,
 
 It is in his yard at the top of the town.
 
-It is behind the low wall at the side of that yard under a piece of hardboard, and it is not on a pavement and it has no sign on it and it is not in anybody's road, and it was there through January and it was there at the end of that month, and nothing has been done about it and no arrangement exists and nobody has been asked anything and nobody is owed anything and it costs him money to keep where it is, in that he cannot get at the other side of his own yard.
+It is behind the low wall at the side of that yard under a piece of hardboard, and it is not on a pavement and it has no sign on it and it is not in anybody's road, and it was there over the Christmas and it will be there in the new year, and nothing has been done about it and no arrangement exists and nobody has been asked anything and nobody is owed anything and it costs him money to keep where it is, in that he cannot get at the other side of his own yard.
 
-He has not mentioned it to the woman who works in a shop. She does not know it exists.
+He has not mentioned it to the woman behind that counter. She does not know it is in this borough.
 
 **THIRTY FOOT FROM THE DOOR OF THAT SHOP, AT ABOUT FIVE TO TEN IN THE MORNING ON A DAY WHEN IT HAD BEEN STANDING IN THAT PICKUP SINCE OCTOBER, A MAN SAID NO, AND THE MAN WHO HAD ASKED PUT IT BACK IN AND PULLED THE TAILGATE UP, AND NOBODY ELSE ON THAT PARADE OR IN THAT SHOP HAS EVER HEARD THAT IT WAS OFFERED, AND THE ONLY PERSON IN THAT SHOP WHO SAW ANY OF IT FROM THE INSIDE TURNED ROUND AFTERWARDS AND THERE WAS NOTHING TO SEE.**

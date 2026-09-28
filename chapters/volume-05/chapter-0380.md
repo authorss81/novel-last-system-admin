@@ -58,14 +58,14 @@ The man in his thirties was at the end of that counter with a box of something u
 
 He was about eight foot from the machine. He was facing it. He saw the card go on and he saw the two buzzes and he saw the screen, and he saw the card go on again and he saw the two buzzes and the screen, and he saw him take the card off and count money onto the counter, and he stood there through all of it and he did not say a word.
 
-The woman who works in a shop did not say a word either. She rang the money through, she gave him the change, she gave him the bag, she said the washers were on the second shelf down if he wanted to look at them, and she did not ask him what the machine had done and she did not say it was the same as yesterday or the day before.
+The woman behind that counter said nothing either. She rang the money through, she gave him the change, she gave him the bag, she said the washers were on the second shelf down if he wanted to look at them, and she did not ask him what the machine had done and she did not say it was the same as yesterday or the day before.
 
 Nobody in that shop said anything about the van at the bottom of the street, and nobody in that street said anything about the machine in that shop, and the man in his forties did not mention the machine when he left and did not mention the van when he had been in that street an hour before.
 
 
 He went up the parade and did the rest of the list and finished about four and spent the last two hours of the afternoon in a yard off a side turning a mile and a half from that shop, and he came home at about half past seven.
 
-He has not thought about either of them since, or he has thought about them separately, which is a different thing. The van was a cold morning. The machine was a machine. They were an hour and a bit apart and a mile and a half apart and there was a whole morning in between them, and if a man in that town told him on the Friday that the two had anything to do with one another he would say that things break and that it is not a thing anybody arranges.
+He has not thought about either of them since, or he has thought about them separately, which is a different thing. The van was a cold morning. The machine was a machine. They were an hour and a bit apart and a mile and a half apart and there was a whole morning in between them, and if anybody in that town had told him on the Friday that the two had anything to do with one another he would say that things break and that it is not a thing anybody arranges.
 
 The man in his thirties has not said a word to either of them, or about either of them, or about the two of them together, and he is not going to, and there was nothing in his head at any point in that day that put the van and the card machine near each other.
 

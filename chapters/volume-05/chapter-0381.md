@@ -2,15 +2,15 @@
 
 Saturday the sixth of January 2018, from about half past seven in the morning until about half past ten at night, a building by the water, and a landing on it, in Tideglass.
 
-**A CHEST WAS CARRIED OUT OF A ROOM AT THE END OF THAT LANDING ON THE SUNDAY OF THE THIRTIETH OF DECEMBER BY TWO MEN WHO WERE TAKING A FLOOR UP AND PUT DOWN ON THE LANDING AGAINST THE WALL, WHERE IT STAYED FOR SIX DAYS UNTIL THE FRIDAY, AND NOBODY ON THAT LANDING SAID ANYTHING ABOUT IT AT ANY POINT IN THOSE SIX DAYS. ON THE SATURDAY MORNING TWO PEOPLE LOOKED AT THE PLACE ON THE WALL WHERE IT HAD BEEN AND NEITHER OF THEM SAID ANYTHING TO THE OTHER, AND THE MAN WHO TOOK IT AWAY IS NOT ASKED AND DOES NOT KNOW THAT HE WAS NOTICED.**
+**A CHEST WAS CARRIED OUT OF A ROOM AT THE END OF THAT LANDING ON THE SUNDAY OF THE THIRTY-FIRST OF DECEMBER BY TWO MEN WHO WERE TAKING A FLOOR UP AND PUT DOWN ON THE LANDING AGAINST THE WALL, WHERE IT STAYED FOR SIX DAYS AND WAS CARRIED OFF IT ON THE FRIDAY, AND NOBODY ON THAT LANDING SAID ANYTHING ABOUT IT AT ANY POINT IN THOSE SIX DAYS. ON THE SATURDAY MORNING TWO PEOPLE LOOKED AT THE PLACE ON THE WALL WHERE IT HAD BEEN AND NEITHER OF THEM SAID ANYTHING TO THE OTHER, AND THE MAN WHO TOOK IT AWAY IS NOT ASKED AND DOES NOT KNOW THAT HE WAS NOTICED.**
 
 It is a house that was made into flats some while back and it stands four floors under a slate roof, and the way in is round the outside of it and up a metal stair to a landing on the first floor, and from that landing there is another stair on down to the ground and out into a yard at the back.
 
-There are four doors on that landing. The woman of about fifty-five has the middle one on the left. The room next door along is hers and nobody lives in it now. The man who works nights has the one at the end nearest the top of that stair, and has had it since before the summer. The fourth is the man at the far end of that landing.
+There are four doors on that landing and the woman of about fifty-five has the middle one of the two on the left-hand side. The room next door along is hers and nobody lives in it now. The man who works nights has the one at the end nearest the top of that stair, and has had it since before the summer. The fourth is the man at the far end of that landing.
 
 The landing is about four foot nine across and about twelve foot long with the window in it, and the paper on the wall on the left-hand side going up is a cream colour that has gone yellow in patches, and it has been in that building since it was built.
 
-The man in his thirties and another man were in the flat at the end nearest the window on the Sunday of the thirtieth of December, taking a floor up, and that flat has been empty since August.
+The man in his thirties and another man were in the flat at the end nearest the window on the Sunday of the thirty-first of December, taking a floor up, and that flat has been empty since August.
 
 ---
 
@@ -30,7 +30,7 @@ They finished that floor on the Sunday. They were out of that building at about 
 
 Nobody said anything about it. The woman of about fifty-five went in and out of that landing all day that Sunday and the Monday and the Tuesday and the Wednesday and the Thursday and the Friday, and there was a chest against the wall at the foot of that stair, and a thing on a landing belongs to somebody and being somebody else's is not the same as being yours.
 
-The man who works nights came in at about half past four in the morning on most of those days and went to his own front door along that landing, and the chest was on the other side of that landing at the foot of the stair and he went past it without touching it and without turning his head at it, and he has not given it a thought since.
+The man who works nights was back on that landing before seven on most of those days, having gone up the parade and come back, which is what he has done since the beginning of December, and went to his own front door along that landing, and the chest was on the other side of that landing at the foot of the stair and he went past it without touching it and without turning his head at it, and he has not given it a thought since.
 
 The man at the far end of that landing came out of his own front door about two or three times a day all that week and went past it and did not say anything about it either.
 
@@ -38,9 +38,9 @@ It is the most ordinary thing that has stood on that landing in years and it is 
 
 ---
 
-The man in his thirties came back on the Friday of the second week with the pickup and about half past two in the afternoon and took it off that landing.
+The man in his thirties came back on that Friday with the pickup and about half past two in the afternoon and took it off that landing.
 
-He got it out of the pickup and put it on the tailgate and then thought better of it and lifted it up and put it in the bed, and shut the tailgate, and it went about half a mile to a yard at the top of the town and it is still in that yard under a sheet of roofing felt, and it is not his and he does not know whose it was.
+He got it out of the pickup and put it on the tailgate and then thought better of it and lifted it up and put it in the bed, and shut the tailgate, and it went about half a mile to a yard at the top of that town which is not his and belongs to a man he was working for in October, and it is still in there under a sheet of roofing felt, and it is not his and he does not know whose it was.
 
 He was in that building for about ten minutes. He was not asked about it by anybody on that landing. Nobody came out. Nobody said anything at all to him about that chest or about anything else, and he did not go and knock on any of the four doors, and he did not leave a note, and he has not asked anybody a single question about it and is not going to.
 
@@ -61,7 +61,7 @@ He was looking at the same place from the other end. It is twelve foot away and 
 
 He looked at it. He did not look at the woman, who had her back to him and was still standing at that end of that landing. He did not say anything to her and she did not turn round and say anything to him.
 
-They were on the same landing at the same time looking at the same place and neither of them said one word to the other about it, and it was the same place, and it was the same morning.
+They were on the same landing at the same time looking at the same place and not one word passed between them about it, and it was the same place, and it was the same morning.
 
 She went down that stair at about ten past ten. He went into his own front door at about a quarter past ten and shut it.
 

@@ -2,15 +2,15 @@
 
 Saturday the twentieth of January 2018, from about half past seven in the morning until about half past nine at night, a parade, a shop off it, a hall on a meter, and a block by the water, in Tideglass.
 
-**A FORTNIGHT WENT THROUGH THIS BOROUGH AND NOTHING IN IT WAS DIFFERENT FROM THE FORTNIGHT BEFORE IT, AND A LINE UNDER THE LAST ENTRY IN A BOOK THAT STANDS OPEN ON A SHELF IN AN ALCOVE AT THE END OF A FIRST-FLOOR CORRIDOR IN THAT BLOCK BY THE WATER IS BLANK AND HAS BEEN BLANK FOR FOUR FIGURES OF DAYS, AND AND NOBODY HAS GONE INTO THAT ALCOVE IN THAT FORTNIGHT AND NOBODY WENT INTO IT IN THE FORTNIGHT BEFORE IT, AND THE ONLY PERSON IN THAT BOROUGH WHO COULD HAVE PUT A FIGURE TO THAT LINE BY COUNTING IT HAS NOT COUNTED IT, AND IF YOU ASKED ANYBODY IN THAT BOROUGH WHAT THAT LINE IS FOR, THERE IS NOBODY WHO COULD TELL YOU.**
+**A FORTNIGHT WENT THROUGH THIS BOROUGH AND NOTHING IN IT WAS DIFFERENT FROM THE FORTNIGHT BEFORE IT, AND A LINE UNDER THE LAST ENTRY IN A BOOK THAT STANDS OPEN ON A SHELF IN AN ALCOVE AT THE END OF A FIRST-FLOOR CORRIDOR IN THAT BLOCK BY THE WATER IS BLANK AND HAS BEEN BLANK FOR FOUR FIGURES OF DAYS, AND NOBODY HAS GONE INTO THAT ALCOVE IN THAT FORTNIGHT AND NOBODY WENT INTO IT IN THE FORTNIGHT BEFORE IT, AND THE ONLY PERSON IN THAT BOROUGH WHO COULD HAVE PUT A FIGURE TO THAT LINE BY COUNTING IT HAS NOT COUNTED IT, AND IF YOU ASKED ANYBODY IN THAT BOROUGH WHAT THAT LINE IS FOR, THERE IS NOBODY WHO COULD TELL YOU.**
 
 The borough did what it does.
 
-Shutters went up in the same order they go up, with the one at the top of the parade left to the end of the morning. The woman who works in a shop had her counter from about ten to nine and was short of nothing and had her order on for the Friday. The man who works nights went into that parade at about twenty to five and went home with what he went home with. The man in his sixties was out on a low wall by a yard gate for about an hour with a cup and went in before it got dark. The man who puts shutters up went along the parade in the order he always goes in and did not stop anywhere.
+Shutters went up in the same order they go up, with the one at the top of the parade left to the end of the morning. The woman who works in a shop had that counter from about ten until nine and was short of nothing all week and had her order on for the Friday. The man who works nights went up that parade at about seven in the morning, the way he has gone since the beginning of December, and came back down it with what he came back with. The man in his sixties was out on the low wall at that yard gate for a bit over an hour with a cup he did not finish and went in before it got dark. The man who puts shutters up went along the parade in the order he always goes in and did not stop anywhere.
 
-Nine people went through that fortnight with nothing on them at all, and every one of them was holding something the other eight were not holding, and there was not one afternoon in that fortnight on which one of them said a word to another about his own.
+There are nine people who come up and down that parade every day of that fortnight and not one of them is carrying anything for anybody else, and there was not one afternoon in that fortnight on which one of the nine put a hand out to another of them about anything.
 
-The sweet smell is still under that awning in the middle of that parade, in the mornings, gone by ten, and nobody in that parade has said a word about it to anybody since the beginning of December, and the woman who runs the shop that shuts early still has not said who lives above her.
+The sweet smell is still under that awning in the middle of that parade, in the mornings, gone by ten, and not one person on that parade has ever mentioned it to another since it began, and the woman who runs the shop that shuts early still has not said who lives above her.
 
 ---
 
@@ -30,7 +30,7 @@ Nobody has answered it anywhere in that fortnight, and the fourth answer has not
 
 The hall on a meter at the bottom of that parade was open on the Saturday morning of that fortnight from about half past ten until about one with the urn on and two of the trestles out on the flags in front of it, and about sixteen people came and went in that time.
 
-The man who does that hall was behind the counter at the end of it and nobody put anything to him and he put nothing to anybody, apart from one man asking him whether there was another pot of tea coming and being told there was not.
+Behind that counter for the whole of that time was the man who does that hall, and not one person in that hall put anything to him, and he put nothing to anybody either, apart from a man who asked him whether there was another pot of tea was coming and was told there was not.
 
 That man has been on a Wednesday about six years. The woman of about fifty-five went up the outside stair of that block by the water with a jug in each hand twice that week and did not go along that corridor.
 
@@ -45,17 +45,15 @@ The line under that last entry has been blank for one thousand one hundred and f
 
 He did not go in. It was not opened. Nothing was written down and nothing was counted, and the only person in this borough who has ever stood where the counting would have been done stood in that corridor while the cold came in past him and then went back down the outside steps and pulled that street door to behind him at the bottom.
 
-And that is the thing in this borough that nobody would understand if they were asked about it, and it was the same one a fortnight ago, and it will be the same one in a fortnight, and there is nobody in that block who is going to be asked.
 
-
-Nobody was rescued. Nobody died. Nothing was renewed and nothing ran out and nothing was signed. Nobody was put on anything and nobody was given a title or a grade or a chair or a seat or a way of being spoken to, and nobody said one word about that to anybody, and nothing in that fortnight is anybody's business but the people it happened to.
+The urn went off the boil at about a quarter to one and the man who does that hall carried the two trestles back in against the wall and mopped the flags where the tea had gone over the front one, and put the urn on the counter behind the hatch and wiped his hands down the leg of his trousers, and shut that hall at one o'clock and stood outside it for a minute afterwards with his hands in his pockets.
 
 The man in his forties came into that shop on the Friday of that fortnight for a bag of plugs and put the money on the counter and carried the bag out and shut the tailgate of his pickup and went home at about half past six.
 
-The man who works nights was in that parade at about half past four that afternoon and went down it and came back up it and went home.
+The man who works nights was in that parade again at about half past four that afternoon and went down it and came back up it and went home.
 
 The man in his sixties took his cup in off that wall at about ten past three and went in.
 
 The shutters came down at that top shop last again, at about half past five, the way they do.
 
-**A FORTNIGHT IS A FORTNIGHT, AND NOTHING CAME TO AN END IN IT, AND THE LINE UNDER THE LAST ENTRY OF THAT BOOK IS STILL BLANK AND WAS BLANK A FORTNIGHT AGO, AND THE ONLY THING IN THAT BOROUGH THAT A PERSON WOULD NOT BE ABLE TO EXPLAIN IS THE ONE HE COULD NOT EXPLAIN A FORTNIGHT AGO, AND NOBODY WENT IN.**
+**THE TWO MEN WENT INTO THAT SHOP ON THE SAME WEDNESDAY OF THAT FORTNIGHT AND EACH OF THEM STOOD AT THAT COUNTER FOR A COUPLE OF MINUTES WITH HIS OWN THING ON IT, AND THE WOMAN WHO WORKS IN THAT SHOP RANGED ONE LOT THROUGH AND THEN RANGED THE OTHER THROUGH AND SAID NOTHING TO EITHER OF THEM ABOUT ANYTHING, AND NEITHER OF THEM HAS TOLD HER OR ANYBODY ELSE WHICH ANSWER HE CAME IN WITH.**
