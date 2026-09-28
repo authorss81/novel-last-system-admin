@@ -2,7 +2,7 @@
 
 Thursday the seventh of December 2017, from about half past seven in the morning until about half past eight in the evening, a parade, a shop off it, a hall on a meter, and a building by the water, in Tideglass.
 
-**FOURTEEN DAYS WENT THROUGH THAT BOROUGH AND THE SAME PEOPLE WALKED THE SAME ROUNDS AT THE SAME HOURS, AND SINCE ABOUT THE TWENTY-FOURTH OF NOVEMBER THERE HAS BEEN A SWEET SMELL IN THE MIDDLE OF THAT PARADE IN THE MORNINGS, AND THE ONE MAN WHO HAS BEEN IN THAT PARADE EVERY SINGLE DAY SINCE CANNOT SAY WHEN IT STARTED AND WILL NEVER BE ABLE TO, AND NOBODY WENT AND FOUND OUT.**
+**FOURTEEN DAYS WENT THROUGH THAT BOROUGH AND THE SAME PEOPLE WALKED THE SAME ROUNDS AT THE SAME HOURS, AND A SWEET SMELL HAS BEEN COMING INTO THE MIDDLE OF THAT PARADE UNDER AN AWNING IN THE MORNINGS, AND THREE PEOPLE IN THAT BOROUGH HAVE NOTICED IT AND TWO OF THE THREE CAN PUT A DATE NEAR IT, AND THE ONE MAN WHO WALKS THAT PARADE FOUR OR FIVE TIMES A DAY CANNOT PUT ANY DATE ON IT AT ALL AND WILL NEVER BE ABLE TO, AND NOBODY WENT AND FOUND OUT.**
 
 A fortnight is a fortnight. It is not a turn of anything and nothing in it came to an end and nothing in it was decided, and no term ran out in that borough, and no one in it was asked anything, and no one in it has been given a title or a grade or a chair or a seat or a way of being spoken to.
 
@@ -18,7 +18,7 @@ Nine people went through that fortnight with nothing on them at all, and every o
 
 The smell is of hot sugar, or of toffee, or of something brown that has gone a stage too far, and it comes into the middle of that parade from under the awning of the shop that shuts early at about half past seven in the morning and it is strongest at about three foot off the ground, and it is gone by about ten and it has not been back in the afternoon at all.
 
-The woman who runs the shop that shuts early says it is the flat above that shop and that somebody in it has been doing something at night. The man who does that hall says it is the pipe on that side and that it is nothing. The man in his forties says he has had it in his nose since the twenty-fourth of November and that it is the weather, which it is not.
+The woman who runs the shop that shuts early says it is the flat above that shop and that somebody in it has been doing something at night. The man who does that hall says it is the pipe on that side and that it is nothing. The man in his forties says it is the weather, which it is not.
 
 The woman who works in a shop first noticed it on the twenty-eighth of November, in the morning, and has smelled it every working morning since, and she can put a date on it to the day, because she knows the twenty-seventh.
 
@@ -32,9 +32,13 @@ Nobody has gone and stood in that flat above the shop that shuts early and asked
 
 It does not matter. It is a smell in a street in the cold, it is gone by ten, and it is the smallest thing anybody in that parade has got a view about. Nobody has turned anything round over it and nobody is going to, and it is there.
 
-The hall on a meter down that parade was open on the Sunday from about ten until about four with the urn going and the tables out, and the man who does that hall was behind the counter at the end of it, and about fourteen people came and went, and he was asked nothing by any of them, and he has not been asked anything by the smell either.
+The hall on a meter down that parade was open on the Sunday from about ten until about four with the urn going and the tables out on the pavement, and the man who does that hall was behind the counter at the end of it, and about fourteen people came and went in those four hours, and none of them asked him anything, and he has not been asked anything by the smell either.
 
-At about the middle of that morning the man in his forties was at the counter of the shop off the parade, and the man in his thirties was at the end of it with a coil of wire, and there was nothing else on that counter at all.
+He had that urn on from about half nine and it stands behind that counter with the lid off it and about three heaped spoons of sugar in a pot, and that is what that room smells of, and it has smelled of that on a Sunday for about six years, and nobody who came into it that morning had any reason to think of anything else.
+
+He walks up that parade to that hall on a Wednesday as well as a Sunday and has done for about six years, and he has not noticed the smell anybody else has been noticing at all, and if anybody had put it to him in that hall that morning he would have told them about the urn, and nobody put it to him, and he was behind that counter from about ten until about four and asked nobody anything.
+
+At about the middle of that Thursday morning the man in his forties was at the counter of the shop off the parade, and the man in his thirties was at the end of it with a coil of wire, and there was nothing else on that counter at all.
 
 The man in his thirties had been in a queue of nothing beside a basket of nothing and he had said, out of nothing, that whoever writes anything down in this town is going to be the one everybody goes to in about ten years.
 
@@ -68,4 +72,4 @@ He did not go into that bay. He has not been into that bay since the summer and 
 
 The woman of about fifty-five was on that landing twice more that week, going up and down it with a jug in each hand the way she has done since June, and that recess off the corridor was as she left it, and nobody has looked inside that door since the summer.
 
-**THE SMELL WAS UNDER THAT AWNING AGAIN AT ABOUT HALF PAST SEVEN ON THAT THURSDAY MORNING AND IT WAS GONE BY TEN, AND ON THE SATURDAY IT CAME BACK, AND NOBODY IN THAT PARADE HAS PUT A DATE ON IT BUT THE TWO PEOPLE WHO CAME ALONG AFTER IT, AND THE MAN WHO HAS BEEN THERE EVERY DAY SINCE THE TWENTIETH OF NOVEMBER STANDS IN THE MIDDLE OF THAT STREET AT HALF PAST SEVEN IN THE MORNING AND SMELLS IT AND CANNOT SAY.**
+**THE SMELL WAS UNDER THAT AWNING AGAIN AT ABOUT HALF PAST SEVEN ON THAT THURSDAY MORNING AND IT WAS GONE BY TEN, AND ON THE SATURDAY IT CAME BACK, AND THE ONLY TWO PEOPLE WHO CAN PUT ANYTHING LIKE A DATE ON IT ARE THE TWO WHO CAME ALONG AFTER IT, AND THE MAN WHO HAS BEEN IN THAT PARADE EVERY DAY SINCE THE TWENTIETH OF NOVEMBER STANDS IN THE MIDDLE OF THAT STREET AT HALF PAST SEVEN IN THE MORNING AND SMELLS IT AND CANNOT SAY.**

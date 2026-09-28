@@ -10,7 +10,7 @@ The woman who works in a shop had the shop shut by about ten past four and came 
 
 He comes in that way on that day every week because that room takes about six minutes off his walk to the bus and he has been doing it for about two years, and he said good afternoon and she said good afternoon and he sat down.
 
-The man in his sixties came in the same way about ten minutes later, on his way to a stop, and he had been going into the back of that shop for about six years and sits where he sits.
+The man in his sixties came in the back way about ten minutes later, on his way to a stop, and he had been going into the back of that shop for about six years and sits where he sits.
 
 The man in his thirties came in at about five for a bag of sand he had left on the shelf at the back of that shop on the Friday, and got the wrong end of the room, and was given the bag, and sat down at the table because there were three men and one woman in it and there were three chairs on the far side and one on the near.
 
@@ -46,7 +46,7 @@ He wanted to ask how many people come into that hall on a Wednesday. He has want
 
 He had got as far as the door of that back room twice. Once in September and once at the end of October, and both times the room was full and both times he turned round and went out, and neither time was because of anybody in the room.
 
-He sat there that Tuesday with that on him and listened to about nine minutes of talk about a man who used to come in on that day, and at about ten past five he decided not to ask it, and he did not ask it, and he has not asked it since, and he does not know that anything was said at that table in the quarter of an hour before he came in through the front.
+He sat there that Tuesday with that on him and listened to about nine minutes of talk about a man who used to come in on that day, and at about ten past five he decided not to ask it, and he did not ask it, and he has not asked it since, and he does not know that anything was said at that table in the ten minutes before he came in the back way.
 
 He is not a man who has been put on anything by not asking. He comes in on his own account on that day every week and he has done it for six years, and he is nobody's guest in that room and he has not asked anybody for anything in that time, and being on nothing is not the same as being a man who is owed an answer.
 
@@ -54,7 +54,7 @@ He is not a man who has been put on anything by not asking. He comes in on his o
 
 The man in his thirties heard nothing. He was on the wrong end of that table with a bag of sand between his feet and he was looking at the hatch and the shutter behind it and he heard a woman say something and did not take it in, and he put his hand on the table at about half past five and said he was going and picked the bag up and went out through the back way and shut it behind him.
 
-The room did not notice. Two people at a table went quiet for the length of a jug being filled and neither of them said anything about the other one, and the third said nothing because there was nothing for him to say.
+The room did not notice. Two people at a table went quiet for about as long as it takes to fill a jug and neither of them said anything about the other one, and the third said nothing because there was nothing for him to say.
 
 The man who does that hall stayed until about half past six and then said he was going to catch the six and went out through the back way, and the woman who works in a shop washed the jug and the kettle and the tin of biscuits and stood at the hatch for a minute with the light off over the shop floor.
 

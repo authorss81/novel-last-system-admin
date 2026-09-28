@@ -30,7 +30,7 @@ That Friday the chest was down and there was nothing in it, and it had been down
 
 He came in and went to the chest and lifted the lid and looked into it and put it back down, and she said from behind the counter that the man had not been, and he said, "No," and then he said, "Have you any?"
 
-That is the one time he has asked her for one when there was not one, and he has not asked her for one since, and he will not, and he buys his ice elsewhere and has been buying it elsewhere since about the Tuesday before, and the man in the shop on the parade who sells it is half a mile further on and shuts at six.
+That is the one time he has asked her for one when there was not one, and he has not asked her for one since, and he will not, and he buys his ice elsewhere and has been buying it elsewhere since about the Tuesday after, and the man in the shop on the parade who sells it is half a mile further on and shuts at six.
 
 He said nothing else about it. He stood at the counter for about four minutes talking about a bus timetable and then went out with a paper and a packet of tobacco and no ice, and he has not said a word to her about an ice since.
 
@@ -42,7 +42,7 @@ She did not say that the ice was not coming. She said what she said to everybody
 
 The man who works nights did not say anything and did not move, and neither of them said anything to him either, and there were three people at that counter for about ten seconds with one of them waiting to say something and neither of the other two giving him anything to say it with.
 
-He put his hand in his pocket. He has a hand on the counter about two foot from a woman who has known him a long while and who has a wet cloth on a chest at the back of her own shop because a man with a barrow was in a yard for two hours this morning, and he took his money out and put it on the counter and said that was all right and went out into the parade.
+He put his hand in his pocket. He has a hand on the counter about two foot from a woman who has known him a long while and who has a wet cloth on a chest at the back of her own shop because a man was in a yard for two hours that morning, and he took his money out and put it on the counter and said that was all right and went out into the parade.
 
 He has not been back up that road. He went on up the Cleeve road and finished at about half past eight and did not come down again until the Tuesday, and the Tuesday he came through with a sack of ice at about half past eight, because that is one thing he does at the end of a week, and it was not the end of a week, and he was on his way past.
 
@@ -56,4 +56,4 @@ On the Saturday morning he came in the back way with two sacks on a barrow and p
 
 She took one of them. The other one is in the passage at the back of that shop against a stack of milk crates, and it is still there, and it has been there since the eighteenth of November.
 
-**HE CAME BACK UP THAT ROAD ON THE TUESDAY OF THE FOLLOWING WEEK AND SAID NOTHING ABOUT ANY OF IT, AND THE SACK OF ICE IS STILL IN THAT PASSAGE, AND ON THE FRIDAY OF THE THIRD WEEK HE CAME IN THE BACK WAY AT HALF PAST EIGHT WITH A SACK ON A BARROW AND A CANVAS BAG OVER HIS SHOULDER AND SHE TOOK THE SACK AND SAID NOTHING AND HE SAID NOTHING AND THE COUNT OF WHAT THAT SHOP HAS HAD FROM HIM IS STILL THREE SACKS AND A BAG.**
+**HE CAME BACK UP THAT ROAD ON THE TUESDAY OF THE FOLLOWING WEEK AND SAID NOTHING ABOUT ANY OF IT, AND THE SACK OF ICE IS STILL IN THAT PASSAGE, AND ON THE FRIDAY OF THE TWENTY-FOURTH HE CAME IN THE BACK WAY AT HALF PAST EIGHT WITH A SACK ON A BARROW AND A CANVAS BAG OVER HIS SHOULDER AND SHE TOOK THE SACK AND SAID NOTHING AND HE SAID NOTHING, AND OF WHAT THAT SHOP HAS HAD OFF HIM SINCE THE SEVENTEENTH THERE ARE THREE SACKS AND A BAG, AND ONE OF THE THREE IS STILL IN THE PASSAGE AT THE BACK.**

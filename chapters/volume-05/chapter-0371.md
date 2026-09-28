@@ -6,7 +6,7 @@ Sunday the twenty-sixth of November 2017, from about half past eight in the morn
 
 The yard sits behind two houses on a side turning off the Cleeve road, and there is no workshop at the back of either of them. It is a concrete apron down one side, a stack of pipe against a brick wall, and a gate at the top of it that opens on a footway which comes out on the road and is the short way for anybody going to a stop.
 
-A lorry of building sand came into that yard on the Friday morning at about half past eight and was unloaded by the driver with a sack hook in about half an hour, and the sacks came off that lorry in two stacks along the pipe, and there are about twenty of them in each stack, and they stay covered with a sheet until they are wanted.
+A lorry of building sand came into that yard on the Friday morning at about half past eight and was unloaded by the driver with a sack hook, with the man in his forties on the tail of it, from half past eight until about the middle of the day, and the sacks came off that lorry in two stacks along the pipe, and there are about a hundred and eighty of them in each stack, and they stay covered with a sheet until they are wanted.
 
 The man in his forties has been buying that sand out of that yard and off the same lorry for about nine years.
 
@@ -18,17 +18,17 @@ He also does not use it. That is the whole of why nothing has gone wrong anywher
 
 That sand is sold off the lorry by the ton and weighed there and paid for there, and nobody in that transaction has ever counted a sack, and the price does not move if a sack is heavier or lighter, and the merchant's man has loaded about nine tons of it into that yard on the Friday morning and the invoice says nine tons and the invoice is the whole of the argument.
 
-The man in his forties does not pick up a sack. He tips them with a shovel and a barrow, two at a time, off the top of the stack, and the man in his thirties has been doing the same for about as long.
+The man in his forties does not pick a sack up off a stack. He tips them with a shovel and a barrow, two at a time, off the top of it, and the man in his thirties has been doing the same for about as long.
 
-On the Saturday morning, a little before midday, the man in his forties was on the lorry's tail with his hand on the last row, and there was a nail standing up out of the bed about a foot long and bent over, and he had it about six foot up off the ground when it went.
+On that Friday morning, a little before midday, the man in his forties was up on the lorry's tail with his hand on the last row, and there was a nail standing up out of the bed about a foot long and bent over, and he had it about six foot up off the ground when it went.
 
-One sack came out about a third of the way along its length and about a hundred and sixty pounds of that sand went out of it onto the concrete of that yard in one piece, and it was on the ground and spreading at the edges before anybody got down off anything.
+One sack came out about a third of the way along its length and about thirty pounds of that sand went out of it onto the concrete of that yard in one piece, and it was on the ground and spreading at the edges before anybody got down off anything.
 
-By about the back half of that morning there were about a third of a ton of wet sand lying in a heap on that apron about the size of a bath, and the sun was not going to get at it, and it was going to set where it was and go hard, and a yard that has a heap of set sand on it in November has that heap on it until somebody puts a pick through it.
+By the time the last row was off there was a heap of wet sand lying on that apron about the size of a tea tray, and the sun was not going to get at it, and it was going to set where it was and go hard, and a yard that has a heap of set sand on it in November has that heap on it until somebody puts a pick through it.
 
 The man in his forties looked at it for a while and said one thing, and the thing he said was that it was not much.
 
-It was not much. It was under a barrow-load by the time they had it gathered, and they gathered it with a shovel and a barrow and it went back in about twenty minutes, and the concrete under it came up a shade darker than the rest of the apron and stayed that way.
+It was not much. They got it back on the stack with a shovel in about five minutes, and the concrete under it came up a shade darker than the rest of the apron and stayed that way.
 
 The woman of about fifty-five came through that gate at about ten past ten on the Sunday morning on her way to a stop about half a mile up that lane, and she was going through there because it is six minutes shorter than the road and she has been going through there about four times a week since June.
 
@@ -58,4 +58,4 @@ It is not a thing worth saying to a man. He is a man who has been in that yard n
 
 He is not told. She has not told him, she is not going to tell him, and he has not asked her anything about anything, and if she did tell him he would say the sand is sand and go on shovelling it, and that is the answer, and she has not come a mile to be given it.
 
-**THE MAN IN HIS THIRTIES CAME OUT OF THAT YARD AT ABOUT HALF PAST FOUR ON THE SUNDAY AFTERNOON WITH ABOUT A BARROW AND A HALF OF IT ON THE GROUND AND THE MAN IN HIS FORTIES CAME DOWN OFF THE SECOND STACK WITH A SHOVEL ACROSS HIS SHOULDER AND STOOD AT THE GATE LOOKING AT THE PLACE WHERE THE HEAP HAD BEEN, AND NEITHER OF THEM SAID ANYTHING AT ALL ABOUT IT, AND BOTH OF THEM WENT OUT AND SHUT THE GATE BEHIND THEM.**
+**THE MAN IN HIS THIRTIES CAME OUT OF THAT YARD AT ABOUT HALF PAST FOUR ON THE SUNDAY AFTERNOON WITH A SACK ON HIS SHOULDER AND THE MAN IN HIS FORTIES CAME DOWN OFF THE SECOND STACK WITH A SHOVEL ACROSS HIS OWN AND STOOD AT THE GATE LOOKING AT THE PLACE WHERE THE HEAP HAD BEEN ON THE FRIDAY AND AT THE APRON UNDER IT, WHICH IS A SHADE DARKER THAN THE REST OF IT, AND NEITHER OF THEM SAID ONE WORD ABOUT ANY OF IT, AND BOTH OF THEM WENT OUT AND SHUT THE GATE BEHIND THEM.**
