@@ -1,6 +1,6 @@
 # Chapter 0401 — Under the Iron
 
-Sunday the first of April 2018, from about half past nine in the morning until about ten past twelve, a lane off a side street, in Tideglass.
+Sunday the first of April 2018, from about half past nine in the morning until about half past ten in the morning, a lane off a side street, in Tideglass.
 
 **A MAN IN HIS THIRTIES TOOK TWO BANDED BUNDLES OF SLATES HALF A MILE DOWN A LANE FOR A MAN IN HIS FORTIES AND FOUND THE GATE OF THAT YARD OPEN AND NOBODY IN IT, AND HE WAITED ABOUT TWENTY MINUTES AND PUT THEM ON A LEDGE UNDER A LENGTH OF CORRUGATED IRON THAT WAS LEANING AGAINST THE WALL ABOVE IT, AND HE TOLD NOBODY, AND THE OTHER MAN FOUND THEM THREE DAYS LATER AND DID NOT ASK WHERE THEY HAD BEEN.**
 
@@ -94,4 +94,4 @@ Nobody was asked where they had been. The man in his thirties was not asked whet
 
 He put the bands on the pallet, one on top of the other, and went back up that lane and the half of that side street, half a mile, the two bands in two loads, on his own, and put them on the pallets himself when he got to the workshop, and he was on that roof on the Friday.
 
-**HE LEFT THE IRON WHERE HE FOUND IT, LEANING THE OTHER WAY, AND FOUR DAYS LATER THE OTHER MAN CAME THROUGH THAT GATE AND FOUND WHAT WAS UNDER IT AND SAID NOTHING TO ANYBODY.**
+**HE PUT THE IRON BACK WHERE HE FOUND IT, LEANING THE OTHER WAY, AND THREE DAYS LATER THE OTHER MAN CAME THROUGH THAT GATE AND FOUND WHAT WAS UNDER IT AND SAID NOTHING TO ANYBODY.**

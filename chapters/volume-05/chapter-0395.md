@@ -1,8 +1,8 @@
 # Chapter 0395 — Hinges
 
-Thursday the eighth of March 2018, from about half past eight in the morning until about six in the evening, a short street off the parade, in Tideglass.
+Sunday the fourth of March 2018, from about half past eight in the morning until about six in the evening, a short street off the parade, in Tideglass.
 
-**THREE MEN AND A WOMAN WERE CONNECTED TO ONE DOOR ON ONE INSIDE STAIR IN THAT BUILDING IN THE SPACE OF A FORTNIGHT, AND THE SECOND MAN TO LOOK AT IT TOOK THE TOP ONE OFF AND FOUND OUT FROM WHAT WAS INSIDE IT THAT SOMEBODY HAD BEEN THERE BEFORE HIM, AND HE PUT IT BACK ON AND FINISHED WHAT HE CAME TO DO AND HAS NOT RAISED IT WITH ANYBODY.**
+**THREE MEN AND A WOMAN WERE CONNECTED TO ONE DOOR ON ONE INSIDE STAIR IN THAT BUILDING IN ABOUT A MONTH, AND THE SECOND MAN TO LOOK AT IT TOOK THE TOP ONE OFF AND FOUND OUT FROM WHAT WAS INSIDE IT THAT SOMEBODY HAD BEEN THERE BEFORE HIM, AND HE PUT IT BACK ON AND FINISHED WHAT HE CAME TO DO AND HAS NOT RAISED IT WITH ANYBODY.**
 
 The building is four flats in a house that was built as four rooms and a cellar about eighty years ago, and it is at the end of a short street off the parade, about a hundred yard back, and the way up is off the passage, and it goes up in one flight to a landing with two doors in it and then three steps to a second landing with two doors in it.
 
@@ -10,7 +10,7 @@ There is no lift in it and there never has been one and there is not going to be
 
 The man in his sixties has the room on the ground floor. The first floor is a woman and a boy and the boy is ten. The second floor has been empty since November and is being done out in April, and the top floor is a man who works nights and sleeps in the day and is not in it much.
 
-The woman who has the letting of that building has had it four years and there are twenty-nine keys on her ring and she counts them about twice a year.
+The woman who has the letting of that building has had it three years and there are twenty-nine keys on her ring and she counts them about twice a year.
 
 The door that matters is the second-floor one off the lower landing. It is a door with four raised squares in it, about two foot ten by three foot one, painted the same cream as the rest, and it has three butt hinges on it and it has stood about two inch open against its own frame since the turn of the year.
 
@@ -22,7 +22,7 @@ He noticed it in January, when the weather turned, because a door that stands op
 
 He did not do anything about it for six weeks.
 
-What he did on the second of March was put it to the woman who has the letting, in about fifteen seconds, on the step outside his own front door, with his hands in his pockets and the door behind him.
+What he did on the second of February was put it to the woman who has the letting, in about fifteen seconds, on the step outside his own front door, with his hands in his pockets and the door behind him.
 
 He said the door on the landing stands open all day now and it will not go shut. He did not say what he thought was wrong with it and he did not say what he wanted done about it and he did not say that he had mentioned it before, because he had not.
 
@@ -42,7 +42,7 @@ The frame had been taking that door on its hinge side, and the paint along the h
 
 He packed the top hinge knuckle with brown paper folded twice, which is what you do when a hinge is dropping and you do not want to move it, and he knocked the pin up and dressed the head of it and packed the middle one as well, because that one was on its way. Then he eased about an eighth of an inch off the hinge arris with a block plane, all the way down, and he did not touch the other side, because the other side was not the fault.
 
-He touched up the two bare places he had made on the frame with a tin of paint that was standing on that landing, which is the cream the last decorator of that house used about four years ago. It is a shade off the paint around it and it will stay a shade off as long as that wall is there.
+He touched up the two bare places he had made on the frame with a tin of paint that was standing on that landing, which is the cream the last decorator of that house used about three years ago. It is a shade off the paint around it and it will stay a shade off as long as that wall is there.
 
 He hung the door back and opened and shut it about twenty times, and it shut, and it stayed shut, and he went down and out.
 
@@ -50,13 +50,11 @@ He did not tell the woman who has the letting that he had been. She knew he had 
 
 There was no money in that and neither of them mentioned any. He said he would take it off and see, and he took it off and saw, and that was the end of it.
 
-On the sixth of March he spent about two hours in that building, doing a length of pipe under a sink on the ground floor, and he went up that stair twice that day with his tools in his bag.
+On the fourth of March he spent about two hours in that building, doing a length of pipe under a sink on the ground floor.
 
-He went up that stair twice that day with tools in his bag, and both times the door was shut, and it was shut properly, and the draught had gone off that landing. He noticed that, because he notices a building when he is inside it.
+The woman who has the letting had asked him on the Friday before to look at the door, because it had started again in the cold snap at the end of February and it was standing open again.
 
-The woman who has the letting had asked him on the Monday of that week to look at the door, because it had started again in the cold snap at the end of February and it was standing open again.
-
-He went up on the sixth with his own bag at about ten past twelve.
+He went up with his own bag at about ten past twelve, and the door was shut, and it was shut properly, and the draught had gone off that landing. He noticed that, because he notices a building when he is inside it.
 
 He shut the door and opened it and shut it and opened it, and it caught on the frame about halfway, the way it had been catching, and it stood about two inch open.
 
@@ -92,8 +90,8 @@ Nobody in that building has put any of it to anybody.
 
 The man in his sixties went up that stair on the Wednesday, on the Thursday and on the Friday, and the door was shut, and he did not ask his own front door who had been at the other one. Asked about that door he would say he had not been up that stair, and he has been in that house for about nine years and he has been up that stair four or five times a day for all of them.
 
-The woman who has the letting did not go up that stair on the sixth of March. She was at the counter of a shop off the parade all of that day and she was not near that building until the Sunday.
+The woman who has the letting did not go up that stair on the fourth of March. She was at the counter of a shop off the parade all of that day and she was not near that building until the Wednesday.
 
 She has never looked at that door. It is a door on a landing and it shuts and she has other things in that building that she thinks about, and one of them is a woman in the second floor who has not moved in yet and a set of stairs she has promised somebody will come and look at.
 
-**THE MAN IN HIS THIRTIES PUT THE TOP HINGE BACK ON WITH THE OTHER MAN'S PAPER STILL IN IT AND SHIFTED BOTH HINGES THREE-EIGHTH OF AN INCH INSTEAD, AND THE DOOR SHUTS, AND HE WENT DOWN THAT STAIR WITH HIS BAG AND SAID NOTHING TO ANYBODY.**
+**THE TWO BARE PLACES ON THAT FRAME ARE THE ONLY THINGS HE LEFT IN THAT BUILDING, AND THE PAINT ON THEM IS A SHADE OFF THE PAINT ROUND IT, AND HE WENT DOWN THOSE STAIRS WITH HIS BAG AND DID NOT STOP AT THE GROUND FLOOR.**

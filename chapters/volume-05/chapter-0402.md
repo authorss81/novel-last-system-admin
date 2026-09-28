@@ -1,10 +1,10 @@
 # Chapter 0402 — Out of Square
 
-Thursday the fifth of April 2018, from about ten in the morning until about five in the afternoon, a shop off that parade, in Tideglass.
+Thursday the fifth of April 2018, from about ten until about half past ten in the morning, a shop off that parade, in Tideglass.
 
-**TWO MEN WENT INTO THE SAME LOCKED STORE ROOM ON THE SAME WEEK AND BOTH OF THEM LOOKED AT THE SAME BUNDLE ON THE SAME RACK AND BOTH OF THEM WORKED OUT THAT THE OTHER ONE HAD BEEN IN THERE, AND NEITHER OF THEM WAS RIGHT, AND THE WOMAN WHO WORKS IN THAT SHOP KNOWS EXACTLY WHY IT IS OUT OF SQUARE AND HAS BEEN ASKED BY NEITHER OF THEM.**
+**TWO MEN WENT INTO THE SAME LOCKED STORE ROOM IN THE SAME WEEK AND BOTH OF THEM LOOKED AT THE SAME BUNDLE ON THE SAME RACK AND BOTH OF THEM WORKED OUT THAT THE OTHER ONE HAD BEEN IN THERE, AND NEITHER OF THEM WAS RIGHT, AND THE WOMAN WHO WORKS IN THAT SHOP KNOWS EXACTLY WHY IT IS OUT OF SQUARE AND HAS BEEN ASKED BY NEITHER OF THEM.**
 
-The shop is on that parade about sixty yard back from the front of it, and it sells building supplies, and it shuts at half past three on a weekday and at twelve on a Saturday, From about ten until about five she is on that counter, she shuts it herself, and she has had the keys to that store since the February before last.
+The shop is on that parade about sixty yard back from the front of it, and it sells building supplies, and it shuts at half past three on a weekday and at twelve on a Saturday. She shuts it herself. From about ten until about five she is on that counter. She has had the keys to that store since the February before last.
 
 Behind that counter there is a store about twelve foot by nine. It has a steel rack the length of one wall, a fire door in the corner, a broom, and a heap of offcuts in the corner by the fire door about two foot high.
 
@@ -32,7 +32,7 @@ He stood and looked at that for about a second and a half.
 
 Then he carried on, and got his six foot, and went out along that counter and paid and said nothing to her.
 
-The man in his thirties went into that store on the Friday of the sixth of April at about half past ten in the morning.
+The man in his thirties went into that store the next day, at about half past ten in the morning.
 
 He had come in for a bag of cement. She said the cement is on the bottom row of the second rack and he went and got it himself, because she was on the phone to a trade counter about a delivery.
 
@@ -48,19 +48,21 @@ He took a bundle off the top of the fourth stack instead, which is one he has ta
 
 Here is what either of them would have had to say out loud, and neither of them said it.
 
-It is about the fourth of April and somebody has been into that store and has taken a bundle off the third stack and has put it back two inches out.
+It is some time after the fourth of April and somebody has been into that store and has taken a bundle off the third stack and has put it back two inches out.
 
-There are two people in this borough who come into that shop most weeks.
+Three people come into that shop most weeks, and all three of them can be in that store.
 
-One of them works at the counter and does not move laths, because a man brings a barrow into that shop on Wednesdays and Fridays and moving a bundle off a rack to get at what is behind it has never been her work and she has not done it in two years.
+The woman behind the counter does not move laths, because a man brings a barrow into that shop on Wednesdays and Fridays and moving a bundle off a rack to get at what is behind it has never been her work and she has not done it in two years.
 
-The other one has a key.
+The man in his forties has a key, and has had one about two years, and it is not a thing anybody has ever said a word about.
 
-So the one who is behind the counter is the one who did not do it.
+The man in his thirties has not got a key and has not been offered one.
+
+So it is one of the two of them, and only one of the two of them can be in that store at ten past ten in the morning on a Wednesday without anybody letting him.
 
 ---
 
-It was her. Twice. On the question she has put it to neither of them, and neither of them has put it to her.
+It was her. Twice, on a question neither of them ever asked, and neither of them has put it to her.
 
 On the Monday of the second of April she was in that store for about ten minutes on her own, because the man who brings the laths in had left the second row half empty and she wanted to see what was behind it.
 
@@ -84,6 +86,6 @@ The man in his thirties has no key, has not been offered one, and does not want 
 
 So it sits there.
 
-Both of them have a reason to believe the other one has been in a locked room, and both of them are wrong, and the woman who works in that shop has the whole of the answer and does not know that either of them is looking for it, and that bundle is on that rack two inches forward with its buckle at two o'clock, and it will stay forward until she moves it again.
+Both of them have a reason to believe the other one has been in a locked room, and both of them are wrong, and she is at that counter and has not noticed either of them looking at a rack.
 
-**THE THIRD STACK FROM THE LEFT IS STILL OUT OF SQUARE ON THE TOP OF THAT RACK, AND THE BAND ON IT IS STILL TURNED THE WRONG WAY, AND NEITHER OF THE TWO MEN WILL BE THE ONE WHO SAYS SO.**
+**HE TOOK A BUNDLE OFF THE TOP OF THE FOURTH STACK INSTEAD AND CARRIED IT PAST HER AND PAID FOR IT, AND SHE DID NOT LOOK UP, AND THE TOP BUNDLE ON THE THIRD STACK IS STILL TWO INCHES FORWARD WITH ITS BUCKLE AT TWO O'CLOCK.**

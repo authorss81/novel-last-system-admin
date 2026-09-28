@@ -2,11 +2,11 @@
 
 Monday the twenty-sixth of March 2018, from about nine in the morning until about half past two in the afternoon, a turning off a side street, in Tideglass.
 
-**A MAN IN HIS FORTIES TOOK HIS OWN CHISELS OUT OF HIS BAG IN AN EMPTY GARAGE HE WAS NOT ASKED TO BE IN AND PUT FOUR OF THEM ON A WHEEL THAT WAS NOT HIS AND GROUND THEM PROPERLY, AND A WOMAN WHO WORKS IN A SHOP STOOD IN THAT DOORWAY FOR ABOUT A MINUTE WITH A BAG OF SHOPPING AND WATCHED HIM DO IT, AND NEITHER OF THEM SAID A WORD, AND HE IS NOT TOLD THAT ANYBODY WATCHED.**
+**A MAN IN HIS FORTIES TOOK HIS OWN CHISELS OUT OF HIS BAG IN AN EMPTY GARAGE HE WAS NOT ASKED TO BE IN AND PUT FOUR OF THEM ON A WHEEL THAT WAS NOT HIS AND GROUND THEM PROPERLY, AND A WOMAN WHO WORKS IN A SHOP STOOD IN THAT DOORWAY FOR ABOUT A MINUTE WITH A PAPER BAG IN EACH HAND AND WATCHED HIM DO IT, AND NEITHER OF THEM SAID A WORD, AND HE IS NOT TOLD THAT ANYBODY WATCHED.**
 
 The turning comes off a side street and there are nine lock-up garages along it, the oldest ones brick and the newer ones a grey block, and they are about eight foot wide each, and they all go up on a rope except the new ones, and the ropes have not been looked at since the middle of the sixties.
 
-Number two belongs to a man in his sixties who repairs things and is away that week, and is not far away, and came back on the Saturday.
+Number two belongs to a building estimator in his sixties, who keeps two lock-ups on that turning because they are cheap and he does not want them let, and who is away that week, and is not far away, and came back on the Saturday.
 
 Number four is his as well. It has been standing open since the middle of February, because he carried a table out of it on a hand truck, took it home to his own front room and never carried it back, and he has not shut that door since, and it does not lock, and the key is where it has always been, which is on a nail inside the door of number two.
 
@@ -88,4 +88,4 @@ He looked at the bench. He did not say anything about it, then or after.
 
 He shut the door down, hung the key back on its nail and went out. He said nothing to the man in his forties about any of it, and on that Saturday afternoon, or any time since, the whole of what he has to say about the bench and the wheel is that the spillage under it had been sponged up.
 
-**HE PUT FOUR CHISELS ON A WHEEL THAT WAS NOT HIS IN AN EMPTY GARAGE HE WAS NOT ASKED TO BE IN, AND FOUR DOORS AWAY A WOMAN WITH TWO BAGS OF SHOPPING STOOD AND WATCHED HIM FOR ABOUT A MINUTE, AND HE NEVER FOUND OUT.**
+**HE SPOONGED THE SPILL UP OFF THE FLOOR UNDER THAT WHEEL, PUT THE BRICK BACK ON THE COVER AND HUNG THE KEY ON ITS NAIL, AND ON THE SATURDAY A MAN WENT INTO THAT GARAGE FOR TEN MINUTES, LOOKED AT THAT BENCH, AND SAID NOTHING TO ANYBODY ABOUT IT THEN OR AFTER.**

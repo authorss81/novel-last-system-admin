@@ -16,7 +16,7 @@ At about four o'clock that same afternoon there was a man in his thirties in tha
 
 The comb was on the sill inside the front window of that front room.
 
-It is a tortoiseshell comb about three inch long and it has two teeth gone out of it at one end and it is about four years old, and it belongs to the man in his thirties.
+It is a tortoiseshell comb about three inch long and it has two teeth gone out of it at one end and it is about three years old, and it belongs to the man in his thirties.
 
 He was in that flat in the last week of February. He went up at half past seven one evening because the man in his forties was doing the lights and he was waiting, and the woman who lives there gave them both a cup of tea and put it on that sill, and the man in his thirties put his comb down beside the saucer and went to talk about something else and forgot about it.
 
@@ -30,7 +30,9 @@ He picked it up and put it back down in that ring inside the minute, in the same
 
 He did not take it, and about that comb he has said nothing and is not going to, and the man in his thirties does not know that it is thirty foot away from him in a passage and will not find out.
 
-A comb is not worth anything to anybody. That is not why he left it where it was. It is that it was standing in a ring of dust on a sill and he had not put it there and it was not his, and there is a whole class of things on that rule and he has never once broken it.
+He stood at that window and turned it over once in his fingers and put it down the way it had been, and he wiped nothing off the sill, because there was nothing on it to wipe off, and he got on with the lights.
+
+The woman who lives in that flat comes in at about half past five and her daughter comes in with her, and there is a cup on that sill and a saucer under it, and he could not have said where either of them was kept.
 
 ---
 
@@ -44,7 +46,7 @@ He has never been in that room since. He does not know where it is. He would not
 
 Nobody has looked behind that door.
 
-The door has not been open since about November, when the woman who lives there put a box in that room and did not put anything out of it. It swings out into the landing and stands against the skirting and nobody has ever had a reason to open it, including the man in his forties, who had it open and shut again in the first week of March while he was chasing for the lights.
+It has not been open since about November, when the woman who lives there put a box in that room and did not put anything out of it. It swings out into the landing and stands against the skirting and there has never been a reason to open it, except the man in his forties, who had it open and shut again in the first week of March while he was chasing for the lights.
 
 The man in his forties opened it at about half past two.
 
@@ -54,22 +56,24 @@ He saw the coil.
 
 He stood there for a second.
 
-There is a difference, and he knows where it runs, between an object hanging off a nail behind a door in a flat he has had to himself for two days, and an object lying on a bench in a garage of his own. He had thought about that coil twice since August and had done nothing about it, and there were thirty foot of it there, and there was a job on the Monday in Bleam Street and he had not bought the cable for it.
+That door had to stay open for as long as he was in that room, because it swings out into the landing and stands against the skirting, and he had worked that out in the first week of March and had shut it every time he came out of it.
 
-He took it off the nail and put it in his bag and shut that door and went back to the ceiling rose.
+The light off his own lamp went about two foot past that nail and stopped at the plaster, and everything else in that room was as he had left it in March: the socket, the flex, the two boxes on the wardrobe and the bag of clothes on top of them.
 
-There is a difference, and he knows exactly where it runs. What is lying on his own bench he is at liberty to have. What is hanging off somebody else's nail behind a door in a flat is not, and he has lifted a thing of that kind in a place of his own before now and not in a place of somebody else's, and what made the difference on that afternoon was a set of steps, a lamp, and a room with a wardrobe in it and nowhere to set the lamp down for about ninety seconds.
+There was a job on the Monday in Bleam Street and he has not bought the cable for it. There was a lamp in his right hand and nowhere in that room to stand it down, and the coil was on a nail eight inch off the floor behind a door he had shut again in the first week of March.
+
+He got it up with one hand because the other had the lamp in it. The plug caught on the head of the nail on the way down and he turned it before he brought it over, which he would not have done if he had been thinking about what he was doing.
+
+He put it in his bag and shut that door and went back to the ceiling rose.
 
 He did not take the nail. The nail is still on that door frame and it is bright where the coil was round it and it is not bright anywhere else, and it is eight inch off the floor behind a door that stands open about four inch against the skirting.
 
 He went at about four.
 
-The woman who lives in that flat came in at about half past five with her daughter, and he had gone, and the landing was clear, and the back room door was shut, and everything in that front room was as it had been except for a ceiling rose with new flex on it and a faint line of dust where the sill had been wiped round a comb that is standing on it exactly where it was standing.
+The woman who lives in that flat came in at about half past five with her daughter, and he had gone, and the landing was clear, and the back room door was shut, and the only thing in that front room that was different from the morning was a ceiling rose with new flex on it and a clean half-moon in the dust on that sill.
 
 The man in his sixties was in that passage at about four o'clock and the man in his thirties was in it with him and neither of them went up.
 
-The man in his forties has not said anything about either of those two things to anybody and has not been asked about either of them.
+The coil of cable went down those stairs in a bag with a zip on it and out to a van at the bottom of that road, and it is in that van now, under a bag of plaster, and it will be in there on Monday.
 
-He put the comb back where it was standing. He took about thirty foot of cable out of a flat, and it is in that van, and the van is at the bottom of the Cleeve road and it is in there now, under a bag of plaster, and it will be in there on Monday and it will be in there on Tuesday, and that door has stayed shut in front of the man in his sixties since June of the year before last and will stay shut until the summer, and by the summer that coil will be a length of cable in a job in Bleam Street with a bit of it in a splice and a bit of it behind a wall.
-
-**HE PICKED A COMB UP OFF A SILL AND PUT IT BACK IN THE RING OF DUST IT WAS STANDING IN, AND HE TOOK THIRTY FOOT OF CABLE OFF A NAIL BEHIND A DOOR AND SAID NOTHING TO ANYBODY ABOUT EITHER.**
+**HE WENT DOWN THOSE STAIRS AT ABOUT FOUR WITH A BAG HE DID NOT HAVE WHEN HE WENT UP, AND THE ONLY THING ANYBODY COULD SEE IN THAT FLAT AFTERWARDS WAS A CLEAN HALF-MOON IN THE DUST ON A SILL.**

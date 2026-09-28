@@ -6,9 +6,9 @@ Saturday the seventeenth of March 2018, from about ten in the morning until abou
 
 The passage is off a side street and it is about four foot wide and about thirty foot long, and it runs between the back of a row of shops and the side of a building, and it is where the bins stand and where a man parks when he is short of room, and there are six doors off it. Four of them are to workshops at the back of that row and two of them are to a building that has flats on two floors and a yard at the end of it.
 
-Of the two doors at that end of the passage, that room is the first on the left. It is about twelve foot by ten and it has one high window with the bars painted in, and a bench against the far wall with a vice on it and a set of drawers under it, and a concrete floor that was poured about 1962 and has been painted over twice.
+Of the two doors at that end of the passage, that room is the first on the left. It is about twelve foot by ten and it has one high window with the bars painted in, and a bench against the far wall with a vice on it and about six inch of shavings under it, and a concrete floor that was poured about 1962 and has been painted over twice.
 
-The man in his forties has had that room for four years. The woman who works in a shop's father had it before him and had it for nine years before that, and he had his own bench in this borough before it and could not keep the two at once, and that is the whole of why he is in here and not in his own front room, and there is nothing in writing anywhere and no money in it and he is on nothing.
+The man in his forties has had that room for most of three years. The woman who works in a shop's father had it before him and had it for nine years before that, and he had his own bench in this borough before it and could not keep the two at once, and that is the whole of why he is in here and not in his own front room, and there is nothing in writing anywhere and no money in it and he is on nothing.
 
 There is a ledge in that room. It is about four foot long and ten inch deep and it is at about five foot off the floor, and it is not a shelf: it is what is left of a chimney breast that came out in about 1968, and the brick was left where the breast came down, and it is part of the building and it is not anybody's.
 
@@ -50,7 +50,7 @@ He was in that room for about nine minutes.
 
 She did not come in with a bag and she did not write anything down.
 
-She stood in that room and said, "Are those the rods off the stairs at that house."
+She stood in that room and said, "Are those the rods off the stairs at that house?"
 
 That is the whole of what she said about it. She did not say which house, because there is one house in this borough whose hall floor he took up and whose stair rods are in a bag on a ledge in a room at that end of a passage.
 
@@ -80,4 +80,4 @@ He has said nothing to anybody. He has been in that room about thirty times sinc
 
 The rods have not been put back in the bag and the bag has not been put back against that wall and the man in his thirties has not been asked what he saw, and the asking is not going to happen from either side.
 
-**SHE CAME DOWN THAT PASSAGE AT TWENTY PAST TWO WITH A MAN WHO HAD A JOB IN THAT YARD AND HE PUT FOUR BRASS RODS INTO HER HAND INSIDE ABOUT TEN SECONDS, AND THE MAN AT THE DOOR WITH HIS BAG DID NOT TURN ROUND.**
+**HE PUT THE CHISEL DOWN AND WENT TO THE LEDGE AND HE WAS BACK AT THE BENCH WITH THE CHISEL AGAIN INSIDE A MINUTE, AND THE BAG IS ON THAT LEDGE WITH THE JAR AND THE COIL AND THE RULE IN IT AND NOTHING ELSE.**

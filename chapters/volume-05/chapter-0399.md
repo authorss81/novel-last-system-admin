@@ -2,7 +2,7 @@
 
 Thursday the twenty-second of March 2018, from about eight in the morning until about four in the afternoon, a yard behind a row of houses, in Tideglass.
 
-**A MAN IN HIS FORTIES REPOINTED NINE FOOT OF A GARDEN WALL ON A SATURDAY IN FEBRUARY FOR NOTHING AND WAS TOLD BY NOBODY, AND ON THE TUESDAY OF THE TWENTIETH OF MARCH A MAN IN HIS THIRTIES RAKED ALL OF IT BACK OUT AND PUT THE RUBBLE BACK AND SAID NOTHING, AND THE FIRST MAN WENT AND LOOKED AT THAT WALL ON THE FIFTH OF APRIL AND SAID NOTHING EITHER.**
+**A MAN IN HIS FORTIES REPOINTED NINE FOOT OF A GARDEN WALL ON A SATURDAY IN FEBRUARY FOR NOTHING AND WAS TOLD BY NOBODY, AND ON THE WEDNESDAY OF THE TWENTY-FIRST OF MARCH A MAN IN HIS THIRTIES RAKED ALL OF IT BACK OUT AND PUT THE RUBBLE BACK AND SAID NOTHING, AND THE FIRST MAN WENT AND LOOKED AT THAT WALL ON THE FIFTH OF APRIL AND SAID NOTHING EITHER.**
 
 Off the Cleeve road there is a terrace of nine houses with nothing behind any of them but a footway. At the bottom of it, past the last house, a gate in a brick pier gives onto a strip of ground the length of a small car and the width of a doorway, and on the far side of that strip there is a wall with a gate in the middle of it.
 
@@ -38,13 +38,13 @@ He made about nine pounds of mortar. He had a fire going in a bucket for about t
 
 He told nobody. Nobody was there. Neither of the other two men was in that strip of ground, and that last house was shut behind him, and the man who lives in it came in at about six and could not see that wall from the kitchen.
 
-The man in his sixties saw it on the Monday of the nineteenth of March, from the gate, in about a minute.
+On the Thursday of the eighth of March he said a thing to the man in his thirties, in about half a minute at the shop off the parade, and what he said was that he was having a garage built on that land in June and that the brick wall on the far side of it was coming down, and that he did not want anybody spending anything on it.
+
+The man in his sixties saw the pointing on the Monday of the nineteenth of March, from the gate, in about a minute.
 
 He was on his way out and he stopped and looked at the top of that wall and stood there and said nothing to anybody, because there was nobody there.
 
-He has never mentioned it to anybody. He left it out when he spoke to the man in his thirties about that wall a fortnight later, and the subject has not come up with him since, and the answer he would give it now is that he does not know who has been at that wall.
-
-On the Thursday of the eighth of March he said a thing to the man in his thirties, in about half a minute at the shop off the parade, and what he said was that he was having a garage built on that land in June and that the brick wall on the far side of it was coming down, and that he did not want anybody spending anything on it.
+He has never mentioned it to anybody. He did not say a word about it when he told the man in his thirties about that wall coming down, and the subject has not come up with him since, and the answer he would give it now is that he does not know who has been at that wall.
 
 On the Tuesday of the twentieth of March at about ten in the morning he carried a length of downpipe and a bag of fittings into that yard, and the wall was not why he was there.
 
@@ -60,7 +60,7 @@ He came back on the Tuesday after, at about half past ten, and he came back on t
 
 ---
 
-That took him until about half past four on the Wednesday and it was filthy work. The mortar had been down six weeks and some of it had gone hard, and he got it off in lumps about the size of a fist and knocked what would not come off with the point of the bolster and the lump hammer.
+That took him until about half past four on the Wednesday and it was filthy work. The mortar had been down the best part of five weeks and some of it had gone hard, and he got it off in lumps about the size of a fist and knocked what would not come off with the point of the bolster and the lump hammer.
 
 He put it in a sack and that went to the tip on the Saturday.
 
@@ -90,10 +90,10 @@ He stood at that wall for about half a minute.
 
 He saw the loose rubble standing proud of a face that was not flush, and the coping that rocks, and the raw pale place in the brick at the top of the raked length, which is about a foot in from the gate pier and which is not a thing that weather does.
 
-He worked out inside about four seconds that it had been raked out, and that it had been raked out on purpose, and by somebody who knew it had been pointed, and that it had been done inside a fortnight and not by a child.
+He worked out inside about four seconds that it had been raked out, and that it had been raked out on purpose, and by somebody who knew it had been pointed, and that it had been done inside three weeks, and not by a child.
 
 He also worked out that it was the man in his thirties. There is about one other man in this borough who will take a wall apart that belongs to somebody else, and the two of them have not raised it, and it is not going to be raised.
 
 He put the length in the van and shut the gate and went.
 
-**HE STOOD AT THAT WALL FOR ABOUT HALF A MINUTE AND HE HAS SAID NOTHING TO ANYBODY, AND THE MAN WHO RAKED IT OUT HAS NOT ASKED HIM WHY IT WAS DONE AND IS NOT GOING TO.**
+**HE PUT THE LENGTH IN THE VAN, SHUT THE GATE AND WENT, AND HE HAS SAID NOTHING TO ANYBODY ABOUT ANY OF IT, AND THE MAN WHO RAKED IT OUT HAS NOT ASKED HIM WHY IT WAS DONE AND IS NOT GOING TO.**

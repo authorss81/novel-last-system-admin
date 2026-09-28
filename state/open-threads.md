@@ -2995,17 +2995,17 @@ Nothing in Volume 04 has been resolved, undone, improved on, restated or answere
 
 ## 1. A door that two men packed, and the paper still in the hinge
 
-- **MAJOR TURN: THE MAN IN HIS THIRTIES TOOK THE TOP HINGE OFF THAT DOOR ON THE SIXTH OF MARCH AND FOUND A TORN STRIP OF BROWN PAPER PACKED IN THE KNUCKLE AND TOUCH-UP PAINT ON THE FRAME THAT WAS NOT THE PAINT AROUND IT, AND HE PUT THE PAPER BACK AND DID HIS OWN REPAIR AND SAID NOTHING.**
-- **WHAT HE WORKED OUT, IN ABOUT FORTY SECONDS:** that whoever had been there had packed two hinges and not one, had not touched the wrong side, had used the paint that was standing on that landing because there was nothing else on that landing, and had been in and out in half an hour. That the woman who has the letting had not mentioned a painter.
+- **MAJOR TURN: THE MAN IN HIS THIRTIES TOOK THE TOP HINGE OFF THAT DOOR ON THE FOURTH OF MARCH AND FOUND A TORN STRIP OF BROWN PAPER PACKED IN THE KNUCKLE AND TOUCH-UP PAINT ON THE FRAME THAT WAS NOT THE PAINT AROUND IT, AND HE PUT THE PAPER BACK AND DID HIS OWN REPAIR AND SAID NOTHING.**
+- **WHAT HE WORKED OUT, IN ABOUT FORTY SECONDS:** that whoever had been there had packed two hinges and not one, had not touched the wrong side, had used the paint that was standing on that landing because there was nothing else on that landing, and had been in and out in half an hour. That nobody had told the woman who has the letting that a man had been up that stair.
 - **WHAT EACH OF THEM DID NEXT:** he shifted both hinges about three-eighths of an inch instead, which is the other way of doing the same job, and put two inch screws in. The paper is still in that bottom hinge.
 - **WHY NEITHER WILL RAISE IT:** the man in his forties has not been in that building since February and is not going back. The man in his thirties went down that stair with his bag and said nothing and has not mentioned that door to anybody.
 
 ## 2. Crosses on a wall, and four more by the end of the month
 
-- **MAJOR TURN: HE FOUND ABOUT THIRTY PENCIL CROSSES ON THE PLASTER BEHIND A BATTEN HE HAD TAKEN OFF A WALL IN A CELLAR, AND HE WENT BACK TWICE AFTER THE JOB WAS FINISHED AND COUNTED THE NEW ONES, AND HE CANNOT SAY WHAT THEY ARE.**
+- **MAJOR TURN: HE FOUND ABOUT THIRTY PENCIL CROSSES ON THE PLASTER BEHIND A BATTEN HE HAD TAKEN OFF A WALL IN A CELLAR, AND HE WENT BACK TWICE AFTER THE JOB WAS FINISHED AND DID NOTHING AT ALL ON EITHER OF THOSE TWO VISITS, AND HE STILL CANNOT SAY WHAT THEY ARE.**
 - **WHAT IS ACTUALLY THERE:** a column, four inch apart, half an inch across, one arm of each blunt because the pencil was sharpened with a knife. Six under a coat of pink distemper and showing through it. Eighteen faded to the colour of the plaster. Four on the top coat and about four days old when he first saw them. A pencil stub about two inch long is stuck in a joint of the brick at the height of the sixth one up.
-- **WHY HE CANNOT PUT IT DOWN ANYWHERE:** a height does not fit, because the wall is seven foot six and the top of the column is five. A spacing does not fit, because there is no line. A count does not fit, because there is no number on that wall or on any of the other three and none on the floor.
-- **WHAT HE DID WITH IT:** nothing. He told nobody, including the man in his sixties who goes down there most days, and he has not been down again since the second of April.
+- **WHAT HE HAS DONE ABOUT IT:** nothing, and he has not even done that on paper. There was four more at the top of that column when he looked on the last Thursday of March and five more when he looked on the second of April, and he has not written the number down, and he has not got it in words, and if he were asked about it the whole of the answer would be that he was chasing a stack and that the key came to him from the woman who works in a shop.
+- **WHO HE HAS NOT ASKED:** the man in his sixties, who goes down into that cellar most days and has never been in it with anybody, and who has not asked him why there is a batten off that wall. **AND THE FLAG FOR 0022: THIS IS A COLUMN OF MARKS AND NOT A CODE, AND 0022 MAY NOT TURN IT INTO ONE, MAY NOT COUNT IT AGAIN AND MAY NOT GIVE ANYBODY THE SATISFACTION OF A SOLUTION.**
 
 ## 3. Nine foot of new brickwork, and the man who read it from twenty foot
 
@@ -3023,11 +3023,11 @@ Nothing in Volume 04 has been resolved, undone, improved on, restated or answere
 
 ## 5. A wall pointed on a Saturday and raked out on a Wednesday
 
-- **MAJOR TURN: A MAN IN HIS FORTIES REPOINTED NINE FOOT OF A NORTH-FACING GARDEN WALL FOR NOTHING AND TOLD NOBODY, AND A MAN IN HIS THIRTIES RAKED THE WHOLE OF IT BACK OUT THREE WEEKS LATER AND SAID NOTHING, AND THE FIRST MAN FOUND OUT A FORTNIGHT AFTER THAT AND SAID NOTHING EITHER.**
+- **MAJOR TURN: A MAN IN HIS FORTIES REPOINTED NINE FOOT OF A NORTH-FACING GARDEN WALL FOR NOTHING AND TOLD NOBODY, AND A MAN IN HIS THIRTIES RAKED THE WHOLE OF IT BACK OUT THREE WEEKS LATER AND SAID NOTHING, AND THE FIRST MAN FOUND OUT FIFTEEN DAYS AFTER THAT AND SAID NOTHING EITHER.**
 - **WHY THE FIRST ONE DID IT:** the water off a gutter on the parapet above was going down that face and the face was frost-blasted and flaking, and there is a woman and a girl in that last house. He was on a pair of steps above it for four hours before he started.
-- **WHY THE SECOND ONE TOOK IT OUT:** the man in his sixties told him on the eighth of March that the wall is coming down in June for a garage. He took the downpipe out of the alley on the Tuesday, saw nine foot of new pointing, thought nothing of it, came back twice, and raked it out on the second of those days.
+- **WHY THE SECOND ONE TOOK IT OUT:** the man in his sixties told him on the eighth of March that the wall is coming down in June for a garage. He went into that yard on the Tuesday for a length of downpipe, saw nine foot of new pointing, thought nothing of it, came back on the Wednesday at about half past ten, and raked the whole of it out in about six hours and packed the rubble back in loose.
 - **THE ONE THING HE CANNOT UNDO:** the point of a bolster went through the face of a brick a foot in from the gate pier and took off about a thumbnail of it, and there is a raw pale place there now. The rest of the face is loose rubble standing a bit proud.
-- **WHERE BOTH MEN ARE:** the man in his forties has not been in that yard since and has not walked past that wall. The man in his thirties has not asked him why it was done.
+- **WHERE BOTH MEN ARE:** the man in his forties went back once, on the Thursday of the fifth of April, for something to do with a door at the last house in that row, and stood at that wall for half a minute, and has not been back. The man in his thirties has not asked him why it was done and does not know he looked.
 
 ## 6. Four chisels on a wheel that was not his
 
@@ -3039,15 +3039,15 @@ Nothing in Volume 04 has been resolved, undone, improved on, restated or answere
 
 ## 7. Two bands of slates and a length of corrugated iron
 
-- **MAJOR TURN: THE MAN IN HIS THIRTIES CARRIED TWO BUNDLES OF TWELVE SLATES HALF A MILE DOWN A LANE FOR THE MAN IN HIS FORTIES, FOUND THE GATE ON THE LATCH WITH THE BAR UP AND NOBODY IN THAT YARD, WAITED ABOUT TWENTY MINUTES, AND PUT THEM UNDER A SHEET OF IRON.**
+- **MAJOR TURN: THE MAN IN HIS THIRTIES CARRIED TWO BUNDLES OF TWELVE SLATES HALF A MILE DOWN A LANE FOR THE MAN IN HIS FORTIES, FOUND THAT GATE STANDING OPEN ON ITS OWN DROPPED HINGE WITH THE BAR LEANING AGAINST THE BRICK BESIDE IT AND NOBODY IN THAT YARD, WAITED ABOUT TWENTY MINUTES, AND PUT THEM UNDER A SHEET OF IRON.**
 - **WHAT HE CONSIDERED AND DID NOT DO:** he could have taken them back to the van, rung again, gone looking for another key, or put them by the gate where somebody would walk over them. He did none of them and he did not take long deciding.
-- **WHO SAW HIM:** the man who works nights came up that lane at about half past six that morning on his way back from the parade, was level with the gate at about fifteen foot, and did not stop and has not mentioned it.
+- **WHO SAW HIM:** a man who works nights and who has walked that lane four or five mornings a week for two years because it is quicker than the parade at that hour came round the corner at about half past six, was level with the gate at about fifteen foot, saw a man in that yard with a length of iron in his hands, and went on down the lane at the pace he goes down it and has not mentioned it to anybody since.
 - **WHAT THE OTHER MAN DID:** he came on the Wednesday of the fourth, saw the iron leaning the other way with a lump of mortar on it, lifted it, and did not ask anybody where they had been. He put them on the pallet himself and carried them the half mile in two loads and was on his own roof on the Friday.
 
 ## 8. A bundle two inches forward, and two men both wrong the same way
 
 - **MAJOR TURN: TWO MEN WENT INTO THE SAME LOCKED STORE IN THE SAME WEEK, EACH SAW THE SAME BUNDLE OF LATHS OUT OF SQUARE WITH ITS BAND TURNED THE WRONG WAY, AND EACH CONCLUDED THAT THE OTHER HAD BEEN IN THERE. NEITHER WAS RIGHT. THE WOMAN WHO WORKS AT THAT COUNTER HAD MOVED IT HERSELF, TWICE.**
-- **WHAT EACH MAN'S ARITHMETIC WAS:** a woman who works at that counter does not move laths, because there is a barrow and a man comes in with it on Wednesdays and Fridays, and the other man has a key. So the other man did it.
+- **WHAT EACH MAN'S ARITHMETIC WAS:** a woman who works at that counter does not move laths, because there is a barrow and a man comes in with it on Wednesdays and Fridays. The man in his forties has a key and the man in his thirties has not got one and has not been offered one. So it is one of those two, and the man in his thirties put it on the man who has a key.
 - **WHAT SHE ACTUALLY DID:** she took the top bundle off that stack to get at a box of hinges behind it, and put it down about two inches forward and two inches to the right because you cannot get a foot behind a bundle once it is in, and she has done that about once a month for two years. On the Wednesday she did it while the man in his forties was in the same room and neither of them was in the other's way for more than a minute and a half.
 - **WHY NEITHER WILL BE THE ONE:** to raise it is to admit to standing at a rack with nothing in your hands and no reason to be.
 
@@ -3057,7 +3057,7 @@ Nothing in Volume 04 has been resolved, undone, improved on, restated or answere
 - **THE COMB:** a tortoiseshell one about three inch long with two teeth gone out of it, and it is the man in his thirties', and he left it on that sill in the last week of February beside a saucer and forgot it, and he has not been back in that flat since.
 - **THE CABLE:** about thirty foot of two-core and earth, rubber, with a plug on the end, and it is the man in his sixties', and he coiled it onto a nail behind that door in June of the year before last and has never been in that room since. The nail is still there and is bright only where the coil was.
 - **WHY ONE WENT BACK AND ONE DID NOT:** a thing on a bench in his own garage is a thing he can have, and a thing on a nail behind a door in somebody's flat is not, and he has done it in his own place before and not this one in this one, and the reason is a pair of steps and a lamp and nowhere else to put the lamp for a minute and a half.
-- **WHO KNOWS:** the man in his thirties was in the passage forty foot away and will never know about the comb. The man in his sixties has not opened that door and is not going to before the summer.
+- **WHO KNOWS:** the man in his thirties was in the passage thirty foot away and will never know about the comb. The man in his sixties has not opened that door and is not going to before the summer.
 
 ## 10. A wind off the river, and an awning tied up again
 

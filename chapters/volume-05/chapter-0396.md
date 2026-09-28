@@ -1,8 +1,8 @@
 # Chapter 0396 — Behind the Batten
 
-Tuesday the thirteenth of March 2018, from about a quarter past eight in the morning until about half past four in the afternoon, a passage off a side street, in Tideglass.
+Thursday the eighth of March 2018, from about a quarter past eight in the morning until about half past four in the afternoon, a passage off a side street, in Tideglass.
 
-**A MAN IN HIS FORTIES TOOK A LENGTH OF BATTEN OFF A WALL IN A CELLAR ON THE TUESDAY OF THE THIRTEENTH OF MARCH TO GET AT A PIPE BEHIND IT AND FOUND PENCIL CROSSES ON THE PLASTER BEHIND IT, AND HE WENT BACK TWICE AFTER THAT, AND HE HAS NOT PUT THEM TO ANYBODY, AND HE COULD NOT TELL YOU TODAY WHAT THEY ARE.**
+**A MAN IN HIS FORTIES TOOK A LENGTH OF BATTEN OFF A WALL IN A CELLAR ON THE TUESDAY OF THE SIXTH OF MARCH TO GET AT A PIPE BEHIND IT AND FOUND PENCIL CROSSES ON THE PLASTER BEHIND IT, AND HE WENT BACK TWICE AFTER THAT, AND HE HAS NOT PUT THEM TO ANYBODY, AND HE COULD NOT TELL YOU TODAY WHAT THEY ARE.**
 
 The cellar is reached through a passage between two buildings off a side street, and the passage is about five foot wide and is where the bins stand, and the door into the cellar is at the bottom of it, up two steps, and it is a green door with a bar across it.
 
@@ -10,11 +10,11 @@ The room above that cellar is empty and has been locked since about 2011. It was
 
 She has a key. About four other people in this borough have been in that cellar since the autumn.
 
-Most days since then the man in his sixties has been going down into it.
+Most days since then the man in his sixties has been going down into it, and the top of that door is shiny at about four foot off the ground where a hand goes every time.
 
 ---
 
-The man in his forties went in on the sixth of March to chase out a run of pipework for a flat on the first floor of the building the cellar is under, and he was in there on the sixth, on the tenth and on the thirteenth, and on two other days he has not written down, because the woman who works in a shop gave him the key on the sixth and he has not given it back and has not asked her for it again either.
+The man in his forties went in on the sixth of March to chase out a run of pipework for a flat on the first floor of the building the cellar is under, and he was in there on the sixth, on the seventh and on the eighth, and that is the whole of the days he has been in that cellar, because the woman who works in a shop gave him the key on the sixth and he has not given it back and has not asked her for it again either.
 
 The run was for a bathroom on the first floor. There is a soil pipe coming down outside the back of that building and going into the stack in that cellar, and somebody in about 2013 had boxed it in with plasterboard on three sides and left the fourth side open, and the plasterboard had gone soft and there was a smell off it that the woman who works in a shop had noticed from the top of that stair in November.
 
@@ -46,9 +46,9 @@ He put his hand flat on the wall beside the top of that column to feel for a hol
 
 The wall is solid behind about four feet of it and the run he wanted is directly behind the third course down from the top, which is where the column is, and he had to take out about nine square feet of plaster to get at it.
 
-For two and a half hours on the sixth of March he was on his knees in that cellar. He was in there again for about an hour on the tenth, to put a sleeve on and make good round the new pipe. On the thirteenth he went back at about half past two for about half an hour, to finish the making good and to do the other side of that run.
+For two and a half hours on the sixth of March he was on his knees in that cellar. He was in there again for about an hour on the seventh, to put a sleeve on and make good round the new pipe. On the eighth he went back at about a quarter past eight in the morning and was in and out of that cellar and the flat above it until about four in the afternoon, to finish the making good and to do the other side of that run.
 
-On the tenth he took the batten off. On the thirteenth he took the batten off.
+On the seventh he took the batten off. On the eighth he took the batten off.
 
 He has been back twice since as well, and that is the part of it he would not have to explain to anybody.
 
@@ -64,20 +64,14 @@ There were five more.
 
 He put the bar back across the door and went up those two steps and went on and did what he had come to that street for, and he has not been down there again.
 
-He has not put it to anybody.
-
 The man in his sixties goes down into that cellar most days. He has not been asked about the crosses and he has not been asked about the pipework and he has not been asked about the batten, and the pipework was chased out in March by a man who was given a key by the woman who works in a shop. Neither of the two men ever saw the other down there.
 
-The woman who works in a shop gave that key over on the sixth of March and has not thought about it since. She was not there on the sixth, on the tenth, on the thirteenth, that last Thursday or the second of April, and if any one of those five days were put to her she would say that is my cellar and what does it matter.
+The woman who works in a shop gave that key over on the sixth of March and has not thought about it since. She was not there on the sixth, on the seventh, on the eighth, that last Thursday or the second of April, and if any one of those five days were put to her she would say that is my cellar and what does it matter.
 
-He does not know whose the crosses are. That is the part he has not got.
+He does not know whose the crosses are. That is the part he has not got, and he has not got it in words either. He has stood in front of that wall three times with his hands in his pockets and he has not found the sentence for it, and he has not written it down in that cellar or in his van or on the back of his own hand.
 
-They are a height, or they are a spacing, or they are a count, and he has run those three round in his own head about a dozen times since and he has not been able to make any of them sit.
+On the second of April, before he went up those two steps, he put the stub of pencil back into the joint of the brick with the point going down, the way he had found it.
 
-If it were a height it would start at the floor and go up. It does start low and it does go up, but the lowest of them is a foot and a bit off the floor, and the top of them is about five foot, and the wall is seven foot six up to the ceiling joist, and there is nothing on the wall at the top of the column that five foot means anything to.
+If he were asked about any of it, all that would come out of his own mouth is that he was chasing a stack, and that the key came to him from the woman who works in a shop, and that would be the end of it.
 
-If it were a spacing, somebody would be spacing something out along a line, and there is no line on that wall and no line on the floor and no pencil anywhere except a stub about two inch long wedged in a joint of the brick level with the sixth mark from the bottom.
-
-If it were a count of something there would be a number on it somewhere, and there is nothing on that wall and nothing on any of the other three walls of that cellar, and there is nothing on the floor.
-
-**HE WENT DOWN INTO THAT CELLAR TWICE IN APRIL TO LOOK AT A WALL HE HAD NO WORK ON AND HE WENT AWAY BOTH TIMES WITHOUT HAVING FOUND OUT WHAT THOSE CROSSES WERE FOR, AND HE HAS NOT ASKED THE MAN WHO GOES DOWN THERE.**
+**HE HAS GONE DOWN THOSE TWO STEPS FIVE TIMES AND SAID NOTHING TO THE MAN WHO GOES DOWN THERE MOST DAYS, AND THAT MAN HAS NOT ASKED HIM WHY THERE IS A BATTEN OFF THAT WALL.**

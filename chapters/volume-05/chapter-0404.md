@@ -2,7 +2,7 @@
 
 Wednesday the eighteenth of April 2018, from about half past seven in the morning until about six in the evening, a parade, a shop off it, and a hall on a meter at the bottom of it, in Tideglass.
 
-**THE WIND GOT UNDER AN AWNING ON THAT PARADE AT TWENTY PAST ONE ON THE AFTERNOON OF THE EIGHTEENTH OF APRIL AND THE MAN WHO PUTS SHUTTERS UP WENT UP A PAIR OF STEPS AND PUT IT BACK BY TWO, AND NOBODY HAS SAID ANYTHING ABOUT IT, AND THE SAME TWO WRONG THINGS ON THAT PARADE ARE STILL WRONG, AND A LINE UNDER THE LAST ENTRY IN A BOOK IN THIS BOROUGH IS BLANK AND WAS NOT TOUCHED.**
+**THE WIND GOT UNDER AN AWNING ON THAT PARADE AT TWENTY PAST ONE ON THE AFTERNOON OF THE EIGHTEENTH OF APRIL AND THE MAN WHO PUTS SHUTTERS UP WENT UP A PAIR OF STEPS AND PUT IT BACK BY TWO, AND NOBODY HAS SAID ANYTHING ABOUT IT, AND THE SAME TWO WRONG THINGS ON THAT PARADE ARE STILL WRONG AT SIX O'CLOCK THAT EVENING.**
 
 That awning is on a steel frame about nine foot out from the wall and it has been on that shop for about thirty years, and it goes up and down on a windlass with a crank and a chain. It has a rail across the front of it and a bar across the front of that, and it is a green one that has gone grey, and it is the only one on that parade.
 
@@ -66,4 +66,4 @@ Nobody has been in that room on that day or on the day before it or on the day a
 
 One woman in this borough has ever held that book, and she has not walked that corridor since before Christmas, and she is not going, and nobody has asked her about the bottom of that page, because nobody in this borough knows there is a bottom of that page.
 
-**HE CAME DOWN OFF THAT STEPS, PUT THE THING BACK WHERE HE FOUND IT AND WENT ON UP THE PARADE WITH IT OVER HIS SHOULDER, AND SHE STOOD IN HER DOORWAY AND WATCHED HIM GO.**
+**HE WOUND IT DOWN AND UP TWICE AND LET IT GO AND CARRIED HIS STEPS DOWN AND WENT ON UP THE PARADE, AND SHE STOOD AT THE BOTTOM OF THEM FOR ABOUT TEN SECONDS AND THEN WENT BACK IN AND SHUT THE DOOR BEHIND HER, AND THE FRONT BAR OF THAT AWNING IS STILL TIED TO THE FRAME WITH A PIECE OF CORD.**

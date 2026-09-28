@@ -78,6 +78,8 @@ Neither of the two men has ever put it to the other one.
 
 As for the man in his forties, he knows the man in his thirties was on that front on the Wednesday, because everybody on that parade can see that shop has a new door on it and knows who made one. He has not been in that yard since the Wednesday, has not walked past that wall, and has not mentioned it to anybody.
 
-Six times that morning he stood in that yard, and not once in the whole of it did he go round the far end where that wall is, and the man in his forties has not been told that he was on that shop, and nobody has told the other one that a man was at the back of it.
+Six times that morning he went into that yard and not once to the far end of it, which is where his own van stands and which is where that wall is. He did not know there was anybody in that yard with him at all.
 
-**HE STOOD TWENTY FEET OFF THAT WALL AND READ A NINE FOOT LINE OF CHAMFERED BRICKS IN ABOUT TWO SECONDS AND WENT BACK IN FOR HIS BAR.**
+Neither of the two men has ever put it to the other, and nobody has told the man in his forties that the other one came out of that store at about twenty past ten, and nobody has told him that a man was at the back of that building all morning.
+
+**HE LEFT THE BAR UNDER THE STEP WHERE HE HAD PUT IT, HE WENT BACK THROUGH THE STORE THE WAY HE CAME, AND HE PUT A LATH DOWN ON THAT COUNTER AND PAID FOR IT WITHOUT SAYING ANYTHING, AND THE NINE FOOT OF BRICK WAS STILL STANDING AT THE BACK OF THAT SHOP.**
