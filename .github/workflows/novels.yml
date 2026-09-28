@@ -108,6 +108,8 @@ jobs:
           exists=false
           has_done=false
           has_blocked=false
+          has_deferred=false
+          now="$(date +%s)"
           while IFS= read -r prompt; do
             [ -n "$prompt" ] || continue
             phase_dir="$(dirname "$prompt")"
@@ -119,6 +121,10 @@ jobs:
             fi
             if [ -f "$phase_dir/.blocked" ]; then
               has_blocked=true
+            fi
+            if [ -f "$phase_dir/.retry-after" ] && [ "$(cat "$phase_dir/.retry-after")" -gt "$now" ]; then
+              has_deferred=true
+              continue
             fi
             if [ ! -f "$phase_dir/.done" ] && [ ! -f "$phase_dir/.blocked" ]; then
               exists=true
@@ -133,9 +139,10 @@ jobs:
           echo "exists=$exists" >> "$GITHUB_OUTPUT"
           echo "has_done=$has_done" >> "$GITHUB_OUTPUT"
           echo "has_blocked=$has_blocked" >> "$GITHUB_OUTPUT"
+          echo "has_deferred=$has_deferred" >> "$GITHUB_OUTPUT"
       - name: Seed continuation phase
         id: seed
-        if: steps.phase.outputs.exists != 'true' && steps.phase.outputs.has_done == 'true' && steps.phase.outputs.has_blocked != 'true'
+        if: steps.phase.outputs.exists != 'true' && steps.phase.outputs.has_done == 'true' && steps.phase.outputs.has_blocked != 'true' && steps.phase.outputs.has_deferred != 'true'
         run: |
           set -euo pipefail
           continuation_dir="workspace/continuation/next"
