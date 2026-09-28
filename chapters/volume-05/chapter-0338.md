@@ -12,7 +12,7 @@ Not half. Down. The bar across, the padlock on, and no light inside it, and no s
 
 The man in a fleece did not stop. He went on up to the top of the parade and got a bus and did not think about it again until about ten to twelve.
 
-The bus was four minutes late and there were six people on that stop and the woman with a bag of shopping was one of them, and she said to nobody in particular that the fish shop was shut, and the man in her forties said everybody knows, and the woman with the bag said no, that is what I am saying, and neither of those two women has ever spoken to the other one about anything.
+The bus was four minutes late and there were six people on that stop and the woman with a bag of shopping was one of them, and she said to nobody in particular that the fish shop was shut, and the man in his forties said everybody knows, and the woman with the bag said no, that is what I am saying, and neither of those two women has ever spoken to the other one about anything.
 
 He came down that parade at about five to twelve because his bus was late. The fish shop was open. The shutter was up, the bar was back on its brackets, there was a light on behind the counter and there was a man in there, and the man in the fish shop said good morning to him the way a man says good morning to somebody who comes past every morning of his life.
 

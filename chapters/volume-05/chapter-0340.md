@@ -18,7 +18,7 @@ The frame is a metal thing about six foot long and two foot across, folded in ha
 
 He got it up to the top and set it against the wall of that landing outside her door and knocked twice with the back of his hand.
 
-It filled the step from the door frame to the rail on the other side of it. The frame had come apart at one corner where it has been in a van for three days, and the frame is painted on one side and bare on the other, and the mattress was strapped to it with a length of orange webbing that has a ratchet on it and he had put the ratchet on tight enough that the webbing has marked the foam.
+It filled the step from the door frame to the rail on the other side of it. The frame has come apart at one corner where it has been in a van for three days, and the frame is painted on one side and bare on the other, and the mattress was strapped to it with a length of orange webbing that has a ratchet on it and he had put the ratchet on tight enough that the webbing has marked the foam.
 
 She opened the door with her coat on and looked at the thing on the step and did not look at him.
 

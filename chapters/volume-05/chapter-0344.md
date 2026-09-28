@@ -12,13 +12,13 @@ A man came through that parade at about a quarter past six with a sack over his 
 
 The woman who works in a shop has a key to a flat above the three shops and went up the outside stair at about half past seven and came down at about twenty to eight and shut that stair door, and the man in a fleece was at the stop at the top of that parade at about the same time with a paper in his hand and neither of them was on the same side of the road and neither of them looked over.
 
-The man in his thirties was in a yard at the top of Marsh Lane at about a quarter past eight when a man with a barrow came through the gate with four lengths of treated batten on it and put them down in the middle of the yard, about nine foot from where that yard keeps them, and went off up the road without saying where he was going. The man in his thirties left them where they were for about a minute, and then he carried them across the yard himself, one at a time, and put them against the wall where they go, and got on with the day.
+The man in his forties was in a yard off that parade at about a quarter past eight when a man with a barrow came through the gate with four lengths of treated batten on it and put them down in the middle of the yard, about nine foot from where that yard keeps them, and went off up the road without saying where he was going. The man in his forties left them where they were for about a minute, and then he carried them across the yard himself, one at a time, and put them against the wall where they go, and got on with the day.
 
 Down the outside stair at about a quarter to nine went the woman of about fifty-five with two empty jugs, one hooked over the other, and she came up at about ten past ten with a jug in each hand and a kettle over the other, as she has done twice a day since the middle of June, and nobody offered her anything on the way up, and she did not ask anybody for anything.
 
 The man who works nights was at the stop at the top of Marsh Lane at about ten with his coat on, and a bus came at about twenty past ten and stopped and went on, and it was not his bus, and he stood there for about half an hour afterwards.
 
-The woman with a clipboard was on that street at about ten past ten with the board on her knee and a pencil behind one ear, and she was at the far end of what she had, and there were about two lines of room left on it, and she used one of them on a stand and did not use the other one.
+The woman with a clipboard was on that street at about ten past ten with the board on her knee and a pencil behind one ear, and she was on a different sheet from the one she was on in July, and there were about two lines of room left on this one, and she used one of them on a stand and did not use the other one.
 
 The man in his sixties and the man in his forties were in the hall on Carrow Lane at about one in the afternoon and there was a table out and the urn on and no meeting until the Thursday.
 

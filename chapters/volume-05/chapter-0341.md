@@ -58,7 +58,7 @@ He was back in that kitchen at about ten past one and the torch went on the shel
 
 Nobody asked him a single question about any part of that day.
 
-The three letters and a stroke scratched in a nail on the bottom of that case are the only name there is anywhere on it, and they are not his initials and they are not anybody's he can answer to, and the man that scratched them there was selling sets out of the back of a van at a market in the June and had a nail in his pocket and did it to about nine things that morning.
+The three letters and a stroke scratched in a nail on the bottom of that case are the only name there is anywhere on it, and they are not his initials and they are not anybody's he can answer to, and the man that scratched them there was selling sets out of the back of a van at a market in June and had a nail in his pocket and did it to about nine things that morning.
 
 The man who cooks in that kitchen has seen the bottom of that torch twice. He looked at it the first time it came off the shelf and he has not looked at it since, and if you had asked him in that kitchen in the last fortnight whose it was he would have said it was the lad's, and he would have been right, and that would have been the whole of what that kitchen has ever had to do with it.
 

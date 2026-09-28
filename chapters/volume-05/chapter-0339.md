@@ -2,7 +2,7 @@
 
 Monday the twenty-fourth of July 2017, from about half past nine in the morning until about half past twelve, the low end of Cleeve Street, in Tideglass.
 
-**A SHOP AT THE LOW END OF THAT STREET HAD THREE LETTERS COME OUT OF A SIGN OVER ITS WINDOW IN THE SECOND WEEK OF JUNE, AND A MAN SAID AT THAT SHOP DOOR THAT HE WOULD HAVE THE THREE MADE AND PUT BACK BEFORE THE END OF THAT MONTH, AND IT IS THE TWENTY-FOURTH OF JULY, AND ON A MONDAY MORNING HE SAID IT AGAIN TO A WOMAN WHO HAD HEARD IT FROM TWO OTHER MEN, AND NEITHER OF THEM SAID IT THE WAY HE SAID IT, AND HE LET IT STAND.**
+**A SHOP AT THE LOW END OF THAT STREET HAD THREE LETTERS COME OUT OF A SIGN OVER ITS WINDOW IN THE SECOND WEEK OF JUNE, AND A MAN SAID AT THAT SHOP DOOR THAT HE WOULD HAVE THE THREE MADE AND PUT BACK BEFORE THE END OF THAT MONTH, AND IT IS THE TWENTY-FOURTH OF JULY, AND ON A MONDAY MORNING HE SAID IT FOR THE FOURTH TIME TO A WOMAN WHO HAD HEARD IT FROM TWO OTHER MEN, AND NEITHER OF THEM SAID IT THE WAY HE SAID IT, AND HE LET IT STAND.**
 
 The shop shuts at about half past three on a weekday and has shut at about half past three for as long as anybody in that street can remember, and it is a shop that sells bread and offal and a thing called a plain cake, and the woman who runs it has run it for nineteen years and she is not on anything.
 
@@ -36,7 +36,7 @@ She stopped wiping the counter.
 
 He said it before she had asked him anything and she had not been going to ask him anything, and he heard himself do it, and it took him about as long as it takes to put a bag on a kerb.
 
-He is on nothing in this borough. He has not been on anything since a kitchen in Corrance Lane in June. He has a pad in that bag with about nine lines used in it in two years, and there is a line on that pad for that shop and that sign, and he has never opened it on that street, and he did not open it on that street that Monday morning, and a bit of card in a black plastic cover is a thing a man carries for a year without ever needing the last page of it.
+He is on nothing in this borough. He has not been on anything since a kitchen in Corrance Lane in June. He has a pad in that bag with about four lines used in it in two years, and there is a line on that pad for that shop and that sign, and he has never opened it on that street, and he did not open it on that street that Monday morning, and a pad of work notes is a thing a man carries for a year without ever needing the last page of it.
 
 ---
 
@@ -54,7 +54,7 @@ The woman with a clipboard hooked the pencil over her ear and looked at him.
 
 "You've said that before," she said.
 
-"Twice. I have said it twice."
+"That is the fourth time I have said it out loud," said the man in his thirties.
 
 "A man in a fleece made a point of it to me at the shelter at the top of that street about three weeks ago, and said that a man had told him he was going to have that sign done."
 
@@ -64,9 +64,9 @@ The woman with a clipboard hooked the pencil over her ear and looked at him.
 
 "Does it matter," said the man in his thirties.
 
-"It matters to me," said the woman with a clipboard, "because I have got thirty-one things on this sheet and I have got a habit, and what I have got in my head now about that shop is that somebody has given them something. And what you have said to me twice is that somebody is going to make three letters. Those are two different facts and one of them is worth more to that shop than the other one, and I have no way whatever of telling you which one of us is right, and neither of us ever will."
+"It matters to me," said the woman with a clipboard, "because I have got thirty-one things on this sheet and I have got a habit, and what I have got in my head now about that shop is that somebody has given them something. And what you have said to me this morning is that somebody is going to make three letters. Those are two different facts and one of them is worth more to that shop than the other one, and I have no way whatever of telling you which one of us is right, and neither of us ever will."
 
-"I have said three letters three times and I am going to do three letters," said the man in his thirties, and then he shut his mouth, because he had heard the end of that sentence go out into the road and stay there, and it was the third time that sentence had gone out of him in a month and a half and he had not put one of the three things in his hands on the ground.
+"I have said three letters four times and I am going to do three letters," said the man in his thirties, and then he shut his mouth, because he had heard the end of that sentence go out into the road and stay there, and it was the fourth time that sentence had gone out of him in a month and a half and he had not put one of the three things in his hands on the ground.
 
 She wrote nothing on that sheet. There is no column on that sheet for a man's word and there is not going to be one.
 
@@ -74,6 +74,6 @@ She wrote nothing on that sheet. There is no column on that sheet for a man's wo
 
 He said that was fair and she went on down the street and did the next four.
 
-He stood in that road for another few minutes with his bag at his feet and the bucket visible through the glass on the counter at the other end of that shop, and the man in his forties has not been up that street in August and the man in his sixties has not been either, and the woman who runs the shop that shuts early emptied that bucket at about ten and again at about half past ten, and there are three holes in an aluminium sign at the low end of that street and nobody in this borough has done anything about them.
+He stood in that road for another few minutes with his bag at his feet and the bucket visible through the glass on the counter at the other end of that shop, and the man in his forties has not been up that street since the middle of June and the man in his sixties has not been either, and the woman who runs the shop that shuts early emptied that bucket at about ten and again at about half past ten, and there are three holes in an aluminium sign at the low end of that street and nobody in this borough has done anything about them.
 
-**A PLASTIC BUCKET WENT UNDER THREE HOLES IN A SIGN ON THE TWENTY-FOURTH OF JULY AND WILL GO UNDER THEM AGAIN TOMORROW, AND A MAN STOOD IN THE ROAD BELOW IT AND SAID FOR THE THIRD TIME THAT HE WAS GOING TO HAVE THREE LETTERS MADE, AND DID NOT.**
+**A PLASTIC BUCKET WENT UNDER THREE HOLES IN A SIGN ON THE TWENTY-FOURTH OF JULY AND WILL GO UNDER THEM AGAIN TOMORROW, AND A MAN STOOD IN THE ROAD BELOW IT AND SAID FOR THE FOURTH TIME THAT HE WAS GOING TO HAVE THREE LETTERS MADE, AND DID NOT.**

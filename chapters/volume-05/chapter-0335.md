@@ -46,7 +46,7 @@ Not one person in that building has been on that roof since the middle of June a
 
 Three streets off, on the Thursday morning of the sixth, the man in his forties took a bollard out of a road.
 
-It stands at the mouth of a yard entrance where a lane comes off a street of small houses, and it is cast iron and about three foot high and it has a collar round it about two inches from the top, and it is not new and not painted, and it had begun to rock. A man walking into that yard with a barrow catches the side of it with his leg. It had come up about two inches out of the tarmac and the tarmac round it had gone soft and open at the joint, and on the Wednesday of the fifth a woman with a bag went past it, hit it with her ankle, and stopped, and said a word, and carried on into the yard.
+It stands at the mouth of a yard entrance where a lane comes off a street of small houses, and it is cast iron and about three foot high and it has a collar round it about two inches from the top, and it is not new and not painted, and it is beginning to rock. A man walking into that yard with a barrow catches the side of it with his leg. It has come up about two inches out of the tarmac and the tarmac round it has gone soft and open at the joint, and on the Wednesday of the fifth a woman with a bag went past it, hit it with her ankle, and stopped, and said a word, and carried on into the yard.
 
 He was in that street on the Wednesday for a downpipe bracket and he saw her do it, and on the Thursday he came back at about ten with a bar and a lump hammer and a bag of post fixings and about a foot of rubble he had in the van off a job in June.
 

@@ -46,7 +46,7 @@ The set is on the back shelf now with a bit of newspaper under it and it is not 
 
 That was on the Thursday. She did not ask him where it had been, and he did not say, and neither of them has mentioned it since.
 
-She has had it on that shelf now for three weeks and it has not been on once, and there is no aerial on it, and the set that was in it when he brought it in went into a bin at the back of that shop in the second week of August along with a broken lamp and two trays and about a foot of somebody's Christmas, and nobody in that shop keeps a note of that either.
+She has had it on that shelf for a day now and it has not been on once, and there is no aerial on it, and the old set inside it is for a bin at the back of that shop along with a broken lamp and two trays and about a foot of somebody's Christmas, and nobody in that shop keeps a note of that either.
 
 The shop that keeps a note of things is a shop eight miles off, and it has a counter, and it has a woman on it, and the woman on that counter did not know this borough and has never been asked about it.
 
@@ -56,7 +56,7 @@ Here is the whole of what happened to it, and there is not one person in this to
 
 The woman who works in a shop went out into that parade and into that yard nine times between the last week of May and the first week of July, and not always with any reason to be in there, and the set was against the wall of the lean-to every one of those nine times, and she saw it properly once, on the last Friday in June, and she never once said a word about it to a living soul, and there is nobody in that parade who knows that she went in there nine times.
 
-The man in his thirties went into that yard for about six minutes on the fifth of July and came back for it on the twelfth and carried it about two mile and put it on a counter and said four sentences that had nothing in them about a yard.
+The man in his thirties went into that yard for about six minutes on the fifth of July and came back for it on the Thursday and carried it about two mile and put it on a counter and said four sentences that had nothing in them about a yard.
 
 She has not said to him where she first saw it. He has not asked. Neither of them knows that the other one of those two facts is true.
 
