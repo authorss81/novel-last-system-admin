@@ -20,7 +20,7 @@ The brackets are the kind that go over the top and tighten with a screw undernea
 
 He put three hooks in the rail. They are ordinary coat hooks screwed into the rail itself, and he has hung a coil of cable and a bag of bibs and a coil of cord on it, and that is the whole of what that rail is for.
 
-He is a man of a certain height and he is not going to be a man who stands on a box with his arms above his head to get a bag of bibs down. Five foot is the right height for a man of a certain height and he is right and he would say so.
+He is a man of a certain height, and a man of a certain height does not get a box out of a cupboard to reach a bag of bibs. Five foot is the right height for a man of a certain height and he is right and he would say so.
 
 The second rail went up on the morning of the sixth of February.
 

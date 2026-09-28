@@ -6,7 +6,7 @@ Saturday the third of March 2018, from about half past seven in the morning unti
 
 The shutters went up along that parade in the order they go up in and the one at the top was left to the end of the morning, which is what it is always left to, and the man who puts shutters up did the whole length and did not stop anywhere and was gone by about half past nine.
 
-The woman who works in a shop had that counter from ten until about nine and shut at half past three because it was a Saturday, and she was short of nothing all week and had her order in for the Friday.
+The woman who works in a shop had that counter from ten until about nine and shut at half past three because it was a Saturday, and she had not been waiting on anything all week, and Friday's order was on the pad behind the till with the pen lying across it.
 
 The man who works nights was up that parade at about seven that morning, where he has been going every morning since the beginning of December instead of lying in his own front room, and was in it again at about half past four with two sacks of ice in the boot of his car.
 
@@ -30,7 +30,7 @@ At about ten past ten the man who keeps that place came back on the lorry and re
 
 Neither of them said anything about the hour.
 
-The man who keeps that place went and opened the gate and put his hand on it and the other one went through and looked at about eight foot of pipework behind the building for about ten minutes, and they talked about a Monday, and the man in his forties came out again and went up the parade and did the rest of what he had come out for that day.
+The man who keeps that place went and opened the gate and put his hand on it and the other one went through and looked at about eight foot of pipework behind the building for about ten minutes, and they talked about a Monday, and the man in his forties came out again and carried on along the parade with the other two calls on that day still in front of him.
 
 Nobody in this borough knows that either of those two men were ever an hour out of step with each other, and the man in his forties has not mentioned it and is not going to, because there is nothing in it that anybody was let down about and a man who was fifty-five minutes late for a thing nobody arranged has nothing to be late for.
 
@@ -38,7 +38,7 @@ Two things on that parade are wrong and have been wrong for some time and are st
 
 The first is the shutter at the top of it. It has not come all the way down since the twelfth of February. It stops about a foot off the pavement and it goes over the catch and sits there, and the man who puts shutters up puts his hand under the bottom rail and lifts it twice every morning and puts it down twice, and it goes over the catch and sits there.
 
-Nobody has told the woman who lets that shop. Nobody has told the man who owns it. There is a number on a card in a window a few doors along that a person could telephone, and nobody has telephoned it, and the man who puts shutters up is a man who does the whole length of that parade in a morning and does not do the other one for anybody, and the other one is not the only one on that parade that is not quite right.
+Nobody has told the woman who lets that shop. Nobody has told the man who owns it. There is a number on a piece of paper in a window a few doors along that a person could telephone, and nobody has telephoned it, and the man who puts shutters up is a man who does the whole length of that parade in a morning and does not do the other one for anybody, and the other one is not the only one on that parade that is not quite right.
 
 The second is in the middle of it, about ninety foot from the top. A paving slab about eighteen inch by twelve has lifted about an inch and a half out of the bed it is in, and it sits across the full width of that footway with an edge on it like the lip of a step.
 
@@ -60,7 +60,7 @@ In the room at the back of that shop on the parade there is a box on the table t
 
 The woman who works in a shop was in that room at about four on that Saturday and the man who works nights was in it at about half past four, and the box was on the table and neither of them said one word about it, and neither of them has said one word about it to anybody, and the man who put it there has not been in that room and did not come through that hatch on that afternoon and will not.
 
-The hall on the meter at the bottom of that parade was open on that Saturday morning from about half past ten until about one, with the tea urn on and a plate of cake on a table by the pay desk, and about twenty people went in and came out of it over those hours.
+Down at the bottom end of that parade the hall on the meter had its door propped and the urn going, and the urn had been on since about half past ten and it was still on at about one, and a plate of cake sat on a table by the pay desk, and about twenty people went in and out over those hours.
 
 The man who does that hall was behind that table the whole of that time and nobody in that hall put a question to him. He took a collection at about twelve o'clock in an old mug, and about thirty pence went into it, and the woman of about sixty who has come to that hall on a Saturday for about nine years put a pound note in and did not ask what it was for and nobody told her.
 

@@ -1,6 +1,6 @@
 # Chapter 0388 — The Room at the Top
 
-Sunday the third of February 2018, from about half past seven in the morning until about half past nine at night, a block of flats, and a landing in it, in Tideglass.
+Saturday the third of February 2018, from about half past seven in the morning until about half past nine at night, a block of flats, and a landing in it, in Tideglass.
 
 **A MAN IN HIS FORTIES LAID ABOUT THIRTY SQUARE FOOT OF HARDBOARD AND A LENGTH OF SHEET VINYL ON THE FLOOR OF A ROOM AT THE TOP OF A LANDING IN A BLOCK HE DOES NOT LIVE IN ON THE MORNING OF THE THIRD OF FEBRUARY, AND HE HAS NO BUSINESS IN THAT BLOCK AND HE WAS NOT ASKED TO DO THAT FLOOR, AND HE GOT ON WITH IT AND FINISHED IT, AND A WOMAN WHO LIVES IN THAT BUILDING CAME UP THAT LANDING AT ABOUT TWENTY TO ONE FOR A PARCEL AND SAW HIM IN THERE, AND SHE SAID NOTHING TO HIM AND HAS SAID NOTHING TO ANYBODY.**
 
@@ -30,7 +30,7 @@ The floor was the last thing on that room that was ever done, and it was done ab
 
 It is a bitumen tile floor in brown and buff, laid on a wood fillet, and there are about two inches of it over a solid floor, and in the corner under the radiator somebody's chair has been standing on it since the nineteen-sixties and the tiles under that chair are about a quarter of an inch lower than the tiles four foot away.
 
-He had looked at it in December and had thought about it, and on the morning of the third of February he decided to do it, and he told the man in his thirties on the Friday night, in a message, about four words of it, and the man in his thirties said he would be there at nine.
+He had looked at it in December and had thought about it, and on the morning of the third of February he decided to do it, and he told the man in his thirties on the Friday night, in a message, about four words of it, and got back four words saying he would be there at nine.
 
 ---
 
@@ -54,7 +54,7 @@ She came up that landing at about twenty to one for a parcel.
 
 She has the flat at the bottom of that top landing and a woman two floors down had left a parcel on the top step for her that morning, and she comes up that way four or five times a day and has been coming up it since she moved in, and on the third of February she came up at about twenty to one and that room was standing open.
 
-There was a man in his forties on his knees in it at the far end with a knife in his hand and a piece of card in the other one, and a heap of old brown tile against the brick beside him, and most of the new floor laid and a roll of vinyl and a bag of offcuts.
+There was a man in his forties on his knees in it at the far end with a knife in his hand and a piece of stiff brown paper in the other one, and a heap of old brown tile against the brick beside him, and most of the new floor laid and a roll of vinyl and a bag of offcuts.
 
 The man in his thirties was standing at the near end of that room with his coat on and his hands in his pockets and a cup in one of them.
 

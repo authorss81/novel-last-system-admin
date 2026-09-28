@@ -16,9 +16,9 @@ The coil it hangs on has come off. The wire has come away from one terminal and 
 
 ---
 
-There is a number on a piece of card in the front of a box on the shelf in her own kitchen, for a man who does electrical work and does the wiring side of anything. It is on that card with three other numbers and she has had the card since 2015.
+There is a number on a slip of stiff paper in the front of a box on the shelf in her own kitchen, for a man who does electrical work and does the wiring side of anything. It is on that slip with three other numbers and she has had the slip since 2015.
 
-She has not rung it. She has taken the card out twice and put it back.
+She has not rung it. She has taken the slip out twice and put it back.
 
 The reason she has not rung it is not that she does not want a man in the shop with the shutter half up. The reason is that she has had that bell off her mind for five weeks and it has come off her mind again every time, and a woman who has a job going all the time that she has not rung anybody about is a woman who would be embarrassed to start, and she would rather have a bell that does not ring than a bell that rings and a man in her shop remembering that she took five weeks to make the call.
 
@@ -56,13 +56,13 @@ There is nothing to put it about. It is a man in a shop saying what he does not 
 
 She did not ask him again.
 
-She nearly did on the Saturday, which is the day that shop shuts at half past three and which is the day she is in it on her own for the longest. He comes in on a Saturday sometimes. He was in that shop on the Saturday after with a box of plugs and she had the card in her apron pocket and her hand went to it twice, and he was at the near end with the plugs and she was at the far end putting that shop's hours up in the window for the following week, and she did not ask him.
+She nearly did on the Saturday, which is the day that shop shuts at half past three and which is the day she is in it on her own for the longest. He comes in on a Saturday sometimes. He was in that shop on the Saturday after with a box of plugs and she had the slip in her apron pocket and her hand went to it twice, and he was at the near end with the plugs and she was at the far end putting that shop's hours up in the window for the following week, and she did not ask him.
 
-And she did not ask the man in his thirties either, and there are two reasons for that and one of them is that she does not know him and the other one is that a woman who asks two men in a shop whether anybody does a thing has told both of them that nobody did it, and she is not going to be a person in that shop who says that out loud twice.
+And she did not ask the man in his thirties either, and there are two reasons for that and one of them is that she does not know him and the other one is that a woman who asks two men in a shop whether anybody does a thing has told both of them that nobody did it, and she is not going to stand in that shop and say that out loud a second time.
 
-On the Monday she put the piece of card in the bin. Not the whole card. She tore the number off it, which she did with her thumb down the edge of a knife, and the three other numbers went in the bin with the rest of it, and the number off it is in her apron pocket and is not in the bin and is in a pocket that has been washed once since.
+On the Monday she put the slip in the bin. Not the whole of it. She tore the number off it, which she did with her thumb down the edge of a knife, and the three other numbers went in the bin with the rest of it, and the number off it is in her apron pocket and is not in the bin and is in a pocket that has been washed once since.
 
-The man in his forties was in that shop on the Friday of that week and on the Monday after and again a fortnight later, and she rang nothing through for him but what he came for, and he said what he came to say and nothing else, and not one of those three times did either of them come back to a bell, and neither of them knows there was a question.
+He came into that shop three times between the Wednesday she asked him and the end of that month: the Friday of that week, the Monday after, and again a fortnight later, and she rang nothing through for him but what he came for, and he said what he came to say and nothing else, and not one of those three times did either of them come back to a bell, and neither of them knows there was a question.
 
 He does not know that the man in his thirties heard it. He was facing a counter with a woman in it and a bell over his head and he did not turn round.
 

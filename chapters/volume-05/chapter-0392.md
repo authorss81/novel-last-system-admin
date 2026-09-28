@@ -1,6 +1,6 @@
 # Chapter 0392 — Where It Came From
 
-Friday the seventeenth of February 2018, from about half past eight in the morning until about half past nine at night, a street off the parade, in Tideglass.
+Saturday the seventeenth of February 2018, from about half past eight in the morning until about half past nine at night, a street off the parade, in Tideglass.
 
 **A MAN IN HIS SIXTIES PUT A TIN INTO THE HAND OF A MAN IN HIS FORTIES ON A STREET OFF THAT PARADE ON THE AFTERNOON OF THE SEVENTEENTH OF FEBRUARY AND SAID NOTHING AT ALL AS HE DID IT, AND THE MAN IN HIS FORTIES ASKED HIM ONE QUESTION ABOUT IT ON THE MONDAY AND GOT AN ANSWER THAT DID NOT ANSWER IT, AND HE CARRIED THAT TIN ABOUT WITH HIM FOR FOUR DAYS AND PUT IT BACK ON THE SAME LEDGE ON THE TUESDAY WITHOUT A WORD, AND NEITHER OF THEM HAS MENTIONED IT SINCE.**
 
@@ -64,7 +64,7 @@ He was in that shop at about a quarter to twelve and the man in his sixties was 
 
 "It was up in the house," said the man in his sixties.
 
-And the man in his forties did not ask what house and did not ask why and did not ask what the tin was for, and there is a second question available in that shop on the Monday morning which is why, and it is about eight seconds long, and the answer to it would have been a silence of about four seconds followed by nothing at all.
+He let all of that go. Nothing about which house, nothing about why, nothing about what the tin was for, and there is a second question available in that shop on the Monday morning which is why, and it is about eight seconds long, and the answer to it would have been a silence of about four seconds followed by nothing at all.
 
 He did not ask it. He got his change and went out and pulled the edge of the shutter to behind him, which he does not do.
 
@@ -84,7 +84,7 @@ Then he went on down towards the parade, did the fire, and went home.
 
 He said nothing to anybody. There was nobody to say it to.
 
-The man in his sixties came back to that wall on the Wednesday the twenty-first and the tin was on that ledge and he took it and put it in his pocket and took it home and it went back up on the top of that wardrobe in about the place it had been, and it is up there now.
+The man in his sixties came back to that wall on the Wednesday the twenty-first and the tin was on that ledge, and he pocketed it and carried it home and it went back up on the top of that wardrobe in about the place it had been, and it is up there now.
 
 He did not think about where it had been for the four days it had been gone. He did not think about it then, and it has not turned up in his head since, and if anybody raised it with him on that parade a week after, he could not have answered it without being given the whole of the morning first, and what he would have said then is that he cannot remember a tin, and that would have been true.
 

@@ -1,6 +1,6 @@
 # Chapter 0393 — On the Table
 
-Friday the twenty-fourth of February 2018, from about half past seven in the morning until about half past ten at night, a shop off a parade, and a room at the back of it, in Tideglass.
+Saturday the twenty-fourth of February 2018, from about half past seven in the morning until about half past ten at night, a shop off a parade, and a room at the back of it, in Tideglass.
 
 **A MAN IN HIS FORTIES HAD A BOX IN THE BACK OF HIS VAN FOR A FORTNIGHT AND HE CARRIED IT ABOUT WITH HIM AND USED IT FOR NOTHING, AND ON THE AFTERNOON OF THE TWENTY-FOURTH OF FEBRUARY HE PUT IT DOWN ON THE TABLE IN A ROOM HE HAD BEEN INTO TWICE BEFORE AND HAD NOT BEEN INTO FOR MOST OF A YEAR, AND HE SAID NOTHING ABOUT IT TO ANYBODY IN THAT ROOM, AND HE WENT AT ABOUT FIVE O'CLOCK, AND HE HAS NOT BEEN INTO THAT ROOM SINCE, AND NONE OF THE PEOPLE IN THAT ROOM HAS PUT IT TO ANYBODY.**
 
@@ -74,7 +74,7 @@ He put his cup on the table, he said nothing to anybody, and he went out through
 
 He has been in that shop three times since the twenty-fourth of February. He has gone in the front, along that counter, paid for what he came for, and out of the front.
 
-He has not been through that hatch. He used to go through that hatch, not often, but he used to, and he has not been in that room since the Friday afternoon of the twenty-fourth and there is nothing at all in the way and the hatch is where the hatch has always been.
+He has not been through that hatch. He used to go through that hatch, not often, but he used to, and he has not been in that room since the Saturday afternoon of the twenty-fourth and there is nothing at all in the way and the hatch is where the hatch has always been.
 
 Nothing has been said to anybody about it.
 

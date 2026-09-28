@@ -2,7 +2,7 @@
 
 Saturday the twenty-seventh of January 2018, from about half past eight in the morning until about half past nine at night, a back passage behind a row, in Tideglass.
 
-**A GALVANISED CHURN HAS STOOD ON A BRICK LEDGE IN A BACK PASSAGE SINCE A SATURDAY IN NOVEMBER, AND ON THE MORNING OF THE TWENTY-SEVENTH OF JANUARY A MAN IN HIS THIRTIES WHEELED A BICYCLE AS FAR AS IT AND COULD NOT GET PAST IT, AND A MAN IN HIS SIXTIES CAME OUT OF HIS OWN GATE ABOUT TEN FOOT AWAY WITH A CUP IN HIS HAND, AND NEITHER OF THEM SAID ONE WORD TO THE OTHER ABOUT IT, AND IT IS ON THAT LEDGE.**
+**A GALVANISED CHURN HAS STOOD ON A BRICK LEDGE IN A BACK PASSAGE SINCE A SATURDAY IN NOVEMBER, AND ON THE MORNING OF THE TWENTY-SEVENTH OF JANUARY A MAN IN HIS THIRTIES WHEELED A BICYCLE AS FAR AS IT AND COULD NOT GET PAST IT, AND A MAN IN HIS SIXTIES CAME OUT OF HIS OWN GATE ABOUT TEN FOOT AWAY WITH A CUP IN HIS HAND, AND NEITHER OF THEM SPOKE ABOUT IT, AND IT IS ON THAT LEDGE.**
 
 The passage is behind a row of eight houses on a street that does not go anywhere, and it runs about seventy yard from one gate to the other and it is about five foot wide with a high brick wall down both sides and nothing overhead, and four of the eight houses have a back gate into it and the other four are joined to their neighbours.
 
@@ -78,4 +78,4 @@ The man in his sixties has come out of that gate perhaps three hundred times sin
 
 There is no arrangement between them and there has never been any contact between them beyond good morning. They do not know each other. He does not know the man on the bicycle is a man he would recognise in another street, and the man on the bicycle does not know that the man with the cup comes out of the first gate on the left.
 
-**HE PUT A FOOT ON THE PEDAL AND RID BACK UP THAT PASSAGE AND OUT THROUGH THE GAP IN THE FENCE AND WENT ROUND BY THE PARADE INSTEAD, AND HE CAME DOWN THAT PASSAGE SIX MORE TIMES SINCE AND WENT ROUND IT EVERY ONE, AND THE MAN IN HIS SIXTIES HAS GONE ROUND IT ABOUT THREE HUNDRED TIMES.**
+**HE PUT A FOOT ON THE PEDAL AND RID BACK UP THAT PASSAGE AND OUT THROUGH THE GAP IN THE FENCE AND WENT ROUND BY THE PARADE INSTEAD, AND HE CAME DOWN THAT PASSAGE SIX MORE TIMES SINCE AND WENT ROUND IT EVERY ONE, AND THE MAN IN HIS SIXTIES HAS GONE PAST IT ABOUT THREE HUNDRED TIMES.**

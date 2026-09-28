@@ -42,7 +42,7 @@ That was in December. She has not put it to anybody since. She has not told the 
 
 They argued about it on the Wednesday afternoon at about half past two.
 
-The man in his forties was in that shop with a length of something and the man in his thirties was in there at the same time at the other end of the same counter with a box of plugs, and somebody said the first thing.
+The man in his forties was in that shop with a length of something, and at the same moment the man in his thirties was up at the near end of the same counter with a box of plugs, and somebody said the first thing.
 
 The woman who works in a shop did not start it. What happened is that the man in his forties said, in the ordinary way, that a ceiling had come down in the flat above that shop, and the man in his thirties put his box down.
 
@@ -80,7 +80,7 @@ Neither of them said sorry. Neither of them said that he might be right. Neither
 
 They were at that counter together again before the week was out.
 
-The man in his forties was in that shop on the Friday of that week at about a quarter to twelve with a box of screws. The man in his thirties was in there at about ten past twelve the same morning with a roll of tape. They were about two foot apart with a basket between them and they were both at that counter for about six minutes.
+A box of screws came in with the man in his forties at about a quarter to twelve on the Friday of that week. The man in his thirties was in there at about ten past twelve the same morning with a roll of tape. They were about two foot apart with a basket between them and they were both at that counter for about six minutes.
 
 Neither of them said one word about that ceiling. They did not nod. The woman who works in a shop rang both their lots through and told the one of them that the small washers were on the shelf under the one he was looking at and told the other one nothing at all, and neither of them put anything to the other about anything at all.
 
