@@ -6,7 +6,7 @@ Monday the fourth of September 2017, from about ten in the morning until about h
 
 The stair is an outside one at the back of a block by the water and it goes up the rear wall in one run, and the rail on it is fixed to the brick about a foot under the hand height, and at the top of it there is a square of roof over the landing so that the rain does not get on it, and four doors come off that landing and the fourth of them belongs to the woman of about fifty-five.
 
-The man with a van is not the man in his thirties. He emptied a house on the Cleeve road in May and has taken two things out of it since, and there was a third thing in the back of that van on the eighteenth of August.
+The man with a van is not the man in his thirties. He took a house clear on the Cleeve road in May and has brought two things out of it since, and there was a third thing in the back of that van on the eighteenth of August.
 
 The sewing machine is a green one on a wooden stand about three foot long with a knee lever under it and a box in the stand about nine inch deep, and there is a foot in that box and a shuttle and a bodkin and a card of needles and a tin of pins with about nine pins in it, and the belt is on and the needle is threaded and the thread is on a reel in that box and it is not the machine of anybody in this borough.
 
