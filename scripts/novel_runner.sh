@@ -15,6 +15,8 @@ BATCH_TIMEOUT_SECONDS="${BATCH_TIMEOUT_SECONDS:-7200}"
 REVIEW_TIMEOUT_SECONDS="${REVIEW_TIMEOUT_SECONDS:-900}"
 FIX_TIMEOUT_SECONDS="${FIX_TIMEOUT_SECONDS:-3600}"
 CHECKPOINT_INTERVAL_SECONDS="${CHECKPOINT_INTERVAL_SECONDS:-300}"
+MAX_ATTEMPTS="${MAX_ATTEMPTS:-3}"
+RETRY_DELAY_SECONDS="${RETRY_DELAY_SECONDS:-1800}"
 
 if [ -z "${OPENCODE_API_KEY:-}" ]; then
   echo "OPENCODE_API_KEY is missing" >&2
@@ -31,6 +33,9 @@ while IFS= read -r prompt_file; do
   if grep -qi '^Retired .*phase' "$prompt_file"; then
     touch "$candidate/.retired"
     retired_changed=true
+    continue
+  fi
+  if [ -f "$candidate/.retry-after" ] && [ "$(cat "$candidate/.retry-after")" -gt "$(date +%s)" ]; then
     continue
   fi
   if [ ! -f "$candidate/.done" ] && [ ! -f "$candidate/.blocked" ]; then
@@ -121,7 +126,7 @@ resume_wip() {
       resumed_work=true
     fi
     touch "$phase_dir/.checkpoint"
-    rm -f "$phase_dir/.deferred"
+    rm -f "$phase_dir/.deferred" "$phase_dir/.retry-after"
   fi
 }
 
@@ -153,20 +158,43 @@ commit_changes() {
   return 0
 }
 
+defer_phase_with_backoff() {
+  local reason="$1"
+  local attempts=0
+  local retry_at
+  stop_checkpoint_loop
+  if [ -f "$phase_dir/.attempts" ]; then
+    attempts="$(cat "$phase_dir/.attempts")"
+  fi
+  attempts=$((attempts + 1))
+  printf '%s' "$attempts" > "$phase_dir/.attempts"
+  if [ "$attempts" -ge "$MAX_ATTEMPTS" ]; then
+    touch "$phase_dir/.blocked"
+    rm -f "$phase_dir/.deferred" "$phase_dir/.retry-after"
+    commit_changes "novel: block $phase_id" || true
+    echo "Phase blocked after $attempts attempts: $phase_id ($reason)"
+    exit 1
+  fi
+  retry_at=$(( $(date +%s) + RETRY_DELAY_SECONDS ))
+  printf '%s' "$retry_at" > "$phase_dir/.retry-after"
+  touch "$phase_dir/.deferred"
+  commit_changes "novel: defer $phase_id" || true
+  echo "Phase deferred until $retry_at: $phase_id ($reason)"
+  exit 0
+}
+
 checkpoint_and_defer() {
   local reason="$1"
   stop_checkpoint_loop
-  touch "$phase_dir/.checkpoint" "$phase_dir/.deferred"
   checkpoint_wip
-  echo "Phase deferred: $phase_id ($reason)"
-  exit 0
+  defer_phase_with_backoff "$reason"
 }
 
 has_other_incomplete_phase() {
   local candidate
   while IFS= read -r prompt_file; do
     candidate="$(dirname "$prompt_file")"
-    if [ "$candidate" != "$phase_dir" ] && [ ! -f "$candidate/.retired" ] && [ ! -f "$candidate/.done" ] && [ ! -f "$candidate/.blocked" ]; then
+    if [ "$candidate" != "$phase_dir" ] && [ ! -f "$candidate/.retired" ] && [ ! -f "$candidate/.done" ] && [ ! -f "$candidate/.blocked" ] && { [ ! -f "$candidate/.retry-after" ] || [ "$(cat "$candidate/.retry-after")" -le "$(date +%s)" ]; }; then
       return 0
     fi
   done < <(find workspace -name PROMPT.md -type f | sort)
@@ -253,18 +281,14 @@ fi
 
 if ! git diff --quiet; then
   if ! commit_changes "novel: save writer work $phase_id"; then
-    echo "Writer produced no file changes; deferring"
-    touch "$phase_dir/.deferred"
-    exit 0
+    defer_phase_with_backoff "writer produced no file changes"
   fi
 else
   if [ "$resumed_work" = true ]; then
     echo "Writer returned no new changes; promoting resumed WIP commit"
     git push origin HEAD:main
   else
-    echo "Writer exited successfully but produced no file changes; deferring"
-    touch "$phase_dir/.deferred"
-    exit 0
+    defer_phase_with_backoff "writer exited successfully but produced no file changes"
   fi
 fi
 
@@ -277,8 +301,7 @@ stop_checkpoint_loop
 
 if [ "$review_code" -eq 124 ] || [ "$review_code" -eq 143 ]; then
   echo "Review timed out; writer work is already committed"
-  touch "$phase_dir/.deferred"
-  exit 0
+  defer_phase_with_backoff "review timed out"
 fi
 
 if [ "$review_code" -eq 0 ] && grep -qiE 'finding|problem|issue|contradiction|repetition|outline-like|meta' "$review_log"; then
@@ -300,7 +323,7 @@ fi
 
 ensure_next_phase
 touch "$phase_dir/.done"
-rm -f "$phase_dir/.deferred" "$phase_dir/.blocked" "$phase_dir/.checkpoint" "$phase_dir/.wip-conflict"
+rm -f "$phase_dir/.deferred" "$phase_dir/.blocked" "$phase_dir/.checkpoint" "$phase_dir/.wip-conflict" "$phase_dir/.attempts" "$phase_dir/.retry-after"
 if ! commit_changes "novel: complete $phase_id"; then
   echo "Completion marker produced no commit"
   exit 0
