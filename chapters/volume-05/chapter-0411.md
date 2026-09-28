@@ -64,7 +64,7 @@ On the Thursday of the sixteenth he was in a shop in a town eight miles off and 
 
 On the Monday of the twenty-first he saw a man in a fleece put a kettle on a trestle table in the middle of a road and he thought about it for about a second and then thought about something else.
 
-Nothing has gone back for it, and he has not been near that gate since that Friday, and he has not thought about it since, and it is not in that van and it is not in his two rooms and it is in nobody else's.
+Nothing has gone back for it, and he has not been near that gate since that Friday, and it has not once entered into his head, and it is not in that van and it is not in his two rooms and it is in nobody else's.
 
 He set it down at ten to seven on that Friday, the twenty-fifth of May, and it took him about a minute.
 

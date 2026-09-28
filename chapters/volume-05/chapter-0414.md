@@ -2,7 +2,7 @@
 
 Monday the twenty-eighth of May 2018, beginning at about ten to eight in the morning and finishing at about half past one in the afternoon, a parade, and a hall at the bottom of it, in Tideglass.
 
-**THE PARADE DID WHAT IT DOES ON A MONDAY, AND A MAN PUT A PIECE OF BATEN UNDER A LEG OF A TABLE IN A ROOM AT THE BACK OF ONE OF THOSE SHOPS IN ABOUT TEN MINUTES AND TOLD NOBODY, AND THE SAME PEOPLE WENT UP THAT STREET AND CAME DOWN IT AGAIN, AND NOTHING WAS ANSWERED.**
+**THE PARADE DID WHAT IT DOES ON A MONDAY, AND A MAN PUT A PIECE OF BATTEN UNDER A LEG OF A TABLE IN A ROOM AT THE BACK OF ONE OF THOSE SHOPS IN ABOUT TEN MINUTES AND TOLD NOBODY, AND THE SAME PEOPLE WENT UP THAT STREET AND CAME DOWN IT AGAIN, AND NOTHING WAS ANSWERED.**
 
 The parade runs about a hundred and ten yard from the bank end to the top. The shops are on the west side of it and there is a bus stop about two thirds of the way up, and the hall at the bottom of it is on a meter with the key in it, and it was shut all Monday, and a clock in that hall does the lighting itself at four, and nobody in that building was up to watch it do it.
 
