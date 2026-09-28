@@ -40,7 +40,7 @@ She had come out because her own room had been hot since the Saturday and the wi
 
 And that was all of it, and not one word passed between the two of them about a bowl under a strip of paper off the end wall, and the woman in the room next door along went back into her own room and put her own door back to where it always stands.
 
-Nobody in that building has been on that roof since the middle of June and nobody is going up there in July, and the woman of about fifty-five has not told anybody in that building that there is anything to look at, and the woman in the room next door along has said a thing about a kitchen at number thirty-one that neither of them has any reason to believe, and neither of them is going to knock on a door about it.
+Not one person in that building has been on that roof since the middle of June and nobody is going up there in July, and the woman of about fifty-five has not told anybody in that building that there is anything to look at, and the woman in the room next door along has said a thing about a kitchen at number thirty-one that neither of them has any reason to believe, and neither of them is going to knock on a door about it.
 
 ---
 
@@ -62,7 +62,7 @@ He was about three quarters of the way through when a man who is not on anything
 
 "Right," said the man who is not on anything, and he stood there another minute and then went on down the street.
 
-He has been on nothing since the start of April. He did a job in a kitchen in Corrance Lane in June and there is nothing in this borough he is on.
+He has been on nothing since the start of April. He did work in a kitchen off Corrance Lane in June and there is nothing in this borough he is on.
 
 The bollard is in the road. It is plumb. It has not moved since the Thursday and the tarmac round the top of it is going back to the colour of the rest of that road, and in about three weeks you would not be able to say which one it was, and no woman with a bag is going to hit her ankle on it in August.
 

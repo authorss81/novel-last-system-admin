@@ -14,7 +14,7 @@ A traffic cone is standing on the footway underneath it, orange with a white ban
 
 The footway is five foot wide and a person goes under that railing with about a foot and a half over their head, and there is nothing in that passage that stops anybody walking round it, because five foot is five foot and nobody walks round a thing that is five foot overhead.
 
-There are about thirty people a day through that passage in August and there were about four in that heat on the Monday morning, and every one of them has looked up at it, and not one of them has said one word about it to the next person through, because a thing that is hanging off a wall and has not fallen yet is not a thing anybody in a street wants to be the first one to have mentioned.
+There are about thirty people a day through that passage in August and there were about four in that heat on the Monday morning, and every one of them has looked up at it, and not one of them has said a word about it to the next person through, because a thing that is hanging off a wall and has not fallen yet is not a thing anybody in a street wants to be the first one to have mentioned.
 
 ---
 

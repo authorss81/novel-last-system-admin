@@ -42,7 +42,7 @@ It lights about nine foot of that corridor in a yellow, and the bulb is going, a
 
 He has run that mop every time he has been up there since Christmas, on a floor with nothing on it, and the reason he does it is that he does not know how anybody else would know that there was nothing on it, and he has never asked anybody in that building how that is worked, and nobody in that building has ever asked him why he does it, and the mop goes down the same concrete four times a month and comes back up wet and goes into a bucket and goes out again.
 
-The woman of about fifty-five came out of the far room at about half past twelve with a jug in each hand and stopped, because the light from the end of that corridor was a yellow one and not a white one, and she has not seen that torch in that building before.
+The woman of about fifty-five was in that corridor at about half past twelve with a jug in each hand and stopped him, because the light from the end of that corridor was a yellow one and not a white one, and she has not seen that torch in that building before.
 
 "That is a lamp," she said.
 

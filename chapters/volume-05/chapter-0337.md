@@ -48,7 +48,7 @@ She said that was fair and went back to the till.
 
 ---
 
-The hardware shop at the top of the Cleeve road has a trade counter at the back of it and a woman on it two days a week, and the woman who works in a shop goes in there about once a fortnight for a bag of fixings, and she was in there at about half past three on that Sunday because the hall she has been using takes a bag of plugs and a couple of feet of cable and she wanted both and could get them cheaper in there.
+The hardware shop at the top of the Cleeve road keeps a trade counter round the back, and the woman who stands on it is there on Tuesdays and Fridays, and the woman who works in a shop goes in there about once a fortnight for a bag of fixings, and she was in there at about half past three on that Sunday because the hall she has been using takes a bag of plugs and a couple of feet of cable and she wanted both and could get them cheaper in there.
 
 The man who works nights was at that trade counter with his coat on and a length of conduit in his hand, which he has been waiting for, and he has been in that borough a long time and has never been in that hall on Carrow Lane in his life.
 

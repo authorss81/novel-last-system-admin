@@ -12,7 +12,7 @@ Then he came back twice in July, and the two of those are the whole of this.
 
 ---
 
-On the Thursday of the sixth of July he came up that stair at about half past ten in the morning with a bed base and a mattress.
+On the Thursday of the sixth of July he carried a bed base and a mattress up that outside stair at about half past ten in the morning.
 
 The frame is a metal thing about six foot long and two foot across, folded in half down the middle and strapped with two lengths of webbing, and there is a foam mattress rolled against it and strapped to the frame with a third length, and the whole thing weighs about what a man can get up nine treads with and it took him two goes with it and he had it on that landing in about four minutes.
 

@@ -26,7 +26,7 @@ He put his bag down on the kerb. He has a pad of work notes in the bag with the 
 
 "I've got a bucket on that counter," said the woman who runs the shop that shuts early. "Since June. And I am going to have a bucket on that counter every day until the summer's out, and then it will be a bucket on that counter every day the rain comes, and nobody has said one word to me about the bucket, and I have not said one word to anybody about the bucket, and I am telling you about the bucket because you have been stood in that road looking at my sign for a minute and a half."
 
-"I am going to have those three letters made and put back in that sign before the end of the month," said the man in his thirties.
+"I am going to have those three letters made and put back in that sign before this month is out," said the man in his thirties.
 
 She stopped wiping the counter.
 
@@ -50,7 +50,7 @@ He was standing in the road about ten foot off with his bag at his feet.
 
 "That sign's had three letters out of it since June," said the man in his thirties. "I'm going to have them made and back in before the end of the month."
 
-The woman with a clipboard put her pencil behind her ear and looked at him.
+The woman with a clipboard hooked the pencil over her ear and looked at him.
 
 "You've said that before," she said.
 
