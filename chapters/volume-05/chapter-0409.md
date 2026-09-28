@@ -2,11 +2,11 @@
 
 Monday the seventh of May 2018, beginning at about a quarter past seven in the morning and finishing at about half past five in the afternoon, a passage and a back room in a block off a side street, in Tideglass.
 
-**A MAN IN HIS FORTIES WENT INTO THE BACK ROOM OF A MAN IN HIS SIXTIES AT HALF PAST EIGHT IN THE MORNING TO FIND A STOP TAP AND CAME OUT WITH A THIRTEEN INCH DOVETAIL LEVEL OFF THE SHELF BY THAT WINDOW, AND AT HALF PAST FOUR THAT AFTERNOON THE MAN IN HIS SIXTIES WENT INTO HIS OWN ROOM AND LOOKED ROUND IT TWICE AND SAID NOTHING TO ANYBODY AND HAS NOT ASKED.**
+**A MAN IN HIS FORTIES WENT INTO THE BACK ROOM OF A MAN IN HIS SIXTIES ABOUT TWENTY PAST NINE IN THE MORNING TO FIND A STOP TAP AND CAME OUT WITH A THIRTEEN INCH DOVETAIL LEVEL OFF THE SHELF BY THAT WINDOW, AND AT HALF PAST FOUR THAT AFTERNOON THE MAN IN HIS SIXTIES WENT INTO HIS OWN ROOM AND LOOKED ROUND IT TWICE AND SAID NOTHING TO ANYBODY AND HAS NOT ASKED.**
 
 That block is four flats, and you go in off the street through a passage the width of one person. The passage is the width of one person with the meter cupboard on the left and the stair going up off the end of it.
 
-The man in his sixties has the ground floor and has had it since about 2009. There is a front room off that passage with a bay, and behind it, at the back of that ground floor, there is a back room about ten foot by nine with a window on the yard.
+The man in his sixties has had that ground floor since about 2009. There is a front room off that passage with a bay, and behind it, at the back of that ground floor, there is a back room about ten foot by nine with a window on the yard.
 
 That back room has not been used as a room since about 2014. It has a cold concrete floor and a fireplace in it that is bricked up and a press bed frame in it with a mattress on it that is a mattress from about 1992.
 
@@ -38,7 +38,7 @@ The man in his forties was there about two hours over the Monday. He had the bot
 
 At about twenty past nine he went into the back room to find a stop tap.
 
-The cold water to the first-floor bathroom comes off a pipe that runs in the duct between that bathroom and that back room, and the stop tap is behind the plaster in the back room, and a woman who lives in that flat had said on the Monday morning in a shop off that parade that the cold had gone cold in the bath and then gone cold again in about four minutes, which is a stop tap at the end of a run and not a stopcock, and she had asked him whether he would look.
+The cold water to the first-floor bathroom comes off a pipe that runs in the duct between that bathroom and that back room, and the stop tap is behind the plaster in the back room, and a woman who lives in that first-floor flat had said on the Monday morning in a shop off that parade that the cold had gone cold in the bath and then gone cold again in about four minutes, which is a stop tap at the end of a run and not a stopcock, and she had asked him whether he would look.
 
 It is a quarter turn of a copper stopcock in a plaster box about ten inch off that floor, and the plaster box has been opened and made good twice and he got it open in about ten minutes and turned the tap off and took about a minute off the top of the pipe and put a new washer in it and put the plaster box back.
 

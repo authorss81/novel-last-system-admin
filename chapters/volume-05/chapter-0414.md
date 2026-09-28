@@ -56,11 +56,11 @@ Set any two of those four beside each other and there is nothing to set them aga
 
 There is one thing in that borough a person could not put into words if they were asked for it, and it is the same one it was a fortnight back.
 
-A wire birdcage is standing against the inside of a brick pier at the bottom of a lane, under the hood of a gate that does not shut, and it has been there since about a quarter to seven on the Friday before. The man who owns that yard has walked past it twice and has not touched it and does not know whose it is.
+A wire birdcage is standing under the hood of a gate that does not shut at the bottom of a lane, on its base, with its back to a brick pier, and it has been there since about a quarter to seven on the Friday before. The man that yard belongs to last went into it in the middle of May, before any of this, and he has not been back and he does not know what is up against his pier there.
 
 There is a room in a block by the water whose door has never caught on its latch. Inside it there is a shelf, and on that shelf is a book, and that book has nineteen entries written in it, and the last of those entries has a space under it that has stood empty through one thousand two hundred and seventy-nine days.
 
-Nobody went into that room on that Monday, nor on the day before it, nor on the day after that. One woman in this borough has ever had that book in her hands, she was not asked about it that week, and she did not go down that corridor and is not going to.
+Nobody went into that room on that Monday, nor on the day before it, nor on the day after that. One woman in this borough has ever had that book in her hands. She was not asked about it that week, and she did not go down that corridor and is not going to.
 
 ---
 

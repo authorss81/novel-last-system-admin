@@ -58,7 +58,7 @@ The water was about five inches below the top and it was completely flat and it 
 
 And at the bottom of that tank there was about four inches of it, settled out of the water and lying across the whole floor of the tank in a skin, and it had gone into the joints of the four sides and into the corners where those sides are bolted to their frames, and where a skin like that has been lying undisturbed for months the side it has been lying against has a clean line across it about the height the water has been standing at, and this one had two of those lines on it, which means the level has come down twice.
 
-The float valve was stuck wide open. He put his hand in and turned the arm over and it would not move, and the arm was stiff with scale where it had been sitting in one position since Christmas, and the overflow was running. He stood there and listened to it and he could hear it, a thin noise of water going out through a pipe in a wall, and that is what a tank sounds like for a hundred and ninety days.
+The float valve was stuck wide open. He put his hand in and turned the arm over and it would not move, and the arm was stiff with scale where it had been sitting in one position since Christmas, and the overflow was running. He stood there and listened to it and he could hear it, a thin noise of water going out through a pipe in a wall, and that is what a tank sounds like for a hundred and twenty days.
 
 Nobody in that terrace knows that. The water went in at the top of the yard and went out the same way it did before 1974 and the bills have been about the same for as long as any of them has been there, and the man at the end of that terrace pays the same as the man at the parade end and has never once asked why.
 

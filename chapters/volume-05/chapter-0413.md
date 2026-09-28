@@ -2,7 +2,7 @@
 
 Tuesday the twenty-second of May 2018, starting at about half past eight in the morning and running until about half past six in the evening, a block of six flats on a side street, and a shop off that parade, in Tideglass.
 
-**A MAN IN HIS FORTIES SPENT SEVEN HOURS IN A BATHROOM ON THE THIRD FLOOR OF THAT BLOCK AND WENT INTO A HOT CUPBOARD OFF THE LANDING TWICE WITH HIS HEAD AND SHOULDERS IN IT, AND IT DID SOMETHING TO HIM BOTH TIMES, AND HE SAT DOWN ON A STEP FOR SIX MINUTES THE SECOND TIME AND CARRIED ON AND FINISHED THAT BATHROOM AND DID NOT RING ANYBODY, AND A MAN IN HIS THIRTIES SAW HIM SITTING THERE AND SAID NOTHING.**
+**A MAN IN HIS FORTIES SPENT ABOUT EIGHT HOURS IN A BATHROOM ON THE THIRD FLOOR OF THAT BLOCK AND WENT INTO A HOT CUPBOARD OFF THE LANDING TWICE WITH HIS HEAD AND SHOULDERS IN IT, AND IT DID SOMETHING TO HIM BOTH TIMES, AND HE SAT DOWN ON A STEP FOR SIX MINUTES THE SECOND TIME AND CARRIED ON AND FINISHED THAT BATHROOM AND DID NOT RING ANYBODY, AND A MAN IN HIS THIRTIES SAW HIM SITTING THERE AND SAID NOTHING.**
 
 There are six flats in that building, it is about seventy years old, and the door of it is on a side street, and the stair goes up off the passage in two flights with a half-landing between the second and third and between the fourth and the fifth, and the walls on the half-landings are solid and there is no window on either of them.
 
@@ -14,7 +14,7 @@ Nobody in that block has looked at that hinge since it went and nobody has said 
 
 ---
 
-He was let into that flat at about half past eight by a woman who lives in it, who has been in it since about February and who went out at about nine to a hospital appointment and came back at about ten and then went again.
+He was let into that flat at about half past eight by a woman who lives in that third-floor flat, who has been in it since about February and who went out at about nine to a hospital appointment and came back at about ten and then went again.
 
 The job is a bathroom on the third floor. The basin is a pedestal basin from about 1968 with a cracked pedestal and a hot tap that is seized, and the trap is a bottle trap with a tail that has gone brittle, and there is a length of copper on the hot side that has been remade twice by somebody else and is going to be done again.
 
@@ -46,7 +46,7 @@ He was on the ladder that day and the basin and the tap are on the wall opposite
 
 He went in at about twenty past one and he came out at about ten to two.
 
-He came out backwards, got about four steps down that stair, and stopped, and sat down in the dark on the lowest tread of the flight above him with his bag between his boots and his hand across his eyes, and stayed there.
+He came out backwards, got about four steps down that stair, and stopped, and sat down in the dark on the lowest tread of the flight above him with his bag between his boots and his hand across his eyes, and stayed there for about six minutes.
 
 For about four seconds he could not have told anybody whether he was all right, and then he could, and then he was angry with himself, and he said out loud, once, to himself, in about nine words, that he would not go back in there again that afternoon.
 
@@ -56,9 +56,9 @@ He did not ring anybody. He did not tell anybody. He did not put a word of it in
 
 He has never fixed the hinge on that door and he has never told anybody about that hinge and the door is still standing about two inch out from that frame.
 
-The man in his thirties was in that block on the Tuesday morning, on the second floor, and he was back at about twenty past one for something on the fourth.
+The man in his thirties was in that block on the Tuesday morning, on the second floor, and he was back at about ten to two for something on the fourth.
 
-He came up that stair at about twenty past one with a bag of screws in his hand and went on past the lower half-landing on his way up.
+He came up that stair at about ten to two with a bag of screws in his hand and went on past the lower half-landing on his way up.
 
 The man in his forties was sat on the lowest tread of that flight, with his bag between his boots and his forearm across his eyes.
 
