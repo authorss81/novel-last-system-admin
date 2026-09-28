@@ -52,6 +52,6 @@ He worked out that one man had done it, alone, in one day, with his own money, a
 
 And then he picked the bag up and went on down the path to his van.
 
-He has not mentioned it. Their working days have not crossed in three years and there is no reason they should start now, and if one of them brought it up the other one would have to decide on the spot what his face was doing, and neither of them has had to decide anything.
+He has not mentioned it. He and that man have said about a dozen sentences to each other in all of the three years, and every one of them was on the last morning of August and about a stump, and they have not seen each other since, and there is no reason they should start now, and if one of them brought it up the other one would have to decide on the spot what his face was doing, and neither of them has had to decide anything.
 
-**SIX LENGTHS ARE BACK ON SIX POSTS ALONG A DITCH AND TWO MEN KNOW WHAT THAT MEANS AND NEITHER HAS SAID A WORD ABOUT IT TO ANYBODY.**
+**SIX LENGTHS ARE BACK ON SIX POSTS ALONG A DITCH AND TWO MEN KNOW WHAT THAT MEANS AND NEITHER OF THEM HAS PUT IT TO ANYBODY ELSE.**

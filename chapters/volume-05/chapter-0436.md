@@ -1,8 +1,8 @@
 # Chapter 0436 — A Case, Laced Up
 
-Saturday the twenty-fifth of August 2018, and the four working days that began on the Monday after it, one block of flats off a road off that parade, in Tideglass.
+Saturday the twenty-fifth of August 2018, and the four working days that began on the Monday after it and stopped on the Thursday, one block of flats off a road off that parade, in Tideglass.
 
-**A MAN IN HIS THIRTIES MOVED A CASE OFF A LOW TABLE IN A PASSAGE IN ORDER TO GET HIS OWN BAG OFF THE FLOOR BEHIND IT, READ A PIECE OF PAPER TIED TO THE HANDLE, PUT IT BACK, WORKED FOR THREE MORE DAYS UNDER IT, FOUND ON THE THURSDAY THAT IT HAD GONE, AND HAS NOT ASKED ANYBODY ANYTHING.**
+**A MAN IN HIS THIRTIES MOVED A CASE OFF A LOW TABLE IN A PASSAGE IN ORDER TO GET HIS OWN BAG OFF THE FLOOR BEHIND IT, READ A PIECE OF PAPER TIED TO THE HANDLE, PUT IT BACK, WORKED FOR TWO MORE DAYS UNDER IT, FOUND ON THE THURSDAY THAT IT HAD GONE, AND HAS NOT ASKED ANYBODY ANYTHING.**
 
 The block is one of three that face each other across a turning head, and this is the one with the bin store and the drying green behind it. The job was a floor in a ground-floor back room that somebody had already taken up and found soft at the near corner, and it is four days, and he is there from about eight until about half past four.
 
@@ -28,7 +28,7 @@ He set the case back on the table, handle to the wall, at the same angle it had 
 
 The floor went down to the joists at the near corner and up again with cement and sand and a new joist at that end, and that took the Monday, the Tuesday and most of the Wednesday, with the case in the passage the whole time and the door propped and the light on it. He walked past it about sixty times.
 
-The woman came in on the Wednesday and went up and did not come down. On the Thursday she came in at about one and went up again. He heard her on that stair on the Wednesday and on the Thursday and on the Friday, and there are four flats on that stair and the other three were empty, and he worked that out on the Wednesday and not on the Thursday.
+The woman came in on the Wednesday and went up and did not come down. On the Thursday she came in at about one and went up again. He heard her on that stair on the Wednesday and on the Thursday, and there are four flats on that stair and the other three were empty, and he worked that out on the Wednesday and not on the Thursday.
 
 The case was not on the table and his bag was.
 
@@ -42,7 +42,7 @@ There is no way of telling from that flat whether the case went on a bus, on a t
 
 He has not been back to that block. There was nothing to go back for. The floor is up and the beading is on it, and the beading is the only thing in the world that anybody wanted out of those four days.
 
-There is a mat by the front door of that flat that has not moved in the two years he has been in and out of that block, and it is the only thing in that passage he would have sworn to, and he would have sworn to the case as well, and on the Friday afternoon he stood in the doorway for a second on his way out and looked at the table and did not see anything on it at all, which is what a man does when there is nothing on it.
+There is a mat by the front door of that flat that has not moved in the two years he has been in and out of that block, and it is the only thing in that passage he would have sworn to, and he would have sworn to the case as well, and on his way out that Thursday he stood in the doorway for a second with his bag at his feet and looked at the table and did not see anything on it at all, which is what a man does when there is nothing on it.
 
 ---
 

@@ -40,9 +40,7 @@ She did three more things in that building in the fortnight after, and none of t
 
 The week after, she took a bag of rubbish down off the second-floor landing where somebody had put it out to be collected and it had been rained on, and put it in the bin store, and the man on the top floor heard her and knew who it was and did not come down.
 
-The week after that, she got the back door of the bin store up off its bottom stop with a folded piece of newspaper, because it had been catching for months and it is the sort of thing that takes a minute.
-
-The week after that, she changed the bulb in the passage that goes down to the cellar, which had been out longer than the half-landing had.
+The week after that, she got the back door of the bin store up off its bottom stop with a folded piece of newspaper, because it had been catching for months and it is the sort of thing that takes a minute, and in the same week she changed the bulb in the passage that goes down to the cellar, which had been out longer than the half-landing had.
 
 He saw her twice in the building.
 

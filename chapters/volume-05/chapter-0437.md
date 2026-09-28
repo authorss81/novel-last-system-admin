@@ -1,6 +1,6 @@
 # Chapter 0437 — Eighteen Inch Across
 
-Friday the thirty-first of August 2018, about twenty minutes past ten in the morning and about eight minutes, a corner of ground where two streets come together, in Tideglass.
+Friday the thirty-first of August 2018, from about ten past ten in the morning to about half past ten, a corner of ground where two streets come together, in Tideglass.
 
 **TWO MEN STOOD ON THE SAME TWENTY YARD OF TARMAC ON THAT MORNING BECAUSE BOTH OF THEM WANTED A STUMP OUT OF IT, AND BOTH OF THEM WERE RIGHT ABOUT WHY, AND NEITHER OF THEM EVER SAID HIS REASON AND NEITHER OF THEM SAID THE OTHER MAN WAS WRONG.**
 
@@ -16,7 +16,7 @@ The man in his forties was already there.
 
 ---
 
-What they said in the first minute was that it is a big one, and the man in his thirties said it needs a bar, and the man in his forties said there was one against the wall, and went and got it.
+What they said in the first minute was that it is a big one, and the man in his thirties said he had brought one, and the man in his forties said there was one against the wall and would use that, and went and got it, and the man in his thirties put his own down flat on the kerb behind him and left it lying there.
 
 What the man in his forties did not say is that on the fourth of July, at about half past three in the afternoon, he came round that corner on foot and a woman came out of the parade side in front of him and put her front foot on the lip and went down onto her hands and knees in the road. She stayed there a bit under a minute. Then she got up and went on up the parade.
 
@@ -48,8 +48,8 @@ The man in his forties said that whoever cut it ought to have taken the root out
 
 Neither of them said what he wanted it out for.
 
-Neither of them asked the other what the other wanted it out for, and each of them went away believing he had more or less the same idea as the other man. Each of them was wrong about that. Neither of them will ever find out that he was wrong, because there has not been one word between them since about a quarter to twelve and there is not going to be, and neither of them has any reason to think the other man is thinking about him.
+Neither of them asked the other what the other wanted it out for, and each of them went away believing he had more or less the same idea as the other man. Each of them was wrong about that. Neither of them will ever find out that he was wrong, because there has not been one word between them since about half past ten and there is not going to be, and neither of them has any reason to think the other man is thinking about him.
 
-They put the crowbar back against the wall the same way it was, handle up, the end in the gap where the downpipe comes out of the brick. The man in his forties went up the parade and the man in his thirties went down Ferry Lane, and the corner is as it was at ten past ten except for the lip, and the stump is still in it, proud of the road by half an inch where this morning it was flush.
+They put the crowbar back against the wall the same way it was, handle up, the end in the gap where the downpipe comes out of the brick. The man in his forties went up the parade and the man in his thirties picked his own bar up off the kerb where he had left it and carried it back down Ferry Lane under his arm, and the corner is as it was at ten past ten except for the lip, and the stump is still in it, proud of the road by half an inch where this morning it was flush.
 
 **A CROWBAR IS AGAINST A WALL ON THAT CORNER AND THE TARMAC ROUND A STUMP HAS BEEN PUT BACK CROOKED, AND BOTH OF THE MEN WHO PUT IT BACK THINK THE OTHER ONE WAS TALKING ABOUT THE SAME THING HE WAS.**

@@ -28,7 +28,7 @@ Her heel went off the edge of the flag by the door. The tray went over. About a 
 
 It took about half a minute for three people to be in it and about four minutes to finish.
 
-The man in his forties, who was at the top end, came down and picked four rolls out of the channel. The man in his sixties, who was at the front of the shop, picked three off the pavement and two out of the channel. The woman with the dog picked three up and put them on the tray. The man who works nights, coming back down the parade, stopped, picked up two, put them on the tray and went on up the road. A woman who had been standing in the doorway of the shop that shuts early got six off the pavement, carried them in, and brought the tray out again. The girl with the broom had gone in, came out, and got two more.
+The man in his forties was at the top end and came down and picked four rolls out of the channel. The man in his sixties, who was at the front of the shop, picked three off the pavement and two out of the channel. The woman with the dog picked three up and put them on the tray. The man who works nights, coming back down the parade, stopped, picked up two, put them on the tray and went on up the road. A woman who had been standing in the doorway of the shop that shuts early got six off the pavement, carried them in, and brought the tray out again. The girl with the broom had gone in, came out, and got two more.
 
 A cyclist put a hand out, took one off the pavement and carried on.
 

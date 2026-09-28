@@ -2,7 +2,7 @@
 
 Wednesday the twenty-second of August 2018, and about the six hours in the middle of it, Ashlay Street from end to end, in Tideglass.
 
-**A BLANKET FOLDED IN THREE AND DONE UP IN STRING WENT ACROSS THAT TOWN IN THE ARMS OF TWO PEOPLE WHO HAD SPOKEN TO EACH OTHER ONCE, IN JUNE, FOR ABOUT TWO MINUTES, AND NEITHER OF THEM KNEW THE OTHER ONE HAD ONE, AND NEITHER OF THEM PUT IT DOWN AND NEITHER OF THEM SAID ONE WORD.**
+**A BLANKET FOLDED IN THREE AND DONE UP IN STRING WENT ACROSS THAT TOWN IN THE ARMS OF TWO PEOPLE WHO HAD NEVER SPOKEN AND NEVER WOULD, AND NEITHER OF THEM KNEW THE OTHER ONE HAD ONE, AND NEITHER OF THEM PUT IT DOWN AND NEITHER OF THEM SAID ONE WORD.**
 
 The street is about a quarter of a mile long and goes down from the bus stop at the top to the postbox at the bottom, and there is nothing on it that anybody would stop for. Sixteen houses, nine of them terraced, then a row of four with a gap for a passage, then eight more, and a corner shop at the bottom that shuts at half past five and sells everything.
 

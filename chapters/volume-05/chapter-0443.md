@@ -2,7 +2,7 @@
 
 Thursday the twenty-seventh of September 2018, about eight in the morning and about half past ten at night, a turning head at the top of Ashlay Street, in Tideglass.
 
-**A STOOL STOOD IN THE MIDDLE OF A TURNING HEAD AT EIGHT IN THE MORNING AND ONE MAN THOUGHT SOMEBODY HAD PUT IT OUT AND GONE BACK FOR SOMETHING, AND AT HALF PAST TEN AT NIGHT A SECOND MAN THOUGHT SOMEBODY HAD BEEN SITTING ON IT FOR A YEAR, AND BOTH OF THEM WERE RIGHT AND NEITHER HAS ASKED THE OTHER WHAT HE SAW.**
+**A STOOL STOOD IN THE MIDDLE OF A TURNING HEAD AT EIGHT IN THE MORNING AND ONE MAN THOUGHT SOMEBODY HAD PUT IT OUT AND GONE BACK FOR SOMETHING, AND AT HALF PAST TEN AT NIGHT A SECOND MAN THOUGHT SOMEBODY HAD BEEN SITTING ON IT FOR A YEAR, AND BOTH OF THEM WERE RIGHT AND NOT ONE OF THEM HAS PUT HIS HALF OF IT TO THE OTHER.**
 
 The turning head is where Ashlay Street ends in a hammerhead about twenty yard across, with a grass island in the middle of it that nobody mows between about June and about March, and the tarmac round the island is the widest bit of hard standing for about a mile.
 
@@ -38,7 +38,7 @@ He also thought, standing there, that the man who had put it out had never come 
 
 There are sixteen houses looking onto that head and he does not know a soul in any of them. He has never been inside any of them. He has driven past that head in the dark more times than he could put a figure on.
 
-The two men had not spoken to each other that day or the day before. They had not spoken to each other since a shop in June. He is not aware, standing on that island at half past ten, that anybody else in this town has looked at that stool in 2018, and if he had been asked he would have said it had been put out that morning by somebody in a hurry.
+The two men had not spoken to each other that day or the day before. They had not spoken to each other since the last morning of August, when they had stood on a corner about a mile off from that head for about twenty minutes, put a foot square of tarmac back crooked on a stump, and each gone away believing the other one had been talking about the same thing he had. He is not aware, standing on that island at half past ten, that the other man has looked at that stool in 2018 at all, and if he had been asked he would have said it had been put out that morning by somebody in a hurry.
 
 He went home at about a quarter to twelve.
 
@@ -48,7 +48,7 @@ The stool was gone on the Saturday morning.
 
 There is no way of telling from that head whether it went back into a house, or was put out for something and collected, or was carried off on a barrow to somewhere else entirely. Neither man asked anybody, and neither man has mentioned it to the other or to anybody else.
 
-They have seen each other twice since that Thursday, once in a shop in June and once on a pavement in the middle of August, and neither of them has ever stood on a corner with the other and gone through a morning with him, and there is no arrangement by which one of them would say to the other, out of the blue, on a pavement, that there was a stool in that turning head in September.
+They have stood on one corner together, once, for about twenty minutes on the last morning of August, and they said about a dozen sentences, and not one of them was about either of the two things that were in either of their heads. There is no arrangement by which one of them would say to the other, out of the blue, on a pavement, that there was a stool in that turning head in September.
 
 
 **A STOOL WENT OUT OF A TURNING HEAD IN SEPTEMBER AND TWO MEN GAVE IT TWO DIFFERENT EXPLANATIONS IN THEIR HEADS AND TOOK THEM HOME.**
