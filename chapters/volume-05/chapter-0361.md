@@ -2,11 +2,11 @@
 
 Friday the twentieth of October 2017, from about seven in the morning until about three in the afternoon, a yard off the Cleeve road, and a shop off a parade, in Tideglass.
 
-**A MAN COUNTED FOUR HUNDRED AND FIFTY-FOUR SLABS OFF THE TAGS ON THE BANDS AND A MAN COUNTED FOUR HUNDRED AND EIGHTY-SIX OFF THE STACKS THEMSELVES, AND BOTH OF THEM ARE RIGHT, AND BOTH FIGURES ARE ON A SLATE HANGING ON THE WALL OF THAT YARD IN TWO HANDS, ONE UNDER THE OTHER, AND NEITHER HAS BEEN RUBBED OUT.**
+**A MAN COUNTED FOUR HUNDRED AND SEVENTY SLABS IN A YARD OFF THE CLEEVE ROAD AND A MAN COUNTED FOUR HUNDRED AND FIFTY-FOUR OFF THE TAGS ON THE BANDS, AND BOTH OF THEM ARE RIGHT, AND BOTH FIGURES ARE ON A SLATE HANGING ON THE WALL OF THAT YARD IN TWO HANDS, ONE UNDER THE OTHER, AND NEITHER HAS BEEN RUBBED OUT.**
 
-It is a yard behind two houses on a lane that comes off the Cleeve road, and it is not one of the yards with workshops at the back of it, and there is a concrete apron down one side of it and brick along the other and a stack of pipe against the brick. The way in is a pair of steel leaves about four foot high, and they are propped with a length of scaffold that somebody put there, and there is no sign on them and no lock on them and nobody in this borough has ever been given the use of that ground.
+It is a yard behind two houses on a lane that comes off the Cleeve road, and it is not one of the yards with workshops at the back of it, and there is a concrete apron down one side of it and brick along the other and a stack of pipe against the brick. The way in is a pair of steel leaves about four foot high, and they are propped with a length of scaffold pole that somebody put there, and there is no sign on them and no lock on them and nobody in this borough has ever been given the use of that ground.
 
-The slabs came into that yard on a lorry on the Thursday morning at about half past six and were put down in nine loads of about sixty, and there were about five hundred and something of them in that yard by about ten, and a pallet of four of them was left at the front by the driver and the driver went.
+The slabs came into that yard on a lorry on the Thursday morning at about half past six and were put down in nine loads, and there were about four hundred and seventy of them in that yard by about ten, and a pallet of twenty of them was left at the front by the driver and the driver went.
 
 A slab of paving is about two foot by one foot and about two inch thick and about four stone in weight, and they come on a pallet in bands, and the pallet boards in that yard are the yard's own boards, and the bands are tied with a strap and the strap is sealed with a flat tin tag that has the supplier's number and a number of four on it.
 
@@ -30,9 +30,9 @@ He counted the tags, because the tag on the strap is the yard's own record of wh
 
 Neither of them is wrong.
 
-The man in his forties counted every slab he could see, including four bands that came off the lorry loose and were never strapped and have no tag on them at all, and he counted those by putting them in fours on the ground, because you can count in fours off the edge of a slab and you can do it standing up.
+The man in his forties counted every slab he could see, including four bands that came off the lorry loose and were never strapped and have no tag on them at all, and he counted those by putting them in fours on the ground, because you can count in fours off the edge of a slab and you can do it standing up. Four bands of four is sixteen, and that is the whole of what is between the two figures.
 
-The man in his thirties did not count those, because a slab with no tag on it is a slab nobody has said anything about, and he is not a man who counts things nobody has said anything about.
+The man in his thirties did not count those, because a slab with no tag on it is a slab nobody has said anything about, and he is not a man who counts things nobody has said anything about, and a slab that is not in his number is a slab he would have to stand and explain, and he has not got a use for that.
 
 And there is a third thing and it is the reason the two numbers are where they are, and neither of the two men has ever mentioned it to anybody and the man who put the slabs in that yard is four counties away.
 
@@ -72,7 +72,6 @@ And that is where it stopped, because the man in his forties did not say that a 
 
 He put the band down where he had found it and they got on with the base course, and the two of them worked in that yard until about three o'clock and did not say another word about a number.
 
-
 At about half past three on the Friday the man in his thirties was in that shop buying a bag of pointing.
 
 "They have you short," said the woman who works in a shop.
@@ -87,4 +86,4 @@ She has two figures. The man in his forties said his out loud at the counter in 
 
 The man in his forties has said his number to two people and the man in his thirties has said his to nobody, and there is nothing whatever in that yard that says which of the two is the count of what is in it.
 
-**THE MAN IN HIS THIRTIES WENT BACK TO THAT YARD ON THE MONDAY MORNING AND LOOKED AT THE SLATE ON THE WALL FOR A WHILE AND DID NOT PUT HIS HAND UP TO IT, AND THE FIGURE HE WROTE ON THE BOTTOM HALF OF IT IN THE MORNING IS STILL UNDER THE FIGURE THE OTHER MAN WROTE ON THE TOP HALF OF IT IN JUNE, AND BOTH OF THEM WILL BE THERE WHEN THAT WALL COMES DOWN.**
+**THE MAN IN HIS THIRTIES WENT BACK TO THAT YARD ON THE MONDAY MORNING AND LOOKED AT THE SLATE ON THE WALL FOR A WHILE AND DID NOT PUT HIS HAND UP TO IT, AND THE FIGURE HE WROTE ON THE BOTTOM HALF OF IT THAT MORNING IS STILL UNDER THE FIGURE THE OTHER MAN WROTE ON THE TOP HALF OF IT AT TEN PAST SEVEN, AND BOTH OF THEM WILL BE THERE WHEN THAT WALL COMES DOWN.**

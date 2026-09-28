@@ -14,7 +14,7 @@ The man in his thirties went through that archway three times in the fortnight, 
 
 The man who works nights stood at that stop for the first bus on the Monday wearing his coat, and the bus that came was not the one he wanted. It stopped, it went on, and he stayed on the pavement for half an hour after it. Three Mondays in a fortnight have gone that way and not one person at that stop has said a word about it to him.
 
-About nine people in that fortnight were carrying nothing at all, and not one of them was carrying what any of the others was carrying. A shopkeeper behind a counter. A tradesman with a bag. A man who does a hall. A man in his sixties with a cup on a Wednesday. A man who puts shutters up. A man who works nights. A man at the end of a street. A man in a doorway eating chips out of a bag. A woman going up and down a concrete stair with a jug in each hand, who has not been near a bay at the end of anything since before the hot weather and is not going to.
+About nine people in that fortnight were carrying nothing at all, and not one of them was carrying what any of the others was carrying. A shopkeeper behind a counter. A tradesman with a bag. A man who does a hall. A man in his sixties with a cup on a Wednesday. A man who puts shutters up. A man who works nights. A man at the end of a street. A man in a doorway with a bag of chips and his back to the wall. A woman going up and down a concrete stair with a jug in each hand, who has not been near a bay at the end of anything since before the hot weather and is not going to.
 
 ---
 
@@ -44,9 +44,9 @@ The door of the bay at the end of that corridor stands open the way it stands op
 
 That register has not been added to since. It stands at nineteen, which is all of it, and the whole of what it still says at the end is a yard lamp, entered as lost a couple of Novembers back, against a heading somebody had held open for that class of loss. Not one further line has been written against that heading. Past that last entry the paper goes a little way and then gives out, well short of where the foot of that volume is, and nobody has ever tidied the gap and the book has gone on carrying it.
 
-He did not go into the bay. He stood in the corridor and worked the count out in his head against the wall the way a man does a count he has done before, and the figure is one thousand and seventy days, and that is a line under a blank line in a book he has not opened and is not going to open, and it is not anybody's figure and it is not a figure anybody has asked him for.
+He did not go into the bay. He stood in the corridor with his back to the wall and counted to himself, the way a man counts a thing he has counted before, and the figure is one thousand and seventy days, and that is a line under a blank line in a book he has not opened and is not going to open, and it is not anybody's figure and it is not a figure anybody has asked him for.
 
-He has done that count three times since the weather turned. He did it once on the sixteenth of August, on his own, in that bay, and wrote nothing down afterwards. Somewhere in the middle of the summer he was told that somebody else had worked the same sum out on a staircase and had said the figure out loud in that hall in July. He did not ask who had said it, and he has not asked since.
+He has done that count three times since the weather turned. He did it once on the sixteenth of August, on his own, in that bay, and wrote nothing down afterwards. Somewhere in the middle of the summer he was told that somebody else had worked the same sum out on a staircase and had said a number out loud in that hall in July. He did not ask who had said it, and he has not asked since.
 
 The blank line under that last entry is the only thing in that building which has not shifted since the winter. It was empty at the start of this fortnight and it is empty now, nobody has put anything on it, and not one person in this borough would want to.
 
@@ -54,8 +54,6 @@ He went back down the concrete stair, drew that door to behind him without shutt
 
 A fortnight is a fortnight. There is no term running out anywhere in that parade, nobody has been asked anything, nothing has been minuted, and four answers to a question are still going round this borough and not one of them can be put beside any of the other three.
 
-A fortnight is a fortnight. There is no term running out anywhere in that parade, nobody has been asked anything, nothing has been minuted, and four answers to a question are still going round this borough and not one of them can be put beside any of the other three.
-
-The woman of about fifty-five went up that outside stair at about half past seven that evening with a jug in each hand and one hooked through the other, the way she has twice a day since June, and drew the street door back to behind her down at the bottom, and nobody on that stair stood in her way and she put her hand out for nothing, and the bay at the end of that landing is still open and the book is still on the second shelf up in there with a lamp written against it and nothing under that line.
+The woman of about fifty-five was on that outside stair at half past seven that evening with her two jugs hooked through each other, the way she has done twice a day since June, and drew the street door back to behind her down at the bottom, and nobody on that stair stood in her way and she put her hand out for nothing, and the bay at the end of that landing is still open and the book is still on the second shelf up in there with a lamp written against it and nothing under that line.
 
 **A MAN CAME DOWN AN OUTSIDE STAIR AT SIX O'CLOCK WITH HIS HANDS IN HIS POCKETS AND WENT UP A PARADE PAST NINE SHOPS THAT WERE ALREADY SHUT, AND A CHAIR IN A HALL FOUR HUNDRED YARD OFF IS STILL ON THE OTHER SIDE OF THAT ROOM FROM WHERE IT WAS, AND THE ONLY PERSON WHO WOULD BE ABLE TO SAY WHEN IS THE MAN WHO PUTS THEM OUT AND HE SAYS A CHAIR IS A CHAIR.**

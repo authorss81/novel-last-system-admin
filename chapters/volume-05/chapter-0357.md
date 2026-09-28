@@ -2,15 +2,13 @@
 
 Monday the second of October 2017, from about half past one in the afternoon until about six in the evening, a street off the Cleeve road, and a passage at the top of a street, in Tideglass.
 
-**A CLAW HAMMER LAY ON A STEP ON THAT STREET ALL THROUGH THE WEEKEND AND A WOMAN PICKED IT UP AND PUT IT DOWN AND A MAN CAME ALONG AND PICKED IT UP AND PUT IT IN HIS BAG, AND EACH OF THE TWO OF THEM IS CERTAIN IT CAME TO THEM, AND THE MAN SITTING IN A CHAIR FOUR DOORS DOWN SAW THE WHOLE OF IT.**
+**A CLAW HAMMER LAY ON A STEP ON THAT STREET ALL THROUGH THE WEEKEND AND A WOMAN PICKED IT UP AND PUT IT DOWN AND A MAN CAME ALONG AND HELD IT OUT TO HER AND SHE DID NOT TAKE IT AND HE PUT IT IN HIS BAG, AND EACH OF THE TWO OF THEM IS CERTAIN IT CAME TO THEM, AND THE MAN SITTING IN A CHAIR FOUR DOORS DOWN SAW THE WHOLE OF IT.**
 
 The street comes off the Cleeve road and has nine houses on the top side of it and a wall on the bottom side, and number five is the fourth one along and number nine is the sixth and its front step is a slab about two foot deep and a foot high with a rail on the wall beside it.
 
 There was a claw hammer on that step on the Saturday and it was on that step on the Saturday night and it was on that step on the Sunday morning, and it was a good hammer, an Ashley pattern with an ash handle, about fourteen inch from the top of the claw, and the handle has been re-wrapped at the bottom in brown tape in about three turns.
 
 The tape has gone over the maker's stamp on the top of the head. There is a stamp there, because a hammer that has been used has a stamp on it, and it is under the tape and it cannot be read without taking a corner of that tape back with a fingernail, and nobody is going to do that to a hammer lying on a step in a street.
-
-A man was in that house on the Saturday morning and went out at about one and did not take the hammer and has not been near that step since and does not know that he left it there.
 
 A man was in that house on the Saturday morning and went out at about one and did not take the hammer and has not been near that step since and does not know that he left it there. He was in there doing a kitchen and the kitchen is on the other side of that house, and the step is on the front, and a man who has been in a house all morning is not going to think about his own front step on his way out to a van.
 
@@ -32,7 +30,9 @@ He picked it up and turned it over in his hand. The handle is well used and the 
 
 He turned it over and looked at the bottom of the head where the maker puts his name, and there is tape over it, and he put his thumbnail against a corner of that tape and thought about it and took his thumbnail away again.
 
-"Is that one yours," said the man in his thirties, to the woman of about fifty-five, who was standing on the number three step with her bag at her feet.
+"Is that one yours," said the man in his thirties, to the woman of about fifty-five, who was standing on the number three step with her bag at her feet, and he put it out on his palm with the head down and the handle towards her.
+
+She looked at it for about a second and she did not put her hand out.
 
 "I could not tell you," said the woman of about fifty-five. "It was on the step when I came."
 
@@ -48,7 +48,7 @@ She has it in her head and not in her bag, and the head of it is the last thing 
 
 A hammer on a step is a thing that is up for whoever comes next. That is the whole of what a step is. She has put one back on a step twice in her life and both times somebody had come along inside a minute and she did not mind either time, and this time somebody came along and she minded, and what she minded was not that he had taken it.
 
-If she had been holding it when he came up the street she would have had to decide what to do with it, and there are only two things to do with a hammer another person's got in their hand, and one of them is hand it over and the other is walk off and leave them with it, and she has done neither and she has spent about half an hour since working out why.
+If she had been holding it when he came up the street she would have had to decide what to do with it, and there are only two things to do with a hammer another person's got in their hand, and one of them is hand it over and the other is walk off and leave them with it, and he held it out to her and she did not do either, and she has spent about half an hour since working out why.
 
 He has it in the outside pocket of his bag with the head down, and the last thing her hands did with it was stop holding it, and a thing that is in a bag is a thing that belongs to whoever's bag it is, and he has not said one word about where it came from.
 
@@ -57,7 +57,6 @@ He could say it in about half a sentence. He could stand in that street on any e
 He is not going to do that, and it is not the man in the chair that stops him.
 
 It is that the man in the chair is a man in a chair in a doorway, and a man who has been asked to say whose hammer a thing was has been given a job, and there is nothing in that street anybody could give him back.
-
 
 He got the hammer out of his bag at about half past five and put it on the shelf over his own bench with the handle out, and the shelf over that bench has a vice on the end of it and about nine things on it that are his.
 

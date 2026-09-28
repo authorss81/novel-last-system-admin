@@ -12,9 +12,9 @@ The top bracket had worked loose in about August. The two screws in it had turne
 
 Nobody had said anything about it. Four people live in that house and two of them go up that stair most days and one of them is a man who does not put a hand on a rail and never has and is not going to start, and the rail stood two inch out from that wall from the middle of August until the Friday.
 
-The man lives in the flat at the end of the landing. He came in at about half past ten on the Friday and the stair was dark because the bulb on that landing has been out since July.
+The man lives in the flat at the end of the landing. He came in at about half past ten on the Friday and that stair is dark, because there has never been a light on that landing since the house was done and the four people in it have got used to coming up it in the dark.
 
-He got the rail back up against the wall and packed it with a folded piece of card and took the two screws out of the bracket and put four in, and the top two went into a stud and the bottom two went into solid brick, and he did it by the light of a torch in his teeth in about twenty minutes.
+He got the rail back up against the wall and packed it out with a strip of roofing felt folded down twice and took the two screws out of the bracket and put four in, and the top two went into a stud and the bottom two went into solid brick, and he did it by the light of a torch he had stood on the tread beside him, because a man cannot hold a torch and a screwdriver at the same time, and it took him about twenty minutes.
 
 He has a drill and a screwdriver and about nine other things and he knows that a bracket on plasterboard with two inch screws is a bracket that comes out, and he had put the first ones in himself when the house was done, two winters back, and he did not tell anybody in the house that he had put them in.
 
@@ -38,7 +38,7 @@ The man in the doorway saw the whole of it, both hands of it, and he said nothin
 
 ---
 
-They had the door open for about an hour and a half and the three of them were on that landing and in that kitchen and the landing light is out and the kitchen light is not, and they talked about a great deal that has nothing to do with anything in this borough.
+They had the door open for about an hour and a half and the three of them were on that landing and in that kitchen and there is no light on that landing and there is a light in that kitchen, and they talked about a great deal that has nothing to do with anything in this borough.
 
 At about half past four the woman at that door came out onto the landing with the kettle in both hands and the man in the doorway was standing at his own door with his hands in his pockets waiting for her to go past, and the woman of about fifty-five was at the top of the stair with her bag on her arm.
 
@@ -46,7 +46,7 @@ At about half past four the woman at that door came out onto the landing with th
 
 He said, "Aye," and stopped.
 
-There was about two seconds in that landing where he could have said that it had not been on the Friday, and that he had come up in the dark with a torch in his teeth because the landing bulb has been out since July, and that there had been two inches of daylight between that rail and that wall all through August, and that he had not told anybody then and was not going to now.
+There was about two seconds in that landing where he could have said that it had not been on the Friday, and that he had come up that stair in the dark with a torch stood on the tread in front of him, because there has never been a light on that landing, and that there had been two inches of daylight between that rail and that wall all through August, and that he had not told anybody then and was not going to now.
 
 What he said was, "Is that your kettle, that's your mother's."
 
@@ -54,12 +54,10 @@ What he said was, "Is that your kettle, that's your mother's."
 
 He has not been up that stair to look at that rail since the Friday and he is not going to. It will come off that wall in about two years, and the man who comes after him will put a bracket in plasterboard, and neither of those things is going to be put together by anybody.
 
-He has not been up that stair to look at that rail since the Friday and he is not going to. It will come off that wall in about two years, and the man who comes after him will put a bracket in plasterboard, and neither of those things is going to be put together by anybody.
-
-He has begun, without deciding to, to do the same sum he has been doing since the Friday night. It is not a sum about money. It is how long ago a thing is, and there is no version of it that comes out at zero, because a thing you have done in the dark with a torch in your teeth does not get a day put on it by anybody, least of all by a man who was not there.
+He has begun, without deciding to, to do the same sum he has been doing since the Friday night. It is not a sum about money. It is how long ago a thing is, and there is no version of it that comes out at zero, because a thing you have done in the dark does not get a day put on it by anybody, least of all by a man who was not there.
 
 The woman who lives in the flat at the top of that landing goes past that rail about six times a day and has not touched it once, and the woman at the door at the end goes past it about six times a day and has not touched it once, and the man who lives in the flat at the other end of that landing is the only man in that house who has ever had a hand on it and he is the only one who knows and he is the only one who cannot say.
 
 What is left of it, after about a day and a half, is not a rail. It is that a man has spent a night and a morning on the inside of a thing he cannot say he did, and every hour it goes on being a thing he cannot say he did, and it has stopped being about the rail at all.
 
-**A MAN SHUT HIS OWN DOOR ON A LANDING WITH HIS HAND ON THE LATCH AND WENT AND SAT IN A CHAIR IN HIS OWN FRONT ROOM WITH THE LAMP OFF, AND HE HAD PUT TWO SCREWS INTO A WALL LATE ON FRIDAY AND HE IS NOT GOING TO MENTION IT TO ANYBODY IN THAT HOUSE AS LONG AS HE LIVES IN IT.**
+**A MAN SHUT HIS OWN DOOR ON A LANDING WITH HIS HAND ON THE LATCH AND WENT AND SAT DOWN IN HIS OWN FRONT ROOM WITH THE LAMP OFF, AND HE HAD PUT FOUR SCREWS INTO A WALL LATE ON FRIDAY AND HE IS NOT GOING TO MENTION IT TO ANYBODY IN THAT HOUSE AS LONG AS HE LIVES IN IT.**

@@ -18,7 +18,7 @@ There is nothing wrong with that sentence except the hour.
 
 ---
 
-The meeting on the Wednesday finished at about twenty to nine and about nine people had been in that room, and the man in his sixties was one of them and had been in it since half past seven.
+The meeting on the Wednesday, the twenty-fifth of October, finished at about twenty to nine and about nine people had been in that room, and the man in his sixties was one of them and had been in it since half past seven.
 
 He has been going to that hall on a Wednesday for about six years and he sits in the same place at the back with his cup, he is on nothing and has never been on anything, and nobody in that room has ever asked him what he does on the other three days.
 
@@ -48,10 +48,9 @@ That is the thing about that book. There is one sentence for a door and the sent
 
 He wrote it in between a window in September and a window in August, and he did not write anything under it, and he put the book on the shelf it lives on behind the door of that hall, and the shelf is not locked and nobody has ever taken that book off that shelf.
 
+The man in his sixties was in that hall on the Wednesday a fortnight before and again on the Wednesday the twenty-fifth of October.
 
-The man in his sixties was in that hall on the Wednesday the twenty-third of October and again on the Wednesday the thirtieth.
-
-On the thirtieth the man who looks after that hall was in the room at about half past eight setting out the cups, and the man in his sixties was in his place at the back with his cup, and there were about nine people and a man in his sixties.
+On the twenty-fifth the man who looks after that hall was in the room at about half past eight setting out the cups, and the man in his sixties was in his place at the back with his cup, and there were about nine people and a man in his sixties.
 
 "You are in early on a Wednesday," said the man who looks after that hall.
 
@@ -63,15 +62,11 @@ He has not asked the man who looks after that hall what is in the book. He did n
 
 He has not asked and he is not going to, because a man who has shut a door in a passage at about a quarter to nine on a Wednesday night and then asks what the man who looks after that hall wrote about the Wednesday night is a man asking to be found out, and being found out is a thing that puts him in a book.
 
-He has not asked and he is not going to, because a man who has shut a door in a passage at about a quarter to nine on a Wednesday night and then asks what the man who looks after that hall wrote about the Wednesday night is a man asking to be found out, and being found out is a thing that puts him in a book.
-
 It is not a large thing and that is what makes it awkward. If it were a window left open in a heat there would be nothing in it. If a man had left the whole of that hall open at nine o'clock on a Wednesday night there would be something in that and he would have a reason to go and stand in that hall. What he did was put a chain on a door, and a man who puts a chain on a door has not been asked to say so by anybody, and there is no shape in that anybody could be caught by.
 
-The hour in that sentence is the only part of it that is wrong, and he cannot put a different one on it, because he did not look and there is no clock in that passage and the man who wrote it was in another town when it happened.
+The hour in that sentence is the only part of it that is wrong, and he cannot put a different one on it, because he did not look and there is no clock in that passage and the man who wrote it was four miles off at his sister's when it happened.
 
-The man in his sixties was at the counter of the shop off a parade at about half past three on the Saturday after and bought a packet of tea and his hands were not steady on the change and the woman who works in a shop gave him the right money back without saying anything about it and he went out into the parade.
-
-The man in his sixties was at the counter of the shop off a parade at about half past three on the Saturday after and bought a packet of tea and his hands were not steady on the change and the woman who works in a shop gave him the right money back without saying anything about it and he went out into the parade.
+The man in his sixties was at the counter of the shop off a parade at about half past three that same afternoon and bought a packet of tea and his hands were not steady on the change and the woman who works in a shop gave him the right money back without saying anything about it and he went out into the parade.
 
 He has not been near that hall book. There is a woman who rings the man who looks after that hall to put a meeting on and he has seen that book on a table in that hall about nine times without reading a word of it, and he has never once wondered what is in it, and he has not wondered since either, and a man cannot be careful about a thing he does not know is there.
 

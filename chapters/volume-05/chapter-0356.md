@@ -20,7 +20,7 @@ Nobody in that room has ever said one word about it. It is a shelf in a room whe
 
 ---
 
-The man in his forties went up that outside stair at about ten past eight on the Thursday with his bag, because he had a job in that house that morning and the job was upstairs.
+The man in his forties climbed that outside stair at about ten past eight on the Thursday with his bag, because he had a job in that house that morning and the job was upstairs.
 
 It was a length of pipe and a set of clips and about half an hour of work, and he had it done by about nine.
 
@@ -48,25 +48,27 @@ He looked at whether the wall behind was hollow. He knocked it with the back of 
 
 He looked at the packing. There is a piece of card folded in three at the back corner of the long board and it is the only part of that job that he would not have done himself, and it is why the board is level.
 
+He looked at the head of every one of the eight fixings and every one of them is straight and snug with a cross recess in it and not a slot, and a cross recess is the tool a man leaves behind when he means it.
+
 He looked at the front edges and they are eased and there is not a splinter on either of them, and you cannot ease two edges in an evening without a plane and about half an hour on the stone, and he has done it and he knows what it costs in time.
 
-And at about ten past nine he came to the thing he could find.
+And at about ten past nine he came to the thing he could not make anything of.
 
-The bracket at the far end of the long board is on its own, and the three other brackets have got two screws in each of them, and that one has got one.
+The two boards do not meet. There is about an inch of wall between the end of the short one and the start of the long one, and the brackets are set in from the ends of both boards by about half an inch, and a man who lays brackets out from the ends of a board does that so that the board can be lifted off them without taking them off the wall, and a man who does not think about it does it by accident.
 
-He looked at that for a while.
+He could not tell from the middle of that room which of those two it was, and he was not in that house when it was done, and the man who did it is not going to be asked.
 
-It would come out of a plasterboard wall in about a year and a half, on the strength of the one screw, if the board were ever leaned on. On a stud it will hold a long time. The stud is there, he could feel it, and the board is a board and not a mirror.
+That is not a fault. It is the only thing on that wall a man could not swear either way to, and a man with no standing in a room does not get to be the one who swears to it.
 
 He is not going to say that to anybody.
 
-It is not that he wanted the man who made it to know. It is that a man who goes into a room where he has no standing and puts his bag down and tells the man who owns the shelf that there is one screw in it is a man who has decided that the fault in it is his to say, and a man with no standing in a room does not get to decide which faults get said. He has watched that happen twice and both times it cost somebody.
+It is not that he wanted the man who made it to know. It is that a man who goes into a room where he has no standing and puts his bag down and tells the man who owns the shelf that he does not know whether a thing on that wall is a mistake or is on purpose is a man who has decided that the question in it is his to ask, and a man with no standing in a room does not get to decide which questions get asked. He has watched that happen twice and both times it cost somebody.
 
 So he picked his bag up off the bench and went down the outside stair and did the rest of his day.
 
 ---
 
-The man in his thirties came up that stair at about half past four the same afternoon with his bag and let himself in at the top with a key that four men have copies of.
+The man in his thirties came up that stair at about half past four the same afternoon with his bag and let himself in at the top, because a man who has been in and out of that house since the summer knows that the top door on that landing is never locked in the daytime and is locked at night, and he had left it off its latch himself in June.
 
 He put his bag on the bench and stood in the middle of that room for a minute and looked about, the way a man does when he has come into a room and has not come in for anything in particular.
 

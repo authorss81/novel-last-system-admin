@@ -14,7 +14,6 @@ The man in his forties was on that parade on the Thursday because the man who pu
 
 He has stood on that ladder and held the top of that shutter about thirty times since the start of the year and it is the only work anybody has ever asked him to do for nothing.
 
-
 The man who puts shutters up does not talk on a round. He has done the same nine shops in the same order for a very long time and he does the work and he says good morning where a man says good morning and he has never once asked anybody anything, and there is nothing about Thursday morning that would make him ask a man in a passage anything either, because he would not have seen him.
 
 The two of them were finished at about a quarter to seven and the man who puts shutters up shouldered his ladder and went down the parade and the man in his forties walked behind him as far as the corner and then turned up the street.
@@ -33,7 +32,7 @@ He was on his way down that passage at about ten past six with the ladder across
 
 There is nothing on the other side of that door worth a man walking out of a passage to look at. There is a yard about thirty foot by twenty, with a concrete floor and a wall on two sides, and along the wall there is a stack of something under a sheet of plastic, and the sky is the width of the yard and about a foot above the top of the wall, and the light at the bottom of that passage is exactly the colour of the light that comes off that yard.
 
-He knows that. He has stood in enough doorways to know that a door with a bit of sky on the other side of it lets a different light in than a door with a wall on the other side of it, and this one had a wall on the other side of it in June and a sky on the other side of it this morning, and there is no way on this earth for a man standing in that passage at a quarter past six to know which of the two is true.
+He knows that. He has stood in enough doorways to know that a door with a bit of sky on the other side of it lets a different light in than a door with a wall on the other side of it, and this one had a wall on the other side of it in June and a sky on the other side of it this morning, and he is the only man in this borough who could stand in that passage and show anybody that those are not the same day, and there is no way on this earth for anybody else standing there at a quarter past six to know which of the two is true.
 
 He had gone down that passage on a job in the winter and on a job in the summer and twice for nothing at all. The last of those was the Tuesday before last, when a man he knew asked him to go and look at a heap in that yard, and the heap was not in that yard, and he stood at the bottom of that passage for about ten minutes saying so. The door went then. He put his hand on it and pushed and it went away from him into the yard and the leaf made a noise like a door does.
 

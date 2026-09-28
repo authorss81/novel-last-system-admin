@@ -2,7 +2,7 @@
 
 Tuesday the tenth of October 2017, from about ten in the evening until about half past two in the afternoon two days later, a shop off a parade, and a market four miles off, in Tideglass.
 
-**A MAN TOLD A WOMAN BEHIND A COUNTER ON A TUESDAY NIGHT THAT SOMEBODY HAD SAID A MAN WITH A BAG WAS UP THE MARKET ON A SATURDAY, AND ON WEDNESDAY AFTERNOON SHE SAID FOUR WORDS TO HIM, AND ON SATURDAY HE WENT UP THAT MARKET AND STOOD IN IT FOR TWENTY MINUTES AND BOUGHT NOTHING.**
+**A MAN TOLD A WOMAN BEHIND A COUNTER ON A TUESDAY NIGHT THAT SOMEBODY HAD SAID A MAN WITH A BAG WAS UP THE MARKET ON A SATURDAY, AND ON WEDNESDAY AFTERNOON SHE SAID SEVEN WORDS TO HIM, AND ON SATURDAY HE WENT UP THAT MARKET AND STOOD IN IT FOR TWENTY MINUTES AND BOUGHT NOTHING.**
 
 The man who works nights comes off at about ten and comes into that shop most nights of the week for a packet of cigarettes and a can of something, and he does not have a car and there is a bus.
 
@@ -26,7 +26,7 @@ She has never been able to say what the report was. The shape of it was a man an
 
 ---
 
-The man in his forties came into that shop a little after half past two on the Wednesday with his bag, and had a length of four by two cut for him, and neither of them put the offcut down anywhere, and neither of them said a word about the rack at the back of the room.
+The man in his forties was at that counter on the Wednesday a little after half past two with his bag, and had a length of four by two cut for him, and neither of them put the offcut down anywhere, and neither of them said a word about the rack at the back of the room.
 
 "Somebody says you were up the market," said the woman who works in a shop.
 
@@ -41,8 +41,6 @@ He said, "Right," and picked the board up, and said, "Which market," and she sai
 He said, "Aye," and went out along the parade with the tape under his arm.
 
 He did not ask her who, and he did not ask her what they said he was doing, and she did not tell him, because there was no version of it to tell.
-
-He is a man who has been going to that market about nine years and who has been buying the same two things off the same man there for nine years, and the two of them have got to the place where neither of them says much and the man puts the box in a bag and the man in his forties takes the bag and says, "That will do."
 
 He is a man who has been going to that market about nine years and who has been buying the same two things off the same man there for nine years, and the two of them have got to the place where neither of them says much and the man puts the box in a bag and the man in his forties takes the bag and says, "That will do."
 
@@ -64,16 +62,14 @@ He came back down the middle of it and stopped at the stall he has bought off fo
 
 He stood in that market for about twenty minutes in the middle of a Saturday morning crowd and looked at the ground and at the back of people and did not speak to anybody and bought nothing off anybody.
 
-At about ten past twelve the man behind the stall said, "You all right, you are," and went back to his own business, and after that the man behind that stall did not offer that man a box again on any Saturday after that, and that was a decision the man behind the stall made about a man standing in his front, and the man in his forties has not been near that stall since and that man has not said a word to anybody about it.
+At about ten past twelve the man behind the stall said, "You all right, you are," and went back to his own business, and after that he did not offer that man a box again on any Saturday since, and that was a decision the man behind the stall made about a man standing in his front, and the man in his forties has not been near that stall since and the man behind the stall has not said a word to anybody about it.
 
 A man who comes to a market once and stands in it and goes home is a man a market knows, and a market does not know many.
 
 He came away at about half past twelve with nothing in his bag and he has not been back to that market since, and nobody in this borough can tell him anything, because the shape that came to him on the Wednesday had nothing in it at all, and a man cannot be curious about a sentence he has not been told the inside of.
 
-He came away at about half past twelve with nothing in his bag and he has not been back to that market since, and nobody in this borough can tell him anything, because the shape that came to him on the Wednesday had nothing in it at all, and a man cannot be curious about a sentence he has not been told the inside of.
-
 He could not go and find out. That is the thing about it. If the man who works nights had come in and said *somebody was saying you were up the market and you were not to go*, there would have been something to do about it. What came out of that counter was not a story about him. It was a story that had his name nowhere in it and a place in it, and there is nothing in that a man can put his hand on.
 
-So he went, and stood, and came home with an empty bag, and the only result of the whole of it is that a man at a stall in a car park four miles off has stopped offering a box to a man who stands in front of him, and neither of those two men will ever know that the other one is a result of anything.
+So he went, and stood, and came home with an empty bag, and the only thing left of the whole of it is that a man at a stall in a car park four miles off has stopped offering a box to a man with a bag, and neither of those two men will ever know that the other one is a result of anything.
 
-**HE STOOD IN A CAR PARK FULL OF STALLS FOR TWENTY MINUTES ON A SATURDAY MORNING AND CAME AWAY WITH AN EMPTY BAG, AND THE ONLY THING HE WAS EVER TOLD IN THIS BOROUGH ABOUT IT WAS FOUR WORDS AT A COUNTER BY A WOMAN WHO HAS SPENT TWO DAYS SINCE WISHING SHE COULD PUT THE REST OF IT BACK.**
+**HE STOOD IN A CAR PARK FULL OF STALLS FOR TWENTY MINUTES ON A SATURDAY MORNING AND CAME AWAY WITH AN EMPTY BAG, AND THE ONLY THING HE WAS EVER TOLD IN THIS BOROUGH ABOUT IT WAS SEVEN WORDS AT A COUNTER BY A WOMAN WHO HAS SPENT TWO DAYS SINCE WISHING SHE COULD PUT THE REST OF IT BACK.**
