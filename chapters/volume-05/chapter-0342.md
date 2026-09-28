@@ -30,7 +30,7 @@ The woman who works in a shop came out of that shop at about ten in the morning 
 
 "That's been hanging since Saturday," she said, when he came by at about a quarter past ten. "And there's a cone under it and I would put money on that cone being one of about nine cones in this borough and every one of them put out by a man who was in a van he had no business being in."
 
-"I have walked under it every day since March," said the man in his forties, "and I am not reporting it."
+"I have walked under it every day since March," he said, "and I am not reporting it."
 
 "I am not telling you to report it," said the woman who works in a shop. "I have had a letter off that street about a hedge and a letter off that street about a street light and both of them asked the same question, which is why is it not been done, and I have got a bit of paper with a date and a number on it and nothing else about it at all, and that bit of paper is the only thing that has ever come back about anything I have sent anywhere and I have never once been told what it means."
 

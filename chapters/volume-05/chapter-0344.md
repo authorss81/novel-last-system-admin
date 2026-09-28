@@ -6,7 +6,7 @@ Wednesday the sixteenth of August 2017, from about ten to six in the morning unt
 
 It was warm at ten to six in the morning and the cloud came in off the water at about half past nine and stayed, and there was no rain in it, and it was the kind of day that gets described afterwards as a day nothing happened on.
 
-A van was brought up that parade at about ten to six in the morning and parked half on the footway outside the second shop, and it was still there when the man who puts shutters up arrived with his ladder at about twenty to six, and he could not get a ladder up against the shutter of the second shop with it there, so he did the third and the fourth and came back at about half past eight and did the second off the tail of the thing, and the van went at about half past seven without anybody getting out of it.
+A van was brought up that parade at about ten to six in the morning and parked half on the footway outside the second shop, and it was still there when the man who puts shutters up arrived with his ladder at about a quarter past six, and he could not get a ladder up against the shutter of the second shop with it there, so he did the third and the fourth and came back at about half past eight and did the second off the tail of it, and the van went at about ten past nine without anybody getting out of it.
 
 A man came through that parade at about a quarter past six with a sack over his shoulder and stopped outside the shop that shuts early and stood there about two minutes doing nothing at all, and then went on up the parade with the sack still on his shoulder, and nobody in that street has said one word about those two minutes and nobody will.
 

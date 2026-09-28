@@ -74,13 +74,13 @@ There is a card that goes in that window about four times a year and it is the o
 
 There was a woman with a bag at that corner at about midday and again at about a quarter to two and both of those times she was in the road about two foot wide at the wall side of those sheets with a bag hooked over her wrist, and neither time she said anything to anybody, and both times the man at the end of that street was on his step watching her do it.
 
-At about half past four the man in his forties came past the bottom of that street going the other way and the man in a fleece was at the same corner with a paper.
+The man in his forties came to the bottom of that street again at about half past four, going the other way, and there was the man in a fleece at the corner with a paper under his arm.
 
 "You not doing anything about them sheets," said the man in a fleece.
 
 "I've not been asked to do anything about them sheets," said the man in his forties.
 
-"That's the whole of what I wanted to know," said the man in a fleece, and went on.
+"That's the whole of what I wanted to know," said the man in a fleece, and went off up the street.
 
 Six sheets of corrugated iron are leaning against the side wall of a house at the end of that street and the grass has grown about the bottom two of them and there is a hole in the road beside them where a man in this borough put one foot on going past on the eleventh of August, and it has rained on them since and the rust is down the face of the top one, and the man who put them up knew what he meant when he said the six words, or he did not, and he has not thought about it since the middle of the afternoon, and it will not come round again.
 

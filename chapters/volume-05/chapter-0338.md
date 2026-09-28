@@ -36,7 +36,7 @@ There is a woman at number four on that side of the street who has a car and who
 
 The man in his thirties stood in that yard and looked at it, and then he went and did the slow run with the tap turned a quarter of an inch further and it ran, and he shut it and went out through that gate, and it came away from the wall for about four inch and stopped and had to be pulled.
 
-He has kept his mouth shut about that gate, and he has not been up that street since, and he does not know whose gate it is, and he would not have asked, because a gate that has been rehung is a gate somebody wanted rehung, and the man who rehung it did not do it for him.
+He has kept his mouth shut about that gate, and he has not gone back up that street since, and he does not know whose gate it is, and he would not have asked, because a gate that has been rehung is a gate somebody wanted rehung, and the man who rehung it did not do it for him.
 
 ---
 

@@ -14,7 +14,7 @@ It is the wall that is shared with the house behind, which is a house and not a 
 
 ---
 
-She found it on the Friday of the first week of July by washing her face. The water from the hot tap had gone cold on her and she put her hands flat on the tiles above the sink to steady herself and the tiles were hot, and the wall beside them was hotter, and she went and put the back of her hand on that wall in the middle of the room and it was the same.
+She found it on the first Saturday of July by washing her face. The water from the hot tap had gone cold on her and she put her hands flat on the tiles above the sink to steady herself and the tiles were hot, and the wall beside them was hotter, and she went and put the back of her hand on that wall in the middle of the room and it was the same.
 
 What she has done about it, and nobody has asked her any of this and nobody has been told any of it:
 
@@ -26,7 +26,7 @@ And the strip of wet paper at the end of that corridor, which has been coming in
 
 Nothing has been arranged for her. Nobody put her in that room and nobody has arranged one word of it. She has not asked anybody to do anything and nobody has come and offered her anything, and the wall has been warm for eight days and no person in that building has said one word to her about it.
 
-On the Wednesday of that week the woman in the room next door along came out at about ten in the morning and stood in the corridor for a bit.
+On the Wednesday of the fifth, the woman in the room next door along came out at about ten in the morning and stood in the corridor for a bit.
 
 She had come out because her own room had been hot since the Saturday and the window in it does not take a breeze off the parade the way the one in the room at the end does, which is the only reason anybody has ever had for liking that room.
 
@@ -44,9 +44,9 @@ Nobody in that building has been on that roof since the middle of June and nobod
 
 ---
 
-Three streets off, on the Thursday morning of that week, the man in his forties took a bollard out of a road.
+Three streets off, on the Thursday morning of the sixth, the man in his forties took a bollard out of a road.
 
-It stands at the mouth of a yard entrance where a lane comes off a street of small houses, and it is cast iron and about three foot high and it has a collar round it about two inches from the top, and it is not new and not painted, and it had begun to rock. A man walking into that yard with a barrow catches the side of it with his leg. It had come up about two inches out of the tarmac and the tarmac round it had gone soft and open at the joint, and on the Wednesday of that week a woman with a bag went past it, hit it with her ankle, and stopped, and said a word, and carried on into the yard.
+It stands at the mouth of a yard entrance where a lane comes off a street of small houses, and it is cast iron and about three foot high and it has a collar round it about two inches from the top, and it is not new and not painted, and it had begun to rock. A man walking into that yard with a barrow catches the side of it with his leg. It had come up about two inches out of the tarmac and the tarmac round it had gone soft and open at the joint, and on the Wednesday of the fifth a woman with a bag went past it, hit it with her ankle, and stopped, and said a word, and carried on into the yard.
 
 He was in that street on the Wednesday for a downpipe bracket and he saw her do it, and on the Thursday he came back at about ten with a bar and a lump hammer and a bag of post fixings and about a foot of rubble he had in the van off a job in June.
 
