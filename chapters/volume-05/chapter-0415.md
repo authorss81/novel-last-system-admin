@@ -1,6 +1,6 @@
 # Chapter 0415 — The Lime
 
-Tuesday the 29th of May 2018, beginning at about a quarter to eight in the morning and finishing at about half past five in the afternoon, a street off that parade, and a shop at the parade end of it, in Tideglass.
+Tuesday the 29th of May 2018, from about a quarter to eight in the morning until about half past five in the afternoon, a street off that parade, and a shop at the parade end of it, in Tideglass.
 
 **A LIME STANDS ON THE LINE BETWEEN TWO BACK GARDENS WITH ABOUT TWO FOOT OF IT IN EACH MAN'S SIDE, AND ON THE NIGHT OF THE TWENTY-SEVENTH OF MAY A LIMB CAME DOWN ACROSS THE FENCE, AND IN THE SAME WEEK BOTH MEN DECIDED NOT TO HAVE IT CUT AWAY, AND NEITHER OF THEM KNEW THAT THE OTHER ONE HAD ANYTHING TO DO WITH IT.**
 
@@ -76,7 +76,7 @@ She said, "That limb's across your fence."
 
 She waited a moment and said, "Right," and took the truck on up the street and left.
 
-Nothing else was said to him about that limb that day. She has not been up that street since except in the August, and she did not put a second question about it, and put to her she would say he did not want it cutting and go on.
+Nothing else was said to him about that limb that day. She did not put a second question about it, and put to her she would say he did not want it cutting and go on. She went up that street once after it, in the August, and did not ask him anything.
 
 The man in his forties came into that street at about half past four on the Thursday.
 

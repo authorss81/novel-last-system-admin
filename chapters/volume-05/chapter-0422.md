@@ -1,6 +1,6 @@
 # Chapter 0422 — Coming Back
 
-Monday the twenty-fifth of June 2018, from about five to nine in the morning until about ten past six in the evening, a shop off that parade, and its front door, in Tideglass.
+Monday the twenty-fifth of June 2018, from about five to nine in the morning until about ten past six that evening, a shop off that parade, and its front door, in Tideglass.
 
 **A DOOR CAME BACK OFF ITS TOP HINGE ON A WIND AND HIT THE MAN IN HIS FORTIES IN THE SHOULDER AT ABOUT HALF PAST TEN, AND THE SAME DOOR CAME BACK FOUR HOURS LATER AND HIT THE WOMAN WHO WORKS IN A SHOP ABOVE THE WRIST, AND ONE MAN SAW BOTH HALVES OF IT AND NEITHER OF THEM HAS SAID A WORD ABOUT IT AND NEITHER OF THEM WILL.**
 

@@ -64,13 +64,13 @@ She stood on the bottom step of that flight and looked at it for about a minute.
 
 And then she went back down and put the bolt behind the letterbox of the second flat with a scrap of paper round it and a note on that paper that said the size and nothing else, because the woman who lives in that flat works days and would not want a ring on the door, and she went back to her shop.
 
-And then she did not think about that window again for about a week, and she thought about it in the shower, and the thing that brought it back was not the window at all.
+And then she put that window out of her head for about a week, and it came back on its own in the shower, and the thing that actually brought it back was not the window at all.
 
 It was that she had a length of 5 mm polished sheet in a cupboard under her own counter that has been there since the January because she bought it by mistake in a hurry and it has never gone anywhere, and she has a glazier's putty knife in the same cupboard, and she has a hacksaw in her own van, and she does not need a glazier's frame to cut a small pane because a small pane is the one size of glass a person can cut on a table with a straight edge and a square and a light touch.
 
-She thought about the fact that she has a glazier's putty knife in a cupboard and has used it four times, all of them on her own place, and she thought about the sill.
+She went back over the putty knife in that cupboard and the four times she had used it, all of them on her own place, and then over the sill.
 
-And what she thought about, and this is the part that is the whole of it and that she has never put to anybody, is that nobody in that block is going to do that window, and that is not anybody else's business and is not hers either, and that if she does not do it then it does not get done for about five years, and she does not have to be asked and she does not have to be a person who was asked, and there is no form in this that anybody fills in.
+And what was under all of it, and this is the part that is the whole of it and that she has never put to anybody, is that nobody in that block is going to do that window, and that is not anybody else's business and is not hers either, and that if she does not do it then it does not get done for about five years, and she does not have to be asked and she does not have to be a person who was asked, and there is no form in this that anybody fills in.
 
 She did not tell anybody she was going to. She did not ask the woman in the second flat. She did not put anything in a book about it and there is no book. Nobody in this borough knows she has a tape on that stair.
 

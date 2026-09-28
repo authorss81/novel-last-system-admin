@@ -1,6 +1,6 @@
 # Chapter 0417 — The High End
 
-Monday the fourth of June 2018, beginning at about a quarter to eight in the morning and finishing at about half past four in the afternoon, a yard off a side street, and a shop on that parade, in Tideglass.
+Monday the fourth of June 2018, a yard off a side street, and a shop on that parade, starting at about a quarter to eight in the morning and running to about half past four in the afternoon, in Tideglass.
 
 **A SHEET OF IRON CAME UP OFF THE WALL ON THAT LEAN-TO IN A WESTERLY ON THE FRIDAY NIGHT AND LET THE RAIN IN ONTO A STACK OF BOARDS, AND A MAN CAME INTO THAT YARD ON THE MONDAY MORNING FOR HIS OWN BUSINESS AND PUT IT DOWN PROPERLY, AND HE WAS NOT ASKED AND SAID NOTHING, AND THE ONLY PERSON WHO FOUND OUT WAS THE WOMAN WHO WORKS IN A SHOP, AND SHE DID NOT GO AND GET HIM.**
 
@@ -82,4 +82,4 @@ That corner is still doing exactly what it was doing in the April. The rain that
 
 Three people in this borough know that the head of that roof will now take a storm. The man who made it sound did not know that anything else about that yard was not sound. The woman who works in a shop knows both halves and has not said either of them. The man in his thirties will be in that yard again in the July for something else entirely and will not go under that lean-to.
 
-**SHE STOOD ABOUT TEN FOOT INTO THAT YARD AND LOOKED AT THE WALL AND AT THE ROOF AND WENT BACK THROUGH THE GATE WITH HER TUBE UNDER HER ARM, AND THE TOP OF THAT ROOF WILL HOLD A STORM AND THE FAR END OF IT WILL NOT, AND NOBODY HAS TOLD ANYBODY EITHER HALF OF THAT.**
+**SHE STOOD ABOUT TEN FOOT INTO THAT YARD AND LOOKED AT THE WALL AND AT THE ROOF AND WENT BACK THROUGH THE GATE WITH HER TUBE UNDER HER ARM, AND THE TOP OF THAT ROOF WILL HOLD A STORM AND THE FAR END OF IT WILL NOT, AND BOTH OF THOSE HALVES WENT OUT WITH HER AND NEITHER OF THEM WAS SAID.**

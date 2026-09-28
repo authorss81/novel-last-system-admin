@@ -1,6 +1,6 @@
 # Chapter 0421 — A Gate
 
-Wednesday the twentieth of June 2018, beginning at about a quarter to ten in the morning and finishing at about half past five in the afternoon, a kitchen and a back yard behind a short terrace, in Tideglass.
+Wednesday the twentieth of June 2018, a kitchen and a back yard behind a short terrace, from about a quarter to ten in the morning till about half past five in the afternoon, in Tideglass.
 
 **A MAN RE-HUNG A GATE IN A YARD BEHIND THAT TERRACE THAT HAD BEEN DROPPING SINCE THE FROST IN FEBRUARY, AND NOBODY ASKED HIM TO, AND HE DID NOT TAKE ANY MONEY FOR IT, AND HE DID NOT SAY WHY HE DID IT, AND THE MAN WHO LIVES IN THAT HOUSE HAS NOT ASKED HIM EITHER.**
 
@@ -86,4 +86,4 @@ And he has never gone back and looked at it. He went in on the Wednesday through
 
 Nobody in this borough knows any of that except the man who has gone.
 
-**HE WENT OUT OF THE BACK DOOR OF THAT HOUSE AT ABOUT HALF PAST ONE WITH A BAG OF ROTTEN OAK AND PUT IT IN HIS OWN VAN A HUNDRED AND THIRTY YARD AWAY, AND A GATE AT THE BACK OF THAT TERRACE HAS NOT DRAGGED SINCE, AND NOBODY HAS ASKED HIM WHY.**
+**HE WENT OUT OF THE BACK DOOR OF THAT HOUSE AT ABOUT HALF PAST ONE WITH A BAG OF ROTTEN OAK AND PUT IT IN HIS OWN VAN A HUNDRED AND THIRTY YARD AWAY, AND A GATE AT THE BACK OF THAT TERRACE HAS NOT DRAGGED SINCE, AND HE HAS TOLD NOBODY WHY AND IS NOT LIKELY TO.**

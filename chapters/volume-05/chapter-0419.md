@@ -1,6 +1,6 @@
 # Chapter 0419 — The End of the Lane
 
-Tuesday the twelfth of June 2018, beginning at about a quarter to nine in the morning and finishing at about four in the afternoon, a shop off that parade, and a lane off a side street, in Tideglass.
+Tuesday the twelfth of June 2018, from about a quarter to nine in the morning until about four in the afternoon, a shop off that parade, and a lane off a side street, in Tideglass.
 
 **HE CARRIED A SASH WINDOW ABOUT A HUNDRED AND TWENTY YARD DOWN A LANE THAT HE HAD BEEN AT THE TOP OF FOR SIX YEARS, AND HE PUT IT DOWN ON THE GRASS AT THE BOTTOM AGAINST A WALL, AND HE WAS GOING TO THE BOTTOM OF THAT LANE ON HIS OWN ACCOUNT, AND HE TOLD NOBODY.**
 
@@ -88,4 +88,4 @@ The man behind that counter in that shop has not said a word to anybody about an
 
 Nobody has been up that lane to look at that window. It is on its edge against a brick wall in a place where the grass is about four inch long, and the field gate beside it is tied back and always has been, and the wall is six foot high and a man standing in the road at the top of that lane cannot see anything at all.
 
-**HE PUT A PIECE OF CHALK ON THE GATE POST AND WALKED BACK UP THE LANE AND LEFT A WINDOW ON THE GRASS AT THE BOTTOM OF IT, AND NOBODY HAS BEEN TO THE BOTTOM OF THAT LANE AND A WINDOW IS STILL THERE.**
+**HE PUT A PIECE OF CHALK ON THE GATE POST AND WALKED BACK UP THE LANE AND LEFT A WINDOW ON THE GRASS AT THE BOTTOM OF IT, AND NOTHING HAS GONE DOWN THAT LANE TO SEE WHY, AND THE WINDOW IS STILL ON THE GRASS.**
