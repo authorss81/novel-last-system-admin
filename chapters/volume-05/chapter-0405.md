@@ -2,7 +2,7 @@
 
 Thursday the nineteenth of April 2018, from first light on that stair at about a quarter past eight until about one in the afternoon, a street off that parade, in Tideglass.
 
-**TWO MEN WERE IN THE ROOM OVER A ROOM IN THE MIDDLE OF THAT STREET ON THE SAME MORNING TWENTY MINUTES APART, AND EACH OF THEM PUT A CEMENT SHOVEL DOWN SOMEWHERE, AND NEITHER OF THEM HAS ANY IDEA THAT THE OTHER ONE WAS IN THAT ROOM, AND THE SHOVEL IS ABOUT TEN FOOT FROM WHERE EITHER OF THEM PUT IT.**
+**TWO MEN WERE IN THE ROOM OVER A ROOM IN THE MIDDLE OF THAT STREET ON THE SAME MORNING TWENTY-FIVE MINUTES APART, AND EACH OF THEM PUT A CEMENT SHOVEL DOWN SOMEWHERE, AND NEITHER OF THEM HAS ANY IDEA THAT THE OTHER ONE WAS IN THAT ROOM, AND IT IS ABOUT TEN FOOT FROM WHERE ONE OF THEM PUT IT AND NOT A FOOT FROM WHERE THE OTHER ONE DID.**
 
 Ketley Street comes off that parade about two hundred yard back on the side away from the bank and runs about a hundred and fifty yard and stops at the back of a yard. There are nine houses in it and a lock-up garage at the end of it. Four of the houses on the parade side are shopfronted and the five behind them are houses.
 

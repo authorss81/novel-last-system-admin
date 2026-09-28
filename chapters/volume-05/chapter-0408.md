@@ -10,11 +10,11 @@ The man in his sixties has the ground floor and has had it since about 2009. The
 
 The room this happened in is the front room up there. It is about thirteen foot by ten and it has one window to the front and a fireplace that has been out of use since the nineteen-fifties, and against the left-hand wall there is a floor-to-ceiling cupboard with sliding doors, one of which does not run, and above the top of that cupboard on the wall there is a shelf about four foot long and about eight inch deep screwed to the wall.
 
-On that shelf there is a canvas toolbag, and about two foot of a spirit level with the vial cover gone, and a coffee jar with about two inch of screws in it and the lid off, and a roll of lino with the end turned over on itself, and that has been the top of that cupboard for about four years.
+On that shelf there is a canvas toolbag, and about two foot of a spirit level with the vial cover gone, and a coffee jar with about two inch of screws in it and the lid off, and a roll of lino with the end turned over on itself, and none of it has been moved since about 2014.
 
 ---
 
-He was in that flat on the morning of the first of May between about half past eight and about half past ten, doing nine foot of pipe and a new stopcock on the kitchen sink, and he was let in by a woman who lives in that flat, who went out at about nine and left him the key on the mat and took it back off the mat when she came in at about ten.
+He was in that flat on the morning of the first of May between about half past eight and about half past ten, doing nine foot of pipe and a new stopcock on the kitchen sink, and he was let in by a woman who lives in that first-floor flat, who went out at about nine and left him the key on the mat and took it back off the mat when she came in at about ten.
 
 The man in his sixties was in the room with him for about twenty minutes of that, because that is where the man in his sixties spends the morning when he is in his own front room, and he sits by the fireplace with the window in front of him.
 
@@ -56,7 +56,7 @@ He said, "Have you got a screwdriver I can borrow for ten minutes."
 
 The man in his sixties said, "There's one somewhere," and got up out of where he was sitting and went to the top of that cupboard and put the jar of screws and that roll on the landing and put his hand out for the toolbag.
 
-He had not opened that bag since he gave the trade up. He came out of that trade at about sixty and it was given to him in about 2014 by a man who stopped working, and it has been on that shelf since, and there is nothing in it that he would want now and he has never in four years gone to it for anything.
+He had not opened that bag since he gave the trade up. He came out of that trade at about sixty and it was given to him in about 2014 by a man who stopped working, and it has been on that shelf since, and there is nothing in it that he would want now and he has never once gone to it for anything.
 
 He put it on the landing on its side and undid the buckle that works and turned the flap back.
 

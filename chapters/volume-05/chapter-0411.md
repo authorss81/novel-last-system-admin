@@ -2,7 +2,7 @@
 
 Tuesday the fifteenth of May 2018, starting at about half past nine in the morning and running until about ten to seven that evening, a shop off that parade, and an unnamed lane at the end of another street, in Tideglass.
 
-**A WOMAN BEHIND A COUNTER IN THAT SHOP PUT A WIRE BIRD CAGE INTO A MAN'S HAND ON ONE MORNING IN MAY BECAUSE SHE HAD NO MORE ROOM AND NO MORE BAGS, AND HE CARRIED IT IN HIS VAN FOR THIRTEEN DAYS AND PUT IT DOWN AGAINST THE INSIDE OF A BRICK PIER AT THE BOTTOM OF A LANE HE WAS IN ONCE IN FEBRUARY, AND SHE HAS NOT COME LOOKING AND IS NOT GOING TO AND NEITHER OF THEM WILL RAISE IT.**
+**A WOMAN BEHIND A COUNTER IN THAT SHOP PUT A WIRE BIRD CAGE INTO A MAN'S HAND ON ONE MORNING IN MAY BECAUSE SHE HAD NO MORE ROOM AND NO MORE BAGS, AND HE CARRIED IT IN HIS VAN FOR TEN DAYS AND PUT IT DOWN AGAINST THE INSIDE OF A BRICK PIER AT THE BOTTOM OF A LANE HE WAS IN ONCE IN FEBRUARY, AND SHE HAS NOT COME LOOKING AND IS NOT GOING TO AND NEITHER OF THEM WILL RAISE IT.**
 
 That shop is the one about sixty yard back from the parade, and she shuts it herself, and that counter is hers from ten in the morning, and it has been the same two times for two years.
 
@@ -34,7 +34,7 @@ He took it because his hands were there.
 
 It weighs about four pounds. He stood holding it in his left hand with his right under it while she measured the conduit and marked it, and she went and got a sheet of newspaper to put the cut pieces on, and then he had to move it to his other hand so that he could get his money out.
 
-He put it down on the floor at his feet while he paid, and she looked at it on the floor and said, "That came in with six other things on Friday and I have been standing in a yard in the rain about them for two days."
+He put it down on the floor at his feet while he paid, and she looked at it on the floor and said, "That came in with five other things on Friday and I have been standing in a yard in the rain about them for two days."
 
 He said, "Is that one yours."
 
@@ -50,21 +50,21 @@ And he said, "Right," and paid for his plugs and went.
 
 That is the whole of what any of the three of them said about that cage on that morning, and not one of the three has come back to it since, and it will not be raised.
 
-It lived in his own van for thirteen days.
+It lived in his own van for ten days.
 
 There was no use for it in him and nothing in that week, and nothing the week after either, that would make a man stop and consider a thing like that. It lay on the boards behind that seat, on its side, with the dome jammed against the door, which is the only way it goes.
 
 It moved about four times a day. It went on the seat when he wanted the front of that van. It came off the seat when he wanted the middle of that van. It came out entirely for one job, on the Friday of the twenty-fifth, and was put in a passage and stood against a wall for the best part of a day, and then went back in.
 
-He knocked plaster off one corner of that base on the first day and rubbed it away with his thumb, and that is the only time in thirteen days that he laid a hand on it.
+He knocked plaster off one corner of that base on the first day and rubbed it away with his thumb, and that is the only time in ten days that he laid a hand on it.
 
 He did not take it home. He lived in two rooms and there is no room in that, and he did not offer it to anybody and he did not think of offering it to anybody.
 
+On the Thursday of the sixteenth he was in a shop in a town eight miles off and there was a display of ironmongery in the window and a wire thing about the size of his head on a stand in it, and he stood outside that window for about a minute, and then went and bought his screws and came back and the cage was where it was on the floor of his van, and it was in that van on the Thursday.
+
 On the Monday of the twenty-first he saw a man in a fleece put a kettle on a trestle table in the middle of a road and he thought about it for about a second and then thought about something else.
 
-On the Wednesday of the sixteenth he was in a shop in a town eight miles off and there was a display of ironmongery in the window and a wire thing about the size of his head on a stand in it, and he stood outside that window for about a minute, and then went and bought his screws and came back and the cage was where it was on the floor of his van, and it was in that van on the Wednesday.
-
-He has not taken that cage out of that van since the Friday of the twenty-fifth. It is in there now.
+Nothing has gone back for it, and he has not been near that gate since that Friday, and he has not thought about it since, and it is not in that van and it is not in his two rooms and it is in nobody else's.
 
 He set it down at ten to seven on that Friday, the twenty-fifth of May, and it took him about a minute.
 
@@ -84,4 +84,4 @@ The woman who works in a shop has not been down that lane since about the middle
 
 ---
 
-**HE STOOD IT UP AGAINST THE INSIDE OF A PIER UNDER THE HOOD OF A GATE THAT STANDS OPEN, AND IT IS STILL THERE, AND THE OWNER OF THAT YARD HAS NOT WALKED PAST IT TWICE.**
+**HE STOOD IT UP AGAINST THE INSIDE OF A PIER UNDER THE HOOD OF A GATE THAT STANDS OPEN, AND IT IS STILL THERE, AND THE YARD IT IS IN HAS NOT HAD ITS OWNER IN IT SINCE THE MIDDLE OF MAY AND HE DOES NOT KNOW IT IS THERE.**

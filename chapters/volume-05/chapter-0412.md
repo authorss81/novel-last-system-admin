@@ -2,7 +2,7 @@
 
 Saturday the nineteenth of May 2018, beginning at about half past nine in the morning and ending at about ten past four in the afternoon, a yard off a road off the Cleeve road, in Tideglass.
 
-**TWO MEN WALKED PAST A MARBLE CHIMNEY PIECE IN A STORE AT THE BOTTOM OF THAT YARD TWICE EACH ON ONE AFTERNOON AND NEITHER OF THEM PUT A HAND ON IT, AND THE REASON THE MAN IN HIS THIRTIES DID NOT TAKE IT IS ABOUT BEING ONE PERSON AND THE REASON THE MAN IN HIS FORTIES DID NOT TAKE IT IS ABOUT WHAT HE IS, AND NEITHER OF THEM HAS ANY IDEA WHAT THE OTHER ONE'S REASON WAS, AND IT IS STILL AGAINST THAT WALL.**
+**TWO MEN WALKED PAST A MARBLE CHIMNEY PIECE IN A STORE AT THE BOTTOM OF THAT YARD TWICE EACH ON ONE AFTERNOON AND NEITHER OF THEM PUT A HAND ON IT, AND ONE OF THEM HAS A RULE HE HAS NEVER SPOKEN ALOUD TO ANYBODY, WHICH IS ABOUT LOCKED ROOMS AND HIS OWN VAN, AND HE HAS NOBODY TO SAY IT TO, AND THE OTHER ONE HAS NOBODY TO HOLD A BOARD AND IS NOT GOING TO BE THE ONE TO GO LOOKING, AND NEITHER OF THEM HAS ANY IDEA WHAT THE OTHER ONE'S REASON WAS, AND IT IS STILL AGAINST THAT WALL.**
 
 That yard is reached by an archway between two houses off the Cleeve road. There is a building at the top of the yard and about nine hundred square foot of hardstanding and a brick workshop building standing along the west side of it, thirty foot by twenty-two, with a pitched felted roof and a wide plank door on a raised ledge and a bar that drops into two staples in the jambs.
 
