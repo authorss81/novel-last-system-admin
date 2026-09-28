@@ -4,7 +4,7 @@ Sunday the tenth of September 2017, from about half past seven in the morning un
 
 **THE BULB IN THE CEILING OF THAT KITCHEN WENT AT ABOUT HALF PAST TEN IN THE MORNING AND THE MAN WHO COOKS IN IT HAS BEEN BUYING THE WRONG BULB SINCE THE MIDDLE OF JULY, AND THE ONLY PERSON IN THAT ROOM WHO KNEW WHICH ONE IT TOOKS STOOD AT THE SINK AND SAID NOTHING, AND AT HALF PAST FOUR IN THE AFTERNOON HE PUT A TORCH DOWN ON A LOW WALL BY A BUS SHELTER AND WALKED AWAY FROM IT.**
 
-The kitchen is reached off the parade by a passage and then by a door with a wire strung across the bottom of it where the flags have gone, and inside it there is a sink under the window, four burners, two doors on the long side, and a table with its edge rubbed pale where half a century of elbows have gone round it, and there is a man who cooks in it. The lad does that kitchen's washing up on four mornings out of the seven and has done since the year before last.
+The kitchen is reached off the parade by a passage and then by a door with a wire strung across the bottom of it where the flags have gone, and inside it there is a sink under the window, four burners, two doors on the long side, and a table with its edge rubbed pale where half a century of elbows have gone round it, and somebody cooks in it. The lad does that kitchen's washing up on four mornings out of the seven and has done since the year before last.
 
 The bulb in that ceiling is a bayonet cap and it takes about sixty watts, and it has a fitting with a ring and two pins and a sprung catch that has to be pushed in and turned.
 
@@ -48,7 +48,7 @@ He looked at her for a second.
 
 "I don't know yet," he said.
 
-"Right," said the woman of about fifty-five, and went on down past him carrying both, and the door at the bottom of that stair came back on its own behind her, and she put nothing to him about where it was going and used nothing he had told her, and she has not raised it since.
+"Aye," said the woman of about fifty-five, and carried on down past him with both of them, and the door at the bottom of that stair came back on its own behind her, and she put nothing to him about where it was going and used nothing he had told her, and she has not raised it since.
 
 She has not asked him why he came up on a Sunday and he has not told her, and neither of them is going to.
 

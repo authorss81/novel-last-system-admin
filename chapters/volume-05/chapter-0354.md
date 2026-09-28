@@ -8,7 +8,7 @@ The shutters on that parade went up at about half past seven, and the man who pu
 
 The man in his forties came up that parade at about ten with his bag and went into the shop and asked for a length of four by two and the woman who works in a shop cut it and he paid for it, and neither of them said anything else for about a minute.
 
-"Four," said the woman who works in a shop.
+"Four," said the woman at that counter.
 
 He did not answer it, and he took his length and went out into the parade, and that is the whole of that and it has happened about nine times since the twelfth of January and neither of them has ever said what the four are and neither of them could name two of them between them.
 
@@ -16,11 +16,11 @@ It is four. The number is the same one it was in the middle of January and neith
 
 About nine people were on nothing that day and not one of them was on the same thing as any of the others. The man in his forties is on nothing and has been since the middle of the year. The woman who works in a shop is on nothing. The man who puts shutters up is on nothing but his own rounds. The man in his sixties is on nothing and is in that hall on a Sunday morning for an hour with a cup.
 
-The man in a fleece was at the bus stop at the top of that parade at about ten on his way to work, and the man who works nights was at the top of that parade at about ten as well and got a bus at about a quarter to ten, and neither of them looked at the other.
+The man in a fleece was at that bus stop on the top of that parade at about ten on his way to work, and the man who works nights was standing at the same stop at the same hour and got a bus at about a quarter to ten, and neither of them looked at the other.
 
 At about half past two the man in his thirties was at the low end of a street with his bag on the wall beside him, doing nothing whatever, and he stayed there the best part of half an hour. Two women went past him and a boy went past on a bike and not one of them said anything to him. He picked the bag up afterwards and walked back up the parade past three shops that were shut, and there was nothing at the low end of that street he had come down there for and there has not been this month.
 
-The man at the end of a street was at the top of that parade at about three on a Sunday for no reason anybody has asked him about. The man from the parade was in a doorway at about four, going through a bag of chips with his hands. The woman of about fifty-five was at the end of a first-floor corridor at about half past nine in the evening with a jug in each hand, and she has not been on anything since she came into that room and nobody put her on anything.
+The man at the end of a street was at the top of that parade at about three on a Sunday for no reason anybody has asked him about. The man from the parade was stood in a doorway at about four with a bag of chips, eating out of it with his fingers. The woman of about fifty-five was at the end of a first-floor corridor at about half past nine in the evening with a jug in each hand, and she has not been on anything since she came into that room and nobody put her on anything.
 
 ---
 

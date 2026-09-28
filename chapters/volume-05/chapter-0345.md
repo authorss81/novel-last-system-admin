@@ -72,6 +72,6 @@ The figure was what the figure was. It was about the same as it had been on the 
 
 Nobody in that shop knows what that figure was. Nobody in that shop could say how much money goes through that till in a week, and she could not tell them, and she has never offered, and there is nobody in that borough who has asked her to.
 
-The room at the end of that upstairs corridor is about a mile and a half from that flat, and the two of them have never been in the same room, and the woman on the third floor of that block has never been up a stair in her life that goes past a shop, and the woman who works in a shop has never been up that outside stair, and neither of them knows that the other one exists.
+The room at the end of that upstairs corridor is about a mile and a half from that flat, and the two of them have never been in the same room. The woman on the third floor of that block has never in her life climbed a stair that goes past a shop. The one behind that counter has never once been up an outside stair. Neither of them knows that the other one exists.
 
 **A PLASTIC CHAIR WENT OUT ON TO A LANDING AT TWENTY TO FIVE IN THE MORNING AND CAME BACK UNDER A WINDOW AT HALF PAST SIX, AND A FIGURE WENT INTO A SAFE UNDER A COUNTER AT ABOUT HALF PAST FOUR IN THE AFTERNOON, AND NEITHER OF THOSE THINGS WAS GOING TO BE ANYBODY'S PROBLEM ON THE SEVENTEENTH OF AUGUST.**

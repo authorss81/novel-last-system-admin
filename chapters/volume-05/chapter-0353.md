@@ -68,6 +68,6 @@ Nobody put anything to that. The man in his forties said that a man with a barro
 
 Then the man in his forties and the man in a fleece were on their own by the urn with about half an hour gone since the last of the Sunday, and the man in his forties said the tea had gone cold again, which it had, and the man in a fleece said, "It is always cold again," and that was the whole of the twenty minutes.
 
-Nobody in that room said one word that night about a sentence that a woman of about fifty-five said twice in one week to two different people in two different places, and the woman of about fifty-five was not in that hall on the Wednesday, and she is at the end of that corridor now with a jug in each hand, and nobody has asked her and nobody is going to.
+Nobody in that room said one word that night about a sentence that a woman of about fifty-five said twice in one week to two different people in two different places, and she was nowhere in that hall on the Wednesday, and she is at the end of that corridor now with a jug in each hand, and nobody has asked her and nobody is going to.
 
 **A MAN AT THE END OF A STREET WENT OUT OF THAT HALL AT TEN AND WALKED DOWN THE ROAD TOWARD A PARADE WITH HIS HANDS IN HIS POCKETS, AND THE TWO MEN WHO HAD BOTH BEEN TOLD A SENTENCE WENT OUT FOUR MINUTES APART AND DID NOT WALK TOGETHER.**

@@ -20,7 +20,7 @@ The man in a fleece came into the shop off that parade at about half past three 
 
 "I was stood there," said the man in a fleece. "They shut it at half past ten in the morning with about nine in and a queue, and the light was on, and you could see the top of the machine through the slot."
 
-"Well," said the woman who works in a shop. "That'll be her lunch."
+"Yes," said the woman who works in a shop. "That is her dinner, that, and no more than it is."
 
 "That's what I thought. It's not a thing, is it."
 
@@ -70,6 +70,6 @@ She did not say to him that a shop on that parade had been shut with the light o
 
 Two things happening in a week in a borough this size is not a thing. The man in his forties loses about a day a month to somebody being out and he has never once made anything of it. The man in a fleece goes past that parade four times a day and has nothing to say to anybody in it most weeks and he said the thing about that shutter because it was in his face at ten past ten and he was on his way to a bus.
 
-The one person who was given both is standing behind a counter in a shop a third of a mile from both of them, and she has never spoken to the man in a fleece in her life and does not know his name and would not have recognised him, and the man in his forties has not been up that lane since the Friday morning because there is nothing else up it.
+The one person who was given both is standing behind a counter in a shop a third of a mile from both of them, and she has never spoken to the man in a fleece in her life and does not know his name and would not have recognised him, and he has not set foot in that lane since that Friday morning, because there is nothing else at the top of it he wants.
 
 **A MAN STOOD ON A HARD STANDING FOR FIVE HOURS IN A STREET OFF THAT LANE BECAUSE A WOMAN WAS AT THE CLINIC WITH HER MOTHER, AND A SHOPTER ON A PARADE CAME DOWN AT HALF PAST TEN IN THE MORNING WITH NINE PEOPLE INSIDE HER, AND NEITHER OF THOSE THINGS WAS EVER MENTIONED AGAIN.**

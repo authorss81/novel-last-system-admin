@@ -28,7 +28,7 @@ Going down nine treads with a sewing machine head in your arms is a different th
 
 She is still in that room. She has not told anybody that a thing was put down on that step and she has not said one word about it to the woman in the room next door along, and nobody in that block knows that it happened, and there is nobody in that block anybody could tell.
 
-The sewing machine is in a garage eight miles off with about nine other things that belonged to the same house, and a man there who keeps a list of what comes in has written one line against it, and not one person in this borough has ever laid eyes on it, and that line is the only record anywhere that the machine came out of a house on the Cleeve road in May and went up nine treads in August and came down again.
+The sewing machine is in a garage eight miles off with about nine other things that belonged to the same house, and a man there who keeps a list of what comes in has written one line against it, and not one person in this borough has ever laid eyes on it, and that line is the only record anywhere that a machine left a house on that road in May, went up nine treads in August and was carried back down again.
 
 ---
 
@@ -52,7 +52,7 @@ Nobody has put the question to her. Nobody on that street has raised it. The man
 
 The woman at number fourteen is about thirty-five and moved in at the end of February and her husband is on the boats, and there is a settee in her front room with a throw over the arm of it that is not big enough for the arm, and there has been a gap at the end of that settee for a chair since the first week of June. The chair went into that gap the same night and it does not match and it is a foot too wide and one of the spindles on the back of it is a replacement and a different colour. She has not mentioned it to a living soul and she has not shifted it since the first night.
 
-There is nothing about that chair that a person could trace. It came out of a house on the Cleeve road in May, it spent eight weeks in a van, and it was on a step in a street for about ten hours and nobody saw it arrive and nobody saw it leave.
+There is nothing about that chair that a person could trace. It was one of four in a house on that road in May, it lay eight weeks in the back of a van, and it stood on a step in a street for about ten hours and nobody saw it arrive and nobody saw it leave.
 
 ---
 

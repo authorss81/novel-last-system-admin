@@ -34,7 +34,7 @@ He put the box down on the path at the foot of the wall face down, the way a man
 
 What has gone round that street is not that a man is going to make a bird box. What has gone round it is that somebody is going to have that wall done.
 
-That came from two men and not from him. A man in a fleece put it to the man in his forties at a stand in a market four miles off in the second week of August, and the man in the forties put it to a man in a fleece further up that road in the third week of August, and neither of them gave a name, and neither of them had it from him.
+Two men are the source of that and neither of the two of them ever had it off him. The first of them got hold of it at a stand in a market four miles off in the second week of August and carried it to the man in his forties, and the man in his forties carried it in turn to a man in a fleece further up that road in the third week of August. No name went with it at any point along that line.
 
 The man in his forties heard a man say somebody is going to have that wall done, and he had a quotation of his own on that wall from June that has not been given to him, and he put the two of them together at about half past two on the Tuesday, and the only thing in that arithmetic that was a mistake is the man in the forties being sure that the man in a fleece knew which wall.
 
@@ -56,7 +56,7 @@ The man in his forties had the ladder over his shoulder and he put it down in th
 
 "Who is that for," he said.
 
-"That is for whoever wants one," said the man in his thirties, and then he turned round and looked at the path, where a bird box was lying face down at the foot of a wall with two screws gone out of it and about two foot of plaster off around each hole.
+"That is for whoever wants one," said the man in his thirties, and after that he turned about and looked down at the path, where a bird box was lying face down at the foot of a wall with two screws gone out of it and about two foot of plaster off around each hole.
 
 He said nothing else at all.
 
