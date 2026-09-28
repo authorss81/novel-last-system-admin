@@ -1,6 +1,6 @@
 # Chapter 0430 — The Hook
 
-Thursday the twenty-sixth of July 2018, from about a quarter to nine in the morning until about half past seven that evening, the back of a short terrace off a side street, in Tideglass.
+Thursday the twenty-sixth of July 2018, and the seven hours in the middle of it, a yard behind a short terrace, in Tideglass.
 
 **HE TOOK THIRTY FOOT OF FLEX OFF A HOOK IN A YARD AT TEN TO TEN IN THE MORNING WITHOUT KNOCKING AND PUT IT BACK ON THE SAME HOOK AT FIVE, AND THE MAN IT BELONGS TO WATCHED THE WHOLE OF THE PUTTING BACK FROM HIS OWN FRONT ROOM, AND HE HAS SAID NOTHING TO ANYBODY AND IS NOT GOING TO.**
 
@@ -34,7 +34,7 @@ The man in his sixties came out of the front of his own house at about half past
 
 There was nothing on that hook.
 
-He looked at it. He looked at the brick round it where the iron was bedded in, and at the mark in the dust and the mortar under it where the reel had been sitting since the autumn of 2013, and at the bare hook, and then he looked at the yard, which was empty apart from the concrete and a wheelbarrow against the outbuilding and a man in his thirties at the far end of it with a sash on trestles in front of him.
+He looked at it. He looked at the brick round it where the iron was bedded in, and at the mark in the dust and the mortar under it where the reel had been sitting since the autumn of 2013, and at the bare hook, and then he looked at the yard, which was empty apart from the concrete and a wheelbarrow against the outbuilding and a man in his thirties at the other end of it with a sash on trestles in front of him.
 
 He went back inside and put the kettle on and did not put his coat on.
 
@@ -60,7 +60,7 @@ The van went away up the side street.
 
 The man in his sixties was at that window the whole of that and did not go out, and did not open the front of his house, and did not go across that yard, and has not mentioned to anybody in that terrace that he has got a reel of flex and that it was off his hook for about seven hours on a Thursday in the middle of summer.
 
-He has decided something about it and the something is this: he is not going to be a man who makes a thing of thirty foot of flex.
+He has decided something about it and the something is this: he is not going to be the sort of man who makes a thing of thirty foot of flex.
 
 There is nothing in what happened to him. Nothing was damaged. The socket end of that flex has the earth pin on it bent about five degrees and it was like that before, and he has not even noticed that it is like that. A thing went off a hook in a yard for seven hours and came back to it. A man in this borough is not going to spend a single evening of his life on that, and he decided that at about a quarter to four in the afternoon with his coat on, standing in his own back passage, and he has not changed his mind since and he will not be asked about it, because nobody in that terrace is going to ask him about it.
 

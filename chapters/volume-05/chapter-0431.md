@@ -1,6 +1,6 @@
 # Chapter 0431 — One Sink
 
-Thursday the second of August 2018, from about half past four in the afternoon until about ten that night, a shop off that parade, and a verge off a side street, in Tideglass.
+Thursday the second of August 2018, from about half past four in the afternoon until about ten that night, a shop off that parade, and a verge at the top of a street off it, in Tideglass.
 
 **BOTH OF THEM WANTED IT AND ONE OF THEM GOT IT, AND THE OTHER ONE SAID NOTHING AND WENT AWAY, AND HE DID NOT MIND, AND NOBODY WHO SAW IT COULD HAVE TOLD YOU WHICH OF THOSE THINGS HAD HAPPENED.**
 

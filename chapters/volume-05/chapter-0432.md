@@ -1,6 +1,6 @@
 # Chapter 0432 — Since Before Christmas
 
-Wednesday the eighth of August 2018, and the five months before it, one house on a side street off that parade, and one front room in it, in Tideglass.
+Wednesday the eighth of August 2018, and the eight months before it, one house on a side street off that parade, and one front room in it, in Tideglass.
 
 **SHE HAS BEEN LIVING WITH IT SINCE THE FIRST COLD WEEK OF DECEMBER AND SHE IS THE ONLY PERSON WHO KNOWS, AND HE STOOD IN THAT ROOM FOR AN HOUR AND A HALF IN AUGUST AND LOOKED AT IT AND ASKED HER ONE QUESTION AND WENT ON HANGING THE PICTURE, AND TONIGHT SHE WILL LIGHT IT AGAIN.**
 
@@ -18,7 +18,7 @@ She knows what it is. She has looked at the throat of that hood with a torch abo
 
 ---
 
-The whole of it, then, over about five months, and none of it to anybody.
+The whole of it, then, over about eight months, and none of it to anybody.
 
 In the first week of November a man came to sweep that flue. He came because she had telephoned a number out of a shop directory in the town eight miles off, which is the only way anybody in this borough finds a sweeper at all. He swept it from the top, brought a basket down the stack on a line, said it was clear, and charged her thirty pound, and she paid him in cash, and it was clear and it was thorough and she has never had any reason to think otherwise about it.
 
@@ -52,15 +52,15 @@ In May a man came to fit a shelf in that room and was in it for about three quar
 
 ---
 
-On the Wednesday the eighth of August a man in his forties was in that front room for an hour and a half with a set of steps he had carried in himself.
+On the Wednesday the eighth of August a man in his forties was in that front room for an hour and a half with a platform he had carried in himself.
 
 She had asked him to hang three things. Two of them are hers and the third is her son's and it is a big one, about two foot by three, and it is a thing that wants two people on it and she has not got anybody and he had said on the Monday that he would do it on his own and that it would take longer, and she said that was all right.
 
-He had the big one up at about ten to four and was standing on his own steps with his shoulder about a foot off that chimney breast, holding it with his left hand and getting a pencil out of his pocket with his right, and he looked down at the shelf of that chimney breast.
+He had the big one up at about ten to four and was standing on his own platform with his shoulder about a foot off that chimney breast, holding it with his left hand and getting a pencil out of his pocket with his right, and he looked down at the shelf of that chimney breast.
 
 There was the black streak on the face of it and the bloom round the throat and the grey along the top of the curtains.
 
-He looked, took it in for about a second and a half, and then moved the step about a foot and a half across so that he could see up under the hood, and he was up there about ten seconds, and then he came down and turned round and looked at it from the floor.
+He looked, took it in for about a second and a half, and then moved the platform about a foot and a half across so that he could see up under the hood, and he was up there about ten seconds, and then he came down and turned round and looked at it from the floor.
 
 "You've had that fire going," he said.
 
@@ -88,11 +88,11 @@ That was the whole conversation. It took about half a minute and neither of them
 
 He went on hanging the picture.
 
-He checked it twice and did it again and got it right twice, which is not something that happens, and he was on those steps for about fifty minutes in total. He put the two smaller ones on either side of the breast at about a foot three and about a foot eight, and those two came out the same height as each other and a different height from the big one, and that is because the big one is on the stack side and the other two are not.
+He checked it twice and did it again and got it right twice, which is not something that happens, and he was on that platform for about fifty minutes in total. He put the two smaller ones on either side of the breast at about a foot three and about a foot eight, and those two came out the same height as each other and a different height from the big one, and that is because the big one is on the stack side and the other two are not.
 
 She sat on a stool at the other end of that room with her hands in her lap for most of that and watched him and did not talk, and he did not talk.
 
-At half past five he came down off the steps for the last time, put the steps by the front of the room, and said the price, and she paid him, and he went.
+At half past five he came down off the platform for the last time, put the platform by the front of the room, and said the price, and she paid him, and he went.
 
 Nobody in this borough knows about that flue except the two of them. Nobody has been telephoned and nobody has been asked to come, and there is no report of it and there is nowhere in this borough that a report of it would go.
 
@@ -102,4 +102,4 @@ She will go in there at about half past seven tonight and put a light on and ope
 
 She has not decided to do that. She has decided nothing at all. A house that has gone quiet about what is happening inside it has not agreed to anything, and nobody has ever asked it.
 
-**HE CAME DOWN OFF THOSE STEPS AT HALF PAST FIVE AND TOOK HIS MONEY AND WENT OUT, AND SHE LIT THAT FIRE AGAIN AT HALF PAST SEVEN, AND NOBODY HAS BEEN ASKED TO DO ANYTHING.**
+**HE CAME DOWN OFF THAT PLATFORM AT HALF PAST FIVE AND TOOK HIS MONEY AND WENT OUT, AND SHE LIT THAT FIRE AGAIN AT HALF PAST SEVEN, AND NOBODY HAS BEEN ASKED TO DO ANYTHING.**

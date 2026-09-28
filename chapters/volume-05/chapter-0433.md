@@ -1,6 +1,6 @@
 # Chapter 0433 — The Print
 
-Wednesday the fifteenth of August 2018, and again on the Monday four days after, a first floor over that parade, in Tideglass.
+Wednesday the fifteenth of August 2018, and again on the Monday five days after, a first floor over that parade, in Tideglass.
 
 **HE WENT INTO THE BACK ROOM AT HALF PAST ONE TO PRICE A RANGE HE WAS NEVER GOING TO SELL, AND HE CAME OUT WITH A PICTURE FRAME IN HIS HAND, AND HE DID NOT SAY WHY TO ANYBODY BECAUSE THERE WAS NOBODY THERE, AND ON THE MONDAY HE PUT IT BACK IN A DIFFERENT ROOM OF THAT BUILDING AND NEITHER MAN MENTIONED IT.**
 

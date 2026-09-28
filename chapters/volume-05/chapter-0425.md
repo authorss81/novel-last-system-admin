@@ -6,7 +6,7 @@ Saturday the seventh of July 2018, and again on five other days between that one
 
 She opened at half past eight and he came in at about ten past nine with a box of sandpaper under his arm.
 
-He put it on the counter and she put it on the scales and wrote the figure on a pad and turned the pad round so he could see it, and he put the money on the counter, and she took it, and her hand went into the till and came out with the difference, and there was nothing else on that counter for him that day.
+He put it on the counter and she put it on the scales and wrote the figure on a pad and turned the pad round so he could see it, and he put the money down, and her hand went into the till and came out with the difference, and there was nothing else on that counter for him that day.
 
 Then she said, "You've not had a hot dinner in this town since Christmas, have you."
 
