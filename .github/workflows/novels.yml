@@ -198,6 +198,11 @@ jobs:
         if: steps.phase.outputs.exists != 'true' && steps.phase.outputs.has_done == 'true' && steps.phase.outputs.has_blocked != 'true' && steps.phase.outputs.has_deferred != 'true'
         run: |
           set -euo pipefail
+          if [ -f state/complete.md ]; then
+            echo "Repository is complete; no continuation phase needed"
+            echo "created=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
           continuation_dir="workspace/continuation/next"
           if [ -f "$continuation_dir/.done" ] || [ -f "$continuation_dir/.blocked" ]; then
             n=1
