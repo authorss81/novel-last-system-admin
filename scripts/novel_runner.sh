@@ -35,6 +35,21 @@ while IFS= read -r prompt_file; do
     retired_changed=true
     continue
   fi
+  # A volume outline phase whose outline file already exists has no work left.
+  # The writer correctly changes nothing, so without this the phase burns its
+  # attempts on empty runs and then blocks itself. Retire it instead.
+  if [ ! -f "$candidate/.done" ]; then
+    first_line="$(head -n 1 "$prompt_file")"
+    if [[ "$first_line" =~ VOLUME[[:space:]]+([0-9]+)[[:space:]]+OUTLINE[[:space:]]+PHASE ]]; then
+      outline_vol="${BASH_REMATCH[1]}"
+      if [ -f "outline/volume-${outline_vol}.md" ]; then
+        echo "Retiring $candidate: outline/volume-${outline_vol}.md already exists"
+        touch "$candidate/.retired"
+        retired_changed=true
+        continue
+      fi
+    fi
+  fi
   if [ -f "$candidate/.retry-after" ] && [ "$(cat "$candidate/.retry-after")" -gt "$(date +%s)" ]; then
     continue
   fi
