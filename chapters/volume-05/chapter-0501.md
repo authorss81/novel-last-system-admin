@@ -2,11 +2,11 @@
 
 The Sunday of the twenty-third of June 2019 from about half past three in the afternoon until about six, and then the Wednesday morning of the twenty-sixth until about a quarter to nine. A kitchen, the passage beside it, and a front room, in Tideglass.
 
-**A MAN SAID ONE SENTENCE TO HIS OWN FATHER IN A KITCHEN ON THE AFTERNOON OF THE TWENTY-THIRD OF JUNE 2019 WITH THE DOOR OPEN AND A PERSON IN THE PASSAGE CARRYING FOUR PLATES, AND THE FATHER HAS NOT THOUGHT ABOUT THAT SENTENCE SINCE, AND THE SON HAS THOUGHT ABOUT NOTHING ELSE FOR THREE DAYS, AND NEITHER OF THE TWO MEN KNOWS THAT ANYBODY ELSE HEARD IT.**
+**A MAN SAID ONE SENTENCE TO HIS OWN FATHER IN A KITCHEN ON THE AFTERNOON OF THE TWENTY-THIRD OF JUNE 2019, THE KITCHEN DOOR STANDING OPEN, AND A PERSON IN THE PASSAGE CARRYING FOUR PLATES, AND THE FATHER HAS NOT THOUGHT ABOUT THAT SENTENCE SINCE, AND THE SON HAS THOUGHT ABOUT NOTHING ELSE FOR THREE DAYS, AND NEITHER OF THE TWO MEN KNOWS THAT ANYBODY ELSE HEARD IT.**
 
 The house is number four of a row of six at the end of a street off the parade. It is a small terrace house and the kitchen is at the back and there is a passage running from the front door past the foot of the stairs to that kitchen, and the kitchen door stands open because the house gets almost no sun in it between October and March.
 
-The son is a man of about forty-five. He does something at a place four miles off that is not a trade anybody can describe in one sentence. The wife has been with him since 2008 and works three days at a place in town.
+The son is a man of about forty-two. He does something at a place four miles off that is not a trade anybody can describe in one sentence. The wife has been with him since 2008 and works three days at a place in town.
 
 The father is a man of about seventy-six who has lived alone since 2013 and who comes to that house on Sundays and has done for about six years.
 
@@ -52,7 +52,7 @@ The old man forgot it by the middle of the week. That is not a figure of speech.
 
 The son has not put it down. He has thought about it every day since and he has got to the point where he is not sure whether the thing that happened in that kitchen on Sunday was a thing he did or a thing that happened to him, and he has not worked that out, and he has noticed that not working it out is the thing he has been doing with it.
 
-The woman has not mentioned it to either of them and is not going to, and the reason is not loyalty to her husband.
+She has not raised it with either of those two men and does not intend to, and the reason is not loyalty to her husband.
 
 It is that if she tells him what she heard, then she is a wife who heard her husband say a thing about his father, and if she tells his father, then she is a woman who has carried a thing about a man in her own house, and she is not going to be either of those. And she has also worked out, in three days, that there is a third thing underneath both of those, and the third thing is that she wishes the kitchen door had been shut.
 

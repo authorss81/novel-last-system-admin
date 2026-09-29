@@ -6,13 +6,13 @@ Friday the seventh of June 2019, from about ten to one in the afternoon until ab
 
 The forecourt is where lorries are weighed, or it is where lorries used to be weighed, and there is a hut on it with a window in it and a length of office behind the hut with a bench along one wall and about nine hundred small things on shelves.
 
-The man in there is a merchant. He buys machines that nobody wants and sells the parts off them, and he is one of about four people in this borough doing it, and he has been doing it since about 2009.
+The man in there is a merchant. He buys machines that nobody wants and sells the parts off them, and there are about four of him in this borough doing it, and he has been doing it since about 2009.
 
 He is out in that yard every weekday from about ten to one and from about two until about five, and on the Friday of the seventh of June he was out there from about ten to one and did not go back in until about half past four.
 
 It was the hottest day of that June so far. There is not a scrap of shade in that yard after about half past ten.
 
-At about a quarter to twelve on that Friday a man came in through the gate with a thing on a sack barrow that turned out to be a machine about the size of a small fridge, and it had been standing in a passage four streets away since April, and the man wanted thirty pounds for it.
+At about a quarter to twelve on that Friday a man came in off the top of that yard with a thing on a sack barrow that turned out to be a machine about the size of a small fridge, and it had been standing in a passage four streets away since April, and the man wanted thirty pounds for it.
 
 The merchant went round it twice, opened the back of it, looked at it, and said that it was not anything he could use and that there was nothing in it he could sell.
 
@@ -22,7 +22,7 @@ And the merchant said, without raising his voice in the heat: a woman at the cor
 
 And the other man said that his was a machine, not a piano, and that a piano is a thing you have to move.
 
-And the merchant said: it is a thing I had to move, and I moved it, and I lost money on it, and you have lost the same money in a passage in April, and the difference between us is that I am telling you about it in the yard instead of in your own passage.
+And the merchant said: it is a thing I had to move, and I moved it, and I was out of pocket on it, and you have been out of pocket on the same thing in a passage in April, and the difference between us is that I am telling you about it in this yard instead of in your own passage.
 
 And the other man stood in that yard in the sun for a bit and then said that he had wanted thirty pounds and not a pound more, and the merchant said he would give him twenty for it as it stood, and the other man said twenty-two, and got it.
 
@@ -30,7 +30,7 @@ And the other man stood in that yard in the sun for a bit and then said that he 
 
 Here is the thing that was said. It is one sentence and none of the words in it were about a promise.
 
-He had carried a machine out of a house in a street two off the parade in the March of 2014 and had put it in the back of a van, and there was a woman living in the next house from that one who had come out on her own front step to ask whether it was going, because it had been going to be a television and it was going to be a bench.
+He had carried a machine out of a house in a street two off the parade in the March of 2014 and had put it on the back of a lorry, and there was a woman living in the next house from that one who had come out on her own front step to ask whether it was going, because it had been going to be a television and it was going to be a bench.
 
 He said it was going to be a bench, and she said, laughing, that in this borough nothing is going to be a bench, and then she said, without any pause in it at all and without stopping what she was doing:
 
@@ -50,7 +50,7 @@ He said that a few people had, and asked her what she was after.
 
 And she said: my mother is going into a place in October and I am going through what is in her front room, and there is a thing about a man who came and took something, and I want to put it in front of the man whose it was.
 
-Good — "somebody has written to me" — that's not a letter appearing.
+He waited for her to say that somebody had written to her. She did not say that, because it was not that. Somebody who is dead told her once, in a kitchen in another town, in about 1994, to give a name to a man in a place like this one if she ever wanted a word put in for her, and she has carried that name on a piece of paper in her handbag for twenty-five years without once having cause to use it until the March of this year.
 
 Then she said the name out loud. He did not know it; she gave it. He had known it for twenty-five years. It is a man who used to have a yard at the far end of that street, and he has been gone since about 2011.
 
@@ -62,7 +62,7 @@ And she said: "I've got it written down here."
 
 And she had it written down, and it was on a piece of paper, and it was in her hand, and she held it out.
 
-And then the part that is not about her at all, which happened between two o'clock and half past four in that heat, with no work in front of him and nothing on the bench.
+And then the part that is not about her at all, which happened between two in the afternoon and half past four in that heat, with no work in front of him and an empty bench.
 
 What he wanted was never her name.
 
@@ -70,10 +70,10 @@ He has known that since about 2017 and he had not put it into words before, and 
 
 He did not want to be able to say her name to a stranger. He wanted to be a man who was sent to.
 
-Nobody has ever sent him to anybody, in this borough, in about as long as he has been in it, and he is not a man anybody would think of to send, and there is no version of him that anybody in this borough would send, and the reason is not anything anybody did to him. It is that he is a man who is at a gate with a lorry at four in the afternoon and who does not say much, and that is all.
+Nobody has ever sent him to anybody, in this borough, in about as long as he has been in it, and he is not a man anybody would think of to send, and there is no version of him that anybody in this borough would send, and the reason is not anything anybody did to him. It is that he is a man who is standing in that yard beside a lorry at four in the afternoon and who does not say much, and that is all.
 
 And on the Friday he stood in that yard and worked out that if the woman had said the sentence in 2014 in a different order — if she had said, first, you should send people to me, and then, I am saying that to you and not to anybody else — then he would have said no. And that what he had spent five years on was a sentence about himself, given away by somebody who did not know she was giving it.
 
 And the stranger went up to the bus stop at the top of the parade with a piece of paper in her hand that was the correct answer, and a man in a yard behind a hut had it, and did not.
 
-**A WOMAN CARRYING A PIECE OF PAPER WENT OUT THROUGH THE GATE OF THAT YARD AT TWO O'CLOCK ON THE SEVENTH OF JUNE 2019 AND WENT UP THE PARADE TOWARDS A BUS STOP, AND A MAN IN THE YARD WATCHED HER GO AND THEN PUT A SPANNER ON A BENCH AND SAT DOWN.**
+**A WOMAN CARRYING A PIECE OF PAPER WENT OUT OF THAT YARD AT TWO O'CLOCK ON THE SEVENTH OF JUNE 2019 AND WENT UP THE PARADE TOWARDS A BUS STOP, AND A MAN IN THE YARD WATCHED HER GO AND THEN PUT A SPANNER ON A BENCH AND SAT DOWN.**

@@ -18,8 +18,6 @@ He had slept in the top room. He had left a treadle sewing machine in a wooden c
 
 Here is the floor, and it is a very small thing and it is the whole of this.
 
-In the second week of February 2015 he was in that passage at about nine in the evening putting a length of pipe—no.
-
 He was in that passage in the second week of February 2015 because there was a gap under the floor by the side of the back door where you could put your thumb into it, and he had a flat bar and a claw hammer, and he is the sort of man who does not leave a gap.
 
 He lifted three of the square tiles up. They are about six inch tiles and they come up whole and they go back in the way you would guess, and he put three of them back the wrong way round, so that the bevel that is meant to go down is going up, and the tile sits about a third of an inch proud of the ones either side of it, and if you put a foot on that stretch of floor it goes down, and if you put a wheel on it, it catches.
@@ -50,7 +48,7 @@ In the summer of 2018 a man came to that house in the middle of a Sunday afterno
 
 On the second of June 2019 he telephoned and asked her whether the top room was clear and whether the front door was on the latch, and she said it was, and he said he would come on the seventeenth, and she said the seventeenth was a Monday, and he said it was, and there was nothing else in the conversation.
 
-That is all of it. That is the whole of the contact there has been between them in those eight weeks of 2015 and in the three years since.
+That is all of it. That is the whole of the contact there has been between them in those eight weeks of 2015 and in the four years since.
 
 Here is what happened on the Monday.
 
@@ -102,7 +100,7 @@ It would have been four words. It would not have been an accusation. It could no
 
 And here is the part that is not a decision either.
 
-She has not decided not to say it. She has thought about not saying it, on and off, since about half past seven that evening, and she has got as far as a position, and the position is that she does not want to be a woman who tells a man in a doorway that she knows what he did in 2015, because that would make it a thing she had been carrying for three years for him, and she has not been carrying anything for him. She has been carrying a passage.
+She has not decided not to say it. She has thought about not saying it, on and off, since about half past seven that evening, and she has got as far as a position, and the position is that she does not want to be a woman who tells a man in a doorway that she knows what he did in 2015, because that would make it a thing she had been carrying for four years for him, and she has not been carrying anything for him. She has been carrying a passage.
 
 And she has also got as far as noticing that there is no third way. It is either that she says it, or it is that she goes on kneeling on a Sunday afternoon in five years' time to look at a floor, and she has not chosen either of them.
 

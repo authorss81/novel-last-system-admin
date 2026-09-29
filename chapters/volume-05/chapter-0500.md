@@ -12,11 +12,11 @@ The woman who works in that shop is about thirty and she is not the owner. She i
 
 ---
 
-Here is the whole of the man, and it is a very small thing and it has been going on for about eight months.
+Here is the whole of the man, and it is a small thing and it has been going on for about eight months.
 
 He comes out of the house at the far end of the hundred yard at about five to seven. He walks to the box. He goes in. He shuts the door. He stands in there about four minutes, and if you stood at that box on a weekday morning at about a quarter to seven you would see the top of a man's head and his shoulders through the glass and nothing else at all.
 
-Then he comes out, and he stands on the pavement for about a minute, and he looks across the street at a row of houses, and then he goes on up the hundred yard and turns at the end and is gone.
+Then he comes out, and he stays out there about a minute, and he looks across the street at a row of houses, and then he goes on up the hundred yard and turns at the end and is gone.
 
 He has done that about eight months. He is never late. He has not once been in that box for longer than about five minutes or shorter than about three.
 
@@ -28,31 +28,31 @@ The second is that the row he looks at is not where he lives. She worked that ou
 
 The third is the girl.
 
-There is a girl at number fifty-one in that row. She is about seventeen and she does not go anywhere in the mornings any more, and she goes out at about eight with a bag most days and comes back at about half past four most days, and nobody else in that house has a key, and the woman at the far end of that row has a dog and a man and neither of them is that girl's.
+There is a girl at number fifty-one in that row. She is about seventeen and she does not go anywhere in the mornings any more, and she goes out at about eight with a bag most days and comes back at about half past four most days, and nobody else in that house has let anybody in, and the woman at the far end of that row has a man in that house, and that man is not that girl's father, and nobody in that row has ever thought otherwise.
 
 And what the woman in that shop has worked out, and has told nobody, and has not written down anywhere, is that the man in the box is that girl's father, and that he has not gone up to number fifty-one since about the October before last, and that he stands on that corner four mornings a week and looks at the front of that house for about a minute, and that this is the entire of it.
 
-She is right. She has been right since about the March before last and she has not been wrong since, and she has told nobody, and there is nobody in that shop but a man who comes in at lunchtime and buys one thing.
+She is right. She has been right since about the March of last year and has not been wrong since, and she has told nobody, and there is nobody in that shop but a man who comes in at lunchtime and buys one thing.
 
 Here is the one occasion, and it is the only one that matters in this.
 
-On the twelfth of March of this year it was cold enough for the glass of that box to be steamed on the inside, and the woman in that shop came out of her own door at about ten to seven to shift the magazine rack two foot along the pavement, which she does when it is in the way of a pram.
+On the twelfth of March of this year it was cold enough for the glass of that box to be steamed on the inside, and the woman in that shop came out of her own door a couple of minutes before he did, to shift the magazine rack two foot along the pavement, which she does when it is in the way of a pram.
 
 She was standing in her own doorway with her hand on the rack when he came out of the box.
 
-She has gone over it a great many times. She is certain he saw her, because he came out of that box at about ten to seven and she was in the way, and a man cannot come out of a box without seeing a woman two foot away with her hand on a rack.
+She has gone over it a great many times. She is certain he saw her, because she was in the way when that door opened, and a man cannot come out of a box without seeing a woman two foot away with her hand on a rack.
 
 And he did not look at her. He looked at the window of her shop, and at the top of her door frame, and then across the street.
 
 And that is the whole of the occasion, and it is the reason she has never said one word about any of it to anybody, and it is not a comfortable thing to have watched a man not do.
 
-What happened on the Thursday is this, and it took about ten minutes of a weekday morning and then most of the rest of the day.
+What happened on the Thursday is this, and it took the first quarter of an hour of that weekday morning and then most of the rest of the day.
 
 He came out of the box at about ten to seven and stood on the pavement the way he does and looked across the street at that row.
 
 And then he did not go on up the hundred yard. He stood there.
 
-At about ten to seven the girl came out of number fifty-one with her bag and went across the road and into that shop, and the woman opened the door for her and the girl said she would only be a minute, and the door shut behind her.
+At about that same minute the girl came out of number fifty-one with her bag and went over to that shop, an hour and a half earlier than the woman in that shop had ever once seen that girl out, and the woman opened the door for her and the girl said she would only be a minute, and the door shut behind her.
 
 He was still on that pavement. He was twenty foot away and he had a clear view of that window and he was looking straight at it.
 
@@ -62,13 +62,13 @@ She said, "Oh."
 
 And then she said, "That's all right, then," and turned the page.
 
-And he stood on that pavement until about ten past seven and he did not go into that shop and he did not go across that street and he did not go up the hundred yard, and at ten past seven he went up the hundred yard and turned the corner and was gone.
+And he stood on that pavement for about twenty minutes without going into that shop, without going over that street and without going up the hundred yard, and then he went up the hundred yard and turned the corner and was gone.
 
-And the woman turned round from the stock table with a bundle of wrapping in her hand and looked at the back of that girl's head and then at the empty corner, and she said nothing, and the girl said nothing, and the girl went out at about twenty past seven and went across the road and up the hundred yard and did not look at the corner.
+And the woman turned round from the stock table with a bundle of wrapping in her hand and looked at the back of that girl's head and then at the empty corner, and she said nothing, and the girl said nothing, and the girl went out at about twenty past seven and went over and up the hundred yard and did not look at the corner.
 
-The woman stood in her own doorway for about ten minutes afterwards with the wrapping still in her hand, and then she went in and shut the door, and it was the hottest morning of that June so far and she did not know what to do with herself for about an hour.
+The woman stood in her own doorway for the best part of half an hour afterwards with the wrapping still in her hand, and then she went inside and pulled that door to behind her, and it was the hottest morning of that June so far and she did not know what to do with herself for about an hour.
 
-The girl came back into that shop at about twenty to one and bought a packet of something and said nothing else, and the woman put it in a bag and gave it to her, and neither of them said one word, and neither of them has since.
+The girl came back into that shop at about twenty to one and bought a packet of something and said nothing else, and the woman put it in a bag and gave it to her, and the pair of them got through the whole of it without a syllable, and have done since.
 
 Here is the last of it, and it is the part she is not going to get past this year.
 
@@ -78,4 +78,4 @@ And what she has worked out about him is that that is not what he is doing, and 
 
 And she is right about all three of the things, and she has said one word about any of it to one person, and that person is a woman who works Fridays and was not in that shop that day.
 
-**A MAN STOOD ON A PAVEMENT OUTSIDE A SHOP ON THAT CORNER FOR ABOUT TWENTY MINUTES ON THE MORNING OF THE TWENTIETH OF JUNE 2019 AND DID NOT GO IN, AND A GIRL INSIDE BY A WINDOW SAID OH AND THEN SAID THAT'S ALL RIGHT, THEN, AND A WOMAN STOOD IN HER OWN DOORWAY WITH A BUNDLE OF WRAPPING IN HER HAND FOR ABOUT TEN MINUTES.**
+**A MAN STOOD ON A PAVEMENT OUTSIDE A SHOP ON THAT CORNER FOR ABOUT TWENTY MINUTES ON THE MORNING OF THE TWENTIETH OF JUNE 2019 AND DID NOT GO IN, AND A GIRL INSIDE BY A WINDOW SAID OH AND THEN SAID THAT'S ALL RIGHT, THEN, AND A WOMAN STOOD IN HER OWN DOORWAY WITH A BUNDLE OF WRAPPING IN HER HAND FOR THE BEST PART OF HALF AN HOUR.**

@@ -2,7 +2,7 @@
 
 The Wednesday of the twelfth of June 2019, from about ten past eight in the morning until about one in the afternoon. A parade, one bus stop on it, and a bus that did not come, in Tideglass.
 
-**TWO WOMEN WHO HAVE BEEN AT THE SAME BUS STOP ON THAT PARADE FOR ABOUT FIVE YEARS WERE BOTH THERE ON THE MORNING OF THE TWELFTH OF JUNE 2019 AND SAW A MAN BUY TWO NEWSPAPERS OUT OF ONE AND WALK OFF DOWN THE PARADE CARRYING BOTH OF THEM, AND NEITHER HAS EVER PUT ANY OF IT TO THE OTHER AND NEITHER IS GOING TO, AND THEY HAVE NEVER BEEN INTRODUCED AND NEITHER OF THEM KNOWS WHAT THE OTHER ONE IS CALLED.**
+**TWO WOMEN WHO HAVE BEEN AT THE SAME BUS STOP ON THAT PARADE FOR ABOUT FIVE YEARS WERE BOTH THERE ON THE MORNING OF THE TWELFTH OF JUNE 2019 AND SAW A MAN BUY TWO NEWSPAPERS OUT OF ONE AND WALK OFF DOWN THE PARADE CARRYING BOTH OF THEM, AND NEITHER HAS EVER PUT ANY OF IT TO THE OTHER AND NEITHER IS GOING TO, AND THEY HAVE NEVER BEEN INTRODUCED AND NEITHER HAS THE FAINTEST IDEA WHAT THE OTHER ONE IS CALLED.**
 
 The stop is on the north side of the parade, about two thirds of the way up it, outside a shop that sells papers and cigarettes and has a rack of papers on the pavement outside it.
 
@@ -28,13 +28,13 @@ Here is how each of them got there, because it was not the same thing and it was
 
 The woman who goes into town worked it out in about the March of 2014, and what gave it to her was the coat.
 
-He is a careful man, and careful men have a pocket they use for one thing, and for five years the folded paper has gone into the pocket on the left of that coat and the keys have gone into the pocket on the right, and a man who is careful about that has not done it by accident, and it has been the same every morning of those five years.
+He is a careful man, and careful men have a pocket they use for one thing, and for five years the folded paper has gone into the pocket on the left of that coat and his right hand has gone straight into the pocket on the right without ever looking, and a man who is careful about that has not done it by accident, and it has been the same every morning of those five years.
 
 The woman who goes to the college worked it out in about the September of that same year, and what gave it to her was the better part of a minute of nothing.
 
 She was standing at that stop in the second week of September at about eight in the morning, and she watched him stop in the doorway of that shop and stand there for the better part of a minute before he went in, and a man buying a paper does not stand in a doorway for the better part of a minute.
 
-Neither of them has ever said one word about it, to him or to anybody, and neither of them has said one word to the other about it in five years, and each of the two of them has a different account of why she is not going to.
+Not one word has passed between the two of them in five years, either about him or about anything else, and each of the two of them has a different account of why she is not going to.
 
 The woman who goes into town has told herself that it is not hers.
 
@@ -80,6 +80,6 @@ And the other one said: "I know. We had it in May last year."
 
 And then the bus came round the corner from the top and they got on it, and they sat in different rows, and at the far end the woman who goes into town got off and went up a street with her hands in her pockets and did not turn round.
 
-That was four sentences, and it was about the weather, and it is the first conversation those two women have ever had, and neither of them has mentioned it to anybody since.
+That was four sentences, and it was about the weather, and it is the first conversation those two women have ever had, and not one of them has breathed a word of it to a living soul since.
 
 **A BUS CAME ROUND THE CORNER AT THE TOP OF THAT PARADE AT FIVE TO NINE ON THE MORNING OF THE TWELFTH OF JUNE 2019 AND TWO WOMEN WHO HAD STOOD AT THE SAME STOP FOR FIVE YEARS GOT ON IT AND SAT IN DIFFERENT ROWS, AND ONE OF THEM COUNTED NINE KERBSTONES ON THE WAY UP AND THE OTHER ONE LOOKED AT A MAN'S POCKET.**

@@ -18,7 +18,7 @@ He has stood in that doorway for about six years and he has always told anybody 
 
 There is one thing about it that he has never said to anybody, and it is that he could not tell you which morning he started standing there instead of going back inside, if he was asked, and he has gone over it, and it does not go to a morning at all. It goes to the first morning he noticed that she was not going past.
 
-That was the morning of Monday the twelfth of November 2018, and it was about ten past eight in the morning, and it was the first morning of about seven months of them.
+That was the morning of Monday the fifth of November 2018, and it was about ten past eight in the morning, and it was the first morning of about seven months of them.
 
 ---
 
@@ -32,7 +32,7 @@ That was the whole of it. There was nothing at the top of the parade. She did no
 
 And what she has never told anybody, and what she worked out on a Wednesday afternoon in September of the year before, is that the walk was not for her.
 
-It was for the fact that she went up the parade on the side where the shops are, and that for about four of those nine years there was a man standing in a doorway on that side at about the time she reached the top, and that she did not look at him and he did not look at her, and that this was the entire content of the walk.
+It was for the fact that she went up the parade on the side where the shops are, and that a man had been standing in a doorway on that side at about the time she reached the top for the last six years of it, and that she did not look at him and he did not look at her, and that this was the entire content of the walk.
 
 She has worked out that if she were honest with herself about it, she has been getting dressed at twenty past six every morning for nine years so as to be walking past a man.
 
@@ -50,13 +50,13 @@ It was that if he asked her, then it would be on the record that he had been sta
 
 So the arrangement is that neither of them will raise it, and the arrangement was made in about four minutes on a Monday in November by two people who have never said one word to each other about any of it, and both of them believe that they made it separately, and neither of them has ever found out whether it is one arrangement or two.
 
-What happened on the Tuesday is this, and it took about a minute and a half.
+What happened on the Tuesday is this, and it did not take much more than a minute and a half.
 
 She had been away since the Saturday. She has a sister at the far end of the line and she went for four days and told nobody she was going, and she came back on the Sunday night.
 
 On the Tuesday morning it was already hot by twenty past six, which is early even for the beginning of June, and he had the shutter halfway up and the four rows of slats were catching the sun off the parade.
 
-And the step ladder was in the road.
+And the step ladder was still standing out where he had left it.
 
 He had put it out on the Friday before that to reach the gutter over the shop next door, which is not a high gutter and which he could have reached with a broom, and he had left it standing against the front of number sixty-one, and he had not gone back for it, because he went home at one on the Friday and came back on the Monday morning and looked straight past it.
 

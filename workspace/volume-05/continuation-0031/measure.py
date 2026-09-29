@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Verbatim-span measuring pass for Continuation 0030, chapters 485-494.
+"""Verbatim-span measuring pass for Continuation 0031, chapters 495-504.
 
 Threshold NINE tokens. Tokenised comparison, paragraph sentinels, three
 excluded classes recorded as a count and not chased.
