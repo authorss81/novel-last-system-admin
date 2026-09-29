@@ -2,7 +2,7 @@
 
 Saturday the thirteenth of October 2018, with the Thursday and the Friday of that week. The same hour on each of the three days, a yard behind a terrace, in Tideglass.
 
-**HE SAW HER MAKE THE SAME MISTAKE ON TWO MORNINGS RUNNING AND WORKED OUT WHAT IT WAS, AND HE DECIDED NOT TO SAY ANYTHING, AND ON THE THIRD MORNING SHE DID NOT MAKE IT, AND NEITHER OF THEM HAS ANY IDEA THAT HE WAS THERE AT ALL.**
+**HE SAW HER MAKE THE SAME MISTAKE ON TWO MORNINGS RUNNING AND WORKED OUT WHAT IT WAS, AND HE DECIDED NOT TO SAY ANYTHING, AND ON THE THIRD MORNING SHE DID NOT MAKE IT, AND SHE HAS NO IDEA THAT THERE WAS A MAN AT THE OTHER END OF THAT YARD.**
 
 Behind a terrace of about thirty houses there is a yard, and the way into it is an arch with a chain hung across it that anybody can lift. There is a ramp at the far side of it, about eight foot long and dropping about a foot and a half onto a lane, and at the bottom of the ramp there is a kerb about four inch high that has to be got over, and past that kerb the lane goes down to the water.
 

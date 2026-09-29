@@ -20,7 +20,7 @@ At ten past five a man in his thirties came down that parade with his hands in h
 
 It came off the top hinge.
 
-The top of that door has a screw in it, a long one, going through a plate and into a brick, and that screw has been turning slowly in the same hole in the same soft brick since about the summer, and the man in his forties was at the top of that parade at four o'clock and has not been near that door since, and nobody else in that street has had anything to do with it.
+The top of that door has a screw in it, a long one, going through a plate and into a brick, and that screw has been turning slowly in the same hole in the same soft brick since about the summer, and the man in his forties, who had come down off the top end of that parade at four o'clock, has not come near that door since, and nobody else in that street has had anything to do with it.
 
 The door came off the top hinge and stayed on the bottom one and hung out with the top corner about a foot clear of the frame and the bottom of it swinging free, and about four inch of the frame showing behind the top corner where there is not meant to be four inch of anything.
 
@@ -41,17 +41,17 @@ Nobody telephoned anybody. Nobody told the man whose door it is, and that man op
 
 ---
 
-There is a building by that water with a room at the end of a corridor in it, and a shelf in that room, and a book standing open on the shelf.
+By the water there is a building, and at the end of a passage in that building there is a room, and in that room there is a shelf, and on that shelf a book is standing open where somebody left it open.
 
-Nineteen entries. The nineteenth is the last thing anybody wrote in it, and nobody has been up there to add to it since the end of March, and ruled underneath is a strip of nothing the width of a pencil line, and that strip of nothing was, on the seventeenth of November, one thousand four hundred and fifty-two days old.
+Nineteen entries. Nothing has been added to it since the end of March, and the last of the nineteen is the last hand that touched it, and under the last one the paper carries a ruled space the width of a pencil line, and on the seventeenth of November that space had been open one thousand four hundred and fifty-two days.
 
-It is not a number that anybody in this borough holds in their head. The room at the end of that corridor was shut on the Friday and it was shut on the Wednesday and it will be shut on the Sunday. Nobody went along it, nobody put a mark on that line, and the rest of the page is as blank as the strip.
+No person in this borough carries that figure about with them. That room stayed shut on the Friday, and shut again on the Wednesday, and it will be shut on the Sunday. Nobody walked in, nobody ruled anything, and the rest of that page is as empty as the line under the last entry.
 
 And the four answers are still going round. Four is still four and no fifth has come in, and not one of the four has been taken back by the person carrying it, and nobody on that parade on that Saturday put any of them beside any of the others or asked anybody what any of them was an answer to. It is a question. It has been a question for a long time and it is still a question and it was not answered by anybody at any point between three and six on that afternoon.
 
 The other place with a door in it is a small green steel building at the back of that parade, about five foot by four, with a hasp and a padlock and a danger sign on the door and about a foot square of gravel under the roof inside it. There is no window and no bench in it and nothing in it but the gravel and two cables in conduit. Nobody has ever slept in it. Nobody went near it that afternoon, and the padlock is where it has always been, and the sun was on that door from about half past three and the metal gave the heat back all evening.
 
-Stop anybody in that street at six on an evening and ask them to say out loud what has changed here in a generation and every one of them will name something different, and not one of them will name the thing that has not changed at all. What that is has not altered by so much as a day since the middle of August. Nobody has raised it and nobody is going to.
+Stop anybody in that street at six on an evening and ask them to say out loud what has changed here in a generation and every one of them will name something different, and not one of them will name the thing that has not changed at all. That thing has not altered by so much as a day since the middle of August. It has not been put to a person on that parade, and it is not going to be.
 
 That stretch from the fourth of October to that Saturday was the same kind of stretch as the one before it, and it is not a turn of anything, and nobody on that parade would have told you there was anything in it.
 

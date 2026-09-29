@@ -2,7 +2,7 @@
 
 Sunday the fourth of November 2018 between two o'clock and about half past three, and then the Friday of that week for a minute. A building near that parade and some two hundred yard of it, in Tideglass.
 
-**HE SAID ONE TRUE THING IN A DOORWAY AND WENT OUT, AND SOMEBODY DID IT PROPERLY AND PAID FOR IT OUT OF HER OWN MONEY, AND HE COULD NOT RAISE ONE SINGLE OBJECT AT ANY POINT, AND NEITHER OF THEM HAS SAID ANYTHING ABOUT IT SINCE.**
+**HE SAID ONE TRUE THING IN A DOORWAY AND WENT OUT, AND SOMEBODY DID IT PROPERLY AND PAID FOR IT OUT OF HER OWN MONEY, AND THERE WAS NOTHING IN IT FOR HIM TO OBJECT TO, AND NEITHER OF THEM HAS BROUGHT IT UP SINCE.**
 
 She lives in two rooms on the top floor of that building. A man in his thirties has a long lease on a flat about two hundred yard off it with rooms on the first and the second and a stair that everybody on that parade uses as a way through, because there is no other way through.
 

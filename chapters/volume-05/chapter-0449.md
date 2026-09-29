@@ -58,7 +58,7 @@ He went down that street at about four the same afternoon to put a bottle back o
 
 The man was in. She has not been able to establish that for certain, and neither has he, and the curtains on that house are the same curtains as every other house on that street.
 
-He did not knock. He has not knocked on that door in five years and he has no reason to begin on the twenty-second of October, and the light being on is not a reason and he knows it is not a reason.
+He did not knock. He has not knocked on that door in five years and he has no reason to begin on the twenty-second of October, and a light showing through a curtain is not a reason, and he is sensible enough to know that it is not one.
 
 The man at number nine has not been told that anything came for him. Nobody has knocked on that door with anything. On the seventeenth of November the box was still against the wall of that hall with three coats pushed up beside it, and the hall of that house is about five foot wide, and the man in his forties has started going down that hall sideways.
 

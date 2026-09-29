@@ -2,7 +2,7 @@
 
 Thursday the fourth of October 2018. A weekday morning, from about ten past six until about ten past seven, and then the same half hour again on the Friday, one street, in Tideglass.
 
-**HE HAS KNOCKED THE GRIT OFF THOSE STEPS EVERY WEEKDAY MORNING SINCE HE CAME TO THIS END OF THE BOROUGH, AND ON ONE MORNING A PATCH IN THE MIDDLE OF THE RUN WAS ALREADY CLEAN, AND HE COULD NOT PUT IT DOWN TO ANYTHING, AND HE WENT BACK DOWN THE NEXT MORNING AND DID THE WHOLE THING FROM THE BOTTOM THE WAY HE ALWAYS DOES.**
+**HE HAS KNOCKED THE GRIT OFF THOSE STEPS EVERY WEEKDAY MORNING SINCE HE CAME TO THIS END OF THE BOROUGH, AND ON ONE MORNING A PATCH IN THE MIDDLE OF THE RUN WAS ALREADY CLEAN, AND HE COULD NOT SAY WHAT HAD HAPPENED THERE, AND HE WENT BACK DOWN THE NEXT MORNING AND DID THE WHOLE THING FROM THE BOTTOM THE WAY HE ALWAYS DOES.**
 
 The street is a terrace of nine houses on the side that faces away from the water, and the building in the middle of it has a green door and a small plate beside the door with nothing legible left on it. It opens at half past seven. There are thirty-one steps up to it, poured in one go, and they are the colour of weak tea, and the treads have a shallow dish worn into the middle of each one where about two hundred pairs of feet have landed in the same place for longer than anybody in that street has been alive.
 

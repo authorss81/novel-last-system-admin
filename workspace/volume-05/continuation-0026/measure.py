@@ -270,5 +270,184 @@ def dateline_texts(paths):
     return out
 
 
+def as_targets(texts):
+    """[(path, block)] -> [(name, [(block, is_dateline)])] for scan_blocks."""
+    return [(os.path.basename(p), [(b, False)]) for p, b in texts]
+
+
+def caps_texts(paths):
+    """The standalone all-caps paragraphs, as a run of their own."""
+    out = []
+    for p in paths:
+        raw = open(p, encoding='utf-8').read()
+        for block in raw.split('\n\n'):
+            b = block.strip()
+            if b and is_caps(b):
+                out.append((p, b))
+    return out
+
+
+# ---------------------------------------------------------------------------
+# Driver. Everything the continuity block cites is produced here. Nothing
+# below is carried forward from a summary; every figure is taken from the
+# files on the day it is printed.
+# ---------------------------------------------------------------------------
+
+REPO = os.path.dirname(os.path.dirname(os.path.dirname(
+    os.path.dirname(os.path.abspath(__file__)))))
+
+
+def batch_chapters(lo, hi):
+    return [os.path.join(REPO, 'chapters', 'volume-05', 'chapter-%04d.md' % i)
+            for i in range(lo, hi + 1)]
+
+
+def non_chapter_markdown():
+    """Every markdown file outside chapters/ and outside .git/."""
+    out = []
+    for root, dirs, files in os.walk(REPO):
+        dirs[:] = [d for d in dirs if d not in ('.git', 'chapters')]
+        for f in sorted(files):
+            if f.endswith('.md'):
+                out.append(os.path.join(root, f))
+    return sorted(out)
+
+
+def scan_blocks(targets, set_paths, caps_too=False, exclusions=True, label=''):
+    """Same pass as scan(), but the target is a list of (name, blocks) so that
+    a run can be taken over caps blocks alone or over datelines alone."""
+    index, per_file = load_set(set_paths, caps_too=caps_too)
+    raw = excl_byname = excl_place = 0
+    hits = []
+    for name, blocks in targets:
+        toks = tokens_of(blocks)
+        dl = [False] * len(toks)
+        pos = 0
+        for b, isdl in blocks:
+            ts = TOK.findall(b.lower())
+            ts = [t for t in ts if not re.fullmatch(r"['’]+", t)]
+            for _t in ts:
+                dl[pos] = isdl
+                pos += 1
+            pos += 1
+        bn = byname_spans(toks) if exclusions else [False] * len(toks)
+        i = 0
+        while i <= len(toks) - N:
+            if toks[i] == SENT or SENT in toks[i:i + N]:
+                i += 1
+                continue
+            g = tuple(toks[i:i + N])
+            if g in index:
+                best = None
+                for (fp, si) in index[g]:
+                    stoks = per_file[fp]
+                    L = 0
+                    while (i - L - 1 >= 0 and si - L - 1 >= 0
+                           and toks[i - L - 1] != SENT
+                           and stoks[si - L - 1] != SENT
+                           and toks[i - L - 1] == stoks[si - L - 1]):
+                        L += 1
+                    R = N
+                    while (i + R < len(toks) and si + R < len(stoks)
+                           and toks[i + R] != SENT
+                           and stoks[si + R] != SENT
+                           and toks[i + R] == stoks[si + R]):
+                        R += 1
+                    span = (i - L, i + R)
+                    if best is None or (span[1] - span[0]) > (best[1] - best[0]):
+                        best = span
+                raw += 1
+                a, b = best
+                if exclusions and all(dl[x] for x in range(a, b)):
+                    i = b
+                    continue
+                if (exclusions and all(x or toks[x] == SENT for x in bn[a:b])
+                        and all(toks[x] != SENT for x in range(a, b))):
+                    excl_byname += 1
+                    i = b
+                    continue
+                seg = toks[a:b]
+                if exclusions and all(toks[x] in PLACE_TOKENS
+                                      for x in range(a, b) if toks[x] != SENT):
+                    excl_place += 1
+                    i = b
+                    continue
+                hits.append((name, ' '.join(x for x in seg if x != SENT), b - a))
+                i = b
+                continue
+            i += 1
+    longest = max([h[2] for h in hits], default=0)
+    if label:
+        print(f'{label}: {raw} RAW, {len(hits)} REUSES, LONGEST {longest}'
+              f'  [byname {excl_byname}, place {excl_place}]')
+    return raw, hits, longest
+
+
+def against_each_other(paths, label, caps_too=False, exclusions=True):
+    """RUN TWO / RUN SEVEN. Every file is compared with the other N-1 and
+    NEVER WITH ITSELF, which is the fault §12A item seven exists to stop."""
+    tot_raw = tot_hits = 0
+    longest = 0
+    for p in paths:
+        others = [q for q in paths if q != p]
+        raw, hits, lg = scan([p], others, caps_too=caps_too,
+                             exclusions=exclusions)
+        tot_raw += raw
+        tot_hits += len(hits)
+        longest = max(longest, lg)
+        for h in hits:
+            print(f'    hit {h[0]} vs {h[1]} [{h[3]}] {" ".join(h[2].split())[:90]}')
+    print(f'{label}: {tot_raw} RAW, {tot_hits} REUSES, LONGEST {longest}')
+    return tot_raw, tot_hits, longest
+
+
 if __name__ == '__main__':
-    print('method: N=%d, tokenised, paragraph sentinel, three excluded classes recorded' % N)
+    print('method: N=%d, tokenised, paragraph sentinel, three excluded classes '
+          'recorded as a count' % N)
+    ch = batch_chapters(445, 454)
+    nonmd = non_chapter_markdown()
+    state_six = [os.path.join(REPO, 'state', f) for f in
+                 ('current.md', 'continuity.md', 'open-threads.md',
+                  'character-state.md', 'chapter-summaries.md',
+                  'batch-summaries.md')]
+
+    print('\n-- RUN ONE: the caps blocks of the ten against every non-chapter '
+          'markdown file (%d files)' % len(nonmd))
+    scan_blocks(as_targets(caps_texts(ch)), nonmd, caps_too=True,
+                label='RUN ONE')
+
+    print('\n-- RUN TWO: the ten against each other, none against itself')
+    against_each_other(ch, 'RUN TWO')
+
+    print('\n-- RUN THREE: the ten against four named windows')
+    for lo, hi in ((425, 434), (415, 424), (405, 414), (385, 394)):
+        scan(ch, batch_chapters(lo, hi), label='RUN THREE vs %d-%d' % (lo, hi))
+
+    print('\n-- RUN FOUR: the ten against the six state files this batch wrote')
+    scan(ch, state_six, label='RUN FOUR')
+
+    print('\n-- RUN FIVE: the whole text of the ten against every non-chapter '
+          'markdown file (%d files)' % len(nonmd))
+    scan(ch, nonmd, label='RUN FIVE')
+
+    print('\n-- RUN SEVEN: the ten datelines against each other, exclusions OFF, '
+          'none against itself')
+    against_each_other(ch, 'RUN SEVEN', exclusions=False)
+
+    print('\n-- CONTROLS')
+    scan([os.path.join(REPO, 'state', 'continuity.md')],
+         [os.path.join(REPO, 'state', 'open-threads.md')],
+         label='CONTROL 1: continuity.md against open-threads.md')
+    scan(batch_chapters(445, 454), batch_chapters(435, 444),
+         label='CONTROL 2: the ten against the ten immediately above')
+    import tempfile
+    src = blocks_with_kinds(os.path.join(REPO, 'chapters', 'volume-05',
+                                         'chapter-0449.md'))
+    para = [b for b, d in src if len(TOK.findall(b.lower())) > 40][0]
+    ptoks = TOK.findall(para.lower())[:14]
+    with tempfile.NamedTemporaryFile('w', suffix='.md', delete=False) as fh:
+        fh.write(' '.join(ptoks) + '\n')
+        plant = fh.name
+    print(f'    plant = {" ".join(ptoks)}')
+    scan([plant], ch, label='CONTROL 3: a fourteen-token plant against the ten')
+    os.unlink(plant)
