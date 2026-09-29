@@ -37,12 +37,13 @@ while IFS= read -r prompt_file; do
   fi
   # A volume outline phase whose outline file already exists has no work left.
   # The writer correctly changes nothing, so without this the phase burns its
-  # attempts on empty runs and then blocks itself. Retire it instead.
+  # attempts on empty runs and then blocks itself. Retire it instead. The extra
+  # "no chapters written" guard keeps writer and close phases out of this rule.
   if [ ! -f "$candidate/.done" ]; then
-    first_line="$(head -n 1 "$prompt_file")"
-    if [[ "$first_line" =~ VOLUME[[:space:]]+([0-9]+)[[:space:]]+OUTLINE[[:space:]]+PHASE ]]; then
+    first_line_lc="$(head -n 1 "$prompt_file" | tr '[:upper:]' '[:lower:]')"
+    if [[ "$first_line_lc" =~ volume[[:space:]]+([0-9]+).*outline.*phase ]]; then
       outline_vol="${BASH_REMATCH[1]}"
-      if [ -f "outline/volume-${outline_vol}.md" ]; then
+      if [ -f "outline/volume-${outline_vol}.md" ] && ! find "$candidate" -name 'chapter-*.md' -print -quit | grep -q .; then
         echo "Retiring $candidate: outline/volume-${outline_vol}.md already exists"
         touch "$candidate/.retired"
         retired_changed=true
