@@ -171,6 +171,7 @@ restore_controller_files() {
   git restore --source=HEAD -- \
     scripts/novel_runner.sh \
     scripts/install_opencode.sh \
+    scripts/build_epub.py \
     .github/workflows/novels.yml \
     .opencode/agent/novel-writer.md \
     .opencode/agent/novel-reviewer.md \
@@ -272,6 +273,11 @@ next_continuation_dir() {
 
 ensure_next_phase() {
   if has_other_incomplete_phase; then
+    return 0
+  fi
+  # A finished manuscript gets no further chapter phases. The workflow's seed
+  # step owns the one post-completion phase, the synopsis.
+  if [ -f state/complete.md ]; then
     return 0
   fi
   local continuation_dir
