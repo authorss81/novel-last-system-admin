@@ -148,9 +148,9 @@ resume_wip() {
     if ! git merge --no-edit FETCH_HEAD; then
       git merge --abort 2>/dev/null || true
       touch "$phase_dir/.wip-conflict"
-      git add "$phase_dir/.wip-conflict"
+      git add -f "$phase_dir/.wip-conflict"
       git commit -m "novel: skip stale WIP $phase_id" >/dev/null
-      git push origin HEAD
+      git push origin HEAD || echo "warning: could not push WIP-conflict marker" >&2
       echo "WIP conflict; continuing from current main"
       return 0
     fi
