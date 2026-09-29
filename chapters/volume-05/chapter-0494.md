@@ -1,8 +1,8 @@
-# Chapter 0494 — Half Past Ten Past Seven
+# Chapter 0494 — Half Past Seven
 
 Monday, the twenty-seventh of May 2019, ten past six in the morning until half past nine. The top of a parade, one shop off it, and about nine people going about their own business, in Tideglass.
 
-**A MAN CARRIED A BOX INTO THE WRONG HOUSE ON THAT PARADE AT ABOUT TEN PAST SIX ON THE MONDAY OF THE TWENTY-SEVENTH OF MAY 2019 AND PUT IT ON THE HALL TABLE AND WENT OUT AGAIN, AND THE WOMAN WHOSE HALL IT WAS BROUGHT IT ROUND HERSELF AT ABOUT HALF PAST SEVEN AND PUT IT DOWN ON THE STEP IT BELONGED TO AND KNOCKED ONCE AND WENT BACK, AND THE TWO OF THEM HAVE NEVER SAID A WORD TO EACH OTHER ABOUT IT AND NEITHER HAS SAID ANYTHING TO ANYBODY ELSE.**
+**A MAN CARRIED A BOX INTO THE WRONG HOUSE ON THAT PARADE AT ABOUT TEN PAST SIX ON THE MONDAY OF THE TWENTY-SEVENTH OF MAY 2019 AND PUT IT ON THE TABLE INSIDE THE FRONT DOOR AND WENT OUT AGAIN, AND THE WOMAN WHOSE HOUSE IT WAS BROUGHT IT ROUND HERSELF AT ABOUT HALF PAST SEVEN AND PUT IT DOWN ON THE STEP IT BELONGED TO AND KNOCKED ONCE AND WENT BACK, AND THE TWO OF THEM HAVE NEVER SAID A WORD TO EACH OTHER ABOUT IT AND NEITHER HAS SAID ANYTHING TO ANYBODY ELSE.**
 
 The man has done that round since about 2015. It starts at a place about two miles off at about five in the morning and it ends about half past seven, and the whole of it is boxes and bags for houses that people are not standing in.
 
@@ -20,9 +20,9 @@ Here is the box and here is the whole of it.
 
 It was about the size of a shoebox and it was brown and it had somebody else's tape across the top of it, and it belonged at number twenty-one.
 
-Number twenty-one is nine doors up from the bottom on the left. Number twenty-nine is the door after that on the same side.
+Number twenty-one is eight doors up from the bottom on the left. Number twenty-nine is the door after that on the same side.
 
-He carried it up at about ten past six because he was going at about four miles an hour with a box in each hand, and he went into the first one that was open on the latch, which was twenty-nine, and he put it on the hall table, which is a table that is against the wall on the left as you come in, which is a thing about that house and about about four other houses in that row.
+He carried it up at about ten past six because he was going at about four miles an hour with a box in each hand, and he went into the first one that was open on the latch, which was twenty-nine, and he put it on the table inside that front door, which is against the wall on the left as you come in, which is a thing about that house and about four other houses in that row.
 
 And he went out.
 
@@ -31,13 +31,13 @@ That is the whole of what he did wrong and it took about four seconds and there 
 
 The woman at twenty-nine came down her own stairs at about a quarter to seven with her hair wet.
 
-She went past the table and then stopped, because there is a thing about a box in a hall on a Monday morning that is not the box.
+She went past the table and then stopped, because there is a thing about a box inside a front door on a Monday morning that is not the box.
 
 She looked at it for about two seconds and then she carried it back up the stairs and put her coat on over what she had on and went out at about ten to seven with it under her arm.
 
 She did not open it and she did not look at anything on it. She went down that parade, and at number twenty-one she put it on the step inside the porch and knocked once with the side of her hand and then she turned round and went back up the parade.
 
-Nobody answered the knock for about nine minutes and she had gone back inside by then.
+Nobody answered the knock for about eight minutes and she had gone back inside by then.
 
 The man at number twenty-one came down at about a quarter past seven and took the box in and closed his own front door behind him and it is in his own front room and it was not opened by either of them until about eight.
 
@@ -48,7 +48,7 @@ At about half past seven the man doing the round came back down that parade for 
 
 At the top end of that parade there is a building with a door in it.
 
-The door is on the latch about half the time. There is no name on it and nothing to ring and nothing on it to knock with. It is about four foot wide and it is in the end wall of a building that is otherwise shut, and behind it there is a passage about nine foot long with a hard floor, and at the back of the passage there is a stair going up.
+The door is on the latch about half the time. There is no name on it and nothing to ring and nothing on it to knock with. It is about four foot wide and it is in the end wall of a building that is otherwise shut, and behind it there is a passage about twelve foot long with a hard floor, and at the back of the passage there is a stair going up.
 
 About nine people a day go up that stair.
 
@@ -68,7 +68,7 @@ Four accounts of one thing are still travelling round this borough, and a fifth 
 
 And what came of that between one Monday in April and this one is nothing.
 
-What this borough still cannot put a name to was in the same place at the end of August last year. It has not moved and it has not had anything come of it, and it has not gone anywhere either, and the reason there is nothing to say about that this morning is that every person who could have gone out and had a look for it has been out and had a look already, and came back in, and put their coat on the back of their own door.
+What this borough still cannot put a name to was in the same place in the middle of August last year. It has not moved and it has not had anything come of it, and it has not gone anywhere either, and the reason there is nothing to say about that this morning is that every person who could have gone out and had a look for it has been out and had a look already, and came back in, and put their coat on the back of their own door.
 
 Six weeks and two days is six weeks and two days. It turned nothing and it was not a turn.
 

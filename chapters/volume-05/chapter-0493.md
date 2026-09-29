@@ -1,8 +1,8 @@
 # Chapter 0493 — Two Bowls
 
-Thursday the twenty-third of May 2019 — half past five in the morning until nine at night. The backs of about nine houses, in Tideglass.
+Thursday the twenty-third of May 2019 — half past five in the morning until nine at night. The backs of about eight houses, in Tideglass.
 
-**A BOWL WENT OUT ON THE BACK STEP OF ONE OF THOSE NINE HOUSES EVERY NIGHT FOR ABOUT SIX YEARS AND A SECOND BOWL WENT OUT ON THE BACK STEP OF ANOTHER OF THEM EVERY NIGHT FOR MOST OF THOSE SIX YEARS, AND THE SECOND ONE STOPPED IN THE FIRST WEEK OF NOVEMBER, AND ON THE TWENTY-THIRD OF MAY 2019 A MAN CARRYING HIS OWN BOWL ACROSS HIS OWN YARD CAME ROUND THE BACK OF THE ROW AT HALF PAST SIX AND A WOMAN CAME OUT OF HER OWN BACK DOOR AT THE SAME MOMENT WITH A BOWL IN HER HAND, AND NEITHER OF THEM STOPPED.**
+**A BOWL WENT OUT ON THE BACK STEP OF ONE OF THOSE EIGHT HOUSES EVERY NIGHT FOR ABOUT SIX YEARS AND A SECOND BOWL WENT OUT ON THE BACK STEP OF ANOTHER OF THEM EVERY NIGHT FOR MOST OF THOSE SIX YEARS, AND THE SECOND ONE STOPPED IN THE FIRST WEEK OF NOVEMBER, AND ON THE TWENTY-THIRD OF MAY 2019 A MAN CARRYING HIS OWN BOWL ACROSS HIS OWN YARD CAME ROUND THE BACK OF THE ROW AT HALF PAST SIX AND A WOMAN CAME OUT OF HER OWN BACK DOOR AT THE SAME MOMENT WITH A BOWL IN HER HAND, AND NEITHER OF THEM STOPPED.**
 
 Her dog went out of the front of that house on the seventh of June 2013 and was not seen again by anybody in this borough.
 
@@ -41,7 +41,7 @@ He noticed.
 
 There was a hard frost in the first week of November and the ground on that side of that row was white at about ten at nine and every other thing out there had about half an inch of it on it, and there was one bowl on that side of that row and it was his.
 
-He stood on his own back step and looked across at about nine yards of white ground and one blue bowl and he stood there for about two minutes.
+He stood on his own back step and looked across at about eight yards of white ground and one blue bowl and he stood there for about two minutes.
 
 He has not said one word to her about it. He has not gone to the back of her house. He has not knocked and he has not asked and he has not mentioned it to anybody in this borough, and he has put a bowl out every night since that week and it has been about two hundred nights.
 
@@ -109,7 +109,7 @@ Here is what he has got and he is not going to be told any other part of it.
 
 She had a bowl. It was red and it was small and she was carrying it out at half past six, which is about an hour and a half earlier than she used to, and she has not done it once in six months, and he has put one out every night of those six months.
 
-There are about nine things he could put those four facts together into and he has put them together into one, and it is that she has been doing what he has been doing.
+There are about seven things he could put those four facts together into and he has put them together into one, and it is that she has been doing what he has been doing.
 
 And he does not know what that means and he has not asked and he never will, and if she has been stopping and starting all through the cold months then that is hers alone, and he is not the man who will shove his face into it at half past six in the morning.
 

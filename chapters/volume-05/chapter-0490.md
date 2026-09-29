@@ -12,7 +12,7 @@ The lawn behind the left-hand house is about thirty yard deep and about twenty w
 
 He was standing at the end of that lane at half past five that morning over a thing behind the right-hand house that the company wanted pricing, and it was the first time in eight years of doing work on that house that he had been on that ground before the working day began.
 
-There was nothing about it. It is a lawn at half past five in the morning in May and you cannot see much of it at that hour and you cannot see none of it either, and he stood at that gate for about nine minutes and worked out that there was nothing he could put in a note, and went to work.
+There was nothing about it. It is a lawn at half past five in the morning in May and you cannot see much of it at that hour and you cannot see none of it either, and he stood at that gate for about six minutes and worked out that there was nothing he could put in a note, and went to work.
 
 He has thought since about that morning what would have happened if he had gone into that garden in 2011 with a bar and asked somebody what the ground under it was like. That ran through his head for the length of that gate and then he shut it, and it has come back three or four times since.
 
@@ -21,7 +21,7 @@ What happened to it in 2011 is this and she has never known any of it.
 
 There was a job at the house behind the other one in the last week of February 2011. There was something to be got to at the far end of that garden, on ground that is not the garden's, and the only way in was through it.
 
-The man who had the job brought a machine in at about eight in the morning and went down the right-hand side of that lawn, which is nine foot wide and had been the same for a century, and turned across the bottom of it about nine foot from the grass edge.
+The man who had the job brought a machine in at about eight in the morning and went down the right-hand side of that lawn, which is eight foot wide and had been the same for a century, and turned across the bottom of it about eight foot from the grass edge.
 
 He was on it about thirty minutes. He took up the turf in four pieces and put them on the other side.
 
@@ -29,13 +29,13 @@ And then he put what came out of the ground on top of the turf, about four inche
 
 And then he went out through the gate he had come in by and the gate was shut behind him and he came back the following week to finish and the following week after that.
 
-Nobody said one word to anybody. The woman was at work all of that week and the woman after that. There was no hole left. There was a pile of soil on the lawn for about nine days.
+Nobody said one word to anybody. The woman was at work all of that week and the woman after that. There was no hole left. There was a pile of soil on the lawn for about a fortnight.
 
 ---
 
-Here is what that did, and she has been living with it for nine years without ever once connecting it to a man with a machine.
+Here is what that did, and she has been living with it for eight years without ever once connecting it to a man with a machine.
 
-That strip of about thirty yard, nine foot wide, at the south end of her lawn, is about half a foot short of everything either side of it. It has been short since about March 2011 and it has been short every year since and she has measured it twice with a piece of string and has been pleased with herself about it.
+That strip of about thirty yard, eight foot wide, at the south end of her lawn, is about half a foot short of everything either side of it. It has been short since about March 2011 and it has been short every year since and she has measured it twice with a piece of string and has been pleased with herself about it.
 
 It goes yellow in about the last week of June, every year, in about three patches, and it comes back green by the middle of September when the rest of that lawn has stopped, and she has never found that strange enough to ask anybody about.
 
@@ -56,7 +56,7 @@ And here is the thing that has never occurred to her, and would not if a person 
 
 That anybody owes her anything.
 
-Not the two bags of grass, and not about nine years of a can of water twice a week, and not the fortnight in July when it went yellow and she went over it every evening with a bucket as well because she had nothing else to do with herself.
+Not the two bags of grass, and not about eight years of a can of water twice a week, and not the fortnight in July when it went yellow and she went over it every evening with a bucket as well because she had nothing else to do with herself.
 
 There is nobody in her life she has ever mentioned that strip to, and that is not because she has forgiven anybody. It is that there is nobody to mention it to.
 
@@ -70,7 +70,7 @@ She was out on that strip with the green can.
 
 He watched her for about four minutes. She went up and down it the whole length, the way you water something, at about the pace you water something, and at the end she stood at the end of it and looked at it and then went in.
 
-He got it in about nine seconds and it was not a difficult sum and it took him about a quarter of a mile to walk.
+He got it in about four seconds and it was not a difficult sum and it took him about a quarter of a mile to walk.
 
 
 Here is what he has done since the last week of January, and it is the whole of it.
@@ -79,7 +79,7 @@ He has said nothing to the woman. He has said nothing to the company. He has sai
 
 He has not gone back to the left-hand garden. He has gone past the end of that lane about four times since and has walked on.
 
-He has thought about it on most days since the last week of January, which is a thing he is not proud of, and what he has thought about most is not the nine years of it.
+He has thought about it on most days since the last week of January, which is a thing he is not proud of, and what he has thought about most is not the eight years of it.
 
 What he has thought about is the four passes.
 
@@ -92,10 +92,10 @@ On the evening of the eighth of May he was at that gate again, because there was
 
 She came out at about half past six.
 
-He had about nine minutes of that garden to say whatever he had come to say, and what he had come to say is not a thing he has ever said out loud in his life, and he does not have the words for it and has stopped looking for them.
+He had about six minutes of that garden to say whatever he had come to say, and what he had come to say is not a thing he has ever said out loud in his life, and he does not have the words for it and has stopped looking for them.
 
 What he did was stand at that gate for about four minutes and watch her water about thirty yard of grass that he made the way it is, and she did not know he was there, and she was not doing it for him.
 
-And then a car came down that lane and he moved about nine foot back from the gate so it could get past, and after that he stayed where he was and she finished and went in and shut the door and it was about ten past seven.
+And then a car came down that lane and he moved about eight foot back from the gate so it could get past, and after that he stayed where he was and she finished and went in and shut the door and it was about ten past seven.
 
 **A MAN STOOD AT A GATE BEHIND A ROW OF HOUSES ON THE EIGHTH OF MAY 2019 AND WATCHED A WOMAN WATER ONE STRIP OF A LAWN FOR FOUR MINUTES, AND HE HAD THE WHOLE OF WHAT HE WOULD HAVE SAID IN HIS MOUTH AND HE DID NOT SAY ANY PART OF IT, AND SHE WENT IN AT ABOUT TEN PAST SEVEN AND DID NOT LOOK AT THE GATE AGAIN.**

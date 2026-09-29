@@ -8,30 +8,30 @@ They are both in their fifties and they have been in the same row since they wer
 
 There is a lane at the back of that row, about four hundred yard long, and it comes out on a field that belongs to a man in the town and that the two of them have had the use of since about 2016 at a figure neither of them has written down and neither of them would say out loud in a public place.
 
-The field is about four acres and it is not good ground. It is wet at the bottom in February and hard at the top in July and it is nine foot higher at one end than the other, and the horse lives in a corner at the bottom of it in a shelter that a man from the town put up in 2016 and that has been repaired twice.
+The field is about four acres and it is not good ground. It is wet at the bottom in February and hard at the top in July and it is eight foot higher at one end than the other, and the horse lives in a corner at the bottom of it in a shelter that a man from the town put up in 2016 and that has been repaired twice.
 
 There is no arrangement here to describe. There are two men, a horse, a lane and a field.
 
 
 What they bought, in the second week of March 2016, was a horse called Luce and a cart that came with her.
 
-The cart was second hand and it was sound and it cost more than the horse. They found her at a place about nine miles off, at a gate, on a Saturday morning, having been told to look by a man who has since died of nothing interesting.
+The cart was second hand and it was sound and it cost more than the horse. They found her at a place about fourteen miles off, at a gate, on a Saturday morning, having been told to look by a man who has since died of nothing interesting.
 
-The brother put half in and the other put half in and it was done at the gate with two cans of drink between them and it took about nine minutes, and neither of them has ever written it down, and neither of them can now remember who put in what.
+The brother put half in and the other put half in and it was done at the gate with two cans of drink between them and it took about five minutes, and neither of them has ever written it down, and neither of them can now remember who put in what.
 
-That is nine years ago.
+That is three years ago.
 
 ---
 
 One of them uses it.
 
-He is the one who is at home in the middle of the day, and he has been at home in the middle of the day since about 2011, and what he does with the cart is the ordinary work of a man with a horse and a good deal of sense: he takes sand off the top of that lane for anybody who wants it, and he takes a trailer's worth of manure to three or four people who have gardens, and in about July he takes nine loads of something that has to be gone by the middle of August.
+He is the one who is at home in the middle of the day, and he has been at home in the middle of the day since about 2011, and what he does with the cart is the ordinary work of a man with a horse and a good deal of sense: he takes sand off the top of that lane for anybody who wants it, and he takes a trailer's worth of manure to three or four people who have gardens, and in about July he takes six loads of something that has to be gone by the middle of August.
 
-He has gone out with that cart about nine times a month for nine years, and there are nine or ten households in this borough that have had a load off him and paid him for it.
+He has gone out with that cart about nine times a month for three years, and there are seven or eight households in this borough that have had a load off him and paid him for it.
 
 The other one has not gone out with it once since the summer of 2016.
 
-What he does instead is go up the lane in the evening, four times a week, and see to the horse. He does the feed and he does the water and he does the farrier when the farrier comes, and he has been doing that for nine years, and he has never once been late at it.
+What he does instead is go up the lane in the evening, four times a week, and see to the horse. He does the feed and he does the water and he does the farrier when the farrier comes, and he has been doing that for three years, and he has never once been late at it.
 
 So the position is this: the man who does not use the cart looks after the horse, and the man who uses the cart does not look after the horse, and neither of them has ever said that out loud, and they have both always known it.
 
@@ -92,7 +92,7 @@ The horse is difficult at the top of that lane.
 
 She has always been difficult at the top of that lane. It is a rise of about four foot in the last thirty yard and a hedge on the left and a wall on the right and there is nowhere at all for her to get her shoulder round, and she plants her feet, and she has never once hit anything or gone over.
 
-On the twenty-eighth of April he took two loads up to a man at the top of the row who was doing a drive and who had asked for nine loads.
+On the twenty-eighth of April he took two loads up to a man at the top of the row who was doing a drive and who had asked for six loads.
 
 She stuck at the same place on the first load, for about a minute and a half, and he got her round it. She stuck at the same place on the second load for about four minutes and he could not get her round it, and the right-hand wheel on the cart had begun to go at about half past ten and by the time he had her round it the second time he had about two inches of daylight in one tyre and a sound coming out of the axle that he has been listening to since.
 
@@ -108,14 +108,14 @@ And the man who uses the cart said, "You don't have to."
 
 And the other one said, "No."
 
-And that is all of it. The whole of what was said on that Sunday morning at the top of that lane was those four words and about nine minutes of the two of them standing on either side of a horse's head.
+And that is all of it. The whole of what was said on that Sunday morning at the top of that lane was those four words and about five minutes of the two of them standing on either side of a horse's head.
 
 Then the other one took the cart's head and got her up it.
 
 
 At about half past two he stopped coming and got into his car at the top of the lane and drove off, and the man who uses the cart took the horse back down on his own.
 
-Nothing has been said about it since. On the Sunday after, they were both at the field at about the same time and they did not speak. A fortnight after that the man who uses the cart came down that lane and the other one was there, and they did the feed together, and they said about nine words between them across about an hour, and every one of those words was about the horse.
+Nothing has been said about it since. On the Sunday after, they were both at the field at about the same time and they did not speak. A fortnight after that the man who uses the cart came down that lane and the other one was there, and they did the feed together, and they said about four words between them across about an hour, and every one of those words was about the horse.
 
 That is where it stands. Two men, each of whom has decided that the other forgot something that happened in a field in about three seconds in the last week of October, and neither will raise it, and in six months not one word about the money has passed between them or gone to anybody else in this borough.
 

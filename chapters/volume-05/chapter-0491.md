@@ -4,20 +4,20 @@ Monday the thirteenth of May 2019, an afternoon and then an evening, from about 
 
 **A MAN SAID TWO WORDS IN A ROOM OFF THAT PARADE IN THE SECOND WEEK OF FEBRUARY 2016 AND FOUR PEOPLE WERE WITHIN EARSHOT OF HIM AND EACH OF THE FOUR TOOK SOMETHING DIFFERENT OUT OF IT, AND ON THE THIRTEENTH OF MAY 2019 THE LAST OF THE FOUR WALKED DOWN A STREET TO ASK HIM WHAT HE HAD MEANT, AND HE GAVE HER AN ANSWER HE HAD NOT GIVEN ANY OF THE OTHER THREE, AND HE KNEW AS HE WAS GIVING IT THAT HE WAS DOING IT.**
 
-The room is at the back of a building off that parade and it has been a store room since about 2016, and before that it was a canteen and before that it was a room where people sat, and about nine people from that building and two from the street drank some of what was in a plastic crate on the middle of a table that night.
+The room is at the back of a building off that parade and it has been a store room since about 2016, and before that it was a canteen and before that it was a room where people sat, and about a dozen people from that building and two from the street drank some of what was in a plastic crate on the middle of a table that night.
 
 Nobody had organised it. There was no word for it and nobody used one.
 
 He was the one who locked up.
 
-That is the whole of what he was in that building. Nine years, on the front, last out, and he has never had a title and there is no title and he would not know what it was called.
+That is the whole of what he was in that building. Twelve years, on the front, last out, and he has never had a title and there is no title and he would not know what it was called.
 
 He went at about half past four and went home at about half past seven.
 
 
 Here is what happened at about half past eight on that evening.
 
-The man who had run that building for about nine years had gone in about a year before, and that had not been talked about at all in that building, and about nine people were in that room that night and at least four of them were saying, in three different corners, the same sentence in different shapes.
+The man who had run that building for about nine years had gone in about a year before, and that had not been talked about at all in that building, and about a dozen people were in that room that night and at least four of them were saying, in three different corners, the same sentence in different shapes.
 
 And a woman who had driven that building's van for six years said, to nobody, that he had been let go like that.
 
@@ -26,7 +26,7 @@ And a man who came in with the bread said something about a thing having been ar
 And the one who locked up put his glass down on the table and said, "He knew."
 
 
-Four people were within about nine foot of that table.
+Four people were within about ten foot of that table.
 
 The woman who had driven the van heard it as a man telling her that the man who had run it had known he was going to be told, which is one thing and is a different thing from knowing a thing and saying nothing about it.
 
@@ -94,7 +94,7 @@ She was the last of the four. She was at that counter on and off for about nine 
 
 She has thought about those two words more than any of the other three and she has never told anybody that she thought about them, and the reason she rang him is that in the second week of April somebody in the street where she lives said, in a shop, that a man who locked up had said *he knew*, and it got back to her.
 
-And she has thought: there is one version of that and I have got another one, and there are about nine people in this borough who have got a version, and not one of us can say which.
+And she has thought: there is one version of that and I have got another one, and there are about eight people in this borough who have got a version, and not one of us can say which.
 
 ---
 

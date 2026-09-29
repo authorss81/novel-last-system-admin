@@ -2,7 +2,7 @@
 
 Wednesday the first of May 2019, between ten past eight in the morning and about nine that evening. One street, and four houses in it, in Tideglass.
 
-**A MAN STOOD OUTSIDE NUMBER SIXTEEN IN THAT STREET ON THE WEDNESDAY OF THE FIRST OF MAY 2019 FOR ABOUT FOUR MINUTES AND THEN WENT ON UP THE STREET AND DID NOT SAY ANYTHING TO ANYBODY ABOUT WHAT HE HAD WORKED OUT, AND THE WOMAN WHO LIVES AT NUMBER SIXTEEN SAW THE WHOLE OF THOSE FOUR MINUTES FROM HER OWN KITCHEN AND SAID NOTHING, AND IT IS THE EIGHTH TIME IN NINE YEARS THAT SOMEBODY HAS GOT AS FAR AS KNOWING THAT SOMETHING AND NOT AS FAR AS KNOWING WHICH.**
+**A MAN STOOD OUTSIDE NUMBER SIXTEEN IN THAT STREET ON THE WEDNESDAY OF THE FIRST OF MAY 2019 FOR ABOUT FOUR MINUTES AND THEN WENT ON UP THE STREET AND DID NOT SAY ANYTHING TO ANYBODY ABOUT WHAT HE HAD WORKED OUT, AND THE WOMAN WHO LIVES AT NUMBER SIXTEEN SAW THE WHOLE OF THOSE FOUR MINUTES FROM HER OWN KITCHEN AND SAID NOTHING, AND IT IS THE EIGHTH TIME IN TEN YEARS THAT SOMEBODY HAS GOT AS FAR AS KNOWING THAT SOMETHING AND NOT AS FAR AS KNOWING WHICH.**
 
 The street is about thirty houses long, all of one age, all built in about 1871, and it has a bus stop at the top of it and nothing at the bottom of it except a turning place.
 
@@ -15,7 +15,7 @@ He stopped because of the coats.
 
 There are two coats on the hook inside the open part of number sixteen, and you cannot see the hook from the street, and he could not see the coats.
 
-Here is what he saw, in the order he saw it, and he has been through it in the same order about nine times since.
+Here is what he saw, in the order he saw it, and he has been through it in the same order about a dozen times since.
 
 A woman's coat, on the hook, the kind of coat that is worn not put on. He knows that from about twenty minutes of his own life a day.
 
@@ -27,7 +27,7 @@ And a man's voice, at about half past eight on a morning in February, from insid
 
 That is four things over about four minutes and he stopped walking after the third.
 
-He has been building work and odd jobs in this borough for about eighteen years and he knows about nine other houses on that street and he has never once seen anybody at number sixteen who was not the woman.
+He has been building work and odd jobs in this borough for about eighteen years and he knows about seven other houses on that street and he has never once seen anybody at number sixteen who was not the woman.
 
 
 Here is what he arrived at, inside about four minutes, and it is correct.
@@ -75,7 +75,7 @@ And she has never told one person.
 
 Not the woman at number eighteen. Not her own sister. Not the man who does her guttering. Not the woman at number twenty who brings her shopping in when it rains.
 
-That has been nine years and there has not been one conversation about it, and it has not been held by arrangement with anybody, because there is nobody to hold it with.
+That has been ten years and there has not been one conversation about it, and it has not been held by arrangement with anybody, because there is nobody to hold it with.
 
 ---
 

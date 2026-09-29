@@ -1,8 +1,8 @@
-# Chapter 0487 — The Side Door Was on the Latch
+# Chapter 0487 — The Back Door Was on the Latch
 
 Tuesday the twenty-third of April 2019 — a morning beginning at ten past six, and then the whole of the day after it. Two houses at the bottom of a street, in Tideglass.
 
-**SOMEBODY WENT INTO THE HOUSE AT NUMBER TWENTY-TWO BETWEEN HALF PAST TWO AND TEN PAST FOUR ON THE MORNING OF THAT FRIDAY IN APRIL AND TOOK NOTHING AND BROKE NOTHING, AND THE ONLY DIFFERENCE ANYBODY FOUND WAS THAT THE SIDE DOOR AT THE BACK OF THAT HOUSE WAS ON THE LATCH, AND THE WOMAN WHO WAS TOLD ABOUT IT ON THE THIRTEENTH AND THE MAN WHO WAS TOLD ABOUT IT ON THE TWENTIETH HAVE NOT SAID A WORD TO EACH OTHER ABOUT EITHER HALF OF IT.**
+**SOMEBODY WENT INTO THE HOUSE AT NUMBER TWENTY-TWO BETWEEN HALF PAST TWO AND TEN PAST FOUR ON THE MORNING OF THAT FRIDAY IN APRIL AND TOOK NOTHING AND BROKE NOTHING, AND THE ONLY DIFFERENCE ANYBODY FOUND WAS THAT THE BACK DOOR OF THAT HOUSE WAS ON THE LATCH, AND THE WOMAN WHO WAS TOLD ABOUT IT ON THE THIRTEENTH AND THE MAN WHO WAS TOLD ABOUT IT ON THE TWENTIETH HAVE NOT SAID A WORD TO EACH OTHER ABOUT EITHER HALF OF IT.**
 
 Number twenty-two is the fourth from the bottom of a street that is about thirty houses long and has nothing at the top of it worth the walk.
 
@@ -30,7 +30,7 @@ The woman two doors down was up at about half past two that night because she ha
 
 And from her own back room she looked out at number twenty-two's yard, because that is what a person looks at from a back room at half past two, and she saw a torch beam going along the side of that house.
 
-Not in the yard. Along the side of the house, low down, the way a person walks who is being careful about the ground, and it went from the front of that house to about where the side door is and then it stopped and there was a shadow against the kitchen window, and then it was gone.
+Not in the yard. Along the side of the house, low down, the way a person walks who is being careful about the ground, and it went from the front of that house to about where that yard is and then it stopped and there was a shadow against the kitchen window, and then it was gone.
 
 The woman two doors down did not think anything of it at the time. She went back to bed. It came back to her on the Thursday of the following week while she was pegging out, and she said it out loud to her own husband, and he said that was the man who took the washing machine away in 2016 or somebody much like him, and she said that at half past two it was nobody.
 
@@ -40,7 +40,7 @@ And then she put her washing out and went up number twenty-two's path with her b
 
 What she was told, and the exact words, were these.
 
-She said, "I saw somebody in your side yard in the night. Going down the side of yours with a torch."
+She said, "I saw somebody in your back yard in the night. Going down the side of yours with a torch."
 
 And she said, "I didn't think anything of it at the time."
 
@@ -78,7 +78,7 @@ He said, "I was sat in the car from about half past one."
 
 And he said, "I was waiting on somebody and they never came and I was still there at about half past two when I saw your man go down the side of yours."
 
-And he said, "It was too dark to say. Dark jacket, I think. About your height. He had a torch in his hand and he had the side door open with his hand and it went in behind him."
+And he said, "It was too dark to say. Dark jacket, I think. About your height. He had a torch in his hand and he had the back door open with his hand and it went in behind him."
 
 And he said, "I didn't want to go knocking."
 
