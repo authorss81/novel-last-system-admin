@@ -223,6 +223,29 @@ checkpoint_and_defer() {
   defer_phase_with_backoff "$reason"
 }
 
+# A phase that declares the manuscript finished and then changes nothing is a
+# completed novel, not a failure. Record it as done and stop the pipeline for
+# this repository instead of retrying until it blocks.
+complete_phase_if_declared() {
+  if ! grep -qiE 'manuscript (is|has) (finished|complete)|novel is (finished|complete)|book is (finished|complete)' "$prompt_file"; then
+    return 1
+  fi
+  echo "Phase $phase_id declares the manuscript finished; closing the repository"
+  mkdir -p state
+  {
+    echo "# Novel complete"
+    echo
+    echo "- chapters: $(find chapters -name 'chapter-*.md' -type f | wc -l | tr -d ' ')"
+    echo "- final phase: $phase_id"
+    echo "- recorded: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+  } > state/complete.md
+  touch "$phase_dir/.done"
+  rm -f "$phase_dir/.deferred" "$phase_dir/.blocked" "$phase_dir/.attempts" "$phase_dir/.retry-after" "$phase_dir/.checkpoint" "$phase_dir/.wip-conflict"
+  commit_changes "novel: complete $phase_id (manuscript finished)" || true
+  clear_wip || true
+  return 0
+}
+
 has_other_incomplete_phase() {
   local candidate
   while IFS= read -r prompt_file; do
@@ -314,6 +337,9 @@ fi
 
 if ! git diff --quiet; then
   if ! commit_changes "novel: save writer work $phase_id"; then
+    if complete_phase_if_declared; then
+      exit 0
+    fi
     defer_phase_with_backoff "writer produced no file changes"
   fi
 else
@@ -321,6 +347,9 @@ else
     echo "Writer returned no new changes; promoting resumed WIP commit"
     git push origin HEAD:main
   else
+    if complete_phase_if_declared; then
+      exit 0
+    fi
     defer_phase_with_backoff "writer exited successfully but produced no file changes"
   fi
 fi
