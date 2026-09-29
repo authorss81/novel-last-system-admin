@@ -41,7 +41,7 @@ jobs:
           ref: main
           fetch-depth: 0
       - name: Install OpenCode
-        run: curl -fsSL https://opencode.ai/install | bash
+        run: bash scripts/install_opencode.sh logs
       - name: Create logs directory
         run: mkdir -p logs
       - name: Check repository secret
@@ -82,7 +82,7 @@ jobs:
           ref: main
           fetch-depth: 0
       - name: Install OpenCode
-        run: curl -fsSL https://opencode.ai/install | bash
+        run: bash scripts/install_opencode.sh logs
       - name: Create logs directory
         run: mkdir -p logs
       - name: Record available models
