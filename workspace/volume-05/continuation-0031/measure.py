@@ -450,7 +450,7 @@ def _blocks_of(p, caps_too=False):
 if __name__ == '__main__':
     print('method: N=%d, tokenised, paragraph sentinel, three excluded classes '
           'recorded as a count' % N)
-    ch = batch_chapters(485, 494)
+    ch = batch_chapters(495, 504)
     nonmd = non_chapter_markdown()
     state_six = [os.path.join(REPO, 'state', f) for f in
                  ('current.md', 'continuity.md', 'open-threads.md',
@@ -466,7 +466,7 @@ if __name__ == '__main__':
     against_each_other(ch, 'RUN TWO')
 
     print('\n-- RUN THREE: the ten against four named windows')
-    for lo, hi in ((475, 484), (465, 474), (455, 464), (385, 394)):
+    for lo, hi in ((485, 494), (475, 484), (465, 474), (385, 394)):
         scan(ch, batch_chapters(lo, hi), label='RUN THREE vs %d-%d' % (lo, hi))
 
     print('\n-- RUN FOUR: the ten against the six state files this batch wrote')
@@ -492,14 +492,14 @@ if __name__ == '__main__':
     scan([os.path.join(REPO, 'state', 'continuity.md')],
          [os.path.join(REPO, 'state', 'open-threads.md')],
          label='CONTROL 1: continuity.md against open-threads.md')
-    scan(batch_chapters(475, 484), batch_chapters(465, 474),
+    scan(batch_chapters(485, 494), batch_chapters(475, 484),
           label='CONTROL 2: the ten against the ten immediately above')
     import tempfile
     # THE PLANT MUST COME FROM A CHAPTER IN THIS BATCH, OR THE CONTROL
     # MEASURES A CHAPTER AGAINST A SET IT IS NOT IN AND COMES BACK NIL FOR
     # THE WRONG REASON. 0029's driver took it from 0482 and got zero.
     src = blocks_with_kinds(os.path.join(REPO, 'chapters', 'volume-05',
-                                         'chapter-0485.md'))
+                                         'chapter-0495.md'))
     para = [b for b, d in src if len(TOK.findall(b.lower())) > 40][0]
     ptoks = TOK.findall(para.lower())[:14]
     with tempfile.NamedTemporaryFile('w', suffix='.md', delete=False) as fh:
