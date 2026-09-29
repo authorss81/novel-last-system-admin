@@ -138,6 +138,7 @@ clear_wip() {
 restore_controller_files() {
   git restore --source=HEAD -- \
     scripts/novel_runner.sh \
+    scripts/install_opencode.sh \
     .github/workflows/novels.yml \
     .opencode/agent/novel-writer.md \
     .opencode/agent/novel-reviewer.md \
