@@ -89,6 +89,16 @@ jobs:
         run: opencode models | tee logs/models.log
       - name: Run next novel batch
         run: bash scripts/novel_runner.sh
+      - name: Request EPUBs for a finished manuscript
+        # A push made with GITHUB_TOKEN does not trigger other workflows, so the
+        # build is requested explicitly once the novel and its synopsis exist.
+        if: ${{ hashFiles('state/complete.md') != '' && hashFiles('state/synopsis.md') != '' }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          gh api -X POST "repos/${GITHUB_REPOSITORY}/actions/workflows/epub.yml/dispatches" --silent
+          echo "requested an EPUB build"
 
   retrigger:
     needs: run-batch
