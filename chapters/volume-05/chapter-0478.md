@@ -2,7 +2,7 @@
 
 Thursday the fourteenth of March 2019, from about nine in the morning until about half past four. A clearance, and the fourth day of it, in Tideglass.
 
-**A MAN HAS BEEN EMPTIING ONE HOUSE INTO A VAN FOUR DAYS RUNNING AND ON THE FOURTH DAY HE PUT A FUCHSIA IN A PLASTIC POT DOWN ON THE FLOOR OF A COVERED WAY THAT FOUR OTHER HOUSEHOLDERS HAVE TO WALK DOWN, AND WENT BACK IN FOR A BOX, AND A WOMAN AT THE FAR END OF THAT WAY CAME OUT TWENTY MINUTES LATER AND CARRIED IT INSIDE, AND HE HAS NOT ASKED HER.**
+**A MAN WAS FOUR DAYS INTO EMPTYING A HOUSE INTO HIS OWN VAN ON THE FOURTEENTH OF MARCH 2019, AND HE PUT SOMETHING OF HIS OWN DOWN ON THE GROUND UNDER THE ROOF AT THE END OF THAT WAY AND WENT BACK IN FOR ANOTHER BOX, AND A WOMAN WHO HAS LIVED AT THE LAST DOOR FOR ABOUT TWENTY-TWO YEARS CAME OUT TWENTY MINUTES LATER AND TOOK IT INSIDE, AND HE HAS NOT ASKED HER, AND SHE HAS NOT SAID.**
 
 The house is at the top of a street and it has been shut since the September before last, and the man emptying it is not the man who owned it.
 
@@ -65,9 +65,9 @@ He put the bag in the van and turned round and did a count of what was left in t
 
 There was a pot with a plant in it about nine foot inside the glass at the last door in that way.
 
-He looked at it for about a second and a half.
+He looked at it for the best part of a second.
 
-It is not his. He knows it is not his before he has finished looking at it, and what he has got at the end of that second and a half is that a fuchsia in a plastic pot has been in that covered way since before he started, because there has been one there all week, and he put everything he emptied in the van and the van is on the road.
+It is not his. He knows it is not his before he has finished looking at it, and what he has got at the end of that look is that a fuchsia in a plastic pot has been in that covered way since before he started, because there has been one there all week, and he put everything he emptied in the van and the van is on the road.
 
 What he has also got, and has had since about the third of March, is the sentence he uses about the things in that house.
 

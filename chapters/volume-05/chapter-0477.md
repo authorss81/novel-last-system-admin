@@ -64,7 +64,7 @@ He was never told what the marks were for. He did them. It took about two days a
 
 He also knows something he has not said, and what he knows is that the two lower marks were made after his, and by somebody else, and in that same room, and over the top of his own, and on the side of them that faces the floor.
 
-He has not said that either, and he is not going to, and the reason is about four inches of painted wood on the twelfth of April.
+That one stays in his pocket as well, and what is keeping it there is about four inches of painted wood on the twelfth of April.
 
 When the old frame comes out, the nine go out with it. The two go out with it. And the woman will not have been told there was anything in that frame to lose, and he is the man who came and measured it.
 
@@ -78,7 +78,7 @@ Her son is twenty-one and he is in another town and he was six when he made them
 
 He cut them in about ten minutes, both of them, at the same place on the stile, and then he stood back and looked at them, and he did not cut them out.
 
-He was not five. He was six, and that is the whole of the difference, and it is the reason he cut them over the top of somebody else's without noticing, and she had not seen the other nine either, and she has been carrying that since 2009 without knowing she was carrying it.
+He was not five. He was six, which is the entire distance between a boy cutting his own marks and a boy cutting through another man's, and it is why he went over the top of somebody else's without noticing, and she had not seen the other nine either, and she has been carrying that since 2009 without knowing she was carrying it.
 
 He came out of the shop at ten past two and she came out of her flat at half past two and neither of them put one word about the other's nine or the other's two to the other one.
 

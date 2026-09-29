@@ -2,7 +2,7 @@
 
 Thursday, 28 March 2019, from about half past three in the afternoon until about half past five. An hour, and everything two men said in it, in Tideglass.
 
-**TWO MEN STOOD AT THE END OF A FOOTWAY FOR AN HOUR ON THE TWENTY-EIGHTH OF MARCH AND SAID ABOUT A THOUSAND WORDS AND THREE QUARTERS OF THEM WERE ABOUT A THIRD MAN WHO WAS WALKING ABOUT A MILE AWAY AT THE TIME, AND NOT ONE OF THE WORDS WAS THE ONE BOTH OF THEM HAD COME TO SAY.**
+**BETWEEN HALF PAST THREE AND HALF PAST FIVE ON THE TWENTY-EIGHTH OF MARCH 2019 TWO MEN STOOD AT A PIECE OF WALL AT THE END OF THAT FOOTWAY AND TALKED, AND A WOMAN CAME OUT OF THE HOUSE BEHIND IT AND SAID ONE SENTENCE TO BOTH OF THEM AND WENT BACK IN, AND AT ABOUT TWENTY PAST FOUR ONE OF THEM PUT IT TO THE OTHER THAT THERE WAS SOMETHING GOING ON AND WAS TOLD THAT THERE WAS NOT.**
 
 The three of them are within about five years of one another and they have been in this borough all of their lives in the way that people who leave and come back are, and they did not make each other friends. They were put at the same table at a school neither of them can remember and that has since been sold.
 
@@ -35,7 +35,7 @@ They talk about him for an hour.
 
 That is what the hour is. He is the subject of the whole of it and neither of them says the word that is the subject of the whole of it.
 
-They go through about three weeks of him in about the order it happened. A thing he said to the first one of them outside a shop. A thing the second one of them heard him tell somebody else and is still going. The way he has been spending Saturdays. A run of trouble in about 2011 that neither of them has ever mentioned to anybody and that comes up in about the second ten minutes and goes again. His garden, which is the best of the three of them and which he has not done a thing in since about 2016. His wife, who is well, and who was well in 2008 as well, and who does not know about any of this and has never been told any of it and is not going to be.
+They go through about three weeks of him in about the order it happened. A thing he said to the first one of them outside a shop. A thing the second one of them heard him tell somebody else and is still going. The way he has been spending Saturdays. A run of trouble in about 2011 that neither of them has ever mentioned to anybody and that comes up in about the second ten minutes and goes again. His garden, which is the best of the three of them and which he has not done a thing in since about 2016. His wife, who is well, and who was well in 2008 as well, and who has no idea any of this is going on and never will.
 
 Neither of them says anything about what he has been doing in the evenings.
 
@@ -54,7 +54,7 @@ And the second man, standing there about a foot away from a man he has known sin
 
 A woman comes out of the house behind that bit of a wall at about half past four.
 
-She is in her forties and she has lived in that house about twenty years and she has seen the third man come in at about four in the morning four times in six weeks, and she has not told anybody, and she is not going to, and she does not know that the two men standing at the wall are talking about him.
+She is in her forties and she has lived in that house about twenty years and she has seen the third man come in at about four in the morning four times in six weeks, and she has kept it to herself, and she will go on keeping it, and she has no idea that the two men standing at that wall were talking about him at that moment.
 
 She comes out into about six foot of space because it has been bright and she wants the air. She sees two men standing at a wall doing nothing.
 
@@ -68,7 +68,7 @@ That is the whole of it. It took about nine seconds and it is the only time in t
 
 What each of them took away from that footway at about half past five is the same thing and it is not the same.
 
-The first one walked home up that street and thought: *he has seen all of it and he has not said one word, and he did not ask me a single question either, and he has been sitting there for an hour letting me talk about him, and there is no version of that in which he has not decided I am not somebody you talk to about this.*
+The first one walked home up that street and thought: *he has seen all of it and he has not said one word, and he did not ask me a single question either, and he has been sitting there for an hour letting me talk about him, and he cannot be got out of that, and I am not somebody he talks to about this.*
 
 The second one walked the other way and thought exactly that, about the first one.
 

@@ -35,7 +35,7 @@ What she has worked out is that if she is the one who cuts it, then she is the o
 And there is a second thing under that, and she has not told herself the second thing plainly, and the second thing is that the bed is not hers. She rents the house. The row is not hers. In six years she has put a wash on, hung things, and taken in the top step, and there is not one thing about the outside of that house that anybody could point at and say she had ever intended to be there.
 
 
-Here is what each of them did with the sum, and it is the same sum both times, and neither of them has any idea the other one has run it.
+Here is what each of them did with the sum, and it comes to the same number both times, and neither of them has the smallest suspicion that the other one has been through the same arithmetic.
 
 What it would come to for him to be the one who asked: about four seconds of saying it, and then eight years of a woman in his own back yard every year.
 
@@ -71,6 +71,6 @@ There is about four foot of it he could have got through in January and there is
 
 She went in at about ten past eight that night, and the ground under the wood was still mud, and she put her shoes on the step and looked at it and thought that by the middle of April it would have dried out and sat down and the whole of that wood would be four foot lower than it had been in January.
 
-And by the middle of April she will not be here, because the lease is up in June, and she has not told anybody that either, and neither of those two facts is going to be the reason anything gets cut.
+And by the middle of April she will not be here, because the lease is up in June, and not one person in that row has been told about the lease, and the lease and the wet ground are not going to be what gets that wood cut back.
 
-**ON THE TWENTY-SEVENTH OF FEBRUARY A MAN STOOD IN THAT RAIN AT THE TOP OF A BLOCKED PASSAGE AND SAID ONE WORD, AND A WOMAN STOOD AT THE BOTTOM OF IT FOR TWO MINUTES WAITING FOR SOMETHING SHE COULD HAVE SAID NO TO, AND NEITHER OF THEM HAS SAID ONE WORD TO ANYBODY ABOUT WHAT THE OTHER ONE IS WAITING FOR.**
+**ON THE TWENTY-SEVENTH OF FEBRUARY A MAN STOOD IN THAT RAIN AT THE TOP OF A BLOCKED PASSAGE AND SAID ONE WORD, AND A WOMAN STOOD AT THE BOTTOM OF IT FOR TWO MINUTES WAITING FOR SOMETHING SHE COULD HAVE SAID NO TO, AND NO PERSON IN THAT ROW HAS BEEN TOLD ONE THING ABOUT WHAT EITHER OF THEM IS STANDING IN.**

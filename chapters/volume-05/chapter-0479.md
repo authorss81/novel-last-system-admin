@@ -2,7 +2,7 @@
 
 Sunday the seventeenth of March 2019, from about ten in the morning until about half past seven in the evening. Twenty years of a fixed hour, and a week in which it did not happen, in Tideglass.
 
-**A WOMAN HAS TAKEN A MAN FOUR MILES TO A BUILDING ON THE UPPER SIDE OF THIS TOWN EVERY WEEK SINCE 1999, AND HE HAS GOT THERE IN THAT CAR FOUR HUNDRED AND SOME WEEKS OUT OF FOUR HUNDRED AND SOME, AND SHE HAS SPENT THE TWO HOURS IN BETWEEN ON SOMETHING SHE HAS NEVER TOLD HIM ABOUT, AND ON THE SEVENTEENTH OF MARCH SHE DID NOT COME.**
+**ON THE SEVENTH OF MARCH 2019 A WOMAN DROVE A MAN FOUR MILES TO A RED BRICK BUILDING ON THE UPPER SIDE OF THIS TOWN AND WENT AND SAT IN A SIDE STREET UNTIL TWENTY TO ONE, AND ON THE FOURTEENTH OF MARCH SHE DID NOT COME, AND ON THE SEVENTEENTH OF MARCH HE DROVE HIMSELF, AND IN TWENTY YEARS NOBODY HAS EVER WRITTEN DOWN A TIME OR AN HOUR OR A REASON.**
 
 The corner is the top of a street where the houses stop and there is a bit of a triangle of tarmac with a bus stop on it.
 
@@ -62,7 +62,7 @@ What she answered, and it is true, is that her hours went back in January.
 
 She does shifts now that start at seven and she has had them since the middle of January, and a Sunday at ten past ten and an hour in a side street and a round trip and her own house before two is not a thing you can do twice a week, let alone every one.
 
-He took that. He said, "Right," twice and nodded at her own car and said that he was not going to be a nuisance about it and that he was perfectly all right and that he would manage.
+He took that. He said, "Right," twice and nodded at her own car and told her that she had no need to worry about him, that he was perfectly all right, and that he would manage.
 
 And that was the end of it, and she got in her car and went, and he stood in that street for about ten minutes.
 
@@ -72,7 +72,7 @@ What he said was *and you never said*.
 
 Which is a question about the twenty years and not about the seventh of March. And she heard it as a question about the seventh of March, and she answered it, and the answer was about her hours.
 
-She has driven that road for twenty years and has been asked nothing in any of them, and when the one question finally came it was not a question she recognised as being for her, and she gave him the true answer to a question he had not asked.
+She has driven that road for twenty years and not once in any of them has anybody put a question to her, and what arrived in the end was not a question she took to be about her, and she handed him a true answer to something else.
 
 And she is not going to correct it. She has gone over that street about four times since and she has got to the same place each time, and what she has got to is that if she says *that was not what I asked you*, then he will ask it, and she does not have the twenty years ready.
 
@@ -84,4 +84,4 @@ He did not tell anybody that he was going. He went back inside and got his coat 
 
 That is all he is going to do about it, and there is no arrangement here, because there was never one. She drove and he went, and neither of them ever wrote down a time or an hour or a reason, and what has happened since the seventh of March is that there is nothing in the world for either of them to break.
 
-**A WOMAN WENT BACK TO THAT CORNER AT TWENTY MINUTES TO ONE ON THE EIGHTEENTH OF MARCH AND STOOD THERE FOR ABOUT TWELVE MINUTES WITH A BAG IN HER HAND, AND A MAN WHO USED TO BE WAITING AT TEN PAST TEN WAS FOUR MILES AWAY SITTING IN A ROOM WITH EIGHT OTHER MEN, AND NEITHER OF THEM KNOWS WHAT THE OTHER ONE DID.**
+**ON THE EIGHTEENTH OF MARCH 2019 A WOMAN WENT BACK TO THAT CORNER AND WAS ON IT FOR ABOUT TWELVE MINUTES, AND A MAN WHO USED TO BE WAITING THERE AT TEN PAST TEN WAS FOUR MILES OFF IN A BACK ROOM WITH EIGHT OTHER MEN, AND NOT ONE PERSON IN THIS BOROUGH IS AWARE THAT EITHER OF THEM WENT.**

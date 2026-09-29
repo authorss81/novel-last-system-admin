@@ -2,7 +2,7 @@
 
 Monday the fourth of March 2019, and the four mornings on either side of it, from about ten past six until about quarter past seven. Two dogs and about three hundred yard of footway, in Tideglass.
 
-**A MAN IN HIS SIXTIES HAS WALKED THE SAME DOG ALONG THE SAME THREE HUNDRED YARD AT TEN PAST SIX FOR TWELVE YEARS, AND FOR FIVE WEEKS A MAN WHO MOVED IN NINE DOORS ALONG HAS BEEN DOING IT ON THE OTHER SIDE OF THAT ROAD, AND THE FIRST OF THEM HAS NOW GOT AS FAR AS KNOWING THAT IT IS BEING DONE ON PURPOSE, AND HE IS GOING TO KEEP WALKING PAST.**
+**THAT STREET HAS HAD TWO MEN AND TWO DOGS ON IT AT TEN PAST SIX EVERY MORNING FOR FIVE WEEKS, AND ON THE TWENTY-EIGHTH OF JANUARY THE MAN WHO CAME IN MOST RECENTLY WALKED A HUNDRED YARD THE WRONG WAY OUT OF HIS OWN FRONT DOOR WITH HIS DOG ON THE OFFSIDE, AND THE MAN WHO HAS WALKED THAT WAY FOR TWELVE YEARS WATCHED THE WHOLE OF IT FROM HIS OWN GATE, AND ON THE FOURTH OF MARCH HE CAME OUT AND STOOD ON HIS OWN KERB FOR A MINUTE AND A HALF WHILE THE OTHER MAN'S DOG DID WHAT A DOG DOES, AND NEITHER OF THEM SAID A WORD.**
 
 The dog is called Bess and Bess is twelve, and twelve is old for one.
 
@@ -32,7 +32,7 @@ His own front door is nine doors along. The near side of that road goes past his
 
 Bess did not see it. She was asleep. He was not, and he saw the whole of that hundred yard, and he stood at his own gate and watched a man walk his dog a hundred yard the wrong way on purpose.
 
-He has not said one word to the man about it, and he is not going to, and the reason is not the dog.
+He has never said one word to the man about it and he never will, and what is holding him back has nothing to do with the dog.
 
 The reason is this. If he says something — anything, one word, *morning* with a bit in it, or stopping and standing in the road with the dog and looking at him the way men do — then he becomes, in that row, a man who says things. He has been in that row since 2013 and he has been the sort of man who does not say things for the whole of that time, and it is not a boast, it is the arrangement he has got, and it works, and everybody in the row knows which sort he is and lets him be it.
 

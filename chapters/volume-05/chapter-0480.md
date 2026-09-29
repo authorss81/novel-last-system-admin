@@ -2,9 +2,9 @@
 
 The Saturday of the twenty-third of March 2019, and the five weeks before it, from about eight in the morning until about a quarter to twelve. A building at the top of a street, and a scaffold that came down the day before, in Tideglass.
 
-**FOR FIVE WEEKS A MAN IN HIS THIRTIES WALKED PAST A BUILDING ON THAT STREET EVERY MORNING AND WATCHED THE FRONT OF IT, AND ON THE SECOND DAY OF THE SIXTH WEEK HE STOOD ON AN EMPTY PAVEMENT FOR ABOUT FOUR MINUTES AT THE PLACE WHERE THE LADDER HAD BEEN, AND THE THING HE HAS BEEN WATCHING IS A ROW OF THREE OPENINGS ON THE TOP FLOOR WHERE EVERY FLOOR BELOW IT HAS TWO, AND HE STILL CANNOT PUT A NAME TO WHAT THEY ARE FOR.**
+**THE SCAFFOLD CAME DOWN OFF THE FRONT OF THAT BUILDING ON THE TWENTY-SECOND OF MARCH 2019, AND A MAN WHO HAD GONE PAST IT TWICE A DAY SINCE THE FIFTEENTH OF FEBRUARY STOOD ON AN EMPTY PAVEMENT AT SEVEN IN THE MORNING FOR ABOUT FOUR MINUTES WITH HIS HEAD TILTED BACK, AND THE FRONT OF THAT BUILDING IS BOARDED FROM THE GROUND TO THE SECOND FLOOR AND OPEN AND DARK ABOVE THAT, AND ON THE TOP FLOOR THERE ARE THREE OPENINGS WHERE EVERY OTHER FLOOR HAS TWO.**
 
-He is in his thirties and he does building work and odd jobs out of a place off Corrance Lane, and he goes out at about half seven most days and is done by about four, and that building is at the top of a street he does not have any business on and goes past it twice a day.
+He is in his thirties, he is a builder, and what he has is a yard and a small office on a trading estate off Corrance Lane with about four other tradesmen out of it, and he starts at about half seven most days and finishes at about four, and that building is at the top of a street he does not have any business on and goes past it twice a day.
 
 It is a building of four floors with a shop that shut years ago on the ground floor and a door beside it that has not been locked in about a decade.
 
@@ -55,7 +55,7 @@ The reason he does not go and knock on a door on that street is not that he is a
 
 It is that in 2013 he was up the top of a house on a different street with a torch in his hand while the next house was being re-covered and nobody in either of them knew he was in there, and in 2016 he went up a scaffold at four in the afternoon and put his hand into the head of a tie and there was nothing in it at all, and he was paid nothing for either and he has never told anybody about either.
 
-He is not a man who is frightened of a door. He is a man who has twice been inside a place that was not his with nobody in it, and he has never been able to give a person an account of how he knows what he knows, and that is the whole of the reason and it has nothing to do with that building.
+He is not a man who is frightened of a door. He is a man who has twice been inside a place that was not his with nobody in it, and he has never been able to give a person an account of how he knows what he knows, and that is all of it, and none of it has anything to do with that building.
 
 On the day before, the scaffold came down.
 
