@@ -28,7 +28,7 @@ That is the whole of what changed and it is the whole of what she could say abou
 
 She came out at about ten past seven with two bags, she put her hand on the door, she opened it, and she kept her hand on it and held it while the man in his thirties came down the stairs behind her and went past her, and then she let it go and it swung and it banged, and she went down the passage and he went up it, and neither of them said one word.
 
-He noticed at about half past seven that evening and did not go back to work on it until the second of December, which is a fortnight.
+He noticed at about half past seven that evening and did not go back to work on it until the eighteenth of December, which is a fortnight.
 
 What he noticed was that the door had shut before he got to it. He had come down the stairs at his own pace, which is not fast, and he had put his hand out at about the height of the frame the way he does most evenings, and the door was already on the latch and the catch had gone over.
 
@@ -36,7 +36,7 @@ He stood in that passage for about three seconds. Then he went up.
 
 He went back over it that night and again the next morning, and both times he worked out the same thing, and both times he told himself there was a reason for it that had nothing to do with her, and on the second night he caught himself doing the thing where a man goes looking for a reason in order not to have to think about a person, and he stopped, and he went to bed.
 
-On the second of December he came down at about ten past seven and let it go.
+On the eighteenth of December he came down at about ten past seven and let it go.
 
 He did it in the middle of the stair, deliberately, with his hand already off it before he reached the bottom, and it went about two foot and it banged, and he went up the passage with the noise behind him.
 
@@ -48,13 +48,13 @@ If he had not noticed, the door would have been on the latch when he came down, 
 
 And that is where it stops, and it is not going to start again.
 
-Neither of them has said one word. It has been five weeks. They are in the same passage every evening of the week and they have exchanged, since the fourth of December, the word "evening" and about nine other words, none of which was about that door.
+Neither of them has said one word about the door. Nobody said one word about the door before the fourth of December either, in six years or in about a year, and the not-saying is not a thing either of them put there. They are in the same passage every evening of the week and they have exchanged, since the fourth of December, the word "evening" and about nine other words, none of which was about that door.
 
 What neither of them will do is say it, and there is a good reason on each side and neither of the two reasons is the same as the other one.
 
 She will not say it because saying it turns the door into an agreement, and an agreement in that building would be a thing that could be broken and would be noticed being broken, and right now the door is not an agreement. Right now it is two people doing the same thing at the same time and neither of them having said why, and there is no version of that anybody in that building could put a hand on.
 
-He will not say it because he worked out on the second of December, standing at the bottom of that stair, that she had done it first, and he has not been able since then to work out whether that is a thing to be glad about or a thing to be ashamed of, and he is not going to find out in front of her.
+He will not say it because he worked out on the eighteenth of December, standing at the bottom of that stair, that she had done it first, and he has not been able since then to work out whether that is a thing to be glad about or a thing to be ashamed of, and he is not going to find out in front of her.
 
 ---
 

@@ -1,8 +1,8 @@
 # Chapter 0461 — The Seventh Slab
 
-The nineteenth of December 2018, and about fifty minutes of the middle of it. The ground between two blocks of flats and a wall, in Tideglass.
+The nineteenth of December 2018, and about fifty minutes of the middle of it. The ground between two blocks of flats, in Tideglass.
 
-**TWO MEN PUT THE SAME BENT WIRE INTO THE SAME JOINT IN THAT PATH ON TWO DIFFERENT MORNINGS AND EVENINGS FOUR DAYS APART AND NEITHER OF THEM HAS THE SLIGHTEST IDEA THE OTHER ONE IS A MAN IN THIS BOROUGH, AND NOBODY IS HOLDING ANYTHING IN THAT PLACE.**
+**TWO MEN PUT THE SAME BENT WIRE INTO THE SAME JOINT IN THAT PATH ON TWO DIFFERENT MORNINGS AND EVENINGS TWO DAYS APART AND NEITHER OF THEM HAS THE SLIGHTEST IDEA THE OTHER ONE IS A MAN IN THIS BOROUGH, AND NOBODY IS HOLDING ANYTHING IN THAT PLACE.**
 
 Between two blocks of flats off that parade there is about sixty yard of ground that belongs to nobody and that everybody uses, and the way across it is a line of about nine paving slabs that came out of a path in about 2011 and were put down again by a man who is not known and who did it badly.
 
@@ -22,7 +22,7 @@ He told nobody. He has not thought about it since the Monday except in the sense
 
 The man who has been going across that ground for about nine years is a man in his thirties and he goes across it in the evening, most evenings, at about half past five, on his way to his own place, which is the second of those two blocks.
 
-On the Wednesday of the twelfth of December he came across at about half past five and stopped at the seventh slab, because it had not been proud for about a week and a half and it was proud again.
+On the Wednesday of the twelfth of December he came across at about half past five and stopped at the seventh slab, because it had not been proud on the Monday evening or the Tuesday, and it was proud again.
 
 He looked at it. He looked at the joint. He looked at the ground on either side of it for longer than a man looks at ground.
 
@@ -66,26 +66,26 @@ He stood on it with his own weight once. It did not move.
 
 Then he looked at the wire.
 
-It was a length of wire, bent in two, twisted, and gone into the joint at the side of that slab and the joint at the side of the next one, and it had mortar on it, and it was exactly what he had put in on the Wednesday of the twelfth and had gone off and thought nothing about since.
+It was a length of wire, bent in two, twisted, and gone into the joint at the side of that slab and the joint at the side of the next one, and it had mortar on it, and it was his.
 
 He stood there with it in his hand for a while.
 
-He has a van and a store off a street on the far side of that parade, and there has been a length of wire at the bottom of that bag for two years, and on Wednesday the twelfth he bent a piece of it in two and twisted it into that joint because a slab was standing proud, and that is a thing you do.
+He has a van and a store off a street on the far side of that parade, and there has been a length of wire at the bottom of that bag for two years, and on the Wednesday of the twelfth he bent a piece of it in two and twisted it into that joint because a slab was standing proud, and then he went to his own door. Nobody has ever asked him where he gets it from and he has never said.
 
-Somebody else bent a piece in two, and twisted it, and put it in that same joint, on the Monday, and had gone off to work.
+And then he looked at the joint, and the joint had wire in it that was his own wire, put in by somebody else, on the Monday, in daylight, before he had been anywhere near that ground.
 
-And he could not do it any other way. That is the part he has not said out loud to himself and has not said to anybody either. A man who has been going across that ground for nine years and then finds that somebody has been doing to it, in the dark, at an hour he is never there at, the exact thing he did, cannot afterwards put a slab back in a hole without doing that.
+And he could not do it any other way. That is the part he has not said out loud to himself and has not said to anybody either. A man who has been going across that ground for nine years and then finds that somebody has been doing to it, in the morning, at an hour he is never there at, the exact thing he did, cannot afterwards put a slab back in a hole without doing that.
 
-He put the slab down properly. He took the wire out of the joint, where it had been for a week, and turned it over in his hand, and then he bent it in two again and put one end down in the joint at the side of that slab and the other end down in the joint at the side of the one next to it, and twisted them, and stood up and looked at it, and went across that ground to his own van.
+He put the slab down properly. He took the wire off the slab, bent it in two again, put it back into the same two joints and twisted it, and stood up and looked at it, and went across that ground to his own van.
 
-He has not thought about the man in the forties. He does not know there is a man in the forties. He has not got a shape to put him in and has not been looking for one, and what he has instead is a Monday morning and a pair of hands and somebody who was not there, and he has been carrying that about for eight days and it is not going anywhere.
+He has not thought about the man in the forties. He does not know there is a man in the forties. He has not got a shape to put him in and has not been looking for one, and what he has instead is a Monday morning and a pair of hands and somebody who was not there, and he has been carrying that about for a week and it is not going anywhere.
 
 ---
 
 There is no list of that sixty yard. There is no person keeping the seventh slab. Nobody owns that ground and nobody has ever rung anybody about it, and no two men in this borough have ever said one word to one another about a piece of wire in a joint.
 
-And the man in his forties will cross that ground most weekday mornings and the man in his thirties will cross it most weekday evenings, and on a wet Monday in January the seventh slab will stand about two inch proud again, because a piece of wire in a wet joint does not mend a path, and the frost is under that whole line.
+And the man in his forties will cross that ground most weekday mornings and the man in his thirties will cross it most weekday evenings, and a piece of wire in a wet joint does not mend a path, and the frost is under that whole line.
 
 One of them will look at it. One of them will not.
 
-**HE WENT ACROSS THAT GROUND AT TEN PAST TWO ON THAT WEDNESDAY WITH THE SLAB BACK IN AND A PIECE OF WIRE TWISTED INTO THE JOINT AGAIN, AND HE TOLD NOBODY, AND ON THE OTHER SIDE OF THAT WALL A WOMAN STOOD AT HER OWN WINDOW AT FOUR O'CLOCK THE DAY BEFORE AND SAID NOTHING AND HAS SAID NOTHING SINCE.**
+**HE WENT ACROSS THAT GROUND AT TEN PAST TWO ON THAT WEDNESDAY WITH THE SLAB BACK IN AND A PIECE OF WIRE TWISTED INTO THE JOINT AGAIN, AND HE TOLD NOBODY, AND THE WOMAN WHO STOOD OVER THAT HOLE FOR ABOUT A MINUTE ON THE TUESDAY AFTERNOON WENT INSIDE AND SHUT THE DOOR AND SAID NOTHING AND HAS SAID NOTHING SINCE.**

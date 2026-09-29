@@ -4,7 +4,7 @@ Monday the twenty-fourth of December 2018, from about half past eight in the mor
 
 **A MAN TOLD A COMPANY THAT A LENGTH OF WALL WAS FINISHED AND LEFT EIGHTEEN INCH OF THE BOTTOM OF IT, AND HE HAS NOT GONE BACK, AND THE WOMAN WHO LIVES IN THAT BUILDING HAS SEEN IT AND HAS NOT ASKED HIM ANYTHING.**
 
-A man in his forties does building work and odd jobs and he was on that building for three days in the middle of December, at the end of a long job that a company had been in for about eight months, and the thing he was doing at the end of it was a length of wall about nine foot at the side of that building, where the render had come away and the brick behind it had started to go.
+A man in his forties does building work and odd jobs and he was on that building for three days in the middle of December, the last of them being the Friday of the twenty-first, at the end of a long job that a company had been in for about eight months, and the thing he was doing at the end of it was a length of wall about nine foot at the side of that building, where the render had come away and the brick behind it had started to go.
 
 He took the loose render off. He cleaned the brick. He did a length of about nine foot of repointing in a proper lime mortar over three days, and it is the best piece of work anybody in that street has seen done on a building that is not being looked after.
 
@@ -24,7 +24,7 @@ He told the man from the company on the Friday.
 
 He was on a ladder at the top of that run at about five to twelve and the man was on the ground with the sheets down, and he said, "That's away."
 
-The man from the company wrote it on a docket. He was in that building for about four minutes that morning and he does not know that building and he is not going to be in it again.
+The man from the company wrote it on a docket. He was in that building for about four minutes that morning, and that four minutes is the whole of what that building is to him.
 
 The company invoiced it. It got paid. Nobody came back.
 
@@ -48,7 +48,7 @@ He has not gone back either.
 
 He was there on the Friday morning and he said it was away and he was on that ladder and he looked at that bottom eighteen inch before he came down, and it is not a thing a man forgets. He put his hand on it with the trowel still in the other one.
 
-He has had a fortnight. He has had a Christmas. He has thought about going back with the pipe off and the same mortar about nine times, and the reason he has not is not that the pipe is difficult.
+He has had three days. Christmas is tomorrow and he has not spent any of it on that wall. He has thought about going back with the pipe off and the same mortar about nine times, and the reason he has not is not that the pipe is difficult.
 
 ---
 
@@ -64,4 +64,4 @@ If he had said anything on the Friday — anything at all about the bottom eight
 
 He said it was away and the bottom of it stayed as it is, and there is a wall on that side of a building with nine foot of it done to a standard nobody is going to inspect and about eighteen inch of the bottom of it left, and a man standing in a four foot passage on a Monday morning in December can see those eighteen inch in ten seconds if he knows to look.
 
-**HE CAME DOWN THE LADDER AT FIVE TO TWELVE ON THE FRIDAY OF THE EIGHTEENTH AND SAID THE ONE SENTENCE, AND ON THE MONDAY TWENTY-FOURTH HE DID NOT GO BACK, AND ON THE MONDAY TWENTY-FOURTH SHE CAME DOWN THAT PASSAGE AND SAW IT AND SAID NOTHING.**
+**HE CAME DOWN THE LADDER AT FIVE TO TWELVE ON THE FRIDAY OF THE TWENTY-FIRST AND SAID THE ONE SENTENCE, AND HE DID NOT GO BACK, AND ON THE MONDAY TWENTY-FOURTH SHE CAME DOWN THAT PASSAGE AND SAW IT AND SAID NOTHING.**

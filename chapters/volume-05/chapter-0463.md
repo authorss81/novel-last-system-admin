@@ -52,14 +52,14 @@ What she cannot get past is what he would think if he had watched her, and she h
 
 He goes across that water without stopping. He has been doing it for nine years and he does it the way everybody in that street does a thing they have done since they were children. If a woman on that street watched him twice and then came out and did it wrong, and he happened to see it, then she would be a woman who watched him.
 
-And a person who has watched a man like that is not a person you want to be, at half past nine on a Saturday morning, in a street where a man like that is a man about half the people in that street have watched at some point for nine years without ever having thought about it.
+And a person who has watched a man like that is not a person you want to be, at ten past nine on a Saturday morning, in a street where a man like that is a man about half the people in that street have watched at some point for nine years without ever having thought about it.
 
 ---
 
-So she has decided to go on getting it wrong, and she has decided to get it wrong better.
+So she has decided to go on doing it, and she has decided to do it properly rather than in a hurry.
 
-She went back out at about twenty past nine the same morning with a plastic bag over her right shoe, and she crossed the same four inches, and she came down into the water again on the same side, and she has been practising since and has got the right foot across it four times out of about nine and is not going to get to nine out of nine and does not think she is going to be doing it for very long either, because she is not a person who crosses that street four times a day.
+She went back out at about half past nine the same morning with a plastic bag over her right shoe, and she crossed the same four inches, and she came down into the water again on the same side, and she went back in and came out a third time at about ten past ten, and on that one she got the foot across it right. She is not going to do this where anybody on that street can watch her do it, because she is not a person who crosses that street four times a day and every person who did would remember it by Wednesday.
 
-She is doing it because for a fortnight it has been the only part of her day that belongs to somebody else, and she is not going to be the one who stops.
+She is doing it because for a fortnight the watching has been the only part of her day that belongs to somebody else, and she is not going to be the one who stops.
 
 **SHE WENT BACK INSIDE AT A QUARTER PAST TEN WITH A PLASTIC BAG OVER HER SHOE AND PUT IT IN THE SACK BEHIND THE SINK, AND UP THAT STREET A MAN WENT PAST A SHOP AT TEN PAST NINE AND DID NOT LOOK UP.**

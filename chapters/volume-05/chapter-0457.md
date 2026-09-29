@@ -42,9 +42,9 @@ And she is not a person who can put a question to anybody. She has never in her 
 
 So she did the other thing. She went round the other way.
 
-That is the entire of what has happened, and here is why it is not going to be undone.
+That is the whole of what has happened, and here is why it is not going to be undone.
 
-She has now gone past that row of houses about thirty times and about a quarter of the people in it have come out while she was going past, and about half of them looked at her, and not one of them has any idea who she is and not one of them would have any idea what to make of her.
+She has now gone past that row of houses about ten times, which is every weekday since the fifteenth of November, and about a quarter of the people in it have come out while she was going past, and about half of them looked at her, and not one of them has any idea who she is and not one of them would have any idea what to make of her.
 
 If she starts going through that gap again tomorrow, then in four weeks' time nobody on that street will remember that she ever did not, and in six weeks nobody on that street will remember that she does, because a woman in a dark coat going to work in the morning is not a thing anybody on a street keeps in their head.
 
@@ -56,7 +56,7 @@ On the Thursday morning of the twenty-ninth of November it rained from about twe
 
 She went to the corner, turned right, went the hundred and thirty yard, and came into her own street at the fish shop end, and the whole way along it she was aware of the gate on her left at the end and she was aware of it the whole way and she did not turn into it.
 
-At about eight she was at her own door and she was two minutes wetter across the shoulders than the woman who goes through that gap, and she has worked out that this is the entire cost and has decided it is a cost she can live inside.
+At about eight she was at her own door and she was two minutes wetter across the shoulders than the woman who goes through that gap, and she has worked out that this is the whole of what it costs and has decided it is a cost she can live inside.
 
 She is not going to tell them. She is aware that not telling them is a decision she has made ten times in a fortnight, and she is aware that a decision made ten times is a habit, and she is aware that on about the twentieth of December it will not be a decision any more.
 

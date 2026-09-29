@@ -46,7 +46,7 @@ It is not that the answer was false. He would like that to be the problem, becau
 
 What has happened since is that she has not asked him anything at all.
 
-Not that. Everything. There was one question in six months and now there is none, and none of the absence has anything to do with him, and the man who asked her the question has gone on doing jobs in that building and saying the same things he has always said and getting paid the same and being asked for the same.
+Not that. Everything. There was one question in six months and now there is none, and none of the absence has anything to do with him, and the man she asked has gone on doing jobs in that building and saying the same things he has always said and getting paid the same and being asked for the same.
 
 He has worked out that she believes him. He has not worked out what she is going to do, and there are about four versions of it and he has not managed to make himself prefer any of them, and he has noticed that not managing to prefer any of them is the part that is going to stay with him.
 
@@ -60,6 +60,6 @@ If he said that to her it would be a man telling a woman who cannot sleep that t
 
 ---
 
-So the answer stands. It is true, it was quick, and it is the entire of what he has ever said to her about that stair, and there is nothing anywhere in this borough that says she asked him a different question, and there is nothing anywhere in this borough that says anybody answered it.
+So the answer stands. It is true, it was quick, and it is all he has ever said to her about that stair, and there is nothing anywhere in this borough that says she asked him a different question, and there is nothing anywhere in this borough that says anybody answered it.
 
-**HE PUT HIS BAG IN THE VAN AT TEN PAST NINE ON THAT MONDAY AND WENT DOWN THE STREET, AND SHE STOOD IN THAT PASSAGE FOR A WHILE AFTERWARDS AND THEN WENT UP THE STAIRS, AND NOT ONE THING HAS BEEN SAID BETWEEN THE TWO OF THEM IN THE SIX WEEKS SINCE.**
+**HE PUT HIS BAG IN THE VAN AT TEN PAST NINE ON THAT MONDAY AND WENT DOWN THE STREET, AND SHE STOOD IN THAT PASSAGE FOR A WHILE AFTERWARDS AND THEN WENT UP THE STAIRS, AND NEITHER OF THEM HAS PUT ANYTHING ELSE TO THE OTHER ONE SINCE.**

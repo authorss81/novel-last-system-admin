@@ -18,9 +18,9 @@ What he has instead is a job that opens at half past seven on a midweek and he h
 
 The other place is a piece of ground off a lane that is nine foot square as well, and it is four minutes away in a van at that hour, and he has to reverse in off that lane to get at it because there is a post in the way, and the reversing takes about two minutes each way, and the four trestles go up at about ten past seven and come down at about half past four and the whole business costs him about half an hour a day that he does not have.
 
-He has been doing it for about five weeks. He has never once considered going round to the lock-ups and saying the word. He has not considered it the way you do not consider a thing that would be a conversation.
+He has been doing it for about five weeks. He has never once considered walking up there and saying the word. He has not considered it the way you do not consider a thing that would be a conversation.
 
-A woman came back to that street on the second Tuesday in October with a lorry and a man in a fleece and a removal of about nine pieces out of her mother's house, and the house is two streets off and there is no room at the front of it, and the man in the fleece stood in that street for about ten minutes with a cigarette he did not smoke and said, twice, that he would take them round the back if anybody could tell him where the back was.
+A woman came back to that street on the second Tuesday in October with a lorry and a man in a fleece and a removal of about eight pieces out of her mother's house, and the house is two streets off and there is no room at the front of it, and the man in the fleece stood in that street for about ten minutes with a cigarette he did not smoke and said, twice, that he would take them round the back if anybody could tell him where the back was.
 
 Nobody could tell him where the back was. There is no back. The nine foot of standing between the wall and the kerb is the only flat ground on that stretch that is not a road.
 
@@ -28,7 +28,7 @@ So he put them on the nine foot. He put about eight pieces on it in about twenty
 
 And that was in October. It is the only time anything has stood on that ground all year and it is the reason she now wants it.
 
-She has not said anything to anybody. She has not put a folding table out. She has not knocked on a door. She has thought about the nine foot perhaps twice a day since and has not once thought of a sentence that would get her onto it without also being a thing she would have to keep explaining to whoever she asked.
+She has not said anything to anybody. She has not put a folding table out. She has not knocked on a door. She has her mother's house keys on a ring with nothing else on the ring and has not been back up there to hand them in, and that is not why she wants the ground. She has thought about the nine foot perhaps twice a day since and has not once thought of a sentence that would get her onto it without also being a thing she would have to keep explaining to whoever she asked.
 
 Here is the part that neither of them knows about the other, and it is the whole of the chapter.
 
@@ -52,7 +52,7 @@ The lorry came back down that street at about ten to six.
 
 She was not in the house. She had been in that street twice since the Tuesday in October and had got the arrangement into her own head and had not told anybody, including the man in the fleece, who was the same one and had forgotten the whole of it inside a month.
 
-Nine pieces. A bed frame, two chairs she was not going to take and took anyway, a chest, a table, four boxes, and a long mirror wrapped in a blanket from her mother's house.
+Eight pieces. A bed frame, a settee she was not going to take and took anyway, a chest, a table, three boxes, and a long mirror wrapped in a blanket from her mother's house.
 
 The lorry could not get nearer than about ten foot of the wall on that stretch, because of the cars that were already on it, and the man in the fleece put his hands in the air and said, not to anybody, "That's the nine foot, then."
 

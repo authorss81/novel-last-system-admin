@@ -20,7 +20,7 @@ The kitchen was small and it had not been cleared before he came.
 
 That is the whole of it. There was a worktop with nothing on it, a cooker with four rings and one of them missing, and a floor with a scuff line across it where a table used to stand, and nothing on the walls at all. There was nothing in the sink. There was a mark on the door frame at about the height of a man's shoulder where something heavy has been carried through it often enough to take the paint off.
 
-He did the nine feet. It took about three hours with a wet saw he had brought up on a trolley because of the stairs, and the wall behind was solid and true and the old adhesive came off clean, and there was nothing about that job that needed anything out of him except the work.
+He did the nine feet. It had taken the better part of two hours with a wet saw he had brought up on a trolley because of the stairs, and the wall behind was solid and true and the old adhesive came off clean, and there was nothing about that job that needed anything out of him except the work.
 
 At about ten past ten he had the last strip out and was bedding the bottom edge when the door at the back of that kitchen, which is not a door to outside and is a door to a store, was swinging about four inch on the draught coming out of the front of the building.
 
@@ -46,7 +46,7 @@ That is all of it. It is a jar and about three weeks and an empty flat, and it i
 
 He knows how that reads and he has been over that as well.
 
-A woman in a flat with about thirty boxes in a store and nothing else on the ground floor, and a man who is in that flat some evenings when he is not there, is a thing a man can put a name to in about a second, and he could put a name to it in about a second, and that is exactly why he is not going back into that store with a torch.
+She gave a key to a neighbour in the March she came into that flat and has not asked for it back since, and that neighbour is the only other person on that stretch who has one. A woman in a flat with about thirty boxes in a store and nothing else on the ground floor, and a man who is in that flat some evenings when he is not there, is a thing a man can put a name to in about a second, and he could put a name to it in about a second, and that is exactly why he is not going back into that store with a torch.
 
 What he has done instead is the other thing, which is the ordinary thing, which is to keep the same face.
 
@@ -58,6 +58,6 @@ And that was four days ago, and he has not told a single person in this borough,
 
 What it is is that he has decided, on his own, standing up, with a wet saw in his hand, in about four seconds, that there is one room in that flat he is not going to be asked into, and that he has arranged that himself, and that arranging it himself is the only part of it that is his.
 
-He has not changed one thing about what he does or says. He has not changed the days he goes. He has not changed what he says when he arrives. If she telephones him tomorrow about the grout he will say the same three sentences he said on the twenty-first and go on the twenty-eighth and the fifth, and there will be nothing in his face at all, and there will be nothing in his face at all on the day she finds out he was in that store, and she will not find out for a long time, and by then it will be a thing about a wet saw on a Sunday morning and not about a room.
+He has not changed one thing about what he does or says. He has not changed the days he goes. He has not changed what he says when he arrives. If she telephones him tomorrow about the grout he will say the same three sentences he said on the twenty-first and go on the twenty-eighth and the fifth, and there will be nothing in his face at all on the day she finds out he was in that store, and she will not find out for a long time, and by then it will be a thing about a wet saw on a Sunday morning and not about a room.
 
-**HE CLEANED UP AFTER HIMSELF AND CARRIED THE BUCKET AND THE SAW DOWN THE STEPS OF THAT BUILDING AT TEN TO SIX THAT SUNDAY, AND THE STORE DOOR WAS SHUT BEHIND HIM AND HE HAS NOT PUT A HAND ON IT SINCE.**
+**HE CLEANED UP AFTER HIMSELF AND CARRIED THE BUCKET AND THE SAW DOWN THE STEPS OF THAT BUILDING AT TEN TO ONE THAT SUNDAY, AND THE STORE DOOR WAS SHUT BEHIND HIM AND HE HAS NOT PUT A HAND ON IT SINCE.**
