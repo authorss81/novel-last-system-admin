@@ -132,10 +132,10 @@ jobs:
               # Mirror the runner's rule: a volume outline phase whose outline
               # already exists is finished work, not pending work.
               if [ ! -f "$phase_dir/.done" ]; then
-                first_line="$(head -n 1 "$prompt")"
-                if [[ "$first_line" =~ VOLUME[[:space:]]+([0-9]+)[[:space:]]+OUTLINE[[:space:]]+PHASE ]]; then
+                first_line_lc="$(head -n 1 "$prompt" | tr '[:upper:]' '[:lower:]')"
+                if [[ "$first_line_lc" =~ volume[[:space:]]+([0-9]+).*outline.*phase ]]; then
                   outline_vol="${BASH_REMATCH[1]}"
-                  if [ -f "outline/volume-${outline_vol}.md" ]; then
+                  if [ -f "outline/volume-${outline_vol}.md" ] && ! find "$phase_dir" -name 'chapter-*.md' -print -quit | grep -q .; then
                     continue
                   fi
                 fi
