@@ -17,7 +17,7 @@ What he was doing at the time was a fortnight on a job at the front of a buildin
 
 It came off with a screwdriver and four minutes and it took the plate with it and he put the plate back and made good with a filler that is still visible.
 
-He carried it home under his arm at about half past five on the Thursday and put it on the ledge in the back room at about nine foot above the floor, and that ledge is still there and there is nothing on it.
+He carried it home under his arm at about half past five on the Thursday and put it on the ledge in the back room at about nine foot above the floor, and that ledge is still there and the thing is still on it, and there is nothing else on it.
 
 That is twenty-one years and a bit over four months.
 
@@ -64,7 +64,7 @@ And she said, "Right. I'll leave you then."
 And that was the whole of the conversation and it took about nine minutes, because she does not leave anybody's front step quickly.
 
 
-And here is the part that is this chapter, and he has not been able to move it out of his head since.
+And here is the part he keeps coming back to, and he has not been able to move it out of his head since.
 
 She was on his step at about half past two and she said, "You'll be all right on that wall."
 

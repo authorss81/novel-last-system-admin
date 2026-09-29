@@ -1,8 +1,8 @@
-# Chapter 0514 — An Ordinary Monday
+# Chapter 0514 — An Ordinary Sunday
 
-The Monday of the twenty-fifth of August 2019, and the hours that were worth anything ran from about ten past seven until about half past one. This borough, and four places in it, in Tideglass.
+The Sunday of the twenty-fifth of August 2019, and the hours that were worth anything ran from about ten past seven until about half past one. This borough, and four places in it, in Tideglass.
 
-**IT WAS AN ORDINARY MONDAY IN THIS BOROUGH. A WOMAN CAME DOWN EIGHT STEPS FALLING ON THE SAME ONE FOR THE THIRD TIME SINCE MAY. A POSTMAN PUT A PARCEL THROUGH ONE OF TWO DOORS CARRYING THE SAME NUMBER. DOWN BY THAT WATER THERE IS A SIDE ROOM WITH A WORKING BOOK OPEN ON A DESK IN IT, RULED OFF UNDER THE LAST ENTRY, AND NOTHING IN THE SPACE, AND NOBODY WENT DOWN THAT WAY.**
+**IT WAS AN ORDINARY SUNDAY IN THIS BOROUGH. A WOMAN CAME DOWN EIGHT STEPS FALLING ON THE SAME ONE FOR THE THIRD TIME SINCE MAY. A MAN HAS BEEN GOING TO A HOUSE AT NUMBER TWENTY-FIVE EVERY SATURDAY MORNING SINCE 2016 AND THE WOMAN THERE GAVE HIM A CUP OF TEA THE FIRST TIME AND HAS NOT GIVEN HIM ONE SINCE, AND HE HAS KEPT GOING. DOWN BY THAT WATER THERE IS A SIDE ROOM WITH A WORKING BOOK OPEN ON A DESK IN IT, RULED OFF UNDER THE LAST ENTRY, AND NOTHING IN THE SPACE, AND ONE MAN WENT DOWN THAT WAY AND READ THE LINE AND PUT THE BOOK BACK WITH THE SPINE THE WAY ROUND IT WAS AND SAID NOTHING TO ANYBODY.**
 
 The first of the two ordinary things can be set down in about two minutes, and nobody in this borough has ever set it down.
 
@@ -10,7 +10,7 @@ There is a flight of steps between two streets, eight of them. The bottom four r
 
 Those are the only steps in this part of the borough with a different rise on half of them. Everybody who uses them knows it in their legs. Nobody has ever said so.
 
-A man has swept them for about nine years. He does them on a Monday and a Thursday and he does them at about a quarter past seven.
+A man has swept them for about nine years. He does them on a Monday and a Thursday and he does them at about a quarter past seven, and he has added the Sunday to that on his own account, because there is not a great deal else on a Sunday and nobody asked him to.
 
 On the fourth of May a woman of about seventy came down them backwards with a bag and went over on the second one from the top and sat on the bottom one for the better part of a minute, got up and went on.
 
@@ -21,28 +21,30 @@ On the twenty-fifth of August, at about ten past seven in the morning, she came 
 Nobody has told anybody that the top half is wrong. There is nothing to tell. About four people here know it, and every one of them found out by going over it.
 
 
-Here is the second ordinary thing and it has been going since 2014.
+Here is the second ordinary thing and it has been going since about 2016.
 
-There is a row of eight houses and the sixth and the seventh carry the same number.
+There is a house at number twenty-five and there is a man who goes to it on a Saturday morning.
 
-They have carried it since a set of metal numbers went on in 2014. The man who did that job got the seventh wrong. Nobody has ever gone back to it, because the people in those two houses have both had post delivered there for five years and both of them have never once been short of anything.
+He has been going since 2016. He is not a tradesman and he is not a relation and he does not have a car on the road outside it, and he comes on foot from the top of that row at about half past nine, and he knocks, and the woman there opens the door, and the two of them have stood in that entrance and said the same four sentences every week since that first one.
 
-The man who puts post round that row has known about it since about 2016 and has never said a word to anybody about it, and what he does is that when a parcel comes for the seventh he takes it in to the sixth.
+The first Saturday, in 2016, she made him a cup of tea and took it into the front room and set it down on the dresser and said there was no need, and he drank it standing, and the cup was not washed for two days, and he did not mention it then and has not mentioned it since.
 
-He does not put the other one back in the pile. He puts it on top of the pile for the sixth and goes on, and on the Monday the twenty-fifth of August he did that at about a quarter past eight with a box about the size of a hat box.
+She has not made him one since that Saturday. She has not said she will not. He has not said anything about it, and he has not stopped going, and he has been at that door every Saturday since with nothing at all in his hands.
 
-And what has happened over five years is that the man at the sixth and the woman at the seventh have both come to believe that the other one of them gets the other's post, and neither of them has ever said so, and they nod at each other about nine times a week.
+He worked out the first time in the second year that she is not glad to see him, and he has gone on coming, and if anybody in that row has noticed a man at number twenty-five on a Saturday morning then it is one woman on the other side of that row, and she has not said anything to anybody about it either.
+
+The whole of the second of August 2019 in that row is that he came at about half past nine, and she opened the door, and they said what they say, and the door shut at about twenty to ten, and he went back up the row.
 
 
 Now the third thing, and this is the one that is not in anybody's mind at all.
 
 About a third of the way along the way down by that water there is a side entrance and a room off it, and in that room there is a working book open on a desk with a cup standing beside it.
 
-The book is about two inch deep. It has a column in it. It stands at nineteen entries and the last one was written on the fourteenth of September 2015, and there is a line ruled under that one and nothing has ever been written in that line.
+The book is about two inch deep. It has a column in it. It stands at nineteen entries, and the entry at the end of them is dated the fourteenth of September 2015. A line is ruled under that entry and it has been empty since the twenty-sixth of November 2014, which was a Wednesday, and nothing has ever been written in it.
 
 On the twenty-fifth of August 2019 that line had been blank for 1,733 days.
 
-A man went into that room at about half past nine on the Monday morning to get a coil of cable that was on a hook at the back, and he is in and out of that room most weeks of his life and has been since about 2006.
+A man went into that room at about half past nine on the Sunday morning to get a coil of cable that was on a hook at the back, and he is in and out of that room most weeks of his life and has been since 2006.
 
 And he put his hand flat on the desk beside the book to move it, because it is in the way of the door when the door is more than half open.
 
@@ -55,13 +57,11 @@ And then he picked the book up — it is not heavy — and looked at the back of
 He has not mentioned it to anybody. He has not counted anything. He told the man he works with that the cable was not in that room.
 
 
-Here is the man himself, since he is the only person in this chapter anybody could name a trade for.
+And here is the man who goes into that room, since he is the only person in this borough anybody could name a trade for.
 
-He has been on that round for about nineteen years and he does it on foot, because the round is nine streets long and there is nowhere to put a car.
+He has been in and out of that room for about thirteen years and he goes in the way anybody goes into a room he has been in a thousand times in, and he is not in there for the book, and there is nothing in that room he has ever wanted.
 
-He has known about the two doors since about 2016. What he does about it is that he treats the seventh as not existing, and puts a parcel for the seventh through the sixth, and puts it on top of the pile for the sixth rather than under it, and the reason he puts it on top is that the man at the sixth has been bringing his own post in from the front room for years and the woman at the seventh has not, and putting it on top means that whatever is on that pile has already been looked at.
-
-He has never asked which of the two it should go to, and he has been asked by neither.
+And what he has now is a ruled line with a date at the top of it, and there is no version of putting that down that is not a thing somebody did.
 
 And here is the fourth, and it is the oldest of the four and it is still going round.
 
@@ -69,7 +69,7 @@ Four accounts of a single thing are still going round this borough. They have be
 
 On the twenty-fifth of August, at about half past ten in the morning, two men who have both got accounts put them side by side without meaning to.
 
-They were outside a place on a street where they both get their hair cut, and they had been talking about nothing for about five minutes, and one of them said, "Somebody told me in June."
+They were outside a place on a street where they both get their hair cut, and they had been talking about nothing for five minutes, and one of them said, "Somebody told me in June."
 
 And the other one said, "About that thing?"
 
@@ -87,12 +87,12 @@ And the second one said, "Aye. That's what I thought."
 
 And they went in and had their hair cut.
 
-That is the whole of that. Nobody has put any two of those four side by side and nobody has asked anybody which of them is theirs, and a fifth has not come along, and on that Monday nobody said one word about what was under all four of them.
+That is the whole of that. Nobody has put any two of those four side by side and nobody has asked anybody which of them is theirs, and a fifth has not come along, and on that Sunday nobody said one word about what was under all four of them.
 
 
-And there is one other thing in this borough, and it is the one that is not a thing anybody can put a name to, and it stands exactly where it stood in the middle of August last year.
+And there is one other thing in this borough, and it is the one that is not a thing anybody can put a name to. Nobody has written down where it is since the middle of August last year, and the reason nobody has written it down is that there has never been anything to put down, and in the year since, every person here who might have gone out and had a look has gone out, come back, and said the same thing about it to nobody.
 
-It has not moved by a yard. It has not altered by a day. Everybody here who might have gone out and had a look has gone out and come back.
+It has not altered by a day.
 
 On the twenty-fifth of August a woman got as far as the end of her own street at about ten to one in the afternoon with her coat on, having decided at about half past twelve that today was the day.
 

@@ -1,10 +1,10 @@
 # Chapter 0511 — She Had a Blue One of Her Own
 
-The Thursday of the thirteenth of August 2019, and a good part of it was gone by half past eight in the morning. One street and the length of a parade, in Tideglass.
+The Tuesday of the thirteenth of August 2019, and a good part of it was gone by half past eight in the morning. One street and the length of a parade, in Tideglass.
 
-**TWO PEOPLE WERE IN THAT HOUSE ON ONE EVENING IN 1994 AND EACH WENT OUT CERTAIN ABOUT THE OTHER AND A THING THAT WAS LEANING IN A CORNER, AND A QUARTER OF A CENTURY OF COURTESY HAS BEEN BUILT ON THE MISTAKE AND NEITHER HAS EVER BROKEN IT, AND IN MAY A THIRD PERSON TOLD HIM THAT THE UMBRELLA HAD NEVER BEEN HERS TO BEGIN WITH, AND HE HAS KEPT IT TO HIMSELF SINCE AND HAS GOT AS FAR AS WISHING HE HAD HELD HIS TONGUE IN MAY.**
+**TWO PEOPLE WERE IN THAT HOUSE ON ONE EVENING IN 1994 AND EACH WENT OUT CERTAIN ABOUT THE OTHER AND A THING THAT WAS LEANING IN A CORNER, AND A QUARTER OF A CENTURY OF COURTESY HAS BEEN BUILT ON THE MISTAKE AND NEITHER HAS EVER BROKEN IT, AND IN MAY A THIRD PERSON TOLD HIM THAT THE UMBRELLA HAD BEEN HERS AND HAD GONE MISSING A LONG WAY FROM THAT HOUSE, AND HE HAS KEPT IT TO HIMSELF SINCE AND HAS GOT AS FAR AS WISHING HE HAD HELD HIS TONGUE IN MAY.**
 
-They are not related and have never been, and they were at that house in June 1994 for about nine hours between them on the same evening, and neither of them has set foot in it since.
+They are not related and have never been, and they were at that house in June 1994 for about four hours between them on the same evening, and neither of them has set foot in it since.
 
 He is in his fifties and has a trade. She is in her early sixties and does not work.
 
@@ -13,7 +13,7 @@ They have lived within about a mile of each other since about 1996 and have met 
 
 Here is the umbrella.
 
-It was blue. It was a long umbrella with a wooden handle and it belonged to a woman who was at that house on that evening and is dead, and it was propped in the corner of that entrance between a shoe rack and the door.
+It was blue. It was a long umbrella with a wooden handle and it was hers, and it was propped in the corner of that entrance between a shoe rack and the door, standing up on its end the way a person leaves one.
 
 He saw it at about half past seven. She saw it at about half past six.
 
@@ -24,7 +24,7 @@ She has told herself for twenty-five years that she left that house at about eig
 That is the whole of the two beliefs and neither of them is true.
 
 
-What they built on it is what this chapter is really about, because it is twenty-five years each and it is the same in both.
+What they built on it is the whole of what either of them has done for twenty-five years, and it is the same in both.
 
 She has been careful about him for twenty-five years. She has never asked him for anything. She has never let him hold a door she could have got through herself, and she has been out with him twice in twenty-five years and stood at the far end both times, and she has not once, in twenty-five years, borrowed anything from him.
 
@@ -67,7 +67,7 @@ He got outside and stood on the pavement.
 
 What she had told him was not that she had taken his. It was that there had been an umbrella that was hers and that it had gone, and that the going of it had never been a thing either of the two women had ever put to anybody.
 
-And what he understood on that pavement, in about four seconds, is that he had spent twenty-five years being careful with her about an umbrella that never existed.
+And what he understood on that pavement, in about four seconds, is that he had spent twenty-five years being careful with her about an umbrella that had gone missing at a house a long way from that one, and that it had never had anything to do with him, and that she had never once said so.
 
 Not that she was innocent. He still does not think that. He thinks she walked off with an umbrella in her coat at about eight in the evening after three glasses and has spent twenty-five years not knowing that anybody else in that borough went away from that corner believing something about her.
 
@@ -130,4 +130,4 @@ And what he had was the one thing he had been carrying since May, and it was thi
 
 He has never been able to work out whether he is the man who took it or the man who lost it, and he has spent twenty-five years being careful with a woman because for twenty-five years he thought he knew which one he was.
 
-**A MAN AND A WOMAN MET ON A PARADE ON THE THURSDAY OF THE THIRTEENTH OF AUGUST 2019 AT ABOUT A QUARTER TO TWELVE IN THE MORNING AND STOOD ABOUT A YARD APART FOR NINE SECONDS AND SAID GOOD MORNING TWICE, AND NEITHER OF THEM SAID ONE WORD ABOUT A BLUE UMBRELLA THAT WAS IN A ENTRANCE ON THE FOURTH OF JUNE 1994.**
+**A MAN AND A WOMAN MET ON A PARADE ON THE TUESDAY OF THE THIRTEENTH OF AUGUST 2019 AT ABOUT A QUARTER TO TWELVE IN THE MORNING AND STOOD ABOUT A YARD APART FOR NINE SECONDS AND SAID GOOD MORNING TWICE, AND NEITHER OF THEM SAID ONE WORD ABOUT A BLUE UMBRELLA THAT WAS IN AN ENTRANCE ON THE FOURTH OF JUNE 1994.**

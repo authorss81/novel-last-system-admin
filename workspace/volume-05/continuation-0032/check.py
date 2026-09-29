@@ -67,9 +67,37 @@ CARD_BARS = {
 }
 
 # Objects spent by 495-504 as objects, not only as chapters.
-SPENT_495_504 = ['stair', 'doorway', 'doorstep', 'bus stop', 'passage',
+SPENT_495_504 = ['stair', 'stairs', 'staircase', 'stairwell', 'step', 'steps',
+                 'doorway', 'doorstep', 'bus stop', 'passage',
                  'telephone box', 'kitchen door', 'table', 'washing line',
                  'shuttering']
+
+# 0032 could not see a flight of STEPS because the list held only STAIR.
+# A bar that is only tested at the end is a bar that has already been broken.
+
+# The general barred-object list printed at the foot of the TEN CARDS section
+# of PROMPT.md, transcribed whole and in order.  0032 left thirteen of these
+# out of the list above, which is how TRAY survived eleven uses in 0507 and
+# BED survived three in 0505.  A WRITER OF 0033 COPIES THIS BLOCK RATHER THAN
+# SHORTENING IT, AND A CARD MAY NOT BE NARROWED TOWARD THE PROSE AFTERWARDS
+# SO AS TO MAKE THE COUNT PASS.
+GENERAL_BARRED = [
+    'counter', 'lock-up', 'mat', 'sink', 'saucer', 'reel', 'stack of iron',
+    'picture frame', 'case', 'blanket', 'stool', 'bed', 'stump', 'fence',
+    'bulb', 'clock', 'tray', 'knot', 'rope', 'chair', 'armchair', 'card',
+    'bracket', 'drawer', 'envelope', 'stone', 'rug', 'bottle', 'letterbox',
+    'handrail',
+]
+
+# Motif phrases, capped at twice in a chapter and not counting a dateline.
+MOTIFS = ['four hundred yards', 'there is no form in this borough',
+          'nobody is required', 'a borrowed city', 'a friday', 'a tuesday']
+
+# Words the account has closed.  Measured on a word boundary and on the
+# substring, because a closed word inside a hyphenated compound is still there.
+CLOSED = ['thank', 'eleven', 'forty', 'spring', 'winter', 'autumn', 'drain',
+          'hose', 'warden', 'jonas', 'mercer', 'nell', 'ardent', 'saucer',
+          'sink', 'mat', 'reel', 'stool', 'bulb', 'tray', 'blanket']
 
 FILLER = ['one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight',
           'nine', 'ten', 'twelve', 'twenty', 'thirty', 'forty', 'fifty',
@@ -112,12 +140,22 @@ def main():
         for w in FILLER:
             n = len(re.findall(r'\b%s\b' % w, low))
             filler_tot[w] += n
-        bars = list(GLOBAL_ZERO) + CARD_BARS.get(ch, []) + SPENT_495_504
+        bars = list(GLOBAL_ZERO) + GENERAL_BARRED + CARD_BARS.get(ch, []) \
+            + SPENT_495_504
         hits = []
         for b in sorted(set(bars)):
             n = len(re.findall(r'\b%s\b' % re.escape(b.lower()), low))
-            if n:
+            # "o'clock" is an hour, not the barred object.  Same for
+            # "flower bed", which is a border and not the barred furniture.
+            n -= len(re.findall(r"o'%s\b" % re.escape(b.lower()), low))
+            n -= len(re.findall(r'flower %s\b' % re.escape(b.lower()), low))
+            if n > 0:
                 hits.append('%s=%d' % (b, n))
+        motifs = []
+        for m in MOTIFS:
+            n = len(re.findall(re.escape(m), low))
+            if n:
+                motifs.append('%s=%d' % (m, n))
         subs = []
         for b in ('thank', 'forty', 'eleven'):
             n = len(re.findall(b, low))
@@ -127,6 +165,7 @@ def main():
         print('%d  w=%4d  caps=%d  ---=%d  %s'
               % (ch, words(body), len(caps_blocks(t)), breaks(t),
                  ('BARS: ' + ', '.join(hits)) if hits else 'bars 0')
+              + ('  || MOTIFS: ' + ', '.join(motifs) if motifs else '')
               + ('  || ' + ', '.join(subs) if subs else '')
               + ('  (forty-one/two: %d)' % forty1 if forty1 else ''))
         total_w += words(body)

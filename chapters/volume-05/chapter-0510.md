@@ -8,7 +8,7 @@ He has spoken to her three times in his life.
 
 The first was back in 2015, outside a place on the parade, and he said the price of something before he asked what it was. The second was in about 2016 and was two words about a door being in the way. The third is the fourth of June.
 
-They are not neighbours. Neither of them knows where the other one lives, neither has ever found out, and that has been true on about three hundred separate occasions since 2015.
+They are not neighbours. Neither of them knows where the other one lives, neither has ever found out, and that has been true every single time they have met since 2015.
 
 
 Here is what he said, and it is one sentence, and he could not have told you one word of it on any day since.
@@ -17,7 +17,7 @@ It was a little after ten in the morning and there were about ten people in that
 
 She was two places in front of him.
 
-He said — and this is the sentence, and he has gone back to it about four hundred times since:
+He said — and this is the sentence, and he has gone back to it a great many times since:
 
 "You'll be all right with it."
 
@@ -29,9 +29,9 @@ And he said, "Sorry. I was talking to you. You'll be all right with it."
 
 And she said, "Right."
 
-And then his turn came and he went in, and it took about six minutes inside, and he came out and went down the street, and he did not think about it again until about half past nine that night when he got into bed.
+And then his turn came and he went in, and it took about six minutes inside, and he came out and went down the street, and he did not think about it again until about half past nine that night when he got home.
 
-That is the whole of the event: seven words and about seven seconds, on a Tuesday.
+That is the whole of the event: one sentence, said twice, and about seven seconds, on a Tuesday in June.
 
 
 And what she took from it is this, and she has never put it down and has not told a person.
@@ -51,7 +51,7 @@ And what he took from it, on the night of the fourth of June, was that he had be
 
 That is the whole of it and it has cost him nine weeks.
 
-He got into bed and it came to him that he had said it to the back of a stranger's head in a line of people without knowing who she was, and that the sentence he had said was the sort of sentence that requires a conversation to be in progress, and that there was no conversation, and that she had had to turn round.
+He got home and it came to him that he had said it to the back of a stranger's head in a line of people without knowing who she was, and that the sentence he had said was the sort of sentence that requires a conversation to be in progress, and that there was no conversation, and that she had had to turn round.
 
 And he has been through it every day since.
 
@@ -72,7 +72,7 @@ And on the sixth of August, this Tuesday, at about ten past ten in the morning, 
 
 Here is how that happened and neither of them arranged it.
 
-He goes up that street on a Tuesday because his work is at the top of it. She goes down that street on a Tuesday because she has been going down it since about 2015 and has never had a reason.
+He goes up that street on a Tuesday because his work is at the top of it. She goes down that street on the same day of the week because she has been going down it since 2015 and has never had a reason.
 
 They came towards each other at about a quarter past ten and passed, and he was on her left and she was on his right, and there were about four yard between them at the closest point.
 
@@ -105,6 +105,6 @@ If she remembers it then he has insulted a woman he has never met and she has be
 And that is the version he has been carrying, and it is entirely a fact about him.
 
 
-At about half past two on that Tuesday she was in a kitchen on a street two hundred yard off that pavement and she was putting a new washer into a thing that had been dripping, and she stopped halfway through it, with the washer in her fingers, for no reason she could put into words, and then carried on.
+At about half past two on that Tuesday she was in a kitchen on a street two hundred yard off that pavement, cutting the crusts off a loaf for a man's lunch, and she stopped in the middle of the second one with the knife not moving, for about half a minute, for no reason she could put into words, and then carried on.
 
 **A MAN WALKED UP A STREET ON THE TUESDAY OF THE SIXTH OF AUGUST 2019 AT A QUARTER PAST TEN IN THE MORNING AND A WOMAN WALKED DOWN THE SAME STREET AND THEY PASSED EACH OTHER WITH ABOUT FOUR YARD BETWEEN THEM AND NEITHER OF THEM SPOKE.**

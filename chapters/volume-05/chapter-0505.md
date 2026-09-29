@@ -2,7 +2,7 @@
 
 The Saturday of the thirteenth of July 2019, and the whole of it lay between about a quarter past nine and about four in the afternoon. A terrace of fourteen houses, and the hill that goes down from it to the water, in Tideglass.
 
-**A MAN WENT DOWN THAT HILL EVERY MORNING AT ABOUT HALF PAST SIX AND INTO THE BATHS AND WAS BACK ON THAT TERRACE BY NINE, AND HE DID IT EVERY MORNING SINCE THE SUMMER OF 2015, AND ON THE FRIDAY OF THE FIFTH OF JULY HE DID NOT, AND HE HAS SAID NOTHING TO HIS WIFE SINCE, AND SHE FOUND THE NAIL BARE ON THE SATURDAY SIXTH, AND THERE IS NO WAY FOR HER TO RAISE IT, BECAUSE THE ONLY VERSION OF THAT QUESTION WHICH WORKS TELLS HIM WHAT SHE HAS BEEN DOING WITH HER EARS, AND WHAT HE GAVE FOR IT IS IN HIS OWN SPINE AND WHAT SHE IS CARRYING IS SEVEN DAYS OF KNOWING WITH NOWHERE TO SPEND IT.**
+**A MAN WENT DOWN THAT HILL EVERY MORNING AT ABOUT HALF PAST SIX AND INTO THE BATHS AND WAS BACK ON THAT TERRACE BY NINE, AND HE DID IT EVERY MORNING SINCE THE SUMMER OF 2015, AND ON THE FRIDAY OF THE FIFTH OF JULY HE DID NOT, AND HE HAS SAID NOTHING TO HIS WIFE SINCE, AND SHE FOUND THE NAIL BARE ON THE SATURDAY SIXTH, AND THERE IS NO WAY FOR HER TO RAISE IT, BECAUSE THE ONLY VERSION OF THAT QUESTION WHICH WORKS TELLS HIM WHAT SHE HAS BEEN DOING WITH HER EARS, AND WHAT HE GAVE FOR IT IS THE SECOND OF TWO BAD DISCS IN HIS BACK, WHICH IS THE ONE HE HAS NEVER TOLD HER ABOUT, AND WHAT SHE IS CARRYING IS SEVEN DAYS OF KNOWING WITH NOWHERE TO SPEND IT.**
 
 He was in the building trade until 2008 and came off it in a fortnight and has done a bit of this and that since without it amounting to anything anybody could call work. He has two bad discs and one of them is worse than the other, and he has known for about two years that swimming is the only thing he has found that keeps him able to get out of a bath at night.
 
@@ -33,7 +33,7 @@ There was nothing on the nail. The line behind the house had nothing on it eithe
 
 She stood in that room for about a minute.
 
-Then she made the bed and did the things she does, and at about half past nine she went down and sat on the front step for ten minutes or so in the sun.
+Then she did the things she does, and at about half past nine she went down and sat on the front step for ten minutes or so in the sun.
 
 
 And here is the whole of what he did on the Friday, and it took him about four seconds to decide and it will take him a long time to put into words.
@@ -62,9 +62,9 @@ She stood at the bottom of those steps and looked at the nail for the count of f
 
 And on this Saturday, the thirteenth, seven days after she found out, here is what happened.
 
-He got up at about six as he does, and he did not put his socks on, and he sat on the edge of the bed until he had counted sixty, and then he got up and went down and put the towel on the nail where it lives, wet, because it had been in the cupboard since Friday and he had run it under the hot tap in the kitchen at about ten to six that morning and it was running over the side of the bowl and onto the floor, which she has not mentioned and has been hearing since.
+He got up at about six as he does, and he did not put his socks on, and he stood at the bottom of those steps in his dressing gown with one sock on until he had counted sixty, and then he went back up and put the towel on the nail where it lives, wet, because it had been in the cupboard since Friday and he had run it under the hot tap in the kitchen at about ten to six that morning and it was running over the side of the bowl and onto the floor, which she has not mentioned and has been hearing since.
 
-And she came down at about seven and saw it and stood behind her and said nothing.
+And she came down at about seven and saw it and stood behind him and said nothing.
 
 He said, "That's gone down with the water."
 
@@ -77,7 +77,7 @@ What she has been doing about it is nothing. What she has been doing inside it i
 
 She has worked out that she cannot ask him why he stopped, and the reason is not kindness and it is not manners.
 
-If she asks, then from that moment the two of them are two people who have been keeping a count. And he has not kept a count. He has got out of bed and gone down a hill. She has listened to steps and a door and a door again since 2015 and that is a thing she has done without ever once putting her hand on it or looking at it, and it is hers and she has never had to be a person who does it.
+If she asks, then from that moment the two of them are two people who have been keeping a count. And he has not kept a count. He has got up in the dark and gone down a hill. She has listened to steps and a door and a door again since 2015 and that is a thing she has done without ever once putting her hand on it or looking at it, and it is hers and she has never had to be a person who does it.
 
 Asking would hand it to him. It would say: I have been listening to those steps since before we were married, and I know what a missing morning sounds like.
 
@@ -90,9 +90,7 @@ She came down a little after seven and he was in the front room and she said, "A
 
 And he said, "No."
 
-And she said, "Right."
-
-And she went and made the tea and that was the whole of the Sunday.
+Then she said, "Right," and went and made the tea, and that was the whole of the Sunday.
 
 He has had three appointments in his life about his back and has told her about one of them.
 
@@ -115,10 +113,10 @@ That is the whole of it, and there is nothing in it about the water.
 It took him about three weeks to work out what he had lost. It was not the swimming. It was being a man walking towards something at six in the morning.
 
 
-At about four o'clock on the afternoon of the thirteenth a man from the top of that terrace walked over to number nine with a drill and put a new washer on the back door of number seven, which has been swinging loose since the Thursday, and the two of them were out on the step for about half an hour while he did it.
+At about four o'clock on the afternoon of the thirteenth a man from the top of that terrace came down that hill and stopped outside number nine and stood there for about half an hour, and he did not say what he had come for, and she asked him twice and he said he would think of it, and the two of them were out on the step with him for the best part of it.
 
-She came out with two cups of tea on a tray and gave one to her husband and one to the man, and none of them said anything about anything.
+She came out with two cups of tea and gave one to her husband and one to the man, and none of them said anything about anything.
 
-At about twenty past four the man went up with the drill and she went in, and her husband stayed out on the step for another half an hour, and that is the whole of the thirteenth of July 2019 in that house.
+At about twenty past four the man went back up that hill and she went in, and her husband stayed out on the step for another half an hour, and that is the whole of the thirteenth of July 2019 in that house.
 
-**A MAN SAT ON THE FRONT STEP OF NUMBER NINE ON THAT TERRACE FROM ABOUT A QUARTER PAST NINE UNTIL ABOUT HALF PAST FOUR ON THE SATURDAY OF THE THIRTEENTH OF JULY 2019 WITH A CUP BESIDE HIM ON THE BRICK, AND AT ABOUT TEN TO SEVEN THAT MORNING HIS WIFE HAD CAME DOWN AND STOOD BEHIND HIM AND LOOKED AT A WET TOWEL ON A NAIL AND SAID NOTHING.**
+**A MAN SAT ON THE FRONT STEP OF NUMBER NINE ON THAT TERRACE FROM ABOUT A QUARTER PAST NINE UNTIL ABOUT HALF PAST FOUR ON THE SATURDAY OF THE THIRTEENTH OF JULY 2019 WITH A CUP BESIDE HIM ON THE BRICK, AND AT ABOUT TEN TO SEVEN THAT MORNING HIS WIFE HAD COME DOWN AND STOOD BEHIND HIM AND LOOKED AT A WET TOWEL ON A NAIL AND SAID NOTHING.**

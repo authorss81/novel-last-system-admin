@@ -6,7 +6,7 @@ The Wednesday of the seventeenth of July 2019, that morning only, and not for lo
 
 The garden is about two hundred yard long along a path and about thirty yard wide, and nobody owns it and nobody has to look after it, and there is a railing round three sides of it and a brick wall along the fourth that stands about four foot higher than the others and goes on past the end of the path.
 
-There are nine benches in that garden and all nine of them stand on the path, and eight of them face the flower bed and one of them faces the wall, and nobody has ever known why.
+There are nine benches in that garden and all nine of them stand on the path, and eight of them face the flower border and one of them faces the wall, and nobody has ever known why.
 
 She is sixty-four or thereabouts and has been in this borough since 1979 and has been on that path since 2007.
 
@@ -17,13 +17,13 @@ She goes in by the railings at the wall. She walks the length of the path and sh
 
 Seven of them are where they go.
 
-One of them is on the grass, or turned round, or has been shoved along about a foot so that it is not opposite the bed.
+One of them is on the grass, or turned round, or has been shoved along about a foot so that it is not opposite the border.
 
 One of them is facing the wall.
 
 And she puts them back. That is the whole of it, and she has never once done it in a hurry and she has never once done it with anything in her hands, and it takes her about twelve minutes.
 
-On a Sunday in August last year a man who goes in there on Sundays counted it. He has counted it about thirty times since and he has a figure, and the figure is about twelve minutes, and he has never once said that figure out loud to anybody until this July.
+On a Sunday in August last year a man who goes in there on Sundays counted it. He has counted it about thirty times since and he has a figure, and the figure is twelve minutes, and he has never once said that figure out loud to anybody until this July.
 
 She has never known that there is a man in that garden who counts.
 
@@ -36,14 +36,14 @@ What he has done is not watched her. That is not what it is and he has been care
 
 He worked out who in about the second year.
 
-She comes in the second year. She has come in every Sunday since. He has never been in there on the same part of the round as her, because she is there and gone by about twenty to ten and he is there about ten, and in seven years the two of them have been within about thirty yard of each other perhaps two hundred times and have never had a sentence.
+She comes in the second year. She has come in every Sunday since. He has never been in there on the same part of the round as her, because she is there and gone by twenty to ten and he is there about ten, and in seven years the two of them have been within thirty yard of each other perhaps two hundred times and have never had a sentence.
 
 
 What happened in July is this.
 
 She went away on the Monday the eighth and came back on the Saturday the thirteenth.
 
-That is all there is to say about it and it is not the point. The point is what a Sunday morning is for, and she has had about four hundred of them, and she went away for one week and came back, and on the Sunday the fourteenth she stayed in the house, and she has not managed a reason for that in three days.
+That is all there is to say about it and it is not the point. The point is what a Sunday morning is for, and she has had four hundred of them, and she went away for one week and came back, and on the Sunday the fourteenth she stayed in the house, and she has not managed a reason for that in three days.
 
 Then on the morning of the Wednesday the seventeenth she got up at half past six, which she does not do.
 
@@ -52,17 +52,17 @@ She was in the garden at about half past eight and she had not meant to be there
 
 And he was there before her.
 
-He had not been in that garden on a Wednesday in seven years and he had not been in it before nine since about 2014, and he had got there at about ten past eight and had stood at the railings by the wall for about four minutes without going in, and then had gone in and walked to the far end and come back and looked at the nine benches.
+He had not been in that garden on a Wednesday in seven years and he had not been in it before nine since about 2014, and he had got there at about ten past eight and had stood at the railings by the wall for four minutes without going in, and then had gone in and walked to the far end and come back and looked at the nine benches.
 
 The seventh one was on the grass.
 
 He stood looking at it for the best part of a minute.
 
-Then he lifted it — it is a cast thing and it weighs more than a man expects — and carried it up onto the path, and set it down opposite the bed, where the other seven are.
+Then he lifted it — it is a cast thing and it weighs more than a man expects — and carried it up onto the path, and set it down opposite the border, where the other seven are.
 
-And then he did the thing that this chapter is about, and he did it in about four seconds and he has not stopped being able to explain why.
+And then he did it, and he did it in four seconds and he has not stopped being able to explain why.
 
-He put the eighth bench where it goes. He put the last one where it goes. And then he went back to the seventh and moved it two feet along, so that it was opposite the gap in the flower bed rather than opposite the bed itself, where all the other eight are.
+He put the eighth bench where it goes. He put the last one where it goes. And then he went back to the seventh and moved it two feet along, so that it was opposite the gap in the flower border rather than opposite the border itself, where all the other eight are.
 
 It is a two-foot difference. A person who did not know would not see it in a year.
 
@@ -78,14 +78,14 @@ Then she went on to the seventh one.
 
 She stood in front of it for about four seconds, and she looked at it, and she looked along the line at the other eight, and then she looked back at the two feet.
 
-Then she walked on to the eighth and on to the last one, and both of those were as they should be, and she came back to the seventh and picked it up and carried it two feet along and set it down opposite the bed.
+Then she walked on to the eighth and on to the last one, and both of those were as they should be, and she came back to the seventh and picked it up and carried it two feet along and set it down opposite the border.
 
 And she wiped the place on the paint where her hand had been with the side of her other hand, which is a thing she does.
 
 And that is the whole of what happened in that garden on the morning of the seventeenth of July.
 
 
-He was on the second bench at that point and he had been there for about four minutes and he had a cup in his hand.
+He was on the second bench at that point and he had been there for four minutes and he had a cup in his hand.
 
 Here is what each of them did, and neither of the pair has any idea how the other one handled it.
 

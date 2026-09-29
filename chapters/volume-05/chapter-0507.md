@@ -2,7 +2,7 @@
 
 The Monday of the twenty-second of July 2019, from about twenty past twelve in the afternoon until about ten past eight in the evening. A street of nineteen houses and a kitchen at number fourteen, in Tideglass.
 
-**A SUNDAY WAS DIVIDED IN A YARD IN 2009 BY TWO YOUNG MEN WHO AGREED IT IN ONE SENTENCE AND HAVE NEVER SPOKEN OF IT SINCE, AND EACH OF THEM BELIEVED HE HAD LEFT THE AFTERNOON TO HIS BROTHER, AND SHE HAS HAD AN EMPTY AFTERNOON EVERY SUNDAY FOR TEN YEARS, AND THE YOUNGER ONE FOUND THAT OUT ON THE SEVENTEENTH OF JUNE AND HAS SAID NOTHING TO ANYBODY SINCE, WHICH IS FIVE WEEKS, AND ON THE TWENTY-SECOND OF JULY HE WAS FLAT ON THE FLOOR UNDER THE TAPS FROM TWENTY PAST TWELVE UNTIL ABOUT HALF PAST THREE.**
+**A SUNDAY WAS DIVIDED IN A YARD IN 2009 BY TWO YOUNG MEN WHO AGREED IT IN ONE SENTENCE AND HAVE NEVER SPOKEN OF IT SINCE, AND EACH OF THEM BELIEVED HE HAD LEFT THE AFTERNOON TO HIS BROTHER, AND SHE HAS HAD AN EMPTY AFTERNOON EVERY SUNDAY FOR TEN YEARS, AND THE YOUNGER ONE FOUND THAT OUT ON THE SEVENTEENTH OF JUNE AND HAS SAID NOTHING TO ANYBODY SINCE, WHICH IS FIVE WEEKS, AND ON THE TWENTY-SECOND OF JULY HE SAT IN HER FRONT ROOM FROM TWENTY PAST TWELVE UNTIL ABOUT HALF PAST THREE WITH A FLASK AND NO REASON FOR BEING IN THAT HOUSE AT ALL ON A MONDAY.**
 
 They are brothers, and they have never in their lives had a quarrel about anything a person could record. Their mother is at number fourteen of that street, has been there since 1974, and has the whole of the ground floor to herself.
 
@@ -38,10 +38,10 @@ He was nineteen and the whole of it, to him, was that his mother did not want a 
 
 So he took the afternoon. He has done the afternoon for ten years. He has gone at about half past one, and got there a bit before, and gone at about half past two, and he has never once been late and he has never once stayed.
 
-**They have both been at that house at seven in the evening on a Sunday for ten years, and each believed the other was there in the afternoon.**
+So for ten years both of them have gone to that house at seven in the evening on a Sunday, and each believed the other was there in the afternoon, and their mother has had nobody in the afternoon.
 
 
-What happened on the seventeenth of June is the whole of this chapter and it took about ninety seconds.
+What happened on the seventeenth of June is the whole of it and it took about ninety seconds.
 
 He had gone at one, as he is. Their mother made him a cup of tea and he drank it standing up, because the seat by the window has been wobbling since about 2006 and he has never sat in it.
 
@@ -93,21 +93,21 @@ Now the Monday, the twenty-second of July.
 
 The cold tap in that kitchen has been dripping since about the middle of May. It is a slow drip and it goes into a shallow thing made of steel that has been there since the house was new, and it has a rhythm to it that their mother has described in the last fortnight as like somebody knocking.
 
-He had been in that house at one on the Sunday before, as he is, and had seen it, and on the Friday he had watched a man on the television take a washer out of a tap in about four seconds.
+He had been in that house at one on the Sunday before, as he is, and had heard that from the front room, and had worked out on the walk home that he could put a new washer in that in about four minutes with a pair of pliers and about sixpence.
+
+He worked out that on the walk home, and then worked out on the Saturday that he was not going to, and could not have put a reason for that to anybody including himself, and it was not the tap.
 
 So he came at twenty past twelve on the Monday, which is not when he comes, and she let him in before she had the chain off.
 
 He had his father's flask with him. Everybody in that family has had a flask like that. There are three of them, they are all the same, and none is worth anything.
 
-He put it on the low chest by the door and she said she would not have any and he said she could have some anyway, and she had some, and it was very strong, and she drank about half of it.
+He put it down where the milk jug stands and she said she would not have any and he said she could have some anyway, and she had some, and it was very strong, and she drank about half of it.
 
-He had it underneath on his knees on the tiles from about ten past one until about half past two, and got the old washer out and a new one in, and it does not drip.
-
-And then he sat on the edge of the bath and had the rest of the flask and looked at a thing he had never once looked at in that house, which was how the afternoons go.
+And then there was nothing for about fifty minutes. He sat on the arm of the sofa in the front room, because the seat by the window has been wobbling since about 2006 and he has never once sat in it, and she went in and out of that room four times and did not ask him what he wanted.
 
 ---
 
-Here is what an afternoon in that house is, and he has sat in four hundred of them.
+Here is what an afternoon in that house is, and he has sat in several hundred of them.
 
 The radio is on and it is never moved off that station. There is a cloth on the arm of the sofa and it is folded and it has been folded since about 2003.
 
@@ -126,20 +126,18 @@ And he said, "It is."
 
 And here is what he saw and what she did not know he saw.
 
-In the back room, under the window, there is a low chest. On the chest there is a tray. It is a wooden tray with a raised edge and it is not his mother's and it came out of his brother's car in about 2014.
+In the back room, under the window, there is a low chest. On the chest there is a folded newspaper, and standing on the newspaper there is a flask of the same make as his, and it is not empty, and there is a cup with a mark in it about two thirds of the way up, and a second folded newspaper has been put down underneath them with a cup ring on it.
 
-There is a flask on it of the same make as his, and it is not empty, and there is a cup on the tray with a mark in it about two thirds of the way up, and a folded newspaper with a cup ring on it.
+That has been on that chest since 2014 and it has been put away in a cupboard in the front room for every weekday morning and evening since, and there is a cloth over it, and it comes out on a Sunday at about half past six and it goes back at about nine.
 
-That tray has been on that chest since 2014 and it has been put away in a cupboard in the front room for every weekday morning and evening since, and there is a cloth over it, and it comes out on a Sunday at about half past six and it goes back at about nine.
+He has stood in that kitchen ten Sundays a year for ten years and he has never once asked what the flask and the cup on that chest were for, because everybody in that house has never once asked what they were for.
 
-He has stood in that kitchen ten Sundays a year for ten years and he has never once asked what the tray was for, because everybody in that house has never once asked what the tray was for.
-
-He looked at the cup with the mark in it for about four seconds. Then he finished his tea, put the cup on the rack, washed the flask out under the tap, and left at about half past three.
+He looked at the cup with the mark in it for about four seconds. Then he finished his tea, washed the flask out under the tap, and left at about half past three.
 
 
 And at about ten past seven his brother came.
 
-The younger brother was two miles away and had said he would come and did not, and his mother let him in and he went straight through to the back room and put the tray on the chest and put the kettle on and came back out and sat down.
+The younger brother was two miles away and had said he would come and did not, and his mother let him in and he went straight through to the back room and put the flask and the cup down on the chest and put the kettle on and came back out and sat down.
 
 And they had about three quarters of an hour of it, and the younger of them went at about half past seven.
 
@@ -148,7 +146,7 @@ They have never once been in that house together on a Sunday in twenty-eight yea
 
 Here is what each of them is carrying on the twenty-second of July, and they are not carrying the same thing.
 
-He is carrying the cup with the mark in it. What it tells him is that his brother has been coming to that house at half past six for ten years, putting a flask on a tray out of a cupboard, washing up after himself and going at about nine, and has never once sat in that front room and said a word about any of it.
+He is carrying the cup with the mark in it. What it tells him is that his brother has been coming to that house at half past six for ten years, setting a flask and a cup down on that chest, washing up after himself and going at about nine, and has never once sat in that front room and said a word about any of it.
 
 Which means the man he has spent five weeks deciding what to say to is not a man who has had ten years of an arrangement. He is a man who has had ten years of a Sunday, at seven o'clock, on his own, in a house where his mother has been getting up at half past five.
 
@@ -159,8 +157,8 @@ She is carrying something too, and she is not going to put it down, and she has 
 
 What she said on the seventeenth of June was not a complaint and was not offered as one. She said it because he had asked her a question about the March and had not taken the first answer she gave him.
 
-And what it did was put two facts side by side in a kitchen that had been keeping them apart for ten years, and there is no version of a Monday afternoon in that kitchen with a man flat on the floor under the taps where those two facts do not sit in the room.
+And what it did was put two facts side by side in a kitchen that had been keeping them apart for ten years, and there is no version of a Monday afternoon in that kitchen with a man in it for three hours over a flask where those two facts do not sit in the room.
 
-And on the twenty-second of July a man who has asked nothing since sat in her kitchen for three hours with a flask and fixed the tap, and she did not mention the tray and he did not mention the tray, and she took his cup and washed it and he said the tea was strong and she said it was his father's, and he said he knew it was, and she said nothing.
+And on the twenty-second of July a man who has asked nothing since sat in her front room for three hours with a flask and nothing to do, and she did not mention what was on that chest and he did not mention what was on that chest, and she took his cup and washed it and he said the tea was strong and she said it was his father's, and he said he knew it was, and she said nothing.
 
-**A MAN WENT INTO A HOUSE AT NUMBER FOURTEEN ON THE MONDAY OF THE TWENTY-SECOND OF JULY 2019, WENT FLAT ON THE TILES UNDER THE TAPS, PUT A NEW WASHER IN A TAP THAT HAD BEEN DRIPPING SINCE MAY, DRANK A FLASK OF TEA THAT WAS FAR TOO STRONG, SAW A CUP WITH A MARK IN IT ON A TRAY BY THE WINDOW, AND LEFT AT HALF PAST THREE.**
+**A MAN WENT INTO A HOUSE AT NUMBER FOURTEEN ON THE MONDAY OF THE TWENTY-SECOND OF JULY 2019, SAT IN HER FRONT ROOM FOR THREE HOURS OVER A FLASK HE HAD NO REASON TO BRING, AND LOOKED FOR FOUR SECONDS AT A CUP WITH A MARK IN IT STANDING ON A CHEST UNDER THE BACK WINDOW, AND LEFT AT HALF PAST THREE.**

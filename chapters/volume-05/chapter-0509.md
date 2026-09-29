@@ -2,7 +2,7 @@
 
 The Friday of the second of August 2019, from a quarter past seven until about half past nine, with nothing else in it. A block of flats and the inside of it, in Tideglass.
 
-**SIX YEARS OF A CAN OF WATER UP THOSE STEPS, EVERY MORNING BUT THE SUNDAY, AND IN THE FIRST WEEK OF JULY A MAN ABOVE HER PUT HIS HAND ON THE HANDLE OF IT, WITHOUT BEING ASKED AND WITHOUT SAYING ANYTHING, AND SHE KEPT HER OWN HAND ON THE HANDLE ANYWAY FOR A FORTNIGHT, SO THAT FOR A FORTNIGHT THERE WERE TWO CANS GOING UP AND ONE OF THEM WAS NOT HER CAN, AND ON THE SIXTEENTH OF JULY SHE PUT ONE QUESTION TO HIM AND GOT BACK SOMETHING THAT WAS NOT AN ANSWER TO IT, AND THAT DOOR HAS NOT BEEN OPENED AT HALF PAST SEVEN ON A SINGLE MORNING SINCE THE END OF THAT MONTH.**
+**SIX YEARS OF A CAN OF WATER UP THOSE STEPS, EVERY MORNING BUT THE SUNDAY, AND IN THE FIRST WEEK OF JULY A MAN ABOVE HER PUT HIS HAND ON THE HANDLE OF IT, WITHOUT BEING ASKED AND WITHOUT SAYING ANYTHING, AND SHE KEPT HER OWN HAND ON THE HANDLE ANYWAY FOR A FORTNIGHT, SO THAT FOR A FORTNIGHT THERE WERE TWO HANDS ON ONE CAN GOING UP AND BOTH OF THEM BELONGED TO HER, AND ON THE SIXTEENTH OF JULY SHE PUT ONE QUESTION TO HIM AND GOT BACK SOMETHING THAT WAS NOT AN ANSWER TO IT, AND THAT DOOR HAS NOT BEEN OPENED AT HALF PAST SEVEN ON A SINGLE MORNING SINCE THE END OF THAT MONTH.**
 
 The block is thirty-one flats and it goes up three floors and there is no water on the third floor at all. There has not been water on the third floor since the building went up.
 
@@ -36,7 +36,7 @@ At the top he held the door and she went past him with the can and set it on the
 And that was the Tuesday.
 
 
-And here is what she did, and it is the part this chapter is about.
+And here is what she did, and it is the part of it that is hers.
 
 She carried it herself the next morning, at a quarter past seven, and he came out and took the weight of it off her again at the bottom of those steps. She carried it again on the Wednesday, and again on the Thursday, and again on the Friday, and again on the Saturday.
 
@@ -100,7 +100,9 @@ Here is the rest of it on that morning, and none of it is about her.
 
 At about twenty past eight the woman at number fifteen came down those steps with her shopping and stopped where the can was standing.
 
-That is all she did. She put a foot to it and turned it about a foot round so that the handle faced out instead of in, the way it is supposed to face, and she went on down.
+It had been standing at the top of that flight every morning for six years with the handle turned in against the wall, because that is the way it goes up and she has never once turned it round.
+
+That is all she did. She put a foot to it and turned it about a foot so that the handle faced out instead of in, and she went on down.
 
 And the woman at number seventeen came out of her own flat at about ten past eight to bring it in, and it was the other way round.
 
@@ -108,4 +110,4 @@ And she stood at the top of those steps for about four seconds with her hand on 
 
 And she took it in, and that is the whole of the second of August in that block, and she has not mentioned it to anybody and has not asked the woman at number fifteen whether she moved it, because she knows that she did.
 
-**A WOMAN CARRIED A TWO-GALLON CAN OF WATER UP THOSE STEPS ON THE MORNING OF THE FRIDAY OF THE SECOND OF AUGUST 2019 AND NOBODY CAME OUT OF THE DOOR AT THE BOTTOM OF THEM, AND AT ABOUT TWENTY PAST EIGHT A WOMAN FROM NUMBER FIFTEEN TURNED IT ABOUT A FOOT ROUND AT THE TOP OF THOSE STEPS SO THAT THE HANDLE FACED OUT AND WENT ON DOWN.**
+**A WOMAN CARRIED A TWO-GALLON CAN OF WATER UP THOSE STEPS ON THE MORNING OF THE FRIDAY OF THE SECOND OF AUGUST 2019 AND NOBODY CAME OUT OF THE DOOR AT THE BOTTOM OF THEM, AND AT ABOUT TWENTY PAST EIGHT A WOMAN FROM NUMBER FIFTEEN TURNED IT ABOUT A FOOT ROUND AT THE TOP OF THOSE STEPS SO THAT FOR THE FIRST TIME SINCE 2013 THE HANDLE FACED OUT WHERE IT WENT UP TURNED IN, AND WENT ON DOWN.**
