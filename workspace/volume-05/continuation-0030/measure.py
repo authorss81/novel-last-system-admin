@@ -495,8 +495,11 @@ if __name__ == '__main__':
     scan(batch_chapters(475, 484), batch_chapters(465, 474),
           label='CONTROL 2: the ten against the ten immediately above')
     import tempfile
+    # THE PLANT MUST COME FROM A CHAPTER IN THIS BATCH, OR THE CONTROL
+    # MEASURES A CHAPTER AGAINST A SET IT IS NOT IN AND COMES BACK NIL FOR
+    # THE WRONG REASON. 0029's driver took it from 0482 and got zero.
     src = blocks_with_kinds(os.path.join(REPO, 'chapters', 'volume-05',
-                                         'chapter-0482.md'))
+                                         'chapter-0485.md'))
     para = [b for b, d in src if len(TOK.findall(b.lower())) > 40][0]
     ptoks = TOK.findall(para.lower())[:14]
     with tempfile.NamedTemporaryFile('w', suffix='.md', delete=False) as fh:
