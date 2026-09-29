@@ -221,7 +221,10 @@ jobs:
           git push origin HEAD:main
           echo "created=true" >> "$GITHUB_OUTPUT"
       - name: Re-dispatch next tick
-        if: steps.phase.outputs.exists == 'true' || steps.seed.outputs.created == 'true'
+        # Only a successful run re-dispatches immediately. A failed run is left
+        # to the schedule, so a run that fails instantly (bad secret, syntax
+        # error, ignored-file abort) cannot spin at full speed.
+        if: needs.run-batch.result == 'success' && (steps.phase.outputs.exists == 'true' || steps.seed.outputs.created == 'true')
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
