@@ -24,32 +24,53 @@ if [ -z "${OPENCODE_API_KEY:-}" ]; then
 fi
 
 phase_dir=""
-retired_changed=false
-while IFS= read -r prompt_file; do
-  candidate="$(dirname "$prompt_file")"
-  if [ -f "$candidate/.retired" ]; then
-    continue
-  fi
-  if grep -qi '^Retired .*phase' "$prompt_file"; then
-    touch "$candidate/.retired"
-    retired_changed=true
-    continue
-  fi
-  # A volume outline phase whose outline file already exists has no work left.
-  # The writer correctly changes nothing, so without this the phase burns its
-  # attempts on empty runs and then blocks itself. Retire it instead. The extra
-  # "no chapters written" guard keeps writer and close phases out of this rule.
-  if [ ! -f "$candidate/.done" ]; then
+
+# Cleanup pass over every phase prompt, run before selection and without an early
+# exit. A volume outline phase whose outline file already exists has no work
+# left, so the writer correctly changes nothing; without this the phase burns
+# its attempts on empty runs and then blocks itself. Selection cannot do this
+# because it stops at the first eligible phase, and an obsolete phase often
+# sorts after the phase that is actually pending.
+retire_obsolete_phases() {
+  local changed=false prompt_file candidate first_line_lc outline_vol
+  while IFS= read -r prompt_file; do
+    candidate="$(dirname "$prompt_file")"
+    if [ -f "$candidate/.retired" ] || [ -f "$candidate/.done" ]; then
+      continue
+    fi
+    if grep -qi '^Retired .*phase' "$prompt_file"; then
+      echo "Retiring $candidate: prompt is marked retired"
+      touch "$candidate/.retired"
+      changed=true
+      continue
+    fi
+    # The "no chapters written" guard keeps writer and close phases out.
     first_line_lc="$(head -n 1 "$prompt_file" | tr '[:upper:]' '[:lower:]')"
     if [[ "$first_line_lc" =~ volume[[:space:]]+([0-9]+).*outline.*phase ]]; then
       outline_vol="${BASH_REMATCH[1]}"
       if [ -f "outline/volume-${outline_vol}.md" ] && ! find "$candidate" -name 'chapter-*.md' -print -quit | grep -q .; then
         echo "Retiring $candidate: outline/volume-${outline_vol}.md already exists"
         touch "$candidate/.retired"
-        retired_changed=true
-        continue
+        rm -f "$candidate/.deferred" "$candidate/.retry-after" "$candidate/.attempts"
+        changed=true
       fi
     fi
+  done < <(find workspace -name PROMPT.md -type f | sort)
+  if [ "$changed" = true ]; then
+    git add workspace
+    if git commit -m "novel: retire obsolete planning phases" >/dev/null; then
+      git push origin HEAD || echo "warning: could not push retirement markers" >&2
+    fi
+  fi
+  return 0
+}
+
+retire_obsolete_phases
+
+while IFS= read -r prompt_file; do
+  candidate="$(dirname "$prompt_file")"
+  if [ -f "$candidate/.retired" ]; then
+    continue
   fi
   if [ -f "$candidate/.retry-after" ] && [ "$(cat "$candidate/.retry-after")" -gt "$(date +%s)" ]; then
     continue
@@ -59,11 +80,6 @@ while IFS= read -r prompt_file; do
     break
   fi
 done < <(find workspace -name PROMPT.md -type f | sort)
-if [ "$retired_changed" = true ]; then
-  git add workspace
-  git commit -m "novel: retire obsolete planning phases" >/dev/null
-  git push origin HEAD
-fi
 
 if [ -z "$phase_dir" ]; then
   echo "No incomplete phase found"
