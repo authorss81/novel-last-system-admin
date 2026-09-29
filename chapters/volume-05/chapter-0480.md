@@ -1,6 +1,6 @@
 # Chapter 0480 — Five Weeks of a Building
 
-The Saturday of the twenty-third of March 2019, and the five weeks before it, from about eight in the morning until about a quarter to twelve. A building at the top of a street, and a scaffold that came down the day before, in Tideglass.
+The Saturday of the twenty-third of March 2019, and the five weeks before it, from about seven in the morning until about ten to eight. A building at the top of a street, and a scaffold that came down the day before, in Tideglass.
 
 **THE SCAFFOLD CAME DOWN OFF THE FRONT OF THAT BUILDING ON THE TWENTY-SECOND OF MARCH 2019, AND A MAN WHO HAD GONE PAST IT TWICE A DAY SINCE THE FIFTEENTH OF FEBRUARY STOOD ON AN EMPTY PAVEMENT AT SEVEN IN THE MORNING FOR ABOUT FOUR MINUTES WITH HIS HEAD TILTED BACK, AND THE FRONT OF THAT BUILDING IS BOARDED FROM THE GROUND TO THE SECOND FLOOR AND OPEN AND DARK ABOVE THAT, AND ON THE TOP FLOOR THERE ARE THREE OPENINGS WHERE EVERY OTHER FLOOR HAS TWO.**
 
@@ -59,7 +59,7 @@ He is not a man who is frightened of a door. He is a man who has twice been insi
 
 On the day before, the scaffold came down.
 
-He got there at about half past seven, before work, and there was nothing on the pavement where it had been, and the front of that building was boarded from the ground to the second floor and above that it was open and dark.
+He got there at about seven, before work, and there was nothing on the pavement where it had been, and the front of that building was boarded from the ground to the second floor and above that it was open and dark.
 
 He stood at the point where the ladder had been, which he knows because there is a gully off to one side of it and he watched them put it there on the first day, and he stood there for about four minutes.
 
@@ -69,4 +69,4 @@ He has been in that street about thirty times in five weeks and he has not been 
 
 He went to work at about ten to eight.
 
-**A MAN WALKED PAST A BOARDED BUILDING AT THE TOP OF THAT STREET ON THE MORNING OF THE TWENTY-THIRD OF MARCH 2019 AND DID NOT LOOK UP, AND A WOMAN WENT IN AT HALF PAST SEVEN WITH A CARRIER BAG AND STOOD IN A DOORWAY FOR ABOUT TEN MINUTES LOOKING UP AT THREE OPENINGS SHE HAS LOOKED AT EVERY DAY FOR FIVE WEEKS AND HAS NEVER ASKED ANYBODY WHAT THEY ARE FOR.**
+**A WOMAN WENT IN AT HALF PAST SEVEN ON THE MORNING OF THE TWENTY-THIRD OF MARCH 2019 WITH A CARRIER BAG AND STOOD IN A DOORWAY FOR ABOUT TEN MINUTES LOOKING UP AT THREE OPENINGS SHE HAS LOOKED AT EVERY DAY FOR FIVE WEEKS AND HAS NEVER ASKED ANYBODY WHAT THEY ARE FOR, AND A MAN WENT TO WORK AT TEN TO EIGHT, AND THE SIDE OF THAT BUILDING WAS WIDE OPEN AND DARK ABOVE THE BOARDING.**

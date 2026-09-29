@@ -4,7 +4,7 @@ The Wednesday of the tenth of April 2019, late afternoon and the first of the ev
 
 **AT ABOUT HALF PAST FOUR ON THAT WEDNESDAY A VAN CAME BACK UP THAT PARADE THE WRONG WAY LOOKING FOR A HOUSE AND WENT OVER THE CORNER OF A CONCRETE PLANTER OUTSIDE A SHOP, AND IT STOOD ABOUT FOUR INCH OFF THE WALL FOR TWENTY-NINE MINUTES WHILE PEOPLE WALKED ROUND IT, AND THEN THE DRIVER CAME BACK AND A WOMAN CAME OUT OF THE SHOP AND THEY PUT IT AGAIN BETWEEN THEM IN ABOUT FOUR MINUTES AND HE DROVE OFF AND SHE WENT IN.**
 
-A Wednesday in the last week of April in that borough is a Wednesday.
+A Wednesday in the second week of April in that borough is a Wednesday.
 
 The shops on that parade that keep all week are open until half past five and one of them until six, and the rest of them shut when they shut, and the ones that have been shut since January are shut, and there is a sandwich bar at the bottom end that does not close at all on a Wednesday, because the man in it has never worked out what time he shuts and the last customer of the day goes when he goes.
 

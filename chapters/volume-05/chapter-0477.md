@@ -18,11 +18,11 @@ The marks are on the hinge stile, the side you do not open it from, at the heigh
 
 Each of them is a short saw cut across the width of the stile, about three inch long, about a sixteenth deep, and a second cut a quarter of an inch below it, and a pencil figure beside it in the same hand.
 
-The nine of them start about two foot eight from the floor and they go up to about five foot six, and from the first of the nine to the last of the nine the step is the same every time, which is half an inch, and the figures beside them are all in the same hand and all end in the same two letters, and the pencil has not been touched since about 1974 because nobody has ever had a reason to do anything about a pencil.
+The nine of them start about four foot eight from the floor and they go up to about five foot, and from the first of the nine to the last of the nine the step is the same every time, which is half an inch, and the figures beside them are all in the same hand and all end in the same two letters, and the pencil has not been touched since about 1974 because nobody has ever had a reason to do anything about a pencil.
 
 The two lower ones are not any of that.
 
-They are about a foot below the first of the nine and about five inch apart from each other. They are wider and deeper, they go across the stile at a slight angle, there is no figure beside either of them, and the wood round about them has gone furry where somebody sawed at it with a dull blade and without any care at all.
+They are about a foot below the first of the nine and about five inch apart from each other, so that the upper of the two is about where a child of six would have been. They are wider and deeper, they go across the stile at a slight angle, there is no figure beside either of them, and the wood round about them has gone furry where somebody sawed at it with a dull blade and without any care at all.
 
 
 She came out at about half past two because she heard somebody talking.
@@ -74,11 +74,11 @@ He is not going to be the reason a thing a boy made with a dull blade at about s
 
 She is right about the two.
 
-Her son is twenty-one and he is in another town and he was six when he made them, on a Sunday in the summer of 2009, with a hacksaw blade, because she had said something at the table about how much he had grown.
+Her son is twenty-one and he is in another town and he was six when he made them, on a Sunday in the summer of 2004, with a hacksaw blade, because she had said something at the table about how much he had grown.
 
 He cut them in about ten minutes, both of them, at the same place on the stile, and then he stood back and looked at them, and he did not cut them out.
 
-He was not five. He was six, which is the entire distance between a boy cutting his own marks and a boy cutting through another man's, and it is why he went over the top of somebody else's without noticing, and she had not seen the other nine either, and she has been carrying that since 2009 without knowing she was carrying it.
+He was not five. He was six, which is the entire distance between a boy cutting his own marks and a boy cutting through another man's, and it is why he went over the top of somebody else's without noticing, and she had not seen the other nine either, and she has been carrying that since 2004 without knowing she was carrying it.
 
 He came out of the shop at ten past two and she came out of her flat at half past two and neither of them put one word about the other's nine or the other's two to the other one.
 

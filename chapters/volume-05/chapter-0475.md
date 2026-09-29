@@ -2,7 +2,7 @@
 
 Wednesday the twenty-seventh of February 2019, from about half past seven in the morning until about six in the evening. A day, and the rain that came down in the middle of it, in Tideglass.
 
-**THE RAIN CAME DOWN ON THAT BOROUGH FOR THREE HOURS ON THE TWENTY-SEVENTH OF FEBRUARY AND UNDER ABOUT FOUR YARD OF GREEN WOOD AT ONE END OF A HUNDRED-YARD WAY THE GROUND WAS ALREADY MUD, AND A MAN AND A WOMAN STOOD SIX FOOT APART IN IT FOR TWO MINUTES AND SAID NINE WORDS BETWEEN THEM.**
+**THE RAIN CAME DOWN ON THAT BOROUGH FOR THREE HOURS ON THE TWENTY-SEVENTH OF FEBRUARY AND UNDER ABOUT FOUR YARD OF GREEN WOOD AT ONE END OF A HUNDRED-YARD WAY THE GROUND WAS ALREADY MUD, AND A MAN AND A WOMAN STOOD SIX FOOT APART IN IT FOR TWO MINUTES AND SAID FIVE WORDS BETWEEN THEM.**
 
 It is not a public way and there is no sign anywhere. It is about nine foot wide at its narrowest, between the end wall of a row of fourteen and a boundary wall that belongs to a yard on the other side, and it runs the better part of a hundred yard from one street to the next, and for about fifty of those hundred yard the whole of the width of it is flagged and swept and clean.
 
@@ -73,4 +73,4 @@ She went in at about ten past eight that night, and the ground under the wood wa
 
 And by the middle of April she will not be here, because the lease is up in June, and not one person in that row has been told about the lease, and the lease and the wet ground are not going to be what gets that wood cut back.
 
-**ON THE TWENTY-SEVENTH OF FEBRUARY A MAN STOOD IN THAT RAIN AT THE TOP OF A BLOCKED PASSAGE AND SAID ONE WORD, AND A WOMAN STOOD AT THE BOTTOM OF IT FOR TWO MINUTES WAITING FOR SOMETHING SHE COULD HAVE SAID NO TO, AND NO PERSON IN THAT ROW HAS BEEN TOLD ONE THING ABOUT WHAT EITHER OF THEM IS STANDING IN.**
+**ON THE TWENTY-SEVENTH OF FEBRUARY A MAN STOOD IN THAT RAIN AT THE TOP OF A BLOCKED PASSAGE AND SAID ONE WORD BACK, AND A WOMAN STOOD AT THE BOTTOM OF IT FOR TWO MINUTES WAITING FOR SOMETHING SHE COULD HAVE SAID NO TO, AND NO PERSON IN THAT ROW HAS BEEN TOLD ONE THING ABOUT WHAT EITHER OF THEM IS STANDING IN.**

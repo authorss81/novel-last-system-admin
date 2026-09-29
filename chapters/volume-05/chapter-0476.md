@@ -6,7 +6,7 @@ Monday the fourth of March 2019, and the four mornings on either side of it, fro
 
 The dog is called Bess and Bess is twelve, and twelve is old for one.
 
-He has had her since she was a pup that a man on a building site in about 2016 gave him at the end of a job, and he has walked her at the same hour every morning since, and the hour has not moved and neither has the way.
+He has had her since she was a pup that a man on a building site gave him at the end of a job, and he has walked her at the same hour every morning since, and the hour has not moved and neither has the way.
 
 It goes like this. Out of his own front door at ten past six. Down to the corner where that row meets the parade. Along about three hundred yard of parade with the houses on his left, so that the traffic is on her side and she is between him and the traffic and he is on the building side. Past nine front gardens, past the end house, past the bus stop, and then back again, about six in the morning, twice a day, every day, and on Sundays at nine because it is clear earlier and in the dark when it is not.
 
@@ -34,7 +34,7 @@ Bess did not see it. She was asleep. He was not, and he saw the whole of that hu
 
 He has never said one word to the man about it and he never will, and what is holding him back has nothing to do with the dog.
 
-The reason is this. If he says something — anything, one word, *morning* with a bit in it, or stopping and standing in the road with the dog and looking at him the way men do — then he becomes, in that row, a man who says things. He has been in that row since 2013 and he has been the sort of man who does not say things for the whole of that time, and it is not a boast, it is the arrangement he has got, and it works, and everybody in the row knows which sort he is and lets him be it.
+The reason is this. If he says something — anything, one word, *morning* with a bit in it, or stopping and standing in the road with the dog and looking at him the way men do — then he becomes, in that row, a man who says things. He has been in that row since about 2007 and he has been the sort of man who does not say things for the whole of that time, and it is not a boast, it is the arrangement he has got, and it works, and everybody in the row knows which sort he is and lets him be it.
 
 If he opens his mouth about a hundred yard of road he does not get to be that again.
 

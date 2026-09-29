@@ -1,6 +1,6 @@
 # Chapter 0482 — Fourteen Yard
 
-Monday the first of April 2019, from about a quarter past eight in the morning until about half past ten. A passage between two houses, in Tideglass.
+Monday the first of April 2019, from about ten past eight in the morning until about a quarter past ten. A passage between two houses, in Tideglass.
 
 **IN THE MIDDLE OF FEBRUARY A WOMAN SAID ONE TRUE THING TO ANOTHER WOMAN IN A MARKET AND WENT HOME AND DID NOT THINK ABOUT IT AGAIN, AND ON THE FIRST OF APRIL A MAN CAME OUT OF A HOUSE AT THE TOP OF THAT PASSAGE AND WENT DOWN IT AND DID NOT GO BACK UP, AND THE WOMAN WHO HAD SAID THE TRUE THING WAS STANDING FOURTEEN YARD AWAY WITH HER OWN HOUSE OPEN BEHIND HER AND SAW ALL OF IT.**
 
@@ -12,13 +12,13 @@ That is the whole of the geography, and it is the only reason any of this was wa
 
 ---
 
-He is in his fifties and he lives at number nine, which is not in that passage at all, and he has been going into number twelve every weekday at a quarter past eight in the morning for about six years.
+He is in his fifties and he lives at number nine, which is not in that passage at all, and he has been going into number twelve four mornings a week at ten past eight in the morning for about six years.
 
-He has never given anybody a reason for it, including himself, and there is nothing in that half hour that could be described if he tried.
+He has never given anybody a reason for it, including himself, and there is nothing in that hour that could be described if he tried.
 
-He goes in at a quarter past eight. There is a radio on, low, most days. He makes her tea and she makes his, and they sit, and sometimes she talks and sometimes she does not, and at ten past eight he goes out again and goes to work. He has never stayed the night. He has never brought anybody. He has not asked her for anything in six years and she has not asked him for anything, and once, in about 2016, she said *you needn't have come in the rain* before he had said a word about the weather, and he said *right* and sat down, and neither of them ever went near it again.
+He goes in at ten past eight. There is a radio on, low, most days. He makes her tea and she makes his, and they sit, and sometimes she talks and sometimes she does not, and at ten past nine he goes out again and goes to work. He has never stayed the night. He has never brought anybody. He has not asked her for anything in six years and she has not asked him for anything, and once, in about 2016, she said *you needn't have come in the rain* before he had said a word about the weather, and he said *right* and sat down, and neither of them ever went near it again.
 
-What she has out of it is a person in a room at half past eight in the morning.
+What she has out of it is a person in a room with the radio on, low.
 
 What he has out of it is a room, and a person in it, and the best part of an hour, and he has never once asked himself what it is for, and the reason he has never asked himself is that the answer would be about himself.
 
@@ -28,11 +28,11 @@ That is the whole reason. The road is one side and the houses are the other and 
 
 What she has been doing since about November last year is watching the top of that passage.
 
-Not the man. The top of the passage, and the man going into it, and coming out of it, six days a week, for six years.
+Not the man. The top of the passage, and the man going into it, and coming out of it, four days a week, for six years.
 
 And what she has been doing since November is the thing she would not put a name on if anybody asked her, and it is this: she has been waiting for him to stop.
 
-Not because of him. Because of what it does to the woman at number twelve, who has been getting that half hour, and who did not know she was waiting for it to stop, and who has never once in nineteen years asked anybody in that row for anything at all.
+Not because of him. Because of what it does to the woman at number twelve, who has been getting that hour, and who did not know she was waiting for it to stop, and who has never once in nineteen years asked anybody in that row for anything at all.
 
 The woman at number four had worked out by about December that she was waiting for a man she had spoken to four times in six years to give up the only company either of them got. And she went on standing on her own step.
 
@@ -44,7 +44,7 @@ And the woman at number four said, "She isn't."
 
 And the woman at number twelve looked at her.
 
-And the woman at number four said, "She has been at the hospital up at Cleeve since about 2017. She is on the list there on Tuesdays and Fridays and I have seen her on the bus at the top of this parade about four times, and I have never said anything, and if you want me not to tell you that I will not tell you and I have not said it to anybody else in the world."
+And the woman at number four said, "She has been at the hospital up at Cleeve since about 2017. She is on the list there on two mornings a week and I have seen her on the bus at the top of this parade about four times, and I have never said anything, and if you want me not to tell you that I will not tell you and I have not said it to anybody else in the world."
 
 That is the whole exchange, it lasted about as long as it takes to put a bag down, and out of twenty years of knowing each other neither of them has ever opened that subject, and neither has tried.
 
@@ -52,7 +52,7 @@ What the woman at number twelve did with it was nothing, which is what the woman
 
 She did not stop speaking to her. She was not angry. She was not even quiet for long. She was, from that Wednesday, *no different at all*, and the woman at number four went home from that market and sat down and understood that she had put the one thing she had in her hand into a room where it was going to sit for nineteen years, and that nobody in that room was going to pick it up.
 
-What she had not been ready for was the other half of it, which is that the man kept coming. He came on the Thursday and the Friday and the Monday and every weekday after that for six weeks, and the woman at number twelve had her radio on the whole time he was in the house, and the half hour went on exactly as it had for six years.
+What she had not been ready for was the other half of it, which is that the man kept coming. He came on the Thursday and the day after and the Monday and every weekday after that for six weeks, and the woman at number twelve had her radio on the whole time he was in the house, and the hour went on exactly as it had for six years.
 
 And the woman at number four stood on her own step at ten past eight and watched a man go down a passage and knew that she had put something into a house and that it was going to come out somewhere, and that it was not going to come out in the house.
 
@@ -68,11 +68,11 @@ On the Monday, at about ten past eight, the woman at number four opened her own 
 
 She had her own cup in her hand and she was in her dressing gown and she was going to stand there about ten minutes and go in again, and that is the whole of what she was doing and there was nothing about it she would have called doing anything.
 
-The man came out of number twelve at about ten past eight carrying nothing, which was the first thing that was wrong with the picture, because in six years he had never come out of that door with nothing in his hands. He came down the passage. He got to about the middle of it, which is about fourteen yard from where she was standing.
+The man came out of number twelve at about ten past nine carrying nothing, which was the first thing that was wrong with the picture, because in six years he had never come out of that door with nothing in his hands. He came down the passage. He got to about the middle of it, which is about fourteen yard from where she was standing.
 
 And he stopped.
 
-He stood there for about a minute and a half, with his hands at his sides, and he turned and looked back up it, at the top of the passage, at that step he had gone up about two hundred and thirty times.
+He stood there for about a minute and a half, with his hands at his sides, and he turned and looked back up it, at the top of the passage, at that step he had gone up about twelve hundred times.
 
 And then he did not go back up it. He carried on down and out of the mouth of it and up the street, and he stopped at the corner for about another minute, and then went off up the street at his ordinary pace.
 
