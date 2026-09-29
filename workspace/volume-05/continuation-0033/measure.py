@@ -1,8 +1,14 @@
 #!/usr/bin/env python3
-"""Verbatim-span measuring pass for Continuation 0031, chapters 495-504.
+"""Verbatim-span measuring pass for Continuation 0033, chapters 515-524.
 
 Threshold NINE tokens. Tokenised comparison, paragraph sentinels, three
 excluded classes recorded as a count and not chased.
+
+CHANGED FROM THE 0032 COPY, WHICH WAS BYTE-IDENTICAL AND THEREFORE MEASURED
+505-514 WHILE BEING CALLED 0033.  Four things were wrong and all four are
+fixed here: the batch itself, the four named RUN THREE windows, the CONTROL 2
+pair, and the plant chapter.  The docstring above said 0031 and 495-504,
+which was a third staleness and was inherited twice.
 """
 import os, re, sys, glob
 
@@ -310,8 +316,26 @@ REPO = os.path.dirname(os.path.dirname(os.path.dirname(
 
 
 def batch_chapters(lo, hi):
-    return [os.path.join(REPO, 'chapters', 'volume-05', 'chapter-%04d.md' % i)
-            for i in range(lo, hi + 1)]
+    """The chapter files of a run, and a loud notice when they are not there.
+
+    A detector that raises FileNotFoundError on a batch nobody has written
+    yet gets skipped, and a detector that skips is not a detector.  The
+    missing ones are named at the top so that a figure read off a partial
+    run cannot be mistaken for a figure read off the whole of it.
+    """
+    out, gone = [], []
+    for i in range(lo, hi + 1):
+        p = os.path.join(REPO, 'chapters', 'volume-05', 'chapter-%04d.md' % i)
+        if os.path.exists(p):
+            out.append(p)
+        else:
+            gone.append(i)
+    if gone:
+        print('!! %d OF %d CHAPTERS IN %d-%d DO NOT EXIST: %s'
+              '  ANY FIGURE BELOW IS A FIGURE ON THE PART OF THE RUN THAT'
+              ' EXISTS AND NOT ON THE WHOLE OF IT.'
+              % (len(gone), hi - lo + 1, lo, hi, gone))
+    return out
 
 
 def non_chapter_markdown():
@@ -450,7 +474,7 @@ def _blocks_of(p, caps_too=False):
 if __name__ == '__main__':
     print('method: N=%d, tokenised, paragraph sentinel, three excluded classes '
           'recorded as a count' % N)
-    ch = batch_chapters(505, 514)
+    ch = batch_chapters(515, 524)
     nonmd = non_chapter_markdown()
     state_six = [os.path.join(REPO, 'state', f) for f in
                  ('current.md', 'continuity.md', 'open-threads.md',
@@ -466,7 +490,7 @@ if __name__ == '__main__':
     against_each_other(ch, 'RUN TWO')
 
     print('\n-- RUN THREE: the ten against four named windows')
-    for lo, hi in ((495, 504), (485, 494), (475, 484), (385, 394)):
+    for lo, hi in ((505, 514), (495, 504), (485, 494), (385, 394)):
         scan(ch, batch_chapters(lo, hi), label='RUN THREE vs %d-%d' % (lo, hi))
 
     print('\n-- RUN FOUR: the ten against the six state files this batch wrote')
@@ -492,19 +516,29 @@ if __name__ == '__main__':
     scan([os.path.join(REPO, 'state', 'continuity.md')],
          [os.path.join(REPO, 'state', 'open-threads.md')],
          label='CONTROL 1: continuity.md against open-threads.md')
-    scan(batch_chapters(495, 504), batch_chapters(485, 494),
-          label='CONTROL 2: the ten against the ten immediately above')
+    scan(batch_chapters(505, 514), batch_chapters(495, 504),
+         label='CONTROL 2: the ten against the ten immediately above')
     import tempfile
     # THE PLANT MUST COME FROM A CHAPTER IN THIS BATCH, OR THE CONTROL
     # MEASURES A CHAPTER AGAINST A SET IT IS NOT IN AND COMES BACK NIL FOR
-    # THE WRONG REASON. 0029's driver took it from 0482 and got zero.
-    src = blocks_with_kinds(os.path.join(REPO, 'chapters', 'volume-05',
-                                         'chapter-0505.md'))
-    para = [b for b, d in src if len(TOK.findall(b.lower())) > 40][0]
-    ptoks = TOK.findall(para.lower())[:14]
-    with tempfile.NamedTemporaryFile('w', suffix='.md', delete=False) as fh:
-        fh.write(' '.join(ptoks) + '\n')
-        plant = fh.name
-    print(f'    plant = {" ".join(ptoks)}')
-    scan([plant], ch, label='CONTROL 3: a fourteen-token plant against the ten')
-    os.unlink(plant)
+    # THE WRONG REASON. 0029's driver took it from 0482 and got zero, and
+    # 0032's took it from 0505 while measuring 515-524, which is the same
+    # fault under a later name.
+    plant_src = ch[0] if ch else None
+    if plant_src is None or not os.path.exists(plant_src):
+        print('CONTROL 3 SKIPPED: the batch is unwritten, so there is no '
+              'prose paragraph inside the set being measured to plant. THIS '
+              'CONTROL MUST BE TAKEN AFTER 0515 EXISTS AND NOT BEFORE.')
+    else:
+        src = blocks_with_kinds(plant_src)
+        para = [b for b, d in src if len(TOK.findall(b.lower())) > 40][0]
+        ptoks = TOK.findall(para.lower())[:14]
+        with tempfile.NamedTemporaryFile('w', suffix='.md',
+                                         delete=False) as fh:
+            fh.write(' '.join(ptoks) + '\n')
+            plant = fh.name
+        print(f'    plant taken from {os.path.basename(plant_src)}: '
+              f'{" ".join(ptoks)}')
+        scan([plant], ch,
+             label='CONTROL 3: a fourteen-token plant against the ten')
+        os.unlink(plant)
