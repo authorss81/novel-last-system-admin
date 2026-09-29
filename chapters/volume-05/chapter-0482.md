@@ -52,7 +52,7 @@ What the woman at number twelve did with it was nothing, which is what the woman
 
 She did not stop speaking to her. She was not angry. She was not even quiet for long. She was, from that Wednesday, *no different at all*, and the woman at number four went home from that market and sat down and understood that she had put the one thing she had in her hand into a room where it was going to sit for nineteen years, and that nobody in that room was going to pick it up.
 
-What she had not been ready for was the other half of it, which is that the man kept coming. He came on the Thursday and the day after and the Monday and every weekday after that for six weeks, and the woman at number twelve had her radio on the whole time he was in the house, and the hour went on exactly as it had for six years.
+What she had not been ready for was the other half of it, which is that the man kept coming. He came on the Thursday and the day after and the Monday and the day after that for six weeks, and the woman at number twelve had her radio on the whole time he was in the house, and the hour went on exactly as it had for six years.
 
 And the woman at number four stood on her own step at ten past eight and watched a man go down a passage and knew that she had put something into a house and that it was going to come out somewhere, and that it was not going to come out in the house.
 

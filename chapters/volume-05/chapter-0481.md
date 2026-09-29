@@ -1,6 +1,6 @@
 # Chapter 0481 — The Hour They Talked About Him
 
-Thursday, 28 March 2019, from about half past three in the afternoon until about half past five. An hour, and everything two men said in it, in Tideglass.
+Thursday the twenty-eighth of March 2019, from about half past three in the afternoon until about half past five. An hour, and everything two men said in it, in Tideglass.
 
 **BETWEEN HALF PAST THREE AND HALF PAST FIVE ON THE TWENTY-EIGHTH OF MARCH 2019 TWO MEN STOOD AT A PIECE OF WALL AT THE END OF THAT FOOTWAY AND TALKED, AND A WOMAN CAME OUT OF THE HOUSE BEHIND IT AND SAID ONE SENTENCE TO BOTH OF THEM AND WENT BACK IN, AND AT ABOUT TWENTY PAST FOUR ONE OF THEM PUT IT TO THE OTHER THAT THERE WAS SOMETHING GOING ON AND WAS TOLD THAT THERE WAS NOT.**
 
