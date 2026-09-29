@@ -1,0 +1,86 @@
+name: build-epub
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - state/synopsis.md
+      - state/complete.md
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: epub-${{ github.repository }}
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Skip unless the novel is finished
+        run: |
+          if [ ! -f state/complete.md ]; then
+            echo "state/complete.md is absent; nothing to publish yet"
+            exit 0
+          fi
+          echo "building EPUBs for a finished manuscript"
+
+      - name: Build EPUBs
+        run: python3 scripts/build_epub.py --out-dir dist
+
+      - name: Validate the archives
+        run: |
+          python3 - <<'PY'
+          import glob, sys, zipfile
+          import xml.etree.ElementTree as ET
+
+          books = sorted(glob.glob("dist/*.epub"))
+          if len(books) != 2:
+              sys.exit(f"expected 2 epubs, found {len(books)}: {books}")
+          for book in books:
+              zf = zipfile.ZipFile(book)
+              names = zf.namelist()
+              if names[0] != "mimetype":
+                  sys.exit(f"{book}: mimetype is not the first entry")
+              if zf.getinfo("mimetype").compress_type != zipfile.ZIP_STORED:
+                  sys.exit(f"{book}: mimetype is compressed")
+              if zf.read("mimetype") != b"application/epub+zip":
+                  sys.exit(f"{book}: wrong mimetype")
+              for name in names:
+                  if name.endswith((".xml", ".opf", ".ncx", ".xhtml")):
+                      ET.fromstring(zf.read(name))
+              opf = ET.fromstring(zf.read("OEBPS/content.opf"))
+              ns = {"opf": "http://www.idpf.org/2007/opf"}
+              manifest = opf.findall(".//opf:manifest/opf:item", ns)
+              spine = opf.findall(".//opf:spine/opf:itemref", ns)
+              if len(manifest) - 3 != len(spine):
+                  sys.exit(f"{book}: manifest and spine disagree")
+              for item in manifest:
+                  href = item.get("href")
+                  if href and not href.startswith(("http", "#")):
+                      if f"OEBPS/{href}" not in names:
+                          sys.exit(f"{book}: manifest href missing: {href}")
+              print(f"{book}: {len(spine)} sections, structure OK")
+          PY
+
+      - name: Commit EPUBs
+        run: |
+          set -euo pipefail
+          git config user.name "novel-fleet-bot"
+          git config user.email "novel-fleet-bot@users.noreply.github.com"
+          git add dist
+          if git diff --cached --quiet; then
+            echo "EPUBs are unchanged"
+            exit 0
+          fi
+          git commit -m "novel: build EPUBs"
+          git push origin HEAD:main
