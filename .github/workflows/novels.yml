@@ -94,48 +94,90 @@ jobs:
     needs: run-batch
     if: ${{ always() && needs.run-batch.result != 'cancelled' && needs.run-batch.result != 'skipped' }}
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 35
     steps:
       - name: Checkout latest main
         uses: actions/checkout@v4
         with:
           ref: main
           fetch-depth: 0
-      - name: Check phase state
+      - name: Check phase state and wait out any backoff
         id: phase
+        env:
+          RETRIGGER_MAX_WAIT_SECONDS: "1500"
         run: |
           set -euo pipefail
           exists=false
           has_done=false
           has_blocked=false
           has_deferred=false
-          now="$(date +%s)"
-          while IFS= read -r prompt; do
-            [ -n "$prompt" ] || continue
-            phase_dir="$(dirname "$prompt")"
-            if [ -f "$phase_dir/.retired" ]; then
-              continue
+          next_retry=""
+          deadline=$(( $(date +%s) + RETRIGGER_MAX_WAIT_SECONDS ))
+
+          scan() {
+            local scan_now prompt phase_dir retry_at
+            exists=false
+            has_deferred=false
+            next_retry=""
+            scan_now="$(date +%s)"
+            while IFS= read -r prompt; do
+              [ -n "$prompt" ] || continue
+              phase_dir="$(dirname "$prompt")"
+              if [ -f "$phase_dir/.retired" ]; then
+                continue
+              fi
+              if grep -qi '^Retired .*phase' "$prompt"; then
+                continue
+              fi
+              if [ -f "$phase_dir/.retry-after" ]; then
+                retry_at="$(cat "$phase_dir/.retry-after" 2>/dev/null || echo 0)"
+                if [ "$retry_at" -gt "$scan_now" ]; then
+                  has_deferred=true
+                  if [ -z "$next_retry" ] || [ "$retry_at" -lt "$next_retry" ]; then
+                    next_retry="$retry_at"
+                  fi
+                  continue
+                fi
+              fi
+              if [ ! -f "$phase_dir/.done" ] && [ ! -f "$phase_dir/.blocked" ]; then
+                exists=true
+              fi
+            done < <(find workspace -name PROMPT.md -type f | sort)
+            if find workspace -type f -name .done -print -quit | grep -q .; then
+              has_done=true
             fi
-            if grep -qi '^Retired .*phase' "$prompt"; then
-              continue
-            fi
-            if [ -f "$phase_dir/.blocked" ]; then
+            if find workspace -type f -name .blocked -print -quit | grep -q .; then
               has_blocked=true
             fi
-            if [ -f "$phase_dir/.retry-after" ] && [ "$(cat "$phase_dir/.retry-after")" -gt "$now" ]; then
-              has_deferred=true
-              continue
+          }
+
+          # GitHub cron delivery is unreliable at this fleet size, so a phase that is
+          # only waiting out its own backoff is waited out here and re-dispatched
+          # immediately instead of idling until the next schedule tick.
+          while :; do
+            scan
+            if [ "$exists" = true ]; then
+              break
             fi
-            if [ ! -f "$phase_dir/.done" ] && [ ! -f "$phase_dir/.blocked" ]; then
-              exists=true
+            if [ "$has_deferred" != true ] || [ -z "$next_retry" ]; then
+              break
             fi
-          done < <(find workspace -name PROMPT.md -type f | sort)
-          if find workspace -type f -name .done -print -quit | grep -q .; then
-            has_done=true
-          fi
-          if find workspace -type f -name .blocked -print -quit | grep -q .; then
-            has_blocked=true
-          fi
+            now_ts="$(date +%s)"
+            if [ "$now_ts" -ge "$deadline" ]; then
+              break
+            fi
+            wait_for=$(( next_retry - now_ts ))
+            remaining=$(( deadline - now_ts ))
+            if [ "$wait_for" -le 0 ]; then
+              break
+            fi
+            if [ "$wait_for" -gt "$remaining" ]; then
+              wait_for="$remaining"
+            fi
+            echo "No eligible phase; waiting ${wait_for}s for a deferred phase."
+            sleep "$wait_for"
+          done
+
           echo "exists=$exists" >> "$GITHUB_OUTPUT"
           echo "has_done=$has_done" >> "$GITHUB_OUTPUT"
           echo "has_blocked=$has_blocked" >> "$GITHUB_OUTPUT"
