@@ -2,7 +2,7 @@
 
 The Thursday of the seventeenth of October 2019, and a day in this city does what a day does. In Tideglass, and down by that water.
 
-**DOWN BY THAT WATER THERE IS A WORKING BOOK WITH A COLUMN RULED DOWN THE PAGE AND THE LAST ENTRY IN THAT COLUMN WAS MADE IN SEPTEMBER 2015 AND THE SPACE RULED UNDER IT IS STILL EMPTY, AND THE SPACE UNDER IT IS STILL EMPTY. IN A GARDEN BEHIND NUMBER THIRTY-FOUR A HEATHER HAS BEEN OVER THE EDGE OF ITS BORDER SINCE JUNE. AT THE END OF A ROW A SWING HAS BEEN CREAKING SINCE THE SUMMER. NONE OF THE THREE IS CONNECTED TO ANY OTHER.**
+**DOWN BY THAT WATER THERE IS A WORKING BOOK WITH A COLUMN RULED DOWN THE PAGE AND THE LAST ENTRY IN THAT COLUMN WAS MADE IN SEPTEMBER 2015, AND SOMEBODY PUT A STEEL RULE UNDER THAT ENTRY AND DID NOT CARRY ON. IN A GARDEN BEHIND NUMBER THIRTY-FOUR A HEATHER HAS BEEN OVER THE EDGE OF ITS BORDER SINCE JUNE. AT THE END OF A ROW A SWING HAS BEEN CREAKING SINCE THE SUMMER. NONE OF THE THREE IS CONNECTED TO ANY OTHER.**
 
 Here is the small thing that is wrong in one place, and it has been wrong since June.
 
@@ -34,9 +34,9 @@ Down the way by that water there is a building with a covered way running off it
 
 The book that is open on that desk is about two inch deep and it is the only book in the room. It has a column ruled down the middle of the left-hand page and a column ruled down the middle of the right-hand page, and the entries run in the left-hand column, and the last entry of them was made on the fourteenth of September 2015.
 
-Underneath that last entry somebody ruled a straight line with a steel rule and then stopped.
+Underneath that last entry somebody ruled a straight line and then stopped.
 
-That space under the rule is what this paragraph is about. It has been left for one thousand seven hundred and eighty-six days as at the seventeenth of October 2019, and no one has written in it, and no one has torn the page out, and no one has said anything about it to anyone.
+It has been left for one thousand seven hundred and eighty-six days as at the seventeenth of October 2019, and no one has written in it, and the page has not been torn out, and nobody has said anything about it to anyone.
 
 Nobody went in there that day. It is the third Thursday running on which nobody has gone in there, and the reason nobody goes in there is that there is nothing in the place that any man who works in that building happens to want.
 
@@ -52,14 +52,16 @@ On the seventeenth of October a man in his sixties stood in a line in a supermar
 
 Nobody has ever set those four accounts against each other. Nobody has said which of them belongs to anybody. The four of them are exactly where they were at the end of August, which is to say in four houses, told four ways, using four sets of words.
 
-The question underneath all four of it has not been answered. It was not answered at the end of August and it has not been answered in the seven weeks since. The number of people in this borough who could answer it has not fallen either, and that is the part of it that has never once been written down anywhere.
+The question underneath all four of it has not been answered, and nobody has put any two of the four together. The number of people in this borough who could answer it has not fallen either.
 
-And the thing nobody can put a name to still cannot be put a name to, and it has not shifted by so much as a day.
+The man in his sixties is one of the people in this borough who goes out to try to put a name to the thing, and there is not one, and he has done it four or five times a year since 2016 on his own, and he has never told anybody he does it, and on the seventeenth of October he did it, and the whole of it is down the front, along by the water as far as the corner, and back, at about half four.
 
-It stands where it stood last August, in the middle of the month, and no record exists of where that is. Every person here who was ever going to go out and have a look did so, came back, and gave the same sentence to nobody. And there is not a person left in this borough who has a reason to go out and look.
+There was nothing in that walk that had not been there in the middle of August. There was nothing in it that any of the four tellings is about, and no two of them are about the same kind of thing, so there was nothing in it to find, and he had that worked out before he set off and not afterwards, which is how he does it.
 
-That is what has altered since the end of August, and it is the whole of what has altered. It is not that the thing has been found. It is that the last person who was going out to look has stopped going out, and nobody has seen her stop, and she has not told anybody that she has stopped, and there is nobody now who is going to find out why.
+On the way back he went as far as her end and did not go up and did not stop, and the reason is that asking is asking, and he has not asked her about anything since the summer and he is not going to now.
 
-A woman cut a heather back on the Saturday and it will be there again by the following Wednesday. A swing creaks in a garden at the end of a row. A book stands open on a desk with a ruled line under its last entry and nothing in the space under it, and the space is a day wider than it was a week ago, and nobody is going to that room.
+He did not know when he set out that he would not go up. He worked that out at the corner and he was not surprised by it, and he has not worked out why she stopped and is not going to, and he thinks she has.
 
-**THE HEBATHER WILL BE BACK OVER THE EDGE BY WEDNESDAY AND THE SWING WILL KEEP CREAKING AND THE RULED SPACE UNDER THE FINAL ENTRY IN THAT WORKING BOOK IS STILL EMPTY, AND NONE OF THE THREE HAS ANYTHING TO DO WITH THE OTHER TWO.**
+He thinks that if she has, there is nobody here that she would tell. He looked for one for a mile on the way home and did not find one. He is the one that would have gone and he has not got a reason, and he walked the rest of the way home at five without going over it again.
+
+**THE TWO OF THEM GOT OFF THE SWING AND WENT IN, AND IT WENT ON CREAKING FOR A WHILE AFTER THAT, AND THEN IT DID NOT.**
