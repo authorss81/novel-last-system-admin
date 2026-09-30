@@ -58,13 +58,13 @@ He has been in that room seven times and every one of them has gone like that. T
 
 Here is what he thinks the rule is. He thinks that the woman came into that house to be somewhere, and that she did not come to be somewhere that gets looked at, and that he comes on a Saturday, and that a woman who is sixty-eight and doing this job alone and who has never once asked him for anything is not going to say *will you look at the roof* in a front room.
 
-So he does it in the garage.
+So he does it in the garage. He took the sill off the front-room window before he came out, in about ten minutes, with the chisel out of the bag, and she stood in the room and watched him do that as well and asked him nothing about it either.
 
-He was in the garage at about half past twelve with the ladder out and one foot on the bottom rung, with the sill on his shoulder and the brick in his hand.
+He was in the garage at about half past twelve with the sill up on the bench and the ladder out with one foot on the bottom rung and the brick in his hand.
 
-The sill is a length of painted wood about the width of the door and the corner at the left-hand end has come away from the frame behind about a foot, and it is the kind of job that takes most of a morning if the paint has gone hard on the joint and half of it if it has not, and the paint on this one has gone hard on the joint.
+The sill is a length of painted wood about the width of the door and the corner at the left-hand end had come away from the frame behind by about a foot before he had it off, and it is the kind of job that takes most of a morning if the paint has gone hard on the joint and half of it if it has not, and the paint on this one has gone hard on the joint.
 
-He got the old paint off with a chisel and a hammer and made a mess of the ledge and put his hand down for somewhere to put the hammer and put it into the paint tin that was there for such a thing and it had gone over his glove.
+He got the old paint off with a chisel and a hammer and made a mess of the top of the bench and put his hand down for somewhere to put the hammer and put it into the paint tin that was there for such a thing and it had gone over his glove.
 
 He stood and looked at the mess.
 
@@ -72,13 +72,13 @@ He got the new piece of bead out of the bag he had in the car and got it cut to 
 
 And he got the bead in and got it level and got two screws in and then stopped with the third one in his fingers.
 
-Here is why he stopped, and he stood in that garage with the hammer and he went through it, and it is the whole of the chapter.
+Here is why he stopped, and he stood in that garage with the hammer and he went through it, and it is the whole of it.
 
-The third screw is the one at the far end, at the right-hand side, and it goes into a piece of wood behind the frame which in his mother's day was a stud and is now, since they took the wall out in about 2016 and put a skin over it, a piece of a joist that is not in the right place.
+The third screw is the one at the far end, at the right-hand side, and when the sill goes back in it goes through the sill and into a piece of wood behind the frame which in his mother's day was a stud and is now, since they took the wall out in about 2016 and put a skin over it, a piece of a joist that is not in the right place.
 
 He found that out in the June and did not do anything about it. He drilled for it, hit something that was not a joist, filled the hole, and went home, and it has been sitting in his head since the June.
 
-So the third screw goes in about halfway and then stops, and there is a face on the front of it, and it is not going to hold a sill over about twenty years of weather, and he knows that, and he has known it since the June, and he can do the thing that would make it hold, which is to move the bead about an inch in and put the end screw through the frame itself, where there is solid wood, and screw the far end into the frame instead of into the stud.
+So that screw will go in about halfway and then stop, and there will be a face on the front of it, and it will not hold a sill over about twenty years of weather, and he knows that, and he has known it since the June, and he can do the thing that would make it hold, which is to shift the bead along by about an inch so that the last screw goes through the frame where there is solid wood instead of into the joist, and he could do all of that on this bench in ten minutes and then he would have to put it back.
 
 It is not a long job and he knows exactly how long it is.
 
@@ -86,9 +86,9 @@ He stood there with it.
 
 What he went through, in this order:
 
-One: the bead is cut and the hole is drilled and there is half a screw in the far end and there is a chisel mark on the ledge, and if he leaves it now then that corner will come away again, and it will come away with everything the weather has done to it on it, and it will be worse to do than it is now.
+One: the bead is cut and there are two screws in the near end of it and there is a third screw in his pocket and there is a chisel mark on the top of the bench, and the sill is sitting on the bench instead of sitting on the frame in his mother's front room, and if he leaves it now then that corner will come away again, and it will come away with everything the weather has done to it on it, and it will be worse to do than it is now.
 
-Two: if he does it now then he has moved a bead in his mother's front room that he has been thinking about moving since the March.
+Two: if he does it now then he has moved a bead on his mother's front-room sill that he has been thinking about moving since the March.
 
 Three: doing it now means there is no reason to come back to this sill. And the sills in this house are not the only thing in this house.
 
@@ -110,8 +110,8 @@ And he stood there about three seconds and then he understood what she was doing
 
 He went home at about five.
 
-The chair is in the garage. The bead is in. There is a third screw in the pocket of his coat that has been in his pocket since half past twelve and is now on a table in his own kitchen under a stack of post, and the hole behind the sill has a filled screw hole in it about a foot from the end.
+The chair is in the garage. The sill is on the bench with two screws in it. There is a third screw in the pocket of his coat that has been in his pocket since half past twelve and is now on a table in his own kitchen under a stack of post, and the frame in his mother's front room has a filled screw hole in it about a foot from the left-hand end.
 
 And he is not going to fix it this month or next month, and he is aware that what he is not going to do is not a delay, because he has already done everything except the last piece, and has done the last piece as a thought, and knows exactly how long that is.
 
-**HE CARRY THE KEY THAT WILL NOT TURN AND A CHAIR FROM A ROOM HE IS NOT ALLOWED TO KEEP, AND HE HAS GONE ROUND TO THE GARAGE AND GOT THE SILL HALF RIGHT AND STOPPED WITH THE LAST SCREW IN HIS POCKET BECAUSE FINISHING IT WOULD HAVE LEFT HIM NO REASON TO GO BACK, AND THE WOMAN INSIDE THE HOUSE STOOD AT A LIT WINDOW WHILE HE CAME ROUND THE SIDE.**
+**HE CARRIES THE KEY THAT WILL NOT TURN AND A CHAIR FROM A ROOM HE IS NOT ALLOWED TO KEEP, AND HE HAS GONE ROUND TO THE GARAGE AND GOT THE SILL HALF RIGHT AND STOPPED WITH THE LAST SCREW IN HIS POCKET BECAUSE FINISHING IT WOULD HAVE LEFT HIM NO REASON TO GO BACK, AND THE WOMAN INSIDE THE HOUSE STOOD AT A LIT WINDOW WHILE HE CAME ROUND THE SIDE.**

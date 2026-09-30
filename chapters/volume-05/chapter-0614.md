@@ -102,15 +102,15 @@ Then she got a sheet of paper.
 
 Here is what she did and it took her until about half past four.
 
-She did not draw a plan. She wantsto say that again in her own head, because she is going to say it to nobody, and she wants it to be true while she says it.
+She did not draw a plan. She wants to say that again in her own head, because she is going to say it to nobody, and she wants it to be true while she says it.
 
 She drew the room as you look at it when you walk in.
 
 She did the far wall first, because that is the one with the window, and she got the window in the wrong place and knew it within about a second of having it in and did it again. She did not use a ruler for anything. She used the edge of a credit card for the tiles and then a different edge for the wall, and at one point she used a shoe.
 
-She got the bath in roughly right and she got the door roughly right and she could not get the door, because the door is the thing she has wanted to move for two summers and it is the one thing she has not been able to hold in her head in the right order.
+She got the bath in roughly right and she got the window in about the right place, and she could not get the door at all, because the door is the thing she has wanted to move for two summers and it is the one thing she has not been able to hold in her head in the right order.
 
-So she put the door on the third drawing and left the door on the left on the third drawing, which means the fourth drawing has both doors.
+So she drew the door twice, once where the door is when you walk in, which is on the left, and once where the drawings have been trying to put it, which is not on the left, and the two of them cannot both be there, which means the fourth drawing has both doors.
 
 She looked at that for a bit.
 
@@ -140,7 +140,7 @@ She thought about her husband, who is not her husband any more, and about how sh
 
 Then she got the paper back.
 
-She folded the third drawing along its fold so the door that was on the left went behind the one she had drawn, and she left the fourth one on the table on top of it.
+She folded the first drawing along its fold so the door that was on the left went behind the one she had drawn, and she left the fourth one on the table on top of it.
 
 And she got the tape measure out of the drawer where the tape measure lives, which is the drawer with the string and the spare keys and a spare bulb, and she measured the bathroom.
 

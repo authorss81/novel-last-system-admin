@@ -2,7 +2,7 @@
 
 The Thursday of the tenth of December 2020, from about eight in the morning until about nine in the evening, in this borough.
 
-**HE HAS HAD A SET OF TWELVE NAMES SINCE THE SUMMER AND HE HAS GONE OVER THEM NINE TIMES SINCE THE SUMMER, AND HE CARRIES THE COUNT AND NOT THE NAMES, AND TONIGHT HE CARRIES IT PAST A DOOR HE HAS DRIVEN PAST FOUR TIMES.**
+**HE HAS HAD A SET OF TWELVE NAMES SINCE BEFORE THE SUMMER AND HE HAS GONE OVER THEM NINE TIMES SINCE BEFORE THE SUMMER, AND HE CARRIES THE COUNT AND NOT THE NAMES, AND TONIGHT HE CARRIES IT PAST A DOOR HE HAS DRIVEN PAST FOUR TIMES.**
 
 He is a man in his mid forties. He works in a place that does not have a name on the door and he has worked there for most of a decade, and the set of twelve is about his mother, who is in a home about five miles off.
 
@@ -10,7 +10,7 @@ Here is what the twelve is.
 
 There are twelve people who were at his mother's funeral. He was not there and he has said since the June that he was not there, and there are twelve of them, and he has the names of all twelve, and he has a way of getting at them that takes the best part of a cup of tea on a decent line.
 
-He has gone over them nine times since the summer.
+He has gone over them nine times since before the summer.
 
 That is not a thing he has decided to do. He has gone over them in a car park once and then in a kitchen once and then in bed, and there are always twelve, and the counting is now the shortest route between two facts.
 
@@ -44,7 +44,7 @@ Not the name. The name was there. The fifth is a woman who was in the same road 
 
 So he did the thing he does. He went past it and counted it, which is the same as counting it.
 
-And then he got to the twelfth, which is a man who used to do something with his mother about the volunteer thing, and there are nine of these twelve and the two or three nearest them are on the list and he has never worked out why.
+And then he got to the twelfth, which is a man who used to do something with his mother about the volunteer thing, and it is one of nine of these twelve that he cannot get to, and two or three of the three he can get to live right by the ones he cannot, and he has never worked out why.
 
 And then he did the other thing, which he started in about the August and has done maybe six times since, which is that he checks whether the count is still twelve.
 
@@ -124,4 +124,4 @@ He went into the kitchen and he got the envelope off the stack of post and he go
 
 He will do it again. He knows he will do it again, in a car park, on a road with a hedge and a gate and a brown door, at a time when he has told himself he is going to stop.
 
-**HE HAS TWELVE NAMES AND HE HAS GONE OVER THEM NINE TIMES SINCE THE SUMMER AND HE HAS COUNTED THEM OUT LOUD ALONE IN HIS OWN KITCHEN AFTER NINE O'CLOCK AND PUT THE ENVELOPE BACK ON THE STACK OF POST, AND HE WILL GO OVER THEM AGAIN.**
+**HE HAS TWELVE NAMES AND HE HAS GONE OVER THEM NINE TIMES SINCE BEFORE THE SUMMER AND HE HAS COUNTED THEM OUT LOUD ALONE IN HIS OWN KITCHEN AFTER NINE O'CLOCK AND PUT THE ENVELOPE BACK ON THE STACK OF POST, AND HE WILL GO OVER THEM AGAIN.**

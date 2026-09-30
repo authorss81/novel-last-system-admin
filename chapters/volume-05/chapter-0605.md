@@ -66,7 +66,7 @@ And she said, "I had it on before you got to the top."
 
 He went down the six steps and turned the bag round on the landing and took it on the other shoulder for the flight, and he was near the bottom when he saw the man who owns the block coming out of the door of the office at the side.
 
-The man is in this chapter for as much as owns the block, and that is a set of keys on a ring and a way of standing about eight feet away from people.
+The man is in it for as much as he owns the block, and that is a set of keys on a ring and a way of standing about eight feet away from people.
 
 And he said, "You're the one with the wood."
 
@@ -106,7 +106,7 @@ One: the block has a flue and the flue has an inspection on the Tuesday and a ma
 
 Two: if the fire stops on the Monday then she will be cold, and she is on her own, and the boiler has not worked since June, and the gas man is coming to a flat that has a flue in it and no fire.
 
-Three: it is not his fire and it is not his flat and he has never once in this chapter asked her a question about it.
+Three: it is not his fire and it is not his flat and he has never once asked her a question about it.
 
 Four: he has no way of telling the difference between the first three and the fourth, and all four of them are reasons, and he could give any one of them out loud and it would be true enough that she would not push it.
 

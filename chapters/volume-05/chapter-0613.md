@@ -2,7 +2,7 @@
 
 The Thursday of the thirty-first of December 2020. It begins at about half past eight in the morning and it ends at about half past six in the evening. In this borough.
 
-**HE TOOK A GATE OFF THE SIDE OF A GARAGE IN THE SEPTEMBER BECAUSE THE MAN WHO PUT IT UP HAD GONE, AND HE HAS CARRIED IT ROUND THIS BOROUGH EVER SINCE AND HAS PAID THE SAME MAN TWICE, AND TODAY HE HAS PUT IT DOWN AT THE BACK OF HIS OWN GARDEN WHERE IT STANDS ON THE SOIL.**
+**HE TOOK A GATE OFF THE SIDE OF A GARAGE IN THE SEPTEMBER BECAUSE HE HAD BEEN GOING BACK UP TO LOOK AT IT AND HAD NEVER ONCE SAID TO ANYBODY THAT IT WAS NOT HIS, AND HE HAS CARRIED IT ROUND THIS BOROUGH EVER SINCE AND HAS PAID A MAN ONCE, AND TODAY HE HAS PUT IT DOWN AT THE BACK OF HIS OWN GARDEN WHERE IT STANDS ON THE SOIL.**
 
 He is a man in his late fifties. He builds things. The gate is wrought iron and about five feet high and it weighs more than a man should put in a boot.
 
@@ -52,7 +52,7 @@ The office told him on about the Tuesday that there was a man who had taken it a
 
 He rang.
 
-And this man said his name and the firm and said he had taken it off and had intended to put it up and had not got to it, and the man in the early forties said, well, that is where it was, and can you put it back.
+And this man said his name and the firm and said he had taken it off and had intended to put it up and had not got to it, and the man in the early forties said, "Well, that's where it was. Can you put it back?"
 
 And he said he would.
 
@@ -70,9 +70,9 @@ And he got it off the van and put it against the wall of the office, and the man
 
 And he said, "It was a good bit of work."
 
-And the man said, "Never saw it before I took it off."
+And the man said, "I never saw it before you took it off."
 
-And he said, "That's not what I said."
+And he said, "Nobody did. It was on there when I came."
 
 And the man said, "Right."
 
@@ -148,4 +148,4 @@ And if he puts it back where it was, it is an inch proud, in a yard, on a wall t
 
 So it stands on the soil at the back of a garden in this borough with a clean patch of metal on the foot of it, and the paint tin is in the garage with the lid still on, and he has told a man in the early forties that it is not his to charge for.
 
-**HE TOOK A GATE OFF A GARAGE HE HAD NO BUSINESS ON AND HE HAS CARRIED IT ROUND THIS BOROUGH SINCE THE SEPTEMBER AND HAS PAID A MAN TO CLEAN IT AND HAS BEEN TO FOUR OTHER GATES AND HAS PAID THE SAME MAN TWICE, AND IT IS STANDING ON THE SOIL AT THE BACK OF HIS GARDEN WITH A CLEAN PATCH ON THE FOOT OF IT.**
+**HE TOOK A GATE OFF A GARAGE HE HAD NO BUSINESS ON AND HE HAS CARRIED IT ROUND THIS BOROUGH SINCE THE SEPTEMBER AND HAS PAID A MAN ONCE TO CLEAN IT AND HAS BEEN TO FOUR OTHER GATES, AND IT IS STANDING ON THE SOIL AT THE BACK OF HIS GARDEN WITH A CLEAN PATCH ON THE FOOT OF IT.**

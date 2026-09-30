@@ -8,7 +8,7 @@ He is a man in his mid fifties. He is not in a position to do anything about any
 
 ---
 
-Here is the paper, and the shape of it is the whole of the chapter.
+Here is the paper, and the shape of it is the whole of the morning.
 
 There is a list of waiting at the place where he works. The list is not his and he cannot change it and he has no part in it, and the only thing he is allowed to do with it is to look at it, and looking at it is part of the job.
 
@@ -112,4 +112,4 @@ He is fifty-odd. He has decided that it can stop whenever. He has not decided wh
 
 He was in the canteen again at about nine in the evening and he had the paper on the table face up and the lines under the twenty-eight names, and he wrote the twenty-eight again at about half past nine on a fresh sheet and put a line under each one and put that one in the file too, and then went and took the first one back out of the file and put it in his coat, and locked up at about ten.
 
-**HE HAS TWENTY-EIGHT NAMES IN HIS OWN HANDING WITH A LINE UNDER EVERY ONE AND HE PUT THE PAPER IN THE FILE AT TEN PAST SEVEN AND TOOK IT OUT AT TEN AND WROTE ANOTHER ONE AT HALF PAST NINE AND PUT THAT IN AS WELL, AND THE FIRST ONE IS IN HIS COAT.**
+**HE HAS TWENTY-EIGHT NAMES IN HIS OWN HAND WITH A LINE UNDER EVERY ONE AND HE PUT THE PAPER IN THE FILE AT TEN PAST SEVEN AND TOOK IT OUT AT TEN AND WROTE ANOTHER ONE AT HALF PAST NINE AND PUT THAT IN AS WELL, AND THE FIRST ONE IS IN HIS COAT.**
