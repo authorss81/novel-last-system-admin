@@ -2,9 +2,9 @@
 
 The Friday of the third of July 2020, from about seven in the evening until about half past eight, in a kitchen on the second floor of a block on a road in this borough.
 
-**SHE SAID IT ONCE WITH THE KETTLE GOING AND HE TOOK IN NOTHING, AND SHE SAID IT A SECOND TIME WITH NOTHING UNDER IT AND IT WAS NOT THE SENTENCE, AND THE ONE PERSON WHO GOT BOTH AGREED WITH THE FIRST ONE BECAUSE AGREEING TOOK LESS WORK, AND SHE KNEW THE TWO WERE NOT THE SAME AND SAID NOTHING ABOUT IT.**
+**SHE SAID IT ONCE WITH THE KETTLE GOING AND HE TOOK IN TWO WORDS OF IT, AND SHE SAID IT A SECOND TIME AT A VOLUME THAT MATCHED THE KETTLE AND IT DID NOT ARRIVE EITHER, AND THEN SHE SAID A DIFFERENT SENTENCE AT A VOLUME SHE HAD NOT USED BEFORE AND THAT ONE WENT STRAIGHT ACROSS, AND THE ONE PERSON WHO GOT ALL THREE AGREED WITH THE FIRST ONE BECAUSE AGREEING TOOK LESS WORK, AND SHE KNEW THEY WERE NOT THE SAME AND SAID NOTHING ABOUT IT.**
 
-The kitchen is about eight feet by six and it has been that since the block went up. There is a low unit with a wipe-clean cloth on the top of it, two chairs, a gas ring with a kettle standing on it, and a small radio turned down as far as it goes that can still be heard from the other side of the room.
+The kitchen is about eight feet by six and it has been that since the block went up. There is a low unit with a wipe-clean cloth on the top of it, two chairs, a gas ring with a kettle standing on it, and a small radio turned down as far as it goes that can still be heard from where she is sitting.
 
 He is a man in his late sixties. He has lived in that flat since it was new and he pays nothing towards anything anybody else does to the building.
 
@@ -20,7 +20,7 @@ At about seven she said it.
 
 She said it to the middle of the cloth, quietly, with the kettle going behind her, and the woman in her early forties heard every word of it and put her hand flat on the top of the unit and then went on with her food.
 
-The man in his late sixties was looking at her mouth and got *I've had* and nothing after it, and he said, "Mm?"
+The man in her late sixties was looking at her mouth and got *I've had* and nothing after it, and he said, "Mm?"
 
 She raised her voice to meet the kettle, which is what she has always done, and said, "I said I've had enough of it."
 
@@ -46,7 +46,7 @@ The first one had been about her. Her mother was tired, in the ordinary way that
 
 The second one had been about the front and a thing with the man at the garage, and had come out with everything else on top of it, and had gone to him, and he had taken it.
 
-She sat with her hand still flat on the unit for a moment. She could have said the first one out loud after the second one. It was about a fortnight and a handrail and a thing she had been doing on her own since before the February, and if she had said it then it would have gone into that kitchen and he would have got up and looked at a handrail instead of a dryer, or a kettle, or nothing at all.
+She sat with her hand still flat on the unit for a moment. She could have said the first one out loud after the second one. It was about a fortnight and a bannister and a thing she had been doing on her own since before the February, and if she had said it then it would have gone into that kitchen and he would have got up and gone at the bannister instead of at the kettle, or at nothing at all.
 
 She did not say it, and she has not said it since, and she is not going to, and she has never once asked herself why, because she has always known.
 
@@ -56,4 +56,4 @@ At about half past eight her father got up and said he would see to the front, a
 
 The kettle went on twice in that kitchen and the radio was at its lowest the whole evening.
 
-**THE FIRST THING WENT IN AT SEVEN O'CLOCK AND THE SECOND ONE WENT IN AT ABOUT TEN PAST, AND THAT KITCHEN TOOK ONE OF THEM AND KEPT IT, AND THE ONLY PERSON WHO HAD BOTH WAS NOT GOING TO BE ASKED FOR EITHER.**
+**THE FIRST TWO WENT IN UNDER THE KETTLE AND THE THIRD WENT IN WITH NOTHING UNDER IT, AND THE ONE THAT GOT THROUGH WAS THE ONE HE DID NOTHING ABOUT AND ASKED HER ABOUT A COLLECTION INSTEAD, AND THE ONLY PERSON WHO HAD ALL THREE WAS NOT GOING TO BE ASKED FOR ANY OF THEM.**

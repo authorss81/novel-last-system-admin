@@ -2694,3 +2694,117 @@ One slow-burn relationship only: Jonas and Sanaa. Volume 01 produced a refusal i
 **AND THE THINGS A WRITER OF 0575 CANNOT TAKE FROM ANY MEASURING PASS. **THE CARD-BAR CHECKER WAS TYPED WITH THE TEN CARD BARS IN WHOLE, THE UNION IS ASSERTED INSIDE ITS SCAN LOOP, IT WAS RUN AFTER EVERY CHAPTER, IT FIRED AT NINE OF THE TEN CHAPTERS ON THE FIRST WRITING, AND EVERY ONE WAS CLEARED IN THE CHAPTER AND NO CARD WAS NARROWED. **AND THE FIRST TELLING OF RUN ONE WAS ELEVEN AT A LONGEST OF TWENTY-TWO, WHICH IS THE LARGEST IN THIS ACCOUNT, AND TEN OF THE ELEVEN WERE ONE CONSTRUCTION BEGUNNING *AND NEITHER OF THEM HAS*, WHICH IS A CARD SENTENCE RESTATED IN A BLOCK AND A PROMPT IS A MARKDOWN FILE.** The duration and weekday pass caught seven, and the worst of them was a chapter dated the eleventh of a month, **and that one was caught by a person reading the header against a calendar and against the standing list of unavailable days and not by anything in this repository.** **THE SHAPE, WHICH NO WINDOW IN THIS REPOSITORY CAN SEE: THE ALL-CAPS COUNTS READ 2, 1, 3, 2, 2, 3, 1, 2, 2 AND 2 AND THE `---` COUNTS READ 2, 1, 2, 1, 2, 1, 2, 0, 2 AND 1, WHICH ARE THREE FIGURES EACH AND WHICH DO NOT MATCH EACH OTHER, AND NO CHAPTER OF THE TEN SITS AT THE CAP ON EITHER ROW, AND 0572 IS THE SECOND CHAPTER HERE WITH NO SCENE BREAK AT ALL.** And the filler: **THE DECLARED MEASURE IS *JUST* AND IT IS NOT ONE OF THE SEVEN THAT CAME BEFORE IT, AND IT CAME OUT AT SIX, PEAKING AT 0568 AND 0573 AND NIL IN THE OTHER EIGHT, AND THE CORRECT RESPONSE IS THE ONE GIVEN AT §13: SAY SO IN THE BLOCK AND DO NOT PICK ANOTHER ONE.** The figure a reviewer should look at is that eleven measures named six chapters and two of the eleven named the same one.
 
 **AND NO DAY-COUNT APPEARS IN THE PROSE OF ANY OF THESE TEN CHAPTERS, WHICH IS A DECISION AND NOT AN OMISSION, **AND THE FIGURE THAT BINDS IS THE 0036 ONE, UNCHANGED AND NOW PAID OUT TWICE: A CHAPTER THAT PRINTS THE COUNT ONCE HAS PRINTED IT, A CHAPTER THAT DOES NOT PRINT IT HAS ALSO SPENT IT, AND NO CHAPTER OF 0575 OR AFTER MAY PRINT IT AGAIN UNDER ANY CIRCUMSTANCES.**
+
+# VOLUME 05, CONTINUATION 0039 — CHARACTER STATE AFTER CHAPTER 584
+
+**THIS IS A DISPOSITION ROSTER AND NOT A LIST OF APPEARANCES. WHO A FIGURE IS · WHAT THEY ARE CARRYING · WHAT WAS SAID IN FRONT OF THEM AND WHAT THEY DID WITH IT · AND WHAT MAY NOT BE DONE TO THEM. EVERY FIGURE IN CHAPTERS 575–584 IS IN IT. NO FIGURE APPEARS IN TWO CHAPTERS.**
+
+## §0. THE RULES THIS ROSTER IS BUILT ON, AND THE COUNT THAT PROVES IT
+
+- **EVERY BAND WAS ALLOCATED FROM THE REMAINING BANDS BEFORE A SINGLE CHAPTER EXISTED. **TWELVE BANDS FOR THE MEN AND SEVENTEEN FOR THE WOMEN WERE DRAWN, AND NO TWO FIGURES OF THE SAME GENDER CARRY THE SAME BAND.** THE DETECTOR FIRED ON ONE COLLISION WHEN A MAN IN HIS MID FORTIES APPEARED IN BOTH 0577 AND 0581, AND THE 0581 FIGURE WAS MOVED TO EARLY FORTIES, WHICH WAS FREE. **NO BAND WAS CHANGED IN 0577 AND NO BAND WAS CHANGED AFTER A CHAPTER WAS WRITTEN.**
+- **NO FIGURE IN CHAPTERS 575–584 WAS ENTERED IN THE NUMBERED FREE FIGURE LIST, WHICH IS UNCHANGED AT WOMEN 18, 87 AND 90 AND NO MEN. **THIS IS THE FOURTEENTH BATCH IN A ROW IN WHICH NOTHING WAS AGED. A FIGURE WHO HAS NO AGE MAY NOT BE AGED AND A FIGURE WHO HAS ONE MAY BE USED.**
+- **NO FIGURE IN THESE TEN CHAPTERS CARRIES A HUMAN PERSONAL NAME, AND NO OUTLINE-NAMED CHARACTER APPEARED IN ANY OF THEM.**
+- **NO FIGURE IN THESE TEN CHAPTERS IS RESCUED, EXPIRED, LAPSED, RENEWED OR DEAD, AND NO FIGURE IN THEM IS TOLD ANYTHING THEY DID NOT ALREADY KNOW.**
+
+## §1. THE LAUNDERETTE — CHAPTER 0575, Monday the twenty-ninth of June 2020
+
+| Figure | Band | What they are carrying | What may not be done to them |
+| --- | --- | --- | --- |
+| The woman who said it | late thirties | A husband who has been going since March; two occasions on which she said so out loud and let a man she has spoken to about six times in two years get up and go and look at a thing behind a door; and the knowing, arrived at in an afternoon, that it was not that he had it wrong, it was that he got up | She may not be told he knew. She may not be given the sentence she did not say, and nobody may put *I meant my husband* into her mouth twice |
+| The man who owns the place | mid fifties | A dryer running hot since before the middle of April and four words on the back of a ticket left face down, and he did not look up | He may not be told what the sentence was about. He may not be given the word *my mate* as something he understood |
+| The woman with the one small load | early sixties | Every word of a sentence she heard; a page she turned and turned back; and no idea what she is keeping | She may not be asked what she is keeping. She may not be told the other two had it wrong, and she may not be given anybody to tell |
+| The man with the radio | early thirties | Nothing. He was not listening and has no version of it | He may not be given one afterwards. Nobody may go back and tell him what was said |
+
+## §2. THE SECOND-FLOOR KITCHEN — CHAPTER 0576, Friday the third of July 2020
+
+| Figure | Band | What they are carrying | What may not be done to them |
+| --- | --- | --- | --- |
+| The man who reads mouths | late sixties | Years of taking in two words instead of a sentence and never once saying so; and about ten minutes of asking whether it was a Thursday week for the collection instead of asking what the first sentence had been | He may not be given the first sentence. He may not be given a hearing difficulty, a diagnosis or a reason. He may not be made to notice that the third one arrived |
+| His wife | mid fifties | A sentence she has said for years with no idea it does not arrive; a sentence she has said at a volume she had not used in that kitchen before; and a thing she said out loud before anybody asked her to | She may not be told he took it the wrong way. She may not be given the two as a pair, and she may not be asked which of the three she meant |
+| Their daughter | early forties | A fortnight and a bannister and a thing she has been doing on her own since before the February; the knowing that she did not say it and why; and never having asked herself why, because she has always known | She may not be asked why she did not say it. She may not be given an occasion to say it, and she may not be made to be the one who explains the difference between two sentences |
+
+## §3. THE WORKSHOP — CHAPTER 0577, Tuesday the seventh of July 2020
+
+| Figure | Band | What they are carrying | What may not be done to them |
+| --- | --- | --- | --- |
+| The woman who has said it since 2009 | early fifties | *That's no trouble*; a Friday on which she said it with her hands under something; a Tuesday on which it came back at her from the other side of a partition; four seconds of standing still; and the not-knowing | She may not be given proof. She may not be told he had it always, and she may not be told he took it off her, and nobody in that building may be asked |
+| The man in there six days a week | mid forties | A thing he said once with his back turned, and a fair thing he said afterwards that he has had no reason to unsay | He may not be made a man who copied her. He may not be put in a position of owing, and he may not be asked to say it again |
+| The woman who has been coming since the January | late forties | Being in that building on both occasions and being able to do absolutely nothing with it | She may not be asked. She may not be told what the other two said, and she is not a witness to anything |
+
+## §4. THE HIRED CLUB — CHAPTER 0578, Sunday the twelfth of July 2020
+
+| Figure | Band | What they are carrying | What may not be done to them |
+| --- | --- | --- | --- |
+| The man who asked twice | early sixties | An April ask that came to nothing; the words *why do you have to think about it*; and the fact that he asked the same thing in July in front of twelve people | He may not be given an apology from anybody. He may not be told which April, and he may not be made the one who named what happened |
+| The woman who gave the four words twice | late twenties | Four words she had ready before he finished asking; a minute and a half outside a door; and a decision to come back in and sit down | She may not be told why the other woman said it. She may not be made to explain the April to him or to anybody, and she may not be given a way of taking the July back |
+| The woman who was in the car | mid thirties | The back of that car; a conversation she watched end on the Wednesday of that week; a thing she has now said out loud that nobody in that conversation has ever said; and no way of getting it back out of the place she said it in | She may not be asked what she meant by it. She may not be given a person to say it to afterwards, and she may not be made the narrator of what happened in April |
+
+## §5. THE SHELTER AND ONE STREET — CHAPTER 0579, Wednesday the fifteenth of July 2020
+
+| Figure | Band | What they are carrying | What may not be done to them |
+| --- | --- | --- | --- |
+| The man with a brother | mid sixties | A brother he has not seen since the middle of the February; four words at a shelter meaning somebody nobody on that row knows he has; a said-nothing answer at half past three he took for agreement; and a thing at six about a Saturday four days off | He may not be told she had it wrong. He may not be given the truck explained to him, and he may not be shown the two accounts side by side |
+| The woman in the early thirties | early thirties | A version of a sentence that was wrong and comfortable on that street; and about three seconds in her own door in which she said nothing at all — not a word, not a shake of the head, not the face | She may not be asked what she thought he meant. She may not be given the word *truck* as something she chose, and the shut door may not be read as unkindness in any later chapter |
+| The woman in the late fifties | late fifties | Having told somebody something she was not asked for; having been answered with a shut door; going back down the row and not knocking again; and a thing she has said nothing to anybody about since | She may not be asked why she went up. She may not be given the impression that she was right, and nobody may tell her the silence was a mistake |
+
+## §6. THE PITCH IN A PARK — CHAPTER 0580, Saturday the eighteenth of July 2020
+
+| Figure | Band | What they are carrying | What may not be done to them |
+| --- | --- | --- | --- |
+| The man who drove them | late fifties | Six seasons and seventeen miles each way; a decision taken at the end of June and carried for a fortnight; a crate put down the wrong way round since before the February; two words; and a second in which he could have said *I meant the driving* | He may not be told the other man heard it wrong. He may not be given the sentence he did not say, and the letting of it may not be made into kindness |
+| The man who came in February | late thirties | Six seasons of being the one who was there; a February in which he came because he had nothing else on; a ball he let go past; and a morning on a halfway line with his hands behind his back | He may not be given an answer. He may not be made to ask *what did you mean*, and the woman who asked him if he was all right may not be given the answer either |
+| The woman doing the teas | about twenty-two | Being the one who looked at the two of them and asked; and an *I'm all right* that nobody wrote down | She may not be given what the two of them said. She may not be made a go-between, and she may not be asked again |
+
+## §7. THE RAILINGS AND ONE STREET — CHAPTER 0581, Thursday the twenty-third of July 2020
+
+| Figure | Band | What they are carrying | What may not be done to them |
+| --- | --- | --- | --- |
+| The woman of seventy-one | seventy-one | Four months of driving somebody to the hospital twice a week, paid in cash into her hand so there was no occasion to write anything down; a thing she said out loud after the answer had already been given; and a walk about a road closure, a dog and a fanlight painted over | She may not be asked why she said it. She may not be given the February back as a thing he tricked her into, and she may not be made grateful or ungrateful in a later chapter |
+| The man who asked in February | early forties | Asking a thing he knew the answer to, and two words he said without taking a moment; and neither person having brought the February up since | He may not be told she worked it out on purpose. He may not be made to explain why he asked, and he may not be given the hour afterwards as something he ruined |
+
+## §8. THE TOWPATH AND ONE DOOR — CHAPTER 0582, Monday the twenty-seventh of July 2020
+
+| Figure | Band | What they are carrying | What may not be done to them |
+| --- | --- | --- | --- |
+| The man who asked | late forties | Four answers before these two; a thing he paraphrased differently to each of them which was not a lie; a decision on a walk back not to go and tell the first one; and no account that is both complete and something either of them could carry | He may not be shown the two answers together. He may not be given either woman's account of what he did, and he may not be made to correct either of them |
+| The woman on the towpath | mid forties | An answer that took the couple of minutes it deserved; a May she has been thinking about for about a year; and the fact that he handed her words on as a thing about her street | She may not be told what he said at number nine. She may not be asked to compare, and she may not be given the other answer as a rival |
+| The woman of seventy-two | seventy-two | A husband buried, three daughters and a job; a hinge on somebody else saying the whole of that street had found a way through it and she had not; and a shut door at half past four | She may not be given the true state of affairs. She may not be told nobody on her street said it turned for them, and she may not be made right in a later chapter |
+
+## §9. THE BACK OF A PUB — CHAPTER 0583, Friday the thirty-first of July 2020
+
+| Figure | Band | What they are carrying | What may not be done to them |
+| --- | --- | --- | --- |
+| The man at the bar | early fifties | One sentence put into a place with the jukebox going, two pound notes put down, and neither woman going over to the bar afterwards | He may not be told either of them got it wrong. He may not be asked to say it again, and he may not be given the two writings |
+| The woman of sixty-two | sixty-two | A habit of reading mouths she is not proud of; a fiver with something on the back of it in biro; and a certainty she would swear to | She may not be given the other's version. She may not be told she got it exactly right by anybody, and she may not be made the wrong one |
+| The woman of sixty-five | sixty-five | Two years of listening past noise; a pad inside a jumper; a wording she is going to use on a Sunday; and three words and one modal that are the whole of what is in dispute | She may not be given the other writing to compare against in any later chapter. She may not be told *could* and *can* are the same thing, and she may not be made the one who got it wrong |
+
+## §10. A SHOP, A SQUARE, AN ALLEY AND A PUB — CHAPTER 0584, Wednesday the fifth of August 2020
+
+| Figure | Band | What they are carrying | What may not be done to them |
+| --- | --- | --- | --- |
+| The woman in her late seventies | late seventies | Four words said in a shop door at half past nine; a man two doors along digging at the front of her garden since about the June; a note found at about half past three and put face down in a box she keeps the things she means to deal with in; one less thing to carry because she said it out loud first; and a thing she has been trying to name since the March | She may not be given the thing she cannot name. She may not be asked again in a later chapter, and she may not be made to find out what the man two doors along is doing |
+| The man in the shop | mid thirties | A thought at about twenty to twelve; a note through her door at about twenty past two saying he would ring the council; and the fact that he did not expect to hear anything and did not particularly want to | He may not be told she said the four words to anybody. He may not be given her reason for saying them, and nobody may tell him she put the note face down |
+| The two women who use the fountain | not banded | A colour they have learned to stand there and count for, and no report they have made | They may not be aged. Nobody may report the spout, and nobody may be told why |
+| The man behind that bar | not banded | A barometer that has not moved since the June and no way of knowing what the weather is doing | He may not be aged. He may not be given a reason and nobody may wind it |
+
+## §11. WHAT MAY NOT BE DONE TO ANY FIGURE IN THIS ROSTER, BEYOND THE FOURTH COLUMN
+
+**NOBODY MAY BE GIVEN A TITLE, A GRADE, A DEPARTMENT, A CHAIR, A SEAT, A MEMBERSHIP, A ROW, A FORM, A ROTA, A THANK-YOU OR A WAY OF BEING THANKED. NOBODY REFUSES TO BE THANKED, NO MINUTE RECORDS THAT A PERSON HAS NOT BEEN THANKED, NO FIGURE MAY SAY OUT LOAD THAT THEY HAVE NOT BEEN THANKED, AND A NARRATION THAT REPORTS THAT A PERSON SAID NOTHING ABOUT BEING THANKED IS OUT. NO CHAPTER OF 575–584 CONTAINS A THANKS OF ANY KIND AND *THANK* IS AT ZERO ON WORD BOUNDARIES AND ON THE SUBSTRING, WHICH IS THE MEASURE THAT BINDS.**
+
+**NOTHING IN THIS BLOCK IS A RESCUE, A LAPSE, AN EXPIRY, A DEATH OR A RETURN. NO ROOT TERM EXPIRES AND NO RECLAMATION SEASON OPENS. NOTHING DONE FOR SOMEBODY IN THIS BLOCK WAS A FAVOUR AND NOTHING WAS AN ARRANGEMENT, AND A TALK IS NOT AN AGREEMENT AND AN OFFER TALKED ABOUT IS NOT AN OFFER. A PROMISE MADE ALOUD IS SPENT BY THE MAKING OF IT AND NO PROMISE WAS KEPT ON THE PAGE IN THIS BLOCK. THE ONLY THING THAT WAS PAID FOR IN THESE FORTY DAYS WAS FOUR MONTHS OF HOSPITAL DRIVING AND IT WAS PAID IN CASH INTO A HAND SO THAT THERE WOULD BE NO OCCASION TO WRITE ANYTHING DOWN, AND THAT IS AN ARRANGEMENT BETWEEN TWO PEOPLE AND NOT A FAVOUR AND MAY NOT BE CALLED ONE.**
+
+**A PERSON WHO IS NOT COUNTED IS NOT A PERSON WHO IS HELPED AND NO CHAPTER OF THIS BLOCK REFUTES THAT SENTENCE.**
+
+## §12. THE MALE LEAD, AND WHY HE IS IN NONE OF THIS
+
+**JONAS MERCER IS IN NONE OF THESE TEN CHAPTERS AND IS MENTIONED IN NONE. HIS NOTEBOOK IS IN A HANDBAG IN THIS BOROUGH. THE WORD *WARDEN* IS NOWHERE IN THEM. HIS OWN LAST APPEARANCE IS 0263. THE LAST APPEARANCE OF ANY OUTLINE-NAMED CHARACTER IN VOLUME 05 IS 0294, WHICH IS NELL ARDENT, AND CHAPTERS 0295 THROUGH 0584 — WHICH IS TWO HUNDRED AND NINETY CHAPTERS — CARRY NO HUMAN PERSONAL NAME AT ALL. NO WRITER BROUGHT A NAMED FIGURE BACK IN THIS BLOCK, NO REUNION WAS INVENTED, EVAN MERCER WAS NOT BROUGHT BACK, HE IS THE MISSING FATHER AND IS NOT THE LEAD, AND NO WRITER MAY. THE SYSTEM IS BOUND TO THE LENS AND THE LENS IS BOUND TO HIM, SO **THE MALE-LEAD COUNT AND THE SYSTEM ARE ONE DECISION AND IT IS A HUMAN'S**, AND IT IS CARRIED AT §11 OF THE CONTINUATION 0039 OPEN-THREADS BLOCK AND NOT RESOLVED HERE.**
+
+## §13. THE FIGURES, THE SHAPES AND THE FIGURE THAT BINDS, FOR THE WRITER OF 0585
+
+**THE MEASURING, MEASURED FROM THE CHAPTERS AND NOT FROM ANY FILE THAT DESCRIBES THEM. **THE ALL-CAPS ROW IS **2, 2, 3, 1, 2, 3, 2, 2, 3, 1** AND THE `---` ROW IS **2, 1, 1, 1, 2, 2, 1, 2, 2, 1**; THE TWO ROWS DO NOT MATCH EACH OTHER AND NEITHER CAME OUT AS ONE NUMBER IN EVERY CHAPTER, AND NO CHAPTER SITS AT THE CAP ON EITHER ROW, WHICH IS THE FIRST BLOCK IN SEVEN IN WHICH THAT IS TRUE. **THE WORD COUNTS ARE **1,037 / 1,029 / 1,009 / 1,076 / 1,005 / 999 / 842 / 876 / 1,087 / 1,066**, TOTAL **10,026**, AND NOTHING WAS CUT FOR LENGTH.**
+
+**RUN ONE 2 RAW / 2 REUSES / LONGEST 15, BOTH HITS ALREADY IN THE FILES FROM 0565 AND 0567 · RUN TWO 0 · RUN THREE 0 AGAINST 545–554, 2 RAW WITH A LONGEST OF 0 AGAINST 555–564, 0 AGAINST 385–394 · RUN FOUR 1 RAW / LONGEST 11, AND RE-TAKEN AFTER THE SIX STATE FILES WERE WRITTEN IT IS STILL 1 AND NOT BIGGER · RUN FIVE 1 RAW / LONGEST 11 · RUN SEVEN 0. **THE THREE CONTROLS BRING BACK **6,763 RAW TOKENS AT A LONGEST OF 326** FOR THE TWO STATE FILES AGAINST EACH OTHER, **2 RAW AND A LONGEST OF 0** FOR THE TEN BELOW AGAINST THE TEN ABOVE, AND **EXACTLY ONE SPAN OF FOURTEEN** FOR A PLANT TAKEN FROM INSIDE THE SET BEING MEASURED. THE DETECTORS ARE `workspace/volume-05/continuation-0039/measure.py`, `check.py`, `measure-0575-0584.py` AND `check-0575-0584.py`, AND NONE OF THEM IS IN `scripts/`.**
+
+**THE DECLARED MEASURE FOR THIS BLOCK WAS **ANYTHING**, WHICH IS NOT ONE OF THE SEVEN THAT CAME BEFORE IT, AND IT CAME OUT AT **28**. THE SIX THAT MUST ALWAYS BE REPORTED ARE **ABOUT 172, ONE 93, TWO 81, FOUR 40, WEEK 11, ANYWAY 0**, WITH **ALMOST 2** AND **QUITE 1**, AND **ENOUGH 9** AND **JUST 2** ARE CARRIED FORWARD. **AND *SAID*, THE NEW FILLER OF THIS FAMILY, CAME OUT AT **146**, WHICH IS ABOUT FOURTEEN AND A HALF TO A CHAPTER, AND IS REPORTED BECAUSE A WRITER WHO HAS WRITTEN A HUNDRED *SAIDS* AND NOT NOTICED HAS DONE THE THING THE MEASURE EXISTS TO CATCH.**
+
+**AND THE FOUR PASSES THAT NO SCRIPT IN THIS REPOSITORY RUNS, WHICH ARE THE FIGURES A WRITER OF 0585 CANNOT SKIP: **WRITE EVERY CAPS BLOCK AGAINST THE BODY BENEATH IT — FOUR BLOCKS OF THIS BATCH FAILED IT ON THE FIRST PASS, WHICH IS WORSE THAN 0038's THREE IN TEN · PUT EVERY RELATIVE DAY IN EVERY CHAPTER AGAINST THAT CHAPTER'S OWN DATELINE · PUT EVERY OBJECT'S OWN RULE AGAINST EVERY PLACE THAT OBJECT IS USED, WHICH CATCHES THE KIND OF FAULT THAT A CALENDAR PASS CANNOT SEE · **AND READ THE TEN ALL-CAPS COUNTS AND THE TEN `---` COUNTS AND THE TEN TITLES SIDE BY SIDE, BECAUSE A BATCH OF TEN THAT ALL FEEL LIKE ONE CHAPTER TOLD TEN WAYS IS A BATCH WRITTEN TO A NUMBER AND A PERSON IS THE ONLY THING IN THIS REPOSITORY THAT CAN SEE IT.**

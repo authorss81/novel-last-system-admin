@@ -2,9 +2,9 @@
 
 The Monday of the twenty-ninth of June 2020, from about ten in the morning until about quarter past ten, in a launderette on a road in this borough.
 
-**A WOMAN SAID ONE SENTENCE IN A PLACE WITH THREE OTHER PEOPLE IN IT AND EVERYBODY CARRIED ON AS THOUGH THE SENTENCE HAD BEEN ABOUT SOMETHING ELSE, AND THE MAN SHE WAS SITTING OPPOSITE TOOK IT AS A REPORT ON THE DRYER BEHIND HER SHOULDER, AND SHE HEARD HIM TAKE IT THAT WAY AND LET HIM, AND SHE HAS NOT BEEN ABLE TO PUT IT BACK SINCE.**
+**A WOMAN SAID ONE SENTENCE IN A PLACE WITH THREE OTHER PEOPLE IN IT AND THE PLACE WENT ON, AND THE MAN SHE WAS SITTING OPPOSITE TOOK IT AS A REPORT ON THE DRYER BEHIND HER SHOULDER, AND SHE HEARD HIM TAKE IT THAT WAY AND LET HIM, AND SHE HAS NOT BEEN ABLE TO PUT IT BACK SINCE.**
 
-A launderette on that road has three washers along the near side and three dryers along the far one and a folding top bolted into the middle of it with four seats screwed to the floor. It opens at half eight on a Monday, and by ten there is a queue for the two along the far end, because Monday is the day everybody on that stretch of road gets up to it.
+A launderette on that road has three washers along the near side and three dryers along the far one and a folding top bolted into the middle of it with four seats screwed down where it stands. It opens at half eight on a Monday, and by ten there is a queue for the two along the far end, because Monday is the day everybody on that stretch of road gets up to it.
 
 She is a woman in her late thirties. She lives ten minutes' walk away in a flat on a road with no shops on it, and she had three going and she came in with the last of them.
 
@@ -28,7 +28,7 @@ She put her chin down on her hand and made a small sound that was nearly a laugh
 
 She said, "Right," and drank her tea.
 
-The place did what a place does. That one stopped. The man in his early thirties laughed again at whatever he had in his hand. The man came back with a pen and wrote four words on the back of one of his own cards and left it face down in the middle of the top, which is where he leaves everything that goes on it.
+The place did what a place does. That one stopped. The man in his early thirties laughed again at whatever he had in his hand. The man came back with a pen and wrote four words on the back of one of his own tickets and left it face down in the middle of the top, which is where he leaves everything that goes on it.
 
 ---
 
@@ -40,7 +40,7 @@ She said nothing. She turned a page of the newspaper and did not read it, and th
 
 She went home at about ten past ten and put the load on the step and stood there with her arms folded for a minute, and she has not told anybody, and she is not going to, and she has not worked out what she is keeping.
 
-The woman who said it rinsed her tea out at the back and left the cup on the stand by the door, which is where the man has asked people to leave it since before she started coming, and she said nothing to him on the way out, and he did not look up off the card.
+The woman who said it rinsed her tea out at the back and left the mug on the stand by the door, which is where the man has asked people to leave it since before she started coming, and she said nothing to him on the way out, and he did not look up off the ticket.
 
 On the way home she took it back to the dryer. That is what a sentence in that place is about. That is what it was about.
 
@@ -52,8 +52,8 @@ If she had said *I meant my husband*, it would have been a different sentence, a
 
 ---
 
-The card is still face down in the middle of that top, and the woman with the one small load has walked round it twice without picking it up, and he will turn it over later and put a piece of tape on it and it will end up with the rest of them behind the till.
+The ticket is still face down in the middle of that top, and the woman with the one small load has walked round it twice without picking it up, and he will turn it over later and put a piece of tape on it and it will end up with the rest of them behind the till.
 
-Nothing was said in that place after about quarter past ten, and the three of them who were not her have three different versions of it, and not one of the three is the one she meant.
+Nothing was said in that place after about quarter past ten. The one who was listening too hard had it word for word and turned a page of a newspaper and has not said anything and is not going to. The one who was not listening has no version of it at all.
 
 **SHE SAID SOMETHING ABOUT A MAN WHO WAS NOT IN THERE AND A MAN WENT AND LOOKED AT A DRYER, AND THE ONLY THING WRONG WITH THAT IS THAT NOTHING WAS.**
