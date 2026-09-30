@@ -62,17 +62,16 @@ EXTRA_ZERO = ['requir', 'permit', 'free']
 # card's list bars the WORD THAT WOULD RESOLVE THE CHAPTER INTO THE WRONG
 # GENRE, and not the object of the card, which is what 0034's list did wrong.
 CARD_BARS = {
-    585: ['argument', 'row', 'confession', 'apology', 'scene', 'confrontation'],
-    586: ['deaf', 'disability', 'suffering', 'illness', 'condition', 'aid'],
-    587: ['echo', 'mimic', 'repeat', 'pattern', 'coincidence'],
-    588: ['again', 'once more', 'same', 'unchanged'],
-    589: ['misunderstanding', 'misread', 'clarify', 'explain', 'correct'],
-    590: ['ultimatum', 'threat', 'warning', 'warning shot', 'final'],
-    591: ['secret', 'truth', 'reveal', 'finally', 'at last'],
-    592: ['truth', 'lying', 'honest', 'mistake', 'error'],
-    593: ['he said', 'she said', 'account', 'statement', 'version'],
-    594: ['nothing happened', 'uneventful', 'ordinary day', 'quiet', 'calm',
-          'nothing to report', 'resolved', 'explanation'],
+    585: ['confrontation', 'scene', 'climax', 'aftermath', 'reckoning'],
+    586: ['witness', 'evidence', 'statement', 'report', 'disclosure'],
+    587: ['silence', 'absence', 'distance', 'waiting', 'reply'],
+    588: ['obvious', 'plain', 'simple', 'clear', 'self-evident'],
+    589: ['pattern', 'history', 'before', 'then', 'again'],
+    590: ['farewell', 'goodbye', 'leaving', 'parting', 'final'],
+    591: ['address', 'speech', 'lecture', 'meeting', 'presentation'],
+    592: ['truth', 'wrong', 'right', 'mistake', 'error', 'correct'],
+    593: ['rumour', 'gossip', 'report', 'hearsay', 'secondhand'],
+    594: [],
 }
 
 FILLER = ['one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight',
@@ -81,14 +80,16 @@ FILLER = ['one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight',
           'forty', 'fifty', 'sixty', 'seventy', 'eighty', 'ninety',
           'about', 'week', 'quite', 'almost']
 
-# THE DECLARED MEASURE FOR THIS BLOCK IS *JUST*, WHICH IS NONE OF *ENOUGH*,
+# THE DECLARED MEASURE FOR THIS BLOCK IS *STILL*, WHICH IS NONE OF THE EIGHT
+# THAT CAME BEFORE IT (ONE, WEEK, QUITE, ANYWAY, ENOUGH, ALMOST, JUST,
+# ANYTHING).  DECLARED BEFORE ANY PROSE EXISTED.  0039 CHOSE ANYTHING., WHICH IS NONE OF *ENOUGH*,
 # *ONE*, *WEEK*, *ABOUT*, *QUITE*, *TWO*, *FOUR* AND *ALMOST*, AND IS ORDINARY
 # ENGLISH AND NOT THIS ACCOUNT'S OWN GRAMMAR.  0032 CHOSE ONE, 0033 WEEK, 0034
 # QUITE, 0035 ANYWAY, 0036 ENOUGH AND 0037 ALMOST.  IT IS DECLARED BEFORE ANY
 # PROSE IS WRITTEN AND THE FIGURE IT COMES OUT AT IS REPORTED WHATEVER IT IS,
 # INCLUDING IF IT IS NIL, BECAUSE A WRITER WHO PICKS A MEASURE AND FINDS NIL
 # SAYS SO IN THE BLOCK AND DOES NOT PICK ANOTHER ONE.
-FILLER.append('just')
+FILLER.append('still')
 
 # The objects 525-529 spent AS OBJECTS, taken from 1 to 10 of the 0034
 # OPEN-THREADS BLOCK, which is the list of record.  A word that is furniture of
@@ -161,6 +162,12 @@ SPENT_545_554 = ['dresser', 'clamp', 'clamps', 'glue', 'hinge', 'basket',
 # USEFUL ONE.  TWENTY SINGLE-WORD OBJECTS IS THE WHOLE OF WHAT A SPENT BAR IS
 # GOOD FOR AND IT IS THE FIGURE A REVIEWER SHOULD CHECK FIRST.  A REVIEWER WHO
 # FINDS THAT TWENTY OF THESE FIRE ON EVERY CHAPTER HAS TYPED A LEDGER AGAIN.
+SPENT_575_584 = ['dryer', 'kettle', 'radio', 'ticket', 'bannister',
+                 'partition', 'plank', 'barrel', 'urn', 'truck', 'crate',
+                 'railing', 'towpath', 'jukebox', 'spout', 'barometer',
+                 'apron', 'geranium', 'extractor', 'fiver', 'jumper',
+                 'sack', 'bilge']
+
 SPENT_555_564 = ['cake', 'fork', 'bowl', 'menu', 'riser', 'van', 'pit',
                  'jacket', 'carpet', 'shirt', 'stake', 'stakes', 'spade',
                  'padlock', 'mower', 'gutter', 'window', 'book', 'sweep',
@@ -251,7 +258,8 @@ def main():
             filler_tot[w] += n
         bars = list(GLOBAL_ZERO) + GENERAL_BARRED + CARD_BARS.get(ch, []) \
             + SPENT_535_544 + SPENT_530_534 + SPENT_525_529 + SPENT_515_524 \
-            + SPENT_495_504 + SPENT_545_554 + SPENT_555_564 + CLOSED \
+            + SPENT_495_504 + SPENT_545_554 + SPENT_555_564 \
+            + SPENT_575_584 + CLOSED \
             + EXTRA_ZERO
         # CHECKED, NOT ASSUMED: every spent list must be in the union.
         for _name, _l in (('SPENT_535_544', SPENT_535_544),
@@ -260,7 +268,8 @@ def main():
                           ('SPENT_515_524', SPENT_515_524),
                           ('SPENT_495_504', SPENT_495_504),
                           ('SPENT_545_554', SPENT_545_554),
-                          ('SPENT_555_564', SPENT_555_564)):
+                          ('SPENT_555_564', SPENT_555_564),
+                          ('SPENT_575_584', SPENT_575_584)):
             for _w in _l:
                 assert _w.lower() in bars, \
                     'UNION FAULT: %s is not in the bars for chapter %d' % (

@@ -487,7 +487,7 @@ def _blocks_of(p, caps_too=False):
 if __name__ == '__main__':
     print('method: N=%d, tokenised, paragraph sentinel, three excluded classes '
           'recorded as a count' % N)
-    ch = batch_chapters(565, 574)
+    ch = batch_chapters(585, 594)
     nonmd = non_chapter_markdown()
     state_six = [os.path.join(REPO, 'state', f) for f in
                  ('current.md', 'continuity.md', 'open-threads.md',
@@ -503,9 +503,9 @@ if __name__ == '__main__':
     against_each_other(ch, 'RUN TWO')
 
     print('\n-- RUN THREE: the ten against four named windows')
-    # 565-569 IS ITSELF AND IS NOT A WINDOW.  THE FOUR NAMED WINDOWS FOR THIS
-    # RUN ARE 545-549, 545-554, 555-564 AND 385-394.
-    for lo, hi in ((545, 549), (545, 554), (555, 564), (385, 394)):
+    # 585-594 IS ITSELF AND IS NOT A WINDOW.  THE FOUR NAMED WINDOWS FOR THIS
+    # RUN ARE 575-584, 565-574, 555-564 AND 385-394.
+    for lo, hi in ((575, 584), (565, 574), (555, 564), (385, 394)):
         scan(ch, batch_chapters(lo, hi), label='RUN THREE vs %d-%d' % (lo, hi))
 
     print('\n-- RUN FOUR: the ten against the six state files this batch wrote')
@@ -531,7 +531,7 @@ if __name__ == '__main__':
     scan([os.path.join(REPO, 'state', 'continuity.md')],
          [os.path.join(REPO, 'state', 'open-threads.md')],
          label='CONTROL 1: continuity.md against open-threads.md')
-    scan(batch_chapters(565, 574), batch_chapters(555, 564),
+    scan(batch_chapters(585, 594), batch_chapters(575, 584),
          label='CONTROL 2: the ten against the ten immediately above')
     import tempfile
     # THE PLANT MUST COME FROM A CHAPTER IN THIS BATCH, OR THE CONTROL
@@ -547,7 +547,11 @@ if __name__ == '__main__':
               'CONTROL MUST BE TAKEN AFTER 0525 EXISTS AND NOT BEFORE.')
     else:
         src = blocks_with_kinds(plant_src)
-        para = [b for b, d in src if len(TOK.findall(b.lower())) > 40][0]
+        # A DATELINE IS NOT A PLANT.  The method excludes dateline paragraphs
+        # from the index (that is what RUN SEVEN exists to measure), so a
+        # plant taken from one is measured against a set it is not in and
+        # comes back nil for the wrong reason.  Take prose.
+        para = [b for b, d in src if not d and len(TOK.findall(b.lower())) > 40][0]
         ptoks = TOK.findall(para.lower())[:14]
         with tempfile.NamedTemporaryFile('w', suffix='.md',
                                          delete=False) as fh:

@@ -1,0 +1,82 @@
+{
+ "MEN": {
+  "585": [
+   "early forties"
+  ],
+  "586": [
+   "early thirties",
+   "early fifties",
+   "mid forties"
+  ],
+  "587": [
+   "early sixties"
+  ],
+  "588": [
+   "mid fifties",
+   "mid sixties",
+   "late sixties"
+  ],
+  "589": [
+   "late forties"
+  ],
+  "590": [
+   "mid thirties",
+   "late thirties"
+  ],
+  "591": [
+   "late fifties",
+   "early twenties"
+  ],
+  "592": [
+   "early seventies"
+  ],
+  "593": [
+   "mid twenties"
+  ],
+  "594": [
+   "mid seventies",
+   "late seventies",
+   "late twenties"
+  ]
+ },
+ "WOMEN": {
+  "585": [
+   "early thirties",
+   "early forties"
+  ],
+  "586": [
+   "mid forties",
+   "mid thirties"
+  ],
+  "587": [
+   "early twenties"
+  ],
+  "588": [
+   "late thirties",
+   "late forties",
+   "mid twenties"
+  ],
+  "589": [
+   "late twenties"
+  ],
+  "590": [
+   "early fifties",
+   "mid fifties"
+  ],
+  "591": [
+   "late fifties"
+  ],
+  "592": [
+   "early sixties",
+   "mid sixties"
+  ],
+  "593": [
+   "late sixties",
+   "early seventies",
+   "mid seventies"
+  ],
+  "594": [
+   "late seventies"
+  ]
+ }
+}
