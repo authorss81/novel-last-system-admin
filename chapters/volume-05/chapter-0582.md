@@ -2,7 +2,7 @@
 
 The Monday of the twenty-seventh of July 2020, from about ten in the morning until about half past four in the afternoon, on a towpath by the river, in a street off it, and at one door.
 
-**HE PUT ONE QUESTION TO TWO PEOPLE ON ONE DAY AND GOT TWO ANSWERS THAT CANNOT BOTH BE TRUE OF THE SAME PERSON, AND HE HAS TOLD NEITHER OF THEM WHAT THE OTHER ONE SAID, AND HE HAS PARAPHRASED IT DIFFERENTLY TO EACH OF THEM, AND THE OLDER OF THE TWO WENT BACK INSIDE WITH A THING THAT HAD BEEN TOLD TO HER AND HAD NOT.**
+**HE PUT ONE QUESTION TO TWO PEOPLE ON ONE DAY AND GOT TWO ANSWERS THAT CANNOT BOTH BE TRUE OF THE SAME PERSON, AND HE HAS TOLD NEITHER OF THEM WHAT THE OTHER ONE SAID, AND HE HAS HANDED ONE ANSWER TO ONE OF THEM AS A THING ABOUT A STREET AND SAID NOTHING TO THE OTHER, AND THE OLDER OF THE TWO WENT BACK INSIDE WITH A THING THAT HAD BEEN TOLD TO HER AND HAD NOT.**
 
 The towpath runs beside the water for the length of about six streets and there are three places along it where anybody who wanted to sit could. At ten on a Monday morning in July there was one person on one of them and a good deal of water.
 
@@ -54,4 +54,4 @@ So there are two answers in a town of this size that were given to one man on on
 
 The thing about the May is that the woman on the towpath was on her own with it and the woman at number nine was in a house with a husband in it and three daughters and a job, and it is entirely possible that it got easier for one of them and not for the other, and he has made a shape out of the middle of that because the middle of it is easier to hold.
 
-**ONE QUESTION WENT TO TWO PEOPLE AND HE HAS TOLD EACH OF THEM HALF OF THE OTHER ONE'S ANSWER, AND THE ONE WHO HAS BEEN LEFT WITH SOMETHING NOBODY SAID IS THE ONE WHO WAS TOLD SHE WAS TOLD.**
+**ONE QUESTION WENT TO TWO PEOPLE AND HE TOLD ONE OF THEM HALF OF WHAT THE OTHER ONE SAID AND TOLD THE OTHER ONE NOTHING AT ALL, AND THE ONE WHO WAS HANDED SOMEBODY ELSE'S ANSWER IS THE ONE LEFT HOLDING A THING THAT NOBODY SAID.**

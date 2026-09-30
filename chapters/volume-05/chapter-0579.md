@@ -2,7 +2,7 @@
 
 The Wednesday of the fifteenth of July 2020, from about half past eight in the morning until about six in the evening, at a shelter on a main road in this borough and in one street off it.
 
-**HE SAID FOUR WORDS TO HER UNDER A SHELTER AND SHE TOOK THEM AS BEING ABOUT THE TRUCK THAT STANDS ACROSS A GATE ON SATURDAYS, AND HE MEANT HIS BROTHER, WHOM HE HAS NOT SEEN SINCE THE FEBRUARY AND WHO IS IN ON SATURDAYS ONLY, AND ON THE AFTERNOON OF THAT DAY SOMEONE TOLD HER WHAT HE HAD MEANT AND SHE SAID NOTHING AT ALL, AND AT SIX IN THE EVENING HE FOUND OUT THAT HE WAS RIGHT AND THAT HE HAD BEEN RIGHT BY ACCIDENT.**
+**HE SAID FIVE WORDS TO HER UNDER A SHELTER AND SHE TOOK THEM AS BEING ABOUT THE TRUCK THAT STANDS ACROSS A GATE ON SATURDAYS, AND HE MEANT HIS BROTHER, WHOM HE HAS NOT SEEN SINCE THE FEBRUARY AND WHO IS IN ON SATURDAYS ONLY, AND ON THE AFTERNOON OF THAT DAY SOMEONE TOLD HER WHAT HE HAD MEANT AND SHE SAID NOTHING AT ALL, AND AT SIX IN THE EVENING HE SAID TWO THINGS ABOUT A SHOP AND PUT THE TWO HALVES OF THAT DAY TOGETHER AND FOUND HE WAS STANDING RATHER WELL IN IT, WHICH WAS NOT THE SAME THING AS BEING RIGHT.**
 
 The shelter is on the far side of a road with a hoarding behind it and a timetable in a plastic holder with the last two months curling out of the slots. It takes six people standing up. At half past eight on a Wednesday in July there were two of them in it.
 
@@ -56,7 +56,7 @@ She said, "Is it not."
 
 He said, "It is."
 
-Then he said, "It's four days off Saturday. I've plenty of time."
+Then he said, "It's three days off Saturday. I've plenty of time."
 
 She said, "Right," and went in.
 

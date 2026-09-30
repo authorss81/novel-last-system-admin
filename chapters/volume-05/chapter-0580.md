@@ -2,7 +2,7 @@
 
 The Saturday of the eighteenth of July 2020, from about ten in the morning until about twenty-five to twelve, on a pitch in a park in this borough.
 
-**HE SAID TWO WORDS ON A TOUCHLINE AT TEN O'CLOCK AND MEANT THE DRIVING, AND THE MAN HE SAID THEM TO HEARD THAT HE WAS FINISHED WITH HIM, AND CHANGED HOW HE STOOD AND HOW HE SPOKE AND HOW FAR DOWN THE ROW HE WENT FOR THE REST OF THAT MORNING WITHOUT SAYING ONE WORD ABOUT ANY OF IT, AND THE MAN WHO HAD SAID IT NOTICED ALL OF IT AND COULD NOT USE ANY OF IT.**
+**HE SAID THREE WORDS ON A TOUCHLINE AT TEN O'CLOCK AND MEANT THE DRIVING, AND THE MAN HE SAID THEM TO HEARD THAT HE WAS FINISHED WITH HIM, AND CHANGED HOW HE STOOD AND HOW HE SPOKE AND HOW FAR DOWN THE ROW HE WENT FOR THE REST OF THAT MORNING WITHOUT SAYING ONE WORD ABOUT ANY OF IT, AND THE MAN WHO HAD SAID IT NOTICED ALL OF IT AND COULD NOT USE ANY OF IT.**
 
 The park has two pitches on it and a hard standing between them and a timber pavilion at one end with a door that does not shut. On a Saturday in the summer about half past nine, one of those pitches has nine boys on it and one man on the touchline and, since the February, a second man.
 
@@ -48,8 +48,8 @@ The man in his late fifties noticed at about quarter past ten and it was the cra
 
 He could have used it. That is what he has thought about since, and there was a second in it.
 
-He could have said, *I meant the driving.* It would have taken half a second and it would have cost him the fortnight of deciding it, and it would have turned two words on a touchline into two words on a touchline about something else, which is the thing he has spent a fortnight deciding not to have.
+He could have said, *I meant the driving.* It would have taken half a second and it would have cost him the fortnight of deciding it, and it would have turned three words on a touchline into three words on a touchline about something else, which is the thing he has spent a fortnight deciding not to have.
 
 So he did not say it, and he let the other one stand there with his hands behind his back until the boys came off, and he drove them home at twelve with both of them in the car and neither of them said anything on the way.
 
-**TWO WORDS WERE SAID ON A TOUCHLINE AND ONE MAN MEANT THE DRIVING AND THE OTHER MAN TOOK IT AS BEING MEANT, AND THE MAN WHO MEANT IT LET HIM KEEP IT BECAUSE EXPLAINING WOULD HAVE UNDONE IT.**
+**THREE WORDS WERE SAID ON A TOUCHLINE AND ONE MAN MEANT THE DRIVING AND THE OTHER MAN TOOK IT AS BEING MEANT, AND THE MAN WHO MEANT IT LET HIM KEEP IT BECAUSE EXPLAINING WOULD HAVE UNDONE IT.**
