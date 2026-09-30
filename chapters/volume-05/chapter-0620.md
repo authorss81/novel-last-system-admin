@@ -66,7 +66,7 @@ He could have asked her at any point since he was an adult. He has spoken to her
 
 And if he asks her now, on a Saturday, in the middle of the morning, then he has got his mother's house from a man in a yard who drives a van with a sign on the side of it.
 
-That is what he is carrying, and it is a small thing, and it is the first time in this account that a man has been stopped by the shape of the question rather than by the question.
+That is what he is carrying, and it is a small thing, and what has stopped him is the shape of the question rather than the question itself, because any question he could ask her about that terrace is a question that says out loud what he already knows about his mother.
 
 Here is what he did with the rest of it.
 

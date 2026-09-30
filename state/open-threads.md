@@ -5360,10 +5360,10 @@ Nothing in Volume 04 has been resolved, undone, improved on, restated or answere
 - **A man on a hill who was told at a bus stop that a man on his road has gone into a place, and has spent a day failing to find out how a woman he has spoken to twice knew it, and has not gone up the road.**
 - **The man at the top of that road, in his early seventies, who keeps a light on until nine and does not know he has been talked about.**
 - **A woman above a shop who was told her own house has been put up by a boy who cannot mean one house rather than another, and who has two houses in her head and cannot separate them.**
-- **A woman behind a till who had five things about a stranger at once and had all of them before she said one.**
+- **A woman behind a till who had four things about a stranger at once and had all of them before she said one.**
 - **A man who was told by a stranger that his wife had stood in a shop, and who had the person he lives with within reach of him for most of an afternoon and let the afternoon close without putting the question, and has declined to dress that up as consideration for her feelings.**
 - **A man with a chair who was told by a customer he has cut hair for since before the summer that he has a daughter, and who does not have one, and who will not ask her, and who she will be back to before the month is out.**
-- **A woman with a list of eight things she has taken on, none of which is the thing, and a minute in a doorway that she knew she had.**
+- **A woman with a list of eight things she has taken on and a ninth she found on the way home and cannot get rid of, none of the nine the thing, and a minute in a doorway that she knew she had.**
 - **A man with a gable end he can see from a crossing, and a mother he could have asked at any time for years, and a source that turned out to be a fella with a ladder.**
 - **A woman in a phone shop who is now the place in this borough where a stranger's errand is being kept, and who helped him at twenty past two and lost it by helping.**
 - **A man in a car park who was told somebody has been asking after him and cannot say what he would do if it were true.**
