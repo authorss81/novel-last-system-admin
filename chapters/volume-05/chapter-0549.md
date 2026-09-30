@@ -1,67 +1,66 @@
-# Chapter 0549 — A Share of Something Empty
+# Chapter 0549 — One Twelfth Less
 
-The Tuesday of the twenty-fifth of February 2020, and the week after it, in one street of this borough.
+The Tuesday of the twenty-fifth of February 2020, and the week before it, in one block of flats in one street of this borough.
 
-**SHE HAS PAID A THIRD OF THE HEATING IN THAT BUILDING SINCE 2014 AND THE FLAT DIRECTLY ABOVE HER OWN HAS BEEN EMPTY SINCE JUNE, AND ON A TUESDAY IN FEBRUARY SHE ASKED ONE PERSON ONE QUESTION AND GOT ONE TRUE SENTENCE, AND SHE ASKED NO SECOND QUESTION.**
+**SHE HAS PAID A TWELFTH OF THE HEATING IN THAT BLOCK SINCE THE MARCH OF 2014 AND THE FLAT DIRECTLY ABOVE HER OWN HAS HAD NOBODY IN IT SINCE THE JUNE, AND ON A TUESDAY SHE ASKED ONE PERSON ONE QUESTION AND WAS GIVEN ONE SENTENCE, AND SHE ASKED NO SECOND ONE.**
 
-The building is a block of flats put up in about 1961 and converted in about 1994, and there are twelve of them, and the heating is one system with one control on the ground floor and one dial at the top of it, and everybody who lives there pays a share according to what they use, and the shares have not moved since 2014 because nobody has ever wanted to move them.
+The block went up in about 1961 and was divided up in about 1994 and there are twelve of them in it, and the heating is one system for the whole of it, and everybody in the building pays a twelfth of what it costs, and the twelfths have not been looked at since 2014 because nobody has ever wanted to look at them.
 
-She is a woman in her mid fifties. She has been in the flat on the second since the March of 2014 and she pays her third on the first of the month, in cash, to a woman who lives on the ground.
+She is a woman in her mid fifties. She has been in the flat on the second since the March of 2014, and she pays her twelfth on the first of the month, in cash, to a woman who lives on the ground.
 
-The woman on the ground is in her late sixties and has been doing it since before either of the two of them came to it, and she is not anything to do with the building except that she is in it, and she has never once said she was, and nobody has ever asked her to be.
+Since the June she has been paying two of them. The shares were set against twelve flats in 2014 and nobody has ever set them against anything else, so the twelfth of the flat above hers comes out of the same hand as her own, and the ten others in the building have gone on paying one apiece, and it has added up to twelve.
 
-The flat directly above the woman in her mid fifties was let from 2014 until the June of 2019 to a woman whose name everybody in that building knew and nobody in that building spoke to.
+The woman on the ground is in her late sixties and has been doing it since before either of them came to that building, and she is not anything to do with the building except that she is in it, and she has never once said she was, and nobody has ever asked her to be.
 
-She went at the end of June. There was a week of noise and then nothing, and the door has been shut since, and the thing that comes out of it in the summer is a smell of cold plaster.
+The flat directly above the woman in her mid fifties was let from 2014 until the June of 2019 to a woman whose name every person in that building knew and no person in that building ever spoke to.
 
+She went at the end of June. There was a week of noise and then nothing, and the door has been shut since, and what comes out of it in a warm week is a smell of cold plaster.
 
-On the Friday before, the woman in her mid fifties had come down to ask about the reading, because the reading had been up since the December and she had not asked about it, and she asked about it.
+The week before this one was the mildest week anybody in that street could remember in February, and nothing in that block was heated at all, not one flat, for six days.
 
-The woman on the ground said the number and said it was the same number as the December one, and then the woman in her mid fifties said the sentence she had been carrying for about twenty days.
+That is what made her ask.
+
+The figure on the dial on the ground floor had read the same number since the December, and it should have gone up by the middle of February, and she had not asked about it before and she asked about it on the Friday because the Friday is when she goes down anyway.
 
 "How long has it been empty up there?"
 
-The woman on the ground did not look up from the dial. "Since June," she said. "It's not been shut. It's just empty."
+She said it after the woman on the ground had given her the number, and after the woman on the ground had said the number was the same one as the December one, and she had carried the sentence for about twenty days.
+
+The woman on the ground did not look up from the dial.
+
+"Since June. It's not been shut. It's just empty."
 
 That is one sentence, and it is the whole truth, and the woman who said it is not wrong about any part of it and is not trying to be helpful either.
 
-The woman in her mid fifties stood in that ground-floor space for a moment. There were a great many things she could have said next, and she has thought about most of them since, and she did not say any of them, and the woman on the ground went on with what she was doing.
+The woman in her mid fifties stood in that ground-floor space for a moment. There were a great many things she could have said next and she has thought about most of them since, and she did not say any of them, and the woman on the ground went on with what she was doing.
 
 After about a minute the woman in her mid fifties said, "Right," and went back up.
 
+---
 
-She went back up and she did not tell anybody, and there is nobody in that building she would have told.
+She worked the sum out on the Saturday, on a page torn out of a book by the arm of the seat she sits in, and she got the same answer twice, and then she tore the page in half and put it in the cooker.
 
-She worked it out over the weekend. She has paid a third every month since the March of 2014, and the third has gone up twice in that time, and the money for the empty flat above her has come out of the same money as the money for her own heating since the June of 2019, which is eight months.
+The number on it was not large. That is the part that has stayed with her. It would not pay for a fortnight of anything anybody would want, and she has gone back over that in her own head more than once and it does not get bigger.
 
-She worked the sum out twice on a page torn out of a book by the arm of her seat and got the same answer both times, and then she tore the page in half and put it in the cooker, and the number on it was not large, which is the part that has stayed with her.
+On the Monday she went down and told the woman on the ground that she would not be paying the twelfth for the upper part from the first of March.
 
-On the Monday she went down and said she would not be paying the third for the upper part from the first of March.
-
-The woman on the ground said, "Right," and wrote it down, and put nothing at all about it, and did not say it was not possible, and did not say anything at all that was not true.
+The woman on the ground said, "Right," and wrote it down, and put nothing at all about it, and did not say it was not possible, and did not say anything whatever that was not true.
 
 Then the woman in her mid fifties went back up and shut her own door.
 
-**THE MONEY DOES NOT GO ANYWHERE. IT IS COUNTED IN A BOOK BY A WOMAN WHO IS NOT ASKED TO COUNT IT AND WHO HAS ASKED NOBODY FOR MORE MONEY IN TWENTY MONTHS, AND SHE HAS TOLD NOBODY THAT SHE HAS ASKED.**
 
-She counts it on a Sunday. It has been counted on a Sunday since about 2002, and the Sunday is the same Sunday, and the count takes about a quarter of an hour with a pen and a pad and a mug of tea that goes cold.
+The woman on the ground counts the money on a Sunday. It has been counted on a Sunday since about 2002 and it is always the same Sunday and it takes about a quarter of an hour with a pen, a pad, and a mug of tea that goes cold.
 
-There are twelve flats and there were twelve shares and since June there have been nine people paying a twelfth of a building that needs twelve.
+She has not asked anybody for a higher share since the June, which is eight months. She has thought about asking, in the way people think about a thing that is not going to happen, and there is a person in that building who would not say yes and one who might, and she has not asked either.
 
-She has said nothing about that. She is a woman in her late sixties who has lived on the ground floor of that block since before it was divided up and she has done the same job for a company that no longer trades, and she does it because the alternative is that nobody does it, and nobody has ever asked her what happens if she stops.
+There is one control for all twelve, on the ground floor, and everybody in that building goes past it, and what goes into it pays for all of it.
 
-She has thought about what happens if she stops. She has thought about it in the way people think about a thing that is not going to happen.
+She does not switch it on. She has never switched it on in her life. There is a key and it hangs on a nail beside the dial, and that space is not locked, and anybody in that building could put the key in and turn it and would be welcome to.
 
----
+From the first of March what goes into that box is one twelfth less than it was, and nothing else about that building has changed, and what that means in practice is that the last week of the month it runs low.
 
-There is one control for all twelve.
+It will not be sudden and it will not be anybody's fault and nobody will be told. It will be a building that is a little colder than it was, in every one of the twelve flats, including hers.
 
-That is how the building is. It was converted in 1994 by people who did not think about it, and there is a box on the ground floor that every one of the twelve goes past, and what goes in it pays for all of it and what is not paid for goes in short.
+She will sit in it with her door shut and a jumper on and know exactly which fortnight she chose, and no one will come and see her, and she has not asked anybody to.
 
-The woman on the ground does not switch it on. She has never switched it on in her life. There is a key, and it hangs on a nail in the space where the dial is, and that space is unlocked, and anybody in that building could put the key in the box and turn it.
-
-From the first of March what goes into that box is nine twelfths of what the twelve of them were putting into it, and nothing else about that building has changed, and the result of it is that three flats of it have no heat in them and one of the three belongs to the woman in her mid fifties.
-
-Nine of the twelve flats are warm. The woman in her mid fifties' is one of the three that are not, and so are the two that have no one in them in the daytime, and nobody in that building is without anything, and nobody is going to be without anything, and there is a woman in her late sixties with a key on a nail and no one of the twelve will ever put any of it to her.
-
-**SHE PAID FOR A FLAT WITH SOMEBODY IN IT UNTIL JUNE AND HAS PAID FOR AN EMPTY ONE SINCE, AND SHE ASKED ONE QUESTION AND WAS TOLD THE TRUTH, AND FROM THE FIRST OF MARCH THE ONE BOX IN THAT BUILDING IS BEING PAID FOR BY NINE PEOPLE INSTEAD OF TWELVE, AND SHE IS ONE OF THE THREE WHO IS COLD.**
+**SHE PAID FOR A FLAT WITH SOMEBODY IN IT UNTIL JUNE AND HAS PAID FOR AN EMPTY ONE SINCE, AND SHE WAS TOLD THE TRUTH ONCE AND ASKED FOR NOTHING ELSE, AND FROM THE FIRST OF MARCH WHAT GOES INTO THAT BOX IS ONE TWELFTH LESS THAN IT WAS, AND THE CONSEQUENCE OF THAT LANDS ON HER AND NOT ON ANYBODY ELSE.**

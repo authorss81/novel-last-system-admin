@@ -1,71 +1,73 @@
 # Chapter 0546 — Neither of Them Went
 
-The Wednesday of the twelfth of February 2020, and from about twenty to eight in the morning until about ten to nine in the evening, in two short streets and about a quarter of a mile of road between them.
+The Wednesday of the twelfth of February 2020, from about ten past eight in the morning until about a quarter past five in the afternoon, on about a quarter of a mile of one road and in two short streets that come off it.
 
-**TWO HOUSEHOLDS IN A QUARTER OF A MILE HAVE BOTH CHANGED SOMETHING SINCE THE NOVEMBER WITHOUT TELLING A SOUL, AND THE ONE SENTENCE THAT WOULD SETTLE IT HAS BEEN AVAILABLE TO BOTH OF THEM EVERY MORNING SINCE AND HAS BEEN SAID BY NEITHER.**
+**THEY HAVE BOTH BEEN OUT ON THAT ROAD EVERY MORNING FOR TWO YEARS AND NEITHER OF THEM HAS EVER SAID THE ONE SENTENCE THAT WOULD SETTLE IT, AND EACH OF THEM BELIEVES THE OTHER HAS BEEN LET GO FIRST.**
 
-The two streets come off the same road a short way apart. Hers is the one with the small flats in it. His is the one with the houses that were built for people who worked at the place by the water, which is now something else.
+The two streets come off the same road a short way apart. Hers is the one with the small flats in it. His is the one with the houses that were built for people who worked at the place by the water, which is something else now and has been for a long time.
 
-They come out at about the same time every morning and they have both done it for years, and none of it has ever been a rule anybody made. It is only what the road does. Whoever gets to it first stops, and the other one goes, and that is the whole of it, and there is nothing anybody decided.
+Nobody made a rule about this. It is only what the road does. Whoever is standing at the edge of it goes, and the other one waits, and then goes, and that has been the whole of the arrangement for as long as either of them has been here.
 
-She is a woman in her early thirties. She has been at the same flat for two years and she leaves at seven minutes past eight in the morning and goes up to the road without looking either way, because after two years she does not have to look.
+She is a woman in her early thirties. She has been in the same flat since the March of 2018 and she is out of her door at ten past eight most mornings and up to the road inside a minute, and she has gone first every single morning for two years.
 
-He is a man in his early sixties. He has been at the same house since about 1998 and he backs out of it at about a quarter past eight and he goes up to the road, and for nine years he has not had to look either.
+He is a man in his early sixties. He has been in the same house since about 1998 and he backs out of it and is at the road at a quarter past eight, and for two years he has gone second.
 
-In November he changed something. He started coming out ten minutes later. He has not given a reason to anybody, including himself, and he has done it every working morning since, and he has watched, from the top of his own drive, his own front door, and he has seen her go up to the road in front of his house and turn in, and he has waited ten minutes, and then he has come out.
+In November he changed something. He began coming out ten minutes later than he used to, so that he is at the road at about twenty past instead of a quarter past, and he has done it every working morning since, and he has given no reason to anybody including himself, and from the top of his own drive he can see the end of her street and he can see her go up to the road and turn in, and then he waits ten minutes and comes out.
 
-That is the whole of what has changed. It is not a trick and it is not a plan and neither of them would be able to tell you what it is for.
+That is the whole of what has changed. It is not a trick and it is not a plan and neither of them could tell you what it is for.
 
----
+At ten past eight she is at the edge of the road and there is nobody there.
 
-On the Wednesday of the twelfth she comes out at seven minutes past eight and goes up to the road and there is nobody there, and she stops.
+She stands with her hands in her pockets and looks up at the other street. The houses along that stretch are built shoulder to shoulder with their fronts on the road and the only gaps are for the two streets, and she looks at the near end of his and nothing comes out of it.
 
-She waits. She stands at the edge of the road with her hands in her pockets and she looks at the other street, and there is nothing coming out of it, and after a while she goes back onto her own side, which is not where anybody stands and which she does anyway.
+After a while she moves back onto her own side, which is not a place anybody stands, and she does that anyway, and she has done it most mornings since November.
 
-At about a quarter past eight his engine starts. She can hear it starting from where she is standing, because the walls of the houses in that street take sound and bring it out flat.
+At about a quarter past eight his engine starts. She hears it starting from where she is standing, because the walls on that stretch take a sound and bring it out flat and slightly wrong.
 
-He comes out and he goes up to the road and he stops, and she is already standing there, and they are about eight yards apart and neither of them is going first.
+He comes out and goes up to the road and stops, and she is already there, and they are about eight yards apart, and neither of them is going anywhere.
 
 "It was clear for you," he says.
 
 "It was clear for you," she says.
 
-That is the whole exchange. It is two sentences that mean the same thing, which is not the same as being agreed, and after it they both wait again, and about a minute goes by.
+That is the whole exchange. Two sentences that mean the same thing, which is not the same as being agreed, and after it they wait again, and about a minute goes by.
 
-A woman comes out of the row further up, at the far end, and crosses. She crosses between them, in the middle of the road, with a wheeled basket, and neither of them has to stop her because neither of them is moving.
+A woman comes out of the row further along, at the far end, and crosses. She crosses between them, in the middle of the road, with a wheeled basket, and she takes it over the dropped edge on the far side without slowing down, and neither of the two of them has to stop her, because neither of the two of them is moving.
 
-It takes her as long as it takes. She gets to the other side, and goes along it, and turns, and is gone, and the two of them stand exactly where they were.
+She gets to the other side, and goes along it, and turns in at the next one, and is gone, and the two of them are standing exactly where they were.
 
-The man in his early sixties puts his hand on the wheel and looks at his own front door. The woman in her early thirties looks at the other street. Then the man goes up to the road, and goes, and the woman follows him out about four seconds later, and they go the same way, and there is nobody behind them.
+The man in his early sixties puts his hand on the wheel and looks at his own front door. The woman in her early thirties looks at the other street. Then he goes up to the road and goes, and she follows him out about four seconds later, and they go the same way, and there was nothing behind them.
 
 Nobody in either house has been told anything.
 
-The woman in her early thirties lives with two other people and one of them asked her in the November why she was standing at the end of the street for a quarter of an hour, and she said the traffic was heavy that week, and the other one accepted it, and it has not been raised since, and there is a version of that answer she has been using on nobody else.
+She lives with two other people and one of them asked her in the November why she was standing at the end of the street for a quarter of an hour on a Wednesday, and she said the traffic was heavy that week, and the other one took it at the time, and it has not come up since, and there is a version of that answer she has been holding in reserve for nobody.
 
-The man in his early sixties lives alone and told nobody anything, and on the Tuesday of that November he said out loud, to a man in the post about a parcel, that he was going in later, and the man in the post did not ask what later meant, and that is the end of the record of it.
+He lives alone and told nobody anything. On the Tuesday of that November he said out loud, to a man in the post about a parcel, that he was going in later, and the man in the post did not ask what later meant, and that is the whole of the record of it.
 
-**EITHER OF THEM COULD HAVE SAID THE ONE SENTENCE THAT WOULD HAVE SETTLED IT AND NEITHER HAS SAID IT AND NEITHER IS GOING TO, AND THE WEEKS SINCE THE NOVEMBER ARE A THING THAT HAPPENS BETWEEN TWO HOUSEHOLDS INSTEAD OF A THING THAT HAPPENS ANYWHERE.**
+**EITHER OF THEM COULD HAVE PUT IT TO THE OTHER ONE AND NEITHER IS GOING TO, AND THE WEEKS SINCE NOVEMBER ARE A THING THAT HAPPENS BETWEEN TWO HOUSEHOLDS AND NOT A THING THAT HAPPENS ANYWHERE.**
 
-So there are two households in a quarter of a mile in this borough inside which a thing has changed, and it changed in the November, and neither of the two people it changed has ever said so to anybody in either house, and the reason neither of them has is not the same reason, and neither of them knows that.
+The other people who use that road in the morning are four, and none of them is hers and none of them is his, and they go at all hours, and not one of them has ever had to stop for either of the two of them, and not one of them has ever seen anything there worth stopping for.
 
-The other four people who use that road in the morning are not hers and not his and they go at all hours, and none of them has ever had to stop for either of them, and none of them has ever seen anything to stop for.
+That is the part of it which is in neither of their heads. Two people have spent three months turning a stretch of road a dozen people use every morning without a thought into something with a shape to it, and if either of them were asked to describe what has been happening out there they would not be able to, and neither of them has tried.
 
-That is the part of it that is in neither of their heads. Two people have spent three months making a small problem out of a stretch of road that a dozen other people use every morning without a thought, and if either of them were asked to describe what was happening they would not be able to, and neither of them has tried.
-
-It is also, on the ordinary reading, not a problem. There is no queue. There is no delay of more than a minute on any morning in three months. Two people who both think they are being fair, at a junction, with nothing owed to anybody.
+On the ordinary reading it is not a problem. There is no line of anything. There is no wait of more than a minute on any morning since November, and most mornings there is no wait at all.
 
 ---
 
-It is the same at about half past four, which is the other time they cross.
+It is the same at about half past four, which is the other time the two of them cross.
 
-And it is the same on the Thursday, and on the Friday, and on the Monday, and it goes on for the rest of that week and the week after, and neither of them ever mentions it to anybody, and after about a fortnight neither of them mentions it in the road either.
+It is the same on the Thursday, and on the Friday, and on the Monday after that, and it goes on through the rest of that week and into the next one, and neither of them mentions it in the road after about a fortnight, and neither of them mentions it inside a house either.
 
-What changes is that the ten minutes he added in November come off. He is not giving way and she is not giving way and neither of them is going to say the sentence that would settle it, and there is no sentence available that would settle it, because they are both right and the road does not know it.
+What changes is that the ten minutes he put on in November start to come off.
 
-On the Monday of the seventeenth he comes out at about ten to eight. He has never come out at that time. She is already at the road when he gets there, and she does not say anything about it, and she does not move, and he waits for her.
+He does not go back to a quarter past eight and she does not go back to ten past eight, and neither of them is going to say the sentence, and there is no sentence available that would do it, because they are both right and the road does not know it.
 
-That is the first time in five days that he has been first, and he has been first by about ten minutes, and she has let him be, and neither of them has ever mentioned that there was a time when it was the other way round.
+At about half past four on that Wednesday she is at the edge of the road and he is at the edge of the road, and they say the two sentences, and about a minute goes by, and then he goes and she follows him out about four seconds later.
 
-He has not gone back to a quarter past eight. He has not gone back to a quarter past eight and she has not gone back to seven minutes past, and they will both be at that road in the morning.
+At about nineteen minutes past four she is at the edge of the road on her own.
 
-**THEY HAVE BOTH BEEN GIVING WAY SINCE THE NOVEMBER BEFORE AND NEITHER OF THEM HAS SAID SO, AND ON THE MONDAY SHE LET HIM GO FIRST BY ABOUT TEN MINUTES AND SAID NOTHING, AND THE DAY BEFORE THAT A WOMAN WITH A BASKET WALKED BETWEEN THEM AND NEITHER OF THEM HAD TO BEHAVE ANY DIFFERENTLY FOR IT.**
+She went out early. There is no reason for it and she has not looked for one and nobody in the flats has been told she is going. He comes out of his at about twenty to five, as he always has at that end of the day, and there is nobody at the edge of the road, and he stands there for about a minute anyway, the way a person stands at a road they have been meeting somebody at for two years.
+
+Then he goes.
+
+**SHE HAS BEEN AT THAT ROAD AT HALF PAST FOUR FOR TWO YEARS AND AT NINETEEN MINUTES PAST FOUR SHE WAS THERE ONCE, AND HE CAME OUT AT HIS OWN TIME AND FOUND IT EMPTY AND STOOD THERE FOR A MINUTE ANYWAY, AND NEITHER OF THEM WILL EVER MENTION IT.**
