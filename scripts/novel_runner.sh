@@ -32,7 +32,14 @@ phase_dir=""
 # because it stops at the first eligible phase, and an obsolete phase often
 # sorts after the phase that is actually pending.
 retire_obsolete_phases() {
-  local changed=false prompt_file candidate first_line_lc outline_vol
+  local changed=false prompt_file candidate first_line_lc outline_vol rescued
+  # Recover first: a blocked phase that asks one call to write a whole batch
+  # never writes anything, so rescope it instead of stalling the repository.
+  rescued="$(python3 scripts/rescue_overscoped.py . 2>/dev/null || true)"
+  if [ -n "$rescued" ]; then
+    echo "$rescued"
+    changed=true
+  fi
   while IFS= read -r prompt_file; do
     candidate="$(dirname "$prompt_file")"
     if [ -f "$candidate/.retired" ] || [ -f "$candidate/.done" ]; then
@@ -172,6 +179,7 @@ restore_controller_files() {
     scripts/novel_runner.sh \
     scripts/install_opencode.sh \
     scripts/build_epub.py \
+    scripts/rescue_overscoped.py \
     .github/workflows/novels.yml \
     .opencode/agent/novel-writer.md \
     .opencode/agent/novel-reviewer.md \
