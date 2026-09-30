@@ -1,3 +1,25 @@
+# SCOPE OF THIS RUN - READ FIRST
+
+**This run writes Chapters 525 to 529 and nothing else.**
+
+Chapters 530 to 534 are a later phase's work. Ignore any
+instruction below that requires you to write them.
+
+1. **Write the chapters.** Chapters 525 through 529, in ascending order. Start with the first one in your very
+   first action. Begin the file for that chapter immediately.
+2. **Do not attempt any close, audit, or planning duty** listed below. Those
+   belong to later phases. Ignoring them is required; attempting them is a
+   failure of this run.
+3. **Do not create a next-phase prompt.** The pipeline creates it.
+4. **Update only the state files** these chapters require, and nothing else.
+
+Every rule below still binds the prose you write. But if a rule cannot be
+satisfied inside this run's chapters, write the chapters anyway and record the
+unmet rule in `state/open-threads.md` for a later phase.
+
+**Producing finished chapters is the success condition for this run. Returning
+without writing any chapter is a failure.**
+
 # VOLUME 05, CONTINUATION 0034 — CHAPTERS 525–534
 
 **A CONTINUATION BATCH AND NOT A VOLUME CLOSE. THE SERIES IS AT 534 OF 720 AFTER CHAPTER 534 IS WRITTEN AND 524 IS WHERE THE PAGE STANDS NOW. CARD 0534 IS NOT A CLOSE AND MUST NOT BE CALLED ONE, AND NO CARD IN THIS BATCH MAY BE CALLED ONE.**
