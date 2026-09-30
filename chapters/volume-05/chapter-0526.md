@@ -68,4 +68,4 @@ The older man went in. The younger man stood where he was for about half a minut
 
 He walked the five minutes home and he did not slow down once on the way, not at the lay-by and not at the bridge, and he was in his own kitchen at a quarter past eight with his lunch in his hand, and he stood at the end of his own front and ate it.
 
-**HE STOOD AND ATE IT ALL, AND HE DID NOT SLOW DOWN ONCE ON THE WAY HOME, AND HE IS NOT GOING TO ASK, AND THE OTHER MAN HAS NOT SAID ONE WORD ABOUT MARCH, AND IT IS THE FIRST WEDNESDAY SINCE MARCH ON WHICH SOMEBODY HAS SAID NOTHING TO ANYBODY.**
+**HE STOOD AND ATE IT ALL, AND HE DID NOT SLOW DOWN ONCE ON THE WAY HOME, AND HE IS NOT GOING TO ASK, AND THE OTHER MAN HAS NOT SAID ONE WORD ABOUT MARCH, AND IT IS THE FIRST TUESDAY SINCE MARCH ON WHICH THE TWO OF THEM HAVE SAID NOTHING TO EACH OTHER.**

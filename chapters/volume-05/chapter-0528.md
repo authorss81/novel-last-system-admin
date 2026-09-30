@@ -2,11 +2,11 @@
 
 The Friday of the eighth of November 2019, from about half past two in the afternoon until about ten past three, in a row of houses in this borough.
 
-**THE HOUSE IS NUMBER TWENTY-SIX AND IT HAS BEEN EMPTY SINCE 2011, AND BOTH SISTERS HAVE HALF OF IT AND NEITHER HAS LET IT AND NEITHER HAS SOLD IT, AND NEITHER HAS BEEN INSIDE IT SINCE THE FUNERAL, AND THEY HAVE NOT AGREED ABOUT ANYTHING SINCE 1999.**
+**THE HOUSE IS NUMBER SIXTEEN AND IT HAS BEEN EMPTY SINCE 2011, AND BOTH SISTERS HAVE HALF OF IT AND NEITHER HAS LET IT AND NEITHER HAS SOLD IT, AND NEITHER HAS BEEN INSIDE IT SINCE THE FUNERAL, AND THEY HAVE NOT AGREED ABOUT ANYTHING SINCE 1999.**
 
 The sisters are a woman of about seventy and a woman of about sixty-five, and the house was their mother's, and their mother was in it for fifty years, and she died in it in 2011 on a Sunday afternoon with neither of them in the borough.
 
-What this is about is the October of 1999.
+What this is about is the September of 1999.
 
 Their mother was eighty-one and had come through a bad run of months. A woman from the surgery had said in the September, in the room at the front of number sixteen, in front of both of them, that there was a thing about going up and down in the dark that she would want somebody to look at. She had used the word twice and had not said what the word was.
 
@@ -42,7 +42,7 @@ What the older sister has done with the sentence is put it in a different place 
 
 She has had that shape for twenty years and it is a thing that can be carried.
 
-She has had the sentence for three days and it says that her sister had already decided in November 1999 to move their mother, and had decided to be the one who did it, and had then gone on for twelve years in that house saying in front of everybody that their mother was not going anywhere. Which means the two of them did not disagree, or did not disagree in the way either of them has always said, and it means the sister who argued for the staying was the sister who had already made the arrangements, and it means that the one who has been wrong for twenty years is the one who said it out loud.
+She has had the sentence for three days and it says that her sister had already decided to move their mother, and had decided to be the one who did it, and had decided it in the weeks between that night in the September and the middle of October, and had then gone on for twelve years in that house saying in front of everybody that their mother was not going anywhere. Which means the two of them did not disagree, or did not disagree in the way either of them has always said, and it means the sister who argued for the staying was the sister who had already made the arrangements, and it means that the one who has been wrong for twenty years is the one who said it out loud.
 
 She has not worked out what to do with that, and there is no way of holding it that brings the twenty years back.
 
@@ -74,9 +74,9 @@ The woman at eighteen said the house had been empty a long time and that she had
 
 The older sister said, "Yes."
 
-The woman at twenty-eight looked at her front path, and at the house, and said, "It's a nice house, that," and the older sister said, "It is," and the woman said, "You going to do something with it?" and the older sister said, "No," and the woman said, "Fair enough," and went off up the row.
+The woman at eighteen looked at her front path, and at the house, and said, "It's a nice house, that," and the older sister said, "It is," and the woman said, "You going to do something with it?" and the older sister said, "No," and the woman said, "Fair enough," and went off up the row.
 
-That was four minutes and it was the whole conversation and the woman at twenty-eight was quite pleasant about it and asked nothing that was not asked.
+That was four minutes and it was the whole conversation and the woman at eighteen was quite pleasant about it and asked nothing that was not asked.
 
 After the woman had gone the older sister stood where she had been standing and did not go up the front path, and she has not gone up a front path anywhere for eight years and there was no particular reason on that Friday why she should have.
 
@@ -84,6 +84,6 @@ She had thought about it on the way up the row. She had thought about it at the 
 
 And under that, which she did not say to herself in those words, was that she does not know what she would say if she got in.
 
-So she stood at the bottom of the front path for about the best part of twenty minutes with nothing at her feet, and at some point in the middle of it she understood that the twenty years are not going to be settled by anything she does today, and at some point after that she understood that the sentence the woman at number fourteen gave her on Wednesday is not going to be settled by anything she does today either, and she stood there anyway, and at about ten past three she turned round, walked to the end of the row, turned again, and went home by the other way.
+So she stood at the bottom of the front path for about the best part of twenty minutes with nothing at her feet, and at some point in the middle of it she understood that the twenty years are not going to be settled by anything she does today, and at some point after that she understood that the sentence the woman at number fourteen gave her on Tuesday is not going to be settled by anything she does today either, and she stood there anyway, and at about ten past three she turned round, walked to the end of the row, turned again, and went home by the other way.
 
 **THE BOY WENT UP THE ROW AND DID NOT COME BACK DOWN IT. SHE WENT HOME BY THE OTHER WAY, AND IT HAD BEEN TWENTY MINUTES.**
