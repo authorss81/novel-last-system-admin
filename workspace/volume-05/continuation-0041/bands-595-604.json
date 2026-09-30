@@ -1,0 +1,266 @@
+{
+ "MEN": {
+  "595": [
+   "mid sixties"
+  ],
+  "596": [
+   "early forties",
+   "late fifties"
+  ],
+  "597": [
+   "mid fifties"
+  ],
+  "598": [
+   "early thirties",
+   "late twenties"
+  ],
+  "599": [
+   "mid forties"
+  ],
+  "600": [
+   "mid thirties"
+  ],
+  "601": [
+   "early twenties",
+   "late thirties",
+   "late forties"
+  ],
+  "602": [
+   "early sixties",
+   "mid twenties"
+  ],
+  "603": [
+   "early fifties"
+  ]
+ },
+ "WOMEN": {
+  "595": [
+   "early forties"
+  ],
+  "596": [
+   "early fifties"
+  ],
+  "597": [
+   "mid fifties"
+  ],
+  "598": [
+   "early thirties"
+  ],
+  "599": [
+   "mid thirties"
+  ],
+  "600": [
+   "late fifties"
+  ],
+  "601": [
+   "late thirties",
+   "mid forties",
+   "late sixties"
+  ],
+  "602": [
+   "late forties",
+   "early sixties"
+  ],
+  "603": [
+   "mid sixties"
+  ]
+ },
+ "_order": {
+  "MEN": [
+   [
+    595,
+    [
+     "fifties",
+     "forties",
+     "sixties"
+    ]
+   ],
+   [
+    596,
+    [
+     "thirties",
+     "forties",
+     "twenties"
+    ]
+   ],
+   [
+    597,
+    [
+     "forties",
+     "fifties"
+    ]
+   ],
+   [
+    597,
+    [
+     "fifties",
+     "sixties",
+     "forties"
+    ]
+   ],
+   [
+    598,
+    [
+     "fifties",
+     "sixties",
+     "thirties"
+    ]
+   ],
+   [
+    599,
+    [
+     "forties",
+     "fifties",
+     "sixties"
+    ]
+   ],
+   [
+    600,
+    [
+     "forties",
+     "sixties",
+     "thirties"
+    ]
+   ],
+   [
+    601,
+    [
+     "thirties",
+     "forties",
+     "twenties"
+    ]
+   ],
+   [
+    601,
+    [
+     "forties",
+     "fifties",
+     "sixties"
+    ]
+   ],
+   [
+    601,
+    [
+     "thirties",
+     "forties"
+    ]
+   ],
+   [
+    602,
+    [
+     "forties",
+     "fifties",
+     "sixties"
+    ]
+   ],
+   [
+    602,
+    [
+     "thirties",
+     "forties",
+     "twenties"
+    ]
+   ],
+   [
+    603,
+    [
+     "forties",
+     "fifties",
+     "sixties"
+    ]
+   ],
+   [
+    604,
+    [
+     "fifties",
+     "sixties",
+     "forties"
+    ]
+   ]
+  ],
+  "WOMEN": [
+   [
+    595,
+    [
+     "thirties",
+     "forties"
+    ]
+   ],
+   [
+    596,
+    [
+     "forties",
+     "fifties"
+    ]
+   ],
+   [
+    597,
+    [
+     "fifties",
+     "sixties"
+    ]
+   ],
+   [
+    598,
+    [
+     "twenties",
+     "thirties"
+    ]
+   ],
+   [
+    599,
+    [
+     "twenties",
+     "thirties"
+    ]
+   ],
+   [
+    600,
+    [
+     "forties",
+     "fifties",
+     "sixties"
+    ]
+   ],
+   [
+    601,
+    [
+     "twenties",
+     "thirties"
+    ]
+   ],
+   [
+    601,
+    [
+     "twenties",
+     "thirties",
+     "forties"
+    ]
+   ],
+   [
+    602,
+    [
+     "thirties",
+     "forties"
+    ]
+   ],
+   [
+    602,
+    [
+     "forties",
+     "fifties",
+     "sixties"
+    ]
+   ],
+   [
+    603,
+    [
+     "forties",
+     "fifties",
+     "sixties"
+    ]
+   ]
+  ]
+ },
+ "_chapter_604": "NOT ALLOCATED SEPARATELY AND THAT IS BY DESIGN, NOT BY OMISSION. CARD 0604 IS THE COUNTING CHAPTER AND ITS FIGURES ARE THE NINE FIGURES OF 0595-0603 COMING BACK ON THE PAGE, WHICH IS WHAT THE CARD ASKS FOR. A SECOND ALLOCATION FOR IT WOULD GIVE THE SAME PERSON A SECOND BAND. CHECK TWO THEREFORE REPORTS 0604 AS A DISAGREEMENT ON EVERY RUN AND THAT IS THE CORRECT READING."
+}
