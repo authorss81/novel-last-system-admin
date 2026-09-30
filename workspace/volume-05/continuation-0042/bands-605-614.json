@@ -1,0 +1,139 @@
+{
+  "batch": "VOLUME 05, CONTINUATION 0042",
+  "chapters": "605-614",
+  "written": "2026-09-30",
+  "note": "WRITTEN BEFORE ANY PROSE IN THIS BATCH EXISTS. THE READ-BACK BELOW IS MANDATORY AND IS THE MEASURE THIS ACCOUNT'S OWN METHOD HAS FAILED TWICE WITHOUT.",
+  "declared_ordinary_word": {
+    "word": "USUALLY",
+    "declared": "2026-09-30",
+    "note": "DECLARED BEFORE THE FIRST CHAPTER WAS WRITTEN AND NOT AFTER. IT IS NOT ONE OF ALMOST, ONE, WEEK, ABOUT, QUITE, TWO, FOUR, ANYTHING, ENOUGH, JUST, SAID. IT MAY BE REPORTED AT WHATEVER FIGURE IT COMES OUT AT AND THE FIGURE IS NOT TO BE ARRANGED."
+  },
+  "family": {
+    "name": "THE SEVENTH FAMILY",
+    "shape": "TEN CHAPTERS ABOUT A THING A PERSON IS CARRYING AND CANNOT PUT DOWN AND WILL NOT BE TOLD WHAT IT IS FOR. THE CHAPTER IS A DAY ON WHICH THE CARRYING COSTS SOMETHING, THE PERSON IS COMPETENT, AND THE THING IS NOT PUT DOWN.",
+    "distinguishing_test": "It cannot be summed as SOMEONE DID A SMALL THING AND IT WENT NOWHERE, which is 595-604 and is spent. In all ten of these, nothing is attempted and nothing is completed, and what costs is the holding.",
+    "flag_to_the_next_writer": "NO HUMAN CHOSE THIS FAMILY. THE PROMPT SAYS THE FAMILY IS CHOSEN BY A HUMAN OR NOT AT ALL AND ASKS A WRITER WHO CANNOT NAME A NEW SHAPE TO WRITE THE SIXTH FAMILY ANYWAY AND FLAG IT. A SHAPE WAS NAMED AND IT IS NAMED ABOVE AND IT IS FLAGGED HERE AS THE WRITER'S OWN AND NOT A HUMAN'S."
+  },
+  "ladder": {
+    "floor": "0605 = Friday the twentieth of November 2020, derived from 0604's own Friday the thirteenth of November and a gap of seven days",
+    "rule": "ten gaps counting the incoming one, each three to seven days, because no chapter spans two dates",
+    "gap_row": [
+      7,
+      5,
+      6,
+      4,
+      5,
+      6,
+      5,
+      4,
+      6,
+      5
+    ],
+    "dates": [
+      {
+        "ch": 605,
+        "date": "2020-11-20",
+        "weekday": "Friday",
+        "gap": 7
+      },
+      {
+        "ch": 606,
+        "date": "2020-11-25",
+        "weekday": "Wednesday",
+        "gap": 5
+      },
+      {
+        "ch": 607,
+        "date": "2020-12-01",
+        "weekday": "Tuesday",
+        "gap": 6
+      },
+      {
+        "ch": 608,
+        "date": "2020-12-05",
+        "weekday": "Saturday",
+        "gap": 4
+      },
+      {
+        "ch": 609,
+        "date": "2020-12-10",
+        "weekday": "Thursday",
+        "gap": 5
+      },
+      {
+        "ch": 610,
+        "date": "2020-12-16",
+        "weekday": "Wednesday",
+        "gap": 6
+      },
+      {
+        "ch": 611,
+        "date": "2020-12-21",
+        "weekday": "Monday",
+        "gap": 5
+      },
+      {
+        "ch": 612,
+        "date": "2020-12-25",
+        "weekday": "Friday",
+        "gap": 4
+      },
+      {
+        "ch": 613,
+        "date": "2020-12-31",
+        "weekday": "Thursday",
+        "gap": 6
+      },
+      {
+        "ch": 614,
+        "date": "2021-01-05",
+        "weekday": "Tuesday",
+        "gap": 5
+      }
+    ],
+    "sum_from_0604": 53,
+    "sum_from_0605": 46,
+    "tenth_chapter_inside_the_strict_pair": "Sunday the twentieth of December 2020 to Friday the twenty-ninth of January 2021. 0614 is Tuesday the fifth of January 2021 and is inside it.",
+    "checks": "no two of the ten share a date; none falls on the ninth or the eleventh of any month; every named weekday inside every chapter is to be put on the real 2020 and 2021 calendar and checked against that chapter's own dateline BEFORE the chapter is finished; a chapter's dateline is the LAST day that chapter stages."
+  },
+  "male_allocation": {
+    "bands": {
+      "605": "late thirties",
+      "606": "early fifties",
+      "607": "mid thirties",
+      "608": "late twenties",
+      "609": "mid forties",
+      "611": "mid fifties",
+      "613": "late fifties",
+      "613 (second figure)": "early forties",
+      "614": "mid sixties"
+    },
+    "distinct_bands": 9,
+    "collisions": 0
+  },
+  "female_allocation": {
+    "bands": {
+      "606": "early fifties",
+      "610": "early sixties",
+      "610 (second figure)": "mid twenties",
+      "611": "late twenties",
+      "612": "early thirties",
+      "612 (second figure)": "mid thirties",
+      "614": "mid forties"
+    },
+    "distinct_bands": 7,
+    "collisions": 0
+  },
+  "debanded_passers_by": "Every second figure in these ten is a passer-by who carries nothing, has no band, and is not in the roster.",
+  "read_back": {
+    "status": "DONE",
+    "method": "Every banded figure in all ten chapters was extracted from the prose and counted, not only the first mention of each.",
+    "findings": [
+      "THE ALLOCATION AS FIRST WRITTEN FORGOT FIVE FIGURES ENTIRELY. IT NAMED SEVEN MALE AND FOUR FEMALE SUBJECTS AND THE PROSE CAME OUT WITH NINE MALE AND SEVEN FEMALE. THE FIVE IT FORGOT WERE THE HUSBAND IN 0606, THE WOMAN THE BAG IS FOR IN 0610, THE WOMAN WHO ASKS A QUESTION IN 0611, THE WOMAN IN THE KITCHEN IN 0612, AND THE MAN IN 0614 WHO DRAWS THE DRAWINGS, TOGETHER WITH THE SECOND FIGURE IN 0613.",
+      "THE READ-BACK THEN FOUND ONE GENUINE SAME-GENDER COLLISION THE ALLOCATION COULD NOT HAVE CAUGHT, BECAUSE THE ALLOCATION DID NOT KNOW EITHER FIGURE EXISTED. A WOMAN IN HER EARLY THIRTIES APPEARED IN 0611 AND A WOMAN IN HER EARLY THIRTIES APPEARED IN 0612. THE 0611 FIGURE WAS MOVED TO LATE TWENTIES AND THE PROSE WAS CORRECTED TO MATCH.",
+      "THE FINAL POSITION IS NINE DISTINCT MALE BANDS AND SEVEN DISTINCT FEMALE BANDS WITH NO BAND REUSED WITHIN EITHER GENDER AND NO FIGURE GIVEN TWO BANDS INSIDE ONE CHAPTER. THE READ-BACK WAS RUN AGAIN AFTER THE REPAIR AND THE COLLISION COUNT IS NIL.",
+      "THE FINDING IS THE THIRD ONE IN THIS REPOSITORY AND IT IS THE SAME ONE AS 0040 AND 0041: AN ALLOCATION WHICH IS NOT READ BACK AGAINST THE PROSE IS NOT A MEASURE. IT HAS NOW FORGOTTEN FIVE FIGURES, WHICH IS THE THIRD WAY IT CAN FAIL."
+    ],
+    "no_re_aging": "No figure already on the page was re-aged. The one band that moved was a figure who had not appeared in any earlier chapter and who exists only in 0611."
+  }
+}
