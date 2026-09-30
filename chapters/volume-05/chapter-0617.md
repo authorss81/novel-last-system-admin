@@ -54,7 +54,7 @@ Now. Take that apart, because he has taken it apart, and it is where the day wen
 
 It is not the bulb. He does not care about the bulb and she will have done about ninety shops on a Saturday.
 
-It is this: that woman had five things about him at once and she had all of them before she ever said any of them, and there is no way on earth she could have had any of them.
+It is this: that woman had four things about him at once and she had all of them before she ever said any of them, and there is no way on earth she could have had any of them.
 
 She knew he had a wife.
 

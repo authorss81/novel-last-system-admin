@@ -2,7 +2,7 @@
 
 Friday the twelfth of February 2021, and the shop opens at half past nine and what happened happened in the middle of the morning, and she was still behind the glass at eight in the evening, in this borough.
 
-**A MAN IN HIS EARLY FIFTIES CAME INTO A SHOP WHERE SHE IS THE ONLY ONE ON THE FLOOR AND ASKED FOR A WOMAN WHO USED TO DO THE SATURDAYS, AND SHE HAS WORKED THERE SINCE BEFORE THE SUMMER, AND SHE HAS SPENT THE DAY WITH HIS QUESTION IN THE SHOP AND HAS NOT SENT HIM ANYWHERE.**
+**A MAN IN HIS EARLY FIFTIES CAME INTO A SHOP WHERE SHE IS THE ONLY ONE ON THE FLOOR AND ASKED FOR A WOMAN WHO USED TO DO THE SATURDAYS, AND SHE HAS WORKED THERE SINCE BEFORE THE SUMMER, AND SHE HAS SPENT THE DAY WITH HIS QUESTION IN THE SHOP, AND AT TWENTY PAST TWO ON A FRIDAY SHE TOLD HIM THE ONE SHOP ON THAT PARADE THAT SHUTS ON A SATURDAY AND HE WROTE IT DOWN.**
 
 She is a woman in her mid twenties. She works Fridays and Saturdays in a shop on a parade that repairs phones and does unlocked phones and has a man who owns it in a room at the back with a radio on. She is the only one on the floor and she has been since before the summer.
 
@@ -40,7 +40,7 @@ And he said, "I don't know that I've got it right."
 
 And she said, "What do you know of it."
 
-And he said, "It's a Liz. Or a Lesley. It's one of the two."
+And he said, "It's an L. That's all I've got of it. It could be one word or it could be two."
 
 Here is where she has to say the thing she has been saying to herself all day and getting nowhere with.
 
@@ -52,7 +52,7 @@ That is the whole of what the day has been about and it took her until about two
 
 Here is what she got out of him, and she wrote all of it on the back of a docket pad in the stockroom at about half past twelve when he went to the shop next door to ask if it was the same one.
 
-One: he has a name that is a Liz or a Lesley and he is not certain which, and he has been certain of the other things.
+One: he has the first letter of her name and nothing else of it, and he cannot tell whether what she gave him was one word or two, and he has been certain of the other things.
 
 Two: the woman used to work on Saturdays.
 
@@ -74,7 +74,7 @@ The man who owns it came out of the back at about one with his tea.
 
 And he said, "What does he want."
 
-And she said, "A woman called Liz or Lesley."
+And she said, "A woman with a name that starts on an L."
 
 And he said, "Not from here."
 
@@ -156,7 +156,7 @@ And she answered him. Properly. She said, this one, and told him the hours, and 
 
 Because there are four shops on that parade and three of them are open on a Saturday, and if she had said nothing, or said some other thing, he would have walked out with one of the three still open, and one of the three still open is not right either, and there is a whole great deal further than that to go.
 
-And instead she has taken a man who is looking for a woman called Liz to a Saturday at one o'clock in a phone shop that shuts at one.
+And instead she has taken a man who is looking for a woman with a name that starts on an L, and has taken him to a Saturday at one o'clock in a phone shop that shuts at one.
 
 And he is going to try it.
 

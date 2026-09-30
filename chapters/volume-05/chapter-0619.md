@@ -66,7 +66,7 @@ Seven: the fact that the other woman, the one in her early thirties, has been do
 
 Eight: the woman who was here before the other one, who left in the summer, and who took with her the right to be asked things.
 
-And that is eight, and there are not any more of them, and she has been over it more than once.
+And that is eight, and there are not any more of them as far as she can tell at about ten o'clock, and she has been over it more than once.
 
 Here is what she has worked out, which is that none of the eight is it.
 
@@ -152,4 +152,4 @@ It is not it. She knows it is not it. It is a box of biscuits and there is no se
 
 And she has been over it in the car and she cannot put it out of the list either, because she has nothing to put it out with, and because the only thing that sorts a thing like that is standing in a doorway and using the minute.
 
-**SHE WROTE DOWN EIGHT THINGS SHE HAS TAKEN ON AND NONE OF THEM IS IT, AND SHE STOOD IN A DOORWAY AT HALF PAST THREE WITH THE PHONE STILL ON THE WALL AND DID NOT USE THE MINUTE SHE KNEW SHE HAD, AND SHE WOULD RATHER IT WAS ABOUT SOMEBODY, AND THE ONLY THING THAT WOULD SORT ANY OF IT IS A QUESTION SHE IS NOT GOING TO ASK.**
+**SHE WROTE DOWN EIGHT THINGS SHE HAS TAKEN ON AND FOUND A NINTH ON THE WAY HOME THAT SHE CANNOT GET RID OF, AND NONE OF THE NINE IS IT, AND SHE STOOD IN A DOORWAY AT HALF PAST THREE WITH THE PHONE STILL ON THE WALL AND DID NOT USE THE MINUTE SHE KNEW SHE HAD, AND SHE WOULD RATHER IT WAS ABOUT SOMEBODY, AND THE ONLY THING THAT WOULD SORT ANY OF IT IS A QUESTION SHE IS NOT GOING TO ASK.**
