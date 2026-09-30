@@ -10,7 +10,7 @@ The thing is a set of keys.
 
 Here is the thing that was said.
 
-The man in his early twenties said it on the Monday before, at about half past nine in the morning, in the queue, and he said it to the woman in his late thirties and not to anybody else, and she is the only person he spoke to that day about it.
+The man in his early twenties said it on the Monday before, at about half past nine in the morning, in the queue, and he said it to the woman in her late thirties and not to anybody else, and she is the only person he spoke to that day about it.
 
 He said, "You could give these back to my mam for me."
 
@@ -56,13 +56,13 @@ And he said, "I've not been past there in a bit."
 
 And she said, "You can't miss it. It's got a front garden."
 
-And he said, "Right."
+And he said, "I've got it."
 
 And she said, "Don't ring. She's not expecting you."
 
 And he said, "Right."
 
-And she said, "Right," and they both hung up, and that was the whole of the asking.
+And they both hung up, and that was the whole of the asking.
 
 What he did about it, at about six this evening, was this. He had the bag out of his pocket in the street and the ring round his finger and the fob on it, and he walked to the end of that road and turned and went up it counting, and he found the house at the last but one past the shop on the corner.
 
@@ -82,6 +82,8 @@ And he said, "Is this the one with the garden?"
 
 And she said, "It is."
 
+He had the ring in his hand by then and he put it up where she could see it without saying anything about it.
+
 And he said, "Is there a woman here who has a set of keys with a fob on it?"
 
 And she said, "Keys?"
@@ -100,21 +102,19 @@ And she said, "Your sister?"
 
 And he said, "I've got a ring with a fob on it and I'm to leave it."
 
-And the woman in her mid forties looked at the ring and then at him and said, "Right, I'll take them."
+She looked at the ring and then at him and said, "I'll take them."
 
 And he gave them to her and she put them on the shelf by the door, and he said, "She'll know which ones they are."
 
-And she said, "Right."
-
-And he said, "Cheers," and went, and he did not look back, and he did not go to the next house, and he has not mentioned it to anybody.
+She said, "Right," and shut the door, and he stood on the step for a second afterwards and then went, and he did not look back, and he did not go to the next house, and he has not mentioned it to anybody.
 
 ---
 
 Here is what happened on both sides of it, and neither side is a mistake.
 
-The woman in his mid forties has a set of keys on a ring with a fob on it, on a shelf by her door. Her own are on a hook in her hall, and they are the same make and the same fob, and they have been since the June, because the ones she was given in the June had come off their fob.
+The woman in her mid forties has a set of keys on a ring with a fob on it, on a shelf by her door. Her own are on a hook in her hall, and they are the same make and the same fob, and they have been since the June, because the ones she was given in the June had come off their fob.
 
-The woman in his late sixties has been at the flat this week and is at the house tomorrow. The flat key on that fob was in a coat pocket in a kitchen about two miles away, where the woman in his late thirties had put it this morning before she went out, on the table by the toaster, with the other two loose ones beside it.
+The woman in her late sixties has been at the flat this week and is at the house tomorrow. The flat key on that fob was in a coat pocket in a kitchen about two miles away, where the woman in her late thirties had put it this morning before she went out, on the table by the toaster, with the other two loose ones beside it.
 
 And the man in his early twenties gave two sets of keys to one person on a Monday in the queue and said *any time* and *she's not using them*, and both of those were true, and the two of them had to be, because on a Wednesday she is not using either.
 

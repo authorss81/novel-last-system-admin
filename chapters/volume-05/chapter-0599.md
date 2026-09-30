@@ -4,7 +4,7 @@ The Saturday of the seventeenth of October 2020, from about half past nine in th
 
 **HE SAID SOMETHING TO HER IN A CAR PARK IN THIS BOROUGH A FORTNIGHT AGO AND SHE WROTE IT DOWN PROPERLY THAT NIGHT, IN HER OWN HAND, ON THE RIGHT PAGE, WITH THE TIME ON IT, AND ON THIS WEDNESDAY SHE HAS BEEN LOOKING FOR THAT PAGE SINCE HALF PAST NINE, AND IT IS NOT IN THE BOOK.**
 
-She is a woman in her mid thirties. He is a man in her mid forties. They work in the same place. She went there first. The whole of what has happened between them in two years is a working day.
+She is a woman in her mid thirties. He is a man in his mid forties. They work in the same place. She went there first. The whole of what has happened between them in two years is a working day.
 
 The book is a hardback notebook with a rubber band round it. It has about five hundred pages in it and about three hundred of them have got something on them, and it is not a diary and it is not a list of anything, and she has never shown it to anybody.
 
