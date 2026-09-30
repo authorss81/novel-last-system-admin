@@ -88,7 +88,7 @@ She knocked on number thirty-six at about ten to three. The man who came to the 
 
 "Can I ask you something daft," the woman in his mid thirties said.
 
-The man in his late thirties said, "Go on."
+The man in his late forties said, "Go on."
 
 "Somebody's said something in a shop on the parade and I heard it and I've walked all the way down here to give it to you, and I don't know if it's you or not. It was: couldn't sit in that house another year."
 
@@ -98,11 +98,11 @@ He looked at her, and the pause went on long enough for her to wish she had not 
 
 "That's it. That's all she said. She didn't say whose house."
 
-"Right," the man in his late thirties said, and then, "There's about nine of us on that parade could have said that about a house."
+"Right," the man in his late forties said, and then, "There's about nine of us on that parade could have said that about a house."
 
 "Do you want the rest of it?"
 
-"No," the man in his late thirties said. "I don't, but that goes on you, not on me."
+"No," the man in his late forties said. "I don't, but that goes on you, not on me."
 
 He shut the door, and it was not unkind, and the woman in her mid thirties stood on the step of number thirty-six and thought that there was a lesson in it and could not have said what it was.
 

@@ -36,7 +36,7 @@ And the man in his mid forties stopped with his hand on the latch and turned rou
 
 Here is the thing about that sentence that makes it the first one worth saying about that house. It is not a memory. It is not a complaint about the roof or the neighbour or the hot water or the road. It is a sentence in which a person says something about themselves and about somebody else in the same breath, in a house, and means it, and it had never been said in that house in thirty-one years, and there was nobody else in England who could have heard it.
 
-At the back of that house the man in his early forties was standing at the kitchen with a box open in front of him and he heard every word of it.
+At the back of that house the man in his mid forties was standing at the kitchen with a box open in front of him and he heard every word of it.
 
 He heard the whole sentence. The wall is not that thick and she was not talking quietly and the man in his mid forties is not a man who talks quietly.
 

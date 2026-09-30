@@ -24,7 +24,7 @@ He said it the way you give somebody a lift to the station.
 
 The man in his late thirties heard that he was finished.
 
-He heard it as being about himself. He heard six seasons of being the one who was there, and the February, and the fact that he had been made welcome in a thing that had not asked for him, and he heard a man say in two words that none of that was wanted.
+He heard it as being about himself. He heard six seasons of being the one who was there, and the February, and the fact that he had been made welcome in a thing that had not asked for him, and he heard a man say in three words that none of that was wanted.
 
 He said, "Right."
 

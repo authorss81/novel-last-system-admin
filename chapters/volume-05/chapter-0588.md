@@ -20,7 +20,7 @@ Somewhere in the middle of that the woman in her late thirties said it. She had 
 
 That is the sentence. She said it the way you point at the rain.
 
-She went on, because she thought it needed the rest of it: "Every one of us. On the Tuesday it's the woman from the book. On the Thursday it's the man in his mid sixties. Sunday it's you,"" she said to the man in his late sixties. "And on the match days we all just happen to be going the same way."
+She went on, because she thought it needed the rest of it: "Every one of us. On the Tuesday it's the woman from the book. On the Thursday it's the man in his mid sixties. Sunday it's you," she said to the man in his late sixties. "And on the match days we all just happen to be going the same way."
 
 Nobody said anything for about as long as it takes to put a lid on a pot.
 
