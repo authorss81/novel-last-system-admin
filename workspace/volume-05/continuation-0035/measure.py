@@ -502,7 +502,9 @@ if __name__ == '__main__':
     against_each_other(ch, 'RUN TWO')
 
     print('\n-- RUN THREE: the ten against four named windows')
-    for lo, hi in ((535, 539), (525, 534), (525, 529), (385, 394)):
+    # 535-539 IS ITSELF AND IS NOT A WINDOW.  THE FOUR NAMED WINDOWS FOR THIS
+    # RUN ARE 530-534, 525-534, 525-529 AND 385-394.
+    for lo, hi in ((530, 534), (525, 534), (525, 529), (385, 394)):
         scan(ch, batch_chapters(lo, hi), label='RUN THREE vs %d-%d' % (lo, hi))
 
     print('\n-- RUN FOUR: the ten against the six state files this batch wrote')

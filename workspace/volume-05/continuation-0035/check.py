@@ -70,11 +70,40 @@ _COMMON = ['money', 'letter', 'form', 'claim', 'rent', 'repair', 'gate',
 _COMMON = ['money', 'letter', 'form', 'claim', 'rent', 'repair', 'gate',
            'light', 'bin', 'sign', 'road', 'key', 'van']
 
+_RUN05 = ['money', 'letter', 'form', 'claim', 'rent', 'repair', 'gate',
+          'light', 'bin', 'sign', 'road', 'key', 'van', 'mirror', 'sill',
+          'chalk', 'bed', 'basin', 'green', 'hut', 'mallet', 'hoop', 'peg',
+          'ditch', 'jug', 'shoes', 'spectacles', 'steps', 'ice', 'ramp',
+          'shovel', 'grit', 'frame', 'washing', 'rain', 'room', 'rail',
+          'hat', 'coat', 'bench', 'chair', 'table', 'mat', 'rug', 'bottle',
+          'clock', 'lamp', 'bag', 'picture', 'card', 'cup', 'saucer',
+          'kettle', 'tray', 'shelf']
+
 CARD_BARS = {
-    # TYPE THE FIVE CARD BARS OF 535-539 IN WHOLE, AND GIVE 540-544 AN EMPTY
-    # LIST EACH, WHICH IS WHAT A CARD THAT BARS NOTHING GETS.  A CARD MAY NOT BE
-    # NARROWED TOWARD THE PROSE SO AS TO MAKE A COUNT PASS.
+    535: _RUN05,
+    536: _RUN05,
+    537: _RUN05 + ['sink', 'tap', 'grave'],
+    538: _RUN05,
+    539: _RUN05,
+    540: [],
+    541: [],
+    542: [],
+    543: [],
+    544: [],
 }
+
+FILLER = ['one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight',
+          'nine', 'ten', 'twelve', 'thirteen', 'fourteen', 'fifteen',
+          'sixteen', 'seventeen', 'eighteen', 'nineteen', 'twenty', 'thirty',
+          'forty', 'fifty', 'sixty', 'seventy', 'eighty', 'ninety',
+          'about', 'week', 'quite', 'almost']
+
+# THE DECLARED MEASURE FOR THIS BLOCK IS *ANYWAY*, WHICH IS NONE OF *ALMOST*,
+# *ONE*, *WEEK*, *ABOUT*, *QUITE*, *TWO* AND *FOUR*, AND IS ORDINARY ENGLISH
+# AND NOT THIS ACCOUNT'S OWN GRAMMAR.  IT IS DECLARED BEFORE ANY PROSE IS
+# WRITTEN AND THE FIGURE IT COMES OUT AT IS REPORTED WHATEVER IT IS, INCLUDING
+# IF IT IS NIL, BECAUSE A WRITER WHO PICKS A MEASURE AND FINDS NIL SAYS SO.
+FILLER.append('anyway')
 
 # The objects 525-529 spent AS OBJECTS, taken from 1 to 10 of the 0034
 # OPEN-THREADS BLOCK, which is the list of record.  A word that is furniture of
@@ -140,18 +169,6 @@ CLOSED = ['thank', 'eleven', 'forty', 'spring', 'winter', 'autumn', 'drain',
           'hose', 'warden', 'jonas', 'mercer', 'nell', 'ardent', 'saucer',
           'sink', 'mat', 'reel', 'stool', 'bulb', 'tray', 'blanket']
 
-# THE DECLARED MEASURE FOR THIS BATCH IS CHOSEN BY THE WRITER AND IS NOT ONE OF  It is neither *one*
-# nor *week* nor *about* nor *quite*, and it is a word of ordinary English and
-# nor *about* nor *quite*, and it is a word of ordinary English and not of this
-# account's grammar.  All six are counted and all six are reported per chapter at
-# the end, and the chapter that comes out highest on each is printed, because six
-# measures that agree on one chapter are six measures of a batch written to a number.
-FILLER = ['one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight',
-          'nine', 'ten', 'twelve', 'thirteen', 'fourteen', 'fifteen',
-          'sixteen', 'seventeen', 'eighteen', 'nineteen', 'twenty', 'thirty',
-          'forty', 'fifty', 'sixty', 'seventy', 'eighty', 'ninety',
-          'about', 'week', 'quite', 'almost']
-
 # A BAR THAT FIRES ON EVERYTHING IS A BAR THAT GETS IGNORED.  CAN is both an
 # object in this account and the modal verb, and the object is always introduced
 # by an article or a possessive, so the test for these words is the article.
@@ -214,6 +231,15 @@ def main():
         bars = list(GLOBAL_ZERO) + GENERAL_BARRED + CARD_BARS.get(ch, []) \
             + SPENT_530_534 + SPENT_525_529 + SPENT_515_524 \
             + SPENT_495_504 + CLOSED + EXTRA_ZERO
+        # CHECKED, NOT ASSUMED: every spent list must be in the union.
+        for _name, _l in (('SPENT_530_534', SPENT_530_534),
+                          ('SPENT_525_529', SPENT_525_529),
+                          ('SPENT_515_524', SPENT_515_524),
+                          ('SPENT_495_504', SPENT_495_504)):
+            for _w in _l:
+                assert _w.lower() in bars, \
+                    'UNION FAULT: %s is not in the bars for chapter %d' % (
+                        _name, ch)
         hits = []
         for b in sorted(set(bars)):
             n = len(re.findall(r'\b%s\b' % re.escape(b.lower()), low))
