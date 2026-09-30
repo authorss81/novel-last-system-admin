@@ -24,7 +24,7 @@ The gate has a padlock on it and the only spare key in the world was kept in the
 
 She asked him on the Friday before, and she said it plainly, and she did not give him any reason and he did not ask her for one.
 
-They went round it on the second of April at about ten in the morning. She had the gate open before they got there and she left it open behind them.
+They went round it on the second of April at about ten in the morning. She had the gate open before they got there and she waited with her hand on it until he was through.
 
 He was not in a hurry and she was not, and it took about fifty minutes.
 
@@ -44,11 +44,11 @@ Neither of them has raised it since. Not the place, not the ground, not the fact
 
 ---
 
----
-
 On the Monday of the twenty-seventh of April he went, at about nine in the morning, on his own, and he had not been on that ground since 2011 and he went anyway.
 
-The gate was open. It has been open since the second of April and there is a padlock on it lying open on the catch, and it will stay that way until somebody comes and shuts it.
+The gate is not shut. The padlock is hanging in the catch and not in it, and she shut it and locked it and put the key back where it lives on the second of April and she has not been up that track since, and whoever came up here last did not shut it behind them either.
+
+He did not shut it either. He went through it and left it where it was.
 
 His place is the third one from the gate.
 

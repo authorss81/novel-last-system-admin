@@ -2,7 +2,7 @@
 
 The Saturday of the second of May 2020, and most of one evening of it, in the top two floors of a block of flats off a street of this borough.
 
-**SHE HAS PUT A BOARD OUT ONTO THAT CARPET AT ABOUT TEN EVERY EVENING SINCE 2014 AND HER HUSBAND HAS NEVER ASKED HER WHY, AND THE MAN OVER THE TOP OF HER HAS HEARD IT EVERY NIGHT FOR SIX YEARS AND HAS NEVER ASKED HER ANYTHING EITHER, AND ON THE SECOND OF MAY HE CAME DOWN.**
+**SHE HAS PUT A BOARD OUT ONTO THAT CARPET AT ABOUT TEN EVERY EVENING SINCE 2014 AND HER HUSBAND HAS NEVER ASKED HER WHY, AND THE MAN OVER THE TOP OF HER HAS HEARD IT EVERY NIGHT FOR THREE YEARS AND HAS NEVER ASKED HER ANYTHING EITHER, AND ON THE SECOND OF MAY HE CAME DOWN.**
 
 The block is three storeys and there are fifteen flats in it and it was built in about 1958 and the pipework in it is the pipework it came with.
 
@@ -24,7 +24,7 @@ Her husband has never asked her about any of this. He is asleep by about half pa
 
 ---
 
-He has heard it every night for six years.
+He has heard it every night for three years.
 
 He has not counted it and he would not be able to say how many nights out of how many. What he could say, if anybody had ever thought to ask him, and nobody ever has, is that he knows the sound of that board the way he knows the sound of the taps in that block at six in the morning.
 
@@ -52,7 +52,7 @@ Then he said, "Sorry," and went up, and she stood inside her own door with it op
 
 She has thought about that word since and she has not got round it. It was not asked for. Nobody had said anything to be sorry about that either of them knew of, and he said it on his own, on his way up, without stopping, and she has not worked out whether it was for the board or for the knocking or for nothing at all.
 
-She has not gone up. She has not mentioned it to her husband. She has not said anything about it on the three mornings since, and he has not come down, and on the Sunday and the Monday she put the board out at about ten the same as she has done since 2014.
+She has not gone up. She has not mentioned it to her husband. She has not said anything about it to either of them, and he has not come down, and she finished the other two shirts that night and put the board away at about a quarter past, which is what she has done since 2014.
 
 He has not been down since the second of May. She knows what that means, because she is awake until well past midnight and she can hear anybody on that way up, and nothing has gone up or come down that way at all since then.
 

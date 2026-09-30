@@ -2,7 +2,7 @@
 
 The Tuesday of the fifth of May 2020, and most of the day, in one street of this borough and at the end of one garden in it.
 
-**THEY HAVE DONE THE BACK AND THEN THE FRONT EVERY SATURDAY MORNING SINCE 2016, AND IN THE JANUARY THE BOY SIMPLY WAS NOT THERE AND GAVE NO REASON, AND THE FATHER CUT BOTH ENDS ALONE FOR NINE OF THEM, AND WHEN THE BOY DID TURN UP IN MARCH THE ONLY THING THAT HAPPENED WAS THAT THE MOWER CHANGED HANDS.**
+**THEY HAVE DONE THE BACK AND THEN THE FRONT EVERY SATURDAY MORNING SINCE 2016, AND IN THE JANUARY THE BOY SIMPLY WAS NOT THERE AND GAVE NO REASON, AND THE FATHER CUT BOTH ENDS ALONE FOR NINE OF THEM, AND WHEN THE BOY DID TURN UP IN MARCH THE ONLY THING THAT HAPPENED AT THAT DOOR WAS THAT THE MOWER CHANGED HANDS.**
 
 They are two doors apart in one street of this borough and there are about fourteen of the houses in it and it is not a street anybody gives directions by.
 
@@ -38,18 +38,16 @@ He pulled the deadman, and he did not let go of it, and he did not say anything,
 
 He did not say one word while that was happening. He has not said one word about it since and he is not going to, and neither has the boy, and there has been nothing between them since the fourteenth of March except the grass.
 
-The boy has been there every Saturday since the fourteenth of March, which is the eighth of them and he has not missed one. He does the back and the father does the front and then they do the front between them, and the boy puts the mower away after, and on the twenty-first of March the father made him a tea and handed it to him and did not say anything about that either, and they have drunk about nine of them since.
+The boy has been there every Saturday since the fourteenth of March, which is the eighth of them and he has not missed one. He does the back and the father does the front and then they do the front between them, and the boy puts the mower away after, and on the twenty-first of March the father made him a tea and handed it to him and did not say anything about that either, and they have drunk about seven of them since.
 
 ---
 
-**ON THE TUESDAY OF THE FIFTH OF MAY THE BOY RANG AND SAID HE WOULD NOT BE THERE ON THE SATURDAY, AND GAVE NO REASON, AND THE FATHER SAID AYE, AND SAID NOTHING ELSE, AND ON THE SATURDAY HE CUT THE BACK AND THE FRONT AND THE FRONT AGAIN.**
-
-There is one day in every week now where the two of them find out the evening before whether it is a Saturday or not, and neither of them has ever remarked on that, and it has happened four times since March and there has been nothing said on any of the four occasions.
+There is one day in every week now where the two of them find out the evening before whether it is a Saturday or not, and neither of them has ever remarked on that, and it has happened four times since March and the word has been aye on all four of them.
 
 The father asked nothing on the fifth of May. He was in the kitchen when it rang and he took it there and said aye and then said nothing for about ten seconds, and the boy said, "Right, I'll let you know," and that was the whole of the call.
 
-The boy has let him know on two of the four since. The other two Mondays it was neither of them who said anything, and both of them mowed.
+Three of those four were the boy ringing in the evening. The fourth was a message of four words in the middle of an afternoon and the father answered it with the same word and has not mentioned either of them since.
 
-On the Saturday before this one the father cut the back and the front and the front again, from about half past nine until about one, and he was out there on his own for about an hour and ten minutes of it, which is about how long the front takes one person, and nobody came.
+The mower is in the garage where it goes on a Saturday night and there is petrol in it and it is gone down to about a quarter, and it is half past five on the Tuesday, and the Saturday is four days off. The woman he lives with asked him that afternoon where the petrol had gone and he said it was in the car, which was not where it was.
 
-**THE FATHER CUT BOTH ENDS OF THAT GARDEN ALONE FOR NINE SATURDAYS AND THE BOY HAS BEEN BACK FOR SEVEN OF THEM SINCE MARCH, AND THE ONLY SOUND THE TWO OF THEM HAVE MADE SINCE IS AYE ON A TUESDAY MORNING, AND NEITHER OF THEM IS GOING TO SAY ANYTHING ELSE.**
+**THE FATHER CUT BOTH ENDS OF THAT GARDEN ALONE FOR NINE SATURDAYS AND THE BOY HAS BEEN BACK FOR EIGHT OF THEM SINCE MARCH AND MISSED NONE, AND THE BOY RANG THIS AFTERNOON AND SAID HE WOULD NOT BE THERE ON THE SATURDAY AND GAVE NO REASON, AND THE FATHER SAID AYE AND SAID NOTHING ELSE, AND HE HAS TOLD THE WOMAN HE LIVES WITH THAT THE PETROL IS IN THE CAR.**

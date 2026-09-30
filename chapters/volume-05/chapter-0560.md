@@ -1,6 +1,6 @@
 # Chapter 0560 — The Third Sunday in March
 
-The Wednesday of the twenty-second of April 2020, and the six weeks before it, in a town about half an hour from this borough and in one street of it.
+The Wednesday of the twenty-second of April 2020, and the five weeks and three days before it, in a town about half an hour from this borough and in one street of it.
 
 **THE THREE OF THEM HAVE GONE TO THE SAME PLACE ON THE SAME SUNDAY EVERY MARCH SINCE 2013 AND IN THE MARCH OF THIS YEAR THE MIDDLE ONE OF THEM DID NOT GO, AND THE OTHER TWO FOUND OUT OVER A MEAL THAT NIGHT, AND NEITHER OF THEM HAS ASKED HER WHY, AND SHE CAME BACK ON THE NINETEENTH OF APRIL AND SAID ONE SENTENCE ABOUT SOMETHING ELSE.**
 

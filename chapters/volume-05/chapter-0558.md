@@ -50,7 +50,7 @@ She has not asked him whether he wrote it. She has not asked anybody else about 
 
 She has also not changed anything. She goes at the times she went at. She takes the days off that list in the sequence they come.
 
-He has not asked her whether she found it. He came back on the Monday and looked at that surface twice before he went up and did not say anything then or since, and it is still not mentioned between them, and on the Tuesday they took the day between them for about four hours and got through all of it.
+He has not asked her whether she found it. He has not been in that building since he walked out of it at two, and the surface at the end of that corridor is the only place either of them could put it, and it is not mentioned between them, and they took the day between them on the Friday before this one and got through all of it in about four hours.
 
 The one thing either of them would put a hand to is that not one syllable of it has ever been said aloud, in that building or anywhere else, and not one of the people who work in it has any idea that there is anything.
 
