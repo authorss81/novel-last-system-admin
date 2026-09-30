@@ -6,6 +6,9 @@ on:
     paths:
       - state/synopsis.md
       - state/complete.md
+  schedule:
+    # Safety net: catches a finished novel whose build request was missed.
+    - cron: "17,47 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -71,6 +74,22 @@ jobs:
                           sys.exit(f"{book}: manifest href missing: {href}")
               print(f"{book}: {len(spine)} sections, structure OK")
           PY
+
+      - name: Stop automatic triggers
+        # A finished novel must not keep waking itself every ten minutes. Manual
+        # workflow_dispatch is preserved so the controller can still run it.
+        run: |
+          set -euo pipefail
+          python3 scripts/disable_auto_triggers.py .github/workflows/novels.yml
+          if git diff --quiet -- .github/workflows/novels.yml; then
+            echo "triggers already trimmed"
+            exit 0
+          fi
+          git config user.name "novel-fleet-bot"
+          git config user.email "novel-fleet-bot@users.noreply.github.com"
+          git add .github/workflows/novels.yml
+          git commit -m "novel: stop automatic workflow triggers on a completed manuscript"
+          git push origin HEAD:main
 
       - name: Commit EPUBs
         run: |
