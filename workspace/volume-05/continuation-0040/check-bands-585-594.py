@@ -21,8 +21,11 @@ import sys
 import collections
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-REPO = os.path.dirname(os.path.dirname(os.path.dirname(
-    os.path.dirname(HERE))))
+# HERE IS ALREADY A DIRECTORY (continuation-0040).  THREE dirnames WALK
+# continuation-0040 -> volume-05 -> workspace -> REPO ROOT.  THE 0039 COPY OF
+# THIS SCRIPT APPLIED FOUR AND LANDED ON THE REPO'S PARENT, WHICH IS WHY IT
+# FOUND NO CHAPTERS AND PRINTED OK.  FIXED 0040.
+REPO = os.path.dirname(os.path.dirname(os.path.dirname(HERE)))
 BANDS_JSON = os.path.join(HERE, 'bands-585-594.json')
 LO, HI = 585, 594
 
@@ -120,9 +123,11 @@ def main():
             print('  %d: a titled personal name' % ch)
     print('  titled names across the ten: %d' % named)
 
-    print('\nVERDICT', 'OK' if ok else 'NOT OK — RECHECK THE TABLE')
     if missing:
+        ok = False
         print('MISSING CHAPTERS (%d): %s' % (len(missing), missing))
+
+    print('\nVERDICT', 'OK' if ok else 'NOT OK — RECHECK THE TABLE')
     return 0 if ok else 1
 
 
