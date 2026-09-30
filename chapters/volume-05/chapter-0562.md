@@ -6,7 +6,7 @@ The Saturday of the second of May 2020, and most of one evening of it, in the to
 
 The block is three storeys and there are fifteen flats in it and it was built in about 1958 and the pipework in it is the pipework it came with.
 
-She is in the flat on the second and has been in it since about 2010 and she is a woman in her mid twenties. He is directly over the top of her and has been there since about 2017 and he is a man in his late thirties.
+She is in the flat on the second and has been in it since about 2014 and she is a woman in her mid twenties. He is directly over the top of her and has been there since about 2017 and he is a man in his late thirties.
 
 There is very little between that flat and hers. There is about four inches of concrete and eight inches of a building that was not made for two people to be doing separate things at the same hour on purpose.
 

@@ -2,7 +2,7 @@
 
 The Thursday of the second of April 2020, and the thirty days before it, in one block of flats a short way off a street of this borough.
 
-**SHE HEARD IT EVERY NIGHT FROM THE WEEK SHE CAME IN 2011 AND HAS NEVER SAID ONE WORD ABOUT IT TO ANYBODY, AND IN THE FIRST WEEK OF MARCH IT WENT AWAY AND HAS NOT COME BACK, AND ON HIS OWN DATE HE CAME INTO THAT BUILDING AND STOOD IN THE CORRIDOR FOR TWO MINUTES.**
+**SHE HEARD IT EVERY NIGHT FROM THE WEEK SHE CAME IN 2011 AND HAS NEVER SAID ONE WORD ABOUT IT TO ANYBODY, AND IN THE FIRST WEEK OF MARCH IT WENT AWAY AND HAS NOT COME BACK, AND ON THE EIGHTEENTH HE CAME BACK INTO THAT BUILDING AND STOOD IN THE CORRIDOR FOR TWO MINUTES.**
 
 The block is three storeys and there are twenty-four flats in it. It was put up in about 1963 and the water is in the ground under the floor of the ground-floor corridor and comes up a riser in the middle of it.
 
@@ -26,7 +26,7 @@ He stood in the middle of that corridor for about two minutes.
 
 He was waiting for it without knowing that he was waiting for it. He has said since that he did not know it was a thing he had been hearing all those years until the second he stood there and it did not come, and he has said that to nobody at all.
 
-**HE STOOD THERE FOR TWO MINUTES ON THE EIGHTEENTH AND SHE OPENED HER DOOR AT TEN TO TEN THAT NIGHT BECAUSE SHE HAD HEARD SOMEBODY MOVING, AND NOT ONE QUESTION WENT EITHER WAY.**
+**HE STOOD THERE FOR TWO MINUTES ON THE EIGHTEENTH WAITING FOR A SOUND HE HAD BEEN HEARING THROUGH THAT FLOOR SINCE HE MOVED IN AND HAD NOT KNOWN HE WAS WAITING FOR, AND NEITHER OF THEM PUT ANYTHING TO THE OTHER.**
 
 The last time anybody in that block heard it was the night of the fourth of March. It did not come on the fifth, and it did not come on the sixth, and by the Saturday nobody was expecting it, and by the following Wednesday nobody in that building would have been able to tell you what you were describing if you asked them.
 

@@ -8,7 +8,7 @@ There is a piece of ground off a road at the edge of this borough, with a track 
 
 There have been about nine of them all that time and there are nine now. Two of them have changed hands since 2011 and one of those was to a man who does not use it, and everybody who keeps something out there knows who the other seven are and nobody has ever asked any of them where their water comes from.
 
-He is a man in his early sixties. He has had the third place from that gate since about 1971, which is when he was about ten and his father was still able to lift a thing.
+He is a man in his early sixties. He has had the third place from that gate since about 1969, which is when he was about ten and his father was still able to lift a thing.
 
 He built the front of it himself when he was about nineteen, out of blocks that came off a building at the end of the road where they had taken something down. He is one of two people alive who could say what those blocks are and the other one is in a home about ten miles off and does not remember.
 
