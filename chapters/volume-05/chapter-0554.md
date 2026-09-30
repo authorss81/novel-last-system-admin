@@ -6,9 +6,9 @@ The Monday of the twenty-third of March 2020. Three places and three hours, and 
 
 There is a place off the long road where people go to get a seat, some wheels, a bath, and a small number of other things that people need once and for a very short time. You go there for a day and you take something home in a van that somebody else drives.
 
-The woman in her mid forties works in the office of that place. She has been there since about 2016. She hands the wages out on a Friday morning in envelopes, six of them, and she does it at nine, and she has done it every Friday for as long as she has been there.
+The woman in her mid fifties works in the office of that place. She has been there since about 2016. She hands the wages out on a Friday morning in envelopes, six of them, and she does it at nine, and she has done it every Friday for as long as she has been there.
 
-The money for the six is counted into the six on the Thursday afternoon, out of the day's take, and the day's take is counted on the Thursday afternoon, and the two counts are done by the woman in her mid forties and by nobody else.
+The money for the six is counted into the six on the Thursday afternoon, out of the day's take, and the day's take is counted on the Thursday afternoon, and the two counts are done by the woman in her mid fifties and by nobody else.
 
 She is one whole figure short.
 

@@ -8,7 +8,7 @@ The block is thirty-eight flats in three floors. It went up in 1963 for people w
 
 The cold is on the ground floor and it is on a Tuesday, at about seven, and it lasts about an hour, and then it comes back on its own at about eight. It has done that long enough that a dozen people in that block could tell you about it and every one of them still can.
 
-He is a man in his late forties. He has been in the flat on the first since 2016 and he has been writing it down since the March of 2018, on the day after, in a hard book, in a column, with the day, and the hour, and what the tap did.
+He is a man in his late fifties. He has been in the flat on the first since 2016 and he has been writing it down since the March of 2018, on the day after, in a hard book, in a column, with the day, and the hour, and what the tap did.
 
 He has never shown it to anybody. Nobody in that block has ever asked to see it.
 
@@ -24,9 +24,9 @@ A man came at about half past ten carrying more than he had any reason to be car
 
 He went to the space under the window at the end of the flat and opened the door of it and looked inside and shut it again.
 
-He did not look at the tap. He did not turn it. He did not ask the man in his late forties a single question, and he wrote nothing down, and when he went he said that he would be in touch, and he has not been in touch and nobody in that block has heard from him since.
+He did not look at the tap. He did not turn it. He did not ask the man in his late fifties a single question, and he wrote nothing down, and when he went he said that he would be in touch, and he has not been in touch and nobody in that block has heard from him since.
 
-The man in his late forties did not write the line that night.
+The man in his late fifties did not write the line that night.
 
 He has not written one since.
 

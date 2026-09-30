@@ -20,27 +20,27 @@ He has not written those three anywhere. He has not written them in the book and
 
 They went in on the Friday of the seventh into two wet weeks, and the company were behind, and everybody knew it and nobody said it.
 
-The man in his mid forties is the oldest of the nine on the outside. He has been doing this kind of work for about twenty-two years and he does the top of the long side, which is the side that goes first in a wind, and he has never once been the one who decides to stop.
+The man in his early sixties is the oldest of the nine on the outside. He has been doing this kind of work for about twenty-two years and he does the top of the long side, which is the side that goes first in a wind, and he has never once been the one who decides to stop.
 
 On the Wednesday of the twelfth it was cold and the wind was coming across the open ground off the water. They were on at seven. At about nine they were told to go home.
 
-Not by the man in his late fifties. A young man in his mid twenties came out of a vehicle, said the word to the man in his mid forties, and the man in his mid forties said, "Right," and took his things down, and the other eight took their things down.
+Not by the man in his late fifties. A young man in his mid twenties came out of a vehicle, said the word to the man in his early sixties, and the man in his early sixties said, "Right," and took his things down, and the other eight took their things down.
 
 It happened again on the Thursday and on the Friday.
 
 That is three days. Nine days were worked and six are paid and three are not in the book and are not paid, and both figures are true, and neither of them is wrong.
 
-The young man who said the word is not anything above anybody. He is on that job because the man in his late fifties telephoned him at about half past six and said the word to him, and he came out and said it to the man in his mid forties and got back in and drove away.
+The young man who said the word is not anything above anybody. He is on that job because the man in his late fifties telephoned him at about half past six and said the word to him, and he came out and said it to the man in his early sixties and got back in and drove away.
 
 He came out three times in three days, and he has driven away from a building where nine men were standing in the cold with their things down, and he has not thought about it since the Friday and he will not think about it now.
 
-The men did not mind on the day. That is the part that has stayed with the man in his mid forties. They took their things down and they went, and two of them said that it was daft, and one of them said nothing at all, and not one of them asked when it would be paid and not one of them asked whether it would be paid.
+The men did not mind on the day. That is the part that has stayed with the man in his early sixties. They took their things down and they went, and two of them said that it was daft, and one of them said nothing at all, and not one of them asked when it would be paid and not one of them asked whether it would be paid.
 
-On the Monday of the seventeenth, the first morning after, the man in his mid forties came in at seven and worked a full day, and nobody said anything about the Wednesday before, and he did not either.
+On the Monday of the seventeenth, the first morning after, the man in his early sixties came in at seven and worked a full day, and nobody said anything about the Wednesday before, and he did not either.
 
 The woman in her mid thirties works in the office on the ground floor of the same building and has been there six years. She is not on the outside and never will be.
 
-She worked it out in the second week without asking anybody, and the way she worked it out was that the man in his mid forties had stopped saying good morning.
+She worked it out in the second week without asking anybody, and the way she worked it out was that the man in his early sixties had stopped saying good morning.
 
 He has said good morning to her for six years. He stopped on the Thursday of the thirteenth, in the little kitchen where they eat, and he has not started again, and he is not a man who goes quiet for a reason anybody would recognise.
 
@@ -52,7 +52,7 @@ She is not the person who has been paid short and she is not the person who woul
 
 ---
 
-The man in his mid forties comes in at seven on the Saturday, which he does not have to, because there is nothing left on that building this week.
+The man in his early sixties comes in at seven on the Saturday, which he does not have to, because there is nothing left on that building this week.
 
 The man in his late fifties is in there with the book. They are in one half of it with the heating on and the windows out of one side, and it is colder in there than it is out, and he puts his things down.
 
@@ -60,7 +60,7 @@ The man in his late fifties is in there with the book. They are in one half of i
 
 The man in his late fifties does not look up. He carries on writing, and the sentence goes into the air and stays there.
 
-The man in his mid forties stands about where he is standing for another quarter of an hour and does not say anything else. There is nothing to write, because there is nothing left on that building this week, and the man in his late fifties is writing the week out anyway, and fills in what he would have filled in.
+The man in his early sixties stands about where he is standing for another quarter of an hour and does not say anything else. There is nothing to write, because there is nothing left on that building this week, and the man in his late fifties is writing the week out anyway, and fills in what he would have filled in.
 
 At about midday the woman in her mid thirties comes up, because the money for the fortnight has to be counted before it goes anywhere and that is her job.
 

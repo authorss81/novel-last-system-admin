@@ -6,7 +6,7 @@ The Sunday of the first of March 2020, and about two hours of it, in one street 
 
 It came down overnight on the Thursday of the thirteenth and by the morning of the Friday there was six inches of it lying unevenly against the walls of the whole borough, more in some streets than in others and more against the walls than in the middle.
 
-The woman in her early forties went out at half past seven with a plastic bucket, a stiff brush and two tubs of salt, and she did the length of her own side of that street, and the salt went down in a stripe about as wide as her boot, and it took her about half an hour.
+The woman in her early fifties went out at half past seven with a plastic bucket, a stiff brush and two tubs of salt, and she did the length of her own side of that street, and the salt went down in a stripe about as wide as her boot, and it took her about half an hour.
 
 She did it because her own front door is the one you cannot get through, and because she was up anyway, and because when she had been round once there was still nobody else out.
 
@@ -14,7 +14,7 @@ On the Saturday morning four other people were on that street before eight. By t
 
 The salt is the only thing anybody in that street has spent anything on and nobody has ever divided it.
 
-She buys hers on a Saturday at the place at the end and she carries it back in two trips, because a tub is heavy and she is in her early forties and has a shoulder that nobody in that street knows anything about.
+She buys hers on a Saturday at the place at the end and she carries it back in two trips, because a tub is heavy and she is in her early fifties and has a shoulder that nobody in that street knows anything about.
 
 The man in his late sixties has been buying enough for the whole street since the twenty-fourth of February and has not told anybody he is doing it and has not been asked. There are three tubs of it stacked in the recess by the number thirty at eight o'clock every morning, and by the last week there were four of them out before anybody had started, and by then anybody who wanted one had worked out where they were and where they were not.
 
