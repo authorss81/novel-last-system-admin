@@ -1,6 +1,6 @@
 # Chapter 0595 — Put Down in Writing
 
-The Friday of the twenty-fifth of September 2020, from about ten in the morning until about half past six in the evening, in an office above a shop on a road in this borough.
+The Friday of the twenty-fifth of September 2020, from about ten in the morning until about half past six, in an office above a shop on a road in this borough.
 
 **A SENTENCE WAS SAID TO HIM IN THAT OFFICE ON THE MONDAY BEFORE AND HE HAS SPENT THE BEST PART OF A WEEK ON IT, AND IT IS IN THE MIDDLE DRAWER OF THE CHEST OF DRAWERS AGAINST THE WALL, AND NEITHER OF THEM HAS DONE ONE THING WITH IT, INCLUDING HER.**
 
@@ -22,7 +22,7 @@ He said, "Right," and she went out and shut the door behind her, and he sat ther
 
 That is the whole of what was said. He has not asked her what she meant by it and she has not told him.
 
-Here is what he did about it, and it is the only thing that happened in that building that week, and it was done well.
+Here is what he did about it, and nothing else took place in that building that week, and it was done well.
 
 What she meant, as far as he could work it out, was this. In about a fortnight she had been told nineteen separate things by nine of the people in those flats, and had passed all nineteen on to him in about as many days, mostly in the corridor and mostly while she was on her way out of the door. They were the ordinary kind. One man wanted somebody to look at the thing over his own door that had started going on and off. A woman wanted to know whether the shop was taking its deliveries at the back. A man on the seventh had asked three times about the flat above him.
 
@@ -52,7 +52,7 @@ She said, "Did you get the one about the flat above seven?"
 
 He said, "It's in. There's nothing under it, because nothing's been done about it."
 
-She said, "No," meaning she had not expected otherwise, and she went into the first room and shut the door, and that was the whole of what was said about it.
+She said, "No," meaning she had not expected otherwise, and she went into the first room and shut the door, and that was as far as the conversation went.
 
 ---
 

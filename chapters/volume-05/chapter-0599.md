@@ -70,7 +70,7 @@ What she had written down was: *He said, in the car park, "I've put my notice in
 
 What she had been carrying about all day, in the four minutes in the car park that Friday and in the eight days since, was: *He's put his notice in.*
 
-The two of them are not the same sentence and the difference between them is the difference between a man telling a woman what he has done and a woman telling herself what a man has done, and the second one has the man in it and the first one does not, and she cannot now remember which of the two she actually had in the car park.
+The two of them are not the same sentence, and what separates them is only this: one is a man telling a woman what he has done and the other is a woman telling herself what a man has done, and the second one has the man in it and the first one does not, and she cannot now remember which of the two she actually had in the car park.
 
 He does not know any of this.
 

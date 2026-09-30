@@ -10,7 +10,7 @@ There is a row of nine garages behind a row of houses, and a man has had a pitch
 
 Since the middle of the month he has had a job on him, and the job is a woman's electric chair. It came to him because the shop on the parade has stopped doing them. It is a good chair and a heavy one, and he got it up three steps into a house on the estate.
 
-It is done. It goes. He tested it in her front room on Friday and she used it twice while he watched, and he said the price, and she said she would think about it, and he said right, and he carried it back down the three steps and put it in his van.
+It is done. It goes. He tested it in her front room on Friday and she used it twice while he watched, and he said the price, and she said she would need to sit with it, and he said right, and he carried it back down the three steps and put it in his van.
 
 The van is still there. It goes on the Monday. He has not chased it and he will not.
 

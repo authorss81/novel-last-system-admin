@@ -4,7 +4,7 @@ The Monday of the second of November 2020, from about one in the afternoon until
 
 **SHE ARRANGED IT, AND THE THING SHE WAS ARRANGING HAD BEEN TOLD TO HER ON A WEDNESDAY IN THE MIDDLE OF OCTOBER, AND SHE HAS SPENT THE WEEK SINCE MAKING IT GOOD ENOUGH TO DO, AND THIS AFTERNOON THE THIRD PERSON SHE PUT IN THAT ROOM ON PURPOSE HAS BEEN TOLD SOMETHING THAT WAS ALSO TOLD IN THAT CAR PARK ON THE WEDNESDAY OF THE FOURTEENTH OF OCTOBER BY A MAN IN HIS MID TWENTIES, AND NEITHER OF THE TWO WHO TOLD HER KNOWS ABOUT THE OTHER.**
 
-She is a woman in her late forties. The man who is being told is a man in his early sixties. The man who told her first is a man in his mid twenties. The woman she put in the room is a woman in her early sixties and is the man's daughter and knows nothing about any part of it.
+She is a woman in her late forties. The man who is being told is a man in his early sixties. The man who told her first is a man in his mid twenties. The woman she put in the room is his daughter, she is in her early sixties, and she knows nothing about any part of it.
 
 The thing she is arranging to have him told is that his landlord has put the rent up again in the new year.
 
@@ -18,7 +18,7 @@ And the man in his mid twenties says, without any preamble and out of the ordina
 
 And the man in his early sixties says, "Who?"
 
-And the man in his mid twenties says, "Mr Adeyemi. It's in the letter. Another hundred and twenty from the January."
+And the man in his mid twenties says, "The landlord. It's in the letter. Another hundred and twenty from the January."
 
 And the man in his early sixties says nothing for about a minute.
 
@@ -88,7 +88,7 @@ She put the sheet in her bag on the Friday night. She has not shown it to anybod
 
 Here is what happened this afternoon.
 
-His daughter came at about a quarter past two. She is a woman in her early sixties and she came because she was asked to and she did not know.
+His daughter came at about a quarter past two. She is in her early sixties and she came because she was asked to and she did not know.
 
 The woman in her late forties came at about half past two. He made tea. The three of them sat in the front room, which is where the whole of that house happens.
 
@@ -98,7 +98,7 @@ She said, "I've had a think about the letter."
 
 He said, "Right."
 
-She said, "You got it on the Friday. It came from Mr Adeyemi, and it's a hundred and twenty from the January."
+She said, "You got it on the Friday. It came from the landlord, and it's a hundred and twenty from the January."
 
 He said, "A hundred and thirty, actually."
 

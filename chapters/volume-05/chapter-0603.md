@@ -10,7 +10,7 @@ The thing he has said twice is about a key.
 
 ---
 
-Here is the first version, which is what he said on the sixteenth of September, on the step, at about half past four in the afternoon, and it was the only time he had been in that house in about two years.
+Here is the first version, which is what he said on the sixteenth of September, standing on her step a little before half past four, and it was the only time he had been in that house in about two years.
 
 She opened the door before he had got to it, which she always does.
 

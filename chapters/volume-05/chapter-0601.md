@@ -1,6 +1,6 @@
 # Chapter 0601 — She Asked Somebody Who Asked Somebody
 
-The Wednesday of the twenty-eighth of October 2020, from about ten in the morning until about four in the afternoon, in a first-floor flat in this borough and at a house in a road about a mile off it.
+The Wednesday of the twenty-eighth of October 2020, beginning at about ten in the morning, in a first-floor flat in this borough and at a house in a road about a mile off it, and running until about four in the afternoon.
 
 **SHE WAS TOLD A THING ON THE MONDAY BEFORE AND THIS MORNING SHE ASKED A PERSON TO PASS IT ON, AND THAT PERSON ASKED ANOTHER PERSON, AND THAT OTHER PERSON DID EXACTLY WHAT WAS ASKED OF HIM AND TOOK IT ROUND TO A HOUSE IN THIS BOROUGH AND LEFT IT WITH A WOMAN WHO IS NOT THE PERSON IT WAS FOR.**
 

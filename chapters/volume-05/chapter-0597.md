@@ -1,6 +1,6 @@
 # Chapter 0597 — The Long Ones With the Handle
 
-The Tuesday of the sixth of October 2020, from about ten in the morning until about half past four in the afternoon, at a house on an estate in this borough.
+The Tuesday of the sixth of October 2020, from about ten in the morning to about half past four in the afternoon, at a house on an estate in this borough.
 
 **SHE SAID ONE SENTENCE ABOUT A MAN WHO IS NOT IN THIS BOROUGH ON THE WEDNESDAY BEFORE, AND ON THE SATURDAY SHE WENT AND BOUGHT A THING FOR HIM AND BROUGHT IT HOME AND PUT IT IN THE DRAWER WHERE HIS ARE, AND IT WORKS ON A CUP AND IT WILL NEVER DO WHAT SHE BOUGHT IT FOR, AND IT IS NOT THROWN OUT, AND NEITHER OF THEM CAN SAY WHERE HIS WENT.**
 

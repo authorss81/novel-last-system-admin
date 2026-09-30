@@ -106,7 +106,7 @@ She got him once. That was on the Monday just gone, when the office was empty an
 
 That was the whole of the job, and it took five weeks to find out, and nobody told her it was finished because nobody was ever going to.
 
-The man in his late twenties, who is the one who told her, knows none of this. She has not told him and is not going to, because he said *just ring him*, and he did say *just ring him*, and the two words that would have saved her five weeks were in a corridor on the Monday before last at ten past one and she is not going to be the person who says *you never gave me a number*.
+The man in his late twenties, who is the one who told her, knows none of this. She has not told him and is not going to, because he said *just ring him*, and he did say *just ring him*, and the two words that would have saved her five weeks were in a corridor on the Monday before last at ten past one and she will not be putting *you never gave me a number* to him.
 
 She rang the number again this morning and she was put through to the office and she asked whether there was a Lewis and the woman on the switchboard said there was not, and she said *I was told to ring him*, and the woman said, "Right, well, whoever told you, they didn't hear about it from us."
 
