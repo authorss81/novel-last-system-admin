@@ -44,4 +44,4 @@ He has not moved a box back. She has not asked him why. She does not know that h
 
 On the morning of the twenty-fifth she was in first again. She came in at about ten past and put the small one at the front and hung her hat by the door, and neither of them said anything.
 
-**HE PUT THEM DOWN HER WAY ON THE SIXTEENTH OF MARCH AND HAS NEVER SAID WHERE HE GOT IT FROM, AND SHE FOUND HIM DOING IT ON THE NINETEENTH OF MAY AND HAS NEVER SAID SHE SAW, AND NEITHER OF THEM HAS ASKED THE OTHER FOR ANYTHING ONCE IN NINETY DAYS.**
+**HE PUT THEM DOWN HER WAY ON THE SIXTEENTH OF MARCH AND HAS NEVER SAID WHERE HE GOT IT FROM AND SHE DOES NOT KNOW THAT HE EVER DID IT AT ALL, AND NEITHER OF THEM HAS ASKED THE OTHER FOR ANYTHING ONCE IN NINETY DAYS.**

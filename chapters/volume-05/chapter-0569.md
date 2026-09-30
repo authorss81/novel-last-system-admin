@@ -22,7 +22,7 @@ She picked it up, went up, and put it inside her own door, and she did not say a
 
 He put another one there on the Wednesday and another on the Thursday.
 
-She took the Wednesday one in. She took the Thursday one in as well.
+She took the Wednesday one in as well. The Thursday one she left.
 
 On the Friday morning he was standing in the corridor at about ten to seven and the Thursday one was still on the floor in front of his door.
 
@@ -52,4 +52,4 @@ He put another one down before he left that morning, on the floor in front of hi
 
 He has not asked her anything and she has not said anything, and there is nothing in either flat to say, and there is going to be nothing.
 
-**NINE DAYS ARE THE WHOLE OF IT AND SHE TOOK THREE OF HIS INSIDE HER OWN DOOR AND LEFT THE THIRD ON THE FLOOR, AND ON THE THIRD OF JUNE SHE PUT ONE DOWN INSTEAD, AND NOTHING HAS PASSED BETWEEN THE TWO OF THEM ABOUT ANY OF IT AND NOTHING IS GOING TO.**
+**NINE DAYS ARE THE WHOLE OF IT AND SHE TOOK TWO OF HIS INSIDE HER OWN DOOR AND LEFT THE THIRD ON THE FLOOR, AND ON THE THIRD OF JUNE SHE PUT ONE DOWN INSTEAD, AND NOTHING HAS PASSED BETWEEN THE TWO OF THEM ABOUT ANY OF IT AND NOTHING IS GOING TO.**

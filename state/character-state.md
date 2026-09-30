@@ -1,5 +1,13 @@
 # Character State — After Chapter 48 (VOLUME 01 CLOSE)
 
+## READ THIS INDEX BEFORE THE FILE. It was added by the review repair of 30 September 2026 and it is additive: nothing below it was moved, deleted or altered.
+
+59 blocks. THE AUTHORITATIVE CLOSING BLOCK IS `# VOLUME 05, CONTINUATION 0038 — CHARACTER STATE AFTER CHAPTER 574 — Friday 26 June 2020`, the last block in the file. One heading is duplicated — the `VOLUME 05 IS RUNNING` series-position note — and the LAST copy is the current one.
+
+**SIZE, MEASURED WITH `wc -w` AND `wc -l` AT THAT REPAIR: 246,528 words, 2,688 lines.** This index does not make the file smaller. The archive of superseded blocks, which would, is still a human's decision and has still not been taken.
+
+---
+
 ## Jonas Mercer
 
 - **Age / role:** 32; NDC field technician, **grade III, probationary, and expecting nothing else.** He was granted the appointment on 27 March and it was declined in writing on 29 March. As of 20 April he holds **no appointment, no cabinet (6-R-14 drawer four closed), and no gate-initiation rights at 6-41.**
