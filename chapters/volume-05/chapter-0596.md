@@ -34,11 +34,11 @@ Then he knocked on the side door at about half past three on the Monday, which h
 
 He said, "That's the side done. I said the front was fine, so I've left it."
 
-And the man in the mid fifties said, "Right."
+And the man in his late fifties said, "Right."
 
 And he said, "The side's had two coats and a bit at the bottom. You'll not want to look at it again for a fortnight."
 
-And the man in the mid fifties said, "Right," and shut the side door.
+And the man in his late fifties said, "Right," and shut the side door.
 
 And that was the whole of it.
 
@@ -52,7 +52,7 @@ It is the wrong amount. Not the wrong colour and not the wrong door. The wrong a
 
 Here is what she wanted, and it is worth being exact about it because she cannot be exact about it herself and that is the whole of the difficulty.
 
-What she wanted was for the man in the mid fifties to be told that the front was the one that was finished, so that he would see it when he came in and say something about it, and the something would be the end of six weeks. She has never in her life wanted a surface painted. She wanted a man in a mood to be given a reason to come out of it.
+What she wanted was for the man in his late fifties to be told that the front was the one that was finished, so that he would see it when he came in and say something about it, and the something would be the end of six weeks. She has never in her life wanted a surface painted. She wanted a man in a mood to be given a reason to come out of it.
 
 What was said was: *Tell him the front's fine and it's the side door he wants.*
 

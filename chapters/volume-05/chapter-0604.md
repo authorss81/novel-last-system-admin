@@ -2,7 +2,7 @@
 
 The Friday of the thirteenth of November 2020, from about eight in the morning until about eight in the evening, in this borough, in three places that have nothing to do with one another.
 
-**THE TEN PEOPLE WHO DID SOMETHING IN THIS BOROUGH IN THE LAST FORTNIGHT ALL DID IT AND FINISHED IT, AND A VAN IS STILL BY A GARAGE, A FORM IS STILL ON A TABLE UNDER A PENCIL, AND A MAN WHO DRIVES A BUS HAS READ A BOARD AND GOT BACK IN.**
+**THE TEN PEOPLE WHO DID SOMETHING IN THIS BOROUGH IN THE LAST SEVEN WEEKS ALL DID IT AND FINISHED IT, AND A VAN IS STILL BY A GARAGE, A FORM IS STILL ON A TABLE UNDER A PENCIL, AND A MAN WHO DRIVES A BUS HAS READ A BOARD AND GOT BACK IN.**
 
 Here is the first of the three small things, and it is going wrong in the ordinary way in the first place.
 
@@ -46,7 +46,7 @@ He has not rung anybody. He has not written to anybody. He decided on the Thursd
 
 On Friday he stopped at that junction on the way back, which he is not supposed to do, and got out and read the boards. They are boards about drainage, and one of them carries a month, and the month is the twelfth, and he got back in and did the loop and was four minutes early and did not tell anybody that either.
 
-Here is the rest of the fortnight in that borough, and it is worth setting out, because none of it is the same shape as the three things above.
+Here is the rest of those seven weeks in that borough, and it is worth setting out, because none of it is the same shape as the three things above.
 
 The woman in her early forties whose office is above a shop was in at about half past eight on the Friday with the door open, and the man in his mid sixties who works with her came in at about nine, and the two of them have not mentioned the wallet, and he put it in the chest of drawers on the Friday of the twenty-fifth of September and it has been there seven weeks.
 
@@ -68,4 +68,4 @@ A man went back to a door in a row last Sunday and said a second thing in differ
 
 That is ten, and at about eight o'clock this evening in a hundred and thirty thousand people there is a van that has not gone and a form that has not been sent and a man in his mid forties who has read a board about drainage and got back in and did his loop.
 
-**TEN THINGS WERE DONE IN THIS BOROUGH IN A FORTNIGHT AND EVERY ONE OF THEM HAS BEEN FINISHED BY A PERSON WHO IS NOT WAITING FOR ANYTHING, AND THE GARAGE IS SHUT AND THE VAN IS ON THE PITCH AND THE PENCIL IS STILL ON THE FORM AND THE BUS WENT PAST THE JUNCTION TWENTY-THREE TIMES.**
+**TEN THINGS WERE DONE IN THIS BOROUGH IN SEVEN WEEKS AND EVERY ONE OF THEM HAS BEEN FINISHED BY A PERSON WHO IS NOT WAITING FOR ANYTHING, AND THE GARAGE IS SHUT AND THE VAN IS ON THE PITCH AND THE PENCIL IS STILL ON THE FORM AND THE BUS WENT PAST THE JUNCTION TWENTY-THREE TIMES.**

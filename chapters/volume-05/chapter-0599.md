@@ -2,7 +2,7 @@
 
 The Saturday of the seventeenth of October 2020, from about half past nine in the morning until about ten at night, in a first-floor flat in this borough.
 
-**HE SAID SOMETHING TO HER IN A CAR PARK IN THIS BOROUGH A FORTNIGHT AGO AND SHE WROTE IT DOWN PROPERLY THAT NIGHT, IN HER OWN HAND, ON THE RIGHT PAGE, WITH THE TIME ON IT, AND ON THIS WEDNESDAY SHE HAS BEEN LOOKING FOR THAT PAGE SINCE HALF PAST NINE, AND IT IS NOT IN THE BOOK.**
+**HE SAID SOMETHING TO HER IN A CAR PARK IN THIS BOROUGH EIGHT DAYS AGO AND SHE WROTE IT DOWN PROPERLY THAT NIGHT, IN HER OWN HAND, ON THE RIGHT PAGE, WITH THE TIME ON IT, AND ON THIS SATURDAY SHE HAS BEEN LOOKING FOR THAT PAGE SINCE HALF PAST NINE, AND IT IS NOT IN THE BOOK.**
 
 She is a woman in her mid thirties. He is a man in his mid forties. They work in the same place. She went there first. The whole of what has happened between them in two years is a working day.
 
@@ -12,7 +12,7 @@ The book is a hardback notebook with a rubber band round it. It has about five h
 
 Here is what he said.
 
-He said it on the Friday before last, at about twenty past five in the evening, in a car park behind a building about a mile from where she lives, and it was the two of them standing by her car because his was the one further away and they had both come out at the same time as they always do.
+He said it on the Friday of the ninth of October, at about twenty past five in the evening, in a car park behind a building about a mile from where she lives, and it was the two of them standing by her car because his was the one further away and they had both come out at the same time as they always do.
 
 He said, "I've put my notice in."
 
@@ -42,7 +42,7 @@ She got the book down at about half past nine in the morning and she found the p
 
 And then she made a mistake, and the mistake was ordinary, and it is the kind of mistake that costs a day.
 
-She had looked at the page and had not read it. She had looked at the four lines and seen her own writing and shut the book and put it on the table and gone to get her tea, and on the way back she thought, *what did he say*, and the sentence came to her as the word *notice* on its own, with nothing either side of it, which is what a sentence sounds like when you have not read it for six days and the only part of it that has held is the middle.
+She had looked at the page and had not read it. She had looked at the four lines and seen her own writing and shut the book and put it on the table and gone to get her tea, and on the way back she thought, *what did he say*, and the sentence came to her as the word *notice* on its own, with nothing either side of it, which is what a sentence sounds like when you have not read it for eight days and the only part of it that has held is the middle.
 
 And so she went through the book.
 
@@ -82,4 +82,4 @@ The book is on the table with the rubber band round it. The page is in it at the
 
 And she has not written anything else about him, and she is not going to, and the page is going to stay where it is, and on Monday she will get in at the usual time and stand in the same place and he will say something else that he has to say to somebody and she will find out what it was then, and the four lines will be in the book at the third of the way for as long as the book is in that flat.
 
-**SHE WROTE IT DOWN PROPERLY ON THE FRIDAY NIGHT WITH THE TIME ON IT AND IT WAS ON THE SAME PAGE ALL ALONG, AND SHE SPENT THE WHOLE DAY LOOKING FOR IT BECAUSE THE SENTENCE SHE WAS LOOKING FOR WAS NOT THE SENTENCE SHE WROTE, AND HE WROTE TO HER A FORTNIGHT AGO AND SHE HAS NOT ANSWED AND IS NOT GOING TO TODAY, AND HE WILL BE GONE BY CHRISTMAS AND SHE WILL KNOW WHEN.**
+**SHE WROTE IT DOWN PROPERLY ON THE FRIDAY NIGHT WITH THE TIME ON IT AND IT WAS ON THE SAME PAGE ALL ALONG, AND SHE SPENT THE WHOLE DAY LOOKING FOR IT BECAUSE THE SENTENCE SHE WAS LOOKING FOR WAS NOT THE SENTENCE SHE WROTE, AND HE WROTE TO HER THIRTEEN DAYS AGO AND SHE HAS NOT ANSWED AND IS NOT GOING TO TODAY, AND HE WILL BE GONE BY CHRISTMAS AND SHE WILL KNOW WHEN.**
