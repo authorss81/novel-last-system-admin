@@ -50,7 +50,7 @@ She thought about writing it down on the Saturday, and on the Sunday, and on the
 
 On the Thursday she rang it at ten past six.
 
-She was in the kitchen and it had been dark outside for about a quarter of an hour and she had been standing there doing nothing in particular since about half past four, and at ten past six she picked the phone up and put the ten digits in from memory, which she had been putting in from memory since the Friday, seven times, in the wrong order twice.
+She was in the kitchen and it had been dark outside for about a quarter of an hour and she had been standing there doing nothing in particular since about half past four, and at ten past six she picked the phone up and put the ten digits in from memory, which she had been holding in her head since the Friday and had not put it on anything.
 
 It rang four times and a woman said, "Hello."
 
@@ -58,7 +58,7 @@ The woman said it in the way a woman says hello from the front of her own house,
 
 She did not say anything at all. She put the phone down.
 
-Then she stood there and worked out what had happened, and the working-out took about ten seconds, and then she picked the phone up again and rang the six digits she has had written in the back of her own book since the June of 2019 and asked for the other four of them one at a time to be read back to her.
+Then she stood there and worked out what had happened, and the working-out took about ten seconds, and then she picked the phone up again and rang the number she has had written in the back of her own book since the June of 2019, and when he answered she asked him for the last three of them one at a time, to be read back to her.
 
 The man said them. He read them back to her twice because the first time she had it down wrong as well, and she said that she was sorry about that, and he said there was no need for that either.
 
@@ -68,7 +68,7 @@ And she said that she would.
 
 And he said, "You have not rung me on Friday for six months."
 
-That was true. It was true and he knew it was true, and she did not answer it, and there was about two seconds on the line in which the two of them were both in the other person's kitchen, and then he said something about a place where he had to be at seven and put the phone down.
+That was true of the six months and not of the last Friday, and she let it stand, and there was about two seconds on the line in which the two of them were both in the other person's kitchen, and then he said something about a place where he had to be at seven and put the phone down.
 
 She did not ring him on the Friday of that week. She will ring him tomorrow at half past seven and he will be there and they will talk about nothing for twelve minutes or more.
 

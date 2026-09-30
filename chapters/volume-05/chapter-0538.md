@@ -10,7 +10,7 @@ Their mother died on the seventh of March 2011, and the third Saturday after tha
 
 What they do is the same every time. They take the turning off the top of the town at about ten to nine, because the turning is the one that goes past the little grey building their father went into in 1981 and came out of in 1994. They stop at the second of the four rows. They are at their mother's headstone for about twenty minutes. Then they walk the two ends of the row and their mother is at one end and the rest of the family is spread down the middle in no order anybody chose.
 
-Then they go into the town and walk the high street and do whatever needs doing that anybody has told them about, and then they go to the car and sit in it, and then at twelve the younger drops the younger and goes home.
+Then they go into the town and walk the high street and do whatever needs doing that anybody has told them about, and then they go to the car and sit in it, and then at twelve the younger gets out and goes home.
 
 That is the round. It takes three hours and a half and it has taken three hours and a half on approximately every Saturday for eight years and nine months, and neither of them has ever once suggested changing it.
 
@@ -48,7 +48,7 @@ The woman answered. The woman was good at it. She laughed twice at the right mom
 
 The younger was behind them for the whole of it with her hands in her pockets.
 
-Twice the woman waited for her. Once by a shop with a window full of nothing in particular, and once where the street narrows by the shop that sells the same two things. Both times she waited, and both times the younger came up alongside her and said nothing and looked at whatever the woman was looking at, and then both of them carried on.
+Twice the woman waited for her. Once by a shop with a window full of nothing in particular, where the younger came up alongside her and said, "You will want your hood up," and the woman said, "I am all right," and the younger said, "Your hood is down," and then both of them carried on. And once where the street narrows by the shop that sells the same two things, where the younger said, "It is colder than it was at eight," and the woman said, "Is it," and the younger said, "It is the wind off the water," and went on, and the older was four paces ahead and did not turn round.
 
 At about a quarter to twelve, outside the shop that sells the same two things, the younger stopped and said, to the woman, "It's here," and the woman said, "It was all right, was it," and the younger said, "It was all right."
 
@@ -58,11 +58,9 @@ That is seven sentences in three hours and a half and every one of them is about
 
 The woman worked out most of it in the first ten minutes and worked out the rest of it in the car afterwards, and what she worked out was not the thing the older would have wanted her to work out.
 
-What she worked out was that this was not about her. That is the part that made her sit still on a dual carriageway with the heating going and say, "Is that me?"
+What she worked out was that this was not about her, and that it was going to be a thing she sat in a car about on the way home.
 
-She had been told, on the drive out, that this was a weekly round the two sisters had been on since their mother died. She had been brought along on it as a guest. Guests do get looked at. She had expected three hours of being looked at and had got herself ready for it in the car.
-
-What she had got was three hours of not being looked at once, and the not being looked at went on after the car as well.
+She had been told, on the drive out, that this was a weekly round the two sisters had been on since their mother died. She had been brought along on it as a guest. Guests do get looked at. She had expected three hours of being looked at and had got herself ready for it in the car. What she had got was three hours of not being looked at once.
 
 In three hours and a half the younger woman had read a headstone, walked two ends of a row, stopped at four of them, washed the base of one, taken away what was dead and put in what was not, said seven sentences, and none of them had been directed anywhere. Not at the older. Not at her. Directed at nobody in particular, in the tone of a person talking out loud in an empty kitchen while carrying something.
 

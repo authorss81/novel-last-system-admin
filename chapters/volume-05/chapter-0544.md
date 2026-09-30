@@ -6,7 +6,7 @@ The Friday of the thirty-first of January 2020, and most of the day, in five str
 
 She is a woman past sixty who goes to a station four miles off most days of the week, because there are people there and because the house she comes out of has a view of the next building and nothing else.
 
-On the Friday of the thirty-first of January she was at Lewisham station from about half past nine.
+On the Friday of the thirty-first of January she was at that station from about half past nine.
 
 She had gone out along the far platform at about ten to ten to find out from the board what time the next one was, because the board on that platform is a different board and it says something different, and she does that most days.
 
@@ -20,7 +20,7 @@ She stood at the end of the far platform and watched it go and then she came bac
 
 
 
-She did not write to anybody about it. She did not go down to the office and tell them, and she did not ring the number in the fine line at the bottom of a ticket she did not keep. She sat on the seat at the wrong end of the platform for about twenty-five minutes and then she went down and got the next one and came home.
+She did not write to anybody about it. She did not go down to the office and tell them, and she did not ring the number in the fine line at the bottom of a ticket she did not keep.
 
 What she was not, at any point between ten to ten and twenty past ten, was somebody who had been badly treated. That is the part of it that will not leave her. Nobody made a mistake on her behalf. She went to the end of a platform to read a board, and a train did what trains do, and she was on the wrong side of a building when it did it, and she has been going to that end of the platform since about April.
 
@@ -52,15 +52,13 @@ She has not mentioned it to anybody. She has not mentioned it to the new man eit
 
 She had a fixed order and everybody in that shop since 1975 has known it, and the new man does not know it and did not ask, and she has not told him.
 
-On the day of the thirty-first she went in and he had put out a different bread, and she looked at it and she took it and she said nothing, and she has been back six times since and every time she has said "The dark ones" and every time he has put out the dark ones, and neither of them has referred to it again.
-
 The seeds are in the cupboard at the front of the house and she will use them and they will not be as good, and she has not said a word about that either, to anybody.
 
 ---
 
 On the other side of this borough there is a place that has done a cooked breakfast on a Saturday morning since about 1990 and the man who has been going in for five years has been ordering the same thing for five years.
 
-It is a breakfast. It has not changed. It has been the same price twice and it is not the same price now, and he does not know the price because he does not pay attention to it.
+It is a breakfast. It has not changed. The price has gone up twice since he started going in and it is not what it was, and he does not know what it is because he does not pay attention to it.
 
 The name of it changed in November. That is all that happened. The name on the board went from one thing to another thing, and both are the same food, and the woman behind the front of that place said nothing about it when she changed it because it is a menu and menus get changed.
 
@@ -72,7 +70,7 @@ There is no correcting anywhere in that exchange and neither of them has looked 
 
 
 
-Down by the water there is a place that none of those five streets reaches, and in that place there is an old working book, about two inches deep. Somebody ruled a line under the final entry in a column in it in the September of 2015 and nobody has put anything below that line since. That gap measures one thousand eight hundred and ninety-two days.
+Down by the water there is a place that none of those five streets reaches, and in that place there is an old working book, about two inches deep. Somebody ruled a line under the final entry in a column in it, and nobody has put anything below that line since. That gap measures one thousand eight hundred and ninety-two days.
 
 No door was opened this week and nobody counted anything, and not one person in any of those five streets has ever been aware that the book is there.
 

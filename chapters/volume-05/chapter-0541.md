@@ -52,7 +52,7 @@ So she went back to quarter to nine, which is where she has gone for eight years
 
 What neither of the other two has done is mention it either.
 
-The man in his mid eighties has gone up on a Monday evening for about two years now and has not once come back down early. He has asked her no questions about why she comes, and he has never asked the woman in her early eighties anything at all, and on the thirteenth of January, when she said, "You have for a bit," he said nothing, and she did not repeat it.
+The man in his mid eighties has gone up on a Monday evening for about two years now and has not once come back down early. He has asked her no questions about why she comes, he has never asked the woman in her early eighties why she comes either, and the fact that the two of them have started coming an hour early has not been put to either of them by anybody.
 
 Whether either of them has worked out that the other comes at half past seven on Mondays is a question that is not going to get asked, and it has not been asked, and she has had a month to work on whether to raise it herself and has decided twice not to.
 

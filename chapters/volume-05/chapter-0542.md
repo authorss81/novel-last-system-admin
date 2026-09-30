@@ -46,7 +46,7 @@ On the fourteenth of December she saw him come the other way, and she saw the tw
 
 She has not gone down.
 
-She has had five weeks of not going down, she has not gone down once in any of them, and she is not going to now either. It is worth being plain about that, because there are two versions of why and she has been through both of them.
+She has had five weeks of not going down, she has not gone down once in any of them, and she is not going to now either. There are two versions of why and she has been through both of them.
 
 The first version is that a man who has stopped walking past a barrow for reasons that are his own is not a person anybody comes down about. The second version is that if she comes down, then he knows that a woman on the first floor has been keeping count of his mornings, and she has not been keeping count of his mornings, and that is the difference between the two of them that she would be giving away.
 

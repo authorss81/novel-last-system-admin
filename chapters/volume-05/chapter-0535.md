@@ -4,7 +4,7 @@ The Friday of the thirteenth of December 2019, and the half hour before seven in
 
 **HE IS A MAN IN HIS LATE SIXTIES AND HE GOES DOWN THAT STREET AT HALF PAST SIX EVERY MORNING AND COMES BACK UP IT WITH TWO LOAVES UNDER HIS ARM, AND HE HAS DONE IT SINCE THE MARCH OF 2017, AND SINCE THE FIRST WEEK OF NOVEMBER A WOMAN HAS BEEN GOING UP THAT SAME STREET AT THAT SAME HOUR AND HAS NEVER ASKED HIM WHY AND IS NOT GOING TO.**
 
-The street is not quite straight and it is no longer than it is, and there is a shop at the bottom of it that opens at seven. Everything else in the street is houses and the fronts of houses and a place where three cars stand on the edge all week.
+The street is not quite straight and it is no longer than it is, and there is a shop at the bottom of it that opens at six. Everything else in the street is houses and the fronts of houses and a place where three cars stand on the edge all week.
 
 He is a man in his late sixties and he has been at the same house at the top end since 1991. He is up before half past five. He has always been up before half past five, and he has never once in his life told anybody why, and nobody in that street has ever asked him, because he is not a man anybody asks.
 
@@ -20,19 +20,19 @@ The woman came to the top of that street in July and has been at the same house 
 
 He worked that out inside a week or so of her first week in November. Neither of them has ever referred to it. She has never mentioned that she noticed him coming down that street, and neither of them has ever got past good morning.
 
-What they have done instead is that they have passed each other twice every morning since the first week of November, going opposite ways, each of them on their own side of the street, with about twelve feet of tarmac between them, which in a street this narrow is enough for two people who have agreed on nothing.
+What they have done instead is that they have passed each other twice on those mornings since the first week of November, going opposite ways, each of them on their own side of the street, with about twelve feet of tarmac between them, which in a street this narrow is enough for two people who have agreed on nothing.
 
-The going-down half is at about ten past six. He is coming up from the bottom and she is going up to the far end, so they go past each other at the middle, and he nods, and she nods, and neither of them stops.
+The going-down half is at about twenty to seven. He is going down to the shop and she is going up to the far end, so they go past each other at the middle, and he nods, and she nods, and neither of them stops.
 
-The coming-up half is about four minutes later. She is coming back down from the far end and he is coming up from the shop, so they go past each other about six houses short of the top, and he nods again, and this time she says nothing at all, and he says nothing at all, and by the middle of December they had got it down to one nod and no words on each pass.
+The coming-up half is about ten minutes later. She is coming back down from the far end and he is coming up from the shop, so they go past each other about six houses short of the top, and he nods again, and this time she says nothing at all, and he says nothing at all, and by the middle of December they had got it down to one nod and no words on each pass.
 
-It is not cold between them. It is worth saying that plainly because it is easy to get wrong. They are two people who are new to each other and who have worked out inside a fortnight that neither of them is going to be first, and they have both gone on about their lives.
+It is not cold between them. They are two people who are new to each other and who have worked out inside a fortnight that neither of them is going to be first, and they have both gone on about their lives.
 
 
 
-On the eighth of December the shop changed its hours.
+On the second of December the shop changed his hours.
 
-The man who keeps it has had the shop at six for twenty years and he did not decide to change it. What happened was that his hands were done up in plaster from the second of December and his daughter-in-law was in and could not get there by half past six, and so from the eighth the boards went up across the front at five o'clock and everybody in that street found out about it on the Monday.
+The man who keeps it has had the shop at six for twenty years and he did not decide to change it. What happened was that his hands were done up in plaster from the twenty-fourth of November and his daughter-in-law was in and could not get there by half past six, and so from the second the boards went up across the front at five o'clock, and everybody in that street found out about it on the Monday.
 
 The rest of that week the whole street bought what it needed at the big place off the top of it, and came home. By the Friday, though, the ordinary thing had come back into the street, which is that most people stop bothering after two days about a thing that does not matter to them.
 
@@ -44,7 +44,7 @@ He came up the south side.
 
 There is no reason on earth why he came up the south side. He had crossed at the bottom because he had crossed at the bottom to look, because there is no other way to look at a shut shop, and he came back the way he was standing. He had come down the whole street and he was at the bottom of it and the far side was three feet away and he did not cross back.
 
-That was all. There is nothing in it to say, and he has never mentioned that morning to anybody in that street.
+He has never mentioned that morning to anybody in that street, and nobody in that street asks him anything.
 
 She was about a hundred yards away coming down the south side with nothing in her hands, and they came towards each other at the ordinary place, and he had two loaves under his arm that he had not bought and she had a morning she had already finished, and for about four seconds they were both walking along the south side of that street at the same time.
 
@@ -58,8 +58,8 @@ He went down at half past six on the Friday the thirteenth and came back up with
 
 And that is the whole of Friday the thirteenth of December.
 
-What has changed is that neither of the two of them has any way of knowing what happened that morning, because there is nothing to know. A man had shut boards across a shop and a man had come back up the wrong side of a street because he was standing there when he found out the shop was shut, and a woman had been where she has been five days a week since the first week of November.
+What has changed is that neither of the two of them has any way of finding out what the other one was standing at the bottom of that street for, and neither of them is going to find out. A man had shut boards across a shop and a man had come back up the wrong side of a street because he was standing there when he found out the shop was shut, and a woman had been where she has been two days a week since the first week of November.
 
-Neither of them has asked the other about it. Neither of them has stopped. He is going down that street at half past six and coming back up it, and she is going up it and coming back down it, and they go past each other twice every morning, and the two of them have been doing that since November and will go on doing it after the thing neither of them will mention has been a week old.
+Neither of them has asked the other about it. Neither of them has stopped. He is going down that street at half past six and coming back up it, and she is going up it and coming back down it, and they go past each other twice on each of those mornings, and the two of them have been doing that since November and will go on doing it after the thing neither of them will mention has been a week old.
 
 He will be at the bottom of that street tomorrow morning at half past six, and so will she, and they will be on opposite sides.

@@ -40,7 +40,7 @@ After that he came in on the mornings. He came in and he stood on the bottom ste
 
 That is what happened for a month, and then it stopped.
 
-He stopped it himself. Nobody asked him to and she did not ask him to and there was no conversation about it at all. He came in on the eighteenth of December and she came in at half past seven and went past him and up, and he stood on the bottom step, and she got to the top and came back down and he was still there, and she stopped on the bottom step and said, "You have been standing there an hour."
+He stopped it himself. Nobody asked him to and she did not ask him to and there was no conversation about it at all. He came in on the eighteenth of December and she came in at half past seven and went past him and up, and he stood on the bottom step, and she got to the top and came back down and he was still there, and she stopped on the bottom step and said, "You have been standing there half an hour."
 
 And he said, "I have."
 

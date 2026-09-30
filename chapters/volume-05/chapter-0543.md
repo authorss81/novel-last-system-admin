@@ -8,7 +8,7 @@ They are both in their mid sixties and the older is three years the worse for it
 
 So they shared it the way they have shared everything since. The workshop is worked in by one or the other or by both of them and it is not worked in by anybody else, and there is not a word of writing about any part of it anywhere, and there never has been.
 
-Once a year there is a figure. It goes to the owner of the building at the back and it has to go in the January because that is when the owner says it goes in. They have never argued about it. They have never agreed a day. The older one has always paid first and the younger one has always paid the other half two or three days later out of the same money that is not there, and it has worked like that since 1979.
+Once a year there is a figure. It goes to the owner of the building at the back and it has to go in the January because that is when the owner says it goes in. They have never argued about it. They have never agreed a day. The older one has always paid first and the younger one has always paid the other half two, three or four days later out of the same money that is not there, and it has worked like that since 1979.
 
 Neither of them would describe it as anything. It has never had a name and the naming has never mattered. If anybody asked them what the arrangement was they would both say there is no arrangement, and they would both be telling the truth, and they would both find it hard to explain how it is that it has not fallen apart.
 
@@ -16,7 +16,7 @@ Neither of them would describe it as anything. It has never had a name and the n
 
 What happened on the eighth of January is this.
 
-The younger one went to see the owner on the Wednesday as he does, and the owner said that the figure for the year was more than last year's, and the younger one said right, and went to his bank, and drew out the whole of it, and paid the whole of it in one go, and said nothing to his brother.
+The older one went to see the owner on the Wednesday as he does, and the owner said that the figure for the year was more than last year's, and the older one said right, and went to his bank, and drew out the whole of it, and paid the whole of it in one go, and said nothing to his brother.
 
 He has said nothing since. Not to his brother and not to anybody else. He has not mentioned it in the car on a Sunday, which is when they talk, and he has not mentioned it to the man who does the roof over it, and he has not mentioned it to his wife, and she has not asked because he has not looked like a man with something.
 
@@ -79,5 +79,3 @@ The man in his early fifties has not thought about it again since about the midd
 The older brother paid all of it on the eighth of January and will say so to nobody for as long as he is asked, and the younger brother now knows, and will not put it in a call, and will not put it down on a sheet and send it, and will not put it into the conversation that happens in a car on a Sunday.
 
 He will pay his half in three or four days, out of money that is not there, out of the same account, in the same way he has done since 1979, and neither of them will say one word about the eighth of January to the other for as long as either of them lives.
-
-He will pay his half in three or four days, out of money that is not there, in the same way he has since 1979. Neither of the two brothers will ever mention the eighth of January to the other.

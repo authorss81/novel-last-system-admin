@@ -8,7 +8,7 @@ They have been married for the best part of fifty years. He is a man in his late
 
 The sentence is this: *Whatever you decide, it is all right with me.*
 
-Once a year, on that date, since 2009. Never on the second, never in the middle of a week, never on any other day at all. He says it standing at the front of the house, usually while he is taking his jacket off, and then the two of them have the rest of the afternoon.
+Once a year, on that date, since 2009. Never on the second, never twice, never on any other day at all. He says it standing at the front of the house, usually while he is taking his jacket off, and then the two of them have the rest of the afternoon.
 
 She has never answered it. Not once, in any of those years. She has not said no and she has not said yes and she has not said nothing deliberately, and there is a difference between the three of those things which only the two of them have ever been in a position to draw.
 
@@ -54,7 +54,7 @@ And then he sat down.
 
 That is the whole of the first of January 2020 and there has not been a word about any of it in five days.
 
-They have spoken on the phone twice. Once on the second and once on the fourth. Both times about something else: about the collection from the place at the end of the terrace, and about whether the woman in the flat below wants somebody to go to the shops on the Thursday.
+They have spoken on the phone twice. Once on the second and once on the fourth. Both times about something else: about the collection from the place at the end of the terrace, and about whether the man in the flat below wants somebody to go to the shops on the Thursday.
 
 He has not telephoned to ask whether she has thought about it. She is entirely sure he will not, and she has thought about that on four occasions since Tuesday.
 
@@ -90,7 +90,7 @@ Then there was another four minutes, and then he said, "Is there anything you wa
 
 
 
-What has happened in this house since the first of January is that a sentence has been said three times in six days and it has been answered twice in the same words both times, and that a second sentence has been said once, and it has not been answered at all.
+What has happened in this house since the first of January is that a sentence has been said twice in six days and it has been answered twice in the same words both times, and that a second sentence has been said once, and that she has said two things back to it and neither of them was an answer.
 
 What has not happened is that anybody has mentioned it.
 
