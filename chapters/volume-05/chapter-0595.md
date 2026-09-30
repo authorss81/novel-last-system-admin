@@ -62,7 +62,7 @@ He is not a person who stops. That is worth saying because it is the shape of hi
 
 Here is what the nineteen are. One is about the thing over a man's own door. Two are about the shop's back door and who has a key to it. Two are about deliveries coming in at half past five and hitting a wall. Three are about rubbish going out on the wrong night. One is about a man on the seventh who has now asked three times about the flat above him. One is about a woman on the fifth who wants to know when the price of milk goes up. Four are about money, two of which are the same money. One is about water going brown in a kitchen on the first. One is about a dog. One is about the shop's hours changing in the new year. One is about somebody else's mother.
 
-That is the whole of what four hundred and thirty thousand people are, on that road, on the list.
+That is the whole of what a hundred and thirty thousand people are, on that road, on the list.
 
 And there is no part of it that can be done by anybody. That is not because nine people have not been asked. It is that the nineteen are things nine people said to a woman in a corridor, and nine people saying things is not a thing a person can act on, and she is not going to take them to the shop or to anybody, and he has not suggested it and will not.
 

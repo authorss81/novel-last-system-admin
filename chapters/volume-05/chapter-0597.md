@@ -22,7 +22,7 @@ And she said, "His hands, not his legs. I want that said."
 
 And he said, "Right," and that was all of it, and they watched the rest of it and went to bed.
 
-The whole of what the woman in her mid fifties did, and of what the man in her mid fifties did, is the next three paragraphs.
+The whole of what the woman in her mid fifties did, and of what the man in his mid fifties did, is the next three paragraphs.
 
 She thought about it for three days and said nothing more about it, and on the Saturday she got the bus into town and went to a shop that sells the sort of thing, and she was there about an hour and a half, and this is what happened in it.
 

@@ -2,9 +2,9 @@
 
 The Sunday of the eighth of November 2020, from about half past two in the afternoon until about half past six in the evening, at a house in a row in this borough.
 
-**HE SAID SOMETHING TO HER AT THIS DOOR ON THE SIXTEENTH OF SEPTEMBER AND HE HAS COME BACK TODAY, EIGHT WEEKS LATER, AND SAID IT AGAIN IN DIFFERENT WORDS, AND SHE TOOK THE SECOND ONE DIFFERENTLY, AND HE WENT BACK IN HIS CAR AND SAT THERE, AND HE CANNOT TELL WHICH VERSION HE WAS HEARING.**
+**HE SAID SOMETHING TO HER AT THIS DOOR ON THE SIXTEENTH OF SEPTEMBER AND HE HAS COME BACK TODAY, SEVEN WEEKS AND FOUR DAYS LATER, AND SAID IT AGAIN IN DIFFERENT WORDS, AND SHE TOOK THE SECOND ONE DIFFERENTLY, AND HE WENT BACK IN HIS CAR AND SAT THERE, AND HE CANNOT TELL WHICH VERSION HE WAS HEARING.**
 
-He is a man in his early fifties. She is a woman in his mid sixties. She is his aunt and he has not been in that house since the June before last.
+He is a man in his early fifties. She is a woman in her mid sixties. She is his aunt and he has not been in that house since the June before last.
 
 The thing he has said twice is about a key.
 
@@ -42,11 +42,11 @@ And she said, "Well."
 
 And he said, "Right," and he got back in his car and drove the length of that road and went home and thought about it for about half an hour and it seemed to have gone well.
 
-He did not come in the October. He did not come in any of the seven months since and he did not ring.
+He did not come in the October. He did not come in any of the seven weeks since and he did not ring.
 
 ---
 
-Here is what he decided today, and it took him three days to decide it, and the reason he decided it is worth putting down because it is the whole of the chapter.
+Here is what he decided today, and it took him three days to decide it, and it began with a length of road on Saturday and not with anything that had happened to either of them.
 
 He did not go back because anything had happened. Nothing had happened. He had been driving past yesterday and had thought about the key, and had thought about her saying *there's no need to come*, and had realised in the space of about half a mile that he did not know what she had meant by it.
 
@@ -64,7 +64,7 @@ He cannot get from one to the other. He has tried since the Friday. Every versio
 
 Here is the second version, and he said it on the step at about half past four.
 
-She opened the door before he had got to it.
+She opened the door before he had got to it, the way she always did, and the hall behind her smelled of what it had smelled of in the September.
 
 He said, "I found that key in the September, in the drawer in the hall."
 
@@ -78,7 +78,7 @@ And then he said the sentence, and he had a different one ready, and it was a be
 
 He said, "I wasn't saying it to catch you out. I said it because I didn't want to hear afterwards that you'd had a go and hadn't told me."
 
-And she said, "Right."
+She did not say anything at once. She had her hand on the edge of the door and she stayed like that long enough that he thought she was going to close it.
 
 And she said, "Well, you did say it."
 
@@ -90,17 +90,19 @@ And he said, "That's not what I meant."
 
 And she said, "No, I know it's not."
 
-And he said, "Right."
+He said, "Right," and he heard it come out with no weight on it at all.
 
 And she said, "It's all right. I understood it first time. I just didn't say so."
 
-And he said, "Right."
+He said, "Right."
 
 And she said, "You've come a fair way to say you didn't mean it."
 
 And he said, "I know."
 
 And she said, "Well."
+
+Rain had come across the road while he was standing there and it was going on the step between them, and neither of them moved out of it.
 
 And he said, "I wasn't going to come and be a person about it. I thought you should have it straight."
 
@@ -114,17 +116,17 @@ And he said, "All right."
 
 And he said, "If you ever can't do it, ring me and I'll come, and you don't have to say anything about anything. That's all I wanted."
 
-And she said, "Right," and then she said, "That's what I understood you to say in the September, anyway. And I've not rung anybody else, so you were doing it for nothing either way."
+And she said, "That's what I understood you to say in the September, anyway. And I've not rung anybody else, so you were doing it for nothing either way."
 
-And he said, "Right."
+He said, "Right."
 
 And she said, "Was that it?"
 
 And he said, "That's it."
 
-And she said, "Right, well, I've got the dinner on."
+And she said, "Well, I've got the dinner on."
 
-And he said, "Right."
+He said, "Right."
 
 And the door was shut.
 
@@ -132,7 +134,7 @@ Here is what happened afterwards, and it is the whole of the rest of it.
 
 He got back in his car at about twenty past four this afternoon and sat in it until about half past five, on that street, in that borough, with the engine off and the rain going on the roof, and he worked out the following four things in the sequence he worked them out in.
 
-She took the second version as the first version. That is not possible and it is not what happened and it is the only thing he can make fit, because she repeated the first version back to him word for word and the first version is not in the sentence he said at four o'clock.
+She took the second version as the first version. That is not possible and it is not what happened and it is the only thing he can make fit, because she put the September version back to him almost word for word, and the September version is not in the sentence he said at four o'clock.
 
 She told him she understood it first time. That sentence was said about four seconds after *that's not what I meant*, and it was said in the voice of a person putting a matter down, and he could not tell from it whether she had understood it the first time and had not said so, or whether she had understood something else the first time and was now being kind about it, or whether she was telling him to stop.
 

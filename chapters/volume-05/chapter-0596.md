@@ -4,7 +4,7 @@ The Wednesday of the thirtieth of September 2020, from about half past seven in 
 
 **SHE SAID ONE SENTENCE TO HIM IN THAT KITCHEN ON THE SATURDAY BEFORE LAST AND HE DID EXACTLY WHAT SHE SAID AND IT IS THE WRONG AMOUNT OF IT, AND SHE CANNOT SHOW HIM IT IS THE WRONG AMOUNT, BECAUSE WHAT SHE SAID WAS NOT WRONG AND WHAT HE DID WAS NOT WRONG AND THEY ARE HOLDING THE SAME SENTENCE.**
 
-She is a woman in her early fifties. He is a man in her early forties and he is her son. He has been painting the outside of that house since the last week of August and it is nearly finished.
+She is a woman in her early fifties. He is a man in his early forties and he is her son. He has been painting the outside of that house since the last week of August and it is nearly finished.
 
 The thing is a shop at the bottom of that road with a man in his late fifties who keeps it, and the two of them have been arguing about a door on the side of that shop for about six weeks.
 
