@@ -1,0 +1,85 @@
+{
+  "written": "BEFORE ANY PROSE OF 615-624 EXISTS",
+  "why": "0039, 0041 and 0042 all declared after the fact or never. This file is the declaration, and the read-back at the end of the batch is against it and against the prose, and the prose wins.",
+  "family": {
+    "name": "THE EIGHTH",
+    "one_sentence": "SOMEBODY WAS TOLD A THING THEY CANNOT PLACE, AND THE CHAPTER IS A DAY ON WHICH THEY GO LOOKING FOR WHERE IT CAME FROM AND THE BOROUGH DOES NOT SUPPLY IT.",
+    "test_against_595_604": "It cannot be summed as someone did a small thing and it went nowhere, because nothing is done. The thing in this batch is MISSING, not completed.",
+    "test_against_605_614": "It cannot be summed as someone carried a thing they could not put down, because nothing is carried. A carried thing has weight and a place. This one has no source and no substance.",
+    "is_a_human_ruling": false,
+    "flag": "THE FAMILY IS A WRITER'S AND NOT A HUMAN'S AND NO WRITER HAS EVER NAMED ONE BEFORE. IT IS FLAGGED, NOT DEFENDED."
+  },
+  "declared_ordinary_word": "and then",
+  "declared_ordinary_word_note": "Declared before chapter 0615 was written. If it comes out at nil, that is a finding about the writer and it is reported as one, which is the only correct way to report it.",
+  "ladder": {
+    "rule": "three to seven days between chapters, none on the ninth or the eleventh of a month, no two sharing a date, none before the twelfth of January 2021, and no date may be the ninth or the eleventh of a month, because those two are closed figures and may not be printed",
+    "chapters": {
+      "0615": "Tuesday 12 January 2021",
+      "0616": "Sunday 17 January 2021",
+      "0617": "Saturday 23 January 2021",
+      "0618": "Wednesday 27 January 2021",
+      "0619": "Wednesday 3 February 2021",
+      "0620": "Saturday 6 February 2021",
+      "0621": "Friday 12 February 2021",
+      "0622": "Wednesday 17 February 2021",
+      "0623": "Saturday 20 February 2021",
+      "0624": "Friday 26 February 2021"
+    },
+    "incoming_gap_from_0614": 7,
+    "gaps_inside_the_batch": [
+      5,
+      6,
+      4,
+      7,
+      3,
+      6,
+      5,
+      3,
+      6
+    ],
+    "span_days_from_0614": 52,
+    "span_days_inside_the_batch": 45,
+    "correction": "THE FIRST EDITION PRINTED NINE GAPS AND A SPAN OF FORTY-FOUR DAYS AND WAS OUT BY ONE AT BOTH ENDS, BECAUSE IT COUNTED THE INCOMING GAP AS AN INTERNAL ONE. THE SECOND EDITION PUT 0621 ON THE ELEVENTH OF FEBRUARY, WHICH IS A CLOSED FIGURE AND MAY NOT BE PRINTED IN ANY FORM, INCLUDING IN A DATELINE. THE THIRD EDITION MOVES 0621, 0622 AND 0624 AND NO DATE EARLIER THAN 0615 IS TOUCHED. NO CHAPTER EXISTED YET WHEN THIS WAS CORRECTED, WHICH IS THE POINT.",
+    "bound_from_0614": "earliest Thursday 11 February 2021, latest Tuesday 23 March 2021, both added up on the real 2021 calendar, ten gaps not nine"
+  },
+  "bands": {
+    "men": {
+      "0615": "early sixties",
+      "0616": "late teens",
+      "0617": "late fifties",
+      "0618": "early thirties",
+      "0620": "mid forties",
+      "0621": "early fifties",
+      "0622": "late thirties",
+      "0623": "mid sixties",
+      "0624": "late twenties"
+    },
+    "women": {
+      "0615": "late sixties",
+      "0616": "mid thirties",
+      "0617": "mid fifties",
+      "0618": "mid sixties",
+      "0619": "early forties",
+      "0619b": "early thirties",
+      "0621": "mid twenties",
+      "0622": "early fifties",
+      "0623": "late thirties",
+      "0624": "early sixties"
+    },
+    "collisions_inside_batch": "none in either gender",
+    "carried_forward_bans": "A woman in her late fifties may not be used. 0600 holds two of them and the repair left it alone.",
+    "note": "AN ALLOCATION WHICH IS NOT READ BACK AGAINST THE PROSE IS NOT A MEASURE. IT HAS FAILED THREE TIMES. THE READ-BACK IS RUN AT THE END OF THIS BATCH AND THE PROSE WINS."
+  },
+  "cards": {
+    "0615": "A woman six houses below him tells him at the bus stop that the man at the top of their road has had to go into a place. He cannot place her and cannot place where she got it. He looks for her all day. He does not go up the road.",
+    "0616": "A boy at the counter tells her that the flat above her has been sold. It has not been sold. She cannot work out whether he was talking about her. She spends the day establishing that he was not confusing her with somebody.",
+    "0617": "A face from a shop he does not use tells him over the counter that his wife has been to see somebody. He knows his wife has not been to see anybody. He cannot place the face and he does not ask his wife.",
+    "0618": "A customer tells him he has a daughter in her late teens. He has not got a daughter. He cannot work out whether she was talking about him, and he cannot ask her without finding out.",
+    "0619": "A woman she has worked beside tells her that she is the one who took it on. She cannot establish what it is and she cannot ask, because asking is the only act that would settle it.",
+    "0620": "A man in a car park tells him he is owed money by a firm he has never heard of. It may be real. He cannot find who told him and he does not spend it and he does not ring.",
+    "0621": "A stranger comes into the shop and tells her that the woman who used to work there has left and will not be back. She has never worked there. She cannot place him and cannot work out what shop he means.",
+    "0622": "A woman in a car park tells him that a woman he used to work with has been asking after him. He cannot establish which woman and he cannot ask without admitting he did not know.",
+    "0623": "A woman at a gate says that a man nobody at that gate can name has been asking after him by name. He has never given his name there. He cannot find out who knows it.",
+    "0624": "A woman he has met once says that he has been asking after her. He has not asked after anybody. The information turns back on him and he cannot place where it started."
+  }
+}
