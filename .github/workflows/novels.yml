@@ -75,6 +75,9 @@ jobs:
     if: ${{ inputs.probe != true }}
     runs-on: ubuntu-latest
     timeout-minutes: 240
+    permissions:
+      contents: write
+      actions: write
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -92,13 +95,16 @@ jobs:
       - name: Request EPUBs for a finished manuscript
         # A push made with GITHUB_TOKEN does not trigger other workflows, so the
         # build is requested explicitly once the novel and its synopsis exist.
+        # Never fatal: the epub workflow also polls on a schedule.
         if: ${{ hashFiles('state/complete.md') != '' && hashFiles('state/synopsis.md') != '' }}
+        continue-on-error: true
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          set -euo pipefail
-          gh api -X POST "repos/${GITHUB_REPOSITORY}/actions/workflows/epub.yml/dispatches" --silent
-          echo "requested an EPUB build"
+          set -uo pipefail
+          gh api -X POST "repos/${GITHUB_REPOSITORY}/actions/workflows/epub.yml/dispatches" --silent \
+            && echo "requested an EPUB build" \
+            || echo "could not request an EPUB build; the scheduled build will pick it up"
 
   retrigger:
     needs: run-batch
