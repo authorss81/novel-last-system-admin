@@ -8,7 +8,7 @@ She is a woman in her late fifties. She is at home all night. Her sister is at t
 
 ---
 
-She comes in from lates at about half ten with her coat damp and her shoes loud on the tiles, and her sister looks up from the kitchen table with a mug and a form and a pen in a clip.
+She comes in from lates late with her coat damp and her shoes loud on the tiles, and her sister looks up from the kitchen table with a mug and a form and a pen in a clip.
 
 "How bad was it?"
 
@@ -80,13 +80,13 @@ And there it is again, and her sister has said it four times now and it is the s
 
 "You'd not have to know her."
 
-And that is where it stops, because the woman at number nine works out, standing there, that she does not know what number twelve is called and does not know whether number twelve is on this side of the ring road or the far side of it, and does not know which of the three of them it is, and has never once in her life gone up that road, and is not going to start at eleven o'clock at night in October with her shoes already off.
+And that is where it stops, because the woman at number nine works out, standing there, that she does not know what number twelve is called and does not know whether number twelve is on this side of the ring road or the far side of it, and does not know which of the three of them it is, and has never once in her life gone up that road, and is not going to start at night in November with her shoes already off.
 
 ---
 
 She takes it in.
 
-She goes out and gets it with two hands and puts it on the kitchen table for about a minute while they both look at it, and then her sister says it wants to go in the bin, and she says she knows, and her sister says there'll be a collection on Friday and last time it was the Tuesday, and neither of them knows, and that is the entire of the conversation.
+She goes out and gets it with two hands and puts it on the kitchen table while they both look at it, and then her sister says it wants to go in the bin, and she says she knows, and her sister says there'll be a collection on Friday and last time it was the Tuesday, and neither of them knows, and that is the entire of the conversation.
 
 Then she carries it out of the kitchen and through the passage and into the front room.
 
@@ -98,7 +98,7 @@ The front room is the one that has not been done since the spring.
 
 The stool is against the wall opposite the window, three rails oak and one ash, with a chair on one side of it and a settee on the other, and it is not a place to sit. It is a place to look at a thing, and it has been that since August, and nobody in this house has ever sat on it and nobody is going to start tonight.
 
-The fire has not been lit in here since Easter. There is a fire in the front room and it has not been lit since Easter and she does not light it, and the room is cold the way an unheated room is cold, which is a different cold from the kitchen, and it is the kind of cold you can stand in.
+The fire has not been lit in here since Easter and she does not light it, and the room is cold the way an unheated room is cold, which is a different cold from the kitchen, and it is the kind of cold you can stand in.
 
 She puts the parcel on the floor.
 
@@ -168,7 +168,7 @@ She writes nothing down tonight.
 
 ---
 
-At late night her sister goes back to number ten with the form in a bag, and the back door shuts true behind her and it makes a sound the woman at number nine has not got used to.
+At late night her sister goes back to number ten with the form in a bag, and the back door shuts true behind her and it makes a sound that goes all the way down the passage at number nine.
 
 Then she goes through to the front room with the radio on low.
 
@@ -180,8 +180,8 @@ None of that is in this room. None of it is in this house. None of it has ever c
 
 There is a tape roll in a drawer in the kitchen of number ten with about four inches of brown tape left on it, out of a roll that came out of a shelf in a house at the end of a road in May, and neither woman has ever said where the roll came from to the other.
 
-And there is a parcel under a stool in a front room in this borough with a number on the label and no street on it, and she cannot go up that road, and she has not gone up that road in about forty years, and she is still the woman who has never gone up that road and she will still be that woman in the morning.
+And there is a parcel under a stool in a front room in this borough with a number on the label and no street on it, and she cannot go up that road, and she has not gone up that road in all the years she has been in this borough, and she is still the woman who has never gone up that road and she will still be that woman in the morning.
 
 ---
 
-**A WOMAN IN HER LATE FIFTIES HAS PUT A THING THAT IS NOT HERS UNDER A STOOL IN A ROOM SHE DOES NOT HEAT, HAS SAID *I'LL SEE* TWICE TO A WOMAN WHO HAD SAID IT ONCE, HAS WRITTEN NOTHING DOWN, HAS CROSSED THE FIRST LINE OF A PAD OFF TWICE AS SHE HAS DONE SINCE MARCH, AND HAS NOT GONE UP THAT ROAD.**
+**A WOMAN IN HER LATE FIFTIES HAS PUT A THING THAT IS NOT HERS UNDER A STOOL IN A ROOM SHE DOES NOT HEAT, HAS SAID *I'LL SEE* ONCE TO A SISTER WHO HAS NOW SAID IT TWICE, HAS WRITTEN NOTHING DOWN, HAS CROSSED THE FIRST LINE OF A PAD OFF TWICE AS SHE HAS DONE SINCE MARCH, AND HAS NOT GONE UP THAT ROAD.**

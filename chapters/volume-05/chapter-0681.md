@@ -2,7 +2,7 @@
 
 Friday the twelfth of November 2021, in this borough. She is in her van and in two houses from first light until dark, and the whole of the day is a job where a woman stands in her own front room and cannot put one thing in the skip.
 
-**A WOMAN IN HER LATE FORTIES IS ASKED BY A WOMAN TO PUT ONE THING IN A SKIP THAT CANNOT GO IN A SKIP, DOES NOT ASK HER WHY, TAKES IT ANYWAY, DRIVES PAST THE END OF A ROAD SHE HAS NO WORK ON AND DOES NOT TURN IN, AND THE PARCEL IS STILL BEHIND THE BENCH.**
+**A WOMAN IN HER LATE FORTIES IS IN A HOUSE WHERE A WOMAN WANTS A BLANKET OFF THE ARM OF HER OWN CHAIR AND ASKS FOR IT TO BE TAKEN OFF AND SET DOWN IN THE ROOM INSTEAD OF IN THE SKIP, IS NOT ASKED WHY, TAKES IT ANYWAY, DRIVES PAST THE END OF A ROAD SHE HAS NO WORK ON AND DOES NOT TURN IN, AND THE PARCEL IS STILL BEHIND THE BENCH.**
 
 She is a woman in her late forties. She is on her own all day apart from two women and one man. Nobody asks her about the parcel and she does not mention it.
 
@@ -38,7 +38,7 @@ He is not in the room when she says it. He has gone to fetch another bag.
 
 He comes back with the bag and does not say anything about that, and she does the stairs off a folding stool she carries in the van, and she does not offer it and he does not ask for it, and that is the whole of it.
 
-At the top there is a mattress in a bag and two lampshades and a box of shoes with no lid, and she puts the shoes box on the skip load, and the man says that is fine, and she says it will be fine for about four minutes and then it will be in the rain with everything else in there, and he says don't do that then, and she puts a bag over it and tapes the bag down with a strip off a roll she keeps in the door of the van.
+At the top there is a mattress in a bag and two lampshades and a box of shoes with no lid, and she puts the shoes box on the skip load, and the man says that is fine, and she says it will be in the rain with everything else in there by the time they get to it, and he says don't do that then, and she puts a bag over it and tapes the bag down with a strip off a roll she keeps in the door of the van.
 
 That roll is the only tape on that van and it is hers and it is for skips.
 
@@ -82,35 +82,29 @@ And she will not have it set down anywhere else, and she does not say why, and s
 
 "Yes."
 
-That is the whole of the conversation about it and it lasts about four sentences, and afterwards the woman offers her tea and the tea is made and there is a plate of biscuits nobody touches.
+That is the whole of the conversation about it, and afterwards the woman offers her tea and the tea is made and there is a plate of biscuits nobody touches.
 
 She does not ask her why. That is the professional arrangement and it is also, this morning, the only thing on offer, because the woman has given a rule and not a reason, and a rule is a thing you can work to and a reason is a thing you would have to carry.
 
----
+Then, at the door, with her hand on it, the woman starts it and stops it.
 
-The woman in her late forties does not ask her why.
+"There's a reason. There's —"
 
-That is the professional arrangement and it is also, this morning, the only thing available, because the woman has not offered a reason and has offered a rule, and a rule is a thing you can work to.
+"No," the woman in her late forties says. "Off and set down is fine."
 
-"Right," she says. "We'll have it off and we'll set it in here and we'll see where it goes from there."
+And she carries the blanket out of the room and puts it in the back of the van in a bag of her own rags, because it is not rubbish and it is not furniture, and there is no third place for it.
 
-"You'll see where it goes."
+The pad is on the passenger seat with the band round it and the pad is shut, and the blanket is not on it, because the pad is for work that is paid for and this is not that. She writes nothing else down and she puts the pen back in the door pocket with the roll of tape.
 
-"Yes."
-
-That's the whole of the conversation about it and it lasts about four sentences, and afterwards the woman offers her tea and the tea is made and there is a plate of biscuits nobody touches, and the woman in her late forties carries the blanket out of the room and puts it in the back of the van in a bag of her own rags because it is not rubbish and it is not furniture, and there is no third place.
-
-She works out on the drive what it is. She has worked it out four times now since the middle of October and it has got no simpler, and she does not put it on the pad.
-
-The blanket goes in the back of the van in a bag of her own rags, because it is not rubbish and it is not furniture, and there is no third place for it.
+She works out on the drive what it is. She has worked it out four times now since the middle of October and it has got no simpler.
 
 ---
 
-Her palm opens at about half eleven.
+Her palm opens halfway through the morning.
 
-It is the one without the plaster, and it is the cut along the crease that she has had since August, and it goes first because she cannot see the heel of her hand when she is on her knees and she puts her weight wrong.
+It is the one without the plaster, and it is the cut along the crease that she has had since August, and it goes first because she cannot see the heel of her hand when she is down on her knees and she puts her weight wrong.
 
-She does not stop. She gets the job done and she wipes it at the sink at half twelve and it has stopped on its own and there is a mark on her thumb where it went through.
+She does not stop. She gets the job done and she wipes it at the sink before she goes out and it has stopped on its own and there is a mark on her thumb where it went through.
 
 She has a plaster in the van in the door pocket. She has had it there since August and she has never once put one on herself because she cannot do it to herself without making a mess of the edges.
 
@@ -122,7 +116,7 @@ In the afternoon she is on the ring road with a load of stripped frames and the 
 
 The turning for that road comes up on her right about halfway through the run, with the houses set back and the coal shed walls showing at the ends of the gardens.
 
-She has driven past it nine times since the twenty-second of October and on nine of them she has kept the speed up and gone past and come out the far end of the ring road with the mirror full of nothing.
+She has driven past it eight times since the twenty-second of October and on eight of them she has kept the speed up and gone past and come out the far end of the ring road with the mirror full of nothing.
 
 This one she does not slow down.
 
@@ -132,11 +126,11 @@ She does not see anybody and nobody sees her and she goes out the far side of th
 
 ---
 
-She parks at the yard off the ring road where she keeps the van overnight when there is work in the morning, and she unloads the frames and puts them under a cover and stands there for a minute in the cold with her hands in her pockets.
+She parks at the yard off the ring road where she keeps the van overnight when there is work in the morning, and she unloads the frames and puts them under a cover and stands there in the cold with her hands in her pockets.
 
 The blanket bag goes in the back with the rags and the box.
 
-She looks at the box for about two seconds. The label is under the rags and she has not moved the rags since the twenty-second of October and the label is going soft along the bottom edge where the damp got into it, and the number on it is under that.
+She looks at the box. The label is under the rags and she has not moved the rags since the twenty-second of October and the label is going soft along the bottom edge where the damp got into it, and the number on it is under that.
 
 She could put a hand under the rag and read it. She has been able to do that any morning since the twenty-second of October.
 
@@ -148,15 +142,15 @@ She goes home and washes at the sink with a bar of soap and the cut bleeds a lit
 
 The pad has the band round it and the band is tight and the pad is shut, and on the page inside there are two houses and a figure against each in her own writing, and nothing else.
 
-She has a text to send before midnight about the chairs and the blanket and the rule about the arm, and she sends it from the kitchen table with the pad propped on a tin, because that is how she has always done it and doing it the same way is most of what she has at eleven o'clock at night in November.
+She has a text to send in the small hours about the chairs and the blanket and the rule about the arm, and she sends it from the kitchen table with the pad propped on a tin, because that is how she has always done it and doing it the same way is most of what she has at night in November.
 
-She has still got the number of the box nowhere. She read it twice off a grey smear in a piece of wind on the ring road in October and she did not write it, and there is no version of tonight where she writes it, because writing it would mean the next thing is finding out what it is, and finding out what it is would mean she either opens it or asks, and she does not do either, and she has known that since the twenty-second of October and has not once found a reason to change it.
+She has still got the number of the box nowhere. She read it twice off a grey smear in a piece of wind on the ring road in October and she did not write it, and there is no version of tonight where she writes it, because writing it would mean the next thing is finding out what it is, and finding out what it is would mean she either opens it or asks, and she does not do either, and she has known that since the twenty-second of October and has not once found a reason to do anything else with it.
 
 She thinks about the blanket in the back of the van. It is somebody's blanket from the arm of a chair in a front room in a house off the ring road, and there are now two of her own rags round it, and it is quite certain that she has made that house a small mess of its own making and that the woman in that front room has not asked her to.
 
 And there is a box of tinned fish behind the bench of the same van that has been there since the twenty-second of October.
 
-She eats with her hands and watches a woman on the television put a skip on a front drive and says, out loud, to nobody in her own kitchen, "Two hundred and forty," which is a figure she is still pleased with and which is the reason she does not have an invoice for a gate in August and has never once thought of asking for one.
+She eats with her hands and watches a woman on the television put a skip on a front drive and says, out loud, to nobody in her own kitchen, "Two hundred and forty," which is a figure she is still pleased with and which is the reason there is no invoice for a gate in August and she has never asked anybody for one and is not going to start.
 
 The drawer under the bench is shut. The bolster is inside it on top of the leads and the tin of screws and it is the first thing in that van that has ever been shut.
 
@@ -164,4 +158,4 @@ Four hours of gate work in August is still unpaid with no invoice, and she has n
 
 ---
 
-**A WOMAN IN HER LATE FORTIES HAS PUT SOMEBODY ELSE'S BLANKET IN A BAG OF HER OWN RAGS IN THE BACK OF HER VAN BESIDE A BOX THAT IS NOT HERS, HAS DRIVEN PAST THE END OF A ROAD FOR THE NINTH TIME WITHOUT SLOWING DOWN WHEN SHE HAD DECIDED IN ADVANCE SHE WAS NOT GOING TO, HAS NOT READ THE NUMBER OFF THE LABEL, AND THE DRAWER UNDER THE BENCH IS STILL SHUT WITH HER OWN BOLSTER IN IT.**
+**A WOMAN IN HER LATE FORTIES HAS PUT SOMEBODY ELSE'S BLANKET IN A BAG OF HER OWN RAGS IN THE BACK OF HER VAN BESIDE A BOX THAT IS NOT HERS, HAS DRIVEN PAST THE END OF A ROAD FOR THE NINTH TIME WITHOUT SLOWING DOWN WHEN SHE HAD DECIDED IN ADVANCE SHE WAS NOT GOING TO, HAS READ THE NUMBER OFF THE LABEL TWICE AND WRITTEN IT NOWHERE AND HAS NOT OPENED IT, AND THE DRAWER UNDER THE BENCH IS STILL SHUT WITH HER OWN BOLSTER IN IT.**

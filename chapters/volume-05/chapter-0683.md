@@ -1,14 +1,14 @@
 # Chapter 0683 — A Lad Puts It Down And Does Not Knock
 
-Monday the twenty-second of November 2021, in this borough. She is in her own house from first light until dark with one lad on her path for about forty seconds and nobody else, and the whole of the day is a box coming back to a table it left in October.
+Monday the twenty-second of November 2021, in this borough. She is in her own house from first light until dark with one lad on her path and nobody else, and the whole of the day is a box coming back to a table it left in October.
 
-**A WOMAN OF SEVENTY-EIGHT FINDS A LAD SHE HAS NEVER SPOKEN TO PUTTING THE PARCEL ON THE GRASS INSIDE HER OWN OPEN GATE WITHOUT KNOCKING, BRINGS IT IN AND PUTS IT ON THE LEFT OF HER OWN KITCHEN TABLE WHERE IT HAS BEEN SINCE THE TWELFTH OF OCTOBER, AND THE ENVELOPE ON THE RIGHT OF THAT TABLE DOES NOT MOVE.**
+**A WOMAN OF SEVENTY-EIGHT FINDS A LAD SHE HAS NEVER SPOKEN TO PUTTING THE PARCEL ON THE GRASS INSIDE HER OWN OPEN GATE WITHOUT KNOCKING, BRINGS IT IN AND PUTS IT ON THE LEFT OF HER OWN KITCHEN TABLE WHERE IT WAS ON THE TWELFTH OF OCTOBER AND HAS NOT BEEN SINCE, AND THE ENVELOPE ON THE RIGHT OF THAT TABLE DOES NOT MOVE.**
 
-She is a woman in her late seventies. She is on her own all day. One lad speaks to her for about forty seconds at her own gate and asks her one question and gives her no explanation of where it has been.
+She is a woman in her late seventies. She is on her own all day. One lad speaks to her at her own gate and does not ask her one question and gives her no explanation of where it has been.
 
 ---
 
-She sees it from the kitchen window at about half nine and she does not go straight out.
+She sees it from the kitchen window in the morning and she does not go straight out.
 
 She stands at the sink with the cloth in her hand and looks at the gate, which is standing back against the wall of the coal shed out of the way with both drop bolts in the pocket of her apron, and there is a lad on the grass inside the gate with a box by his foot.
 
@@ -30,7 +30,7 @@ She goes out.
 
 He shifts his weight and looks at the wall for a bit.
 
-"There was one of them on the top of the bin the other week and it went down with the recycling because it went in the bin," he says. "So we found out and we're not putting them out no more. This is the last one."
+"There was one of them on the top of the bin a while back and it went down with the recycling because it went in the bin," he says. "So we found out and we're not putting them out no more. This is the last one."
 
 "Right."
 
@@ -44,7 +44,7 @@ She stands there.
 
 "Right," she says.
 
-And he goes out through the gate and off down the road, and he does not look back at her, and she stands in her own gateway with her hands empty for about a minute before she goes and picks the box up.
+And he goes out through the gate and off down the road, and he does not look back at her, and she stands in her own gateway with her hands empty before she goes and picks the box up.
 
 ---
 
@@ -56,13 +56,13 @@ She carries it in and stands in her own passage with it, and the brush is in the
 
 ---
 
-She puts it on the left-hand side of the table, where the cloth usually is, and where it has been since the twelfth of October.
+She puts it on the left-hand side of the table, where the cloth usually is, and where it was on the twelfth of October and has not been since.
 
 The gas envelope is on the right of that table, face up square with the edge of the table, pencil side up, six things on the back in pencil and nothing crossed off, and there is no pencil in that house and there has not been since before Christmas, and the second list on the front of it is in another woman's hand and its top corner is gone, taken by tape, and neither woman can write on that paper again.
 
 She puts the box down to the left of the envelope and the envelope does not move, and the box is not square with the edge of the table, and she does not square it.
 
-The table stands dead flat on a shim planed and sawn flush under the window-side foot with the leg back in dry and a card on the joint and no glue, and it does not rock with two things on it, and a man put that in in the summer in about a quarter of an hour with a woman watching and neither of them saying anything.
+The table stands dead flat on a shim planed and sawn flush under the window-side foot with the leg back in dry and a card on the joint and no glue, and it does not rock with two things on it, and a man put that in in the summer while she watched and neither of them said a word.
 
 ---
 
@@ -76,7 +76,7 @@ She reads it twice.
 
 It is a street she has never been to and she knows by the shape of it, and there is a number at the end of the street that is not twelve.
 
-Under the printed label there is a second label, stuck on the old one and gone over the top of it, and that one is handwriting — a biro, hurried, on the gummed strip that comes off a roll — and on it there is a street and a number and, at the end, something that is either a name or a house.
+Over the top of the printed label there is a second label, gummed on to the old one and gone brown round the edges, and that one is handwriting — a biro, hurried, on the gummed strip that comes off a roll — and on it there is a street and a number and, at the end, something that is either a name or a house.
 
 Somebody has put a forwarding strip on a parcel that was already in the wrong place.
 
@@ -112,7 +112,7 @@ She sits with the cloth over the old damp mark on the table for a while, and the
 
 She does not open the box.
 
-That is the decision and she makes it in about a second and a half, standing at the table with her hand on the lid, and she makes it for the same reason she did not write a telephone number on the side of it in October, which is that opening it turns her into the woman who opened it, and she does not know what she would have to be afterwards.
+That is the decision and she makes it standing at the table with her hand on the lid, and she makes it for the same reason she did not write a telephone number on the side of it in October, which is that opening it turns her into the woman who opened it, and she does not know what she would have to be afterwards.
 
 She puts a clean cloth over it and squares that.
 
@@ -124,7 +124,7 @@ The shed door is open the way it was. The padlock is hanging on the hasp where i
 
 She looks at it and then she goes and gets the shovel and puts a bucket of coal in the bucket by the range and shuts the shed door behind her, which is the first time she has shut that door since before Christmas.
 
-She does not lock it. She could put the padlock on the hasp in about a second and the key is on a hook behind her own back door.
+She does not lock it. She could put the padlock on the hasp in a second and the key is on a hook behind her own back door.
 
 She shuts the door and comes in and stands in her own passage with her hand flat on it, and the brush is in the middle of the runner and the passage light is on, and both of those are exactly as they were before she got up.
 
@@ -138,9 +138,9 @@ She has not worked out how she feels about it. What she has worked out is that a
 
 She empties the bowl under the bath tap at midday and at night, with the folded cloth in it, and puts it back, and the tap goes on dripping.
 
-She looks at the brown mark on the bathroom ceiling and the mark has a hard edge and the middle of it is darker than the outside of it, and she puts her thumb to the edge about a quarter of an inch in and it comes away with grit on it, and she wipes the grit on the cloth and the grit goes in the weave.
+She looks at the brown mark on the bathroom ceiling and the mark has a hard edge and the middle of it is darker than the outside of it, and she puts her thumb to the edge, about a quarter of an inch in, and it comes away with grit on it, and she wipes the grit on the cloth and the grit goes in the weave.
 
-The passage is over the front room. She worked that out on a Friday night in the summer with a torch and has not been up the stairs since.
+The passage is over the front room. She worked that out on a Friday night in the summer with a torch, and she goes up there often enough with a cloth, and she has not been in the roof space since.
 
 There is a pale patch on the ceiling of the front room just inside the door and she has not sat in that room since the sixteenth of July, and the water is coming down out of a roof space she has not been in since the spring at the far side of a joist where a cistern is weeping, and she cannot turn the supply off because she does not know where the pipe comes up and never has.
 

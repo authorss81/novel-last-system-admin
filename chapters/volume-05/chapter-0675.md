@@ -1,10 +1,10 @@
 # Chapter 0675 — The Lid Has Not Shut
 
-Monday the eighteenth of October 2021, in this borough. She is in her own house from first light until dark with nobody in it, and the whole of the day is a parcel on the left of her own kitchen table that is not fish any more and a bin lid that has not shut since the summer.
+Monday the eighteenth of October 2021, in this borough. She is in her own house from first light until dark with nobody in it, and the whole of the day is a parcel that is not fish any more, and a bin lid that has not shut since the summer.
 
-**A WOMAN OF SEVENTY-EIGHT PUTS A TINNED FISH SHE DID NOT ORDER AND CANNOT GIVE BACK ON TOP OF THE COAL IN A SHED SHE HAS NOT OPENED SINCE BEFORE CHRISTMAS, DOES NOT PUT THE PADLOCK ON THE HASP, TELLS A MAN AT THE KERB SHE HAS NO PARCEL, AND GOES ROUND THE SIDE IN HER COAT TO DO IT.**
+**A WOMAN OF SEVENTY-EIGHT PUTS A TINNED FISH SHE DID NOT ORDER AND CANNOT GIVE BACK ON TOP OF THE COAL IN A SHED SHE HAS NOT OPENED SINCE BEFORE CHRISTMAS, DOES NOT PUT THE PADLOCK ON THE HASP, SAYS NOTHING AT ALL TO A MAN AT THE KERB ABOUT THE PARCEL, AND GOES ROUND THE SIDE IN HER COAT TO DO IT.**
 
-She is a woman in her late seventies. She is on her own all day. One man speaks to her at the kerb for about a minute and tells her three things she did not ask him about.
+She is a woman in her late seventies. She is on her own all day. One man speaks to her at the kerb and tells her three things she did not ask him about.
 
 ---
 
@@ -42,7 +42,7 @@ She puts the cloth over the box and then takes it off again, because a cloth ove
 
 ---
 
-She gets the bin out at about ten, which means carrying it down the passage and stepping over the brush with one hand on the wall, and out of the front door, which is shut when she shuts it and does not latch and never has, and down the path and out through a gate that is standing back against the wall of the coal shed with both drop bolts in the pocket of her apron.
+She gets the bin out first thing, which means carrying it down the passage and stepping over the brush with one hand on the wall, and out of the front door, which is shut when she shuts it and does not latch and never has, and down the path and out through a gate that is standing back against the wall of the coal shed with both drop bolts in the pocket of her apron.
 
 The lid has not shut since the summer. She has known that since June. She lifts it with her heel and it comes up about two inches and stays there, and the bin has to go out with the lid up like that, on the front of the collection, kept in place by nothing.
 
@@ -50,7 +50,7 @@ She puts it out and stands on the grass and looks down the road. There is nothin
 
 ---
 
-The man comes at about eleven and does the bin and comes back up the path, and he is about forty-five and she has seen him twice before this year.
+The man comes later and does the bin and comes back up the path, and he is about forty-five and she has seen him twice before this year.
 
 He puts the bin back and looks at the lid.
 
@@ -118,6 +118,10 @@ She could put the padlock on the hasp. It is the work of a second and she has th
 
 She does not do it. She lets the door come back against the frame and she does not push it, and the padlock stays where it has hung since before Christmas, and she stands there a while longer than the reason for standing there.
 
+From where she is standing she can see the side of that shed from the kitchen window and she cannot see into it, and she has worked out before now that she cannot see into it, and the box is eight feet from her own back door and it is a thing of somebody else's in a building with a lock on it that she is the only person alive who could shut.
+
+That is the arrangement. There is nothing else in that garden that anybody would come into.
+
 ---
 
 She comes in and puts the kettle on and takes the tape sheet off the back room window and shakes it out, because there has been rain on it in the night and the top corner somebody else's tape has come away again.
@@ -126,7 +130,7 @@ She wipes the tape sheet down, dries it on the cloth on the drainer, puts it bac
 
 The towel on the drainer has gone stiff in the corner. She wrings it out and hangs it over the rail of the oven and it stands out from the oven about three inches the whole length of the front of it and does not go soft.
 
-She is in her own kitchen at midday with a cold house and a coat on and nothing to put in front of anybody, and she eats toast standing up because the green chair with the cushion on it has got a cushion on it and she is not going to sit on a chair in a cold room on purpose.
+She is in her own kitchen at midday with a cold house and a coat on and nothing to put in front of anybody, and she eats toast standing up, because the cushion is on the green chair and the chair is at the table and the room is cold, and she is not going to sit down on purpose in a cold room.
 
 She puts the second toast on the plate and looks at the parcel mark on the table, which is still there and is now a ring rather than a mark, because the water has been out into the wood and come back into the wood again.
 

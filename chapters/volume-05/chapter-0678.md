@@ -2,13 +2,13 @@
 
 Saturday the thirtieth of October 2021, in this borough. She is in her own house from first light until dark with nobody in it, and the whole of the day is eight feet of coal shed she has to go into because she wants coal and there is a rectangle in the coal where something sat.
 
-**A WOMAN OF SEVENTY-EIGHT GOES INTO HER OWN COAL SHED FOR A SACK OF COAL AND FINDS A CLEAN RECTANGLE IN THE COAL WHERE THE PARCEL HAD BEEN, AND FINDS THE PADLOCK STILL HANGING ON THE HASP, AND DOES NOT GO DOWN THE ROAD, AND DOES NOT ASK.**
+**A WOMAN OF SEVENTY-EIGHT GOES INTO HER OWN COAL SHED FOR HALF A SACK OF COAL AND FINDS A CLEAN RECTANGLE IN THE COAL WHERE THE PARCEL HAD BEEN, AND FINDS THE PADLOCK STILL HANGING ON THE HASP, AND DOES NOT GO DOWN THE ROAD, AND DOES NOT ASK.**
 
-She is a woman in her late seventies. She is on her own all day except for three children at the door for about four minutes and a message on the machine in the passage.
+She is a woman in her late seventies. She is on her own all day except for three children at the door and a message on the machine in the passage.
 
 ---
 
-She goes round the side at about half eight with her coat on over the apron, and both drop bolts are in the apron pocket and she leaves them there.
+She goes round the side early with her coat on over the apron, and both drop bolts are in the apron pocket and she leaves them there.
 
 The grass on the walked-flat line is wet right through and the air has got a bite in it that was not there on Monday, and the gate is standing back against the wall of the coal shed out of the way, and the path is clear, and the road has nobody on it.
 
@@ -48,15 +48,15 @@ That is the whole of what has happened, and all of it happened between the Monda
 
 She stands in the shed and does the arithmetic of the week, which she does not want to do and does anyway.
 
-Monday she put it there at about three in the afternoon. The gate has been standing open since the first of September and the shed door has been unlatched since the summer. There was rain on Monday night and again on Tuesday and a shower on Thursday. The road has nobody on it at this hour, and at eleven at night the road has got a dog on it and nothing else.
+Monday she put it there before the middle of the day. The gate has been standing open since the first of September and the shed door has been unlatched since the summer. There was rain on Monday night and again on Tuesday and a shower on Thursday. The road has nobody on it at this hour, and after dark the road has got a dog on it and nothing else.
 
 She does not get as far as an explanation. She gets as far as the fact, which is that a thing that was in her own shed is not in her own shed, and there are four possible reasons for that and she is the only person alive who knows all four of them and she cannot tell anybody any of them because the asking is the part she has not got.
 
 ---
 
-She gets half a sack of coal out of the shed in two goes and drags it round to the back door on a bit of newspaper she pulls off the parcel that is not there, which means the coal is going to be carried across her own clean floor and she has decided that as a thing she will deal with afterwards.
+She gets half a sack of coal out of the shed in two goes and drags it round to the back door on a bit of newspaper she keeps rolled up behind the back door for the floor, which means the coal is going to be carried across her own clean floor and she has decided that as a thing she will deal with afterwards.
 
-She gets it in and puts the bucket on it and fills the bucket from the bucket and the hotplate takes about four minutes.
+She gets it in and puts the bucket on it and fills the bucket from the bucket and the hotplate comes up warm.
 
 There is a new element in the hotplate. The old one dropped out in the middle of cooking in the summer, in the pan, and did not get hotter and went off, and a man she has never seen the face of put a new one in for a price she was given and did not argue about.
 
@@ -64,7 +64,7 @@ The plate gets warm. That is all it does. It does not get hot enough to boil a p
 
 ---
 
-There is a knock at the front door at about one and it is two girls and a boy of about ten with a cardboard box on a strap between them, and it is the fourth Saturday in a row it has been somebody.
+There is a knock at the front door in the early afternoon and it is two girls and a boy of about ten with a cardboard box on a strap between them, and it is the fourth Saturday in a row it has been somebody.
 
 "Can I do the lamps?"
 
@@ -82,13 +82,13 @@ She stands in her own passage with the brush behind her and does not open the do
 
 They stand on the step. This is the part she cannot do, because saying no to a child about a lamp is a conversation, and saying yes to a child about a lamp is also a conversation, and the whole of what she is doing on this step is trying to find the third thing.
 
-Then she goes and gets her purse off the shelf in the passage, which takes about a minute and a half, and puts two pounds in and does not have the twenty, and the girl says that's all right, and she says it's not all right and goes and gets the twenty, and the boy takes it off her and does not count it in front of her.
+Then she goes and gets her purse off the shelf in the passage, which takes longer than she means it to, and puts two pounds in and does not have the twenty, and the girl says that's all right, and she says it's not all right and goes and gets the twenty, and the boy takes it off her and does not count it in front of her.
 
 They go up the path. The boy says *thank you* at the gate and the girl writes something on the clipboard.
 
 Then she shuts the front door, which is shut when she shuts it and does not latch, and stands in her own passage again.
 
-That is the only time anybody has been at that door this month and she has given a child twenty-two hundred people nothing, because the boy did not count it in front of her.
+That is the only time anybody has been at that door this month, and she has given a child money and not one coin of it was counted in front of her, because the boy did not count it in front of her.
 
 ---
 
@@ -114,7 +114,7 @@ She has a bowl, a cloth, a hotplate, a coal shed with a padlock she never puts o
 
 ---
 
-She comes down at about four and looks out of the kitchen window at the side of the coal shed through the kitchen glass, and from where she stands she cannot see the inside of it at all, and she stands and looks at the side of a building she owns.
+She comes down in the afternoon and looks out of the kitchen window at the side of the coal shed through the kitchen glass, and from where she stands she cannot see the inside of it at all, and she stands and looks at the side of a building she owns.
 
 The gate is in front of it, back against the wall, open.
 
@@ -140,7 +140,7 @@ She has now had two messages from this woman. The first was in August and she an
 
 The second is this one, and it is different from the first, and the difference is that this one has a date on it.
 
-There is a printed card in the pocket of the apron hanging on the back of the front door, and it has a free number on it and a bit of a survey company's address, and a man in a white van gave it to her on the fifteenth of October and said it was a local call and no charge and about twenty minutes, and she has not rung it, and she did not decide about it, she decided it in about a second and a half on a Friday afternoon with a man standing on her path.
+There is a printed card in the pocket of the apron hanging on the back of the front door, and it has a free number on it and a bit of a survey company's address, and a man in a white van gave it to her on the fifteenth of October and said it was a local call and no charge and about twenty minutes, and she has not rung it, and she did not decide about it, she decided it on the spot on a Friday afternoon with a man standing on her path.
 
 The card is in the apron. The number is in the machine. Both of them are the same number.
 
@@ -156,7 +156,9 @@ What she is thinking is not *do I want her to come*. What she is thinking is tha
 
 ---
 
-She empties the bowl under the bath tap at six and puts the cloth back in it and the tap goes on dripping into it, and she does not look at the ceiling this time, which is the first time since June that she has emptied that bowl without looking at the mark.
+She empties the bowl under the bath tap in the evening and puts the cloth back in it and the tap goes on dripping into it, and she does not look at the ceiling this time, which is the first time since June that she has emptied that bowl without looking at the mark.
+
+There is no pencil in that house and there has not been since before Christmas.
 
 She eats her tea at the table under the window on the green chair with the cushion on it, because the cold has gone off slightly by then and the cushion is a thing that is there.
 
@@ -167,5 +169,3 @@ Four of six is done and nothing has been crossed off.
 ---
 
 **A WOMAN OF SEVENTY-EIGHT HAS LOST A THING SHE CANNOT ASK ABOUT OFF THE TOP OF HER OWN COAL, HAS WORKED OUT FOUR REASONS AND NOT ONE OF THEM OUT LOUD, HAS LISTENED TWICE TO A WOMAN SAYING A DATE OUT LOUD IN A MACHINE IN HER OWN PASSAGE, HAS STILL NOT RUNG THE NUMBER IN THE APRON, AND THE PADLOCK IS STILL HANGING OPEN ON THE HASP.**
-
-There is no pencil in that house and there has not been since before Christmas.

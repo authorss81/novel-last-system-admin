@@ -30,7 +30,7 @@ She has already seen the glass.
 
 ---
 
-She works the pile from the top down, which is the only way to work it, and she is two hours in before she gets to the far end of the tip where the water gathers, and that is where the parcel is.
+She works the pile from the top down, which is the only way to work it, and the far end of the tip where the water gathers is the last of it, and that is where the parcel is.
 
 It is on top of a black bag that is on top of a mattress that is on top of a broken wardrobe, and it is about the size of two loaves, and it is taped round with brown tape in a cross and the tape has gone hard and gone dark at the edges where the rain has been on it.
 
@@ -46,9 +46,9 @@ Her rule, and she has had it since the first year, is that she does not open oth
 
 So she does not open it.
 
-What she does do is put her hand flat on the top of it and push, to see if it is empty, and it is not empty, and there is a weight in it that slides about about an inch and then stops, which is the weight of things in a tin.
+What she does do is put her hand flat on the top of it and push, to see if it is empty, and it is not empty, and there is a weight in it that slides about an inch and then stops, which is the weight of things in a tin.
 
-That is a thing she knows. That is a thing she has known since she was twenty-two. Tinned things in a box on a wet tip on a Monday morning is a box somebody did not want at the end of a week, or a box that came by mistake, or a box a firm posted to an address that was never occupied because the person had moved and never told anybody.
+That is a thing she knows. That is a thing she has known since she was twenty-two. Tinned things in a box on a wet tip on a wet morning is a box somebody did not want at the end of a week, or a box that came by mistake, or a box a firm posted to an address that was never occupied because the person had moved and never told anybody.
 
 And she has got four hours of gate work in a summer behind her with no invoice anywhere in the world for it, so she knows exactly what a box that came by mistake looks like when it is still shut.
 
@@ -60,7 +60,7 @@ It is heavier than she expected, and the bottom corner is wet through, and there
 
 She puts it on the tailgate and then thinks about it.
 
-Not for long. She is standing on a wet piece of waste ground on the ring road with a skip man watching her from the cab of his own vehicle, and the thinking takes about a second and a half, and what it consists of is: it is going in the skip and the skip man will put it in the skip and it will go off with three tonnes of somebody else's life, and she has a tape measure and a rate card and no way of charging anybody for a box.
+Not for long. She is standing on a wet piece of waste ground on the ring road with a skip man watching her from the cab of his own vehicle, and what she is doing instead of deciding is this: it is going in the skip and the skip man will put it in the skip and it will go off with three tonnes of somebody else's life, and she has a tape measure and a rate card and no way of charging anybody for a box.
 
 She carries it round and puts it on the passenger seat of the van.
 
@@ -68,7 +68,7 @@ That is not a decision about the woman who sent it. It is a decision about the s
 
 ---
 
-She works until about eleven and then goes to the other side of the ring road for her lunch, and the parcel goes with her, and she takes it out of the van with her because she does not leave that on a seat in October.
+She works through the morning and then goes to the other side of the ring road for her lunch, and the parcel goes with her, and she takes it out of the van with her because she does not leave that on a seat in October.
 
 It goes in a bag with her flask in it and stands against the wall of a shopfront while she eats a cheese sandwich she can grip in one hand, because the other palm has a plaster on it and the one without the plaster is open to the air and pink along the crease where the skin pulls.
 
@@ -96,7 +96,7 @@ Then she goes and does a house on the far side where a woman wants a garage empt
 
 She does not look at the garage.
 
-She does the garage in about forty minutes because there is nothing in it, and she does it with a broom and not with her hands where she can manage it, and she puts what she cannot lift at the bottom and the rest on top, and she leaves the two lengths of shelving on the wall because the woman says she might want them.
+She does the garage quickly because there is nothing in it, and she does it with a broom and not with her hands where she can manage it, and she puts what she cannot lift at the bottom and the rest on top, and she leaves the two lengths of shelving on the wall because the woman says she might want them.
 
 At the gate she says the figure and the woman says that is more than she expected, and the woman does not say it is more than another fella said, which is what the woman in October said, and the difference between those two women is the difference between a bad afternoon and a good one and it has nothing to do with the figure.
 
@@ -108,7 +108,7 @@ At the gate she says the figure and the woman says that is more than she expecte
 
 "You'll get a text."
 
-The woman goes back in and shuts her own door, and the door shuts true, and the woman who made it that way is at number twelve and has a door that has not shut since before Christmas.
+The woman goes back in and shuts her own door, and the door shuts true, and she made it that way herself over a winter with a length of bath strip and a great deal of swearing, and she has never once mentioned it to anybody, and there is one other door in this borough she has thought about since the summer, and that one shuts when it is shut and has never latched.
 
 ---
 
@@ -116,7 +116,7 @@ In the afternoon the parcel goes behind the bench in the van.
 
 The drawer under the bench on the passenger side is shut, and on top of two extension leads and a tin of screws inside it is a bolster off her own board, and the parcel does not go near the drawer. It goes in the space behind the bench, on the floor of it, against the bulkhead, where the light does not get.
 
-It fits. That is the thing about it. It goes in behind the bench with the tailgate up and the door shut and it is not visible from the side of the van, and it is not visible from the front either, and there is a bag of rags on top of it before she has shut the door.
+It fits. That is the thing about it. It goes in behind the bench with the tailgate up and it is not visible from the side of the van, and it is not visible from the front either, and there is a bag of rags on top of it before she has shut the door.
 
 She shuts the door.
 
@@ -138,7 +138,7 @@ The shop with the galvanised bucket by the door goes by on her right, and she do
 
 She parks and carries her bag in and washes at the sink.
 
-The plaster on the palm with the cuts is soft at the edges from washing and she leaves it, and the palm without a plaster is open to the air and stings when the water goes over it.
+The plaster on the palm with the cuts is soft at the edges from washing and she leaves it, and the other palm has been in the air all day and stings when the water goes over it.
 
 She puts the flask on the table with the pad on it, and the pad has the band round it and the band is tight and the pad is shut, and on the page inside there are two houses and a garage and a figure against each in her own writing, and no number from a parcel.
 

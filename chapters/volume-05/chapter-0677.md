@@ -4,11 +4,11 @@ Tuesday the twenty-sixth of October 2021, in this borough. He is in a house on t
 
 **A MAN IN HIS EARLY FORTIES IS ASKED BY A WOMAN ON A LANDING WHY THERE IS A BROWN MARK ON HER CEILING AND GIVES HER AN ANSWER THAT IS TRUE AND SMALL AND LEAVES THE ONLY THING HE ACTUALLY KNOWS UNSAID, AND DOES NOT RING A CARD HE HAS CARRIED IN HIS SHIRT POCKET SINCE THE SIXTH OF OCTOBER, AND GOES BACK TO PLANING A SILL.**
 
-He is a man in his early forties. He is on his own all day apart from one woman who is in her own house and a man at the bench opposite his unit.
+He is a man in his early forties. He is on his own all day except for one woman who is in her own house, a man at the bench opposite his unit, and a man on the shop telephone.
 
 ---
 
-The job is eight doors and a pair of frames for the kitchen and it is on a road he has driven four times, and the woman who booked it is a woman of about fifty who works shifts and is not in the house.
+The job is eight doors and a pair of frames for the kitchen and it is on a road he has driven four times, and the woman who booked it works shifts and is not in the house.
 
 "You'll be all right with the latch on that one?"
 
@@ -30,7 +30,7 @@ He does not answer that, and the woman takes it as a joke and goes to work, and 
 
 The shoebox is at the unit and the element is in it and it stays there.
 
-He gets to the unit at half six because he has to fetch the router and the hinges and the eight door leaves are already stacked on site from Friday. The man at the bench opposite is in early, the way he is every day, and the radio is on low at that bench with talk he does not follow.
+He gets to the unit before anybody else because he has to fetch the router and the hinges and the eight door leaves are already stacked on site from Friday. The man at the bench opposite is in early, the way he is every day, and the radio is on low at that bench with talk he does not follow.
 
 The shoebox is on the top of his own bench where he cannot come in without seeing it, and the lid is on it, and the element is down inside in a bed of screwed-up newspaper, and it has been on that bench since the third of August.
 
@@ -40,15 +40,15 @@ He has thought about that key about four times in two years and he has never thr
 
 ---
 
-The woman comes back at about two and finds him on the second landing.
+The woman comes back in the early afternoon and finds him on the second landing.
 
-She has been on the landing twice, at half twelve and at two, both times standing at the top of the flight with her arms folded looking at the ceiling, and both times she has said nothing about it, and both times he has watched her do it out of the corner of his eye while he was cutting a hinge recess.
+She has been on the landing twice, both times standing at the top of the flight with her arms folded looking at the ceiling, and both times she has said nothing about it, and both times he has watched her do it out of the corner of his eye while he was cutting a hinge recess.
 
 That is what she opens with.
 
 "That's come down a bit, hasn't it."
 
-He looks at the ceiling. It is a landing ceiling, painted, and there is a mark on it about two foot across with a defined edge and a paler ring round the outside of it.
+He looks at the ceiling. It is a landing ceiling, painted, and there is a brown mark on it about two foot across with a defined edge and a paler ring round the outside of it.
 
 "Aye."
 
@@ -68,7 +68,7 @@ Here is what he knows, and it is the whole of what he knows, and he has had it s
 
 He has been in three kitchens in this borough and in all three of them the water in a ceiling has come from a pipe or a tank and not from the tiles, and he has never once been in a roof space in his life, and he knows what a ballcock does because his mother's did it, and he knows that a cistern in an unheated tank in October is the coldest thing in a house and the only thing in it that is above the room where anybody sits.
 
-And he knows a thing about a woman of seventy-eight in a house on a road three miles from here, who has a bath tap that has dripped since before Christmas, and a passage with a brush on the floor of it, and a light on a bracket by a gate that stands open, and a kitchen table that he put a card in the leg of with no glue in a quarter of an hour while she watched and neither of them said a word, and he has not been back to that kitchen and cannot go because going is a visit and a visit takes the gate off somebody else.
+And he knows a thing about a woman of seventy-eight in a house on a road three miles from here, who has a bath tap that has dripped since before Christmas, and a passage with a brush on the floor of it, and a light on a bracket by a gate that stands open, and a kitchen table that he put a card in the leg of with no glue and no filler while she watched and neither of them said a word, and he has not been back to that kitchen and cannot go because going is a visit and a visit takes the gate off somebody else.
 
 He could say, right now, on this landing, to this woman, about four sentences that would save her about four hundred pounds, and every one of the four sentences would be a thing he knows from a different house.
 
@@ -110,17 +110,17 @@ He goes back down and fits the third door.
 
 ---
 
-At half four the shop telephone rings and it is a man about a pair of gates.
+Late in the afternoon the shop telephone rings and it is a man about a pair of gates.
 
 He takes it standing up with the filler going off behind him.
 
-"Smith."
+"Joiner."
 
 "I want two gates. Hinges, the whole thing."
 
 "Right."
 
-"They've got to be oak, they've been through the wringer for forty years."
+"They've got to be oak. Oak's what's asked for. They've been through the wringer longer than anybody can remember, which is what gates do."
 
 "Oak's fine if it's oak. What's the width?"
 
@@ -130,7 +130,7 @@ He takes it standing up with the filler going off behind him.
 
 "I've had a look at them."
 
-"Then bring the width and the height off one of them. Both. And take a bit of the hinge side with you, about that much." He puts his thumb and forefinger up and the man on the other end of the line takes about four seconds to work out how much. "There's a garden place off the ring road that'll do it in oak, you tell them you want it mortised for a padlock on the hinge stile and not on the latch stile, because on the latch stile it lifts out in about ten years."
+"Then bring the width and the height off one of them. Both. And take a bit of the hinge side with you, about that much." He puts his thumb and forefinger up and the man on the other end of the line takes his time working out how much. "There's a garden place off the ring road that'll do it in oak, you tell them you want it mortised for a padlock on the hinge stile and not on the latch stile, because on the latch stile it lifts out in a few years."
 
 "That's a thing, is it."
 
@@ -138,11 +138,11 @@ He takes it standing up with the filler going off behind him.
 
 "Right. Bits and pieces, then."
 
-"Bits and pieces. You'll want it about ten weeks and he'll want the money up front."
+"Bits and pieces. You'll want it by the spring and he'll want the money up front."
 
 "Right you are."
 
-He puts the receiver back and runs it back in his head, which takes about four seconds, and it was the right thing, and the man will not be quoted ten minutes for two gates because ten minutes is what he said about a cupboard door in September and it has been doing him like a stone in a boot ever since.
+He puts the receiver back and runs it back in his head, and it was the right thing, and the man will not be quoted ten minutes for two gates because ten minutes is what he said about a cupboard door in September and it has been doing him like a stone in a boot ever since.
 
 ---
 
@@ -162,7 +162,7 @@ He fits the fourth door and the fifth and the sixth, and he planes a sill for th
 
 The cup does not walk about.
 
-He does not think about that for longer than it takes to pick the cup up and put it down on the sill again, which is about a second and a half, and then he starts on the eighth door.
+He does not think about that for longer than it takes to pick the cup up and put it down on the sill again, and then he starts on the eighth door.
 
 At the end of the day he drives back with the van empty and the drawer under the bench still open, and the shoebox still on the bench where he cannot come in without seeing it, and the canvas bag in the footwell with the stranger's brush still in the side pocket and the stone in the leather bottom of it.
 

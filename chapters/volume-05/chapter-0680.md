@@ -8,19 +8,19 @@ She is a woman in her early thirties. She is at home all day. Her sister is thre
 
 ---
 
-She gets up and comes down and the first thing she sees is the parcel on the hall table where the post goes, next to her keys and a bit of card with the window deliveries on it that she keeps there for about a week and then throws away.
+She gets up and comes down and the first thing she sees is the parcel on the hall table where the post goes, next to her keys and a bit of card with the window deliveries on it that she keeps there for a week and then throws away.
 
-It has been on that table since Tuesday evening, when she had it off her sister, who had brought it in off the back wall of number nine with the fire not lit and the radio on low.
+It has been on that table since Friday evening. Her sister had carried it round from number nine with the fire not lit and the radio on low, had not knocked at the front because she does not knock, had come round to the back and put it on the step and stood there without saying anything until the door was opened, and had gone straight back down the road.
 
-The top of it is not taped any more. That is the thing that has happened to it since Tuesday: the brown tape in the cross has lifted at both ends where it went hard, and the ends of it have curled up about the width of a thumb, and there is a gap at one corner about as big as a nail where you could get a finger.
+The top of it is not taped any more. That is the thing that has happened to it since Friday: the brown tape in the cross has lifted at both ends where it went hard, and the ends of it have curled up about the width of a thumb, and there is a gap at one corner about as big as a nail where you could get a finger.
 
-She could open it there. A woman of her age could open a taped box with her thumbnail and a half of a nail head in about four seconds, and she has done it to about a hundred boxes in her life for reasons that were entirely good.
+She could open it there. A woman of her age could open a taped box with her thumbnail and a half of a nail head, and she has done it to about a hundred boxes in her life for reasons that were entirely good.
 
 She does not do it.
 
 ---
 
-Here is her arrangement with herself about it, and it is not a good arrangement, and she has had it since Wednesday morning.
+Here is her arrangement with herself about it, and it is not a good arrangement, and she has had it since Friday evening.
 
 It is not hers. That is the whole of it and the whole of it is the reason.
 
@@ -28,19 +28,19 @@ She has let herself in once, at nineteen, and stayed too long, and has worked ou
 
 A parcel is not like that. A parcel is somebody's, and the somebody is at the end of a street, and the somebody sent it, and if she opens it then she has made herself the woman who opened it, and if she rings the number on a label she would have to read a street off a label in rain, and if she rings up asking after a parcel she has admitted to a stranger in an office that she has got somebody else's parcel in her hall.
 
-So it goes on the hall table, and it goes on the hall table through Wednesday and Thursday and Friday, and on Friday night she had a thing about it, which is that it is going to have to go out with the bin or it is going to have to go to the tip, and she does not have a car and she is not going to carry a box down the road.
+So it goes on the hall table, and it goes on the hall table over the weekend, and on Friday night she had a thing about it, which is that it is going to have to go out with the bin or it is going to have to go to the tip, and she does not have a car and she is not going to carry a box down the road.
 
 ---
 
-She goes out to the bin at about half seven with her coat on.
+She goes out to the bin early with her coat on.
 
-The bin is at the kerb and the lid shuts, which is a thing she has never once said thank you for and never will. The back door shuts true behind her and it makes the sound it makes. The front door she leaves on the latch, which is the only door in her house she can do that with.
+The bin is at the kerb and the lid shuts, which is a thing she has never once said thank you for and never will. The back door at number ten shuts true behind her and makes the sound it makes, the same sound it makes three doors down, and she has never once asked her sister about that and is not going to. The front door she leaves on the latch, which is the only door in her house she can do that with.
 
 She comes back in and looks at the bin.
 
-It is a Friday in November and she has paid for a collection every fortnight since the spring and she knows the pattern and does not know the day, because the day is on a card and the card is a bit of card with window deliveries on it and that is not the same card.
+It is a Saturday in November and she has paid for a collection on some kind of rota since the spring and she knows the pattern and does not know the day, because the day is on a card and the card is a bit of card with window deliveries on it and that is not the same card.
 
-She has got about five in ten odds. It is not five in ten. She has found the calendar in the kitchen drawer and turned back to September and read off the crossed days and worked forward twice and got the same answer twice, and it is not today.
+She has put money against it wrongly at least once. She has found the calendar in the kitchen drawer and turned back to September and read off the crossed days and worked forward twice and got the same answer twice, and it is not today.
 
 So the parcel stays on the hall table.
 
@@ -52,13 +52,13 @@ It is the one thing in that house she made herself with her own hands that anybo
 
 She stands there with her hand on the switch.
 
-There are houses on that side of the road where the whole front of the house is dark at eleven in the morning and there is a house at the end where a light is on all day over a gate, and she has looked at both of those from her own back step and has not said anything to anybody about either of them.
+There are houses on that side of the road where the whole front of the house is dark in the middle of the morning and there is a house at the end where a light is on all day over a gate, and she has looked at both of those from her own back step and has not said anything to anybody about either of them.
 
 She switches the light off.
 
 ---
 
-The man from the coal yard comes down the back at about ten with a sack on a barrow, which he does about once a month and has done since the spring.
+The man from the coal yard comes down the back in the middle of the morning with a sack on a barrow, which he does about once a month and has done since the spring.
 
 He puts it outside the back door and knocks and she goes out.
 
@@ -92,13 +92,13 @@ She gets a bit of ply idea and puts it away in the same drawer as the hammer and
 
 ---
 
-The parcel stays on the table until about eleven, and at eleven she picks it up and puts it under her arm and takes it out to the step, because it cannot go in the bin and she cannot carry it down the road.
+The parcel stays on the table through the middle of the morning, and then she picks it up and puts it under her arm and takes it out to the step, because it cannot go in the bin and she cannot carry it down the road.
 
 She puts it on the step. Not in the porch — on the step, on the front step, at the side, so that whoever comes will not have to come up to the door.
 
 Then she stands there looking at it.
 
-It is not raining at that moment and it begins about a minute later.
+It is not raining at that moment and it begins while she is still standing there.
 
 ---
 
@@ -108,7 +108,7 @@ She hoovers the front room. There is nothing in the front room of that house exc
 
 She stands in the kitchen and looks at the wall.
 
-What she is thinking is not about the parcel at all, and that is what makes it hard, and it is this: that a woman of seventy-eight lives at the end of this road and has had a passage light put in on a bracket in the summer because somebody asked the council for it, and nobody asked her, and she has been there every day since the spring, and she eats at a table under a window on a green chair with a cushion on it, and the table stands dead flat because a man in a unit off the industrial estate put a card in the leg of it with no glue in a quarter of an hour in the summer while she watched and neither of them said a word.
+What she is thinking is not about the parcel at all, and that is what makes it hard, and it is this: that a woman of seventy-eight lives at the end of this road and has had a passage light put in on a bracket in the summer because somebody asked the council for it, and nobody asked her, and she has been there every day since the spring, and she eats at a table under a window on a green chair with a cushion on it, and the table stands dead flat because a man in a unit off the industrial estate put a card in the leg of it with no glue and no filler in the summer while she watched and neither of them said a word.
 
 She has never asked her sister any of that. Her sister has been told three times in one evening in August that she could walk up that road, and has not.
 
@@ -116,7 +116,7 @@ So the parcel sits on her front step in the rain with the tape coming off it, an
 
 ---
 
-At about two she goes out to bring the washing in and the parcel has gone brown on the top where the rain has been on the card of it.
+Later she goes out to bring the washing in and the parcel has gone brown on the top where the rain has been on the card of it.
 
 She stands on the step with the basket on her hip and looks at it.
 
@@ -124,7 +124,7 @@ She picks it up and brings it in and puts it on the mat inside the back door, be
 
 ---
 
-Her sister comes round at half four.
+Her sister comes round in the afternoon.
 
 They drink tea standing up in the kitchen because the kitchen is the warm room and neither of them has ever lit the fire in number nine's front room since Easter.
 
