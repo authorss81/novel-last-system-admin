@@ -8,7 +8,7 @@ She is a woman in her early thirties at number ten on Thursday. Her sister waits
 
 ---
 
-She starts at the table with the tools laid out since May, ply and hammer and screwdriver and tape and pencil beside the three-line paper.
+She starts at the table with the tools laid out on it since the end of May, ply and hammer and screwdriver and tape and pencil beside the three-line paper.
 
 The shed felt is still gone off the front edge and the ply still will not do, and she knows now that no tool on this table will mend it. She picks up the hammer and the screwdriver and carries them to the drawer under the worktop and puts them away inside it, side by side.
 
@@ -18,7 +18,11 @@ She shuts the drawer on the tools and leaves the paper out, and the table looks 
 
 ---
 
-At the middle of the day she takes the tape roll with its three and a half inches and the pencil and puts them on the shelf above the worktop, out of the way.
+At the middle of the day she takes the tape roll and the pencil and puts them on the shelf above the worktop, out of the way.
+
+The peg bag comes out of the drawer under the worktop, and she counts the pegs standing at the table because there is nothing else to do with her hands, and there are eleven of them where a line across that yard wants twelve.
+
+She puts eleven back in the bag and the bag in the drawer, and does not go out to count the line.
 
 The ply offcut she carries out to the yard and leans against the wall where it was, flat. It is not rubbish and it is not use, and the wall is where such things live till they are one or the other.
 
@@ -50,4 +54,10 @@ She goes down the yard past the shed with its felt gone and the ply against the 
 
 Then she turns and walks back, steady, with her sister watching, and the yard is only her own yard and not the road, but it is further than she has walked in an evening since April.
 
-At the back door she turns and lifts a hand, and her sister lifts one back from the gate, and she goes in and leaves the back mat empty behind her, and puts the kettle on with the paper still on the table and the tools away in the drawer, and the line outside singing faintly in the draught when she touches it once more before bed.
+Her sister watches her in, and then goes off down the road with her bag on her arm and does not look back at the yard.
+
+Then she goes out again as far as the line and puts her hand on the wire, and the peg at the shed end is the one she moved in May and pushed a finger further than it wanted, and it is still where she left it.
+
+She does not loosen it. It is her own peg and her own hand that put it there, and there is nobody else who could shift it, and that is as much as the yard has to offer anybody tonight.
+
+She goes in and puts the kettle on with the paper still on the table and the tools away in the drawer, and the yard behind her running the whole way to the end wall and no further, because that is where the wall is.

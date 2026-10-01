@@ -24,7 +24,7 @@ She stands with the ply in her hands and looks at the draught coming through, an
 
 It will not do. Ply will not do for a felt edge, and she knows that now from having carried it out twice.
 
-She picks the hammer and the screwdriver off the table and puts them away in the drawer under the worktop, side by side, and shuts the drawer on them. The paper stays out on the table with the tape and the pencil beside it.
+She picks the hammer and the screwdriver off the table and turns them over in her hands while she looks at the drawer, and then she lays them down again side by side and leaves the drawer shut. The paper stays out on the table with the tape and the pencil beside it, and the tools stay out with it.
 
 ---
 
@@ -38,7 +38,27 @@ Her sister comes to the back door in the middle of the day with nothing in her h
 
 "Nothing yet," she says. "It wants a man who would come, and there is no man coming for a hall with nothing under the line."
 
-Her sister looks at the hammer and the screwdriver and the pencil laid out like a row of teeth.
+"And who is it for?" her sister says. "Is there a name on it?"
+
+"There is no name on it," she says. "Three lines and what a thing would be made of. No date, no price, no day of the week, so there is nobody in it to write to."
+
+"Then who would come?"
+
+"That is the whole of it," she says. "I have been asking that since April and I have not come up with anybody, and I have stopped asking."
+
+Her sister looks past her at the yard and the shed at the end of it.
+
+"That felt has gone off that shed."
+
+"It has," she says. "The front edge, and the timber under it is damp, and I have carried the ply out twice and it falls short by the width of my hand both ways."
+
+"I could take the ply," her sister says. "For my back door."
+
+"It would not go against a door," she says. "It is short and it is not waterproof, and then I would have to thank you for a thing that does not fit, and that is worse than the ply leaning on my own wall."
+
+Her sister looks at the yard a while, and neither of them says anything else about the shed.
+
+Her sister's eyes go along the table to the hammer and the screwdriver and the pencil laid out like a row of teeth.
 
 "You could put it back in the drawer," her sister says.
 
@@ -54,4 +74,4 @@ The line is pegged straight and the shirts hang without turning. The tape stays 
 
 At dark she takes the washing in, armful by armful, and folds it on the table beside the paper without covering the paper, so that the three lines show at the edge of the pile.
 
-Then she goes out to the yard once more and looks at the shed with its felt gone and the ply leaning useless against the wall, and she pulls the line down from its peg and re-pegs it a finger tighter, so that it sings when she touches it, and she goes in with her hands damp and leaves the back mat empty behind her.
+Then she goes out to the yard once more and looks at the shed with its felt gone and the ply leaning useless against the wall, and she pulls the line down from its peg and re-pegs it a finger tighter, so that it sings when she touches it, and she goes in with her hands damp.

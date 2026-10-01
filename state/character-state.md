@@ -3325,3 +3325,19 @@ Woman in late fifties at nine. Stool dusted and sat on. Bulb wiped and returned.
 Woman in early thirties at ten. Paper three lines on table, tools now away in drawer. Tape three and a half inches on shelf. Ply short against shed felt. Line pegged tighter. Light Saturdays. Wants someone who would come. Will not walk the ninety yards, yard only in 0734.
 
 Man in late twenties off the ring road. Not in this block. Van and shop, bell under boards under two nails, landing answer given. No job on the page in May or June. Wants to come back to his houses. Will not go down to a bell going.
+
+## VOLUME 05, CONTINUATION 0054, CHARACTER STATE AFTER THE REVIEW REPAIR
+
+The six figures as they stand now, not as the block first wrote them. Where a repair changed what a person did, the change is named.
+
+Woman of seventy-eight at twelve. Bowl emptied twice daily. Envelope six in pencil, four done, nothing crossed, no pencil, pen dry in the drawer. Front room entered three times, never sat in. Ladder folded under the window untouched. Brush stepped over. Lamp burning. Gate propped back. Report with the freeholder not arrived and not chased, and going after it would mean the telephone, which she lets ring. Wants the machine quiet. Will not ask, and will not begin a conversation with a man from a firm.
+
+Man in early forties at the unit. Gates paid, chalk fading, not re-chalked. Run proud near a quarter inch over six foot, left alone by decision. Posts at cottage firm, his thumbnail will not go past the nail. Scrap twelve in pocket. Pencil behind ear. Drawer shut since November. Stool folded by paint. Offered the man's hands at the cottage and refused, and told why: a man short is worse than a proud run. Wants the run true. Will not say bell aloud, and will not take work he cannot carry back the same day.
+
+Woman in late forties clearing houses. White van tidy. Boards and bolster shut. Drawer under the bench with leads and screws shut since November. Box behind bench unmoved since October, asked about once by the man with keys and not looked at. Blanket set aside unopened since November. Rag bag tied twice. Pad with an empty hall line and a new cupboard line, the cupboard job without a day on 22 May and with Thursday on 10 June. Van doors shut and tried, once, in 0732. No key to the lock-up and never has had one. Wants a job she can mark. Will not say which house a thing came from.
+
+Woman in late fifties at nine. Stool dusted and sat on, the first time since November, and she knows it is not the same as standing on it for a bulb in May. Bulb wiped and returned. Jug lid at two layers, third refused. Pads six, first crossed twice. Back door shuts true, and it was opened for her sister in 0733. Fire unlit. Never up the road. Wants to be no cause. Will not look at her own door to prove it, and will not have somebody in the front room with her.
+
+Woman in early thirties at ten. Paper three lines on table with the tools out beside it through 31 May, tools in the drawer from 16 June, paper still out. Tape on the shelf above the worktop. Eleven pegs in a bag against twelve wanted. Ply short against shed felt, offered to her sister and not taken. Line pegged tighter at the end of May and not loosened since. Light Saturdays. Wants someone who would come. Will not walk the ninety yards, yard to the end wall only, and will not undo the one thing in the yard that is her own.
+
+Man in late twenties off the ring road. Not in this block. Van and shop, bell under boards under two nails, landing answer given. No job on the page in May or June. Wants to come back to his houses. Will not go down to a bell going.

@@ -1767,24 +1767,36 @@ The summaries above describe the chapters as they were written. The bodies are u
 - **0723 — The Number Was On The Machine And There Is No Pencil In This House.** A woman of seventy-eight finds a message she did not ask for, hears a telephone number twice, carries a pen out of her kitchen drawer, and does not write it down. She tells her sister out loud that the telephone in this house rings for people who do not live here, and when her sister offers to ring it from her own house she says no. **Ends, now:** the sister does not go, and stands at her own gate off down the road with her bag on her arm, and is watched, and does not get called out to, and goes in, and a light goes off.
 - **0724 — The Back Of The Card.** A man in his early forties takes the cover off a telephone on the wall of his own unit, finds the same two pairs of wire joined to each other, writes a telephone number on the back of a scrap of scribing card that has had nothing on it since before Christmas, rings a woman he has not rung since the spring, and gets two answers and hangs up on her. **Ends, now:** the shop's own telephone on his own wall rings near the end of the day for the first time in three months, eleven times, with the two pairs of wire behind the cover he put back on at two, and he stands four foot away with a screwdriver and does not answer it.
 
-## 0725 to 0734
+## 0725 to 0734, as repaired after the 0054 review
+
+The first eight lines below are unchanged from the block as first written. 0727 to 0734 are corrected to the prose as it now stands, and the changes are listed under the block. Read these as the state of each chapter now, not as a history.
 
 0725. A woman of seventy-eight finds her only pen dry on the gas envelope, puts it back in the drawer, talks to her sister at the gate about the lamp that burns in daylight, and pulls her front door to for the night.
 
 0726. A man in his early forties sweeps shavings, leaves a proud run alone, looks at chalk numbers on paid gates without re-chalking, talks to a lad about timber, and latches the unit at dark.
 
-0727. A woman in her late forties sorts rags without opening the set-aside blanket, rules a new cupboard line and leaves the hall line empty, talks to the man with keys about the van, and ties the rag bag twice.
+0727. A woman in her late forties sorts rags without opening the set-aside blanket, rules a new cupboard line and leaves the hall line empty, talks to the man with keys about the van, about taking the boards on the cupboard job and about the box under the rags, ties the rag bag twice, and carries it out to the back of the van and leaves the doors open because the padlock is on his ring and not hers.
 
-0728. A woman in her late fifties wipes and returns the same bulb, leaves the jug lid at two layers, talks to her sister at the gate about the bin that never was, and switches nothing new on.
+0728. A woman in her late fifties wipes and returns the same bulb from on top of the ash stool, leaves the jug lid at two layers, talks to her sister at the gate about the bin that never was, and switches nothing new on.
 
-0729. A woman in her early thirties tries ply against the shed felt and finds it short, puts the hammer and screwdriver away in the drawer, talks to her sister about the paper, and re-pegs the line tighter.
+0729. A woman in her early thirties tries ply against the shed felt and finds it short, lays the hammer and the screwdriver back down on the table beside the paper and leaves the drawer shut, tells her sister the paper has nobody's name on it and turns down an offer of the ply, and re-pegs the line tighter.
 
-0730. A woman of seventy-eight looks into her front room without sitting, sees the folded ladder and a silent telephone left where it is, talks to her sister on the step about the room, and comes back to her kitchen.
+0730. A woman of seventy-eight looks into her front room without sitting, sees the folded ladder and a silent telephone left where it is, talks to her sister on the step about the room and about the report that has not come, and comes back to her kitchen.
 
-0731. A man in his early forties drives the long way to the cottage, finds the posts firm, talks to the man there about hands, and drives back without going up the road.
+0731. A man in his early forties drives the long way to the cottage, finds the posts firm, turns down the man at the cottage offering to sell them and offering his hands, and drives back without going up the road.
 
-0732. A woman in her late forties clears her van, leaves the box behind the bench, books a Thursday clearance, and shuts the van doors before driving away.
+0732. A woman in her late forties clears her van, leaves the box behind the bench, books a Thursday clearance, is told she will knock on a door with a key in her hand, and shuts the van doors before driving away.
 
-0733. A woman in her late fifties dusts four stools, sits on the ash one, talks to her sister at the gate about the pads, and switches the front room light off early.
+0733. A woman in her late fifties dusts four stools, sits on the ash one, lets her sister in at the back door and talks to her in the kitchen about the pads and about wanting somebody in the room, and switches the front room light off at the switch by the doorway.
 
-0734. A woman in her early thirties leaves paper out with tools away, talks to her sister at the gate about the ninety yards, walks to the end of her own yard and back, and puts the kettle on.
+0734. A woman in her early thirties puts the hammer and the screwdriver away in the drawer under the worktop, leaves the paper out, counts eleven pegs in a bag of twelve wanted, talks to her sister at the gate about the ninety yards, walks to the end of her own yard and back, and does not loosen the peg she moved in May.
+
+### What the review of 0054 changed, so that a later writer does not read a summary that disagrees with the file
+
+1. **0729 and 0734, the tools.** As first written they were in the drawer at 0729 and back on the table fifteen lines later, and 0734 staged their going into the drawer as a first time. The drawer at number ten is shut and empty through 0729 and the tools lie on the table, and 0734 is the one chapter where they go in. 0729's summary was written from the drafted line and not from the chapter.
+2. **0727, the ending and the keys.** The van doors shut one after the other and tried was 0727's closing act and is now 0732's only. 0727 ends on the tied bag in the back of the van and the doors left open. The keys were in her hand in the first draft and are on the man with keys' ring.
+3. **0733, inside instead of at the gate.** The sister now comes to the back door, is let in, and the conversation is in the kitchen. The caps block and the roster line in the file say so. This is the one staging change the repair made on purpose, to break six chapters out of ten running sister at a gate.
+4. **0733, the light.** She looks in from the doorway without going in and switches the light off at the switch by the frame, which is what 0728 does. The first draft had her reach in, which contradicted the line above it.
+5. **0729 and 0734, the line.** 0729 keeps the re-pegging and the singing, which is its own act and its ending. 0734 no longer repeats either and no longer repeats the lifted hand, and ends on a decision not to loosen that peg, which is how it earns its title. The three and a half inches of tape is said once, in 0729.
+6. **0728 and 0733, the stool.** She stands on it for a bulb in 0728 and sits on it in 0733, and each chapter now says that the two are different acts.
+7. **Six chapters gained a second exchange.** 0727, 0729, 0730, 0731, 0732 and 0733 each now have resistance that outlasts the first answer, which the first draft did not have. The block went from 7842 words to 9196.

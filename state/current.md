@@ -1659,3 +1659,21 @@ Chapter 734 is the last written. The next block is 735 to 744 and its prompt is 
 This block took no family. Ten scenes, each moving on its own. The woman of seventy-eight proved her pen dry and looked into her front room a third time without sitting. The man in his early forties left his proud run alone and found his cottage posts firm. The clearing woman ruled a new line and kept the hall line empty and booked a Thursday. The woman at nine wiped her bulb, left her jug at two layers, dusted and sat on her stool. The woman at ten put tools away, kept paper out, and walked her yard to its end wall. The young man off the ring road is not in these ten because there is no third job for him.
 
 Four threads stay live. The join with no conversation. The number nobody has. The ninety yards unwalked. The hall line empty. The ladder stays folded. The line stays crossed. The freeholder has not arrived. The volume holds 540 files against 195 to 242, and the lead has been off the page since 0263. Both need a human ruling and neither is a writer's.
+
+## What a writer needs, in plain words, after the review of continuation 0054, chapter 734
+
+Chapter 734 is still the last written and the next block is still 735 to 744, with its prompt at workspace/volume-05/continuation-0055/PROMPT.md. Count the files yourself. `ls chapters/volume-05/chapter-*.md | wc -l` gives 540, which is 734 minus 195 plus one.
+
+The review of 0054 was applied to the block and not to the plan. No chapter was restarted and the plot did not move. What a writer needs to know is only this.
+
+**The tools at number ten are in the drawer now, once.** They lay on the table with the paper through 31 May and went into the drawer on 16 June, and that is the only time it happens. If a later chapter finds them, they are in the drawer, or somewhere else, but not on the table and in the drawer at once.
+
+**Six chapters gained a second exchange** and the block is 9196 words where it was 7842. 0725 and 0726 were not touched. If the block reads thin anywhere, it is those two, and they are the two the reviewer did not send back.
+
+**One staging was moved on purpose.** 0733 is inside, the sister let in at the back door, the conversation in the kitchen. Six chapters out of ten running sister at a gate and a closing gesture was the defect the review found one level below the families, and it is now five. Do not build it back.
+
+**The forms this block spent, listed in open-threads and in the band file.** Van doors shut and tried. A lifted hand in a closing line. A back mat left empty. A line singing when touched. The three and a half inches of tape. The drawer taking two tools.
+
+**Numbers that were wrong and are now right.** 540 files. 492 chapters past the on-page end of 242, not 482. 14 chapters past the 720 target, not 4. Away at 12, not 14. First uses at 22, not 21. The word eleven at 2, both a count of pegs. The older lines are still in the state files and were not deleted, and a writer who finds 530 or 482 or 4 in an earlier block is reading a true record of 724, not an error.
+
+**Still a human's, and this is the sixty-seventh prompt to say it.** The volume holds 540 files against an on-page range of 195 to 242 and the lead has been off the page since 0263. `state/phase-ledger.json` is controller-owned and still reads phase-002-batch-plan for volume 1 batch 1, `NOVEL_SPEC.md` is stale, and `dist/` predates the block. None of it was rewritten to hide any of it. The loop still has no stop condition a writer can reach, and the file that would stop it is not one a writer creates.

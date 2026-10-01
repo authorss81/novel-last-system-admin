@@ -54,4 +54,20 @@ Her sister looks at the doorway and the brush across it and then back at her.
 
 "Nothing," she says. "I looked and I came away, and that is enough for June."
 
+"Has the report come?" her sister says.
+
+"No," she says. "It has not come, and I am not going after it, because going after it means the telephone, and there is one telephone in this house and it is standing on the low table in that room, and I have settled with it where it is."
+
+Her sister looks down the passage at the front room door.
+
+"You could ring it."
+
+"No," she says. "It has rung at me twice now and I have let it ring both times, and I am not going to begin with a man from a firm about a wall."
+
+"You could go to the shop and use theirs."
+
+"That is the same telephone with a walk to it," she says. "I have got used to a good many things arriving late, and one more will not make me any thinner."
+
+Her sister gives her a look and does not say the next thing, and the lamp at the gate goes on doing what it has done since June.
+
 She sees her sister to the gate with the apron on and stands there till her sister is off down the road with her bag on her arm, and then she goes back in and pulls the front door to the width of her hand, and sits under the kitchen window with the cloth squared over the taped box and her hands round a cold cup.

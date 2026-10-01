@@ -18294,3 +18294,33 @@ What must not be re-staged. The telephone chapters 0670, 0677, 0717, 0719, 0721,
 Figures. `ls chapters/volume-05/chapter-*.md | wc -l` is 540, which is 734 minus 195 plus one. Words by `wc -w` are 7842. Dashes total 44. Away at 14. Quoted lines in every chapter. Banned thirty-three at zero. Day counts at zero. First uses 21, no misspelling. Repeated sentences of eight or more involving any of the ten at zero after repair.
 
 Human rulings still open. Volume boundary 195 to 242 against 540 files. Male lead off the page since 0263. State files past readable size and nothing deleted. Ledger controller-owned and untouched. Card 0734 is not a close.
+
+## VOLUME 05, CONTINUATION 0054 REPAIR, CHAPTERS 725 THROUGH 734 AS THEY NOW STAND
+
+The block was not restarted. Eight files were touched and two were not. What follows is the state of the ten after the review, so that a writer does not have to reconstruct it out of the earlier entries.
+
+**The drawer under the worktop at number ten.** Shut and empty for the whole of 0729, with the paper, the tape, the pencil, the hammer and the screwdriver out on the table, which is where they have lain since the twenty-sixth of April. 0734 is the one chapter in the block in which the two tools go into the drawer, and they stay there. As first written they were in the drawer in 0729 as well, which is what made the chapter contradict itself and made 0734 read as a repeat.
+
+**The line at number ten.** Pegged straight across the draught, then moved a finger tighter at the end of 0729 so that it sings when she touches it, and it stays where she left it. 0734 does not re-peg it and does not sing it, and ends on her standing at it and deciding not to loosen it. Eleven pegs in the bag against twelve wanted for that yard, counted and not acted on.
+
+**The pegs.** Eleven, counted at the table in 0734, and the bag goes back in the drawer.
+
+**The front room at number twelve.** Entered a third time in 0730 without sitting, and not entered again in this block. The folded ladder, the silent telephone on the low table, the rush chair and the green chair under the kitchen window are all where they were.
+
+**The report.** Not arrived, not chased, and the only way to chase it runs through the one telephone in that house, which stands on the low table in the room she does not sit in. 0730 turns that into a refusal twice over and no call is made.
+
+**The front room at number nine.** Entered, dusted, and sat in on the ash stool for the first time since the fifth of November. 0728 has her standing on that same stool for the shade, and the two chapters now say plainly that standing and sitting are different acts. The light is switched off at the switch by the doorway in both 0728 and 0733.
+
+**The sister at number nine.** Comes to the back door in 0733 with no bag, is let in, sits in the kitchen, looks at the four stools through the doorway and does not go in. This is a change of staging the repair made on purpose.
+
+**The van and the lock-up.** The rag bag tied twice in 0727 and carried out to the back of the van with the doors left open, because the padlock is on the man with keys' ring. The van doors shut and tried belongs to 0732 alone now. The box under the rags behind the bench is asked about once, in 0727, and is not looked at. The cupboard job is still without a day in 0727 and has Thursday in 0732, and in 0732 she is told she will knock on a door with a key in her hand.
+
+**The gates and the posts.** The front run still proud by its quarter inch and left alone. The oak gates paid and tried, chalk not re-done. The posts at the cottage firm enough that his thumbnail will not go past his nail, and the man at the cottage is offered twice, once to sell the gates and once to come and stand where he could use him, and is refused twice.
+
+**What is not to be re-staged from this block.** The van doors shut and tried. A hand lifted in farewell. A back mat left empty. The line singing when touched. Eleven pegs. The three and a half inches of tape, which is 0729's and is said once. The drawer taking the two tools, which is 0734's alone. The bell or a telephone ringing anywhere.
+
+**Figures, taken again after the repair.** `ls chapters/volume-05/chapter-*.md | wc -l` is 540, which is 734 minus 195 plus one. Words by `wc -w` are 9196, at 1109 / 968 / 1022 / 824 / 993 / 895 / 813 / 832 / 882 / 858. Dashes 44. Away at 12. Quoted lines in every chapter. Banned thirty-three at zero and the six watched words at zero. Day counts at zero with eleven at 2 as a count of pegs. First uses 22, no misspelling. Repeated sentences of eight or more inside the ten at zero and against 715 to 724 at zero.
+
+**THE TWO FIGURES THAT DID NOT RECONCILE, AND THE CORRECTION, WITH THE OLDER LINES LEFT STANDING.** The block above this one, written before the review, says the volume is 482 chapters past the on-page end in `outline/volume-05.md` and 4 past the 720 target in `NOVEL_SPEC.md`, and another block in this file says the page holds 530 chapter files. **The file count is 540, so the volume is 492 past the on-page end of 242 and 14 chapters past the target of 720, the last chapter written being 734.** Both older figures were true of 724 and were carried forward without being touched. Nothing has been deleted and the old lines stay where they are, because a published count that is quietly corrected without the correction being visible is how a wrong figure becomes canon.
+
+**Human rulings still open, unchanged by the repair.** Volume boundary 195 to 242 against 540 files. Male lead off the page since 0263. State files past readable size with nothing deleted. `state/phase-ledger.json` controller-owned and untouched, still reading phase-002-batch-plan for volume 1 batch 1. `NOVEL_SPEC.md` stale. `dist/` predates the block. Card 0734 is not a close. The loop has no stop condition a writer can reach and this is the sixty-seventh prompt to say so.

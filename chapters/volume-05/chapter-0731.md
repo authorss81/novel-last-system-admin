@@ -20,6 +20,8 @@ The posts are in the ground at the cottage where he left them in March, two oak 
 
 He gets down and tries each with both hands, pushing and pulling, and neither moves. The ground round them is firm after the dry spell, and the chalk has faded but can still be read.
 
+He puts his thumbnail in the ground beside the near post and it will not go past his nail, and he does it at the far one as well, and it is the same there.
+
 He squats and sights along them the way he sights along a run, and they are true enough for gates that are still in his unit four streets away.
 
 He dusts his hands on his trousers and stands back, satisfied in a way he has not been since March.
@@ -37,6 +39,16 @@ The man at the cottage comes to the stile while he is there, with a mug in his h
 "The stile wants hands and a ladder," he says. "I have neither today. I do not do roofs, and I will not borrow what I cannot carry back the same day."
 
 The man nods and drinks, and they stand a while looking at the posts with nothing more to say, which suits them both.
+
+"You could sell them," the man says, after it. "Take the money and have different ones made that come true."
+
+"They came true," he says. "They want hanging on a frame that is straight, and I have not got the hands for the hanging, and that is a different job from making gates and a better one."
+
+"And if I came and stood where you could use me?"
+
+"You would be off the road by the middle of July," he says, "and then I would be a man short instead, and the stile would want doing as well, and I have told you what I do not do."
+
+The man takes his mug down off the fence and looks down the lane at nothing in particular.
 
 "You will let me know?" the man says.
 

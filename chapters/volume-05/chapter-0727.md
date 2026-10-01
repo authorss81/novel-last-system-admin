@@ -44,6 +44,24 @@ He looks at the piles of rags and the folded blanket on top and then away again,
 
 "I know," she says. "I will do it before I go. It stays open till then for the torn ones."
 
+"And the cupboard job," he says, nodding at the pad in the door pocket. "You want a hand with the boards?"
+
+"Not today," she says. "Two doors and a shelf off the ring road, and no day on it yet. I would rather do it slow than do it with somebody talking."
+
+"That is your business," he says.
+
+"It is," she says. "If it comes to a day I will want you here with the padlock, and not before that."
+
+He looks past her at the bench behind, where the rags are heaped over something square, and does not point at it.
+
+"That has been under there a while," he says.
+
+"Since October," she says.
+
+"Will you want it out before the cold?"
+
+"Not till I want to know what is in it," she says, "and I have not wanted to know since October. You have your keys and I have a bench, and we have both left a thing where it is for longer than is comfortable. That is not a plan. It is a habit."
+
 He nods and goes back to the doors, and she goes back to the sorting, and the bag stays open between them like a mouth that has not finished speaking.
 
 ---
@@ -56,4 +74,6 @@ At the end she gathers the torn pile into the rag bag and ties it shut with a do
 
 She stands with the tied bag at her feet and the bench clear behind her, and the van doors open on a tidy back with the pad in the pocket and the blanket out of sight, and she looks at what she has done and it is enough for a Sunday.
 
-She shuts the van doors one after the other and tries both, and they stay shut, and she walks away round the front with the keys in her hand and the bag tied behind her in the dark of the lock-up.
+She carries the bag out to the back of the van and sets it inside against the boards with the knot uppermost, and she leaves them open, because a padlock on this shutter is on his ring, and she has never once had a key to this place.
+
+She stands a moment with her hand on the door frame, and then she goes out and round the front to the road.

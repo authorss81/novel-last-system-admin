@@ -16,6 +16,8 @@ The shade is grey with dust. She wipes it inside and out with a damp cloth and d
 
 She puts the same bulb back, up the steps and in with two turns, and steps down and moves the stool back opposite the window where it was.
 
+She has stood on that stool for a bulb and never once sat on it, and there is a difference, and she is not going to lose it at her age.
+
 She does not put a new bulb in. A bulb that burns can stay, and a room that is cold with a clean shade is still a cold room, and she knows that.
 
 ---

@@ -34,6 +34,22 @@ The woman looks at the slip and then at her, and then folds the slip in half.
 
 "Thursday, then," she says. "I will bring the boards and the van. If there is more than you said, I will bring the lad with the keys as well."
 
+"And the money?" she says. "How is that done?"
+
+"In an envelope on the hall table when you go, and I take it with me," the woman says. "I do not do it at the door."
+
+"That is all right," she says. "I would rather it were not done at the door."
+
+The woman writes something small on the back of the slip and does not read it out.
+
+"There is a key from the man next door," the woman says. "He is in all day, so I will ask him to leave it with me, and it will be on the table by the time you come."
+
+"Then I will not have to knock."
+
+"You will knock," the woman says. "It is his door and he is in, and you will knock and he will answer and you will carry two chairs and a sideboard out past him."
+
+"Then I will knock," she says.
+
 The woman nods and goes, and the slip goes with her in her pocket, and there is now a Thursday with something on it that was empty this morning.
 
 ---
