@@ -16,7 +16,7 @@ One: a woman at the chip shop on the estate asked him whether he had heard about
 
 Two: he said he hadn't.
 
-Three: she said that the woman at number thirty-one never asks anybody for anything, and she is not the first one to say it and she had stopped at the shop and been told three times over inside a few weeks, and she wanted to know what it was all about because she has lived on that estate since she was a young woman and has never had a word with her and would not want to be somebody who goes round saying things.
+Three: she said that the woman at number thirty-one never asks anybody for anything, and she is not the first one to say it and she had stopped at the shop and been told three times over inside a short time, and she wanted to know what it was all about because she has lived on that estate since she was a young woman and has never had a word with her and would not want to be somebody who goes round saying things.
 
 And he said: don't.
 
@@ -34,7 +34,7 @@ The five words had stopped being a thing people said and had become a thing peop
 
 He has said it about a great many people. He has said it in the shop, at the school gates, in a doorway at the bottom of the hill, to a fella who was trying to sort out a leak, to the woman who runs the library, to a lad he fitted a door for and did not want to pay him.
 
-And out of all that, on an estate of four streets, three people have handed him a house number, and all three of them did it inside a few weeks of each other, which is not the same thing as not knowing who to blame.
+And out of all that, on an estate of four streets, three people have handed him a house number, and all three of them did it inside a short time of each other, which is not the same thing as not knowing who to blame.
 
 And he knows why they have got a number, and here is the thing he has not said to anybody.
 
@@ -188,7 +188,7 @@ And she said, "I'm asking because you said the woman at number thirty-one never 
 
 And he stood on the step and he had the true reason right there and it was about nine inches away from his mouth.
 
-Because she has lived here since she was a girl and she is in her mid twenties and she has never asked anybody for anything and never been on a list anybody has made about her, and three people have said it about her in as many weeks, and two of them said it to him and he was one of the other two, and if he does not come up this path tonight then by the end of the month there will be a woman on this estate who has never spoken to her and does not know why she is angry.
+Because she has lived here since she was a girl and she is in her mid twenties and she has never asked anybody for anything and never been on a list anybody has made about her, and three people have said it about her inside a short time, and two of them said it to him and he was one of the other two, and if he does not come up this path tonight then by the end of the month there will be a woman on this estate who has never spoken to her and does not know why she is angry.
 
 That is the reason and it is the reason he will give his own wife when he gets in.
 

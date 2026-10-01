@@ -108,7 +108,7 @@ And she said, "At the person it's on."
 
 And he said, "Which person."
 
-And she said, "A woman at number eight has been telling that row since the middle of March that it was the woman two doors down. And there's a girl on Kenner Street who's never been in this borough and about four people have said it about her."
+And she said, "A woman at number eight has been telling that row since the middle of March that it was the woman two doors down. And there's a girl on Kenner Street who's never been in this borough and three people have said it about her."
 
 And he said, "You don't know about the girl."
 

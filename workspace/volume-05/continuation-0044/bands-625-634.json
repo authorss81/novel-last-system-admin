@@ -59,7 +59,7 @@
     },
     "women": {
       "0625": "late thirties",
-      "0626": "early forties",
+      "0626": "NO BAND ON THE PAGE. THE ENTRY THAT STOOD HERE READ *EARLY FORTIES* AND IT WAS WRONG. `chapter-0626.md` CARRIES ONE BAND IN THE WHOLE CHAPTER AND IT IS THE MAN IN HIS EARLY SIXTIES AT `:7`. THE WOMAN TWO DOORS DOWN IS NEVER GIVEN AN AGE. SHE IS NOT LATE THIRTIES AND SHE IS NOT ANYTHING ELSE; SHE IS UNPLACED ON PURPOSE, WHICH IS THE POINT OF HER. A LATER WRITER WHO PUTS A BAND ON HER IS ADDING A FACT AND NOT READING ONE.",
       "0627": "mid thirties",
       "0628": "mid forties",
       "0629": "late sixties",
@@ -69,8 +69,9 @@
       "0633": "late thirties",
       "0634": "late thirties"
     },
-    "collisions_inside_batch": "none within either gender. Nine distinct men's bands and eight distinct women's bands across ten chapters each, because 0633 and 0634 each return a figure already placed in 0625 and 0626. Those returns are declared here in advance and are not collisions.",
-    "declared_returns": "0633 returns the woman of 0625 and 0634 returns the man of 0626. Two returns in ten, both at the end, and both of them are the reversal. No other figure appears in two chapters.",
+    "collisions_inside_batch": "none within either gender, once 0626's woman is taken out, which is what the seventh read-back did. Nine distinct men's bands and seven banded women's bands across twenty roster rows, because 0633 and 0634 each return a figure already placed in 0625 and 0626 and because 0626's woman carries none. Those returns are declared here in advance and are not collisions. THE SIXTEEN FIGURES ON THE PAGE ARE NINE MEN AND SEVEN WOMEN, AND THE TWENTY ROSTER ROWS ARE TWENTY NAMED FIGURES OF WHOM FOUR ARE UNBANDED: 0626'S WOMAN, THE MAN IN THE HOUSE WITH 0633'S WOMAN IS THE SAME MAN AS 0633'S MAN, 0631'S *A MAN IN HIS EARLY THIRTIES* AT `:67` IS 0628'S MAN AND IS A RETURN AND NOT A TWENTY-FIRST FIGURE, AND 0627'S *THE WOMAN AT THE END OF THE ROW IS A MAN IN HIS EARLY SIXTIES* AT `:103` IS 0626'S MAN AND IS A THIRD RETURN.",
+    "cross_batch_collisions_measured_2_october_2026": "ELEVEN OF THE SIXTEEN BANDS IN 625–634 ARE ALSO HELD BY A FIGURE IN 615–624, AND TEN OF THE SIXTEEN ARE ALSO HELD BY A FIGURE IN 585–594. THE MAN IN HIS EARLY SIXTIES IS IN 0626 AND 0634 AND 0615 AND 0587 AND 0594. THE WOMAN IN HER EARLY SIXTIES IS IN 0630 AND 0624, NINE TIMES. THE WOMAN IN HER LATE THIRTIES IS IN 0625 AND 0633 AND 0634 AND 0623 AND 0588 AND 0594. THE CARRIED-FORWARD BAN ABOVE COVERS TWO BANDS AND THESE ARE NOT AMONG THEM, AND NO BAND IN THIS FILE WAS EVER CLAIMED TO BE UNIQUE ACROSS A BATCH BOUNDARY, ONLY WITHIN ONE. **A LATER WRITER MAY NOT READ THE WORD *DECLARED* IN THIS FILE AS *UNIQUE*. THE ONLY TWO BANDS PROVEN NOT TO BE REUSED ARE EARLY FIFTIES AND LATE FIFTIES, AND THEY ARE PROVEN BY BAN AND NOT BY THE PAGE.**",
+    "declared_returns": "0633 returns the woman of 0625 and 0634 returns the man of 0626. Two returns in ten, both at the end, and both of them are the reversal. 0627 and 0631 each also name a figure already placed, once each, in passing and in order to place them. No other figure appears in two chapters.",
     "carried_forward_bans": "EARLY FIFTIES AND LATE FIFTIES MAY NOT BE GIVEN TO ANY FIGURE IN THIS BATCH. 0605 AND 0606 HOLD THE FIRST AND 0600 HOLDS THE SECOND TWICE, AND A BAND ALREADY HELD TWICE IN AN EARLIER CHAPTER CANNOT BE PROVED UNIQUE FROM THE PAGE ALONE. NEITHER BAND APPEARS BELOW.",
     "note": "AN ALLOCATION WHICH IS NOT READ BACK AGAINST THE PROSE IS NOT A MEASURE. IT HAS FAILED FOUR TIMES. THE READ-BACK IS RUN AT THE END OF THIS BATCH BY A WRITER OPENING EACH FILE, BECAUSE THERE IS NO INSTRUMENT IN THIS REPOSITORY THAT PERFORMS IT."
   },

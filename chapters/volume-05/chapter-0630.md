@@ -286,7 +286,7 @@ It was cheap and it was the only place it was going to happen and she knew that 
 
 And here is what she would not have put to a man on a step before this afternoon.
 
-One of the women on that row might have stopped doing a bin over it and might not know why she stopped. There might be a man on another road who put it into somebody's mouth on purpose and has been sitting on his own front step ever since waiting to see whether it came back. There might be a woman in a queue on the parade who has had it in her mouth for some weeks now and has not been able to account for it.
+One of the women on that row might have stopped doing a bin over it and might not know why she stopped. There might be a man on another road who put it into somebody's mouth on purpose and has been sitting on his own front step ever since waiting to see whether it came back. There might be a woman in a queue on the parade who has had it in her mouth for a while now and has not been able to account for it.
 
 She does not know whether any of that has happened and she has not tried, and she is fairly sure she does not want to.
 
