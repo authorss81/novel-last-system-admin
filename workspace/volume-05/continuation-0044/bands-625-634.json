@@ -1,0 +1,90 @@
+{
+  "written": "BEFORE ANY PROSE OF 625-634 EXISTS",
+  "why": "0039, 0041, 0042 and 0043 all declared after the fact, or never, or declared something the prose then contradicted. This file is the declaration, it is written first, and the read-back at the end of the batch is against it and against the prose, and the prose wins. The 0043 allocation failed in two shapes before any prose existed — it counted the incoming gap as an internal one and it put a chapter on the eleventh of a month. Neither happened here.",
+  "family": {
+    "name": "THE NINTH",
+    "one_sentence": "SOMEONE HAS ALREADY DECIDED HOW A THING IS GOING TO GO, AND A SECOND PERSON STANDS IN FRONT OF THEM AND ASKS WHY, AND THE CHAPTER IS A DAY ON WHICH THE ONE WHO DECIDED HAS TO SAY A REASON OUT LOUD.",
+    "test_against_595_604": "It cannot be summed as someone did a small thing and it went nowhere, because nothing has been done yet. What exists on the page is an intention and a reason given for it. The bin is still at the kerb. The shopping is still in the list.",
+    "test_against_605_614": "It cannot be summed as someone carried a thing they could not put down, because a decision has an owner and a direction and can be acted on. The trouble in this batch is the opposite of a weight: it is that the decision can be carried out and the reason for it cannot be taken back once it has been said in front of somebody.",
+    "test_against_615_624": "It cannot be summed as somebody was told a thing they could not place, because nobody in any of these ten is told anything they cannot place. Every piece of information in the batch is given face to face and is understood by the person who receives it. The difficulty is not where the words came from. The difficulty is what the words have to be answered with.",
+    "the_engine": "The 0043 batch found that a chapter in its own family only catches when somebody could have asked and did not, and when the not-asking costs something visible. That finding is kept and turned over. In the eighth family the world was indifferent and the person did not ask. In this one the world is not indifferent, the world stands in front of them and asks, and the resistance is entirely inside the person who decided. Every chapter has somebody who could say no and says a reason instead.",
+    "is_a_human_ruling": false,
+    "flag": "NO WRITER HAS EVER NAMED ONE OF THESE FAMILIES. THE NINTH IS A WRITER'S AND NOT A HUMAN'S, EXACTLY AS THE EIGHTH WAS, AND IT IS FLAGGED AND NOT DEFENDED. A HUMAN MAY RULE IT OUT OR REPLACE IT IN ONE LINE.",
+    "movement": "THE FINDING OF 0043 WAS THAT ITS TEN CHAPTERS ENDED WHERE THEY BEGAN AND THAT ONE CHAPTER'S ACTION DID NOT CONSTRAIN THE NEXT. THIS BATCH IS BUILT AS ONE SPREAD. A SENTENCE OF FIVE WORDS IS INVENTED IN A KITCHEN IN 0625, IS REPEATED AGAINST ITS OWN SUBJECT IN 0626, IS ADOPTED BY STRANGERS IN 0627 AND 0629, IS PLANTED DELIBERATELY IN 0628, IS REFUSED IN 0631, IS CHASED TO ITS SOURCE IN 0632, IS TAKEN BACK BY THE WOMAN WHO INVENTED IT IN 0633, AND COMES BACK TO THE MAN IT WAS INVENTED ABOUT IN 0634, WHERE HE TELLS HER THE ONE THING THAT OVERTURNS HER OWN REASON FOR GIVING IT. EACH CHAPTER IS CONSTRAINED BY THE ONE BEFORE IT AND NO CHAPTER MAY BE READ WITHOUT THE ONE BEFORE."
+  },
+  "declared_ordinary_word": "anyway",
+  "declared_ordinary_word_note": "Declared before chapter 0625 was written, in this file, and the count is to be re-taken off the ten files and not off memory. 0043 declared AND THEN and printed eighteen for a real twenty-two, wrong downward in four chapters out of ten, because a writer counting ten chapters by hand and writing the figure down from what it remembers has produced a low count twice in this repository. A nil is reported as a nil and is a finding about the writer and not about the prose.",
+  "ladder": {
+    "rule": "three to seven days between chapters, none on the ninth or the eleventh of a month, no two sharing a date, none before the first of March 2021",
+    "floor_derived_from": "0624, which is Friday the twenty-sixth of February 2021",
+    "chapters": {
+      "0625": "Monday 1 March 2021",
+      "0626": "Friday 5 March 2021",
+      "0627": "Wednesday 10 March 2021",
+      "0628": "Monday 15 March 2021",
+      "0629": "Friday 19 March 2021",
+      "0630": "Thursday 25 March 2021",
+      "0631": "Tuesday 30 March 2021",
+      "0632": "Saturday 3 April 2021",
+      "0633": "Thursday 8 April 2021",
+      "0634": "Tuesday 13 April 2021"
+    },
+    "incoming_gap_from_0624": 3,
+    "gaps_inside_the_batch": [4, 5, 5, 4, 6, 5, 4, 5, 5],
+    "all_gaps_including_the_incoming_one": [3, 4, 5, 5, 4, 6, 5, 4, 5, 5],
+    "count_of_gaps": 10,
+    "count_note": "Ten and not nine: the incoming one plus nine inside, because no chapter spans two dates.",
+    "span_days_from_0624": 46,
+    "weekdays_checked_on_the_real_2021_calendar": "ALL TEN, AND ALL TEN AGREE WITH THE TABLE ABOVE",
+    "closed_figures_in_datelines": "none. 1, 5, 10, 15, 19, 25, 30 March and 3, 8, 13 April. Neither the ninth nor the eleventh of any month appears in a date in this batch.",
+    "bound_added_up_and_not_copied": {
+      "strict_pair": "Sunday 28 March 2021 to Friday 7 May 2021",
+      "from_0624": "Ten gaps of three to seven days from Friday 26 February 2021 span thirty to seventy days. Thirty days on is Sunday 28 March 2021. Seventy days on is Friday 7 May 2021.",
+      "from_the_declared_floor": "Monday 1 March 2021 plus nine internal gaps of three to seven days, the smallest sum being twenty-seven days, is Sunday 28 March 2021 again. The early end does not depend on which date you start from. Only the late end does.",
+      "this_batch_lies_inside_it": "0634 is Tuesday 13 April 2021, which is inside the pair."
+    }
+  },
+  "bands": {
+    "men": {
+      "0625": "mid forties",
+      "0626": "early sixties",
+      "0627": "late twenties",
+      "0628": "early thirties",
+      "0629": "late sixties",
+      "0630": "mid thirties",
+      "0631": "mid fifties",
+      "0632": "early seventies",
+      "0633": "late thirties",
+      "0634": "early sixties"
+    },
+    "women": {
+      "0625": "late thirties",
+      "0626": "early forties",
+      "0627": "mid thirties",
+      "0628": "mid forties",
+      "0629": "late sixties",
+      "0630": "early sixties",
+      "0631": "mid twenties",
+      "0632": "mid fifties",
+      "0633": "late thirties",
+      "0634": "late thirties"
+    },
+    "collisions_inside_batch": "none within either gender. Nine distinct men's bands and eight distinct women's bands across ten chapters each, because 0633 and 0634 each return a figure already placed in 0625 and 0626. Those returns are declared here in advance and are not collisions.",
+    "declared_returns": "0633 returns the woman of 0625 and 0634 returns the man of 0626. Two returns in ten, both at the end, and both of them are the reversal. No other figure appears in two chapters.",
+    "carried_forward_bans": "EARLY FIFTIES AND LATE FIFTIES MAY NOT BE GIVEN TO ANY FIGURE IN THIS BATCH. 0605 AND 0606 HOLD THE FIRST AND 0600 HOLDS THE SECOND TWICE, AND A BAND ALREADY HELD TWICE IN AN EARLIER CHAPTER CANNOT BE PROVED UNIQUE FROM THE PAGE ALONE. NEITHER BAND APPEARS BELOW.",
+    "note": "AN ALLOCATION WHICH IS NOT READ BACK AGAINST THE PROSE IS NOT A MEASURE. IT HAS FAILED FOUR TIMES. THE READ-BACK IS RUN AT THE END OF THIS BATCH BY A WRITER OPENING EACH FILE, BECAUSE THERE IS NO INSTRUMENT IN THIS REPOSITORY THAT PERFORMS IT."
+  },
+  "cards": {
+    "0625": "A woman has decided to stop putting her neighbour's bin out on a Wednesday morning. Her husband asks her why in the kitchen and she tells him the reason, which is that the man has never once asked her. The reason is not the reason. She said it twice and she cannot unsay it.",
+    "0626": "The neighbour has noticed the bin is not out and has decided to leave it where it is. A woman who lives two doors down asks him why he is carrying it back in and he tells her he asked. He never asked. He asked her, and told her to pass it on, and he does not know that she has not.",
+    "0627": "A woman who has spent her life being the one who knows has decided to stop carrying what other people tell her. A young man in the house with her asks her why she came home and told him a thing about a bin. She gives him a reason that is a sentence she has had from a man in a doorway and did not know was a sentence.",
+    "0628": "A man has said five words at least three times without being able to remember saying them first. He has decided to say them once more, on purpose, to somebody who did not ask. She asks him why he is telling her. He says it is a joke. It is not a joke, and he is doing it to find out where a false sentence came from, and that is a decision with a price on it.",
+    "0629": "A woman has been doing a man's shopping for a good while and has decided to stop. He asks her why at her gate and she tells him the reason, which is that he never asks. She has used, without knowing it, the same five words a woman used in a kitchen a fortnight ago about a bin, and the man hears them and thinks nothing of it, and it is the last time the sentence is harmless.",
+    "0630": "A woman who has done a thing for a man for years has decided to go on doing it and to say so out loud, which nobody asked her to do. A man asks her why she is telling him and she gives him the truth, which is that he asked her once, years ago, in a particular way. It is the first true reason in the batch and it costs her more than any of the false ones.",
+    "0631": "A man has found out that five words he said in a doorway in March have gone round four streets. He has decided not to go round and say where they came from. A young woman on that street asks him why he is not going round. His reason is false and he knows it, because going round means saying it was her, and he will not do that.",
+    "0632": "A woman has heard the five words from two people who each said they got them from somebody else. She has decided to go to the man everybody says started it. He gives her a reason for having said it and the reason is the name of a man who will not say where he got it, so she goes away with a fact she cannot use.",
+    "0633": "The woman who invented the five words in a kitchen has found out that they are round the street and that they have been put on a man who did not start them. She has decided to go round and say they were hers. A man opens his door and asks her why she is saying it and she gives him the truth, and does not give him the second half of it.",
+    "0634": "The man the sentence was invented about has been told she is coming and she has come. He asks her why she is here and she gives him her reason. He then tells her the one thing that was left out of it, which is that he did ask her, once, and she said no, and she has been carrying the wrong half of a true thing since the first of March."
+  },
+  "card_prohibitions_honoured_in_this_file": "NO CARD IS A CLOSE AND NONE MAY BE CALLED ONE. 0634 LANDS A DECISION AND OPENS A QUESTION AND WRAPS NOTHING."
+}
