@@ -25,6 +25,17 @@ NUMBER_PREFIX = re.compile(
 )
 VOLUME_DIR_RE = re.compile(r"^volume-(\d+)$")
 
+# XML 1.0 forbids most control characters, and a single stray one (a manuscript
+# once contained a literal backspace) makes an otherwise valid document
+# unparseable. Strip them at the point where text becomes markup.
+XML_FORBIDDEN = re.compile(
+    "[^\x09\x0A\x0D\x20-퟿-�\U00010000-\U0010FFFF]"
+)
+
+
+def xml_safe(text: str) -> str:
+    return XML_FORBIDDEN.sub("", text)
+
 
 # ---------------------------------------------------------------- discovery
 
@@ -51,6 +62,7 @@ def find_chapters(root: str) -> list[tuple[int, int, str]]:
 
 def tidy(text: str) -> str:
     """Strip emphasis, replacement characters and stray punctuation."""
+    text = xml_safe(text)
     text = text.replace("�", " ")
     text = re.sub(r"\*+", "", text)
     text = re.sub(r"\s+", " ", text)
@@ -246,6 +258,8 @@ CONTAINER_ITEM = ("text/html", "chapters.xhtml")
 
 def document(title: str, body: str, epub_ns: bool = False) -> str:
     ops = ' xmlns:epub="http://www.idpf.org/2007/ops"' if epub_ns else ""
+    title = xml_safe(title)
+    body = xml_safe(body)
     return (
         '<?xml version="1.0" encoding="UTF-8"?>\n'
         '<!DOCTYPE html>\n'
