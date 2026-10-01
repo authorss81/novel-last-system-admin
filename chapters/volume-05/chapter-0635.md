@@ -2,7 +2,7 @@
 
 Monday the nineteenth of April 2021, in this borough. She is in a garage off a road behind the parade from about half past seven in the morning and the last two hours of it are on her own back step in the last of the light, and the whole of it happens in one borough.
 
-**A WOMAN WHO CLEARS HOUSES FOR A LIVING IS IN A GARAGE OFF A ROAD BEHIND THE PARADE AND IS GOING TO TAKE A FOLDING CHAIR WITH A SPLIT LEG OUT OF IT EVEN THOUGH THE LIST DOES NOT HAVE IT ON IT, AND SHE HAS ALREADY DECIDED WHICH KITCHEN IT IS GOING TO, AND NOBODY IN THIS CHAPTER ASKS HER WHY.**
+**A WOMAN WHO CLEARS HOUSES FOR A LIVING IS IN A GARAGE OFF A ROAD BEHIND THE PARADE AND IS GOING TO TAKE A FOLDING CHAIR WITH A SPLIT LEG OUT OF IT EVEN THOUGH THE LIST DOES NOT HAVE IT ON IT, AND SHE HAS ALREADY DECIDED WHICH KITCHEN IT IS GOING TO, AND NOBODY ASKS HER WHY.**
 
 She is a woman in her late forties. There is a man in his early twenties in the garage with her. He is on her books on a Thursday and a Friday, he is on a school holiday, and she has him cheap because he was outside her own gate at half past seven.
 

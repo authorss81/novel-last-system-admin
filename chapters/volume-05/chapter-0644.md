@@ -1,8 +1,8 @@
 # Chapter 0644 — The Card With Nothing On It
 
-Saturday the fifth of June 2021, in this borough. She is at the end of a road off the parade at about half past nine in the morning and she is in a kitchen at number twelve from about ten past ten until about half past ten, and the whole of it is an envelope on a shelf and one chair in a room.
+Monday the thirty-first of May 2021, in this borough. She is at the end of a road off the parade at about half past nine in the morning and she is in a kitchen at number twelve from about ten past ten until about half past ten, and the whole of it is an envelope on a shelf and one chair in a room.
 
-**THE WOMAN WHO BROUGHT THE FOLDING CHAIR SEES THE STOOL ON THE STEP AT NUMBER NINE AND GOES UP TO NUMBER TWELVE INSTEAD, AND TO KEEP THE WOMAN THERE OUT OF IT SHE TELLS HER THAT THE MAN WHO CAME FOR THE FRIDGE DID COME, AND THAT THERE IS A CARD, AND THAT THE CARD HAD NOTHING TICKED ON IT, AND THE WOMAN IN HER LATE SEVENTIES LOOKS AT HER AND SAYS NOTHING AT ALL, AND THEN ASKS HER WHICH OF THE TWO PEOPLE COMING UP THAT PATH SHE WOULD TELL.**
+**THE WOMAN WHO BROUGHT THE FOLDING CHAIR SEES THE STOOL ON THE STEP AT NUMBER NINE AND GOES UP TO NUMBER TWELVE INSTEAD, AND TO KEEP THE WOMAN THERE OUT OF IT SHE TELLS HER THAT THE MAN WHO CAME FOR THE FRIDGE DID COME, AND THAT THERE IS A CARD, AND THAT THE CARD HAD NOTHING TICKED ON IT, AND THE WOMAN IN HER LATE SEVENTIES LOOKS AT HER AND SAYS NOTHING AT ALL FOR THE WHOLE OF WHAT SHE IS TELLING HER, AND THEN ASKS HER WHICH OF THE TWO PEOPLE COMING UP THAT PATH SHE WOULD TELL.**
 
 She is a woman in her late forties. The stool is on the step at number nine because the woman there put it out on the Saturday morning to air it, facing the road, the way a person puts a chair out.
 
@@ -10,7 +10,7 @@ She is a woman in her late forties. The stool is on the step at number nine beca
 
 She has been up that road twice since the Wednesday of the nineteenth of May and both times she has stopped at the end of it and both times she has not got out. What she has come for both times is a table, and a good sentence about a table, and it is the only thing she has been able to think of for a while that is not about a chair and a stool and two people who do not know about each other.
 
-And then she parks at the end of the road at about half past nine on the Saturday and there is a stool on the step at number nine, standing on its feet on the top step facing the road, the way a chair is put out, and it is not a thing you can mistake for anything.
+And then she parks at the end of the road at about half past nine on the Monday and there is a stool on the step at number nine, standing on its feet on the top step facing the road, the way a chair is put out, and it is not a thing you can mistake for anything.
 
 And what happens to her in a van at the end of a road is a thing she will not be able to account for later: she feels that somebody has taken a thing out of a house and put it on a step, and she knows the house. And there is a woman three doors up that road who has been left with nothing, and who is seventy-eight, and the kitchen is a different size this morning than it was on Wednesday.
 
@@ -56,7 +56,7 @@ And the woman in her late seventies says, "I should have rung you. I didn't want
 
 And that is the whole of the first ten minutes and it is the best ten minutes the two of them have ever had, and neither of them knows it.
 
-There is not one false thing in that kitchen between ten past ten and about half past ten on the fifth of June. There has not been one in it since the Thursday. The last one was the council about the damp and that was the Wednesday before last.
+There is not one false thing in that kitchen between ten past ten and about half past ten on the thirty-first of May. There has not been one in it since the Thursday. The last one was the council about the damp and that was the Wednesday before last.
 
 And then it goes, and what replaces it is on the shelf by the door where the post comes, and it has been on that shelf since the Wednesday of the nineteenth of May, and it is an envelope from a firm that takes old appliances away, about four inches by seven, with a lorry on the front of it.
 
@@ -152,7 +152,7 @@ And the woman in her late forties says, "Because it's not there."
 
 And the woman in her late seventies says, "No. It isn't."
 
-And there is about ten seconds of a passage on a Saturday morning where neither of them says anything, and it is the longest silence in this business, and both of them know exactly what is in it.
+And there is about ten seconds of a passage on a Monday morning where neither of them says anything, and it is the longest silence in this business, and both of them know exactly what is in it.
 
 And then the woman in her late seventies asks her for the one thing, and it is not what either of them expected, including the woman who asks it.
 
@@ -188,9 +188,9 @@ And the woman in her late seventies stands in her own passage with a cloth in he
 
 ---
 
-Here is what she has at about half past ten on the fifth of June, and she has been aware of every bit of it since half past six this morning at her own window.
+Here is what she has at about half past ten on the thirty-first of May, and she has been aware of every bit of it since half past six this morning at her own window.
 
-Three: there are two people who come up that path and there is going to be a question at one of them about a stool that is not in her house, and she has just been asked which of them she will tell, by a woman of seventy-eight, in her own passage, at about half past ten on a Saturday morning, and she cannot think of an answer that is not *both*.
+Three: there are two people who come up that path and there is going to be a question at one of them about a stool that is not in her house, and she has just been asked which of them she will tell, by a woman of seventy-eight, in her own passage, at about half past ten on a Monday morning, and she cannot think of an answer that is not *both*.
 
 And both is the one that does not work, because both means telling the woman who brought the chair that a man in a van made a stool, and telling the man who made it that a woman who clears houses gave a chair, and then the two of them will know, and they will meet, and they will both come, and there will be a woman of seventy-eight in a kitchen with a green chair at a table and a corner by a sink with nothing in it, and the question will have been answered for her.
 
@@ -202,8 +202,8 @@ A woman in her forties came up that road to move a table and has spent twenty mi
 
 That is what a lie is when it stops being one. It is not a thing you are caught in. It is a thing two people carry.
 
-And she has got a cloth in her hand and a corner by her sink with nothing in it, and the sun is on the table where the chair is, and it is the fifth of June, and she goes into the kitchen and puts the chair back under the window where it is going to stay, and that is not the end of anything, because the question is still in the passage and nobody has answered it.
+And she has got a cloth in her hand and a corner by her sink with nothing in it, and the sun is on the table where the chair is, and it is the thirty-first of May, and she goes into the kitchen and puts the chair back under the window where it is going to stay, and that is not the end of anything, because the question is still in the passage, and what she has put back under the window is a chair, and what she has put on the shelf is an envelope with nothing on it, and neither of them is an answer.
 
-**SHE TOLD A WOMAN IN HER OWN KITCHEN THAT A MAN CAME FOR A FRIDGE AND THE WOMAN SHE WAS TELLING IT TO HAD INVENTED THE MAN, AND THE WOMAN SHE WAS TELLING IT TO DID NOT SAY ONE WORD, AND THEN THE WOMAN IN HER LATE SEVENTIES ASKED HER WHICH OF THE TWO PEOPLE COMING UP THAT PATH SHE WAS GOING TO TELL, AND SHE COULD NOT ANSWER, AND A LIE IS NO LONGER A THING YOU ARE CAUGHT IN, IT IS A THING TWO PEOPLE CARRY, AND THE QUESTION IS STILL IN THE PASSAGE AND NOBODY HAS ANSWERED IT.**
+**SHE TOLD A WOMAN IN HER OWN KITCHEN THAT A MAN CAME FOR A FRIDGE AND THE WOMAN SHE WAS TELLING IT TO DID NOT SAY ONE WORD WHILE SHE WAS SAYING IT, AND THEN ASKED HER WHICH OF THE TWO PEOPLE COMING UP THAT PATH SHE WAS GOING TO TELL, AND WHAT SHE GOT BACK FOR IT WAS *I DON'T KNOW* AND *WELL. NEITHER DO I*, AND A LIE IS NO LONGER A THING YOU ARE CAUGHT IN, IT IS A THING TWO PEOPLE CARRY, AND THE QUESTION IS STILL IN THE PASSAGE AND IT HAS BEEN ANSWERED BY TWO PEOPLE WHO CANNOT ANSWER IT.**
 
 (End of chapter 0644)

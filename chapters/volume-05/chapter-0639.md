@@ -2,7 +2,7 @@
 
 Saturday the eighth of May 2021, in this borough. She is in a queue on the parade from about twenty to ten in the morning to about a quarter past ten and she is home on her own front step by about half past ten, and he is in the same queue about two yards behind her from about ten past ten to about a quarter past ten, and neither of them looks at the other.
 
-**A WOMAN IN A QUEUE ON THE PARADE SAYS, TO A FRIEND, THAT A MAN HAS COME ROUND ABOUT A FRIDGE, FOR REASONS THAT HAVE NOTHING TO DO WITH ANYBODY IN THIS CHAPTER, AND THE WOMAN WHO INVENTED THAT SENTENCE ON A SATURDAY IN APRIL IS STANDING TWO YARDS IN FRONT OF THE WOMAN WHO SAID IT, AND A MAN WHO BUILT A STOOL FOR HER IS STANDING BEHIND BOTH OF THEM, AND HE DOES THE SUMS IN ABOUT TWO SECONDS AND THE SUMS ARE WRONG AND HE WILL NEVER KNOW THEY ARE WRONG.**
+**A WOMAN IN A QUEUE ON THE PARADE SAYS, TO A FRIEND, THAT A MAN HAS COME ROUND ABOUT A FRIDGE, FOR REASONS THAT HAVE NOTHING TO DO WITH ANYBODY ELSE ON THE PARADE, AND THE WOMAN WHO INVENTED THAT SENTENCE ON A SATURDAY IN APRIL IS STANDING TWO YARDS IN FRONT OF THE WOMAN WHO SAID IT, AND A MAN WHO BUILT A STOOL FOR HER IS STANDING BEHIND BOTH OF THEM, AND HE DOES THE SUMS IN ABOUT TWO SECONDS AND THE SUMS ARE WRONG AND HE WILL NEVER KNOW THEY ARE WRONG.**
 
 She is a woman in her late seventies. He is a man in his early forties. There is a woman in her late twenties at the front of the queue with a friend, and neither of them has ever been in this borough's number twelve or in a white van.
 

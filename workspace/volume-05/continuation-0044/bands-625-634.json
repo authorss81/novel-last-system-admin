@@ -30,29 +30,8 @@
       "0634": "Tuesday 13 April 2021"
     },
     "incoming_gap_from_0624": 3,
-    "gaps_inside_the_batch": [
-      4,
-      5,
-      5,
-      4,
-      6,
-      5,
-      4,
-      5,
-      5
-    ],
-    "all_gaps_including_the_incoming_one": [
-      3,
-      4,
-      5,
-      5,
-      4,
-      6,
-      5,
-      4,
-      5,
-      5
-    ],
+    "gaps_inside_the_batch": [4, 5, 5, 4, 6, 5, 4, 5, 5],
+    "all_gaps_including_the_incoming_one": [3, 4, 5, 5, 4, 6, 5, 4, 5, 5],
     "count_of_gaps": 10,
     "count_note": "Ten and not nine: the incoming one plus nine inside, because no chapter spans two dates.",
     "span_days_from_0624": 46,
@@ -108,5 +87,5 @@
     "0634": "The man the sentence was invented about has been told she is coming and she has come. He asks her why she is here and she gives him her reason. He then tells her the one thing that was left out of it, which is that he did ask her, once, and she said no, and she has been carrying the wrong half of a true thing since the first of March."
   },
   "card_prohibitions_honoured_in_this_file": "NO CARD IS A CLOSE AND NONE MAY BE CALLED ONE. 0634 LANDS A DECISION AND OPENS A QUESTION AND WRAPS NOTHING.",
-  "corrected_by_a_later_batch": "TWO CARDS WERE CORRECTED IN THIS FILE ON THE FIFTH OF JUNE BY THE WRITER OF 0645, AS THE 0044 HAND-OVER AND THE 0045 PROMPT BOTH ASKED FOR. 0626 AND 0629 WERE BOTH WRONG ABOUT THEIR OWN CHAPTERS AND THE FILE HAD NEVER BEEN REWRITTEN. THE BANDS FOR 0639 AND 0640 IN THE 0045 FILE WERE ALSO WRONG AND HAVE BEEN CORRECTED THERE. A FILE THAT LOSES TO ITS CHAPTERS AND IS NOT REWRITTEN IS THE SAME PLACE THE HAND-OVER LIES FROM, AND THAT PLACE HAS NOW BEEN CLEANED TWICE."
+  "corrected_by_a_later_batch": "TWO CARDS IN THIS FILE WERE CORRECTED ON THE FIFTH OF JUNE 2021 BY THE WRITER OF 0645, AS THE 0044 HAND-OVER AND THE 0045 PROMPT BOTH ASKED FOR. 0626 AND 0629 WERE BOTH WRONG ABOUT THEIR OWN CHAPTERS AND THE FILE HAD NEVER BEEN REWRITTEN. A FILE THAT LOSES TO ITS CHAPTERS AND IS NOT REWRITTEN IS THE SAME PLACE THE HAND-OVER LIES FROM, AND THAT PLACE HAS NOW BEEN CLEANED TWICE. **AND THIS FIELD WAS ITSELF WRONG WHEN IT WAS FIRST WRITTEN. IT CLAIMED THAT THE BANDS FOR 0639 AND 0640 IN THE 0045 FILE WERE ALSO WRONG AND HAD BEEN CORRECTED THERE. ONLY 0640 WAS. THE 0045 REVIEW FOUND THAT CARD 0639 IN `bands-635-644.json` STILL SAID THE JOKE WAS MADE IN FRONT OF A MAN CARRYING A FRIDGE, WHICH NO CHAPTER SAYS, AND THAT THIS FIELD CLAIMED THE CORRECTION AS DONE. IT HAS NOW BEEN MADE, IN THAT FILE, AGAINST `chapter-0639.md`. SO THE COUNT IS THREE CARDS CORRECTED OUT OF TWO FILES AND NOT TWO OUT OF ONE, AND THE FIELD THAT RECORDED THE COUNT HAD TO BE CORRECTED BY THE SAME REVIEW THAT CORRECTED THE THING IT DESCRIBED. **A FILE THAT RECORDS A CORRECTION IS A FILE THAT CAN BE WRONG ABOUT THE CORRECTION, AND THAT IS ONE CLASS FURTHER DOWN AND NOT THE SAME CLASS.**"
 }
