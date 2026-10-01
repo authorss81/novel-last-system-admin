@@ -48,7 +48,7 @@ There is a woman on her own path of about thirty with her coat on and her sleeve
 
 "Is it."
 
-"It's not, that's the trouble. I've had it since Sunday and it's not mine and I can't give it back because I don't know who it's off, and I've brought it up the road because there's nowhere to put it at mine and it's going to be rained on." The woman says the whole of it in one go and then stops, as though she has heard herself and wants to see what the house does with it.
+"It's not, that's the trouble. I've had it since Wednesday and it's not mine and I can't give it back because I don't know who it's off, and I've brought it up the road because there's nowhere to put it at mine and it's going to be rained on." The woman says the whole of it in one go and then stops, as though she has heard herself and wants to see what the house does with it.
 
 She stands in her own doorway.
 
@@ -126,7 +126,7 @@ And that is all either of them says about it, and the box is taped, and the clot
 
 The woman at the door stands in the middle of that kitchen with her hands hanging.
 
-"It came off a porch," she says. "My sister took it out of a porch two doors from hers on Sunday because it was going to be rained on, and she couldn't ask anybody whose it was, and I couldn't ask her because she'd taken it out of a porch in a hurry and hadn't asked either. And it's not mine and it's not hers and it's not anybody's, and I've got a shed with a felt roof and she says I can use it, and then I got up on it and the front edge of the felt's gone so it's no use for the shed, so now it's got nowhere at all."
+"It came off a porch," she says. "My sister took it out of a porch two doors from hers on Tuesday because it was going to be rained on, and she couldn't ask anybody whose it was, and I couldn't ask her because she'd taken it out of a porch in a hurry and hadn't asked either. And it's not mine and it's not hers and it's not anybody's, and I've got a shed with a felt roof and she says I can use it, and then I got up on it and the front edge of the felt's gone so it's no use for the shed, so now it's got nowhere at all."
 
 "And you brought it up here."
 

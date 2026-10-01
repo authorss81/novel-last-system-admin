@@ -170,8 +170,10 @@ She stands in the doorway of number nine with it folded under her arm and does n
 
 Her sister says it in the lane without turning round. "I'll have it round to mine tomorrow."
 
-And that is a date, and it is the only one anybody in this borough has had about a step ladder, and it is a date about taking a thing away and not a date about giving one back.
+And that is a date, and it is the only date anybody has said out loud in this house about a step ladder, and it is a date about taking a thing away and not a date about giving one back.
+
+A Wednesday was said out loud in a street off the ring road and the woman he said it to would not have it, and it has not been written down anywhere since.
 
 ---
 
-**A WOMAN IN HER LATE FIFTIES HAS ANSWERED A MAN WHO ASKED HER DIRECTLY THAT SHE DOES NOT KNOW WHOSE A STEP LADDER IS, HAS NOT ASKED THE MAN AT NUMBER ELEVEN WHO THE MAN NEXT DOOR SAID BORROWS, HAS PUT A BULB IN A FRONT ROOM SHE HAS NOT HEATED SINCE EASTER AND STOOD IN IT AND NOT SAT DOWN IN IT, HAS LOOKED AT A STRIP OF TAPE ON THE SECOND RAIL AND FOUND NO NAME AND NO NUMBER AND NO ADDRESS ON IT AT ALL, AND HAS TOLD HER SISTER SHE CANNOT PUT BACK WHAT SHE CANNOT GIVE, AND THE ONLY DATE ANYBODY HAS HAD ABOUT A STEP LADDER IN THIS BOROUGH IS A DATE FOR TAKING ONE AWAY.**
+**A WOMAN IN HER LATE FIFTIES HAS ANSWERED A MAN WHO ASKED HER DIRECTLY THAT SHE DOES NOT KNOW WHOSE A STEP LADDER IS, HAS NOT ASKED THE MAN AT NUMBER ELEVEN WHO THE MAN NEXT DOOR SAID BORROWS, HAS PUT A BULB IN A FRONT ROOM SHE HAS NOT HEATED SINCE EASTER AND STOOD IN IT AND NOT SAT DOWN IN IT, HAS LOOKED AT A STRIP OF TAPE ON THE SECOND RAIL AND FOUND NO NAME AND NO NUMBER AND NO ADDRESS ON IT AT ALL, AND HAS TOLD HER SISTER SHE CANNOT PUT BACK WHAT SHE CANNOT GIVE, AND THE ONLY DATE SAID OUT LOUD IN THAT HOUSE ABOUT A STEP LADDER IS A DATE FOR TAKING ONE AWAY, AND THE ONE DATE THERE IS FOR GIVING ONE BACK IS A WEDNESDAY SAID IN A STREET THAT NOBODY HAS WRITTEN DOWN.**

@@ -8,13 +8,13 @@ She is a woman in her early thirties. She is at home all day. A man from the coa
 
 ---
 
-The ladder is in her hall where the post goes, between the bowl of keys and a bit of card with the window deliveries on it, and it has been there since Sunday evening when her sister carried it round on a hip and put it down and would not stay for the tea.
+The ladder is in her hall where the post goes, between the bowl of keys and a bit of card with the window deliveries on it, and it has been there since Wednesday evening when her sister carried it round on a hip and put it down and would not stay for the tea.
 
-Her sister carried it round from number nine on the Tuesday night in the dark and put it down in the hall and would not stay for the tea. She has not been able to tell anybody what she found out about it, and what she found out about it was a strip of tape on an aluminium rail and a chalk mark on a tread and nothing else at all.
+Her sister carried it round from number nine on the Wednesday night in the dark and put it down in the hall and would not stay for the tea. She has not been able to tell anybody what she found out about it, and what she found out about it was a strip of tape on an aluminium rail and a chalk mark on a tread and nothing else at all.
 
 There is no number on it. There is no street on it. There is no name on it and no paper of any kind stuck to it and no gummed strip with anything written on it.
 
-That is the whole of what she knows, and she has been carrying it round her own house since Sunday, on a hip, and putting it down when she has both hands full and picking it up again when she does not.
+That is the whole of what she knows, and she has been carrying it round her own house since Wednesday, on a hip, and putting it down when she has both hands full and picking it up again when she does not.
 
 ---
 
@@ -122,7 +122,7 @@ She shuts the drawer, which is the first time she has shut that drawer since she
 
 Here is what she could do about the front edge of that roof and she does not do any of it.
 
-She could go to the man at number eleven with the workshop who had a bit of felt on his bench all summer. Her sister said that on Sunday and it is a good idea and it is a door and a sentence and a piece of money.
+She could go to the man at number eleven with the workshop who had a bit of felt on his bench all summer. Her sister said that on Wednesday and it is a good idea and it is a door and a sentence and a piece of money.
 
 She could go back down the back and ask the man from the coal yard, who is probably still on the road with his barrow, where to buy a roll of the right felt, which he would tell her for nothing, in about four words, and then forget about it.
 
@@ -138,7 +138,7 @@ She looks at the ladder for a while.
 
 She cannot give it back because there is nobody to give it back to. It came off a porch. It came off a woman who took it out of a porch because it was raining, and that woman cannot give it back either, and behind her there is a man at a bench opposite somewhere in this borough who lent it to a stranger in a street on a Monday morning and did not say when.
 
-She could put it in that porch. She has not been past that porch since Sunday. She does not even know the number of that house, because she did not ask, and her sister did not say, and the whole of the arrangement between the two of them on that Sunday evening was a woman saying *put it back* and a woman saying *I can't put back what I can't give*.
+She could put it in that porch. She has not been past that porch since Wednesday. She does not even know the number of that house, because she did not ask, and her sister did not say, and the whole of the arrangement between the two of them on that Wednesday evening was a woman saying *put it back* and a woman saying *I can't put back what I can't give*.
 
 ---
 

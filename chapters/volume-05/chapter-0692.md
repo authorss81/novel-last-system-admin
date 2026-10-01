@@ -40,7 +40,7 @@ Here is the thing about it and it is the whole of the day, and she can say it in
 
 A repair with no day on it is not a repair.
 
-She did that to herself on the Friday when she got up on the ladder and found the front edge of that felt gone and put the ply back in the drawer. And that is the same as a man on a street on Monday morning who lends a step ladder out of a van and does not say when it is coming back. And it is the same as a woman at number nine who took a thing out of a porch in the rain and could not put it back.
+She did that to herself on the Monday when she got up on the ladder and found the front edge of that felt gone and put the ply back in the drawer. And that is the same as a man on a street on Monday morning who lends a step ladder out of a van and does not say when it is coming back. And it is the same as a woman at number nine who took a thing out of a porch in the rain and could not put it back.
 
 Nobody in this borough has agreed anything. Everybody has been reasonable. That is the entire of what has happened to that shed and that ladder and that box since Friday, and it is going to be exactly the same as it is now when she goes to bed.
 
@@ -140,7 +140,7 @@ And that is the question. Since Friday, and that is the only question anybody in
 
 "You don't know."
 
-"I don't know. It came off a porch at your end and the man who emptied the house was on the Friday and the woman who took it out of the porch on the Sunday didn't ask him either, and when I asked her she said she couldn't put back what she couldn't give and that was the end of it."
+"I don't know. It came off a porch at your end and the man who emptied the house was on the Friday and the woman who took it out of the porch on the Tuesday didn't ask him either, and when I asked her she said she couldn't put back what she couldn't give and that was the end of it."
 
 "So it's somebody's."
 
