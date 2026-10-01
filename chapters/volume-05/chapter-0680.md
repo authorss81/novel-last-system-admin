@@ -88,7 +88,7 @@ She stands in the back step with the coal in the yard and a man telling her abou
 
 The shed roof is the one thing in that house she has looked at and thought about more than once. It is not on any list, because there is no list in that house, and she has not got a pad on the fridge with six things on it the way her sister has, and she has never once in her life begun a list of things to do in her own house, because a list is a thing that means you are going to ask somebody about something.
 
-She gets a bit of ply idea and puts it away in the same drawer as the hammer and the screwdriver and the four inches of tape, and it goes in on top of the tape roll.
+She has a bit of ply that has been stood on end behind the kitchen door since the summer, and she gets it and puts it in the same drawer as the hammer and the screwdriver and the four inches of tape, and it goes in on top of the tape roll.
 
 ---
 

@@ -68,9 +68,9 @@ The table stands dead flat on a shim planed and sawn flush under the window-side
 
 She looks at the label.
 
-The tape is off the top corners and the card of it has gone soft and come away from the folding, and the print on the label has gone into a grey smear across about half of it, and there is a number on it, and it is not a house number.
+The tape is off the top corners and the card of it has gone soft and come away from the folding, and the print on the label has gone into a grey smear across about half of it, and there is a number in the middle of it, and the number is twelve, and it is the one thing on that label the rain has not got into.
 
-It is a reference, in the middle of a label, above a line that says *sent*, and the date beside that line has gone into the grey with the rest of it, and there is a second date underneath in a different hand, a hand that is not the printed one and not hers, with a number and a street on it.
+Above the number there is a line that says *sent* and a reference printed over the top of it, and the date beside that line has gone into the grey with the rest of it, and there is a second date underneath in a different hand, a hand that is not the printed one and not hers, with a number and a street on it.
 
 She reads it twice.
 

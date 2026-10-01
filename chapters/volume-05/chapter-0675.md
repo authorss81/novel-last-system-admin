@@ -136,7 +136,7 @@ She puts the second toast on the plate and looks at the parcel mark on the table
 
 She has not opened the drawer for the knife. She has not gone down the road to look at the gate and the coal shed with somebody. She has not asked a soul where the tip is or whether a man in a lorry might carry a box for her.
 
-Four of six is done. There is no pencil in that house and there has not been since before Christmas, and a parcel of tinned fish she did not order is sitting on top of half a sack of coal behind an unlocked shed door in a garden with a gate standing open on a road with nobody on it, and there is no way on this earth of writing it down.
+Four of six is done. There is no pencil in that house and there has not been since before Christmas, and a parcel of tinned fish she did not order is sitting on top of most of a sack of coal behind an unlocked shed door in a garden with a gate standing open on a road with nobody on it, and there is no way on this earth of writing it down.
 
 ---
 

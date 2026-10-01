@@ -118,7 +118,7 @@ The woman waits, and she is not pushing, and then she says: "Right," and looks a
 
 It is out. She had not decided to say it. It came out of her mouth in a kitchen on the same grounds as everything else in that house comes out of her mouth, which is that somebody asked her a direct question and she could not do anything else.
 
-"And it's not been for anybody," she says. "It went out with the recycling once and they told me on Friday."
+"And it's not been for anybody," she says. "It went out with the recycling once and they told me on Monday."
 
 "Did you open it?"
 
@@ -174,7 +174,7 @@ And there is a man in this borough who would know in the time it takes to boil a
 
 None of them knows about any of the others. None of them has been told any of this.
 
-There is a box on the left of her kitchen table with a forwarding strip on the label and a street on it she has never been to and a number at the end of it that is not twelve, and nobody in this borough has rung anybody about any part of it, and the coal shed at the end of that garden has had its door shut since yesterday and its padlock hanging open on the hasp since before Christmas.
+There is a box on the left of her kitchen table with a forwarding strip on the label and a street on it she has never been to and a number at the end of it that is not twelve, and nobody in this borough has rung anybody about any part of it, and the coal shed at the end of that garden has had its door shut since the twenty-second of November and its padlock hanging open on the hasp since before Christmas.
 
 ---
 

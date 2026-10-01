@@ -4,7 +4,7 @@ Friday the twelfth of November 2021, in this borough. She is in her van and in t
 
 **A WOMAN IN HER LATE FORTIES IS IN A HOUSE WHERE A WOMAN WANTS A BLANKET OFF THE ARM OF HER OWN CHAIR AND ASKS FOR IT TO BE TAKEN OFF AND SET DOWN IN THE ROOM INSTEAD OF IN THE SKIP, IS NOT ASKED WHY, TAKES IT ANYWAY, DRIVES PAST THE END OF A ROAD SHE HAS NO WORK ON AND DOES NOT TURN IN, AND THE PARCEL IS STILL BEHIND THE BENCH.**
 
-She is a woman in her late forties. She is on her own all day apart from two women and one man. Nobody asks her about the parcel and she does not mention it.
+She is a woman in her late forties. She is on her own all day apart from a woman and a man. Nobody asks her about the parcel and she does not mention it.
 
 ---
 

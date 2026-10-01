@@ -20,7 +20,7 @@ The man at the bench opposite is in early and there is tea.
 
 "Who was that on the telephone yesterday?"
 
-"Bank holiday job. Cabinet door."
+"That cupboard door off the corner."
 
 "Ten minutes?"
 
@@ -82,7 +82,7 @@ He does the thing he does with that, which is a small pause, and then he nods.
 
 He unloads the oak at the unit and stacks it and puts the offcut in the rack, and then he goes to take the afternoon job off the man who subbed it for him, which is rubbish off a bathroom on the far side of the ring road, and he takes the van round because the tip is on the way.
 
-The van goes with the drawer shut and the shoebox on the bench at the unit and the canvas bag in the footwell with the stranger's brush in the side pocket and the stone in the leather bottom of it, and the drawer is not open because he shut it this morning, and he has never once shut it, and he shut it before anybody else was in without any ceremony at all and then stood looking at the front of it.
+The van goes with the drawer shut and the shoebox on the bench at the unit and the canvas bag in the footwell with the stranger's brush in the side pocket and the stone in the leather bottom of it, and the drawer is not open because he shut it this morning, and he had never once shut it in all the time it had stood open, and he shut it before anybody else was in without any ceremony at all and then stood looking at the front of it.
 
 He does not think about that while he is shutting it. He thinks about it later, at the lights.
 
@@ -112,7 +112,7 @@ He stands in the middle of the tip with a bag of plasterboard over one shoulder 
 
 The next part is the whole of the afternoon.
 
-What he has is a street, a number, a parcel, and a van with a shoebox on the bench and a drawer he has never shut and nine pounds' worth of a brush he bought with his own money in a plastic bag in that drawer, because the woman who clears houses put her hand over her mouth in a kitchen on the sixteenth of July and said she would do the gate, and if he goes first he takes that off her and there is no way of putting it back.
+What he has is a street, a number, a parcel, and a van with a shoebox on the bench and a drawer shut for the first time this morning and nine pounds' worth of a brush he bought with his own money in a plastic bag in that drawer, because the woman who clears houses put her hand over her mouth in a kitchen on the sixteenth of July and said she would do the gate, and if he goes first he takes that off her and there is no way of putting it back.
 
 He has never been up that road since the seventeenth of June.
 
@@ -170,4 +170,4 @@ He has not written a number down for anybody since the sixteenth of July, when a
 
 ---
 
-**A MAN IN HIS EARLY FORTIES HAS READ A NAME OFF A LABEL AT A TIP AND PUT IT BACK DOWN THE WAY IT WAS, HAS WRITTEN TWELVE ON A BIT OF CARD AND PUT IT IN THE POCKET THAT HAS HAD A BOY ON IT SINCE OCTOBER, HAS TURNED DOWN THE VERSION OF THE AFTERNOON WHERE HE PUTS A CARD ON THE PASSENGER SEAT AND A BOX IN THE BACK AND DRIVES UP THAT ROAD, HAS TAPPED A FOLDED BAG OVER THE CORNER OF A PARCEL THAT WILL GO OVER THE FENCE WITH EVERYTHING ELSE, AND HAS SHUT A DRAWER HE HAS NEVER SHUT.**
+**A MAN IN HIS EARLY FORTIES HAS READ A NAME OFF A LABEL AT A TIP AND PUT IT BACK DOWN THE WAY IT WAS, HAS WRITTEN TWELVE ON A BIT OF CARD AND PUT IT IN THE POCKET THAT HAS HAD A BOY ON IT SINCE OCTOBER, HAS TURNED DOWN THE VERSION OF THE AFTERNOON WHERE HE PUTS A CARD ON THE PASSENGER SEAT AND A BOX IN THE BACK AND DRIVES UP THAT ROAD, HAS TAPPED A FOLDED BAG OVER THE CORNER OF A PARCEL THAT WILL GO OVER THE FENCE WITH EVERYTHING ELSE, AND HAS SHUT A DRAWER THAT HAD STOOD OPEN SINCE THE THIRD OF AUGUST.**
