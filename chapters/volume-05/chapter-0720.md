@@ -24,7 +24,7 @@ And nothing else. Not a date, not a price, not a name of a person, not a day of 
 
 She reads them. She knows them by heart. She has not read them out loud to anybody since the twenty-eighth of December and she is not going to today, and she is nearly gone through them twice and can see the last line without looking at it.
 
-She squares the paper on the table with the ply beside it and the tape roll on top of the ply, and the hammer and the screwdriver side by side under both, and the pencil on the ply.
+She squares the paper on the table with the ply beside it and the tape roll on top of the ply with about three and a half inches left on it, and the hammer and the screwdriver side by side under both, and the pencil on the ply.
 
 Then she shuts the drawer, empty, and it makes a noise it has not made all winter.
 
@@ -120,12 +120,20 @@ The lamp at the end of the road burns where it burns, amber over a gate, steady 
 
 The paper is under the washing. The drawer is shut and it is empty for the first time since December. The shed is still letting water in where it has let it in all winter, and nobody has been under it, and nobody is going to be.
 
-She does not know yet that a woman was sent to this gate this morning looking for somebody who does not live at it, and that she shut the door on her, and that the reason is ninety yards away and the reason has a name.
-
 ---
 
-**What came out of the drawer:** three lines naming a roll, a tin and a lip of timber, and a bit of ply, and a tape roll with three and a half inches on it, and a hammer and a screwdriver, and a pencil.
+She puts her coat on over the apron and goes out to the gate at dark, which is not a thing she does.
 
-**What is on the table at dark:** the folded paper under a stack of washing, and not in the drawer, which is shut and empty for the first time since the twenty-eighth of December.
+The mat at the back door is still empty. The door she shut on a stranger at half past the morning is still shut true, and the shed is still taking the weather at its front edge, and there is nothing in her own yard that any of this is about.
 
-**What is ninety yards away and not walked to:** her sister, who said *that's this one* to a stranger on a telephone in her own hall this morning, and who has not been at this gate today, and who does not know yet that her sister shut a door on the woman she sent.
+She stands at the gate and looks down the road.
+
+Ninety yards, and she could walk it with her eyes shut, and there is a woman at the other end of it who told a stranger to wait at a gate she does not own, and there is a stranger who has been at this gate once already today and gone away with nothing.
+
+In number nine there is a light on in the front room with the curtains open, which is the room with the stool in it and the sixty-watt bulb in the ceiling that has been in since December.
+
+She looks at that light and she does not go.
+
+It would take about four minutes. And then her sister would have to say something out loud about having said it, and whatever she said next would be a sentence neither of them could take back, and they would both be standing in a kitchen with it in for the rest of the spring.
+
+So she goes back up her own path and in by the back door, and it shuts true behind her, and the light at number nine is still on while she does the last of the washing.

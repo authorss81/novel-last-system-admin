@@ -128,14 +128,18 @@ And today she was in it for the length of a call about somebody else's upstairs.
 
 She thinks for a moment that the room is not a room she will not sit in any more. She thinks that and then she puts it down, because it is not true and she has not tested it, and a thing nobody has tested is still the thing it was.
 
-At the end of the day the bowl is emptied again, and the ladder is where it was, and the machine in the front room is off and quiet with a message light that has not come on.
-
-She did not record anything. There is a button on that machine for recording and she used it once, in the summer, and she kept her finger on it until the thing said the message had been deleted, and she has not touched it since.
-
 ---
 
-**What happened in the front room:** a machine she has owned since before Christmas went off, she lifted the receiver off it to stop the noise, a woman she does not know asked for whoever was dealing with an upstairs, and she said there was nobody upstairs.
+At dark she goes in to the machine and puts her thumb on the record button and does not press it.
 
-**What she did not say:** she did not say the number was wrong, and by not saying it she has left a stranger with a number that comes to this house, and that woman will ring it again, and the next time it will be the front room of number twelve.
+There is a button on that machine for keeping a thing, and she used it once, in the summer, and she kept her finger on it until the thing said the message had been deleted, and she has not touched it since.
 
-**What she told nobody:** her sister was on the step at dark and asked whether she answered it, and the answer she gave was true and it was the whole answer, and there was another answer under it and it stayed where it was.
+She has got her thumb on it now and she can feel where it is without looking, and whatever that button kept would be a stranger's number sitting in a machine in a house with no pencil in it, and she would not be one bit better off with it than she is now.
+
+She takes her thumb off and puts the receiver back square on the cradle, which does not need doing.
+
+And then she stands in her own front room and works out what Friday is, because the woman said Friday and she heard her say it.
+
+There is no number of hers that anybody could ring. The line in this house comes in on a name that is not hers, and there is nobody in it she could ask to answer a telephone on her behalf, and the front door of this house has not been on the latch since before Christmas.
+
+So Friday is a day she will be in this house for, and she has not got anything at all to put in it.

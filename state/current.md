@@ -1609,3 +1609,45 @@ A woman of seventy-eight had most of a sack of coal in that shed in three chapte
 **THE HAND-OVER FOR EVERYTHING 695–704 DID IS THE CONTINUATION 0051 BLOCK IN `state/continuity.md`, WHICH IS ABOVE THE CONTINUATION 0052 BLOCK AND STILL GOVERNS.**
 
 **THE MANUSCRIPT HAS LEFT THE NOVEL AND IT IS A HUMAN'S RULING AND NOT A WRITER'S. THE LAST CHAPTER ANYWHERE IN VOLUME 05 THAT NAMES JONAS IS 0263 AND THE LAST THAT NAMES SANAA IS 0220. VOLUME 05 NOW HOLDS FIVE HUNDRED AND TWENTY CHAPTER FILES, COUNTED OFF THE FILES WITH `ls chapters/volume-05/chapter-*.md | wc -l` AND NOT ADDED UP, AGAINST AN OUTLINE RANGE OF 195–242. VOLUME 05 CANNOT BE CLOSED AND A WRITER MAY NOT WRITE THE CLOSE. FLAGGED SIXTY-FOUR PROMPTS AND COUNTING. THE STATE FILES ARE PAST READABLE SIZE AND NOTHING HAS BEEN DELETED. `state/phase-ledger.json` IS CONTROLLER-OWNED AND WAS NOT TOUCHED. NO OUTLINE, NO CARD, NO WORKFLOW MARKER AND NO PLANNED PLOT WAS ALTERED BY THIS PASS.**
+
+---
+
+# WHAT A WRITER NEEDS, IN PLAIN WORDS, AFTER THE REVIEW OF CONTINUATION 0053
+
+This block is here because `state/current.md` is the file `AGENTS.md` tells a writer to read, and it had grown to 845 KB of hand-overs that nobody can finish. Everything above this line is history and stays where it is. Nothing has been deleted. This is the short version, in sentence case, and it is the only part of this file written to be read to the end.
+
+## Where the page is
+
+Chapter 724 is the last one written. The next block is 725 to 734 and its prompt is `workspace/volume-05/continuation-0054/PROMPT.md`. Read §10 of that prompt before §1: §10 is a short amendment from the review of 0053 and it retires three things a writer would otherwise repeat.
+
+Count the files yourself. `ls chapters/volume-05/chapter-*.md | wc -l` gives 530, and 530 is 724 minus 195 plus one, counted off the files and not added up. Run it again at the start of 0054 and print the command. If the number is not 530 on the day you run it, then the number on the day is the number and 530 was true once.
+
+## The six people
+
+**The woman of seventy-eight at number twelve.** She cannot ask anybody for anything and has not asked since before Christmas. Her whole house is a set of jobs nobody is ever coming to, written on an envelope on the right of her kitchen table in pencil, four of six done, nothing crossed out, and there is no pencil in the house. There is a machine in her front room and the line in it comes in on somebody else's name. In May a woman who had rung twice left a message with a telephone number in it, twice, and she had a ballpoint pen in her hand at the time and did not write it down. Her sister offered to ring the number from her own house and she said no, and that no is the only one in that conversation that was not the whole truth. What she wants: for the machine to stop going off. What she will not do: ask.
+
+**The man in his early forties at the unit, who built the stool.** He has a pair of oak gates leaning against his back wall, a job paid for and tried in March, a latch stile that wants two hands and a ladder, and a run of four units at the front of the unit that has been a quarter of an inch proud over six foot since March. He has a scrap of scribing card in his shirt pocket with the number twelve on one side and nothing on the other since before Christmas. On the twelfth of May he wrote a telephone number on the blank side, the first thing on it in months, and rang a woman he had not rung since the spring, and got two answers, and hung up on her. Near the end of that day his own shop telephone rang for the first time in three months and he did not answer it. What he wants: to finish the run. What he will not do: say the word bell out loud to anybody.
+
+**The woman in her late forties who clears houses.** White van. She has taken three telephones off walls since the spring, two of them with two pairs of wire joined to each other at the plate, blue to brown, taped at the twist. One is in a bag with her rags on the passenger seat and one is plugged into a lock-up wall off an adaptor, alive, and somebody rang it nine times and neither she nor the man with the keys answered it. Her invoice pad has a hall line ruled on it and nothing under it, which has never happened to her before. What she wants: to finish a job she can put a mark on. What she will not do: say which house a thing came out of.
+
+**The woman in her late fifties at number nine.** She told a stranger on the telephone that her house was number ten, and she lives at number nine, and she did not go thirty foot and look at her own door. She has sent that stranger to a green bin that has never been at number ten. She has a jug lid with two layers of tape on it. She has never gone up that road and is not going to. What she wants: to be sure she is not the reason for anything. What she will not do: look.
+
+**The woman in her early thirties at number ten, the sister.** She has a paper with three lines on it — a roll, a tin, a lip of timber — that came out of a drawer under her worktop in April and went onto her own table and ended up under a stack of washing. She shut her own back door on the stranger her sister had sent, and she has not walked the ninety yards to ask why, and in April she did walk out to her gate at dark, saw her sister's front-room light on, and went back in. What she wants: to give that paper to somebody who would come. What she will not do: go round.
+
+**The man in his late twenties off the ring road.** Van and a shop, four or five houses a week, four years in. He has lifted a floor and found a bell screwed to a joist under it, he has told an empty passage about it, and he has told a woman who paid him that there was nothing else. On the third of May he picked up a telephone on a landing wall because a bell went in a room at the back, and told a stranger there was nobody there but him, all of it true, and has now given that stranger the address of a house with a man alone in it. He has a job on the Monday after. What he wants: to come back to the houses he has worked in. What he will not do: go down to a bell that is going.
+
+## The four threads that are live
+
+1. **The join.** Two pairs of wire, blue to brown, taped at the twist, behind the plate of a telephone. He has had it in his hands three times and said it out loud to nobody. It is in the walls of houses all over one part of this borough and there is no way to have the conversation about it, because having it means somebody can then be asked about it by somebody else.
+
+2. **The number nobody has.** A woman in a front room heard a stranger's number four times and has not got it, and there is no pencil in that house, and the machine will put another message on top of it.
+
+3. **The ninety yards.** Two sisters. One of them has said the wrong address into a telephone and the other one shut a door on the consequence, and neither of them has walked the road. Do not resolve which sister is on the step at number twelve. 0692 forbids it and it is not ours.
+
+4. **The two bells that go and the one that does not.** A bell under a floor in a house off the ring road, under two nails. A bell on a bolster in a lock-up, unplugged. A bell somewhere at the back of a house where nobody went. Nobody is going to be told, and the whole difficulty of this material is that nothing is going to happen about it quickly.
+
+## What the review of 0053 changed and what it did not
+
+All ten chapters of 715 to 724 ended on the same three-part bold ledger and every one of those ledgers has been removed and replaced with a scene. That was the only concrete prose defect and it is fixed. Two structural problems are still open and are not a writer's to fix: the volume is 482 chapters past its own end, and the manuscript left the novel about four hundred and sixty chapters ago and nobody has been told to bring it back. Do not restore the protagonist. Do not narrate the drift. Do not let a character notice it. A human rules on both, and the count of prompts that have flagged it is now sixty-five.
+
+**And the third one, which is the real one: the loop has no stop condition.** The diagnosis is correct about sixty-five times and the block gets written anyway. The runner honours a `.blocked` marker on a phase directory and a writer does not create one. If this pipeline is going to keep producing volume five, somebody who is not a writer has to say so.

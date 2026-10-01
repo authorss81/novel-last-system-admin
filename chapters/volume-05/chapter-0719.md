@@ -116,8 +116,22 @@ She goes in and shuts the back door behind her and it shuts true.
 
 ---
 
-**What happened in her hall:** a woman asked whether this was number ten, and she said that it was, without going to look at her own door, and she is at number nine.
+The jug is where she put it down, on the sink, with the cloth beside it, and the corner she tore off on Sunday has dried and is standing up off the crack now, so the lid sits crooked on the rim.
 
-**What is now live:** a stranger is somewhere in this borough with a bag waiting for somebody at a green bin, and no green bin has been at number ten in this woman's lifetime, and the stranger will go up the road to find out why, and the road goes past the end of it to houses that nobody in this row knows.
+She wipes the sink round the tap and hangs the cloth on the rail over the bowl and stands looking at the lid.
 
-**What she will not say to anyone, ever:** that the number came from her own hall, from a jug lid and a cloth, in about the time it takes to say four words.
+Four words in a hall with a cloth in her fist, and it has come from the top of that jug.
+
+She could lay a third layer on it and it would shut true and she would have said something. She is not going to say something to a jug, and a third layer would be saying something.
+
+---
+
+The other thing is the gate.
+
+A woman in this borough is going to be standing at a gate somewhere with a bag, in the middle of a weekday, waiting for somebody who does not live at it, because of a bin that has never been there.
+
+And the only way to find out whether there is a green bin at number ten is thirty foot of her own front path and a door she has not looked at since before Christmas.
+
+She has stood in that hall this morning with a cloth in her hand and said the address out loud without going thirty foot to check what number is on it. She is not going to go out and check it now, in the dark, in the cold, at the end of the day, when the answer is the same as the answer she has already given.
+
+She puts her hand flat on the lid, the way she puts her hand on things, and leaves the tape as it is.

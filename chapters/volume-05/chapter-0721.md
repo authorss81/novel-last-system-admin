@@ -142,8 +142,14 @@ It is the cheapest thing in this borough by a long way and she cannot think of o
 
 ---
 
-**What happened at the lock-up:** a telephone off a hall wall in an empty house was made live for the length of a sorting-out by a woman with an adaptor and a socket, and somebody rang it, and neither person in the building answered it.
+She gets the pad out of the door pocket anyway, because she always gets the pad out.
 
-**What was not done:** the drawer under the bench stayed shut, the bag with the blanket stayed tied, the sheet stayed over the heap, and the taped box with the bagged corner was not looked at, and the line is dead again now and the bag is on the seat where it was at first light.
+She writes the figure at the top, the way she wrote it on Monday, and then she rules the line under it the way she rules every line, and then she puts the two initials she puts at the bottom.
 
-**What cost nothing:** the whole of the damage is that a woman somewhere gave up ringing a number she needed, and she does not know that it is this number, and never will.
+The hall is on there as its own line, because the hall is a line. On Monday there was a hall and there was a telephone and the telephone was not on the invoice, and she wrote the hall by itself with nothing under it and thought that was the whole of the day.
+
+Today there is a hall, and there was a telephone on a bench in it with a bell on it going about nine times, and there is a woman somewhere in this city who gave up before the second time it went, and there is still nothing to put under the line.
+
+She looks at the empty line for a while with the engine off.
+
+Then she puts the lid on the pad and drops it back in the door pocket and turns the key, and the six bags are where she counted them and the sheet is where it was and the corner of it is still down over the taped box, and the drawer under the bench is still shut, and the van goes out into the dark with nothing ticked off anywhere in it.

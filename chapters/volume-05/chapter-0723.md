@@ -142,14 +142,14 @@ Her own gate is still propped back where she left it in the autumn, flat against
 
 She looks at the lamp on the bracket. It burns out in the daylight all summer and burns all night in the dark, and it has burned since June, and nobody has ever come about it.
 
-Behind her the front room is dark and the machine in it is dark, and the ladder is under the window where it has been since before Christmas, and the four of six is four of six, and there is no pencil in the house.
-
 ---
 
-**What was in the front room:** a message from a woman who has rung twice, with a telephone number in it that the machine gave her four times and she has now not got.
+Her sister has not gone. She is standing at her own gate off down the road with her bag still on her arm and not going in, the way she stands when she is giving somebody time to say something.
 
-**What she said out loud:** that there is a telephone in this house that rings for people who do not live here, which is true, and it is the first true thing she has said about anything in this house since before Christmas.
+She watches from behind her own gate for as long as it takes to be sure of it, and she does not call out, because there is nothing to call out about. There is a number in a front room behind her that her sister has not got, and her sister has a half of one, and neither of them is going to say the rest of it standing in the cold.
 
-**What she did not do:** she did not answer the one sentence that would have moved it, which was that she could ask her sister to ring it, and she could, and her sister offered.
+After a while her sister looks up the road at this house and cannot see anybody in the doorway, because the hall light is off and she has not put it on for a woman who was not coming in.
 
-**Where the number is now:** nowhere. It was in a machine that overwrites, in a room nobody sits in, in a house with no pencil in it.
+Then the sister goes in, and a light goes off somewhere off down the road, and it is dark here.
+
+Behind her the front room is dark and the machine in it is dark, and the ladder is under the window where it has been since before Christmas, and the pen is in the drawer where she put it back this morning, and her sister has gone into a cold kitchen having been offered one thing and told no.

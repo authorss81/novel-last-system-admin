@@ -128,7 +128,13 @@ She counts it out on the landing and gives him the notes and he puts them in his
 
 "Oh, I don't know," she says. "That's not mine. I've only had this house since February."
 
-Then she says, "You're not going to want to bother," and goes down the stairs.
+And there is the thing standing right there in the landing with her, and it is one question, and it is about a kitchen, and she has just told him he might as well be able to say whose.
+
+He does not ask it. He has the notes going into his pocket and he is half a turn from the stairs, and asking her would mean he had a reason to want to know, and a man with a reason to want to know is a man she will remember.
+
+So there is a pause on that landing about the length of a step.
+
+Then she says, "You're not going to want to bother," and goes down the stairs, and the door at the bottom goes, and the street is out there doing what a street does at that hour.
 
 ---
 
@@ -138,12 +144,8 @@ There is a woman in a street off the ring road somewhere who now has the address
 
 He has a job on Monday at a house on a road off the ring road, about a stair, and it is a short one.
 
-Somebody could telephone this house at any point between now and then and get him, and he would say the same three sentences he said this morning, and each time it would be less true and more costly, and there is nothing on a mobile in his pocket about any of it.
+Somebody could telephone this house at any point between now and then and get him, and he would say the same three sentences he said this morning, and each time it would be less true and more costly.
 
----
+He takes the mobile out of his pocket and puts it face down on the dash above the wheel and does not put it back.
 
-**What happened on the landing:** a bell went in a room at the back of a house off the ring road and a woman asked for a man who does not work there, and he told her there was nobody here but him, three times, all of it true.
-
-**What that made:** a stranger now has the number of a house where there is a man alone, and she will ring it back, and she does not know that the man who will answer is not the man she wants, and there is no way to correct that without a call.
-
-**What he did not do:** he did not go down to the telephone in the second back room when its bell went in the afternoon, he did not lift his own mobile out of his pocket, he did not take the bell wires out of anything, and he did not ask the woman who had booked the job whose kitchen it was that she had meant.
+That is not for the shop. It is so that if it lights up he will see it do it. There is one number on it with no name on the other side and nothing else about any of this written anywhere on it, and it went off this afternoon while he was standing on a landing with his hands full of a door, and he did not get it out, and he is not going to, and he does not want to find out on Monday that he should have.

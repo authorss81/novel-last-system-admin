@@ -114,14 +114,10 @@ At the roundabout he stops for the lights and there is nothing in front of him a
 
 He puts his hand in his pocket and takes the mobile out and looks at it in his hand. There is nothing on it. He puts it back and waits for the lights.
 
-Two bells and one telephone, and one bell under the boards with two long screws in a joist, and a house off the ring road where a woman who did not book the wiring has a bell on her wall that rings in a room that has no floor up.
+The boards are stacked on that drive under a strap and she will have them or not have them, and either way they go back over the hole in the back room, and the bell is under the hole, and it is not his, and he has already put two nails in a board over it and he is not going to take them out.
 
-He said it out loud to a passage once, and the passage did nothing with it, and there is no version of the rest of this week in which anybody rings anybody else about it.
+There is a camera on the phone in his pocket. It would have taken about a second, and there is nowhere to put the picture that is not somebody else's drawer or his own, and a picture of a bell in a floor would be a picture of a floor he is not building anything in.
 
----
+He said it out loud to a passage once, and the passage did nothing with it.
 
-**What he found:** two bells in a house off the ring road, one on the passage wall under the stairs and one screwed to a joist under the boards in the back room, and a telephone in the hall, and no second bell anywhere else in the building.
-
-**What he did with it:** he said it once, to a passage, at the front door of a house he was leaving, and he told the woman who had paid him that there was nothing else.
-
-**What he did not do:** he did not ring the shop about it, he did not ring the woman who had booked it back, he did not tell her there was a bell under her floor, and he did not take a picture of it, and there is nothing on the mobile in his pocket about this house at all.
+He goes through on the green, and the boards are on that drive, and the two nails are in.

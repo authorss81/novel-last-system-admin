@@ -122,6 +122,16 @@ Then she puts her elbow on the bag so it does not move for the drive, because th
 
 ---
 
+The man with the keys is doing the doors and she has to come round the side of the van to get at her bag, and the bench is between her and the back of it.
+
+The drawer is under that bench. It has been shut since the middle of November and there are leads and screws in it and a coil of something she has never asked him about, and in ten months of Tuesdays and Saturdays it is the only drawer she has been in a house with and not opened.
+
+To get into it she would have to go down on one knee on a concrete floor with her back to a man who is four foot away with a cup in his hand, and she would have to do it with her face turned away, and he would have to be looking at the ceiling.
+
+She picks the bag up off the seat and puts it in the cab and shuts the door on it.
+
+---
+
 At dark she says it out loud to the empty cab, which is a thing she does perhaps twice a month and only when the engine has been off a while.
 
 "Four screws and two in," she says. "Two pairs. Taped at the plate."
@@ -132,12 +142,6 @@ And then, because the cab is dark and the road is empty and there is nobody to h
 
 And she starts it, and the van pulls to the left on the long straight, and she does not turn the radio on, and the bag rides up and down on the seat with the wire inside it shifting and settling, and at the far end of the road she stops at the lights and there is a woman on the pavement with a bag of shopping waiting to cross and she waits for her.
 
-Two pairs on one plate, and the woman across the road with the shopping gets her turn, and the light goes green, and neither of them says anything to anybody.
+The woman gets to the middle of the road on the green and carries the bag over and the other arm gets up to hold her hair off her face, and she is gone into the far pavement before the lights change back.
 
----
-
-**What the room was left with:** the hall wall with a clean rectangle on it and two small holes and a smear where a label was, and a front room with the curtains open and a rectangle of unfaded carpet, and eight boxes by the door that are not hers and are not opened, and a back room taken back by a brother who has not answered.
-
-**What she took out of it:** one bellless telephone with two pairs of wire on the back of the plate, taped at the plate, in a bag with her rags, and the cover of it broken at one corner in her coat pocket.
-
-**What she did not do:** she did not say which house it came out of, she did not put it on the invoice, she did not tell the man with keys that she has seen it twice before, and she did not open a drawer under a passenger bench to put it in, because that drawer has been shut since the middle of November with leads and screws in it and it stays shut.
+The bag goes up and down on the seat for another mile and then the road straightens and it settles, and the two pairs of wire inside it shift once and lie still, and she does not put her hand on it again for the rest of the way.

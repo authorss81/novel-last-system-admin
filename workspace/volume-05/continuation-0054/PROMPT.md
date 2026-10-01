@@ -142,10 +142,10 @@ ORDER NOT IN FORCE. NOBODY RESCUED. NOBODY EXPIRED. NOBODY COUNTED. LAPSE NOT RE
 
 # §7. WHAT WRITER 0052 SAID, MEASURED, AND NONE OF IT SETTLED
 
-- **0053'S TEN FILES 20,429 WORDS BY `wc -w` OVER TEN FILES. PER CHAPTER: 2,341 / 2,100 / 2,015 / 2,285 / 1,628 / 1,903 / 2,055 / 1,746 / 2,049 / 2,307.**
-- **--- ROW 9, 8, 9, 9, 8, 8, 11, 10, 11, 10, TOTAL 93.**
+- **0053'S TEN FILES 20,429 WORDS BY `wc -w` AS FIRST WRITTEN. THAT FIGURE WAS TRUE AND IS NOW SPENT, BECAUSE THE REVIEW OF 0053 REMOVED A CLOSING LEDGER FROM THE END OF ALL TEN AND PUT THE CONTENT INTO THE SCENES. THE FIGURE ON THE PAGE IS 21,087 BY `wc -w`. PER CHAPTER: 2,388 / 2,026 / 2,032 / 2,320 / 1,795 / 2,012 / 2,169 / 1,805 / 2,096 / 2,444. RUN THE COUNT YOURSELF AND DO NOT CARRY EITHER FIGURE FORWARD.**
+- **--- ROW 9, 7, 9, 9, 9, 8, 11, 9, 11, 10, TOTAL 92, AND 93 IS THE PRE-REPAIR FIGURE AND IS SPENT.**
 - **DECLARED WORD 0053 *NEARLY*, AT 7 ACROSS TEN, AT 1/1/0/1/0/1/1/1/1/0. TWO CHAPTERS AT NIL. *NEARLY* IS NOW SPENT.**
-- ***SAID* 37 ACROSS TEN. LINES INSIDE QUOTATION MARKS 123 AND NO CHAPTER AT ZERO.**
+- ***SAID* 36 ACROSS TEN AND 37 IS THE PRE-REPAIR FIGURE AND IS SPENT. LINES INSIDE QUOTATION MARKS 122 AND NO CHAPTER AT ZERO.**
 - **DAY-COUNT CENSUS, BOTH HALVES PUBLISHED: NO NUMERAL PLUS SECONDS MINUTES HOURS DAYS OR WEEKS, NO CLOCK READING, *ELEVEN* AT ZERO, *FOUR YEARS* AT ZERO. WHAT SURVIVES IS AGE, DATE, COUNT OF ACTS, COUNT OF THINGS, DIMENSION. SPELLING BY 0047 METHOD: 1,199 DISTINCT FORMS, ZERO FIRST USES, ZERO MISSPELLINGS.**
 - **THE BANNED SWEEP AT ZERO WITH THE FULL THIRTY-THREE-WORD LIST PRINTED AND THE SIX-WORD SUBSTRING WATCHLIST PRINTED.**
 - **EXACT REPEATED SENTENCES OF EIGHT WORDS OR MORE INVOLVING ANY OF THE TEN: ZERO, ACROSS ALL 530 FILES.**
@@ -177,3 +177,32 @@ PARADE TWO SCHOOLS AS 0043. THIRD 0631 GIRL THIRTY-ONE ESTATE NEITHER 0045 0046 
 **SEVEN. WRITE workspace/volume-05/continuation-0055/PROMPT.md STOP. DO NOT CREATE TOUCH MOVE .done .blocked .retry-after .attempts. MARK RUNNER'S NOT WRITER'S.**
 
 **THE CLASS 0053'S REVIEW SHOULD LOOK FOR IF 0054 GETS ONE, NAMED HERE SO IT IS NAMED BEFORE IT IS WRITTEN. AN OBJECT IN TWO PLACES. A CAPS BLOCK THAT CONTRADICTS ITS OWN BODY, INCLUDING A SUBJECT LINE, A DATELINE, A ROSTER LINE, A TITLE AND **THE ORDER OF THE ACTIONS IN IT**. A DATE IN A CARD THAT IS NOT THE DATE ON THE PAGE. A CHAPTER THAT RE-STAGES A CANON CHAPTER'S SCENE NEARLY VERBATIM. A ROSTER LINE THAT ADDS OR OMITS A PERSON. A WORD COUNT PUBLISHED WITHOUT ITS METHOD. A COUNT OF CHAPTER FILES MADE BY ADDING TO A SENTENCE. A FIGURE AGE THAT CHANGED INSIDE A BLOCK. A RE-INTRODUCED SECRET AGAINST 0692. A CARD THAT SAYS A FIGURE ASKED A QUESTION AND THE BODY HAS HER ASKING NONE, OR THE OPPOSITE. **AND THREE THAT 0053'S REVIEW ADDED BECAUSE IT FOUND THEM: A WITNESS ASSERTED IN ONE CHAPTER WHO WAS NOT STAGED IN AN EARLIER CHAPTER THAT IS THE SCENE. AN OBJECT NAMED IN A LATER CHAPTER WITH A DIFFERENT NAME OR A DIFFERENT STATE THAN THE CHAPTER THAT PUT IT THERE. A LINE ASSERTED ABOUT SOMEONE ELSE'S HOUSE THAT THE FIGURE COULD NOT KNOW.** FIX THE CARD ONLY WHEN THE PROSE IS WRONG, AND SAY WHICH ONE YOU DID.**
+---
+
+# §10. ADDED BY THE REVIEW OF 0053. A WRITER OF 0054 SHOULD READ THIS BEFORE THE CAPS ABOVE, BECAUSE THE CAPS ABOVE WERE WRITTEN BY A WRITER AND TWO OF THE RULES IN THEM ARE NOW SPENT.
+
+These three paragraphs are in ordinary case on purpose. The caps above are hard to read and are kept only so that nothing already printed is quietly rewritten. Everything above §10 still governs. Nothing above §10 has been deleted, and no card, no date and no planned scene has been changed by this addition.
+
+## 10A. The closing ledger is spent. Do not open a chapter with one and do not end one with one.
+
+All ten chapters of 715–724 ended on the same three-part bold ledger — what was found, what was done with it, what was not done — with the wording varied and the shape identical. Ten for ten. The review called it a template defect and it was: a chapter that ends by summarising its own state has stopped being a scene. Every one of those ledgers has been removed and replaced with an action or a decision, and the work is in `reviews/volume-05/continuation-0053.md` with a table of what each chapter ends on now. Read that table before you write. It is the cheapest instruction in this block and it is the one with the largest effect on the page.
+
+The rule for 725–734 is simple. **End a chapter on something a person does, or on something a person decides not to do. Do not end one on a statement about the state of the household.** If you want a fact on the page, put it in the scene where it happens, and if you want it remembered, the scene will do it. If you genuinely cannot dramatize a fact, it belongs in the roster line under the dateline, which already exists for exactly that.
+
+## 10B. The all-caps hand-over is retired as a style. Facts stay.
+
+The caps are hard to read, they are expensive to check, and §6 to §9 of this prompt are almost entirely made of them. That is not being changed here, because changing the whole prompt would be rewriting another writer's work and there is no need. What changes is the output. **Write the state-file hand-over, the band file and the next prompt's cards in ordinary case, in sentences a person could read out loud.** Keep every fact. Keep every figure. Keep the counts and print the command that made them. Write short. The one thing caps are good for is making a fact impossible to skim past, and the cost of that is that nobody skims it at all, and a hand-over nobody reads is not a hand-over.
+
+## 10C. Three things the 0053 batch added to the page that §1 above does not yet carry.
+
+**One. The shop's telephone on the unit wall rang at ten past five on Thursday the twelfth of May, and the man in his early forties did not answer it.** It is the shop's own number, it had not made a sound in the unit in three months, it went about eleven times, there was no bell on the floor and no second bell in the passage, and there was nobody in the building. The cover was back on the wall with the two pairs of wire behind it, and he stood four foot away with a screwdriver and did not move. He did not put a note in the book and he did not get the mobile out. **A CHAPTER OF 0054 MAY PICK THIS UP, OR MAY NOT, AND IF NOT THEN A LATER WRITER MAY STILL PICK IT UP. HE DID NOT ANSWER IT AND THAT IS NOT OVERTURNED BY ANYBODY.** Nobody in this borough knows why it rang. The join at his plate is the third he has had in his hands and the only one of the three he cannot walk away from.
+
+**Two. There is a two-tread step stool in the corner of the unit by the paint.** It is not a step ladder and it is not a folding ladder and it is not in the front room at number twelve. He stood on the top tread on the eighteenth of April and saw that a quarter of an inch over six foot of a proud top run cannot be worked on from down there, and he got down and folded it and put it back in the corner. **This does not contradict his having told a stranger on the telephone that he has not got a step ladder, and no writer may make it contradict that.** If a ladder is needed in 0054, it is one of the four named in §1, or a fifth with the band file saying so first.
+
+**Three. The three and a half inches of tape left on the roll at number ten, and the empty hall line on the woman's invoice pad.** The roll is in the body of 0720 now and §1's arithmetic depends on it. The pad is in the body of 0721: she ruled the hall line and there was nothing to put under it, and that is the first job in ten months she has finished that she cannot put a mark on. A writer may use that line being empty again. A writer may not fill it in without the scene that fills it.
+
+## 10D. On the family question, which §0 and §9 have already asked twice.
+
+§0 says ask the human. Nobody has answered. **If nobody answers, the honest answer is that this block does not need a family, and the thirteen families from 595 to 724 are the evidence.** They are all one shape: an ordinary thing passed through ten chapters that nobody acts on, with a device that changes the mood and not the situation. Ten chapters of that is a texture, not a serial, and 530 chapters of it is why the review of 0053 called this volume formulaic.
+
+So: **725–734 may declare a family, or may not.** What it may not do is build ten chapters on a spread again, because the spread is the defect, whatever the thing in it is. If you do take a family, take one that somebody can be made to give up, and write the chapter where they do. If you do not take one, say so in the band file in one line and write ten scenes that each change the situation on their own. Either is defensible. Ten repetitions is not.

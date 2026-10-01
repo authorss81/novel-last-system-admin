@@ -150,8 +150,22 @@ He shuts the unit gate and it latches, and there is nothing in his pocket on eit
 
 ---
 
-**What he found:** two pairs of wire joined to each other at the plate of the telephone on the wall of his own unit, the same fault he has now been shown twice in two halls and once by his own hand, and about which he has not said one word out loud to anybody.
+The telephone on the wall by the office door goes when he is down to the last of the light and the gate bars are across and the van is outside with the doors shut.
 
-**What he did with it:** he wrote a telephone number on the back of a scrap of scribing card that has had nothing on it since before Christmas, and he rang a woman he has not rung since the spring, and he asked her two questions and got two answers back, and he put the cover on the wall before he left.
+He has the screwdriver in his hand and he is four foot from it and it is the shop's own number, and it has not made a sound in this unit in three months.
 
-**What is still open, and this is not a close:** the fault is in the walls of half a street and nobody who can put a right in will say so out loud to anybody who could hear them, a woman in a front room four streets away has a number in a machine and no pencil in her house, a piece of paper with three lines on it is under a stack of washing in a kitchen, a woman at a lock-up has a telephone in a bag she does not open, and two people in this borough who have both put their hands on the same two pairs of wire have spoken to each other once, for the length of a door coming off a frame, and hung up.
+It goes again.
+
+The cover is back on. Two turns of the blade, tight, the dust of somebody else's ceiling still caught in the join at the plate, and behind that cover there are two pairs of wire joined to each other, and that is three times in his working life, and all three of them were in a room with a floor in or a floor with a room under it.
+
+He stands there with the screwdriver and does not move.
+
+It goes about eleven times. He counts them, standing in the middle of his own unit, and there is nobody in the building and no bell on the floor and no second bell in the passage, and it is a telephone on a wall with a cover on it ringing because a line somewhere in this town has got a room on it.
+
+Then it stops, and the unit is quiet, and the radio is off and the van is outside with the doors shut.
+
+He puts the screwdriver down on the bench, and he does not put a note in the book, and he does not get the mobile out.
+
+There is a thing he could do about that telephone in about four minutes. It would cost him nothing. He has a card in his pocket with a number on it that he wrote this afternoon, and a woman at the other end of it who has taken these off walls and described one of them to him down a line, and he has had this join in his hand three times, and there is a bell under a floor in a house off the ring road under two nails he put in himself.
+
+And there is no version of that conversation in which he says the word bell out loud to anybody who could then be asked about it by somebody else.

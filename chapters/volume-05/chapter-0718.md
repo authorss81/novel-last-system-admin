@@ -142,12 +142,16 @@ He looks along the run at the front of the unit while he is out there, from the 
 
 The top run is still proud by about a quarter of an inch over its six foot. He has been at it since March and it is not less than when he started and it is not more, and on Monday it was very nearly the same as on the Thursday before that.
 
-He shuts the gate and it latches, and the shed is not his and the cottage is not his, and there is a ladder in this borough in a room at the end of somebody else's road that he has never seen and has never been told about, and the woman on the telephone this morning was looking for one.
-
 ---
 
-**What happened at the unit:** he worked a run of units that has been a quarter of an inch proud over six foot since March, and he let a call with no name on it go off twice, and he had a stretch of a woman's talking and a blank piece of card in his left hand and he did not write her number down.
+Then he goes and gets the step stool out of the corner by the paint, which is a thing with two treads and a handle, and he puts it up against that run and stands on the top tread and looks along the frontage from up there at the height of his own chest.
 
-**What he will not know:** that a woman on that call was asking after a step ladder, and that a folding ladder with a strip of tape round the second rail and a chalk mark on the third tread is folded under a window in a front room four streets away, put there on the seventeenth of December by somebody who cannot put it back and has never been able to say whose it was.
+From up there the quarter of an inch is not a quarter of an inch any more. From up there it is a gap you could lose a thumbnail in, and it goes the whole of the six foot without one good place in it.
 
-**What is still there:** the gates against the back wall, the posts in the ground at the cottage, the paid work, the latch stile that wants a pair of hands and a ladder, and the drawer under the bench with a brush in a bag in it, shut since the sixteenth of November.
+He stands on the top tread with his hand on the handle and looks at it for about as long as it takes him to decide he is not going to be able to do it from down there.
+
+Not at this height. There is a height you could do it from and he has not got a thing to do it from. He said so to a stranger on a telephone this morning without being asked, and he had not been on this stool when he said it, and the woman did not ask him why, and he did not ask her what she was after.
+
+He comes down off the stool, folds it, puts it back in the corner by the paint, and stands in the middle of the unit.
+
+The gate shuts and latches behind him, and the shed is not his and the cottage is not his, and there is a folding ladder in this borough somewhere that a man who goes into houses has never seen and has never been told about, and the woman on the telephone this morning was looking for one.

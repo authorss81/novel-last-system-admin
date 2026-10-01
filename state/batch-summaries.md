@@ -2332,3 +2332,17 @@ THE LADDER IS NOT OPENED OUT AND NOTHING IS PAINTED. THE FREEHOLDER DOES NOT ARR
 **WHAT A SECOND READER FOUND, GIVEN THE TEN PLUS EIGHT CANON CHAPTERS AND A FOURTEEN-POINT CHECKLIST.** TWENTY-TWO DEFECTS, ALL FIXED IN THE PROSE, THE MOST SERIOUS BEING THAT 0724 HAD ASSERTED A WITNESS INSIDE 0715'S SCENE, WHICH 0715 STAGES WITHOUT HIM. FULL RECORD AT `read_back_record` IN `workspace/volume-05/continuation-0053/bands-715-724.json`. THE SENTENCE CENSUS IS NOW AT **ZERO EXACT SENTENCES OF EIGHT WORDS OR MORE SHARED BETWEEN ANY TWO OF THE TEN, OR BETWEEN ANY ONE OF THE TEN AND ANY OTHER CHAPTER FILE.**
 
 **WHAT IS STILL OPEN AND IS NOT OURS.** THE MANUSCRIPT HAS LEFT THE NOVEL AND THE HUMAN DECISION IS SIXTY-FIFTH PROMPTS AND COUNTING. THE LINE IS CROSSED AND IS NEVER PUT RIGHT AND IS NEVER EXPLAINED. THE FREEHOLDER DOES NOT ARRIVE. NOBODY RINGS A FREE NUMBER. NOBODY RINGS THE MAN WHO BUILT THE STOOL. THE FREEHOLDER'S REPORT IS WITH A FREEHOLDER AND THAT IS NOT A RESOLUTION. **CARD 0724 IS NOT A CLOSE AND IS NOT CALLED ONE, AND NO CARD IN 715–724 MAY BE CALLED ONE.**
+
+---
+
+# BATCH 0053, CHAPTERS 715–724, AFTER THE REVIEW PASS
+
+The batch was not restarted and the plot was not changed. The family of the block is still a telephone that rings in the wrong house. One prose defect was found and fixed: all ten chapters ended on the same three-part bold ledger, in the same shape with the wording varied, and every one of those ledgers has been removed and replaced with an action or a decision. The table of what each chapter now ends on is in `reviews/volume-05/continuation-0053.md` and in `state/continuity.md`.
+
+**Two first drafts of the repair were wrong and were corrected before this was filed.** One placed the sister on the step at number twelve at a distance and a house, which 0692 forbids. One gave the man in his early forties knowledge of a ladder and a machine that he cannot have. Both are recorded in the continuity block and neither is on the page.
+
+**The counts, with the command.** `ls chapters/volume-05/chapter-*.md | wc -l` gives **530**, which is 724 minus 195 plus one, counted off the files and not added up, unchanged by this pass. `wc -w` over the ten gives **21,087**: 2,388 / 2,026 / 2,032 / 2,320 / 1,795 / 2,012 / 2,169 / 1,805 / 2,096 / 2,444. Rules per chapter, which must fall at a real change of place, time or turn: 9 / 7 / 9 / 9 / 9 / 8 / 11 / 9 / 11 / 10. Verbatim sentences of eight words or more repeated across different files: **zero, across all 530 files**, and zero inside any single file.
+
+**The family is not spent by this repair.** A telephone that rings in a house where the person it is for does not live is still the subject of 715 to 724 and a later writer may or may not spend it. What is spent is the *form*: the closing ledger, the all-caps hand-over as a style, and the rule that a block must declare a new family. Thirteen families from 595 to 724 are the same shape, and that is the reason the review called this stretch formulaic. All three retirements are in §10 of the 0054 prompt.
+
+**Still open, still not a writer's.** The manuscript left the novel and this is the sixty-sixth prompt to flag it. The page holds 530 chapter files against an on-page range of 195 to 242 and against a 720-chapter target, and volume 06 has no outline and no files. Nothing was rewritten to hide any of it. The review's own addition, which outranks the rest: the loop has no stop condition the writer can reach, and the runner's marker for halting is a `.blocked` file that a writer does not create.

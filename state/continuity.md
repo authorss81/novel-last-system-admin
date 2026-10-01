@@ -18234,3 +18234,49 @@ Short block about people. A woman keeps a floor to be stepped over and a gate to
 **§14 THE STANDING REFUSALS, ALL ELEVEN, NONE A TWELFTH, AND NONE TOUCHED.** NOBODY RESCUED. NOBODY EXPIRED. NOBODY COUNTED. NOBODY EXPIRES. **A REPORT IS WITH A FREEHOLDER AND THAT IS NOT A RESOLUTION AND THE FREEHOLDER DOES NOT ARRIVE IN THE NEXT BLOCK EITHER AND MAY NOT.** NOTHING RESOLVED ARRIVING AND NOTHING RESOLVED ACTING. NO ROOT TERM EXPIRES. NO RECLAMATION SEASON OPENS. THE CARD IS NOT IN THE SLOT AND IS NOT PUT UP. THE LETTER OF THE EIGHTEENTH OF FEBRUARY 2015 IS SEALED. **A STEP LADDER FOLDED IN A FRONT ROOM IS NOT A RESOLUTION AND IT WAS NOT OPENED OUT AND NO ROOM WAS PAINTED AND NO LOCK WAS TURNED AND NO BOX WAS OPENED AND NO DRAWER WITH LEADS OR SCREWS IN IT WAS OPENED.** THE ONLY DRAWER OPENED IN TEN CHAPTERS IS THE ONE UNDER THE WORKTOP AT NUMBER TEN, TWICE, AND WHAT CAME OUT OF IT WENT ONTO A TABLE AND STAYED THERE. **THE LINE IS CROSSED AND WAS NOT PUT RIGHT AND THE FAULT WAS NOT EXPLAINED TO ANY THIRD PERSON BY ANYBODY IN TEN CHAPTERS, AND THAT IS THE POINT.**
 
 **§15 THE HUMAN DECISIONS STILL OPEN, NONE OF THEM OURS.** THE VOLUME BOUNDARY. THE MANUSCRIPT HAS LEFT THE NOVEL. THE NAME OF THE CITY. WHAT VOLUME 05 IS CENTALLY. `state/phase-ledger.json`. **FLAGGED SIXTY-FIVE PROMPTS AND COUNTING.**
+
+---
+
+# CONTINUATION 0053, AFTER THE REVIEW PASS — WHAT CHANGED ON THE PAGE, IN PLAIN WORDS
+
+The batch was not restarted. No date moved, no card was rewritten, no title changed, no character was given a name, and the family of the block is still a telephone that rings in the wrong house. What follows is the record of the only prose change made, so that a later writer does not have to diff the chapters to find out what the endings now say.
+
+## The closing ledger is gone from all ten chapters, and what each chapter ends on
+
+Each of the ten chapters of 715 to 724 ended on a three-part bold ledger in the same shape with the wording varied. All ten have been rewritten at the end. The prose before the ending was not touched anywhere except in three places noted below.
+
+| Ch | Ends on | Ledger fact that had to survive, and where it went |
+|---|---|---|
+| 0715 | She comes round the van to the bench, sees the drawer, and does not open it with the man with the keys four foot away. Then the lights and a woman with a bag of shopping. | The drawer under the passenger bench with leads and screws in it, shut since the middle of November, was in the ledger and now is in the body, as the reason she puts the bag in the cab instead. |
+| 0716 | The boards go back over the hole, the bell is under it, he put two nails in a board and is not taking them out, and he did not use the camera. | The two nails are now the last action of the chapter. The camera is the thing he does not use. |
+| 0717 | Her thumb on the record button, which she does not press, and then the arithmetic that makes Friday a day she has to be in the house for. | The not-asking about the record button is now a choice at the machine. The withheld answer to the sister is now the arithmetic about who can ring her. |
+| 0718 | He stands on a two-tread step stool, sees the quarter inch cannot be worked from down there, and puts the stool back in the corner. | The ladder he will never know about is no longer narrated from outside his head. The reason he cannot finish the run is now a thing he looks at. |
+| 0719 | The jug lid with two layers of tape and a third she will not lay, and then the decision not to go out and look for the green bin. | The origin of the number, which was in the ledger as a jug lid and a cloth, is now in the scene. |
+| 0720 | She puts her coat on, goes out to her gate at dark, sees the light on in her sister's front room at number nine, and does not walk the ninety yards. | The paper under the washing and the empty drawer are in the body already. The not-going-round is now a walk to the gate and back. |
+| 0721 | She gets the invoice pad out, rules the hall line, and there is nothing to put under it. | The cheapest thing in the borough is now an empty line on a pad. Nothing ticked off anywhere. |
+| 0722 | The question he could have asked at the door, and does not, and then the mobile face down on the dash. | Not asking the woman whose kitchen it was is now a silence of about the length of a step on the landing. |
+| 0723 | The sister does not go. She stands at her own gate off down the road, is watched, does not call out, goes in, and a light goes off. | The number being nowhere is now the reason there is nothing to call out about. |
+| 0724 | The shop's telephone on his own wall rings near the end of the day, eleven times, and he does not answer it. | The five open threads that were in the ledger are gone as a list. The one thread his own POV can carry, the ringing, is now the scene. |
+
+## Three things that were drafted wrong in the repair and were corrected
+
+**The sister on the step at number twelve was placed.** A first version of 0723 put her ninety yards away and at number ten. 0692 forbids resolving which sister she is and the 0054 roster repeats the prohibition, so the distance and the house number were cut. She is now "off down the road" and "somewhere off down the road" and nowhere else.
+
+**The man in his early forties was given knowledge he cannot have.** A first version of 0724 had him thinking about a ladder folded under a window and a number in a machine. He has no way of knowing either. It now says what he has actually had his hands on: three joins, one of them his own wall, and a bell in a floor under two nails he put in himself. This also corrects the count. The old ledger said the fault had been shown to him "twice in two halls and once by his own hand" and the chapter now agrees with itself, at three.
+
+**A measurement was in a ledger and not in the body.** Three and a half inches of tape left on the roll at number ten was in the 0720 ledger only, and the 0054 roster does arithmetic with that figure. It is now in the body of 0720, where the tools come out of the drawer.
+
+## Two new physical facts, both small, both in the body
+
+- The shop's telephone on the unit wall rang near the end of the day on Thursday the twelfth of May, eleven times, and the chapter prints no clock time, because the 0053 band file forbids a closed clock reading in a body, and the man in his early forties did not answer it. The body of 0724 had already established that the telephone has not made a sound in the unit in three months. Nobody in the borough knows why it rang. The two pairs of wire are behind the cover, which was put back on at two turns before the light went.
+- There is a two-tread step stool in the corner of the unit by the paint. It is not a step ladder, not a folding ladder, and not the one at number twelve. He used it in 0718 and put it back. It does not contradict his having told a stranger on the eighteenth of April that he has not got a step ladder, and no later writer may make it contradict that.
+
+## What is fixed and may not be re-introduced
+
+The ten three-part ledgers are spent as a form. No chapter in 725 or after may open or close on what was found, what was done with it, and what was not done. The all-caps hand-over is spent as a style, though not as a source of facts. The rule that a block must declare a new family is spent; thirteen families from 595 to 724 are all the same shape and that is why this stretch of the volume is formulaic. All three are recorded in §10 of `workspace/volume-05/continuation-0054/PROMPT.md`.
+
+## What the review could not fix
+
+The volume is 482 chapters past the on-page end in `outline/volume-05.md` and 4 past the 720-chapter target in `NOVEL_SPEC.md`. The manuscript left the novel around chapter 0264 and nothing in 0053 changed that. The loop has no stop condition the writer can reach. All three need a human, and the marking of this is the sixty-fifth prompt to raise it. Nothing was rewritten to hide any of it.
+
+**ONE NOTE ON THE TWO SETS OF FIGURES IN THIS FILE, SO THAT A LATER WRITER IS NOT MISLED BY THE OLDER ONE.** The block immediately above this line, written by the 0053 writer before the review, publishes the word counts, the `---` row and the *said* census for chapters 715 to 724 **as they were first written**. They are a true record of the block as delivered and nothing has been deleted. **They are spent. The figures on the page are 21,087 by `wc -w` over the ten, and the `---` row is 9 / 7 / 9 / 9 / 9 / 8 / 11 / 9 / 11 / 10, and neither of those matches the older line.** The older line is kept because a published count that is quietly corrected without the correction being visible is how a wrong figure becomes canon. The `---` row fell in ten places and the two chapters that moved are 0716, which lost a rule when a summary paragraph came out of its last block, and 0722, which gained one when the question on the landing was staged as a beat. A rule that falls because a paragraph ended is a strip, and 0716 is now eight words of scene shorter at that point than it was, which is the honest reason and not a repair.
