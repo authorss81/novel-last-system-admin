@@ -126,7 +126,7 @@ And she said, "At the person it's on."
 
 And he said, "Which person."
 
-And she said, "A woman up this row has been telling people for weeks that the woman two doors down started it, and the woman two doors down has not. And there's a girl on Kenner Street on the estate who's never been in this borough and three people have said it about her and none of them has ever spoken to her."
+And she said, "A woman at number eight has been telling this row since the middle of March that the woman two doors down started it, and the woman two doors down has not. And there's a girl on Kenner Street on the estate who's never been in this borough and three people have said it about her and none of them has ever spoken to her."
 
 And he said, "You don't know that about the girl."
 
@@ -204,7 +204,7 @@ She has said where it started, and what she has not said is why she wanted to be
 
 And she has not been to number eight, and she is going to, and she does not know what she will say when she gets there, and she has known for about an hour now that she will say the same thing she said to the man with the plate, because it is the only sentence she has got that is both true and a reason.
 
-And there are two women in this borough who have spent the best part of a month being said about in five words they did not say, and one of them is on this road and can be reached by walking up it, and one of them is on an estate about a bus ride away and cannot be reached by anybody at all, including her.
+And there are two women in this borough who have been said about in five words they did not say since the middle of March, and one of them is on this road and can be reached by walking up it, and one of them is on an estate about a bus ride away and cannot be reached by anybody at all, including her.
 
 And she has done what she decided to do on Wednesday night at half past eight and it has not gone anywhere and it has not been allowed to go anywhere else.
 

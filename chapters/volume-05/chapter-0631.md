@@ -60,7 +60,7 @@ Here is why he is not, and he worked this out in about a minute and then spent t
 
 Because he got them off a young man who has the top of a house off a road of terraces and who said them first, at a door, about a fella who could not get a bin out, and the young man said them in the voice, and he said them twice, and he looked like a man who had been carrying them a long time and had not been told anything.
 
-And if this man goes round four streets and says *it came off me*, then within the week somebody in this borough is going to work out that the young man said it first.
+And if this man goes round four streets and says *it came off me*, then somebody in this borough is going to work out that the young man said it first.
 
 And then the young man is a man who said it first.
 
@@ -172,7 +172,7 @@ And he said, "I can't tell you that."
 
 And she said, "Why not."
 
-And he said, "Because then it'll be off somebody else in about a week and we'll be back where we started."
+And he said, "Because then it'll be off somebody else by the weekend and we'll be back where we started."
 
 And she said, "That makes sense."
 

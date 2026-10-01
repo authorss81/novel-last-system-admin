@@ -24,11 +24,11 @@ Two: it arrived as a whole thing. Nobody said it in pieces in front of him. It c
 
 Three: he has said it three times, and the three times are the reason he cannot put his hand on the first one, because the first one has been eaten by the other two.
 
-He said it in a kitchen at work in the week before last, to a man who was complaining about a supplier, and the man said *fair enough* and carried on, and he did not think about it again until the Tuesday.
+He said it in a kitchen at work, to a man who was complaining about a supplier, and the man said *fair enough* and carried on, and he did not think about it again until the Tuesday.
 
 He said it in a queue at the shop on the Saturday, to a woman he does not know, who was complaining about the rain and about something in her foot, and she said *that's right* and got served, and he did not think about it again until the Monday.
 
-And then on the Friday he heard himself say it for the third time inside a matter of weeks, to a man in a doorway, and he heard it come out of his own mouth in his own voice, and he stood outside a launderette and worked out that he had done it.
+And then on the Friday he heard himself say it for the third time, to a man in a doorway, and he heard it come out of his own mouth in his own voice, and he stood outside a launderette and worked out that he had done it.
 
 And he has a reason in his mouth that is not his and that he has handed out three times to people who did not ask for it.
 
@@ -144,7 +144,7 @@ She does not know. She will never know. She will go on telling it on this road f
 
 And he has got no way of stopping it. He could tell her. He could go down and say I made it up this evening and I did it on purpose to see if it came back, and she would believe him, and she would stop saying it, because she would want to know what she has been saying and why a man would want his bin story going.
 
-And if he does that, then in a month or so she will have decided between the two of them which one he is.
+And if he does that, then before long she will have decided between the two of them which one he is.
 
 And there is no version of the evening in which he gets to keep being a man who is all right to live on top of a woman who does his washing.
 

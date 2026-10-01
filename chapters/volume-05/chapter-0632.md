@@ -82,7 +82,7 @@ And she said, "No."
 
 And he said, "Are you sure?"
 
-And she said, "I've said it about three people since February and I gave up about a month ago. It's the reason I came up here, actually."
+And she said, "I've said it about three people since February and I gave up almost straight away. It's the reason I came up here, actually."
 
 And he said, "Why's it the reason?"
 

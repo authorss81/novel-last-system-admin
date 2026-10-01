@@ -64,7 +64,7 @@ On Sunday night he worked out what she had done and what it meant, and it took h
 
 She has gone round a row in this borough and put five words on herself in front of eight doors, and the five words are about him.
 
-He is a man in his early sixties with a bad back who cannot get a bin to a corner, and there is a woman at number six doing it now, and there is a woman at number eight who has spent a month telling the row that the woman two doors down started it, and none of that is about him and all of it came out of a kitchen in which he was the subject.
+He is a man in his early sixties with a bad back who cannot get a bin to a corner, and there is a woman at number six doing it now, and there is a woman at number eight who has been telling the row since the middle of March that the woman two doors down started it, and none of that is about him and all of it came out of a kitchen in which he was the subject.
 
 And he has decided something on Sunday night and he has not told her and he is going to tell her this afternoon.
 
@@ -108,7 +108,7 @@ And she said, "At the person it's on."
 
 And he said, "Which person."
 
-And she said, "A woman at number eight has spent a month telling that row it was the woman two doors down. And there's a girl on Kenner Street who's never been in this borough and about four people have said it about her."
+And she said, "A woman at number eight has been telling that row since the middle of March that it was the woman two doors down. And there's a girl on Kenner Street who's never been in this borough and about four people have said it about her."
 
 And he said, "You don't know about the girl."
 
@@ -236,7 +236,7 @@ And she said, "That's what it is. It got worse because I kept saying it. If I'd 
 
 And he said, "And you'd have got the bin back."
 
-And she said, "I'd have got the bin back and I'd have been wrong, and I'd have got it back inside a week instead of carrying it about since the first of March."
+And she said, "I'd have got the bin back and I'd have been wrong, and I'd have got it back straight away instead of carrying it about since the first of March."
 
 And he said, "And on Thursday you went round eight doors and told them the words came off you."
 
@@ -378,7 +378,7 @@ Three: and this is the one she cannot get round, and she has been going round it
 
 He has let it stand. He has had a street saying a thing about him that is half true for longer than he has wanted to count, and he has decided not to go round and clear it, and the reason he gave her is the woman at number eight and a girl on an estate.
 
-And she has spent weeks saying a thing about herself in eight doors that is also half true, and she did not do it for him, and she would not have done it if he had not been on the end of the row, and she has not been able to work out whether that makes it worse or just different.
+And she has been at this since the middle of March, saying a thing about herself in eight doors that is also half true, and she did not do it for him, and she would not have done it if he had not been on the end of the row, and she has not been able to work out whether that makes it worse or just different.
 
 And he is the only person in this borough who has the whole of it and he has split it in half and kept the half that suits her and handed her the other one, and told her to go and hand it out.
 
