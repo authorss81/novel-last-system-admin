@@ -1442,3 +1442,23 @@ Volume 05, February to April 2016 — **BATCH 0004'S CALENDAR, COUNTED FROM THE 
 - **THE STATE OF THE OBJECT, AFTER THE REPAIRS, IN ONE SENTENCE BECAUSE A LATER WRITER WILL GET IT WRONG.** A GAS ENVELOPE WITH SIX THINGS IN PENCIL ON THE BACK AND A ROOM-BY-ROOM JOB LIST ON THE FRONT AND THE TOP CORNER OF THAT FRONT LIST TORN OFF, AND FACE UP MEANS THE PENCIL SIDE UP.
 
 - **`workspace/volume-05/continuation-0047/PROMPT.md` EXISTS AND IS THE ONLY THING THIS RUN CREATED OUTSIDE THE CHAPTERS AND THE STATE FILES. IT IS WRITTEN FOR CHAPTERS 655 THROUGH 664, IT PRINTS THE WRITER-NAMED FAMILY AT ITS TOP IN THE WORDS 0042, 0043, 0044 AND 0045 USED, AND IT CARRIES A LADDER BUILT AND CHECKED ON THE REAL 2021 CALENDAR. A WRITER CREATED THAT PROMPT AND THEN STOPPED. NO `.done`, `.blocked`, `.retry-after` OR `.attempts` FILE WAS CREATED, TOUCHED OR MOVED.**
+
+---
+
+## THE STATE OF THE CITY AFTER CHAPTER 664, WEDNESDAY THE FIRST OF SEPTEMBER 2021
+
+**THE PAGE STANDS AT 664. CARD 0664 IS NOT A CLOSE AND IS NOT CALLED ONE. NO CARD IN 655 THROUGH 664 IS A CLOSE.**
+
+**ONE THING HAPPENED THIS SUMMER AND IT WAS SMALL.** A woman in her late forties freed the drops out of a gate at number twelve that had been painted in since before Christmas, and the gate now swings and does not come in on the path, and nobody has stood at it. Four of the six things in pencil on the back of a gas envelope on that kitchen table are done. Nothing is crossed off, because there is no pencil in that house and there has not been since before Christmas.
+
+**AND THE SAME WEEK, TWO TOOLS WERE BOUGHT OUT OF ONE SHOP ON THE RING ROAD BY TWO PEOPLE WHO DO NOT KNOW EACH OTHER, AND NEITHER TOOL WILL EVER TOUCH A GATE IN THIS BOROUGH AGAIN.** One of them is on a sideboard in a front room that has not been painted since before Christmas and then on the floor of the passage floor of that same house, in the middle, with the handle across the walking line, so that somebody will have to step over it or ask a woman of seventy-eight about it, and she has never in her life asked anybody for anything. The other is in a drawer under the bench of a van, in a plastic bag, and the drawer is still open.
+
+**AND A WOMAN OF SEVENTY-EIGHT HAS STOOD HER OWN GATE OPEN AGAINST A COAL SHED WALL WITH BOTH DROP BOLTS IN AN APRON POCKET, AND THERE IS NOBODY IN THE ROAD, AND HER FRONT DOOR DOES NOT LATCH AND NEVER HAS, AND THAT IS THE ONLY DIFFERENCE BETWEEN HER AND ANYBODY ELSE IN THIS BOROUGH.**
+
+**AND A HIGH LEVEL CISTERN IS WEEPING IN A ROOF SPACE AT NUMBER TWELVE, AND A WOMAN HAS PUT HER THUMB IN THE PLASTER UNDER THE BATHROOM CEILING AND HEARD IT, AND THE FIXTURE CANNOT BE REACHED FROM DOWNSTAIRS BECAUSE NOBODY IN THAT HOUSE HAS EVER LOOKED FOR WHERE THE PIPE COMES UP, AND THE LANDING ABOVE IT IS OVER THE FRONT ROOM.**
+
+**AND A WOMAN IN HER LATE FIFTIES HAS CARRIED A STOOL OUT OF HER KITCHEN INTO HER FRONT ROOM, AND A WOMAN IN HER EARLY THIRTYIES HAS HANDED A ROLL OF TAPE OVER AT A THRESHOLD AND GONE BACK DOWN THE ROAD, AND A MAN IN HIS EARLY FORTIES HAS SAID *NOTHING* AND FIFTY POUND AND HAS NOT CORRECTED EITHER.**
+
+**THE FIGURES, TAKEN OFF THE FILES.** 29,159 words over the ten chapter files, taken last, after every repair. A first figure of 29,105 was printed in the same run and was wrong by fifty-four words because four repairs were made after it was taken, and that is not a failure of the method, it is the method. *Enough* at ten, with four chapters at nil. *Said* at fifty-three against 261. The `---` row at 17, 19, 19, 20, 22, 18, 16, 21, 18 and 22, reported and not touched. Ten weekdays all right on the real 2021 calendar, gaps 4, 6, 3, 5, 4, 7, 3, 6, 4 and 5 off the two dates, span forty-seven days, and neither the ninth nor the eleventh of any month in a dateline.
+
+**WHAT IS STILL WRONG, AS A LIST.** The volume boundary is flagged in fifty-six consecutive prompts and count onward from fifty-six; a human may rule it in one line. The state files are past readable size and nothing may be deleted. The band file said the woman of seventy-eight was only referred to in 0659 and she is in the house; corrected. Six cards were wrong and are corrected in the band file and not in the prose. 0631's girl at number thirty-one is still unpaid and was not paid by 0045, 0046 or 0047 because no card gave it a line. `state/phase-ledger.json` is controller-owned and was not touched.
