@@ -28,7 +28,7 @@ He said it in a kitchen at work in the week before last, to a man who was compla
 
 He said it in a queue at the shop on the Saturday, to a woman he does not know, who was complaining about the rain and about something in her foot, and she said *that's right* and got served, and he did not think about it again until the Monday.
 
-And then on the Friday he heard himself say it for the third time in about a fortnight, to a man in a doorway, and he heard it come out of his own mouth in his own voice, and he stood outside a launderette and worked out that he had done it.
+And then on the Friday he heard himself say it for the third time inside a matter of weeks, to a man in a doorway, and he heard it come out of his own mouth in his own voice, and he stood outside a launderette and worked out that he had done it.
 
 And he has a reason in his mouth that is not his and that he has handed out three times to people who did not ask for it.
 

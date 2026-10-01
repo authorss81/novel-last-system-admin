@@ -184,7 +184,7 @@ And if she stands at eight doors and says it came off her, then it is about her.
 
 And she would rather it was about her. She has thought about that on and off since the Wednesday night and she has not found a version of it she would be able to say to the man on the step at number five, and there is not one coming, and she did not try.
 
-And the thing she was not going to tell anybody and did not tell him is that a woman at number eight said the five words to her husband about the bin, and a woman two doors down gave it to a man at number six, and neither of them knew it was a shape, and both of them went on carrying it afterwards.
+And the thing she was not going to tell anybody and did not tell him is that the woman at number six said a sentence out loud to the man in the house with her, and that a woman at number eight has been handing the same five words round this row since the middle of March, and neither of them knew it was a shape, and both of them have gone on carrying it afterwards.
 
 And she is not going to be the one who says that either, because the minute she says it, it stops being a sentence about a man and becomes a story about two women on a row who passed something on, and then it is on them, and she has seen what that is like from inside.
 

@@ -154,7 +154,7 @@ And he said, "I asked you."
 
 And she said, "You didn't."
 
-And he said, "In the February. On a Saturday. About a fortnight before."
+And he said, "In the February. On a Saturday. Before the month turned."
 
 And she said, "I don't know what you're talking about."
 
@@ -238,7 +238,7 @@ And he said, "And you'd have got the bin back."
 
 And she said, "I'd have got the bin back and I'd have been wrong, and I'd have got it back inside a week instead of carrying it about since the first of March."
 
-And he said, "And on Wednesday last week you went round eight doors and told them the words came off you."
+And he said, "And on Thursday you went round eight doors and told them the words came off you."
 
 And she said, "Yes."
 
@@ -376,9 +376,9 @@ Two: he did not use it against her. He did not say *you said I never ask and I d
 
 Three: and this is the one she cannot get round, and she has been going round it since half past two.
 
-He has let it stand. He has had a fortnight of a street saying a thing about him that is half true, and he has decided not to go round and clear it, and the reason he gave her is the woman at number eight and a girl on an estate.
+He has let it stand. He has had a street saying a thing about him that is half true for longer than he has wanted to count, and he has decided not to go round and clear it, and the reason he gave her is the woman at number eight and a girl on an estate.
 
-And she has spent a fortnight saying a thing about herself in eight doors that is also half true, and she did not do it for him, and she would not have done it if he had not been on the end of the row, and she has not been able to work out whether that makes it worse or just different.
+And she has spent weeks saying a thing about herself in eight doors that is also half true, and she did not do it for him, and she would not have done it if he had not been on the end of the row, and she has not been able to work out whether that makes it worse or just different.
 
 And he is the only person in this borough who has the whole of it and he has split it in half and kept the half that suits her and handed her the other one, and told her to go and hand it out.
 

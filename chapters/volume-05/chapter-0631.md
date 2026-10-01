@@ -16,7 +16,7 @@ One: a woman at the chip shop on the estate asked him whether he had heard about
 
 Two: he said he hadn't.
 
-Three: she said that the woman at number thirty-one never asks anybody for anything, and she is not the first one to say it and she had stopped at the shop and been told three times in a fortnight, and she wanted to know what it was all about because she has lived on that estate since she was a young woman and has never had a word with her and would not want to be somebody who goes round saying things.
+Three: she said that the woman at number thirty-one never asks anybody for anything, and she is not the first one to say it and she had stopped at the shop and been told three times over inside a few weeks, and she wanted to know what it was all about because she has lived on that estate since she was a young woman and has never had a word with her and would not want to be somebody who goes round saying things.
 
 And he said: don't.
 
@@ -34,13 +34,13 @@ The five words had stopped being a thing people said and had become a thing peop
 
 He has said it about a great many people. He has said it in the shop, at the school gates, in a doorway at the bottom of the hill, to a fella who was trying to sort out a leak, to the woman who runs the library, to a lad he fitted a door for and did not want to pay him.
 
-And out of all that, on an estate of four streets, three people in a fortnight have handed him a house number.
+And out of all that, on an estate of four streets, three people have handed him a house number, and all three of them did it inside a few weeks of each other, which is not the same thing as not knowing who to blame.
 
 And he knows why they have got a number, and here is the thing he has not said to anybody.
 
 It is because he said it about her.
 
-Not in the same five words, and he would not put it that way if anybody asked. But a fortnight ago he was in her street fitting a frame and a woman he did not know was at a gate on the other side of it, and he was not going anywhere and he said it, and he said it loud enough for her to hear, and he said it in the voice.
+Not in the same five words, and he would not put it that way if anybody asked. But in February, which is the month he cannot get to the end of now, he was in her street fitting a frame and a woman he did not know was at a gate on the other side of it, and he was not going anywhere and he said it, and he said it loud enough for her to hear, and he said it in the voice.
 
 He does not know her name. He has been past number thirty-one a hundred times and she has never had the gate open when he has been there.
 
@@ -58,7 +58,7 @@ And he is not going to say where he got them.
 
 Here is why he is not, and he worked this out in about a minute and then spent the rest of the night on it.
 
-Because he got them off a young man who has the top of a house off a road of terraces and who said them first, at a door, about a fella who could not get a bin out, and the young man said them in the voice, and he said them twice, and he looked like a man who had had them a fortnight and had not been told anything.
+Because he got them off a young man who has the top of a house off a road of terraces and who said them first, at a door, about a fella who could not get a bin out, and the young man said them in the voice, and he said them twice, and he looked like a man who had been carrying them a long time and had not been told anything.
 
 And if this man goes round four streets and says *it came off me*, then within the week somebody in this borough is going to work out that the young man said it first.
 
@@ -188,7 +188,7 @@ And she said, "I'm asking because you said the woman at number thirty-one never 
 
 And he stood on the step and he had the true reason right there and it was about nine inches away from his mouth.
 
-Because she has lived here since she was a girl and she is in her mid twenties and she has never asked anybody for anything and never been on a list anybody has made about her, and three people in a fortnight have said it about her, and two of them said it to him and he was one of the other two, and if he does not come up this path tonight then by the end of the month there will be a woman on this estate who has never spoken to her and does not know why she is angry.
+Because she has lived here since she was a girl and she is in her mid twenties and she has never asked anybody for anything and never been on a list anybody has made about her, and three people have said it about her in as many weeks, and two of them said it to him and he was one of the other two, and if he does not come up this path tonight then by the end of the month there will be a woman on this estate who has never spoken to her and does not know why she is angry.
 
 That is the reason and it is the reason he will give his own wife when he gets in.
 
@@ -196,7 +196,7 @@ What he said was, "Because there's nothing at the end of it."
 
 And she said, "What?"
 
-And he said, "Nothing's at the end of it. That's the whole of it. Five words that came off nobody and meant nobody and it's gone round four streets in a fortnight and there's not one person in this estate it's true of, and I know that because I've said it about six people and it's not true of one of them."
+And he said, "Nothing's at the end of it. That's the whole of it. Five words that came off nobody and meant nobody and it's gone round four streets faster than I can fit doors, and there's not one person in this estate it's true of, and I know that because I've said it about six people and it's not true of one of them."
 
 And she said, "Including me."
 

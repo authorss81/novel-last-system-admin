@@ -243,7 +243,7 @@ And she said, "Well," and she went away down the row with the envelope that she 
 
 He is going to have to go up there. That is not in doubt and it was not in doubt on the Saturday, and the reason he has not gone is the one he said out loud at about half past six on a Friday evening to a woman standing on his step, and he said it to her because she was the person who could not be asked a follow-up question about it.
 
-And it has cost him the bin on Wednesday and the Wednesday before that, and a fortnight of standing in his own road with the lid up.
+And it has cost him the bin on Wednesday and the Wednesday before that, and him standing in his own road with the lid up until it stops being a thing a man does and starts being the weather.
 
 And he would have gone on Friday if she had not asked him why, and she asked him why, and he gave her a reason that was the answer to a question nobody had put, because it was the true one and the true one was about Saturday and not about her.
 

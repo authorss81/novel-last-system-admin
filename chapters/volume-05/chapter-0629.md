@@ -140,7 +140,7 @@ She did the washing. She went out to the parade because she wanted milk.
 
 And that is the whole of what happened and she has had it over since and it is the only part of the day she would call a coincidence, and she does not believe in coincidence and she has never said so out loud in her life.
 
-She was in the queue at the shop on the parade at about a quarter to twelve with her basket at her feet and there was a man in front of her she has never spoken to and a woman in front of him she has never spoken to, and they were talking about a third person who is not on the page and has not been on the page and never will be.
+She was in the queue at the shop on the parade at about a quarter to twelve with her basket at her feet and there was a man in front of her she has never spoken to and a woman in front of him she has never spoken to, and they were talking about a third person that neither of them had ever spoken to and that she was never going to know one thing about.
 
 And the man said, "I just don't think it's on."
 
@@ -220,7 +220,7 @@ And she said, "I said nothing."
 
 And he said, "You've said something. You've said it twice now and both times you've stopped. Go on."
 
-And she said, "You're going to ask a woman at number fifty-one and she is going to do it and she is not going to have known me a fortnight, and you'll never know whether she asked you or not."
+And she said, "You're going to ask a woman at number fifty-one and she is going to do it and she is not going to have known me from before, and you'll never know whether she asked you or not."
 
 And he said, "Is that an objection?"
 

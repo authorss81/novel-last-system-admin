@@ -6,7 +6,7 @@ It is Monday the first of March 2021 and it is in this borough, and it starts be
 
 She is a woman in her late thirties. He is a man in his mid forties. They have the end house of a terrace off a road that runs up off the top of a parade, and the bins on that road come out on a Wednesday morning and go back on the same night.
 
-The bin next door has a red lid that does not shut all the way and it does not matter that it does not shut, because it has not been shut properly since before they came.
+The bin two doors up has a red lid that does not shut all the way and it does not matter that it does not shut, because it has not been shut properly since before they came.
 
 ---
 
@@ -138,7 +138,7 @@ And she said, "It was quiet."
 
 And the woman said, "Right," and went back to what she was doing, and she has not mentioned it again, and that was the whole of what happened at work.
 
-At about half past three the man next door came out.
+At about half past three the man at the end of the row came out.
 
 She was on the other side of the road with the shopping and she watched him stand at his gate with his hand on the bin, and then go back in and shut the door.
 
@@ -282,4 +282,4 @@ And she is not going to say that to anybody, and she is not going to go round an
 
 And she is not going to write down that she has said a thing four times, and she has thought about writing it down, and she would not have had the sentence in her head at all if he had not asked her four times what the thing was.
 
-**SHE DECIDED IT ON SUNDAY NIGHT, AND SHE TOLD HER HUSBAND ON MONDAY MORNING THAT HE HAS NEVER ONCE ASKED HER, AND THE MAN NEXT DOOR PUT THE BIN OUT ON THE THURSDAY EARLY AND UNTIED, AND SHE WATCHED IT GO DOWN THE ROW FROM AN UPSTAIRS WINDOW, AND BY HER OWN COUNT SHE HAS SAID THE REASON AS MANY AS FOUR TIMES AND COULD HAVE GIVEN A BETTER ONE AT ANY POINT IN THE WEEK, AND THE BETTER ONE WAS THAT SHE WOULD HAVE SAID YES.**
+**SHE DECIDED IT ON SUNDAY NIGHT, AND SHE TOLD HER HUSBAND ON MONDAY MORNING THAT HE HAS NEVER ONCE ASKED HER, AND THE MAN AT THE END OF THE ROW PUT THE BIN OUT ON THE THURSDAY EARLY AND UNTIED, AND SHE WATCHED IT GO DOWN THE ROW FROM AN UPSTAIRS WINDOW, AND BY HER OWN COUNT SHE HAS SAID THE REASON AS MANY AS FOUR TIMES AND COULD HAVE GIVEN A BETTER ONE AT ANY POINT IN THE WEEK, AND THE BETTER ONE WAS THAT SHE WOULD HAVE SAID YES.**

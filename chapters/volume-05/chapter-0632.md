@@ -2,7 +2,7 @@
 
 Saturday the third of April 2021. She is on a bus at about a quarter past nine in the morning in this borough and she is on the same bus back at about half past two in the afternoon, and the whole of it is one old man and one question she did not think she was going to have to ask twice.
 
-**A WOMAN HAS HEARD THE FIVE WORDS FROM TWO PEOPLE WHO EACH SAID THEY GOT THEM OFF A MAN AT NUMBER FOUR ON A ROAD AT THE TOP OF THE HILL, AND SHE HAS DECIDED TO GO UP THERE AND ASK HIM WHERE HE GOT THEM, AND HE GIVES HER A REASON FOR HAVING SAID THEM AT ALL AND SHE COULD NOT MAKE IT SMALLER THAN IT WAS ON THE WAY DOWN, AND THE ONLY THING HE WILL TELL HER IS THE NAME OF ANOTHER MAN, AND THAT MAN WILL NOT SAY WHERE HE GOT THEM.**
+**A WOMAN HAS HEARD THE FIVE WORDS FROM TWO PEOPLE WHO EACH SAID THEY GOT THEM OFF A MAN AT NUMBER FOUR ON A ROAD AT THE TOP OF THE HILL, AND SHE HAS DECIDED TO GO UP THERE AND ASK HIM WHERE HE GOT THEM, AND HE GIVES HER A REASON FOR HAVING SAID THEM AT ALL AND SHE COULD NOT MAKE IT SMALLER THAN IT WAS ON THE WAY DOWN, AND THE ONLY THING HE WILL TELL HER IS THAT ANOTHER MAN SAID THEM FIRST, AND THAT MAN WILL NOT SAY WHERE HE GOT THEM.**
 
 She is a woman in her mid fifties. He is a man in his early seventies. She has known him to nod at for as long as she has been on that road and has never been inside his house and has never wanted to and has wanted to since the Friday.
 
@@ -240,7 +240,7 @@ And here is what she found, and she has found it properly and she has not gone r
 
 The girl at number thirty-one does not need her to say it. That is the finding and it took her in her own kitchen without sitting down and she could have had it on Friday night on this bus and did not.
 
-Because the old man at number four said it to the girl. She said it in the doorway as an example. She said *I've said it about six people* and *once about me* and the six and the one were said at number thirty-one on the Tuesday evening by a man in a van, and the girl heard them the same way she heard them from the woman at the depot.
+Because the man in the van said them to the girl on her own step, out loud, as an example. He said *I've said it about six people* and *once about me*, and the girl heard them the same way she heard them from the woman at the depot.
 
 So she has been carrying a fact since Friday that is worth nothing at the other end, because the girl at number thirty-one has got both halves of it already and got them first, and she got them from the man in the van.
 
