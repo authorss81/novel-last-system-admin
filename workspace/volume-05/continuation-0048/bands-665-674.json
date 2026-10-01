@@ -1,0 +1,92 @@
+{
+  "written": "BEFORE ANY PROSE OF 665-674 EXISTS. THE PROSE WINS. WHERE THE PROSE AND A CARD DISAGREE, THIS FILE IS CORRECTED TO MATCH THE CHAPTER AND NOT THE CHAPTER TO MATCH THE CARD. READ-BACK TO BE DONE BY OPENING EACH OF THE TEN FILES AND READING THEM, TWICE.",
+  "why": "Eight allocation files in eight blocks had to be corrected afterward. This file is the declaration. It was written first.",
+  "the_human_question_which_outranks_everything_else_in_this_file": "A HUMAN IS ASKED, IN ONE SENTENCE, WHAT CHAPTERS 665 THROUGH 674 ARE ABOUT, AND NO HUMAN ANSWERED. NO HUMAN ANSWERED THE SAME QUESTION FOR 655 THROUGH 664. THE FAMILY BELOW IS THEREFORE A WRITER'S AND IS FLAGGED AS ONE, IN THE SAME WORDS 0042, 0043, 0044, 0045, 0046 AND 0047 FLAGGED THEIRS, AND IT IS THE SEVENTH FAMILY SPENT BY A WRITER AND NONE BY A HUMAN.",
+  "family": {
+    "name": "THE ROOM SHE WILL NOT SIT IN AND THE GATE SHE WILL NOT SHUT",
+    "named_by_a_human": false,
+    "one_sentence": "A woman of seventy-eight keeps a gate standing open and a brush on a passage floor and stops sitting in a front room, and four other people work round those three facts without asking about any of them, and water from a roof space reaches the ceiling of the room she will not sit in.",
+    "test_against_595_604": "It cannot be summed as someone did a small thing and it went nowhere, because a gate standing open and a ceiling taking water go on working after they are left alone.",
+    "test_against_605_614": "It cannot be summed as somebody carried a thing they could not put down, because the brush is down on the first page and stays down and nobody carries it.",
+    "test_against_615_624": "It cannot be summed as somebody was told a thing they could not place, because nobody is told anything in ten chapters.",
+    "test_against_625_634": "It cannot be summed as someone decided something and was asked why and gave a reason, because nobody in ten chapters is asked why, not once.",
+    "test_against_635_644": "It cannot be summed as somebody brought a thing to a person and somebody else brought another and the person had to lie about it, because nothing is brought twice and there is no lie in ten chapters.",
+    "test_against_645_654": "It cannot be summed as a woman wrote things down and the paper went out of her house and nobody asked why it was in that order and she explained unasked, because the gas envelope stays face up on the kitchen table square with the edge and is not picked up once.",
+    "test_against_655_664": "It cannot be summed as a wire brush named in a kitchen carried through ten chapters arriving where it was not meant to go, because the brush starts where it ended and never moves.",
+    "the_device": "WATER FROM A ROOF SPACE PASSES THROUGH TEN CHAPTERS AND EVERY CHAPTER IS CONSTRAINED BY THE ONE BEFORE IT, AND THE PROOF IS NOT A COUNT BUT WATER ARRIVING WHERE IT WAS NOT MEANT TO GO, IN THE CEILING OF THE FRONT ROOM. THE BRUSH, THE ENVELOPE, THE STOOL, THE GREEN CHAIR AND THE RUSH-SEATED CHAIR EACH STAY IN EXACTLY ONE PLACE.",
+    "the_engine": "SOMEBODY COULD HAVE ASKED AND DID NOT AND THE NOT-ASKING COSTS SOMETHING VISIBLE, AND THE RESISTANCE MOVES INSIDE THE PERSON AND NOT OUTSIDE. THE FIVE-WORD SENTENCE OF 0044 IS SPENT AND IS NOT RE-USED.",
+    "the_finding_it_is_built_on": "FROM 0044 AND FROM 0045, BOTH STANDING. A BATCH CAN BE BUILT AS ONE SPREAD IN WHICH AN ORDINARY THING PASSES THROUGH EVERY CHAPTER AND EVERY CHAPTER CONSTRAINS THE ONE AFTER IT."
+  },
+  "declared_ordinary_word": "still",
+  "declared_ordinary_word_note": "DECLARED IN THIS FILE BEFORE CHAPTER 0665 WAS WRITTEN. COUNTED WHOLE WORD ON WORD BOUNDARIES ACROSS THE TEN CHAPTER FILES AFTER EVERY REPAIR. NOT NURSED IN EITHER DIRECTION. SPENT WORDS ARE USUALLY, ANYWAY, LIKE, JUST AND ENOUGH.",
+  "ladder": {
+    "rule": "three to seven days between chapters, none on the ninth or the eleventh of a month, no two sharing a date, none before Saturday the fourth of September 2021",
+    "floor_derived_from": "0664, which is Wednesday the first of September 2021. A gap of three to seven days from that date puts the earliest permitted 0665 at Saturday the fourth of September 2021, and 0665 is put ON the floor.",
+    "chapters": {
+      "0665": "Saturday 4 September 2021",
+      "0666": "Tuesday 7 September 2021",
+      "0667": "Monday 13 September 2021",
+      "0668": "Friday 17 September 2021",
+      "0669": "Wednesday 22 September 2021",
+      "0670": "Saturday 25 September 2021",
+      "0671": "Saturday 2 October 2021",
+      "0672": "Wednesday 6 October 2021",
+      "0673": "Tuesday 12 October 2021",
+      "0674": "Friday 15 October 2021"
+    },
+    "incoming_gap_from_0664": 3,
+    "gaps_inside_the_batch": [3, 6, 4, 5, 3, 7, 4, 6, 3],
+    "count_note": "Nine inside and one coming in. THE TEN INCLUDING THE INCOMING ARE 3, 3, 6, 4, 5, 3, 7, 4, 6 AND 3. ADDED UP OFF TWO DATES AND NOT OFF A LIST.",
+    "count_of_gaps": 10,
+    "span_days_from_0664": 44,
+    "weekdays_checked_on_the_real_2021_calendar": "1 SEP 2021 IS WEDNESDAY. 2 THU, 3 FRI, 4 SAT, 5 SUN, 6 MON, 7 TUE, 8 WED, 9 THU, 10 FRI, 11 SAT, 12 SUN, 13 MON, 14 TUE, 15 WED, 16 THU, 17 FRI, 18 SAT, 19 SUN, 20 MON, 21 TUE, 22 WED, 23 THU, 24 FRI, 25 SAT, 26 SUN, 27 MON, 28 TUE, 29 WED, 30 THU. 1 OCT FRI, 2 SAT, 3 SUN, 4 MON, 5 TUE, 6 WED, 7 THU, 8 FRI, 9 SAT, 10 SUN, 11 MON, 12 TUE, 13 WED, 14 THU, 15 FRI.",
+    "closed_figures_in_datelines": "NONE. 4, 7, 13, 17, 22, 25 SEPTEMBER AND 2, 6, 12, 15 OCTOBER. NEITHER THE NINTH NOR THE ELEVENTH APPEARS.",
+    "bound_added_up_and_not_copied": {
+      "strict_pair_from_0664": "Off Wednesday the first of September 2021, ten gaps of three to seven days span thirty to seventy days. Thirty days is four weeks and two days and moves the weekday on by two, so it is Friday the first of October 2021. Seventy days is ten weeks exactly and does not move it at all, so it is Wednesday the tenth of November 2021.",
+      "loose_pair_from_the_declared_floor": "Off Saturday the fourth of September 2021, plus nine internal gaps of three to seven days, smallest sum twenty-seven days is Friday the first of October 2021 and largest sum sixty-three days is Saturday the sixth of November 2021.",
+      "which_binds": "THE STRICT PAIR. THE TWO READINGS TIE AT THE EARLY END AND THE STRICT PAIR IS FOUR DAYS WIDER AT THE LATE END, SO THE STRICT PAIR BINDS.",
+      "where_the_tenth_chapter_falls": "Friday the fifteenth of October 2021 is inside the strict pair by a distance of about three weeks and inside the loose pair by about three weeks."
+    }
+  },
+  "bands": {
+    "roster": "FIVE FIGURES CARRY THIS BATCH AND THE SIXTH SITS IT OUT. A WOMAN IN HER LATE SEVENTIES AT NUMBER TWELVE. A WOMAN IN HER LATE FORTIES WHO CLEARS HOUSES. A MAN IN HIS EARLY FORTIES WHO BUILT THE STOOL. A WOMAN IN HER LATE FIFTIES AT NUMBER NINE. A WOMAN IN HER EARLY THIRTIES AT NUMBER TEN, THE SISTER.",
+    "who_sits_this_batch_out_and_why": "THE MAN IN HIS LATE TWENTIES ON THE FAR SIDE OF THE RING ROAD IS NOT IN THESE TEN CHAPTERS. HE HOLDS THE SIXTH BAND AND GIVING HIM A CHAPTER WOULD BE THE MOST OBVIOUS THEFT AVAILABLE.",
+    "per_chapter": {
+      "0665": "late seventies",
+      "0666": "late forties",
+      "0667": "early forties",
+      "0668": "late fifties",
+      "0669": "early thirties",
+      "0670": "late seventies",
+      "0671": "late forties",
+      "0672": "early forties",
+      "0673": "late seventies",
+      "0674": "late seventies"
+    },
+    "collisions_inside_batch": "NONE. SAME FIGURE SAME BAND ON RETURNS. NO BAND IS FIRST HELD IN A LATER CHAPTER THAN THE ONE THAT HELD IT. WHERE A FIGURE IS IN A ROOM AND THE CARD DOES NOT ASK FOR HER, SHE IS NOT AGED AND THE FILE SAYS SO.",
+    "presents_without_age": "0666 sister is not present. 0668 sister is in the room for part of the night and is deliberately not aged because she held early thirties at 0669 is later than 0668, so to avoid first-held-later she is left unaged in 0668 and the prose gives her no age. 0670 woman in late forties is referred to only as hands in a memory and is not aged. 0672 woman in late seventies is seen from a van at a window and is not aged. 0674 sister and woman at number nine are seen only as lights and are not aged.",
+    "carried_forward_bans": "EARLY FIFTIES AND LATE FIFTIES MAY NOT BE GIVEN TO ANY NEW FIGURE. LATE FIFTIES IS GIVEN ONCE AND TO THE EXISTING WOMAN AT NUMBER NINE."
+  },
+  "cards": {
+    "0665": "A woman in her late seventies steps over a brush on her passage floor on a Saturday morning to reach her kitchen, and decides the gate she stood open three days past will stay open, and her goal is to get through the morning without going into the front room, and the resistance is the bathroom ceiling mark she found in August which is darker, and the change is she looks up at the landing ceiling from the half landing and sees the damp has got to the edge above the front room, and she comes down without touching anything.",
+    "0666": "A woman in her late forties opens a shut drawer under a bench in her van on a Tuesday and looks at a bolster on top of leads and a tin of screws, and her goal is to keep the drawer shut by finding work the bolster can do elsewhere, and the resistance is cuts inside both palms still tender and a plaster on one, and the change is she uses the bolster on a house nowhere near that road and puts it back and shuts the drawer again, and the drawer being shut is still the first shut thing in that van.",
+    "0667": "A man in his early forties looks at a shoebox with a stove element in it on top of his bench in a unit on a Monday, and his goal is to get through a job without opening an under-bench drawer that is still open with a new brush in a plastic bag in it, and the resistance is the brush is exactly where he left it and he does not want it, and the change is he works round the drawer all morning and leaves it open, and he does not drive up that road.",
+    "0668": "A woman in her late fifties sits in her front room at number nine on a Friday night with a stool against the wall opposite the window with a chair on one side and a settee on the other, and her goal is to dust round the stool without moving it into use, and the resistance is her sister at the table with a council form and talk of a light put in up the road, and the change is she leaves the stool where it is looked at and not sat on, and she does not go up that road.",
+    "0669": "A woman in her early thirties at number ten washes up after her sister has gone on a Wednesday, and her goal is to mend a curtain rail without asking anything up the road, and the resistance is the memory of a minute with an open door in July when she said the tape and not the chair, and the change is she mends what is hers and puts the tools away, and she does not knock.",
+    "0670": "A woman in her late seventies empties a folded cloth out of a bowl under a bath tap on a Saturday, and her goal is to get the bowl empty without looking at the ceiling, and the resistance is the brown mark is wider and the edge is harder, and the change is she looks and sees grit come away on her thumb and puts the cloth back, and the front room and the tap are one thing in her head for the first time since August.",
+    "0671": "A woman in her late forties drives past the end of that road on a Saturday without turning in, and her goal is to price a clearance without using paper that is not hers, and the resistance is the memory of writing on the back of a gas envelope in June and losing the corner to tape, and the change is she writes on her own pad on her knee in the van and the pad stays in the van, and she does not go back for anything.",
+    "0672": "A man in his early forties stops his van at the end of that road on a Wednesday without getting out, and his goal is to see whether a gate he has never touched since June is still standing open, and the resistance is if he gets out he takes back what the woman said she would do, and the change is he sees the gate is still back against the coal shed wall from inside the van and drives on, and nobody sees him.",
+    "0673": "A woman in her late seventies goes up her own stairs with a torch on a Tuesday and looks at a hatch and a fixed ladder over the landing, and her goal is to hear whether a cistern at the far side of a joist is still weeping without going up the ladder, and the resistance is she cannot get at it and cannot ask anybody to get at it, and the change is she hears it and comes down and sits at the kitchen table under the window on the green chair with the cushion on it, and the gas envelope is still face up square with the edge.",
+    "0674": "A woman in her late seventies stands in her passage on a Friday and looks at a brush in the middle of the runner with the handle across the walking line, and her goal is to get to the kitchen without moving it, and the resistance is a damp patch now showing on the front room ceiling which is the room she will not sit in, and the change is she steps over the brush and goes round the side and looks at a gate standing open with both bolts in an apron pocket and comes back in and shuts the front door, and nothing is crossed off because there is no pencil in that house."
+  },
+  "prohibitions_honoured_in_this_file": {
+    "system": "NO SYSTEM NOTICE, NO MARGIN, NO LENS, NO PERMISSION, NO TERM, NO BEARER, NO HOLDING, NO CLAIM, NO SEAL, NO LATTICE, NO SEAM, IN ANY FORM, INCLUDING ALLUSION. WORDS HOLD, HOLDING, CLAIM AND COUNTER AT ZERO ON WORD BOUNDARIES.",
+    "names": "NO HUMAN PERSONAL NAME.",
+    "said": "NO SAID BUILDING. THE DECLARED WORD IS STILL.",
+    "this_chapter": "THE PHRASE IS NOT WRITTEN IN ANY CHAPTER. WRITE THE MORNING, OR THE KITCHEN, OR THE STAIRS, OR THE GATE.",
+    "day_counts": "NO DAY-COUNT IN ANY CHAPTER IN ANY BLOCK, AND NO CLOCK TIME THAT IS A CLOSED FIGURE. NO CHAPTER ON THE NINTH OR THE ELEVENTH.",
+    "standing_refusals": "ELEVEN, UNCHANGED."
+  },
+  "figure_that_binds": "THE ROOM SHE WILL NOT SIT IN AND THE GATE SHE WILL NOT SHUT. THE BRUSH STAYS ON THE PASSAGE FLOOR, THE ENVELOPE STAYS ON THE KITCHEN TABLE, THE STOOL STAYS IN THE FRONT ROOM AT NUMBER NINE, THE GREEN CHAIR STAYS AT THE KITCHEN TABLE, THE RUSH-SEATED CHAIR STAYS IN THE FRONT ROOM AT NUMBER TWELVE, THE GATE STAYS OPEN.",
+  "movement": "NOTHING IS RESCUED AND NOTHING IS RESOLVED BY ARRIVING OR BY ACTING. WATER GETS NEARER THE FRONT ROOM. FOUR OF SIX STAYS FOUR OF SIX."
+}

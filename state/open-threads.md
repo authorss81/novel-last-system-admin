@@ -5548,3 +5548,8 @@ WOMEN: LATE FORTIES, THE WOMAN WHO CLEARS HOUSES, WHO HAS MENDED BOTH PIECES OF 
 - **THE VOLUME BOUNDARY, IN FIFTY-SIX CONSECUTIVE PROMPTS NOW, AND COUNTING ONWARD FROM FIFTY-SIX.** The outline says Volume 05 is 193–240. The page holds 195 through 664. 242 is used by nobody. No chapter is moved, no outline is rewritten, no Volume 06 outline exists, and no volume-close prompt may be written by a writer. **A HUMAN MAY RULE IT IN ONE LINE AND NOTHING IN THIS BLOCK WAITING ON ANYTHING BUT THAT.**
 - **THE MAN IN HIS LATE TWENTIES, ON THE FAR SIDE OF THE RING ROAD.** Not in these ten chapters. He said *right* and did not ask to see and will never know, and the woman in her late forties got about twelve pounds off that job out of him by telling nobody how.
 - **THE THREE COINCIDENCES.** Two are as 0043 left them. One is 0631's girl. None of them has been paid off in seven blocks and the reason is a cards problem and not a writer's problem.
+
+
+## VOLUME 05 OPEN THREADS — after Continuation 0048, Chapter 674
+
+- Brush middle runner handle across unwashed stepped over. Second brush open drawer plastic bag. Bolster shut drawer leads screws first shut still shut. Gate open coal shed bolts apron pocket nobody road door not latch. Front room not painted question she will not sit in patch inside door water come through. Cistern weeping beyond joist pipe never looked for. Second list front paper corner gone neither can write again coat pocket skip. No pencil four done nothing crossed. Thank you stool three oak one ash looked at. Fifty pound nothing uncorrected. Bench agreement gone. Cuts plaster one. Parade schools as 0043. Girl thirty-one estate unpaid no card line. Boundary fifty-seven onward human rules. Man late twenties not in ten.

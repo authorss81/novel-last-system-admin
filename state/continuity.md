@@ -18042,3 +18042,8 @@ THE ORDER IS NOT IN FORCE. NOBODY IS RESCUED. NOBODY IS EXPIRED. NOBODY IS COUNT
 **`chapter-0659.md` IS 3,543 WORDS, THE LONGEST IN VOLUME 05, AGAINST THE 2,200–3,200 GUIDE IN `PHASE_SYSTEM.md`. IT IS NOT A CHAPTER OF THIS BATCH AND IT WAS NOT TOUCHED AND IT IS REPORTED TO A HUMAN.**
 
 **`state/phase-ledger.json` AND EVERY FILE UNDER `scripts/`, `.github/` AND `.opencode/agent/` ARE CONTROLLER-OWNED AND WERE NOT OPENED.** NOTHING WAS DELETED FROM ANY STATE FILE. THE FOUR UNBALANCED `**` PARAGRAPHS THAT THE FOURTH PASS INTRODUCED WERE CLOSED, ALONG WITH FIVE THAT WERE ALREADY ODD IN THE SAME BLOCKS, BECAUSE A REPAIR THAT BREAKS THE MARKDOWN OF THE FILE IT IS REPAIRING IS NOT A REPAIR, AND BECAUSE A HAND-OVER NOBODY CAN PARSE IS A HAND-OVER NOBODY READS.**
+
+
+## VOLUME 05, CONTINUATION 0048 — CHAPTERS 665–674
+
+Short block about people. A woman keeps a floor to be stepped over and a gate to stay open and stops sitting where water is coming. A clearer keeps a drawer shut and paper her own. A maker leaves a drawer open and drives past without getting out. A woman keeps a stool where it is looked at. A sister mends her own. Water reaches a front room ceiling. Four of six stays four. 11,779 words *still* 41 *said* 8 `---` 18,18,18,18,16,18,16,16,16,18. No banned words. No names. No day-counts. No 9/11. Man late twenties sits out. Findings still open: boundary needs human; files too big nothing deleted; girl thirty-one unpaid no card; brush envelope stool chairs each one place — moved only on page.

@@ -3193,3 +3193,20 @@ One slow-burn relationship only: Jonas and Sanaa. Volume 01 produced a refusal i
 **THE WOMAN IN HER EARLY THIRTYIES AT NUMBER TEN, THE SISTER.** *In* her own back bedroom and then on a step three doors down. *Taped* a window in May and was told *no* in three seconds about a gate and did not ask why. *Was let in* once when she was nineteen and stayed too long, and has not worked out since that the reason she was never sent away is that nobody in that house can send anybody away. *Carried* a roll of brown tape in a coat pocket for three evenings and *went up* three doors on the twenty-ninth of July because the top corner of the sheet she had put on in May had come away. *Knocked* and the door came away from the frame under her knuckles. *Stood* on the step for about a minute with an open door onto the only room in that house she has any business in, and *used all of it on a corner of glass*, and *did not say* the one question anybody has for that house, which is about a rush-seated chair against a wall and a green chair at a kitchen table. *Put* a roll of tape into the woman's hand and *said* *I've got about half of a roll left anyway*, which is a lie about the roll, and *did not cross the threshold again*. *Went* back down three doors with nothing in her hands and *stopped in the road* and worked out that she has used the only knock on that road on a piece of glass. *Owns now* a corner of a window that will hold until it does not, and no way of asking anybody to come and look at it.
 
 **THE MAN IN HIS LATE TWENTIES ON THE FAR SIDE OF THE RING ROAD.** Not in 655 through 664. He said *right* and did not ask to see and will never know. He has not been written again and was not to be. The band he holds is not needed by anybody in this block and the card that wanted to spend it again was the obvious theft and was not spent.
+
+
+## VOLUME 05, CONTINUATION 0048 — CHARACTER STATE AFTER CHAPTER 674
+
+**DISPOSITION AGAINST TEN CHAPTERS. NO NEW BAND. SIX HELD BANDS ONLY. LATE FIFTIES ONLY NUMBER NINE. MAN LATE TWENTIES NOT IN TEN.**
+
+**WOMAN SEVENTY-EIGHT AT TWELVE.** Steps over brush middle runner handle across, leaves gate open coal shed bolts in apron, eats kitchen table green chair cushion, envelope face up square edge four of six nothing crossed no pencil, empties cloth bowl morning night, sees grit, hears cistern beyond joist without opening hatch, will not sit front room rush chair wall sideboard empty patch inside door.
+
+**WOMAN LATE FORTIES WHO CLEARS.** Shut drawer bench passenger side bolster leads tin screws first shut thing still shut, cuts both palms plaster one, four hours unpaid no invoice, writes own pad pad stays van, does not go up road.
+
+**MAN EARLY FORTIES WHO BUILT STOOL.** Shoebox element top bench cannot come in without seeing, stranger brush side pocket footwell stone, second brush nine pounds rack window plastic bag open drawer still open, said nothing July said about ten minutes said fifty pound never charged, not drove road since June, sees gate inside van drives on.
+
+**WOMAN LATE FIFTIES NINE.** Back door fixed herself, pad fridge six first crossed twice, stool three oak one ash front room opposite window chair one side settee other looked at not sat on, never gone up road, cannot get at thank you cannot ask.
+
+**WOMAN EARLY THIRTIES TEN SISTER.** Taped May told no three seconds gate, one knock July minute open door glass tape not chair roll handed went back nothing, let in nineteen stayed too long nobody can send away, mends own rail own tools.
+
+**MAN LATE TWENTIES RING ROAD.** Not in 665-674. Said right never know. Holds sixth band.
