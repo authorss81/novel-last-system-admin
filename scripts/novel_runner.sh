@@ -211,6 +211,20 @@ defer_phase_with_backoff() {
   attempts=$((attempts + 1))
   printf '%s' "$attempts" > "$phase_dir/.attempts"
   if [ "$attempts" -ge "$MAX_ATTEMPTS" ]; then
+    # Before blocking, try rescoping in place. A phase that is simply too large
+    # for one model call can be narrowed and retried, and a blocked phase is a
+    # dead end: nothing dispatches a run to heal it later.
+    if [ ! -f "$phase_dir/.retired" ] && python3 scripts/rescue_overscoped.py . 2>/dev/null | grep -q .; then
+      rm -f "$phase_dir/.blocked"
+      printf '0' > "$phase_dir/.attempts"
+      commit_changes "novel: rescope and retry $phase_id" || true
+      retry_at=$(( $(date +%s) + RETRY_DELAY_SECONDS ))
+      printf '%s' "$retry_at" > "$phase_dir/.retry-after"
+      touch "$phase_dir/.deferred"
+      commit_changes "novel: defer $phase_id after rescoping" || true
+      echo "Phase $phase_id was rescoped instead of blocked; deferred until $retry_at"
+      exit 0
+    fi
     touch "$phase_dir/.blocked"
     rm -f "$phase_dir/.deferred" "$phase_dir/.retry-after"
     commit_changes "novel: block $phase_id" || true
