@@ -1710,3 +1710,18 @@ The next batch is **Chapters 60–70**, and it must open on or before **Monday 1
 0704 Thu 17 Feb 2022, woman early 30s at 10: switches outside light on out of turn on a Thursday and off again, looks for the lamp at the end of the road and sees it on, tells the sister the whole of the ladder from November to December and is asked nothing new, says in the spring twice with no date, and says out loud that she will say it again in the spring and that it will still not be a day.
 
 **CARD 0704 IS NOT A CLOSE AND IS NOT CALLED ONE. `ls chapters/volume-05/chapter-*.md | wc -l` GIVES 510.**
+
+## VOLUME 05, CONTINUATION 0052 — CHAPTERS 705-714
+
+0705 Mon 21 Feb 2022, woman 78 at 12: empties bowl at first light and at dark, looks at folded ladder from front-room doorway without going in, turns away a meter woman at the back door, squares cloth over taped box, checks coal shed and gate.
+0706 Fri 25 Feb 2022, man early 40s at unit: works run a quarter inch out, keeps TWELVE card unwritten with pencil behind ear, tells bench man the ladder route to the front room and the bowl emptied twice over.
+0707 Thu 3 Mar 2022, woman late 40s clearing house: lifts furred kettle and leaves it, leaves landing ladder where it is, writes figure only, tells daughter with keys about the bowl at number twelve.
+0708 Mon 7 Mar 2022, woman late 50s at 9: scrubs yard slabs with bucket, wipes fridge pads, dusts ash stool with nothing under it, talks felt and drip with sister at door, folds washing.
+0709 Thu 10 Mar 2022, woman early 30s at 10: pegs washing round shed with felt gone, leaves drawer shut, does not ask coal man for hands, sorts drawer without lifting the three-line paper, talks drawer with sister on step.
+0710 Tue 15 Mar 2022, woman 78 at 12: empties bowl, wipes sill, stands in front-room doorway at folded ladder, speaks through shut window to leaflets lass at gate, counts cups.
+0711 Sat 19 Mar 2022, man early 40s at cottage lane: tries oak gates against posts alone, finds latch stile wants hands and ladder, tells payer about drip and frame, loads gates back on van.
+0712 Tue 22 Mar 2022, woman late 40s at lock-up: sets blanket bag to one side unopened, keeps bench drawer shut, leaves bagged-corner box on heap, sheets heap, oils doors, tells lock-up man about drip.
+0713 Sun 27 Mar 2022, woman late 50s at 9 and 10: dusts stool, carries soup to sister, mends jug lid with half inch of tape, talks bulb and bowl in sister kitchen, walks home without going up road.
+0714 Thu 31 Mar 2022, woman early 30s at 10: sorts drawer without taking paper out, pegs small washing, blacks stove, tells sister the ladder stands folded and the bowl fills, sees sister off from step.
+
+CARD 0714 IS NOT A CLOSE AND IS NOT CALLED ONE. `ls chapters/volume-05/chapter-*.md | wc -l` GIVES 520.

@@ -1,0 +1,100 @@
+{
+ "allocation_written_before_prose": true,
+ "bands": {
+  "carried_forward_bans": "EARLY FIFTIES AND LATE FIFTIES MAY NOT BE GIVEN TO ANY NEW FIGURE. LATE FIFTIES IS GIVEN ONCE AND TO THE EXISTING WOMAN AT NUMBER NINE.",
+  "collisions_inside_batch": "NONE. SAME FIGURE SAME BAND ON EVERY RETURN. EACH BAND IS CARRIED BY ONE FIGURE AND BY ONE FIGURE ONLY.",
+  "order_of_first_holding": "LATE SEVENTIES AT 0705, EARLY FORTIES AT 0706, LATE FORTIES AT 0707, LATE FIFTIES AT 0708, EARLY THIRTIES AT 0709. REPEATS AFTER THAT ARE SAME FIGURE SAME BAND.",
+  "per_chapter": {
+   "0705": "late seventies",
+   "0706": "early forties",
+   "0707": "late forties",
+   "0708": "late fifties",
+   "0709": "early thirties",
+   "0710": "late seventies",
+   "0711": "early forties",
+   "0712": "late forties",
+   "0713": "late fifties",
+   "0714": "early thirties"
+  },
+  "presents_without_age": "ROOM FIGURES ARE NOT AGED. LADS, DAUGHTERS, MEN AT BENCHES, SHOP PEOPLE, COAL MEN, CLIPBOARD WOMEN ARE REFERRED BY WHAT THEY ARE DOING AND NOT BY BAND. WHERE A FIGURE APPEARS BEFORE HER BAND IS FIRST CARRIED SHE IS LEFT UNAGED AND THE FILE SAYS SO.",
+  "roster": "FIVE FIGURES CARRY THIS BATCH. A WOMAN OF SEVENTY-EIGHT AT NUMBER TWELVE. A MAN IN HIS EARLY FORTIES WHO BUILT THE STOOL. A WOMAN IN HER LATE FORTIES WHO CLEARS HOUSES. A WOMAN IN HER LATE FIFTIES AT NUMBER NINE. A WOMAN IN HER EARLY THIRTIES AT NUMBER TEN, THE SISTER.",
+  "who_sits_this_batch_out_and_why": "THE MAN IN HIS LATE TWENTIES ON THE FAR SIDE OF THE RING ROAD IS NOT IN THESE TEN CHAPTERS, FOR THE FIFTH BLOCK RUNNING. HE HAS NO JOB ON THE PAGE IN LATE FEBRUARY AND MARCH. GIVING HIM A CHAPTER BECAUSE THE ENGINE IS THE NOT-ASKING WOULD BE THE OBVIOUS THEFT. HE SAT OUT 675-684, 685-694 AND 695-704 AND SITS OUT 705-714 FOR A JOB REASON AND NOT BECAUSE HE IS DUE. THIS IS A FINDING FOR A HUMAN AND NOT FOR A WRITER."
+ },
+ "calendar": {
+  "adding": "17 FEB 2022 THU. 18 FRI, 19 SAT, 20 SUN, 21 MON, 22 TUE, 23 WED, 24 THU, 25 FRI, 26 SAT, 27 SUN, 28 MON. 1 MAR TUE, 2 WED, 3 THU, 4 FRI, 5 SAT, 6 SUN, 7 MON, 8 TUE, 9 WED, 10 THU, 11 FRI, 12 SAT, 13 SUN, 14 MON, 15 TUE, 16 WED, 17 THU, 18 FRI, 19 SAT, 20 SUN, 21 MON, 22 TUE, 23 WED, 24 THU, 25 FRI, 26 SAT, 27 SUN, 28 MON, 29 TUE, 30 WED, 31 THU.",
+  "bound_both_directions": "TEN GAPS 3-7 FROM 0704 THU 17 FEB SPAN 30-70 DAYS. 30 DAYS IS FOUR WEEKS AND TWO DAYS AND MOVES WEEKDAY ON TWO, SO SATURDAY 19 MARCH 2022. 70 DAYS IS TEN WEEKS EXACTLY, SO THURSDAY 28 APRIL 2022. LOOSE FROM FLOOR SUN 20 FEB PLUS NINE GAPS 27-63 SMALLEST SUNDAY 19 MARCH LARGEST SUNDAY 24 APRIL 2022. TIE EARLY LOOSE ONE LATER BINDS AT LATE END. PROPOSED LADDER FALLS AT 42 DAYS AT THURSDAY 31 MARCH 2022, INSIDE BOTH PAIRS.",
+  "chapters": {
+   "0705": "Monday 21 February 2022",
+   "0706": "Friday 25 February 2022",
+   "0707": "Thursday 3 March 2022",
+   "0708": "Monday 7 March 2022",
+   "0709": "Thursday 10 March 2022",
+   "0710": "Tuesday 15 March 2022",
+   "0711": "Saturday 19 March 2022",
+   "0712": "Tuesday 22 March 2022",
+   "0713": "Sunday 27 March 2022",
+   "0714": "Thursday 31 March 2022"
+  },
+  "count_of_gaps": 10,
+  "gaps": [
+   4,
+   4,
+   6,
+   4,
+   3,
+   5,
+   4,
+   3,
+   5,
+   4
+  ],
+  "span_days_from_0704": 42,
+  "weekdays_checked": "ALL TEN CHECKED ON REAL 2022 CALENDAR BY HAND ADDING OFF 17 FEB THU AND BY SECOND ADDING OFF EACH DATE. NONE ON NINTH OR ELEVENTH. NO TWO SHARE DATE. NONE BEFORE 20 FEB 2022."
+ },
+ "canon_scenes_turned_away_from": "0663 FIXED FOUR RUNGS BESIDE HATCH AT NUMBER TWELVE. 0685 LEND IN STREET. 0686 PORCH LEAVE. 0687 BULB USE. 0688 SHED ROOF LOOK AND CARRY UP ROAD. 0689 KNOCK AND PUT IN FRONT ROOM. 0690 SKIP MAN AT GATE. 0691 HATCH LOOK FROM CHAIR AND LAMP MAN AT GATE. 0692 DRAWER PAPER AND YARD DARK. 0693 UNIT AND QUARTER INCH OUT. 0694 BACK ROOM LADDER LOOK. 0695 BOWL EMPTYING IN BATHROOM. 0696 GATES MEASURING IN UNIT. 0697 VAN SORTING. 0698 FRIDGE PAD. 0699 DRAWER SHUT AND SHED. 0700 KITCHEN CLOTH AND GATE. 0701 COTTAGE POSTS. 0702 TIP HEAP. 0703 FRONT PATH AND SHUT DRAWER. 0704 YARD LIGHT. BRUSH SCENES 0655-0664 PASSAGE FLOOR. CISTERN SCENES 0663 AND 0691. COAL SHED SCENES 0690 AND 0700. NO NEW CHAPTER RE-STAGES ANY OF THESE. EACH NEW CHAPTER IS A DIFFERENT SCENE IN A DIFFERENT ROOM WITH A DIFFERENT REASON: BATHROOM BOWL NOT HATCH, UNIT BENCH NOT LEND, CLEARING KITCHEN NOT PORCH, NUMBER NINE YARD NOT BULB, NUMBER TEN YARD NOT SHED CLIMB, NUMBER TWELVE KITCHEN NOT KNOCK, COTTAGE LANE NOT SKIP, VAN CAB NOT BACK ROOM, NUMBER NINE FRONT ROOM NOT LAMP, NUMBER TEN KITCHEN NOT DRAWER PAPER. BAND FILE SAYS SO FIRST.",
+ "cards": {
+  "0705": "A woman of seventy-eight is in her own house at number twelve from first light until dark on Monday the twenty-first of February and empties a bowl under the bath tap at first light and at dark, looks at a folding step ladder folded against the wall under the front room window without going in, and speaks at her own back door to a woman about a meter who does not come in.",
+  "0706": "A man in his early forties is at his own unit from first light until dark on Friday the twenty-fifth of February and works a run of units a quarter of an inch out, keeps a scrap of scribing card with twelve on one side and a pencil behind his ear and writes nothing, and speaks to the man at the bench opposite about a borrowed ladder and about water under a bath tap he has seen.",
+  "0707": "A woman in her late forties is in a house she is clearing from first light until dark on Thursday the third of March and lifts a kettle with a furred spout, leaves a folded step ladder on a landing where it is because it is not hers to move, and speaks to a daughter with keys about what goes on a van and about a bowl emptied morning and dark.",
+  "0708": "A woman in her late fifties is in her own house at number nine from first light until dark on Monday the seventh of March and scrubs a yard slab with a bucket, looks at an ash stool in her front room with nothing under it, and speaks at her own door to her sister about felt and about a dripping tap.",
+  "0709": "A woman in her early thirties is in her own yard and kitchen from first light until dark on Thursday the tenth of March and pegs washing round a shed with felt gone at the front edge, leaves a drawer shut with ply and tape and a pencil and a folded paper in it, speaks in her own yard to a coal man about the draught and about a bowl under a tap, and speaks on her own step to her sister about the drawer.",
+  "0710": "A woman of seventy-eight is in her own house at number twelve from first light until dark on Tuesday the fifteenth of March and wipes a sill with a damp cloth, stands in the doorway of a front room with a folded ladder under the window, and speaks through a shut window to a lass with leaflets who does not come down the path.",
+  "0711": "A man in his early forties is at a cottage lane with posts in the ground from late morning until dark on Saturday the nineteenth of March and tries a pair of oak gates against the posts on his own, finds the latch stile wants a pair of hands and a ladder, and speaks to the man who has paid about water from a tap and about waiting.",
+  "0712": "A woman in her late forties is in her van and at a lock-up from first light until dark on Tuesday the twenty-second of March and moves a bag of rags with somebody else blanket in it without opening it, keeps a shut drawer under the passenger bench shut, and speaks to a man at the lock-up about a taped box with a bagged corner and about a dripping tap.",
+  "0713": "A woman in her late fifties is in her own front room and kitchen from first light until dark on Sunday the twenty-seventh of March and dusts an ash stool with nothing under it, carries soup to her sister at number ten, and speaks in her sister kitchen about a sixty-watt bulb and about a bowl emptied at first light and at dark.",
+  "0714": "A woman in her early thirties is in her own kitchen and yard from first light until dark on Thursday the thirty-first of March and sorts a drawer with ply and tape and a pencil and a folded paper without taking the paper out, looks at a shed roof from her own window, and speaks on her own step to her sister about the folded ladder at number twelve and about water that keeps coming."
+ },
+ "declared_ordinary_word": "round",
+ "declared_ordinary_word_note": "DECLARED IN THIS FILE BEFORE ANY PROSE OF 0705-0714 EXISTS. COUNTED WHOLE WORD ON WORD BOUNDARIES ACROSS THE TEN CHAPTER FILES AFTER EVERY REPAIR. NOT NURSED IN EITHER DIRECTION. SPENT WORDS ARE USUALLY, ANYWAY, LIKE, JUST, ENOUGH, STILL, KIND, QUITE, SMALL AND NONE OF THEM IS RE-DECLARED AND NONE OF THEIR FIGURES IS RE-PRINTED.",
+ "family": {
+  "inversion_against_last_block": "THE LAST BLOCK DEVICE STAYED WHERE IT WAS PUT AND THE PHRASE PUT WORK OFF WITH NO DAY. THIS BLOCK DEVICE STAYS WHERE IT WAS PUT AND THE WATER KEEPS COMING WITH NO HANDS TO STOP IT. A THING PUT OFF LOSES ITS DAY AND WATER LEFT TO DRIP FILLS A BOWL, AND NEITHER IS A THING A PERSON CAN ACT ON ALONE.",
+  "name": "THE BOWL UNDER THE TAP AND THE WATER THAT KEEPS COMING",
+  "named_by_a_human": false,
+  "one_sentence": "People in five houses live with water that keeps coming where it should not, a bowl emptied at first light and at dark, a kettle furred, a bucket carried, a shed drip, a sill wiped, and nobody asks for hands because asking would mean saying the job out loud.",
+  "test_against_595_604": "It cannot be summed as someone did a small thing and it went nowhere, because the water goes somewhere twice over and the bowl is full again and the filling has a shape in every room.",
+  "test_against_605_614": "It cannot be summed as somebody carried a thing they could not put down, because the bowl is put down under the tap and stays down and the bucket is set down and the bag is set to one side.",
+  "test_against_615_624": "It cannot be summed as somebody was told a thing they could not place, because nobody is told anything and what will not sit is water and not a telling.",
+  "test_against_625_634": "It cannot be summed as someone decided something and was asked why and gave a reason, because nobody is asked why once in ten chapters and the bowl is emptied unasked.",
+  "test_against_635_644": "It cannot be summed as somebody brought a thing to a person and somebody else brought another and the person had to lie about it, because nothing is brought and no lie is told and I do not know is true wherever it is said.",
+  "test_against_645_654": "It cannot be summed as a woman wrote things down and the paper went out of her house and nobody asked why it was in that order and she explained unasked, because the paper with three lines stays in a drawer and the card with twelve stays in a pocket and nothing written leaves any house.",
+  "test_against_655_664": "It cannot be summed as a brush named in a kitchen carried through ten chapters by three people who never meet and ends on a passage floor, because the brush does not move and is stepped over and left and is not the device.",
+  "test_against_665_674": "It cannot be summed as a room she will not sit in and a gate she will not shut, because the room is looked at from a doorway and the gate stands back where it was put and water is the subject.",
+  "test_against_675_684": "It cannot be summed as a parcel she cannot ask about goes round the borough and came back with a second address on it, because no box moves in these ten chapters and all three stay where 0704 left them.",
+  "test_against_685_694": "It cannot be summed as a step ladder goes round four houses and two streets and ends folded in a room and nobody asks whose it is, because the ladder starts folded and ends folded and the going is the water.",
+  "test_against_695_704": "It cannot be summed as people put work off to the spring without naming a date and a ladder stays folded where it was put, because the spring is said nowhere as a spread here and the work is water and the waiting is a bowl filling.",
+  "the_device": "A BOWL UNDER THE BATH TAP AT NUMBER TWELVE WITH A FOLDED CLOTH BESIDE IT, EMPTIED AT FIRST LIGHT AND AT DARK AND FULL AGAIN BETWEEN, NEVER MENDED. IT IS PRESENT IN EVERY CHAPTER BY SIGHT OR BY THOUGHT AND EVERY CHAPTER IS CONSTRAINED BY THE ONE BEFORE IT, AND THE PROOF IS NOT A COUNT BUT THE THING STAYING WHERE IT WAS NOT MEANT TO STAY.",
+  "the_engine": "SOMEBODY COULD HAVE ASKED AND DID NOT AND THE NOT-ASKING COSTS SOMETHING VISIBLE. NOBODY IS ASKED WHY, NOT ONCE. THE RESISTANCE MOVES INSIDE THE PERSON AND NOT OUTSIDE."
+ },
+ "figure_that_binds": "THE BOWL IS THE ONLY FAMILY DEVICE. THERE ARE FOUR STEP LADDERS ON THE PAGE AND NO TWO ARE THE SAME OBJECT. THE TRAVELLING ONE FOLDED IN THE FRONT ROOM AT NUMBER TWELVE WITH TAPE ROUND THE SECOND RAIL. THE FIXED FOUR RUNGS BESIDE THE HATCH AT NUMBER TWELVE. THE FIBREGLASS ONE THE LAMP MAN PUT BACK IN HIS VAN. THE FOLDED ONE IN A BACK ROOM IN A SEMI IN A STREET SHE HAS NEVER WORKED IN. NO FIFTH IS STAGED. THE BRUSH IS ON THE PASSAGE FLOOR AND ONLY THERE. THE TAPED BOX IS ON THE LEFT OF THE KITCHEN TABLE AT NUMBER TWELVE AND ONLY THERE. THE BOX BEHIND THE PASSENGER BENCH IS THERE AND ONLY THERE. THE BOX ON THE HEAP WITH BAGGED CORNER IS THERE AND ONLY THERE.",
+ "movement": "NOTHING IS RESCUED AND NOTHING IS RESOLVED BY ARRIVING OR BY ACTING. THE WATER KEEPS COMING. THE TAP DRIPS. THE PASSAGE LIGHT IS ON. FOUR OF SIX STAYS FOUR OF SIX AND NOTHING IS CROSSED OFF AND THERE IS NO PENCIL. NOBODY IS ASKED WHY. THE LADDER IS NOT OPENED OUT AND NO BOX IS OPENED AND NOTHING IS PAINTED, LOCKED, DRAINED, SIGNED FOR OR RUNG. THE FREEHOLDER DOES NOT ARRIVE.",
+ "prohibitions_honoured_in_this_file": {
+  "banned_sweep_full_list": "HOLD HOLDS HELD HOLDING CLAIM CLAIMS COUNTER COUNTERS SEAL SEALS SEAM SEAMS TERM TERMS NOTICE NOTICES LENS MARGIN SYSTEM PANEL PERMISSION BEARER LATTICE CIVICORE GOAL RESISTANCE CHANGE BEAT CHANGES CHANGED CHANGING GOALS BEATS",
+  "day_counts": "NO DAY-COUNT IN ANY CHAPTER IN ANY BLOCK, AND NO CLOCK TIME THAT IS A CLOSED FIGURE. NEW SPANS ARE SAID AS SINCE JULY OR SINCE BEFORE CHRISTMAS OR WITH A DATE. TENURE AGE DATE COUNT OF ACTS COUNT OF THINGS DIMENSION SURVIVE.",
+  "names": "NO HUMAN PERSONAL NAME.",
+  "said": "DIALOGUE IS REQUIRED IN EVERY CHAPTER. WHAT IS MEASURED IS THE WORD SAID AND IT IS NOT BANNED. WHAT IS BANNED IS A CHAPTER IN WHICH NOBODY SPEAKS.",
+  "self_reference": "IN THIS ACCOUNT IN THIS STORY IN THIS BLOCK ON THIS PAGE THE WRITER THIS CHAPTER ARE ALL BANNED IN PROSE. WRITE MORNING KITCHEN YARD PASSAGE PORCH GATEWAY."
+ },
+ "read_back_promise": "THE PROSE WINS. WHERE THE PROSE AND A CARD DISAGREE, THIS FILE IS CORRECTED TO MATCH THE CHAPTER AND NOT THE CHAPTER TO MATCH THE CARD. READ-BACK TO BE DONE BY OPENING EACH OF THE TEN FILES AND READING THEM, TWICE, INCLUDING SUBJECT LINE DATELINE ROSTER LINE AND TITLE AGAINST BODY.",
+ "rules_row": "THE --- ROW IS FOUR TO TWELVE ACROSS A CHAPTER AND EVERY RULE FALLS AT A REAL TURN OF PLACE TIME OR TURN. A RULE THAT FALLS BECAUSE A PARAGRAPH ENDED IS A STRIP AND IS NOT A RULE.",
+ "why": "NAMING THE CLASS BEFORE THE CHAPTERS ARE WRITTEN IS THE ONLY THING THAT HAS EVER PREVENTED THE DEFECT. THIS FILE IS THE DECLARATION. IT WAS WRITTEN FIRST."
+}
