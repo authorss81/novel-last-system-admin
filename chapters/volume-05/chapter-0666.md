@@ -2,52 +2,101 @@
 
 Tuesday the seventh of September 2021, in this borough. She is in her van and in two houses nowhere near that road from morning until dark, and the whole of the day is a drawer under a bench that she keeps shut.
 
-**A WOMAN IN HER LATE FORTIES KEEPS A DRAWER UNDER A BENCH IN HER VAN SHUT ALL DAY ON A TUESDAY, AND DOES A BOLSTER'S WORK WITH THE BOLSTER AND PUTS IT BACK, AND THE SHUT IS STILL THE FIRST SHUT THING IN THAT VAN.**
+**A WOMAN IN HER LATE FORTIES KEEPS A DRAWER UNDER A BENCH IN HER VAN SHUT ALL DAY ON A TUESDAY UNTIL A JOB ASKS FOR THE TOOL IN IT, AND PUTS THE TOOL BACK, AND THE SHUT IS STILL THE FIRST SHUT THING IN THAT VAN.**
 
-She is a woman in her late forties. She is on her own all day. She does not go up that road.
+She is a woman in her late forties. She is on her own all day, and twice in it somebody talks to her and neither conversation is about the gate. She does not go up that road.
 
 ---
 
 She starts in the van with the side door open and the bench clear, and the drawer under the bench on the passenger side is shut, and on top of two extension leads and a tin of screws inside it is a bolster off her own board.
 
----
 She looks at the shut front of it for a moment before she starts the engine, and she runs her thumb along the edge where it meets the bench, and it does not rattle when she pulls away.
 
 Nothing in that drawer has been shut since the van was new, and she shut it herself on the seventeenth of August, and she still remembers the sound it made.
 
----
-
-The cuts are inside both palms and there is a plaster on one of them and not the other, and the one without the plaster is pink and tender along the crease where the skin pulls.
-
----
-She can put a plaster on anybody and cannot do it to herself without making a mess of the edges, and she worked that out in August standing in a kitchen with a first aid box open on a table.
+The cuts are inside both palms and there is a plaster on one of them and not the other, and the one without the plaster is pink and tender along the crease where the skin pulls. She can put a plaster on anybody and cannot do it to herself without making a mess of the edges, and she worked that out in August standing in a kitchen with a first aid box open on a table.
 
 She drives with her hands low on the wheel and the tender skin off the rim, and the van smells of dust and tea and white spirit.
 
 ---
 
-The first house is on the far side of the ring road with a yard at the back and a pile of frames to be stripped, and the woman who booked it leaves her to it with the key under a pot.
+The first house is on the far side of the ring road with a yard at the back and a pile of frames to be stripped, and the woman who booked it leaves her to it with the key under a flowerpot.
 
----
-She wants to get a frame clean without opening the drawer, because opening it would make it an ordinary drawer again, and she wants it to stay the thing it became in August.
+She wants to get the frames clean without opening the drawer, because opening it would make it an ordinary drawer again, and she wants it to stay the thing it became in August.
 
 She takes her canvas bag with the tools she needs for the day and leaves the van locked with the drawer shut inside it, and she does not look back.
 
+The frames are old gloss over softwood and the edge has lifted in one place, and she gets the lifter under it and works along the rail with her wrist turned out so the cut in her palm does not take the weight. She does six of them before her shoulder tells her to stop, and she stops.
+
+At midday she sits on the back step with her bread and her tea in a flask and her bag beside her on the step, and a girl from next door comes along the fence line with a ball and stops and looks at the bag.
+
+"That's a big bag."
+
+"It is."
+
+"Are you a plasterer?"
+
+"No. Clearing houses. This one's been empty a while."
+
+The girl considers this, and the ball goes under the fence and comes back, and the girl goes along the fence and comes back again, which is the whole of a conversation at that age and it took less time than the tea.
+
+"What are you doing to them, then?"
+
+"Getting the old paint off. There's about nine layers on these and every one of them went on over a Saturday."
+
+"Is that a lot?"
+
+"That's the whole job, that. Nine Saturdays. You're getting the paint off. The rest of it isn't the interesting bit."
+
+The girl looks at her hands and then at the bag.
+
+"Have you hurt your hands?"
+
+"Some." She turns the plastered palm up so the girl can see it and keeps the other one in her lap, because that is the one that looks worse and it is not a thing to show a child at a fence. "Both, actually. It's not much now. It'll go."
+
+"Can I get some of that off, for my bike?"
+
+"No. And you shouldn't want it. It'd take the paint off the bike as well and you'd have a red one."
+
+The girl takes this as good news and kicks the ball back over the fence, and goes in, and the woman washes her cup out at the standpipe and thinks that the question she was asked was the one she could answer, and that there are a great many people in this borough who have never once been asked the one they could not answer, and that she had a go at the gate in the summer and came off worse.
+
 ---
 
-The frame is old gloss over softwood and the edge has lifted in one place, and she gets the lifter under it and works along the rail with her wrist turned out so the cut in her palm does not take the weight.
+In the afternoon the lifter will not get into a narrow socket where the rail meets the stile. She stands looking at it with the tool in her good hand, and she knows the bolster in the shut drawer would get in there from underneath, because that is how she freed the drops on a gate on the seventh of August.
 
-At midday she stops for bread sitting on the back step with her bag beside her, and a girl from next door comes to the fence and asks what the tool is for, and she says it is for getting old paint off wood.
+She could walk back to the van and open the drawer and take it out. Nobody would know. The drawer would still be a drawer, and that is the whole of what is against her in the afternoon.
 
-The girl asks if it hurts her hand and she says not much now, and the girl goes back in, and she is glad the question was that one and not another.
+She sits on her heels instead and works the socket with what she has, and she gets half of it and not the rest, and she leaves the rest for another pass and puts the frame aside with the socket end up so she can see it from the step.
 
 ---
 
-In the afternoon the lifter will not get into a narrow socket where the rail meets the stile, and she stands looking at it with the tool in her good hand, and she knows the bolster in the shut drawer would get in there from underneath, because that is how she freed the drops on a gate on the seventh of August.
+The second house is twenty minutes on, on a road of terraces where there is nowhere to put a van, so she reverses in off a square and leaves the tailgate up with the light on for the box she is bringing in.
 
-She could walk back to the van and open the drawer and take it out, and nobody would know, and the drawer would still be a drawer, and that is the whole of what is against her in the afternoon.
+It is a widow's house and there is a daughter in it with the paperwork, and the two of them have a conversation about a bed frame that neither of them can move.
 
-She sits on her heels instead and works at the socket with what she has, and she gets half of it and not the rest, and she leaves the rest for another pass.
+"That's a double. That's a proper double, that is."
+
+"Mm."
+
+"Where am I meant to put it?"
+
+"Anywhere it fits. That's the point of a bed."
+
+"It's got a headboard on it. You've not got a headboard on a bed."
+
+"I haven't, no."
+
+The daughter looks at the headboard, and looks at the door, and looks at the headboard again, and the woman with the paperwork says, "Well, you'll have to think of something," in a voice that is not unkind and is not going to help, and goes to find a carrier bag.
+
+They turn it on its side and get it up the stairs with the headboard going round last, and the woman takes the weight end without being asked because it is her job, and her cut opens a little on the banister where her grip goes, and she does not stop, and by the time the bed frame is in the small bedroom the daughter is saying, "There's a mark on your hand, there," and the woman looks at it and says, "That's old."
+
+"That's not old, that's fresh."
+
+"It's not that fresh either."
+
+"That's not what I said."
+
+The daughter keeps both hands on the rail and looks at the plaster, and does not ask about it, and the woman has been waiting for the question all the way up the stairs and up the landing and does not get it, and finds that she is annoyed.
 
 ---
 
@@ -55,11 +104,9 @@ At dark she is back at the van with dust in her hair and paint under her nails, 
 
 She opens it, and the bolster is on top of the leads and the tin of screws where she left it, and she takes it out and wipes the edge on her sleeve.
 
----
-
 She carries it back to the house in the last of the light and fits it into the socket from underneath on her knees in the yard, and the old gloss comes off in two pieces onto the grass, and she picks both pieces up and puts them in her pocket.
 
-Her hands sting where the cuts pull, and she breathes through it with her mouth open, and the socket is clean enough to take a new bead when the time comes.
+Her hands sting where the cuts pull, and she breathes through it with her mouth open, and the socket is clean enough to take a new bead when the time comes. There is no bead going in today. It is not a job for a new bead. It is a job for a woman with a drawer she does not want to open, and the socket is clean, and that is enough for a Tuesday.
 
 ---
 
@@ -67,44 +114,46 @@ She brings the bolster back to the van and wipes it again and puts it back in th
 
 She says out loud to the empty yard that she will keep that, because a tool that has done a job has somewhere to be, and the drawer is for everything else and the bag is for a job.
 
----
-
 She shuts the drawer. It goes with the same sound it made in August, a small firm sound that is not loud, and she stands with her hand on the front of it until she is sure.
 
 The open drawer with a plastic bag in it belongs to the man who built the stool and not to her. The only wire brush she has ever owned is on a passage floor at number twelve and she is not going back for it.
 
-Her drawer is shut and it is the first thing in that van that has ever been shut, and it is still shut now.
+Her drawer is shut, and it is the first thing in that van that has ever been shut, and it is shut again now.
 
 ---
 
-She locks the van and goes to give the key back, and the woman who booked the house looks at her hand without the plaster and asks, and she has to give a word for it.
+She locks up and goes to give the key back, and the woman who booked the house is on the step and looks at the hand without the plaster and asks.
 
-She says a gate, and the woman lets her go without asking anything more, and she walks to the bus with her bag over her shoulder and her hands in her pockets.
+"What have you done to them?"
 
----
+"A gate," she says. "It stuck in the frame and I got both hands in the gap trying to work it."
 
-The road she does not go up is three miles off in the dark, with a gate standing open against a coal shed wall and a brush in the middle of a runner, and a woman up that road at a kitchen table under a window with a gas envelope face up square with the edge.
+"Are they all right?"
+
+"They'll be right. I've got one dressed and the other one's airing."
+
+"You should get some gloves."
+
+"I have gloves."
+
+"You've not got them on."
+
+"I've not got them on because I take them off to feel things," she says, and the woman looks at her for a second, and then laughs, and says a thing about her mother, and goes in.
+
+She walks to the bus with her bag over her shoulder and her hands in her pockets, and the road she does not go up is three miles off in the dark, with a gate standing open against a coal shed wall and a brush in the middle of a runner, and a woman up that road at a kitchen table under a window with a gas envelope face up square with the edge.
 
 She does not picture the kitchen. She pictures the drawer, shut under the bench, with the bolster inside it on top of the leads.
 
 ---
 
-She gets home and washes at the sink with a bar of soap, and the cut without the plaster bleeds a little at the edge and then stops, and she dries her hands on a towel and does not put a new plaster on.
-
-She eats standing up and puts her pad on the table with the jobs for the rest of the spell written in her own hand, and she does not write on anything that is not hers.
-
----
+She gets home and washes at the sink with a bar of soap, and the cut without the plaster bleeds a little at the edge and then stops, and she dries her hands on a towel and does not put a new plaster on. She eats standing up and puts her pad on the table with the jobs for the rest of the spell written in her own hand, and she does not write on anything that is not hers.
 
 The pad stays on her table. The envelope she wrote on in June stays where it was left, taped inside a cupboard door that is going in a skip with the top corner of her own writing gone, taken by tape.
 
 She worked out on the Saturday morning of the gate that a job that is finished is a job a tool has nothing to be for, and a tool with nothing to be for lives in a drawer, and a drawer can be shut.
 
----
-
 She goes to bed with the van locked outside and the drawer shut inside it, and the plaster on one palm soft at the edges from washing, and the other palm open to the air.
 
 ---
 
-**AND A WOMAN IN HER LATE FORTIES HAS DONE A DAY'S WORK NOWHERE NEAR THAT ROAD WITHOUT OPENING A SHUT DRAWER UNTIL THE WORK ASKED FOR IT, AND HAS PUT THE TOOL BACK AND SHUT IT AGAIN, AND THE CUTS INSIDE BOTH PALMS ARE STILL TENDER AND A PLASTER IS ON ONE OF THEM AND NOT THE OTHER, AND FOUR HOURS OF GATE WORK IN AUGUST IS STILL UNPAID WITH NO INVOICE.**
-
-(End of chapter 0666)
+**A WOMAN IN HER LATE FORTIES HAS DONE A DAY'S WORK NOWHERE NEAR THAT ROAD WITHOUT OPENING A SHUT DRAWER UNTIL THE WORK ASKED FOR IT, AND HAS PUT THE TOOL BACK AND SHUT IT AGAIN, AND THE CUTS INSIDE BOTH PALMS ARE STILL TENDER AND A PLASTER IS ON ONE OF THEM AND NOT THE OTHER, AND FOUR HOURS OF GATE WORK IN AUGUST IS STILL UNPAID WITH NO INVOICE.**
