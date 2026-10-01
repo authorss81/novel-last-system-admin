@@ -206,7 +206,7 @@ There is a woman who has now been in that house, and who is not one of the two.
 
 And there is a piece of paper in the drawer under the telephone that she hid from her, and she did not have to, and nobody in that house has ever had to hide anything from anybody.
 
-And there is a line at the top of that paper about a gate, and a woman of thirty has just offered to fix that gate in two minutes with a screwdriver, and she has said no, and she cannot say why, and there is nothing on earth she can put in place of the reason.
+And there is a line at the top of that paper about a gate, and a woman in her early thirties has just offered to fix that gate in two minutes with a screwdriver, and she has said no, and she cannot say why, and there is nothing on earth she can put in place of the reason.
 
 ---
 

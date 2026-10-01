@@ -2,7 +2,7 @@
 
 Saturday the nineteenth of June 2021, in this borough. She is in a kitchen off the parade from about ten in the morning until about half past twelve, and the whole of it is a table with one bad leg and a gas envelope that was face up on a kitchen table on the Thursday before and was in a drawer on the Saturday.
 
-**THE WOMAN WHO CLEARS HOUSES COMES UP THAT PATH ON A SATURDAY MORNING TO PUT A TABLE LEG RIGHT AND DOES IT PROPERLY AND ASKS FOR A BIT OF PAPER TO MEASURE A SHIM WITH AND IS HANDED AN ENVELOPE WITH SIX THINGS WRITTEN ON THE BACK IN PENCIL, AND READS IT FOUR TIMES WITH A CLAMP ON, AND SAYS NOTHING, AND AT THE DOOR ASKS FOR THE ENVELOPE, AND IS GIVEN IT OUT OF THE DRAWER BY A WOMAN WHO PUT IT IN THE DRAWER FOUR MINUTES EARLIER, AND NEITHER OF THEM SAYS ONE WORD ABOUT WHY.**
+**THE WOMAN WHO CLEARS HOUSES COMES UP THAT PATH ON A SATURDAY MORNING TO PUT A TABLE LEG RIGHT AND DOES IT PROPERLY AND ASKS FOR A BIT OF PAPER TO MEASURE A SHIM WITH AND IS HANDED AN ENVELOPE WITH SIX THINGS WRITTEN ON THE BACK IN PENCIL, AND READS IT FOUR TIMES WITH A CLAMP ON, AND SAYS SHE IS SORRY FOR THE WRITING ON IT AND SAYS NOTHING AT ALL ABOUT WHAT IS WRITTEN ON IT, AND AT THE DOOR ASKS FOR THE ENVELOPE, AND IS GIVEN IT OUT OF THE DRAWER BY A WOMAN WHO PUT IT IN THE DRAWER FOUR MINUTES EARLIER, AND NEITHER OF THEM SAYS ONE WORD ABOUT WHY.**
 
 She is a woman in her late forties. She is a woman in her late seventies. There is no third person in that kitchen.
 
@@ -112,7 +112,7 @@ And while she is out at the van for the plane and the mallet, which is about fou
 
 It takes her about four seconds.
 
-And the reason she does it is not tidiness. It is that there is a line about a gate at the top of it and a young woman of about thirty came to that door about a week ago and was told no in three seconds, and a woman of seventy-eight has decided in the last quarter of an hour that nobody is to read the first line of that envelope in her kitchen.
+And the reason she does it is not tidiness. It is that there is a line about a gate at the top of it and a young woman in her early thirties came to that door about a week ago and was told no in three seconds, and a woman of seventy-eight has decided in the last quarter of an hour that nobody is to read the first line of that envelope in her kitchen.
 
 ---
 

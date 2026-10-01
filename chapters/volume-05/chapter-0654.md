@@ -2,7 +2,7 @@
 
 Friday the sixteenth of July 2021, in this borough. He is in a kitchen off the parade from about ten in the morning until about half past twelve, and there are three of them in that room for the first time since the Wednesday of the nineteenth of May, and the whole of it is six lines of pencil in a hand that is not his, read out loud in front of the person who wrote them.
 
-**THE WOMAN WHO BROUGHT THE CHAIR OPENS THE DOOR ON A FRIDAY TO A MAN SHE HAS AGREED WITH ON A BENCH NEVER TO PUT THEIR TWO HEADS TOGETHER IN THAT HOUSE, AND SHE STANDS ASIDE AND HE GOES THROUGH TO A KITCHEN AND READS A LIST OUT LOUD IN IT, AND HE DOES NOT ASK HER WHY IT IS IN THAT ORDER, HE ONLY SAYS THAT IT IS NOT AN ORDER AND WAITS, AND SHE ANSWERS HIM, AND THE ANSWER IS THAT THE FIRST THING ON IT IS THE ONE SHE WANTS AND IS NOT GOING TO ASK FOR.**
+**THE WOMAN IN HER LATE FORTIES OPENS THE DOOR ON A FRIDAY TO A MAN SHE HAS AGREED WITH ON A BENCH NEVER TO PUT THEIR TWO HEADS TOGETHER IN THAT HOUSE, AND SHE STANDS ASIDE AND HE GOES THROUGH TO A KITCHEN AND READS A LIST OUT LOUD IN IT, AND HE DOES NOT ASK HER WHY IT IS IN THAT ORDER, HE ONLY SAYS THAT IT IS NOT AN ORDER AND WAITS, AND SHE ANSWERS HIM, AND THE ANSWER IS THAT THE FIRST THING ON IT IS THE ONE SHE WANTS AND IS NOT GOING TO ASK FOR.**
 
 He is a man in his early forties. She is a woman in her late forties. She is a woman in her late seventies. There is no fourth person in this house.
 
@@ -166,7 +166,6 @@ And the woman in her late seventies says, "The window's third and not first, and
 
 And the man says, "The tap?"
 And the woman in her late seventies says, "The tap's fifth and it has been dripping since before Christmas and I have a folded cloth in the bowl under it, and it does that all week, and I have never once said that out loud to anybody, and I am saying it to two of you in a kitchen on a Friday."
-And the woman in her late seventies says, "The tap's fifth and it has been dripping since before Christmas and I have a folded cloth in the bowl under it, and it does that all week, and I have never once said that out loud to anybody, and I am saying it to two of you in a kitchen on a Friday."
 
 ---
 
@@ -254,9 +253,9 @@ And then there is about an hour of that kitchen in which none of the three of th
 
 They make tea. The woman in her late forties makes it, in a kitchen she has been in twice, at a table she fixed a fortnight ago, and she knows where the cups are because the cups are where the cups are in every house in this borough, and nobody has to be told anything.
 
-And for about an hour the three of them sit in a front room and do not talk about it.
+And for about half an hour the three of them sit in a front room and do not talk about it.
 
-And here is the last part of it, and it is about a quarter to twelve, and it is about five minutes long, and it is the only part of that morning that is funny.
+And here is the last part of it, and it is about a quarter past twelve, and it is about five minutes long, and it is the only part of that morning that is funny.
 
 And the man says, "Which line am I on."
 
@@ -296,7 +295,7 @@ He stands on the top step with his hand on it and gives it a push and lets it sw
 
 ---
 
-And she is standing at the sink at about twenty to twelve with six lines of pencil on a gas envelope in front of her, and the fourth one is done, and there is a woman in her late forties in her front room who has just said she will do the first one.
+And she is standing at the sink at about twenty to one with six lines of pencil on a gas envelope in front of her, and the fourth one is done, and there is a woman in her late forties in her front room who has just said she will do the first one.
 
 And she is going to have to open that door to somebody she gave a stool to, and somebody she has never thanked, and she has no idea in the world what she is going to say when that woman does it, and there is nobody she can ask what to say.
 
