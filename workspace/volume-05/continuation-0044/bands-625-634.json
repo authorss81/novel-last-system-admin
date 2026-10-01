@@ -30,8 +30,29 @@
       "0634": "Tuesday 13 April 2021"
     },
     "incoming_gap_from_0624": 3,
-    "gaps_inside_the_batch": [4, 5, 5, 4, 6, 5, 4, 5, 5],
-    "all_gaps_including_the_incoming_one": [3, 4, 5, 5, 4, 6, 5, 4, 5, 5],
+    "gaps_inside_the_batch": [
+      4,
+      5,
+      5,
+      4,
+      6,
+      5,
+      4,
+      5,
+      5
+    ],
+    "all_gaps_including_the_incoming_one": [
+      3,
+      4,
+      5,
+      5,
+      4,
+      6,
+      5,
+      4,
+      5,
+      5
+    ],
     "count_of_gaps": 10,
     "count_note": "Ten and not nine: the incoming one plus nine inside, because no chapter spans two dates.",
     "span_days_from_0624": 46,
@@ -76,15 +97,16 @@
   },
   "cards": {
     "0625": "A woman has decided to stop putting her neighbour's bin out on a Wednesday morning. Her husband asks her why in the kitchen and she tells him the reason, which is that the man has never once asked her. The reason is not the reason. She said it twice and she cannot unsay it.",
-    "0626": "The neighbour has noticed the bin is not out and has decided to leave it where it is. A woman who lives two doors down asks him why he is carrying it back in and he tells her he asked. He never asked. He asked her, and told her to pass it on, and he does not know that she has not.",
+    "0626": "CORRECTED BY THE 0045 BATCH AGAINST THE CHAPTER, WHICH THE PROSE WON. A MAN HAS DECIDED TO GO ROUND FOUR STREETS OF THE ESTATE AND ASK AT EVERY DOOR, AND HE DOES GO ROUND FOUR STREETS. THE ORIGINAL CARD IN THIS FILE SAID HE WOULD NOT GO ROUND, AND THE CHAPTER HAS HIM GOING ROUND, AND THE FILE WAS WRONG.",
     "0627": "A woman who has spent her life being the one who knows has decided to stop carrying what other people tell her. A young man in the house with her asks her why she came home and told him a thing about a bin. She gives him a reason that is a sentence she has had from a man in a doorway and did not know was a sentence.",
     "0628": "A man has said five words at least three times without being able to remember saying them first. He has decided to say them once more, on purpose, to somebody who did not ask. She asks him why he is telling her. He says it is a joke. It is not a joke, and he is doing it to find out where a false sentence came from, and that is a decision with a price on it.",
-    "0629": "A woman has been doing a man's shopping for a good while and has decided to stop. He asks her why at her gate and she tells him the reason, which is that he never asks. She has used, without knowing it, the same five words a woman used in a kitchen a fortnight ago about a bin, and the man hears them and thinks nothing of it, and it is the last time the sentence is harmless.",
+    "0629": "CORRECTED BY THE 0045 BATCH AGAINST THE CHAPTER, WHICH THE PROSE WON. A WOMAN HAS BEEN DOING A MAN'S SHOPPING FOR A GOOD WHILE AND HAS DECIDED TO STOP. HE COMES TO HER GATE AND ASKS HER WHY SHE HAS NOT BEEN, AND SHE GIVES HIM FIVE WORDS THAT ARE ABOUT HIS SON AND NOT ABOUT HIM, AND SAYS SO IN THE SAME BREATH. THE ORIGINAL CARD IN THIS FILE MADE THE FIVE WORDS ABOUT A MAN WHO HAD ASKED HER, AND THE CHAPTER HAS THEM ABOUT HIS SON, AND THE FILE WAS WRONG.",
     "0630": "A woman who has done a thing for a man for years has decided to go on doing it and to say so out loud, which nobody asked her to do. A man asks her why she is telling him and she gives him the truth, which is that he asked her once, years ago, in a particular way. It is the first true reason in the batch and it costs her more than any of the false ones.",
     "0631": "A man has found out that five words he said in a doorway in March have gone round four streets. He has decided not to go round and say where they came from. A young woman on that street asks him why he is not going round. His reason is false and he knows it, because going round means saying it was her, and he will not do that.",
     "0632": "A woman has heard the five words from two people who each said they got them from somebody else. She has decided to go to the man everybody says started it. He gives her a reason for having said it and the reason is the name of a man who will not say where he got it, so she goes away with a fact she cannot use.",
     "0633": "The woman who invented the five words in a kitchen has found out that they are round the street and that they have been put on a man who did not start them. She has decided to go round and say they were hers. A man opens his door and asks her why she is saying it and she gives him the truth, and does not give him the second half of it.",
     "0634": "The man the sentence was invented about has been told she is coming and she has come. He asks her why she is here and she gives him her reason. He then tells her the one thing that was left out of it, which is that he did ask her, once, and she said no, and she has been carrying the wrong half of a true thing since the first of March."
   },
-  "card_prohibitions_honoured_in_this_file": "NO CARD IS A CLOSE AND NONE MAY BE CALLED ONE. 0634 LANDS A DECISION AND OPENS A QUESTION AND WRAPS NOTHING."
+  "card_prohibitions_honoured_in_this_file": "NO CARD IS A CLOSE AND NONE MAY BE CALLED ONE. 0634 LANDS A DECISION AND OPENS A QUESTION AND WRAPS NOTHING.",
+  "corrected_by_a_later_batch": "TWO CARDS WERE CORRECTED IN THIS FILE ON THE FIFTH OF JUNE BY THE WRITER OF 0645, AS THE 0044 HAND-OVER AND THE 0045 PROMPT BOTH ASKED FOR. 0626 AND 0629 WERE BOTH WRONG ABOUT THEIR OWN CHAPTERS AND THE FILE HAD NEVER BEEN REWRITTEN. THE BANDS FOR 0639 AND 0640 IN THE 0045 FILE WERE ALSO WRONG AND HAVE BEEN CORRECTED THERE. A FILE THAT LOSES TO ITS CHAPTERS AND IS NOT REWRITTEN IS THE SAME PLACE THE HAND-OVER LIES FROM, AND THAT PLACE HAS NOW BEEN CLEANED TWICE."
 }
