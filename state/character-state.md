@@ -3311,3 +3311,17 @@ Six figures, one line each, in the order they appear on the page. Only what chan
 **FIGURES NOT AGED AND MAY NOT BE AGED.** Unchanged. The man with keys at the lock-up. The woman who books a job by telephone and has only had her house since February. The woman from a shop. The stranger on the telephone who is after a man who did her kitchen. The woman who was sent to a gate and carries a bag.
 
 **THE THING THAT IS NOT A CHARACTER AND IS ON THE PAGE.** The join: two pairs of wire, blue to brown, taped at the twist, behind the plate of a telephone. Five instances in this borough are now known to two people, who have spoken once and hung up.
+
+## VOLUME 05, CONTINUATION 0054, CHARACTER STATE AFTER CHAPTER 734
+
+Woman of seventy-eight at twelve. Bowl emptied twice daily. Envelope six in pencil, four done, nothing crossed, no pencil, pen dry in drawer. Front room entered three times, never sat in. Ladder folded under window untouched. Brush stepped over. Lamp burning. Gate propped back. Wants the machine quiet. Will not ask.
+
+Man in early forties at the unit. Gates paid, chalk fading, not re-chalked. Run proud near a quarter inch over six foot, left alone by decision. Posts at cottage firm. Scrap twelve in pocket. Pencil behind ear. Drawer shut since November. Stool folded by paint. Wants the run true. Will not say bell aloud.
+
+Woman in late forties clearing houses. Van tidy. Boards and bolster shut. Drawer with leads and screws shut. Box behind bench unmoved since October. Blanket set aside unopened. Rag bag tied. Pad with empty hall line and new cupboard line. Thursday booked. Wants a job she can mark. Will not say which house a thing came from.
+
+Woman in late fifties at nine. Stool dusted and sat on. Bulb wiped and returned. Jug lid at two layers, third refused. Pads six, first crossed twice. Back door shuts true. Fire unlit. Never up the road. Wants to be no cause. Will not look at her own door to prove it.
+
+Woman in early thirties at ten. Paper three lines on table, tools now away in drawer. Tape three and a half inches on shelf. Ply short against shed felt. Line pegged tighter. Light Saturdays. Wants someone who would come. Will not walk the ninety yards, yard only in 0734.
+
+Man in late twenties off the ring road. Not in this block. Van and shop, bell under boards under two nails, landing answer given. No job on the page in May or June. Wants to come back to his houses. Will not go down to a bell going.

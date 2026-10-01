@@ -1766,3 +1766,25 @@ The summaries above describe the chapters as they were written. The bodies are u
 - **0722 — The Only Person In The Building.** A man in his late twenties takes four doors off their frames on a landing off the ring road, is the only person in the building, picks up a telephone on the landing wall when a bell goes in a room at the back, and tells a stranger there is nobody here but him, three times, all of it true. **Ends, now:** the one question on the landing that would have told him whose kitchen it was, declined, and the mobile put face down on the dash so that he will see it light up.
 - **0723 — The Number Was On The Machine And There Is No Pencil In This House.** A woman of seventy-eight finds a message she did not ask for, hears a telephone number twice, carries a pen out of her kitchen drawer, and does not write it down. She tells her sister out loud that the telephone in this house rings for people who do not live here, and when her sister offers to ring it from her own house she says no. **Ends, now:** the sister does not go, and stands at her own gate off down the road with her bag on her arm, and is watched, and does not get called out to, and goes in, and a light goes off.
 - **0724 — The Back Of The Card.** A man in his early forties takes the cover off a telephone on the wall of his own unit, finds the same two pairs of wire joined to each other, writes a telephone number on the back of a scrap of scribing card that has had nothing on it since before Christmas, rings a woman he has not rung since the spring, and gets two answers and hangs up on her. **Ends, now:** the shop's own telephone on his own wall rings near the end of the day for the first time in three months, eleven times, with the two pairs of wire behind the cover he put back on at two, and he stands four foot away with a screwdriver and does not answer it.
+
+## 0725 to 0734
+
+0725. A woman of seventy-eight finds her only pen dry on the gas envelope, puts it back in the drawer, talks to her sister at the gate about the lamp that burns in daylight, and pulls her front door to for the night.
+
+0726. A man in his early forties sweeps shavings, leaves a proud run alone, looks at chalk numbers on paid gates without re-chalking, talks to a lad about timber, and latches the unit at dark.
+
+0727. A woman in her late forties sorts rags without opening the set-aside blanket, rules a new cupboard line and leaves the hall line empty, talks to the man with keys about the van, and ties the rag bag twice.
+
+0728. A woman in her late fifties wipes and returns the same bulb, leaves the jug lid at two layers, talks to her sister at the gate about the bin that never was, and switches nothing new on.
+
+0729. A woman in her early thirties tries ply against the shed felt and finds it short, puts the hammer and screwdriver away in the drawer, talks to her sister about the paper, and re-pegs the line tighter.
+
+0730. A woman of seventy-eight looks into her front room without sitting, sees the folded ladder and a silent telephone left where it is, talks to her sister on the step about the room, and comes back to her kitchen.
+
+0731. A man in his early forties drives the long way to the cottage, finds the posts firm, talks to the man there about hands, and drives back without going up the road.
+
+0732. A woman in her late forties clears her van, leaves the box behind the bench, books a Thursday clearance, and shuts the van doors before driving away.
+
+0733. A woman in her late fifties dusts four stools, sits on the ash one, talks to her sister at the gate about the pads, and switches the front room light off early.
+
+0734. A woman in her early thirties leaves paper out with tools away, talks to her sister at the gate about the ninety yards, walks to the end of her own yard and back, and puts the kettle on.

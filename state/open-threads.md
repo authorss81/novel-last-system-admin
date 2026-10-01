@@ -5688,3 +5688,15 @@ TWO THREADS CARRIED FORWARD FOR 0053: a man at the cottage waits on hands and a 
 **6. THE CLASSES SPENT BY THIS REPAIR, SO THAT A LATER WRITER DOES NOT SPEND THEM AGAIN.** The three-slot closing ledger is gone as a form and no chapter may open or close on it. The all-caps hand-over is gone as a style and is not gone as a source of facts. The rule that a block must declare a new family is gone, and the thirteen families from 595 to 724 being the same shape is the reason this stretch of the volume reads as one texture. All three are in §10 of the 0054 prompt.
 
 **7. STILL WRONG, AND STILL A HUMAN'S, NOT OURS.** The manuscript has left the novel and this is the sixty-sixth prompt to flag it. The page holds 530 chapter files against a range of 195 to 242, and against a 720-chapter target. `state/phase-ledger.json` is controller-owned and was not touched. `NOVEL_SPEC.md` still says no chapter prose has been generated, and is stale. **And the review added the finding that outranks all of it: the loop has diagnosed this about sixty-five times and the block gets written anyway. The runner honours a `.blocked` marker on a phase directory and a writer does not create one. There is no stop condition in the writer's reach and a human has to put one there.**
+
+## VOLUME 05 OPEN THREADS, after Continuation 0054, Chapter 734
+
+1. The join. Two pairs joined at plates in walls across one part of the borough. Two people have had it in their hands and spoken once. No way to have the conversation without making someone answerable. Untouched in 725 to 734 except as standing knowledge.
+
+2. The number nobody has. A message with a number twice heard and not written, pen dry, machine ready to record over it. Still nowhere in 725 to 734.
+
+3. The ninety yards. Two sisters, a wrong address given and a door shut, neither walking the road. 0734 walks the yard only. Which sister stands on the step at twelve stays unresolved per 0692.
+
+4. The hall line. An invoice pad with a ruled hall line and nothing under it, now with a cupboard line after it. Still empty. The Thursday booking in 0732 is new work, not the hall.
+
+All six people stand where they stood, with small moves: pen proven dry, run left proud, pad ruled, bulb wiped, tools put away, posts proven, van cleared, stool sat on, yard walked. The late twenties man has no job on the page. The freeholder has not arrived. The ladder stays folded. The line stays crossed.

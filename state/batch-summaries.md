@@ -2346,3 +2346,23 @@ The batch was not restarted and the plot was not changed. The family of the bloc
 **The family is not spent by this repair.** A telephone that rings in a house where the person it is for does not live is still the subject of 715 to 724 and a later writer may or may not spend it. What is spent is the *form*: the closing ledger, the all-caps hand-over as a style, and the rule that a block must declare a new family. Thirteen families from 595 to 724 are the same shape, and that is the reason the review called this stretch formulaic. All three retirements are in §10 of the 0054 prompt.
 
 **Still open, still not a writer's.** The manuscript left the novel and this is the sixty-sixth prompt to flag it. The page holds 530 chapter files against an on-page range of 195 to 242 and against a 720-chapter target, and volume 06 has no outline and no files. Nothing was rewritten to hide any of it. The review's own addition, which outranks the rest: the loop has no stop condition the writer can reach, and the runner's marker for halting is a `.blocked` file that a writer does not create.
+
+## Continuation 0054, chapters 725 through 734, Sunday the fifteenth of May 2022 to Thursday the sixteenth of June 2022
+
+This block declares no family. Each of the ten scenes changes the situation on its own. The man in his late twenties sits the block out because his two jobs are spent and there is no third job on the page for him.
+
+Dates are Sunday 15 May, Wednesday 18 May, Sunday 22 May, Saturday 28 May, Tuesday 31 May, Friday 3 June, Tuesday 7 June, Friday 10 June, Monday 13 June, Thursday 16 June 2022. Ten gaps at 3, 3, 4, 6, 3, 3, 4, 3, 3 and 3, counted ten off two dates, span thirty-five days from Thursday the twelfth of May, inside the bound of the eleventh of June to the twenty-first of July and the loose bound to the seventeenth of July. No chapter on the ninth or the eleventh. Weekdays checked on the real 2022 calendar.
+
+Counts with method. `ls chapters/volume-05/chapter-*.md | wc -l` gives 540, which is 734 minus 195 plus one, counted off the files. `wc -w` over the ten gives 7842: 1109 / 968 / 815 / 793 / 768 / 721 / 652 / 677 / 636 / 703. Dashes per chapter at a real turn: 6 / 6 / 4 / 4 / 4 / 4 / 4 / 4 / 4 / 4, total 44. Declared word away at 14: 1 / 1 / 2 / 0 / 1 / 2 / 1 / 2 / 0 / 4. Quoted lines at 10 / 6 / 4 / 10 / 6 / 8 / 6 / 6 / 8 / 5, none at zero. Said at 3 because attribution reads says.
+
+Day-count census as a list. No numeral plus seconds, minutes, hours, days or weeks. No clock reading. Eleven at zero. Four years at zero. What survives is tenure, age, date, count of acts, count of things, and dimension.
+
+Banned sweep with the full list. hold, holds, held, holding, claim, claims, counter, counters, seal, seals, seam, seams, term, terms, notice, notices, lens, margin, system, panel, permission, bearer, lattice, civicore, goal, resistance, change, beat, changes, changed, changing, goals, beats: all at zero on word boundaries. Watchlist household, threshold, encounter, determine, noticed, exchange: all at zero. Self-reference this chapter, in this account, in this story, in this block, on this page, the writer: all at zero in the prose.
+
+Spelling by the 0047 method. Every form in the ten compared against every form earlier in the volume. Distinct forms 827. First uses 21: anger, argues, bedtime, chit, cool, dents, duster, faded, farewell, hitches, inkless, satisfied, sharpens, smiles, smiling, spoil, squats, stools, tighter, unfolding, unties. No misspelling found.
+
+Repeated sentences of eight words or more involving any of the ten: zero, after repair of six body sentences and ten roster lines that matched canon wording. The account house form under eight words still recurs and is not counted as a defect.
+
+No spoken human personal name on the page. No chapter describes itself. No closing ledger in any of the ten. Each ends on something a person does or decides not to do. Card 0734 is not a close and is not called one.
+
+Still open and not a writer's. The volume holds 540 files against 195 to 242. The manuscript left the novel at 0263. The line stays crossed. The freeholder does not arrive. The ladder stays folded. Sixty-six prompts and counting on the human rulings.
