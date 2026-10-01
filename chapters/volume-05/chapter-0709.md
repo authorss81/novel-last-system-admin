@@ -40,7 +40,7 @@ He looks at the washing and at the shed and at her.
 
 "What would it take."
 
-She could say the three lines on the bit of paper in the drawer. A roll and a tin and a lip of timber under a new edge. She does not say them, because saying them would mean asking for hands, and asking would mean saying the job out loud in a cold yard with the washing flapping, and the not-asking is the engine in her and not outside her, and it has run this way since May without breaking.
+She could say the three lines on the bit of paper in the drawer. A roll and a tin and a lip of timber under a new edge. She does not say them, and the coal man is standing three feet away with his barrow tipped, which is the only time in five months that a person who might have heard it has been close enough to hear it. Saying them would mean asking him for hands in a cold yard with the washing flapping off the shed, and she has got so used to the not-asking running by itself that she would have to stop the machine to start it.
 
 ---
 

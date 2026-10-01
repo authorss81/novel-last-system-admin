@@ -24,6 +24,22 @@ The scrap of scribing card is in his shirt pocket with the letting agent card wi
 
 ---
 
+He spends the middle of the day with the gates against the wall.
+
+He takes the rule and measures post to post in his head, latch stile to drop bolt, and marks nothing. The pencil stays behind his ear. The scrap stays in his pocket. The drawer stays shut under the bench with the brush in the bag inside it. He lays his palm flat on the top gate and feels the oak cold through his skin. The numbers chalked on the backs show pale. He wipes a smear of dust off one with his thumb and does not touch the chalk.
+
+The man at the bench opposite comes over with offcuts and stacks them.
+
+"You still not written," he says, nodding at the pencil.
+
+"I have not written," he says. "Twelve on one side and room on the other. Room for a number and a street. I have had it since October."
+
+"Write the cottage number."
+
+"It is not the cottage number that wants writing. It is his number. Lent without taking it. Left in a porch. Now under a window. I cannot write what I never took."
+
+---
+
 At the middle of the day the man at the bench opposite comes over with two cups and puts one down on the bench.
 
 "You look sour," he says.
@@ -70,6 +86,14 @@ He takes the pencil from behind his ear and puts it back behind his ear. He does
 
 ---
 
+He eats standing up at the bench with the rule beside his plate.
+
+The van is outside in the yard with the stranger brush in the footwell. He looks at it through the small window while he eats. Stone and leather at the bottom of a canvas bag since July. He has never taken it out and never put anything with it. Taking it out would mean asking whose it is, and he does not ask.
+
+He thinks about the bowl while he eats, white china under a bath tap, emptied at first light and at dark. He saw it in July when he was in that house to look at the table foot. The bead grew and let go while he stood there with the rule in his hand. He said nothing about it then. Saying it would have meant offering, and offering would have meant hands, and he had no hands to spare.
+
+---
+
 They go back to the run and sight it again.
 
 The posts are already in the ground at the cottage, and the pair of oak gates are leaning against the back wall of his own unit with a number chalked on the back of each. The man who has paid wants them by the spring and he cannot hang a gate on his own without a ladder. The stool he built will not do it. The top run being a quarter of an inch out will not do it either, because a gate hung true against a run that is out shows the run up, and a run packed true without hands shows him up if it slips.
@@ -97,30 +121,6 @@ The drawer under the bench stays shut. The shoebox stays on the top of the bench
 "Aye. And who would keep the frame while she goes up the fixed four rungs beside the hatch to see the cistern that weeps at the far side of a joist."
 
 The man has nothing to say to that, because there is nothing to say to it. The water keeps coming and the bowl keeps filling, round and white and cold, and asking about it would mean saying the job out loud, and neither of them says it.
-
----
-
-He eats standing up at the bench with the rule beside his plate.
-
-The van is outside in the yard with the stranger brush in the footwell. He looks at it through the small window while he eats. Stone and leather at the bottom of a canvas bag since July. He has never taken it out and never put anything with it. Taking it out would mean asking whose it is, and he does not ask.
-
-He thinks about the bowl while he eats, white china under a bath tap, emptied at first light and at dark. He saw it in July when he was in that house to look at the table foot. The bead grew and let go while he stood there with the rule in his hand. He said nothing about it then. Saying it would have meant offering, and offering would have meant hands, and he had no hands to spare.
-
----
-
-He spends the middle of the day with the gates against the wall.
-
-He takes the rule and measures post to post in his head again, latch stile to drop bolt, and marks nothing. The pencil stays behind his ear. The scrap stays in his pocket. The drawer stays shut under the bench with the brush in the bag inside it. He lays his palm flat on the top gate and feels the oak cold through his skin. The numbers chalked on the backs show pale. He wipes a smear of dust off one with his thumb and does not touch the chalk.
-
-The man at the bench opposite comes over with offcuts and stacks them.
-
-"You still not written," he says, nodding at the pencil.
-
-"I have not written," he says. "Twelve on one side and room on the other. Room for a number and a street. I have had it since October."
-
-"Write the cottage number."
-
-"It is not the cottage number that wants writing. It is his number. Lent without taking it. Left in a porch. Now under a window. I cannot write what I never took."
 
 ---
 

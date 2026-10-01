@@ -4,7 +4,7 @@ Thursday the thirty-first of March 2022, in this borough. She is in her own kitc
 
 **A WOMAN IN HER EARLY THIRTIES SORTS A DRAWER WITH PLY AND TAPE AND A PENCIL AND A FOLDED PAPER WITHOUT TAKING THE PAPER OUT, LOOKS AT A SHED ROOF FROM HER OWN WINDOW, AND SPEAKS ON HER OWN STEP TO HER SISTER ABOUT THE FOLDED LADDER AT NUMBER TWELVE AND ABOUT WATER THAT KEEPS COMING.**
 
-She is a woman in her early thirties. She is at home all day. Her sister is on her own step at the end of the day. She speaks to her on the step.
+She is a woman in her early thirties. She is at home all day. Her sister comes off the front path at the end of the day and the two of them are on the step together until dark. She speaks to her on the step.
 
 ---
 
@@ -18,9 +18,9 @@ She lifts the ply and sets it square, edge to edge, and lifts the tape roll and 
 
 She stands at the kitchen window after with a cup in both hands, warming them.
 
-The shed stands dark at the end of the yard with the felt gone along the whole front edge and the pale line where it lifts and the dark underneath where the water gets in. The washing is in a basket on the kitchen table, dry and folded. She does not peg it today because the sky is grey at the edges and the draught comes off the top of the shed and would set it flapping.
+The shed stands dark at the end of the yard with the felt gone along the whole front edge and the pale line where it lifts and the dark underneath where the water gets in. The washing is in a basket on the kitchen table, dry and folded. The sky is grey at the edges and the draught comes off the top of the shed, and a thing pegged into that draught is a thing pegged wrong. She will look at it again before the light goes.
 
-She thinks about water while she stands there, because water is the subject and will not sit. There is a bowl under a bath tap at number twelve, emptied at first light and at dark, white china with a folded cloth beside it. She put the ladder in the front room of that house on the seventeenth of December, folded against the wall under the window, tape round the second rail, chalk on the third tread. The bowl fills in another room of the same house, round and white. Both wait where they were not meant to stay.
+While the cup cools she runs over the water in the borough. A bowl under a bath tap at number twelve, emptied at first light and at dark, white china with a folded cloth beside it. She put the ladder in the front room of that house on the seventeenth of December, folded against the wall under the window, tape round the second rail, chalk on the third tread. The bowl fills in another room of the same house, round and white. Both wait where they were not meant to stay.
 
 ---
 
@@ -29,6 +29,20 @@ She spends the middle of the day in the yard with the mat.
 The yard is paved and cold and the walls show the damp, green at the joints, white at the coping. The back door shuts true behind her the way it always does, catch clicking. She shakes the mat over the wall, dust flying down the back, and puts it back empty, square to the step. The coal man does not come down the back today because there is no load due. The lamp at the end of that road cannot be seen in daylight and she does not look for it, as she has never been able to from this yard.
 
 She comes back in and puts the kettle on. The drawer stays shut with the paper still in it. The shed goes on letting water in. The bowl goes on filling. All three wait.
+
+---
+
+She pegs the small washing in the thin sun that comes late.
+
+The sun comes in weak off the gable end and stays for about an hour, the way it does when a spring month is deciding what it is. Socks and tea towels in a row where the wind takes them. She pegs each by one corner and smooths it with her palm. The shed stands dark behind the line with the felt gone at the front edge. The draught lifts the tea towels and sets them flapping against the line. She watches them flap without moving them. Moving them would mean unpegging and repegging round the draught, and she has pegged round it since May.
+
+She thinks about the paper while she pegs, folded under the pencil in the shut drawer. Three lines. A roll and a tin and a lip of timber. She knows them by heart and does not take the paper out to check them, because a thing known by heart and a thing read out loud are two different things and she wants the first of them.
+
+---
+
+She takes the washing in and counts the pegs into the bag.
+
+She pulls the line down in one hand and gathers the cold cotton to her chest armful by armful and folds each thing in squares on the kitchen table, smoothing with her palm until the pile is white and grey and neat as a shop stack. Twelve pegs, wood smooth, springs stiff. She drops each one in and ties the neck of the bag. Then she sets her palm flat on the top of the folded washing and feels the sun still in it, which is the only thing she gets out of the hour.
 
 ---
 
@@ -42,7 +56,7 @@ They stand on the step with the door wide and the yard cold behind them. The sis
 
 "Why not take it."
 
-"Because three lines with nothing on them but the shape of a problem is a worse thing than nothing at all. And because taking it would mean reading it out loud, and reading it would mean asking, and I am not asking."
+"Because three lines with nothing on them but the shape of a problem is a worse thing than nothing at all. And because if I say them out loud in this yard then they are a job, and a job has to be given to somebody, and there is nobody to give it to. I would rather have a piece of paper in a drawer than a promise in a cold yard that I cannot keep."
 
 Her sister nods, because sisters know when a thing is finished.
 
@@ -58,7 +72,7 @@ They talk about the ladder on the step with their arms wrapped round them.
 
 ---
 
-They talk about water after, because water will not sit.
+They go on to the tap while they are standing there, because the jug is empty and the tap is the reason.
 
 "There is a bowl," her sister says. "Under a bath tap."
 
@@ -76,7 +90,7 @@ She looks at the shed with the felt gone at the front edge standing dark at the 
 
 They drink tea on the step with the door wide to the yard.
 
-The sister pours from the pot into two cups and they sit on the step with the cups in both hands and their shoulders touching. The yard lies cold before them, paved and grey, walls damp, mat empty, shed dark at the end. The washing sits folded on the kitchen table behind them. The drawer sits shut under the worktop with the paper in it. Neither looks at it.
+The sister fills the jug at the tap inside and carries it out with two cups, and they sit on the step with the cups in both hands and their shoulders touching. The yard lies cold before them, paved and grey, walls damp, mat empty, shed dark at the end. The line stands bare. The folded washing sits on the kitchen table behind them. The drawer sits shut under the worktop with the paper in it. Neither looks at it.
 
 "Sixty watt," her sister says, out of nothing. "Cold room. Nothing under the stool."
 
@@ -86,21 +100,7 @@ They laugh at that, short and low, because it is true and because laughing is wh
 
 ---
 
-She pegs the small washing at the middle of the day in the thin sun.
-
-Socks and tea towels in a row where the wind takes them. She pegs each by one corner and smooths it with her palm. The shed stands dark behind the line with the felt gone at the front edge. The draught lifts the tea towels and sets them flapping against the line. She watches them flap without moving them. Moving them would mean unpegging and repegging round the draught, and she has pegged round it since May.
-
-She thinks about the paper while she pegs, folded under the pencil in the shut drawer. Three lines. A roll and a tin and a lip of timber. She knows them by heart and does not take the paper out to check them. Checking them would mean reading them out loud in a cold yard, and reading them would mean asking, and she is not asking.
-
----
-
-She counts the pegs at the end of the day into the bag.
-
-Twelve pegs, wood smooth, springs stiff. She drops each in and ties the neck of the bag. The washing sits folded on the kitchen table, warm from the line where the sun found it. The drawer sits shut under the worktop. The shed stands dark. The bowl fills. She sets her palm flat on the folded washing when it is done, feeling the sun still in it.
-
----
-
-She blacks the stove at the middle of the day with the drawer shut beside her.
+She blacks the stove before her sister goes, with the drawer shut beside her.
 
 The stove top is grey with ash. She rubs the black over it in rounds with a rag, working it into the iron. The black comes up dull and even. She wipes her hands on the rag and sets the kettle back square on the left ring. The drawer stays shut with the paper in it. The shed stands dark outside. The bowl fills across the borough. All three wait while she blacks.
 

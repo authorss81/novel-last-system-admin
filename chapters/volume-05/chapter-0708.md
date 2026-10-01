@@ -12,7 +12,7 @@ She starts with the yard before there is any light in it.
 
 The bucket is under the sink with the scrubber in it, bristles worn, handle smooth. She fills it at the kitchen tap, watching the cold run clear, and carries it out in both hands, weight steady, and sets it down on the slab by the back door and scrubs the green off the stone in rounds. The back door shuts true behind her, with the card at the hinge she fixed herself in March. The water is cold and the slab comes clean in a half moon round where she kneels. She tips the dirty water to the drain and fills the bucket fresh and does the next slab.
 
-She thinks about water while she does it, because water is the subject and will not sit. There is a bowl under a bath tap at number twelve, emptied at first light and at dark, and she has never seen it and knows it by heart, because her sister told her in December and in January and in February, and because a bowl that fills twice over is a thing anybody can picture.
+While the water is out she thinks about other water. There is a bowl under a bath tap at number twelve, emptied at first light and at dark, and she has never seen it and knows it by heart, because her sister told her in December and in January and in February, and because a bowl that fills twice over is a thing anybody can picture.
 
 ---
 
@@ -21,6 +21,14 @@ She comes in at the middle of the morning and wipes the top of the fridge.
 The six pads are on the fridge in a row, edges square, pencil alongside. She takes the first one and wipes the top in long passes, corner to corner, and crosses the first line twice with the pencil on the pad, blunt line over blunt line. The fire in the front room is unlit since Easter. The sixty-watt bulb is in the ceiling of that room since the seventh of December. She goes to the doorway of the front room with the cloth in her hand and looks in without going in, taking the shape of it: window, stool, chair, settee, bulb, cold fire. She has looked at it this way since Easter, and looking has become a habit with a shape of its own, doorway, cloth, look, away.
 
 The ash stool is in the front room opposite the window, three oak and one ash, with the space under it empty since the fifth of November. Chair one side and settee other and the stool between them where a table would be if anybody sat there. Nobody sits there. She dusts the top of it with the cloth and does not move it.
+
+---
+
+She eats at the middle of the day with the bucket outside.
+
+She puts bread and soup on the kitchen table and eats standing up with one hand round the bowl, steam on her face, spoon slow. The six pads sit on the fridge with the first crossed twice, pencil line gone over pencil line. She looks at them while she eats, at the blunt pencil beside the pad, at the clean fridge top showing where she wiped. Crossing the first twice was January, pencil blunt, line gone over, wrist cold. She has not crossed another since. The pad waits. The pencil waits. Both sit where she left them.
+
+She thinks about the stool while she eats, ash opposite the window with nothing under it since the fifth of November. She dusted it before the soup and did not move it. Moving it would mean finding where to set it, and the room is set as it is, chair one side and settee other, and she does not move what is set.
 
 ---
 
@@ -82,14 +90,6 @@ The sister nods, because sisters know when a thing is finished.
 
 ---
 
-She eats at the middle of the day with the bucket outside.
-
-She puts bread and soup on the kitchen table and eats standing up with one hand round the bowl, steam on her face, spoon slow. The six pads sit on the fridge with the first crossed twice, pencil line gone over pencil line. She looks at them while she eats, at the blunt pencil beside the pad, at the clean fridge top showing where she wiped. Crossing the first twice was January, pencil blunt, line gone over, wrist cold. She has not crossed another since. The pad waits. The pencil waits. Both sit where she left them.
-
-She thinks about the stool while she eats, ash opposite the window with nothing under it since the fifth of November. She dusts it and does not move it. Moving it would mean finding where to set it, and the room is set as it is, chair one side and settee other, and she does not move what is set.
-
----
-
 She pegs a rug on the line after, though the air is cold.
 
 The rug is small and square and she pegs it by two corners and knocks the dust out of it with her palm. The dust comes off in a cloud and settles on the clean slabs. She looks at the dust on the clean stone and fetches the bucket and rinses it off with a cup of water. The slab comes clean again in a half moon. She tips the cup back in the bucket.
@@ -102,7 +102,7 @@ The sister watches from the door with her arms wrapped round her.
 
 ---
 
-They walk round the yard together before the sister goes.
+They walk round the yard together with the bag in the sister's hand.
 
 The sister looks at the drain where the water goes and at the wall where the damp shows. She does not go up the road and does not look up it. She has never gone up it. The lamp at number twelve burns where it burns and cannot be seen from here in daylight. Both know it is on.
 

@@ -12,7 +12,7 @@ She starts with the van before there is any light in the yard.
 
 The white van is at the kerb with the frost on it, white on blue, wipers lifted. She opens the side door, runners loud in the cold, and looks in without getting in, breath showing. The bolster is on her own board with the drawer under the passenger bench shut with the leads and the screws in it, shut since the middle of November. The box is behind the bench under a bag of rags since the twenty-second of October with a number on its label she read twice and wrote nowhere. The bag with somebody else blanket in it is in with her own rags since the twelfth of November. She moves the bag to one side to get at the broom, lifting with her knees, setting it down square, without opening it, knot tight, blanket inside unseen. She sets it back after, square where it was, and the setting back is a thing that is finished.
 
-She thinks about water while she does it, because water is the subject and will not sit. There is a bowl under a bath tap at number twelve, emptied at first light and at dark. There is a kettle with a furred spout in a house she cleared. Both go on whether she looks at them or not.
+She stands at the heap with the bagged corner in front of her and thinks about it while the doors are open and the road is empty. A bowl under a bath tap at number twelve, emptied at first light and at dark. A kettle with a furred spout in a house she cleared last winter. Both go on whether she looks at them or not, and neither of them is hers, and she has found that the easiest kind of thing to stand next to.
 
 ---
 
@@ -20,7 +20,15 @@ She drives to the lock-up in the grey and opens up.
 
 The lock-up is cold and square with a heap at the back under a sheet, padlock stiff, doors dragging. She sorts what is hers from what is not, bag by bag, lifting each to feel the weight, and sets the bags in a row, necks tied, labels out. The taped box with the bagged corner is on the heap where she saw it on the seventh of January, with the folded bit of bag over its corner where the damp came through. She saw a heap box with a bagged corner then and left it. She leaves it now.
 
-She does not open it. Opening it would mean asking whose it is, and asking would mean saying the job out loud in a cold lock-up with the doors wide, and the not-asking is the engine in her and not outside her, and it has run this way since October without breaking.
+She does not open it. If she opens it she has to ask whose it is, and asking in a cold lock-up with the doors wide is asking out loud, and she has spent since October not saying things out loud, which is a habit and not a virtue and has never once broken.
+
+---
+
+She eats in the cab at the middle of the day with the doors locked.
+
+Bread and cheese on her knee with the pad on the dash. She writes nothing while she eats. The figure for the job sits in her head, four hours, no invoice, plain. The shut drawer sits under the passenger bench at her elbow. She lays her palm on the front of it without opening it, feeling the woodgrain through the dust. Shut since the middle of November. Bolster on the leads inside. Screws with it. Nothing in and nothing out.
+
+She thinks about the number on the box behind the bench while she eats, read twice, written nowhere. Black on white, figures neat. She could have written it on the pad. She did not. The not-writing sits with the not-asking, and both cost nothing yet and will cost something when they cost it.
 
 ---
 
@@ -58,7 +66,7 @@ He lets that sit, because there is nothing to say to it.
 
 ---
 
-She spends the end of the day in the van with the side door open.
+She is in the van with the side door open before the light goes.
 
 She takes the pad out and writes the figure for the job on it and puts no line for anything else on it. The two cuts on both palms are shut now, plaster on one and not on the other. The shut drawer under the passenger bench stays shut. The bolster stays on the leads. The box stays behind the bench under the rags. The bag with somebody else blanket stays set to one side without being opened.
 
@@ -83,14 +91,6 @@ She sweeps the lock-up floor at the end of the day with a stiff broom from behin
 She sweeps round the bag row and under the sheet edge and into the corners by the doors. The dust comes grey in the low light. She tips it in a bag and ties the bag. The floor shows the tyre marks where the van stood. She sets the broom back behind the doors. The shut drawer in the van outside stays shut. The bolster stays on the leads. The box stays under the rags. The bag with somebody else blanket stays set to one side.
 
 She stands at the doors with her hands in her pockets and looks at the sheeted heap. The water runs somewhere in the pipes over the lock-up, bead and run, bead and run. She thinks about the bowl while it runs, round and white under a bath tap, emptied at first light and at dark. She thinks about the kettle with the furred spout. She thinks about the bucket cold on a yard slab. All three go on whether she sweeps or not.
-
----
-
-She eats in the cab at the middle of the day with the doors locked.
-
-Bread and cheese on her knee with the pad on the dash. She writes nothing while she eats. The figure for the job sits in her head, four hours, no invoice, plain. The shut drawer sits under the passenger bench at her elbow. She lays her palm on the front of it without opening it, feeling the woodgrain through the dust. Shut since the middle of November. Bolster on the leads inside. Screws with it. Nothing in and nothing out.
-
-She thinks about the number on the box behind the bench while she eats, read twice, written nowhere. Black on white, figures neat. She could have written it on the pad. She did not. The not-writing sits with the not-asking, and both cost nothing yet and will cost something when they cost it.
 
 ---
 

@@ -18,7 +18,9 @@ She sits at the kitchen table under the window on the green chair with the cushi
 
 She wipes the sill at the middle of the morning.
 
-The cloth is damp from the sink and she wrings it out in both hands, water running back, and runs it along the kitchen sill under the window in one pass, pressing into the corners, turning the cloth at the halfway mark. The sill comes clean where she wipes and shows the damp at the edge where the water sits. She thinks about water while she does it, because water is the subject and will not sit. There is a cistern that weeps at the far side of a joist in a roof space nobody has entered since the spring, drip on wood, wood softening. There is a tap that drips into a bowl she empties at first light and at dark, bead and ping. There is a kettle with a furred spout in a house she has never been in, brown for the first cup. All three go on whether she wipes or not, and wiping the sill does not touch any of them, and she wipes it all the same.
+The cloth is damp from the sink and she wrings it out in both hands, water running back, and runs it along the kitchen sill under the window in one pass, pressing into the corners, turning the cloth at the halfway mark. The sill comes clean where she wipes and shows the damp at the edge where the water sits.
+
+While her hands are busy she goes over the water in the borough the way she has gone over it since December. There is a cistern that weeps at the far side of a joist in a roof space nobody has entered since the spring, drip on wood, wood softening. There is the tap in her own bathroom, and a bowl under it. There is a kettle with a furred spout in a house she has never been to, brown for the first cup. Three roofs and three small leaks, and the damp cloth in her hands is not a cure for any of them, and she wipes the sill all the same.
 
 The brush is on the passage floor on the middle runner, handle across, unwashed since the first of September. She steps over it on her way to the sink to rinse the cloth, as she has stepped over it since June. The coal shed is shut with the padlock hanging open in the hasp. The key is on a hook behind her own back door. The gate stands back against the coal shed wall with the two drop bolts in her apron pocket.
 
@@ -32,19 +34,11 @@ She thinks about the sill while she eats, wiped true in one pass with the damp c
 
 ---
 
-She goes out to the gate at the middle of the day with the leaflet in her hand.
+She goes out to the gate after that with the leaflet in her hand.
 
 The gate stands back against the coal shed wall. She puts the leaflet in the pocket of her apron with the two drop bolts and walks round the gate without touching it. The padlock hangs open in the hasp. The coal shed door is shut. She lays her palm flat on the door the way she did on the twenty-first of February and feels the cold come through. The key is on the hook behind her own back door. She leaves it there.
 
 She looks down the road from the gate with her hands in her pockets. The road is empty with washing out two doors down. Nobody looks up it. Nobody asks about the brush on the passage floor or the ladder under the window or the bowl under the tap, because none of them can be seen from the road. What can be seen is a sink and a stove and a green chair through glass, and a lamp on a bracket burning out in the daylight.
-
----
-
-She stands in the doorway of the front room again before dark with her hands in her pockets.
-
-The folding ladder is folded against the wall under the window, four treads shut true, tray on top shut down, a strip of dark tape round the second rail and a chalk mark on the third tread. It has not been opened out and it has not been moved since the seventeenth of December. The rush chair is against the front wall under the window and nobody sits in it. The stool she stood on in the summer is beside the sideboard with nothing on it.
-
-She does not go in. The front room is the only one of the two undone that could now be started and cannot be finished, because you cannot paint round a ladder and cannot move it and cannot ask anybody to take it away. She looks at it from the doorway and comes back to the kitchen.
 
 ---
 
@@ -66,7 +60,9 @@ The lass nods and puts a leaflet in the gate post and goes off down the road. Sh
 
 She stands in the doorway of the front room before dark with her hands in her pockets.
 
-The folding ladder is folded against the wall under the window, four treads shut true, tray shut down, tape round the second rail, chalk on the third tread. The rush chair is against the front wall under the window. The stool is by the sideboard with nothing on it. She does not go in. The front room cannot be started round a ladder and the ladder cannot be moved and there is nobody to ask to take it away. She looks at it from the doorway and comes back to the kitchen, stepping over the brush on the middle runner without bending for it.
+The folding ladder is folded against the wall under the window, four treads shut true, tray on top shut down, a strip of dark tape round the second rail and a chalk mark on the third tread. It has not been opened out and it has not been moved since the seventeenth of December. The rush chair is against the front wall under the window and nobody sits in it. The stool she stood on in the summer is beside the sideboard with nothing on it.
+
+She does not go in. The front room is the only one of the two undone that could now be started and cannot be finished, because you cannot paint round a ladder and cannot move it and cannot ask anybody to take it away. She looks at it from the doorway and comes back to the kitchen, stepping over the brush on the middle runner without bending for it.
 
 ---
 
@@ -82,16 +78,16 @@ She spends the end of the day at the kitchen table with her hands round a cold c
 
 She squares the cloth over the taped box without lifting it, corner to edge, running her palm flat across the top. The label has gone soft at the corners and the gummed strip over the first label carries a street she has never been to and a number that is not twelve. She runs a finger along the edge of the strip without picking at it.
 
-She thinks about the not-asking while she sits there, because the not-asking is the engine in her and not outside her. She could have asked the lass about the leaflet and did not. She could have asked the woman with the folder about the reading and did not. She could have asked the woman of about thirty about the ladder on the seventeenth of December and did not, and the not-asking has cost a room. Nobody is asked why, not once, and what pushes back stays inside her and does not come out.
+She counts the afternoon back while she sits there. The lass came up the road with a bright wad in her hand and stopped at the gate, and she could have called down and asked who sends them and what the picture on them is for, and she did not, because a lass of that age is nobody to ask a thing like that of and she will not stand in a doorway and interrogate a girl over a leaflet. It came to that. Three people have come to that house since Christmas and she has had three chances to say a sentence out loud, and she has said nothing to any of them, and there is a room upstairs that could be started if any one of them had come back with hands.
 
 ---
 
-At dark she goes to the bathroom under the landing with her hands cold and empties the bowl.
+At dark she goes to the bathroom under the landing and empties the bowl.
 
-She lifts it with both hands and tips it into the bath and sets it back under the tap and squares the cloth beside it. The bead grows on the lip of the tap and lets go into the empty china with a small ping. She stands and watches it do it once and then goes out and pulls the door to.
+She carries the cold down in both hands and the china is heavier with the water in it than it was at first light. She tips it into the bath and the water goes down the side of the tub in one long sheet and takes the ring with it. She sets the bowl back under the tap, dry side up, and puts the cloth flat on the tiles beside it rather than over it, because the cloth is not wet enough to be worth folding and she has folded it every morning since Christmas. The bead comes, swells, hangs, drops. She counts it once, which is a thing she has never done before, and goes out and pulls the door to.
 
 She sits at the kitchen table under the window. The front door is not on the latch. The passage light is on. The gate lamp is on out in the dark. The four of six stays four of six and nothing is crossed off and there is no pencil. The bowl is empty and will be half full again at first light, round as a moon in white china.
 
 "There," she says out loud to the empty kitchen. "That is done."
 
-The tap answers with a bead that grows and lets go.
+Downstairs the tap goes bead and bead and bead, and she does not go back and count them again.

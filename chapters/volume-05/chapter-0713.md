@@ -1,26 +1,54 @@
 # Chapter 0713 — The Soup Carried To Number Ten
 
-Sunday the twenty-seventh of March 2022, in this borough. She is in her own front room and kitchen and at her sister house from late morning until dark and the whole of the day is soup carried and a stool dusted.
+Sunday the twenty-seventh of March 2022, in this borough. She is in her own front room and kitchen and at her sister's house from late morning until dark and the whole of the day is soup carried and a stool dusted.
 
 **A WOMAN IN HER LATE FIFTIES DUSTS AN ASH STOOL WITH NOTHING UNDER IT, CARRIES SOUP TO HER SISTER AT NUMBER TEN, AND SPEAKS IN HER SISTER KITCHEN ABOUT A SIXTY-WATT BULB AND ABOUT A BOWL EMPTIED AT FIRST LIGHT AND AT DARK.**
 
-She is a woman in her late fifties. She is at home and at her sister house all day. Her sister is in her own kitchen at the end of the day. She speaks to her in the kitchen.
+She is a woman in her late fifties. She is at home and at her sister's house all day. Her sister is in her own kitchen at the end of the day. She speaks to her in the kitchen.
 
 ---
 
-She starts with the front room in late morning with the sun coming in.
+She starts with the front room in the early morning with the sun coming in.
 
 The ash stool is opposite the window, three oak and one ash, grain showing, joints tight, with the space under it empty since the fifth of November, dust squared round where the cloth went. Chair one side and settee other and the stool between them where a table would be if anybody sat there. She dusts the top of it with the cloth, round and round, and runs the cloth round the four legs, top to foot, and does not move it. Moving it would mean finding where to set it down true, and the room is set as it is, and she does not move what is set. The sixty-watt bulb is in the ceiling since the seventh of December. The fire is unlit since Easter. The room is cold and will be cold in the spring, because a cold room waits without costing anybody but her.
 
-She thinks about water while she does it, because water is the subject and will not sit. There is a bowl under a bath tap at number twelve, emptied at first light and at dark. She has never seen it and knows it by heart.
+She stands in the doorway with the cloth in her hand and looks at a bowl she has never seen. A bath tap at number twelve, running since before Christmas into white china, emptied at first light and at dark by a woman she has never met, and her sister told her about it three times over three months and it is as clear to her as the stool in front of her.
+
+---
+
+She shows her sister the stool before the soup.
+
+Her sister comes at the middle of the morning and stands at her own door with a hand on the frame and does not come past the kitchen, because the front room at number nine is not a room either of them sits in and has not been since Easter, and a visitor in there would be a thing to be got used to.
+
+They stand in the doorway of the front room at number nine. The ash stool sits opposite the window with nothing under it, dusted an hour since, legs true. Chair one side. Settee other. Sixty-watt bulb over. Cold fire below. Her sister looks at the empty space under the stool and at the bulb and at the fire.
+
+"Nothing under it," her sister says.
+
+"Nothing since the fifth of November," she says. "Dusted and left. It waits."
+
+"And the bulb burns."
+
+"Since the seventh of December. It burns when I am in here and when I am not. Leaving it on costs something seen, and turning it off would mean sitting in the cold to prove it, so I leave it."
 
 ---
 
 She makes soup at the middle of the day and carries it to number ten.
 
-The pot is on the stove with the lid on, steam at the rim, soup thick. She ladles it into a jug with a cloth round it, two hands, steady, and carries it down the front path with the jug in both hands and her bag over her arm, step by step on the cold flags. The back door card at the hinge shuts true behind her. She goes round the back at number ten without knocking and lets herself in off the yard, and the back door shuts true behind her the way it always does.
+The pot is on the stove with the lid on, steam at the rim, soup thick. She ladles it into a jug with a cloth round it, two hands, steady, and carries it down the front path with the jug in both hands and her bag over her arm, step by step on the cold flags, and her sister comes up behind her with the bread. The back door card at the hinge shuts true behind her. She goes round the back at number ten without knocking and lets herself in off the yard, and the back door shuts true behind her the way it always does.
 
-Her sister is at the kitchen table with the washing in a basket, cold cotton, pegs in a bag. The drawer under the worktop stays shut, oak front, with the bit of ply in it on top of the tape roll with four inches left, edges curling, and the hammer and the screwdriver lying side by side under it. and the pencil on top of the ply, and the folded piece of paper with three lines on it. Neither of them opens it.
+Her sister is at the kitchen table with the washing in a basket, cold cotton, pegs in a bag, and the bread beside the jug. The drawer under the worktop stays shut, oak front, with the bit of ply in it on top of the tape roll with four inches left, edges curling, and the hammer and the screwdriver lying side by side under it, and the pencil on top of the ply, and the folded piece of paper with three lines on it. Neither of them opens it.
+
+---
+
+She mends the jug lid while the soup cools, with tape from the drawer at number ten.
+
+The lid has a crack from rim to knob. Her sister fetches the tape roll with four inches left and tears half an inch with her teeth and lays it over the crack, smoothing it with her thumb. The tape sticks, brown on white. It will not take the heat but it takes the look of it. They set the lid back on the jug. The jug steams round the tape.
+
+"That will do," her sister says.
+
+"That will do for now," she says. "Half an inch off four. Gone where it went."
+
+They look at the tape on the lid while the soup cools. Four inches was never going to get round a shed edge. Half an inch round a lid crack is something. Leaving the rest on the roll is something. The drawer shuts again with the roll in it, ply on top, pencil on top of the ply, paper under the pencil. None of them reads the paper. The tape did what tape does without the paper being read.
 
 ---
 
@@ -81,32 +109,6 @@ The sister runs the tap and washes the jug and the two bowls and sets them upsid
 "True," she says. "Yours shuts. Hers does not. Mine shuts. Three taps and one fills a bowl."
 
 They stand in the kitchen with the clean bowls on the drainer and the shut drawer under the worktop. The bit of ply sits in it on top of the tape roll. The pencil sits on top of the ply. The paper sits under the pencil with three lines on it. None of them opens it. The shed stands dark at the end of the yard outside with the felt gone at the front edge. The draught comes off the top of it against the glass.
-
----
-
-She shows her sister the stool before they eat.
-
-They stand in the doorway of the front room with the jug steaming on the kitchen table behind them. The ash stool sits opposite the window with nothing under it, dusted that morning, legs true. Chair one side. Settee other. Sixty-watt bulb over. Cold fire below. Her sister looks at the empty space under the stool and at the bulb and at the fire.
-
-"Nothing under it," her sister says.
-
-"Nothing since the fifth of November," she says. "Dusted and left. It waits."
-
-"And the bulb burns."
-
-"Since the seventh of December. It burns when I am in here and when I am not. Leaving it on costs something seen, and turning it off would mean sitting in the cold to prove it, so I leave it."
-
----
-
-She mends the jug lid at the middle of the day with tape from the drawer at number ten.
-
-The lid has a crack from rim to knob. Her sister fetches the tape roll with four inches left and tears half an inch with her teeth and lays it over the crack, smoothing it with her thumb. The tape sticks, brown on white. It will not take the heat but it takes the look of it. They set the lid back on the jug. The jug steams round the tape.
-
-"That will do," her sister says.
-
-"That will do for now," she says. "Half an inch off four. Gone where it went."
-
-They look at the tape on the lid while the soup cools. Four inches was never going to get round a shed edge. Half an inch round a lid crack is something. Leaving the rest on the roll is something. The drawer shuts again with the roll in it, ply on top, pencil on top of the ply, paper under the pencil. None of them reads the paper. The tape did what tape does without the paper being read.
 
 ---
 

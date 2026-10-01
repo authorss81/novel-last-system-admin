@@ -46,7 +46,7 @@ They stand in the lane with their hands in their pockets and look at the gates.
 
 "By a hair," he says. "Posts true. Gates true. Lane slopes. It will sit when it hangs."
 
-He thinks about water while he stands there, because water is the subject and will not sit. There is a bowl under a bath tap at number twelve, emptied at first light and at dark, and he saw it in July when he was in that house. There is a cistern that weeps at the far side of a joist. There is a kettle with a furred spout in a house he has never been in. All three go on whether he looks at them or not.
+He stands with the rule against his leg and thinks about water. A bowl under a bath tap at number twelve, emptied at first light and at dark, and he saw it in July when he was in that house and said nothing about it then. A cistern that weeps at the far side of a joist in a roof space nobody has entered since the spring. A kettle with a furred spout in a house he has never been in. Three houses, three small leaks, and he is standing in a lane with a rule in his hand and a gate that will not go up. None of them is his to stop.
 
 ---
 

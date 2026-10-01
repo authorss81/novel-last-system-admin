@@ -62,11 +62,11 @@ They carry the bags down between them, one at each end, stair by stair, and stac
 
 "I did not ask anybody. I put plaster on one and left the other and got on with it."
 
-She thinks about the not-asking while she says it, because the not-asking is the engine in her and not outside her. She could have asked the man she borrowed the ladder from for his number and did not, and the not-asking cost a porch and a rain and a road and a front room. She could have asked about the number on the box behind the bench and did not, and the not-asking costs nothing yet and will cost something when it costs it.
+She thinks about the ladder while she says it. She could have asked the man she borrowed it from for his number, at his own door, in the rain, and did not, and now the ladder is in a front room at number twelve and she cannot get it back without saying out loud that she never took a number. That is what the not-asking has bought her, and she is standing in a cleared kitchen with the whole of it in her hands. She could have asked about the number on the box behind the bench and did not, and that one has cost nothing yet and will cost something when it costs it.
 
 ---
 
-She spends the end of the day in the kitchen with the kettle cold on the worktop.
+She stands in the kitchen with the kettle cold on the worktop.
 
 The daughter locks the back room and gives her the keys to keep until the van comes, two keys on a ring, labels tied with string. They stand in the kitchen with the bags gone and the blanket square on the chair arm and the kettle furred on the worktop, and the house looks more like itself than it did at first light, curtains straight, sills wiped, which is all she can do for it.
 
