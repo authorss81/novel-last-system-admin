@@ -32,7 +32,7 @@ Here is the round, and it took most of the day, and here is what she got at eigh
 
 One. Nothing at two of them.
 
-Two. At six of them somebody let her in and stood in their own hall and let her finish.
+Two. At four of them somebody let her in and stood in their own hall and let her finish.
 
 Three. At two of them she was not let in and she said it through the door and it is worse through a door and she will not pretend otherwise, and she still said it at both.
 
@@ -52,9 +52,9 @@ And she said, "I've been up to four."
 
 And the woman said, "Right," and shut the door, and that one sat with her for the rest of the day because she had not asked the question she had expected to be asked.
 
-At the fifth, a man in his late thirties, which is the one this chapter is about, but she has to get through the other six first.
+One of them was a man in his late thirties, and that is the one this chapter is about, and she had to get through the rest of them before she got to him.
 
-At the fifth the woman said, "I heard them off the woman at number eight."
+At the fourth the woman said, "I heard them off the woman at number eight."
 
 And she said, "Number eight didn't say them first. Number eight said them in about the middle of March and got them off me, or off somebody I got them off. It's the same five words in the same order."
 

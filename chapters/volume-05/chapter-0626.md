@@ -2,13 +2,13 @@
 
 Friday the fifth of March 2021. He is out of the house at about ten past six and he is not back in until the light goes, and all of it happens on one row of houses in this borough.
 
-**A MAN HAS DECIDED TO GO AND ASK THE WOMAN NEXT BUT ONE TO PUT HIS BIN OUT AGAIN, AND HE HAS NOT KNOCKED, AND THE WOMAN TWO DOORS DOWN STANDS IN HIS GATE ON FRIDAY MORNING AND ASKS HIM WHY HE HAS NOT ASKED, AND HE SAYS BECAUSE HE ASKED.**
+**A MAN HAS DECIDED TO GO AND ASK THE WOMAN TWO DOORS DOWN TO PUT HIS BIN OUT AGAIN, AND HE HAS NOT KNOCKED, AND THAT WOMAN STANDS AT HER OWN GATE ON FRIDAY MORNING AND ASKS HIM WHY HE HAS NOT ASKED, AND HE SAYS BECAUSE HE ASKED.**
 
 He is a man in his early sixties. He lives at the end of a terrace of twelve and he has lived in this borough all his working life and he does not drive any more and he has not driven since before the summer.
 
 The bin is a red wheelie with a catch on the lid that has never worked. It is not his catch and it is not his bin and it was the same before he was ever here.
 
-The woman two doors down is a woman in her early forties and she has lived here longer than he has and she keeps two pots alive in what she calls the front and he has never been invited in.
+The woman two doors down keeps two pots alive in what she calls the front and he has never been invited in.
 
 ---
 

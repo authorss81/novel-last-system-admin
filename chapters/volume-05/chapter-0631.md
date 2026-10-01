@@ -188,7 +188,7 @@ And she said, "I'm asking because you said the woman at number thirty-one never 
 
 And he stood on the step and he had the true reason right there and it was about nine inches away from his mouth.
 
-Because she has lived here since she was a young woman and she is in her mid twenties and she has never asked anybody for anything and never been on a list anybody has made about her, and three people in a fortnight have said it about her, and two of them said it to him and he was one of the other two, and if he does not come up this path tonight then by the end of the month there will be a woman on this estate who has never spoken to her and does not know why she is angry.
+Because she has lived here since she was a girl and she is in her mid twenties and she has never asked anybody for anything and never been on a list anybody has made about her, and three people in a fortnight have said it about her, and two of them said it to him and he was one of the other two, and if he does not come up this path tonight then by the end of the month there will be a woman on this estate who has never spoken to her and does not know why she is angry.
 
 That is the reason and it is the reason he will give his own wife when he gets in.
 
@@ -246,7 +246,7 @@ Here is what he has, and he will not be writing any of it on an invoice.
 
 He has told a young woman on her own step that the five words came off him, and that is true, and it is the only true thing he has got.
 
-He has given her a reason and it was *because there's nothing at the end of it*, and the reason is not true. There is something at the end of it. There is a girl at number thirty-one who has been charged with never asking for anything and there is a young man over a laundry who said it first to see if it would come back, and both of them are inside what he is doing and neither of them is going to hear about it from him.
+He has given her a reason and it was *because there's nothing at the end of it*, and the reason is not true. There is something at the end of it. There is a girl at number thirty-one who has been charged with never asking for anything and there is a young man over a woman who does his washing for nothing who said it first to see if it would come back, and both of them are inside what he is doing and neither of them is going to hear about it from him.
 
 He could have said that. She asked him twice and both times he had it ready and both times he gave her the true reason about the street and not the true reason about her.
 
@@ -256,4 +256,4 @@ He did not get it off a young man and say nothing about that. He got it off a yo
 
 Both of them are the same decision and he made it in the space of a minute on Monday night in the rain with the van outside and the list of nine doors on the inside of the windscreen, and he has been carrying it since.
 
-**HE WENT ROUND ALL FOUR STREETS IN A SINGLE RUN SAYING THAT FIVE WORDS HE HAS BEEN SAYING SINCE THE MIDDLE OF FEBRUARY CAME OFF HIM, AND HE DID NOT SAY THAT HE GOT THEM OFF A YOUNG MAN WHO PUT THEM INTO A WOMAN'S MOUTH ON PURPOSE, AND AT NUMBER THIRTY-ONE A GIRL WHO HAS LIVED THERE SINCE SHE WAS A YOUNG WOMAN ASKED HIM WHY HE WAS COMING ROUND AND HE TOLD HER THERE WAS NOTHING AT THE END OF IT, WHICH IS NOT TRUE, AND SHE SHUT THE DOOR ON THAT.**
+**HE WENT ROUND ALL FOUR STREETS IN A SINGLE RUN SAYING THAT FIVE WORDS HE HAS BEEN SAYING SINCE THE MIDDLE OF FEBRUARY CAME OFF HIM, AND HE DID NOT SAY THAT HE GOT THEM OFF A YOUNG MAN WHO PUT THEM INTO A WOMAN'S MOUTH ON PURPOSE, AND AT NUMBER THIRTY-ONE A GIRL WHO HAS LIVED THERE SINCE SHE WAS A GIRL ASKED HIM WHY HE WAS COMING ROUND AND HE TOLD HER THERE WAS NOTHING AT THE END OF IT, WHICH IS NOT TRUE, AND SHE SHUT THE DOOR ON THAT.**

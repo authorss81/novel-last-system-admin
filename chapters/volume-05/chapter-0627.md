@@ -10,7 +10,7 @@ The woman two doors from that end is the one who put it to her on the Monday, an
 
 ---
 
-He was eating off a plate on his lap with the television on low, and she had not been in the room for a bit and came in and put her bag on the end of the table, and he said, "You'll have been round at Sandra's."
+He was eating off a plate on his lap with the television on low, and she had not been in the room for a bit and came in and put her bag on the end of the table, and he said, "You'll have been round at number nine's."
 
 And she said, "I have not."
 

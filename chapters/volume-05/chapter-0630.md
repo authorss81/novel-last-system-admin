@@ -2,7 +2,7 @@
 
 Thursday the twenty-fifth of March 2021. She is in this borough and the man she is talking to is in this borough and the whole of it happens on four steps outside a church at about half past two in the afternoon in the sun.
 
-**A WOMAN HAS DECIDED TO GO ON DOING A THING SHE HAS DONE FOR A MAN FOR YEARS, AND SHE HAS DECIDED ALSO TO SAY SO OUT LOUD TO SOMEBODY WHO DID NOT ASK, AND WHEN HE ASKS HER WHY SHE IS TELLING HIM SHE GIVES HIM THE TRUTH, AND IT IS TRUE AND IT COSTS HER MORE THAN ANYTHING SHE HAS SAID OUT LOUD TO ANYBODY.**
+**A WOMAN HAS DECIDED TO GO ON DOING A THING SHE HAS DONE FOR A MAN FOR YEARS, AND SHE HAS DECIDED ALSO TO SAY SO OUT LOUD TO SOMEBODY WHO DID NOT ASK, AND WHEN HE ASKS HER WHY SHE IS TELLING HIM SHE GIVES HIM THE TRUTH, AND IT IS TRUE AND IT IS THE CHEAPEST THING SHE HAS EVER DONE.**
 
 She is a woman in her early sixties. He is a man in his mid thirties. He does not know her and she does not know him and they have both been sitting on the steps of a church for a good while before either of them says anything.
 
@@ -278,7 +278,7 @@ One: she has said the true reason out loud for the first time and she said it to
 
 Two: saying it did not make it lighter. She has thought it would and she has been wrong about that, and she has been wrong about that in the past before and has not mentioned it to anybody.
 
-Three: what she has got instead is that she has now said, out loud, to a person who did not ask, that she is going to go on doing a Wednesday afternoon at the top of this borough for the man at number four, and the woman who is in the home with his wife, and that is a thing said in front of a witness. Before today it was a habit. It is not a habit now. It is a thing she has said she is doing, and she is not going to get to be somebody who has not said it.
+Three: what she has got instead is that she has now said, out loud, to a person who did not ask, that she is going to go on doing a Wednesday afternoon at the top of this borough for the man whose wife is in a home, and that is a thing said in front of a witness. Before today it was a habit. It is not a habit now. It is a thing she has said she is doing, and she is not going to get to be somebody who has not said it.
 
 Four: and she has not told anybody else, and she is not going to, and she has got a rule about that now and the rule has no exceptions in it, and the reason she made the rule is that she has realised what she did on this step was cheap.
 
@@ -292,4 +292,4 @@ She does not know whether any of that has happened and she has not tried, and sh
 
 What she knows is that she has heard a sentence four times and been annoyed by it, and that is the whole of what she has done about it, and she would like somebody to know that being annoyed by it is not nothing.
 
-**SHE HAS BEEN GOING TO A MAN'S HOUSE ON A WEDNESDAY AFTERNOON FOR MOST OF A WORKING LIFE AND HAS DECIDED TO GO ON, AND HAS SAID IT OUT LOUD FOR THE FIRST TIME TO A MAN ON THE STEPS OF A CHURCH, AND WHEN HE ASKED HER WHY SHE SAID IT SHE TOLD HIM IT WAS BECAUSE A MAN SHE SAT WITH FOR AN AFTERNOON WHEN SHE WAS STILL IN HER THIRTIES STOOD UP BEFORE HE ASKED HER, AND SHE HAS SAID IT OUT LOUD AND IT HAS NOT GOT ANY LIGHTER.**
+**SHE HAS BEEN GOING TO A MAN'S HOUSE ON A WEDNESDAY AFTERNOON FOR MOST OF A WORKING LIFE AND HAS DECIDED TO GO ON, AND HAS SAID IT OUT LOUD FOR THE FIRST TIME TO A MAN ON THE STEPS OF A CHURCH, AND WHEN HE ASKED HER WHY SHE SAID IT SHE TOLD HIM IT WAS BECAUSE A MAN SHE SAT WITH FOR AN AFTERNOON WHEN SHE WAS A YOUNG WOMAN STOOD UP BEFORE HE ASKED HER, AND SHE HAS SAID IT OUT LOUD AND IT HAS NOT GOT ANY LIGHTER.**

@@ -2,7 +2,7 @@
 
 Friday the nineteenth of March 2021. She is in this borough and so is he and neither of them is on anybody's row, and the day begins with a list on a clipboard and ends with her standing at a parade with a basket at her feet.
 
-**A WOMAN HAS BEEN DOING A MAN'S SHOPPING FOR A GOOD WHILE AND HAS DECIDED TO STOP, AND HE COMES TO HER GATE AND ASKS HER WHY SHE HAS NOT BEEN, AND SHE GIVES HIM FIVE WORDS THAT DO NOT FIT HIM AT ALL, AND BY THE AFTERNOON SHE HAS HEARD THE SAME FIVE WORDS FROM A STRANGER IN A QUEUE.**
+**A WOMAN HAS BEEN DOING A MAN'S SHOPPING FOR A GOOD WHILE AND HAS DECIDED TO STOP, AND HE COMES TO HER GATE AND ASKS HER WHY SHE HAS NOT BEEN, AND SHE GIVES HIM FIVE WORDS THAT DO NOT FIT HIM AT ALL, AND BEFORE LUNCH SHE HAS HEARD THE SAME FIVE WORDS FROM A STRANGER IN A QUEUE.**
 
 She is a woman in her late sixties. He is a man in his late sixties. They have known each other since before either of them was living in this borough and they are not family and have never pretended to be.
 

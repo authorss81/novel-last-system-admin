@@ -382,7 +382,7 @@ And she has spent a fortnight saying a thing about herself in eight doors that i
 
 And he is the only person in this borough who has the whole of it and he has split it in half and kept the half that suits her and handed her the other one, and told her to go and hand it out.
 
-And she has not got to number eight. It is about a ten-minute walk and she has been in her own front room since half past five and it is dark.
+And she has not got to number eight. It is not far and she has been in her own front room since half past five and it is dark.
 
 And there is a girl on an estate about a bus ride away who has got five words said about her by people who have never spoken to her, and the only two people in this borough who could do anything about it are a man in a van who will not say where he got them and an old man at the end of a hill who has given up asking.
 
