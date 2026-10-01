@@ -10,13 +10,11 @@ She is a woman in her late forties. She is on her own all day except for a man o
 
 She gets to the tip off the ring road before the gates are fully open, third in the queue behind a flatbed with a bath on it.
 
-The white van goes in the queue with the tailgate shut and the heater blowing. The drawer under the passenger bench is shut and has been shut since the middle of November and her own bolster is on the leads and the tin of screws is under the bolster, and she has not opened it in this borough since the summer and there is no reason to open it now.
+The white van goes in the queue with the tailgate shut and the heater blowing, and the drawer under the passenger bench stays shut, because it has been shut since the middle of November and there is a bolster on the leads and a tin of screws under the bolster and nothing in that drawer that would look any better in a car park than it does in a bay.
 
-The parcel is behind the passenger bench on the floor against the bulkhead with a bag of rags on top of it. The label under the rags has gone soft along the bottom edge where the damp got into it, and the number on it is under that, and she has not moved the rags since the twenty-second of October and she could put a hand under them and read the number any morning she likes and has not done it on any morning since.
+Behind the bench on the floor against the bulkhead there is a parcel with a bag of her own rags over the top of it, and the blanket is in the rags. She knows what is in the parcel in the way you know anything you have put a hand flat on and pushed: something in tins, and no more than that. The number on the label is under the rags where the damp got into it, and she could read it in four seconds on any morning she chose, and there has not been a morning this winter when she chose.
 
-It is taped. It is a box the size of two loaves. It is a box of something in tins, and she worked that out on the twenty-second of October by putting her hand flat on the top of it and pushing, and she has not found out what is in it at any point since.
-
-And she has read a number off it twice and written it nowhere, and there is a bag of her own rags in the back of that van with somebody else's blanket in it since the twelfth of November, off the arm of a chair in a front room, taken without a word to anybody.
+She has read it twice and written it nowhere, and the blanket came off the arm of a chair in a front room on the twelfth of November in about the time it takes to fold one, and she said nothing to anybody about it, and the two have sat side by side in that bag ever since without either of them making the other one smaller.
 
 ---
 
@@ -42,15 +40,15 @@ He nods her to the bay for soft stuff. She backs the van in and opens the tailga
 
 "Aye."
 
-He does not ask what is in it. Nobody asks what is in it. That is the whole of the borough.
+He does not ask what is in it, and she does not tell him, and both of them go back to what they are doing without either of them noticing they have agreed about it.
 
 ---
 
 She goes round to the top of the heap while he sheets the mattress, picking her way between the bays.
 
-The heap is high with furniture and bags and timber, steaming a little where the wet gets to the rot. On the top of it, half sunk in a hollow between a chair frame and a roll of carpet, there is a taped box the size of two loaves with a folded bit of bag over its top corner, put there with her own tape on the sixteenth of November by a man in his early forties who read a name off the other half of its label and put it back down the way it was.
+The heap is high with furniture and bags and timber, steaming a little where the wet gets to the rot. On the top of it, half sunk in a hollow between a chair frame and a roll of carpet, there is a taped box the size of two loaves with a folded bit of bag over its top corner, put there on the sixteenth of November by a man in his early forties who folded the bag over the corner with tape off his own roll, read a name off the other half of its label, and put the box back down the way it was.
 
-She knows it at once, though she has never seen it before, because he told her about it once in a street off the ring road on the twenty-ninth of November, standing with a ladder out of his back and a tape round his neck, and because a box with a bagged corner is a rare thing.
+She knows it at once, though she has never seen it before, because she knows the man who bagged it — the fleece and the tape round his neck and the morning of the twenty-ninth of November when he put a step ladder into the back of his van and asked her to take it and did not say when it was coming back — and because a box with a bagged corner is a rare thing.
 
 She stands at the foot of the heap and looks at it without climbing. Climbing the heap is not allowed. Touching the top of it is not allowed. She has put three things in other people's houses without a word to anybody, a blanket and a box off a tip and a step ladder in a porch, and she has never once taken a thing off a heap that was not hers to take, because a heap is somebody's though it looks like nobody's.
 
@@ -78,9 +76,9 @@ She looks at the box for a bit longer. It has a street on it she cannot read fro
 
 She goes back to the van and slams the tailgate with both hands and the sound goes round the bays. The drawer under the bench is shut. The bolster is on the leads. The parcel is behind the bench under the rags. The bag of rags has somebody else's blanket in it.
 
-And the third thing she cannot place is a piece of aluminium. It is not in her van. It has not been in her van since the third of December. She put it in a porch, and a woman took it in out of the rain, and she carried it round to a house, and she carried it up a road on the thirteenth of December, and on the seventeenth it went into the front room of a house at number twelve, folded, against the wall under the window, and it has not been opened out and it has not been moved.
+The third of her three is a piece of aluminium she cannot account for, and it has not been in this van since the third of December. She put it in a porch and left it there. A woman took it in out of the rain and it went into a shed, and then that woman carried it out of her own house in the dark on a Wednesday and up a road on the Monday after, on her shoulder, and on the seventeenth of December it went into the front room of a house at number twelve, folded, against the wall under the window, and it has not been opened out and it has not been moved.
 
-She has not found out where it went and she is not going to, and that is the only one of the three where the not-finding-out is her own decision.
+She has not found out where it went and she is not going to. The blanket and the box both went missing out of houses she was paid to clear and both are in this van, and she can give neither back. This one she could chase if she wanted to, and she has decided not to, and that decision is the only one of the three she has ever made on purpose.
 
 ---
 
@@ -88,7 +86,7 @@ At the middle of the day she sits in the van with the doors shut and the windows
 
 The merchant comes past with a mug and nods at her through the glass, and she lifts a hand with the sandwich in it. The queue goes in and out, vans and cars with trailers, men with timber and women with bags. The man on the heap works on with the hook, pulling timber out and stacking it by length against the bay wall. The box with the bagged corner sits on the top of the heap and does not move, though the wind lifts the bag and lets it fall again. She watches it while she eats, because a box that has sat since November with nobody asking after it is a rare thing, rarer than a ladder, and because she knows the man who bagged it and has never told him she knows.
 
-She gets out with her pad off the passenger seat and writes the figure for the mattress load on it in her round hand, though the mattress was part of a house job already written and this line is only so the page tells true. The band is round the pad and the band is tight. She writes nothing for the blanket. The pad is for work that is paid for. A blanket is not work that is paid for. A box behind a bench is not work that is paid for. A ladder across a load is not work that is paid for.
+She gets out with her pad off the passenger seat and writes the figure for the mattress load on it in her round hand, though the mattress was part of a house job already written and this line is only so the page tells true. The band is round the pad and the band is tight. She writes nothing for the blanket. She writes nothing for the box behind the bench and nothing for the parcel under the rags, and the reason is the same in all three cases and the reason is not tidiness: the pad is a thing that goes to a woman who pays at the end of it, and none of these three is going to be paid for by anybody, ever, and a line on that pad would put her name against a person who does not know she exists.
 
 She puts the pen in the door pocket by the roll of tape, shuts the pad, puts the pad back on the passenger seat.
 
@@ -104,7 +102,7 @@ She names the figure. The daughter pays it in notes from a purse. Neither of the
 
 "You'll be all right in the spring," the daughter says. "With work."
 
-"In the spring," she says, and puts no date on it, because she has no date to put on it and because the spring is where the van goes when it is not at a tip in February. "There is always houses in the spring."
+"In the spring," she says, and puts no date on it, because a date on it would be a promise and she has not got one to give anybody. "You'll not be the only one saying it."
 
 "Right," the daughter says.
 
@@ -112,7 +110,7 @@ She names the figure. The daughter pays it in notes from a purse. Neither of the
 
 She drives back past the end of that road without turning up it, slowing at the junction to let a bus go past.
 
-The road goes up off the main street with houses on one side and a wall on the other, steep at the bottom and level at the top, and the house at the end of it has a lamp on a bracket over the gate that was relamped on the twenty-fourth of December and is still on, showing even now in the grey afternoon. She can see it from the main street if she looks, a small amber point at the top of the road. She does not stop. She has driven past it and never walked up it, and the woman at number ten walked up it once with a ladder on her shoulder and knocked once and has never gone back, and the woman at number nine has never been at all.
+The road goes up off the main street with houses on one side and a wall on the other, steep at the bottom and level at the top, and the house at the end of it has a lamp on a bracket over the gate that was relamped on the twenty-fourth of December and is still on, and there is a small amber point at the top of that road in the grey afternoon if a person looks for it, which she does not do. She has driven past that road and never walked up it, and the woman at number ten walked up it once with a ladder on her shoulder and knocked once and has never gone back, and the woman at number nine has never been at all.
 
 The folding step ladder stands folded in the front room at the end of that road against the wall under the window with tape round its second rail, and it will be there in the spring, folded, because nobody can paint round it and nobody can move it and nobody can ask anybody to take it away.
 

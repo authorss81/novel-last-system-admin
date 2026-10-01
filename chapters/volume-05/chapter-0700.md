@@ -22,15 +22,13 @@ She sits on the green chair with the cushion on it and puts her hands round a cu
 
 The bowl in the next room is about half full.
 
-She empties it at first light the way she always does, lifting it out with both hands and tipping it into the bath and rinsing it and putting the cloth back and setting the bowl down again under the tap. The tap drips. It has dripped since before Christmas. The cistern weeps at the far side of a joist in a roof space nobody has entered since the spring, and the reason she cannot go up the fixed four rungs screwed to the wall beside the hatch is not the dark and not the top, it is that there is nobody to keep the frame while she does.
+She empties it at first light the way she always does, lifting it out with both hands and tipping it into the bath and rinsing it and putting the cloth back and setting the bowl down again under the tap. The tap drips. It has dripped since before Christmas. Up above her ceiling the cistern still weeps at the far side of a joist in a roof space nobody has entered since the spring, and the four fixed rungs screwed to the wall beside the hatch would get her to the hatch and not one inch past the trouble, because the thing that stops her is not the dark and not the height of it. It is that a person gets up there, gets a hand round a ballcock, and has to be stood on while she does it, and there is nobody in that house to be stood on.
 
 She comes back down the passage and steps over the wire brush in the middle of the runner with the handle across the walking line, unwashed since the first of September, right foot then left, the way a surveyor stepped over it and the way a lad stepped over it and the way a woman with a ladder stepped over it and the way a man with a lamp stepped over it. The passage light is on. It has been on since June. It shows the nap of the runner worn flat where feet go and raised where they do not.
 
 The front room door is shut. She puts her hand flat on it for a moment without opening it.
 
-Behind it the folding step ladder stands folded against the wall under the window with tape round its second rail and a chalk mark on its third tread, squared to the edge of the floorboards. There is a rush chair against the wall by the window and nobody sits in it. There is a stool she stood on in the summer. There is a sideboard with nothing on it. There is a pale patch on the ceiling just inside the door with a defined edge.
-
-She does not go in. She has not sat in that room since the sixteenth of July.
+Behind it the folding step ladder stands folded against the wall under the window with tape round its second rail and a chalk mark on its third tread, squared to the edge of the floorboards. Nothing has been taken out of that room since July. Nothing has been put in it since the seventeenth of December, and the one thing that went in went in on a woman's shoulder and was squared before she left the room. She does not go in. She has not sat in there since the sixteenth of July.
 
 ---
 
@@ -38,7 +36,7 @@ At the middle of the day she stands at the kitchen window and looks out at the y
 
 The yard is narrow and paved and the walls at either side show the damp where the water comes off the roofs. The coal shed door is shut at the end of it, square in its frame. It has been shut since the twenty-second of November and was opened and shut again on the twenty-first of December, when she went out with the torch and looked at the coal and shut it again. The padlock hangs open in the hasp, swinging a little when the wind gets round the corner. The key is on a hook behind her own back door, on a nail she put in herself. It has never been locked. It is the only lockable building on that road, and it stands unlocked with the key in the house.
 
-The gate stands back against the coal shed wall since the first of September. Two drop bolts are in her apron pocket, wrapped in a bit of rag so they do not chink. The gate was done in four hours on the seventh of August and it drops out back and swings but does not come down the path, and the man who hung it never charged and never came back. A man at a skip next door asked her where a skip can go on that road and she told him truthfully that the gate has stood open since the first of September, and he did not ask why, and he did not go down the path, and she did not ask him to move anything.
+The gate stands back against the coal shed wall since the first of September. Two drop bolts are in her apron pocket, wrapped in a bit of rag so they do not chink. The gate was done in four hours on the seventh of August by a woman who said in a kitchen that she would do it and then cut both her palms inside on the old gloss, and it drops out back and swings but does not come down the path, and she never charged and never came back and there is no invoice anywhere in the world for that morning. A man at a skip next door asked her where a skip can go on that road and she told him truthfully that the gate has stood open since the first of September, and he did not ask why, and he did not go down the path, and she did not ask him to move anything.
 
 The lamp on the bracket over her gate was relamped on the twenty-fourth of December and is still on. The front door is not on the latch and has not been since before Christmas.
 
@@ -98,17 +96,15 @@ The woman writes something else, tongue at the corner of her mouth. She does not
 
 "No. Not since July."
 
-The woman nods as though that is an answer she gets often on this road.
+The woman looks at the shut door for a second longer than the gate got, and the woman of seventy-eight watches her decide not to ask what is behind it.
 
-The woman nods as though that is an answer she gets often.
+"You'll not be doing anything in there."
 
-"Will you be doing anything with it in the spring," she says.
+"I'll do the front room in the spring," she says, and puts no date on it. "It is the second thing on the back of that envelope, and it is not a painting job. It is on there because I will not sit in it."
 
-"In the spring," she says again, though the spring has no date on it and though you cannot paint round a ladder and you cannot move it and you cannot ask anybody to take it away. "The second thing on my list is the front room."
+The woman writes something. She does not ask whether there is anything in the room, and she does not ask who put it there, and she does not ask whether the woman of seventy-eight would like a card put through the door about it, and the woman of seventy-eight would have said yes to the card. That is the part of the morning she will go back over.
 
-"Right," the woman says.
-
-She goes down the road with the clipboard under her arm. She does not go to any other house on that road. The lamp over the gate stays on behind her.
+"Right," the woman says, and goes down the road with the clipboard under her arm. She does not go to any other house on that road. The lamp over the gate stays on behind her.
 
 The woman of seventy-eight shuts the window and latches it. She squares the cloth over the box without lifting it. It is a small thing and she does it properly, edge to edge, before the damp creeps back.
 
@@ -118,13 +114,13 @@ At dark she eats at the table facing the window with the cushion behind her back
 
 She does not eat in the front room. The stool in there is where she stood in the summer to reach the high corner by the window, both feet on the rails, one hand on the wall. The sideboard has nothing on it but dust she wipes when she goes in to look. The ladder is where the woman of about thirty put it and squared it on the seventeenth of December, folded feet to the boards, tray end up, tape at hip height, and it has not been opened out and it has not been moved and she did not go in after it. She pictures it without opening the door, because she has pictured it every day since, wall and window and rail and tread.
 
-She washes up and puts the cloth on the drainer. The tap in the kitchen runs and stops. The tap in the next room drips and does not stop.
+She washes up and puts the cloth on the drainer, and the tap in the kitchen runs and stops when it is done, and the tap in the next room does not stop at all.
 
-A repair with no date on it is not a repair. The bath tap wants a washer and the front room wants paint and the gate wants hands, and none of them has any date because any date would mean asking, and she cannot ask.
+Three things in this house want a pair of hands and not one of them can have them. The bath tap wants a washer. The front room wants paint. The gate wants two people and a level. Any of them with a date on it would be a date she has to ask somebody for, and she cannot ask, so none of them has got one, and there is a bowl in the next room that has been emptied at first light and at dark since before Christmas and will be emptied at first light and at dark tomorrow.
 
 At dark she goes back to the end room and empties the bowl again, about half full, sodden cloth, both hands, tip and rinse and set down. Then she comes back down the passage and steps over the brush and puts her hand flat on the front room door without opening it, the way a person touches a door to know it is shut.
 
-The ladder is still folded against the wall under the window in the front room. The box is still taped on the left of the table under the cloth. The envelope is still square on the right. Four of six is still four of six.
+Nothing in that house has moved since the woman with the clipboard left, and the ladder is still folded against the wall under the window in the front room with its tray end up, the box is still taped on the left of the table under a cloth that wants squaring twice a day, the envelope is still square on the right with its pencil side showing, and four of six is still four of six, and there is still no pencil in the house to cross anything off with.
 
 ---
 

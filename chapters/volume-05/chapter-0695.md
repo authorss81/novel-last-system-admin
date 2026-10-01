@@ -130,7 +130,7 @@ He puts the note back in his bag. He is not put out. He has a round of these and
 
 "Will you be in in the spring," he says.
 
-"In the spring," she says, and puts no day on it, because she has no day to put on it and because the spring is the place where work goes that cannot be done now. "You'll want to try then."
+"In the spring," she says, and puts no day on it. There is no day on it to put, and the two of them can stand in the doorway a moment longer on that. "You'll want to try then."
 
 "Right," he says again.
 

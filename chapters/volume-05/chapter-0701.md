@@ -16,9 +16,9 @@ He parks in the lane by the cottage garden and sits for a bit with the engine of
 
 He gets the gates off the van on his own into the lane by the cottage garden and stands them on their feet against the hedge, chocked with bricks from the garden wall. The hedge drips on his collar as he works. A tractor sounds from the field beyond and fades. He wipes his hands on his trousers twice and looks at the gates against the hedge, numbers out, true in the wet light.
 
-The shoebox is on the top of his own bench back at the unit where he cannot come in without seeing it. The drawer under the bench is shut and has been shut since the sixteenth of November. The stranger's brush is in the side pocket of the canvas bag in the footwell with the stone in the leather bottom of it. The space behind the offcuts is a folded step ladder's wide and there is nothing in it.
+The shoebox is on the top of his own bench back at the unit where he cannot come in without seeing it. The drawer under the bench is shut and has been shut since the sixteenth of November. The stranger's brush is down in the footwell in the side pocket of a canvas bag with a stone in the leather bottom of it so it does not go anywhere in a corner. The space behind the offcuts is a folded step ladder's wide and there is nothing in it.
 
-He has not got a ladder. He has a packing bench, the little stool he made himself out of two offcuts in the summer, and a stub of a folding stool that came off a skip in the summer. He has brought the stool.
+He has not got a ladder. There is a packing bench, the little stool he made himself out of two offcuts in the summer, and a stub of a folding stool that came off a skip in the summer, and he has brought the stool.
 
 ---
 
@@ -54,7 +54,7 @@ He is a man in his sixties with mud on his boots and he looks at the gates stand
 
 "When will you hang them."
 
-He looks at the gates and at the stool by the hedge and at the lane where a ladder ought to stand. On the twenty-ninth of November, in a street off the ring road, he took a folding aluminium step ladder out of his van and lent it to a woman who clears houses. He did not say when it comes back and she did not ask. It went into an open porch on the third of December with no note on it. It went into a front room at number nine. It went round to number ten. It went up a road on the thirteenth of December on a shoulder. It went into the front room of a house at number twelve on the seventeenth, folded, against the wall under the window, and it has not been opened out and it has not been moved.
+He looks at the gates and at the stool by the hedge and at the lane where a ladder ought to stand. On the twenty-ninth of November, in a street off the ring road, he took a folding aluminium step ladder out of his van and handed it over to a woman who clears houses, and neither of them said one word about when it would be back. It went into an open porch on the third of December with no note on it, and by the seventeenth it was folded against the wall under a window in a front room at the end of a road he has not walked, and it has not been opened out since and it has not been moved.
 
 He cannot say any of that to a man with mud on his boots who has paid.
 
@@ -86,6 +86,18 @@ The man looks at the stool by the hedge, the little stool made of two offcuts, p
 
 "In the spring," he says again, looking at the posts. "It will stand like this until then. Posts true and gates true and nothing on them."
 
+The man drinks the last of his tea and looks down the lane for a bit.
+
+"I'll tell you what my wife said to me," he says. "She said, you paid a man in November and it is February and there is a gate leaning against a wall somewhere and no gate on my posts. Not angry. She just wanted to know what to tell her sister. So I have told her nothing, because there is nothing to tell her yet, and every week it is nothing is a week she keeps saying nothing to her sister."
+
+"I understand."
+
+"I know you do. I'm not having this out with you in a lane." He puts the cup on the wall. "But I'm going to keep looking at them out of that window, and if it turns into March I'm going to ring you and ask you a straight question, and you'll have to have something better than the spring."
+
+"Then I'll have something better than the spring," he says, "or I'll have said so."
+
+"Right." The man opens his own gate and goes back up the path, and it swings shut behind him out of its own weight and does not come in on the path either, which is the only thing that gate and the gates on the van have in common.
+
 ---
 
 He loads the gates back on the van at the end of the afternoon, though the light is going and his back aches.
@@ -96,9 +108,9 @@ The posts stand empty in the cottage garden, capped and true, waiting against th
 
 He drives back to the unit with the gates on the van and the straps singing a little in the wind, and puts the van in the bay with the lights on.
 
-He puts them back against the back wall, squared, numbers out, chocked with offcuts at the foot so they cannot slip. The space behind the offcuts is still a folded step ladder's wide. The shoebox is still on the bench with the lid on it. The drawer is still shut. The leads are still along the other side with the dust sheets folded on top of them. He stands in the doorway with the extractor going and looks at the shape of the bay, which has not altered since June except for the gates going out and coming back. The space behind the offcuts is still a folded step ladder's wide. The shoebox is still on the bench. The drawer is still shut.
+He puts them back against the back wall, squared, numbers out, chocked with offcuts at the foot so they cannot slip. The space behind the offcuts is still a folded step ladder's wide and there is still nothing in it. The shoebox is still on the bench with the lid on it. The drawer is still shut. The leads are still along the other side with the dust sheets folded on top of them. He stands in the doorway with the extractor going and looks at the shape of the bay, which has not altered since June except for the gates going out on the van and coming back on it.
 
-The piece of scribing card is in his shirt pocket with TWELVE on one side of it and nothing at all on the other, soft at the corners now. He has a pencil behind his ear, sharpened that morning. He looks at the card for about as long as it takes to put the pencil behind the other ear, turning it over twice, and then he locks up tightly and goes home, and the card is in the pocket, and the gates are against the wall, and there is a step ladder in this borough standing folded against the wall of a front room at the end of a road that nobody has lent out anything to anybody, as far as anybody in this borough knows.
+The piece of scribing card is in his shirt pocket with TWELVE on one side of it and nothing at all on the other, soft at the corners now. He has a pencil behind his ear, sharpened that morning. He looks at the card for about as long as it takes to put the pencil behind the other ear, turning it over twice, and then he locks up tightly and goes home, and the card is in the pocket, and the gates are against the wall, and somewhere at the end of a road he has not walked there is an aluminium step ladder standing folded in a house that has it on a piece of paper, and the woman who has that paper does not know his name and he does not know hers.
 
 ---
 

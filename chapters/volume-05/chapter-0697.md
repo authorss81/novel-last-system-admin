@@ -138,13 +138,13 @@ She shuts the house and the daughter locks it and the horse van goes.
 
 She stands at the back of her own van with the tailgate down and looks at the load. The drawer under the bench is shut. The bolster is on the leads. The parcel is behind the bench under the rags. The bag of rags has somebody else's blanket in it.
 
-And the third thing she cannot place is a piece of aluminium. It is not in her van. It has not been in her van since the third of December. She put it in a porch, and a woman took it in out of the rain, and she carried it round to a house, and she carried it up a road, and then it stopped being a thing she was doing anything with, and it stands now folded in a front room at the end of that road that she has driven past and never walked up, against the wall under the window, with tape round its second rail.
+And the third thing she cannot place is a piece of aluminium. It is not in her van. It has not been in her van since the third of December. She put it in a porch and left it there. A woman came out of a house and took it in out of the rain and it went into her shed and stayed a fortnight, and then that same woman carried it away from her own house in the dark on a Wednesday and carried it up a road on the Monday after, on her shoulder, and then it stopped being a thing anybody was doing anything with. It stands now folded in a front room at the end of that road, against the wall under the window, with tape round its second rail, and the woman who put it there is not the woman who carried it, and neither of them is the woman writing this down.
 
 She has not found out where it went and she is not going to, and that is the only one of the three where the not-finding-out is her own decision.
 
 "You'll be all right in the spring," the daughter says, locking the door. "With work."
 
-"In the spring," she says, and puts no date on it, because she has no date to put on it and because the spring is where the van goes when it is not in a terrace in January. "There is always houses in the spring."
+"In the spring," she says, and does not give him a day, because there is no day on it to give and because the van goes where the van goes until it does not. "There is always houses in the spring."
 
 "Right," the daughter says.
 

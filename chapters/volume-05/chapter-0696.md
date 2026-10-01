@@ -120,7 +120,7 @@ He puts the telephone down.
 
 And there it is, and it is the same shape as the shed with the felt gone at the front edge and the same shape as the bath tap with the bowl under it and the same shape as the front room with the ladder in it.
 
-A repair with no date on it is not a repair. He did that to himself on the twenty-ninth of November when he lent a ladder out of a van and did not say when it comes back. And the woman he lent it to turned half a job down for the space and left it in an open porch because there was no third place for it. And a woman took it in out of the rain. And a sister carried it round. And a sister carried it up a road. And now it stands folded in a front room at the end of that road where a woman of seventy-eight eats in a kitchen and does not go in.
+A repair with no date on it is not a repair. He did that to himself on the twenty-ninth of November when he lent a ladder out of a van and did not say when it comes back. And the woman he lent it to turned half a job down for the space and left it in an open porch because there was no third place for it. And a woman took it in out of the rain, and she is the same woman who carried it up a road on the thirteenth of December and put it down squared in a front room at the end of that road, where a woman of seventy-eight eats in a kitchen and does not go in.
 
 Nobody in this borough has agreed anything. Everybody has been reasonable. That is the entire of what has happened to that ladder and those gates since November, and it is going to be exactly the same as it is now when he locks up.
 
@@ -136,7 +136,7 @@ The piece of scribing card is in the shirt pocket of the coat on the back of the
 
 He has a pencil behind his ear.
 
-He looks at the card for about as long as it takes to put the pencil behind the other ear, and then he starts the van and goes home, and the card is in the pocket, and the space behind the offcuts is a folded step ladder's wide, and the gates are against the back wall, and there is a step ladder in this borough standing folded against the wall of a front room at the end of a road that nobody has lent out anything to anybody, as far as anybody in this borough knows.
+He looks at the card for about as long as it takes to put the pencil behind the other ear, and then he starts the van and goes home, and the card is in the pocket, and the space behind the offcuts is a folded step ladder's wide, and the gates are against the back wall, and the only person in this borough who has ever written that number down is him, and he has written it on a scrap of card he keeps in a coat on the back of a cab door, which is not the same as saying it out loud.
 
 ---
 

@@ -22,19 +22,19 @@ The drawer under the worktop stays shut, with the bit of ply in it on top of the
 
 She goes back in and puts the kettle on and stands at the kitchen window with the cup in both hands, warming them.
 
-The shed roof has the felt gone at the front edge. From the window she can see the pale line where it lifts and the dark under it where the water gets in. The ply will not do it. The tape will not go round it. The shed still has a draught off the top of it. The man from the coal yard has told her about it three times, in November and on the thirteenth of December and in January, and she has told him in the spring and put no date on it every time.
+Under the window the felt has gone along the whole front edge, and from where she stands she can pick out the pale line where it lifts and the dark underneath where the water gets in and rots the boards she cannot see. The ply will not do it. The tape will not go round it. The shed still has a draught off the top of it. The man from the coal yard has told her about it three times, in November and on the thirteenth of December and in January, and she has told him in the spring and put no date on it every time.
 
-The tape roll came off a shelf in a house at the end of that road in May and neither she nor her sister has ever said where the roll came from to the other. Four inches is left on it. Four inches will barely go round a parcel, let alone a shed edge.
+That roll of tape came off a shelf in a house at the end of that road back in May, and neither she nor her sister has ever said where from to the other. There is four inches of it left on the roll. Four inches would not get round a parcel, let alone a shed edge, and it is going to be exactly four inches on Saturday, and the day after that, and on the day after that.
 
-She drinks the tea and watches the felt lift a little in the wind and settle again. A repair with no date on it is not a repair. She said that to herself on the twenty-eighth of December with her sister in the kitchen, and she has watched her sister cross the first line of a pad off twice since March and never once properly, and she has a shed with a draught off the top of it and a drawer full of things that will not do it.
+She watches the felt lift and settle and thinks about the three lines on the bit of paper instead, because the three lines are the only thing in that drawer that is finished. They name a roll, a tin, and a lip of timber under a new edge. They do not say what any of them weigh or cost or what a builder's merchant would call them when she finally stands in one and has to say the sentence with nine words in it. Three lines with nothing on them but the shape of a problem is a worse thing than nothing at all.
 
 ---
 
 At the middle of the day she goes out into the yard again to shake the mat.
 
-The yard is paved and cold and the walls show the damp. The back door shuts true behind her the way it always does. She shakes the mat over the wall and puts it back empty. She looks down the back where the coal man comes with the sack on the barrow, and up at the sky where the light goes, and then, without meaning to, she looks for the lamp at the end of that road, though it is day and the lamp shows best at dark.
+The yard is paved and cold and the walls show the damp. The back door shuts true behind her the way it always does. She shakes the mat over the wall and puts it back empty. She looks down the back where the coal man comes with the sack on the barrow, and up at the sky where the light goes, and then, without meaning to, she looks for the lamp at the end of that road.
 
-She cannot see it from here in daylight. The road goes up off the main street with houses on one side and a wall on the other, and the house at the end of it has a lamp on a bracket over the gate that was relamped on the twenty-fourth of December and is still on. She knows it is on because it was on when she stood in this yard in the dark on the twenty-fifth of December looking for it, and because her sister told her in January, and because a woman with a clipboard wrote it down in February, and because lamps left on stay on when nobody can find the switch that turns them off, like the passage light that has been on since June.
+She cannot see it from this yard in daylight and has never been able to. From the main street at the bottom you can catch it, a small amber point at the top of the hill if you are looking for it, which almost nobody is. From her own back door in the dark in front of a shed it is the size of a thumbnail and it is the first thing she sees. She knows it is on because it was on when she stood here on the twenty-fifth of December looking for it, and because her sister told her in January, and because a woman with a clipboard wrote it down in February, and because lamps left on stay on when nobody can find the switch that turns them off, like the passage light that has been on since June.
 
 She goes back in. The drawer stays shut. The shed goes on doing her roof in.
 
@@ -42,7 +42,7 @@ She goes back in. The drawer stays shut. The shed goes on doing her roof in.
 
 Her sister comes at the end of the day with a form in a bag, goes round the back without knocking and lets herself in off the yard, and the door shuts true behind her the way it always does.
 
-They do not go into the front room. There is a settee in it, a table with a lamp on it, and a wall, and neither of them has any business in there on a Thursday in February.
+They stay in the kitchen. The front room at number ten gets no more of a Sunday in it than it got of a Tuesday in December.
 
 She puts the kettle on.
 
@@ -74,37 +74,37 @@ Her sister sits down and puts her feet under her and looks at her, the way siste
 
 "And now it's there."
 
-"Folded. Against the wall under the window. Tape round the second rail. Chalk on the third tread. It will be there in the spring, because you cannot paint round a ladder and you cannot move it and you cannot ask anybody to take it away, and those are three facts and they are the same fact."
+"Folded. Against the wall under the window. Tape round the second rail. Chalk on the third tread. It will be there in the spring, because a thing a person cannot paint round is a thing a person cannot move, and a thing a person cannot move is a thing a person cannot ask anybody to take away, and I have carried it up that road once and I am not carrying it down again."
 
 Her sister thinks about that.
 
 "Has anybody asked," her sister says.
 
-"No. Since Friday, and that was you, and you have no interest in the answer, and before that a man at your door on the seventh and the coal man on the thirteenth, and all three were answered with I don't. That is the only asking anybody in this borough has done about a step ladder since Friday, and it got nowhere, because you cannot get at the one question that would make it a loan instead of a piece of rubbish."
+"Nobody has asked me," she says. "Not one person, and I have had two chances to be asked and one of them was in this kitchen on a Tuesday in December. Every time it has come up it has ended at I don't know, and it has never once got as far as the next question, and that is not because nobody is curious. That is because there is a step in the middle of it where asking the second half means admitting you did the first half, and neither of us wants to be the one who says it out loud in a warm kitchen on a Thursday."
 
 "So it's somebody's."
 
-"It's somebody's. Twenty-ninth of November. A street off the ring road. A man in a fleece with a tape round his neck. Lent without saying when it comes back. Left in an open porch on the third of December with no note on it. Taken in out of the rain. Carried round. Carried up. Put down and squared. And now it stands."
+"It's somebody's. Twenty-ninth of November. A street off the ring road. A man in a fleece with a tape round his neck." She turns her cup round on the table. "Lent without saying when it comes back. Left in an open porch on the third of December with no note on it. Taken in out of the rain. Carried out of a house in the dark on a Wednesday. Carried up a road on the Monday after. Put down and squared. And now it stands."
 
 ---
 
-They stand and drink their tea in the kitchen because the kitchen is the warm room and neither of them has ever lit a fire in the other one's front room since Easter, and the talk goes to the bin and to the price of it and to a form, and her sister says the tip off the ring road is on different days this year, and she says that is the first sensible thing anybody has said all month.
+They stand and drink their tea in the kitchen because the kitchen is the warm room and neither of them has ever lit a fire in the other one's front room since Easter, and the talk goes to the bin and to the price of it and to a form, and her sister says the tip off the ring road is on different days this year, and she says that is the first sensible thing anybody has said since Christmas.
 
-At about the middle of the evening her sister looks at the drawer under the worktop.
+At about the middle of the evening her sister looks at the drawer under the worktop and then does not look at it, and puts her cup down instead.
 
-"Is that ply still in there."
+"You've not opened that drawer."
 
-"It's on top of the tape."
+"No."
 
-"Are you going to use it."
+"Why not."
 
-"No. It will do nothing on the front edge. I've been up on it. I've seen the front edge. If I put a board across the middle of that roof it stops one draught and lets two more in at the front and then I've spent the ply and it's still a shed."
+"Because it is shut and it has been shut since the twenty-eighth of December, and every day it stays shut is a day I have not had to look at three lines that name what a thing would be and not what it is." She turns her cup round on the table. "And you have not opened it either, and you have been in this kitchen every day since Christmas, so you know exactly how easy that is."
 
-"Then you'll want felt."
+Her sister lets that sit.
 
-"I'll want felt."
+"It'll be spring before that roof gets worse," she says.
 
-"When."
+"It'll be spring."
 
 ---
 
@@ -122,9 +122,13 @@ She looks at the wall where the calendar has never been.
 
 She does not put any date on it. She does not open a calendar, because she has never in her life had a list on a wall and she is not starting one in February with four inches of tape and a bit of ply in a drawer and a small wind coming off the top of a shed.
 
-And she knows exactly what that means, because a repair with no date on it is not a repair, and the gates at the cottage stand with no date on them, and the front room at number twelve stands with no date on it, and the bowl under the tap is emptied morning and dark with no date on it, and the ladder stands folded with no date for its removal.
+And she knows what it costs, because the man who made those gates has a pair of oak gates leaning against a wall with the posts already in the ground, because the woman at the end of that road has a bowl emptied morning and dark under a tap that has dripped since before Christmas, and because the front room of that house has a ladder standing in it that will be against that wall when the spring comes and the spring has not been told which day it is.
 
-"In the spring," she says again, to nobody, and washes the cups.
+"I'll do it in the spring," she says, to the window this time. "I'll say that again in the spring and it will still not be a day, and that is going to be the arrangement, and one day I am going to be old enough to be ashamed of it."
+
+Her sister takes her cup to the sink and runs the tap a moment and shuts it off again.
+
+"That is the first thing you have said all week," she says, "that sounds like you."
 
 ---
 

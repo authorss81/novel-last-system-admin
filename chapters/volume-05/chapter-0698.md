@@ -26,7 +26,7 @@ There is a chair on one side and a settee on the other, and an ash stool in the 
 
 She goes in with the cloth and wipes the sill under the window. The room is cold. The bulb is on. She took a step ladder out of an open porch two doors down in December and used it on that bulb, and a man from that house asked at her own door whether she took the ladder out of his porch and then whether she knew whose it was, and she said she did not know, and she did not ask the man next door that she was told borrows, and she told her sister she cannot put back what she cannot give, and her sister carried it away on a Wednesday in the dark.
 
-The ladder went up a road on the thirteenth of December on her sister's shoulder and into the front room of a house at number twelve on the seventeenth, folded, against the wall under the window, and it has not been opened out and it has not been moved.
+The ladder went up a road on the thirteenth of December on her sister's shoulder and into the front room of a house at number twelve on the seventeenth, folded, against the wall under the window, and it has not been opened out and it has not been moved. Her sister carried that whole leg herself, on her own shoulder, in the dark, and she has not walked a yard of it, and she is not going to ask her about that either.
 
 She looks at the space under the stool. It is empty. It has been empty since the fifth of November. She does not put anything under it.
 
@@ -36,7 +36,7 @@ At the middle of the day she eats in the kitchen.
 
 She eats standing up at the worktop with the plate in her hand, looking out at the yard. The yard is small and paved and the fence at the end of it wants a board. The shed at number ten has a draught off the top of it and the ply in the drawer will not do it and the felt is gone at the front edge, and she knows that because her sister told her, and she has never seen the shed.
 
-She cuts a bit of cheese and puts it on a cracker and eats it over the plate so the crumbs fall straight. The clock on the wall ticks without hands that she looks at, because the hands came off it in the summer and she has never put them back. She knows the middle of the day by the light on the yard wall. When the light leaves the top course of bricks it is past the middle, and when it is gone off the wall it is afternoon.
+She cuts a bit of cheese and puts it on a cracker and eats it over the plate so the crumbs fall straight. The clock on the wall has no hands on it, because they came off it in the summer and she has never put them back and has never sent for a man to. She knows the middle of the day by the light on the yard wall. When the light leaves the top course of bricks it is past the middle, and when it is gone off the wall it is afternoon.
 
 She washes up and puts the plate away. She wipes the worktop from the back edge to the front, corner to corner, and rinses the cloth. She goes back to the front room and sits on the chair for a bit without lighting the fire, because sitting in a cold room for a bit is what she does on a Monday, and the settee is for other people.
 
