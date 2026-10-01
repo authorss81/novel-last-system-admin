@@ -324,9 +324,22 @@ for model in "${model_list[@]}"; do
   code=$?
   set -e
   if [ "$code" -eq 0 ]; then
-    printf 'Writer model used: %s\n' "$model" | tee -a "$log_file"
-    writer_ok=true
-    break
+    # A model can exit cleanly having written nothing at all. Treating that as
+    # success skips the fallback models entirely and burns a retry on an empty
+    # result, which is how a phase could fail six times on the same model.
+    # Only a clean exit that actually changed something counts as the writer.
+    # New chapter files are untracked, so this must see them, not just diffs.
+    if [ "$resumed_work" = true ] || git status --porcelain 2>/dev/null | grep -vE '^\?\? logs/|^.. logs/' | grep -q .; then
+      printf 'Writer model used: %s\n' "$model" | tee -a "$log_file"
+      writer_ok=true
+      break
+    fi
+    printf 'Writer model %s exited cleanly but changed no files; trying the next model\n' "$model" | tee -a "$log_file"
+    if [ "$attempted" -ge "$MAX_MODELS" ]; then
+      writer_ok=true
+      break
+    fi
+    continue
   fi
   if [ "$code" -eq 124 ] || [ "$code" -eq 143 ]; then
     checkpoint_and_defer "writer timeout"
