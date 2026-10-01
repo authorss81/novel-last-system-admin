@@ -120,7 +120,7 @@ And on the Saturday morning when a woman in her late forties stood at that sink 
 
 And so it goes back on the sideboard.
 
-And that is the end of the options. There are four places a thing can be in that house: in the bin, in the passage, on the sill, and on the sideboard. She has tried three and rejected three and the sideboard is where it is now and the sideboard is where it was on the Monday morning and it is where it will be in the dark tonight.
+And that is the end of the options. There are four places a thing can be in that house: in the bin, in the passage, on the sill, and on the sideboard. She has had the other three in her hands and put all three of them back where they were, and the sideboard is the fourth and it is where it is now and it is where it was when she found it on the Monday morning and it is where it will be in the dark tonight.
 
 ---
 
@@ -146,7 +146,7 @@ She looks for one in the kitchen drawer where the string and the fuses and the t
 
 And there is no pencil in that house.
 
-And she wrote six things in pencil on a gas envelope in April on the table under the window, and she has not had a pencil in this house since before Christmas, and she cannot ask anybody for a pencil, and there is no shop at the end of that road.
+And she wrote six things in pencil on a gas envelope on the third of June on the table under the window, and she has not had a pencil in this house since before Christmas, and she cannot ask anybody for a pencil, and there is no shop at the end of that road.
 
 ---
 
@@ -204,6 +204,6 @@ And the front room is the only room anybody has ever sat in.
 
 ---
 
-**A WOMAN OF SEVENTY-EIGHT WENT TO BED WITH FOUR OF SIX THINGS ON A LIST DONE AND NOTHING CROSSED OFF AND NO PENCIL IN THE HOUSE, AND A WIRE BRUSH ON A SIDEBOARD IN A FRONT ROOM THAT IS THE ONLY ROOM ANYBODY HAS EVER SAT IN, AND SHE HAS DECIDED THAT SHE WILL NOT SIT IN THAT ROOM, AND THE SECOND THING ON THE LIST IS THE FRONT ROOM, AND IT IS NOT DONE, AND IT IS WORSE THAN IT WAS WHEN SHE WROTE IT SECOND IN APRIL.**
+**A WOMAN OF SEVENTY-EIGHT WENT TO BED WITH FOUR OF SIX THINGS ON A LIST DONE AND NOTHING CROSSED OFF AND NO PENCIL IN THE HOUSE, AND A WIRE BRUSH ON A SIDEBOARD IN A FRONT ROOM THAT IS THE ONLY ROOM ANYBODY HAS EVER SAT IN, AND SHE HAS DECIDED THAT SHE WILL NOT SIT IN THAT ROOM, AND THE SECOND THING ON THE LIST IS THE FRONT ROOM, AND IT IS NOT DONE, AND IT IS WORSE THAN IT WAS WHEN SHE WROTE IT SECOND ON THE THIRD OF JUNE.**
 
 (End of chapter 0660)

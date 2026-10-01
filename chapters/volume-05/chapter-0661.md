@@ -2,7 +2,7 @@
 
 Tuesday the seventeenth of August 2021, in this borough, and not in it. She is at a house off a smaller road in the middle of the morning and in her own van on a piece of waste ground from about four in the afternoon until about half past five, and the whole of it is a drawer.
 
-**A WOMAN WITH TWO CUTS INSIDE BOTH PALMS DONE FOUR HOURS ON A GATE FOR NOTHING AND WITH NOBODY ABLE TO THANK HER PUT A WIRE BRUSH SHE BOUGHT FOR THAT GATE INTO A DRAWER UNDER THE BENCH IN HER VAN AND SHUT THE DRAWER, AND THE SHUT IS THE WHOLE OF THE AFTERNOON.**
+**A WOMAN WITH TWO CUTS INSIDE BOTH PALMS DONE FOUR HOURS ON A GATE FOR NOTHING AND WITH NOBODY ABLE TO THANK HER PUT THE BOLSTER SHE USED ON THAT GATE INTO A DRAWER UNDER THE BENCH IN HER VAN AND SHUT THE DRAWER, AND THE SHUT IS THE WHOLE OF THE AFTERNOON, AND THE WIRE BRUSH SHE BOUGHT FOR THAT GATE IS ON A SIDEBOARD AT THE END OF THAT ROAD AND SHE IS NOT GOING BACK FOR IT.**
 
 She is a woman in her late forties. She is on her own from the middle of the morning until about half past five. There is one woman in a house in the morning and she is not in the house in the afternoon.
 
@@ -96,11 +96,17 @@ She puts the tool bag on the tailgate and she opens it.
 
 ---
 
-And the brush is in it.
+And the brush is not in it.
 
-Not in her hand and not in the side pocket. In the bottom of the bag, under the chisel and the bolster and the rubber mallet and the tape, lying across the base of it with the handle out of the end, and she did not know it was there and she has known it was there since the Saturday.
+That is the first thing, and it takes her about two seconds standing at the back of a van. It was in the bag on the Saturday morning and it was in her left hand at half past two, and she has known exactly where it is every day since the seventh of August, and where it is is a sideboard against the far wall of a dark front room at the end of that road, and she put it down there without deciding to, and she has not been up that road since, and she is not going today.
 
-Four pounds out of a bucket by the door of a shop on the ring road on the twenty-sixth of July, from a bucket of wall brushes, chosen by a woman standing in a shop who could see the crimp was wrong and took it anyway.
+And there is a woman of seventy-eight at a kitchen window in that house, and neither of them has ever said one word about it.
+
+---
+
+And what is in the bag, in the bottom of it, under the chisel and the rubber mallet and the tape, lying across the base of it with the head out of the end, is the bolster.
+
+Her own, off her own board, and there has been one on that board since the winter before last and there is one on it now and there has only ever been the one, and it is the tool that got under the lump, because the lump was on the underside of that frame and a chisel will not go under it and a bolster will, and that is the whole of the reason it came off in about ten pieces and not in a morning.
 
 ---
 
@@ -122,13 +128,13 @@ That is the other half and it is the half that has been doing the work in her he
 
 And the job is finished.
 
-And a wire brush has nothing to be for.
+And a bolster has nothing to be for.
 
 ---
 
 And she stands at the back of that van and looks at the bag for a while.
 
-And what she cannot do is put it back in the side pocket. That is the thing she finds out at about ten past four, standing there. The side pocket is where a brush goes on a day, and this is not a day, and there is no day.
+And what she cannot do is shut the bag with it in and go home, and that is the thing she finds out at about ten past four, standing there. The side pocket is where a brush goes on a day, and this is not a day, and there is no day, and a bolster is nine inches of steel and was never going in a pocket.
 
 And what she cannot do either is take it home and put it on a shelf, because she does not have a shelf for tools and she is not a person with a shelf for tools, and a thing on a shelf in her own kitchen would be a thing she would be asked about by a man she has known for nineteen years who is nosy about her van.
 
@@ -148,9 +154,9 @@ Nothing in that drawer is for a job. That is the drawer. That is what a drawer i
 
 ---
 
-And she picks the brush up out of the bag at about half past four and she looks at it.
+And she picks the bolster up out of the bag at about half past four and she looks at it.
 
-And the crimp is splayed at the ends from the Saturday and there is a curl of old egg-coloured gloss in the bottom of it and there is grey dust in the ferrule, and it is not a good brush and it never was, and it got into a socket about two inches deep on the back of a gate frame and it did the one thing the good one in a shop would not have done.
+And there is a skin of old egg-coloured gloss dried hard on the shoulder of it and there is grey dust in the socket where the handle goes in, and it is not a new bolster and it never was, and it got under four inches of lump on the back of a gate frame in about ten pieces and it did the one thing a chisel in that bag could not have done.
 
 And she thinks: I will keep that.
 
@@ -160,16 +166,16 @@ And it is the only sentence she says out loud in the whole of the afternoon, and
 
 And then she opens the drawer.
 
-And puts the brush in it, flat, along the back of it, on top of the two extension leads, and takes her hand out.
+And puts the bolster in it, on its side along the back of it, on top of the two extension leads, and takes her hand out.
 
 And shuts the drawer.
 
 ---
 
-And that is the whole of it. That is the Tuesday. A woman with two cuts inside both palms and four hours in her arms that nobody is going to pay her for and no way of ever being thanked for it, and a drawer under a bench in her own van, and the brush is in it, and the drawer is shut.
+And that is the whole of it. That is the Tuesday. A woman with two cuts inside both palms and four hours in her arms that nobody is going to pay her for and no way of ever being thanked for it, and a drawer under a bench in her own van, and the bolster is in it, and the drawer is shut.
 
 And she gets in the van and pulls the tailgate down and starts it, and the drawer does not open again on the drive home, and she does not look at it once, and that is not because she has forgotten it.
 
-**A WOMAN BOUGHT A BAD BRUSH OUT OF A BUCKET FOR A GATE AND GOT THE GATE DONE IN FOUR HOURS FOR NOTHING AND PUT THE BRUSH IN A DRAWER UNDER THE BENCH IN HER VAN AND SHUT THE DRAWER, AND THE DRAWER IS WHERE THINGS GO THAT ARE NOT FOR A JOB, AND NOTHING IN IT HAD BEEN SHUT SINCE THE VAN WAS NEW, AND IT IS SHUT.**
+**A WOMAN BOUGHT A BAD BRUSH OUT OF A BUCKET FOR A GATE AND GOT THE GATE DONE IN FOUR HOURS FOR NOTHING AND LEFT THE BRUSH ON A SIDEBOARD IN A DARK ROOM WITHOUT DECIDING TO, AND ON THE TUESDAY SHE PUT THE BOLSTER SHE HAD USED ON THAT GATE INTO A DRAWER UNDER THE BENCH IN HER VAN AND SHUT THE DRAWER, AND THE DRAWER IS WHERE THINGS GO THAT ARE NOT FOR A JOB, AND NOTHING IN IT HAD BEEN SHUT SINCE THE VAN WAS NEW, AND IT IS SHUT.**
 
 (End of chapter 0661)

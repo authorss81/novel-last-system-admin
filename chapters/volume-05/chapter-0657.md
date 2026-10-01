@@ -18,7 +18,7 @@ And on the Thursday afternoon she puts it on and goes.
 
 And here is what the tape is, and it is the only thing anybody acts on.
 
-The woman in her late seventies put six things down in pencil on the back of a gas envelope in April. The third one of them is *the window in the back room*.
+The woman in her late seventies put six things down in pencil on the back of a gas envelope on the third of June. The third one of them is *the window in the back room*.
 
 And in May the woman in her early thirties went in there with a brown tape sheet and a blanket and did it, and she did it in about an hour, and she did it because the woman asked her to, and it is the only thing anybody has ever been asked to do in that house.
 
