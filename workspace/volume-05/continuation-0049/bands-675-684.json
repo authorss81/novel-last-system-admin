@@ -1,0 +1,96 @@
+{
+  "written": "BEFORE ANY PROSE OF 675-684 EXISTS. THE PROSE WINS. WHERE THE PROSE AND A CARD DISAGREE, THIS FILE IS CORRECTED TO MATCH THE CHAPTER AND NOT THE CHAPTER TO MATCH THE CARD. READ-BACK TO BE DONE BY OPENING EACH OF THE TEN FILES AND READING THEM, TWICE.",
+  "why": "Nine allocation files in nine blocks had to be corrected afterward. This file is the declaration. It was written first.",
+  "the_human_question_which_outranks_everything_else_in_this_file": "A HUMAN IS ASKED, IN ONE SENTENCE, WHAT CHAPTERS 675 THROUGH 684 ARE ABOUT, AND NO HUMAN ANSWERED. NO HUMAN ANSWERED THE SAME QUESTION FOR 665 THROUGH 674, FOR 655 THROUGH 664, OR FOR ANY BLOCK BEFORE THOSE. THE FAMILY BELOW IS THEREFORE A WRITER'S AND IS FLAGGED AS ONE, IN THE SAME WORDS 0042, 0043, 0044, 0045, 0046, 0047 AND 0048 FLAGGED THEIRS, AND IT IS THE EIGHTH FAMILY SPENT BY A WRITER AND NONE BY A HUMAN. IT IS ALSO PRINTED AT THE TOP OF THE CONTINUATION 0050 BLOCK.",
+  "family": {
+    "name": "THE PARCEL SHE CANNOT ASK ABOUT AND THE THING IN THE VAN THAT IS NOT HERS",
+    "named_by_a_human": false,
+    "one_sentence": "A woman of seventy-eight puts a parcel of fish that is not hers into an unlocked coal shed behind a gate she will not shut, five other people in this borough are each carrying or storing one thing that belongs to somebody else and cannot ask about it, and the parcel goes round a ring road and comes back to a door in this borough and is still taped.",
+    "test_against_595_604": "It cannot be summed as someone did a small thing and it went nowhere, because the parcel goes somewhere and comes back and the going is the whole of the block.",
+    "test_against_605_614": "It cannot be summed as somebody carried a thing they could not put down, because she puts it down in the coal shed in 0678 and it is gone in 0675, and nobody carries it for a chapter.",
+    "test_against_615_624": "It cannot be summed as somebody was told a thing they could not place, because nobody is told anything in ten chapters and the parcel is never described to anybody.",
+    "test_against_625_634": "It cannot be summed as someone decided something and was asked why and gave a reason, because nobody in ten chapters is asked why, not once.",
+    "test_against_635_644": "It cannot be summed as somebody brought a thing to a person and somebody else brought another and the person had to lie about it, because there is no lie in ten chapters and only one parcel is ever mentioned.",
+    "test_against_645_654": "It cannot be summed as a woman wrote things down and the paper went out of her house and nobody asked why it was in that order and she explained unasked, because nothing is written in ten chapters and the gas envelope does not move.",
+    "test_against_655_664": "It cannot be summed as a brush named in a kitchen carried through ten chapters by three people who never meet and ends on a passage floor, because nothing is named in a kitchen and nobody meets anybody and the brush does not move.",
+    "test_against_665_674": "It cannot be summed as the room she will not sit in and the gate she will not shut, because that is the previous block and the room is not the subject here and the gate is not shut at any point.",
+    "the_device": "A TAPED PARCEL IS PRESENT IN EVERY ONE OF THE TEN CHAPTERS AND EVERY CHAPTER IS CONSTRAINED BY THE ONE BEFORE IT, AND THE PROOF IS NOT A COUNT BUT THE PARCEL ARRIVING SOMEWHERE IT WAS NOT MEANT TO GO, AT NUMBER TEN, ON AN OPEN STEP, IN THE RAIN. THE BRUSH, THE ENVELOPE, THE STOOL, THE GREEN CHAIR, THE RUSH-SEATED CHAIR, THE CARRIER BAG IN THE VAN AND THE SHOEBOX EACH STAY IN EXACTLY ONE PLACE.",
+    "the_engine": "SOMEBODY COULD HAVE ASKED AND DID NOT AND THE NOT-ASKING COSTS SOMETHING VISIBLE, AND THE RESISTANCE MOVES INSIDE THE PERSON AND NOT OUTSIDE. THE FIVE-WORD SENTENCE OF 0044 IS SPENT AND IS NOT RE-USED.",
+    "the_finding_it_is_built_on": "FROM 0045: A BATCH CAN BE BUILT AS ONE SPREAD IN WHICH AN ORDINARY THING PASSES THROUGH EVERY CHAPTER AND EVERY CHAPTER CONSTRAINS THE ONE AFTER IT. 0048 USED WATER. THIS USES A PARCEL. THE IDEA IS NOT SPENT AND IS USED HERE ON A DIFFERENT ORDINARY THING."
+  },
+  "read_back": "DONE TWICE, AS PROMISED IN THE FIRST LINE OF THIS FILE. THE CARD AT 0684 ABOVE DID NOT MATCH THE CHAPTER AND WAS CORRECTED TO THE CHAPTER: THE PROSE HAS HER BEING LET IN, THE SURVEYOR ASKING FIVE QUESTIONS, AND HER TELLING THE TRUTH ABOUT THE BOX OUT LOUD, WHICH THE FIRST CARD SAID SHE DID NOT DO. THE CARD AT 0680 DID NOT MATCH THE CHAPTER AND WAS CORRECTED: THE PROSE HAS HER CHECK A KITCHEN CALENDAR. THE CARD AT 0682 DID NOT MATCH THE CHAPTER AND WAS CORRECTED: THE PROSE HAS THE DRAWER SHUT AT HALF SIX. FOUR DEFECTS WERE FOUND IN THE CAPS BLOCKS IN THE CHAPTERS THEMSELVES AND REPAIRED IN THE CHAPTERS: THE 0677 CLOSING PRINTED A WORD COUNT OF SPOKEN LINES THAT THE CHAPTER DOES NOT CONTAIN, THE 0680 CLOSING SAID A DRAWER HAD NOT BEEN OPENED WHEN THE CHAPTER OPENS IT, AND 0680 AND 0683 ROSTER LINES DESCRIBED BEHAVIOUR THE OPPOSITE OF WHAT THE CHAPTER HAS. SIX BANDS HELD, NONE HELD TWICE, NO EARLY FIFTIES, LATE FIFTIES HELD ONCE BY THE WOMAN AT NUMBER NINE, AND THE SISTER AT NUMBER TEN IS DELIBERATELY UNAGED AT 0679.",
+  "declared_ordinary_word": "quite",
+  "declared_ordinary_word_note": "DECLARED IN THIS FILE BEFORE CHAPTER 0675 WAS WRITTEN. COUNTED WHOLE WORD ON WORD BOUNDARIES ACROSS THE TEN CHAPTER FILES AFTER EVERY REPAIR. NOT NURSED IN EITHER DIRECTION. THE WORD QUITE IS AT ONE ACROSS 665-674 AND AT NIL ACROSS 655-664, SO IT IS NOT A CARRIED FIGURE. SPENT WORDS ARE USUALLY, ANYWAY, LIKE, JUST, ENOUGH AND NOW STILL.",
+  "ladder": {
+    "rule": "three to seven days between chapters, none on the ninth or the eleventh of a month, no two sharing a date, none before Monday the eighteenth of October 2021",
+    "floor_derived_from": "0674, which is Friday the fifteenth of October 2021. A gap of three puts the earliest permitted 0675 at Monday the eighteenth of October 2021, and 0675 is put ON the floor.",
+    "chapters": {
+      "0675": "Monday 18 October 2021",
+      "0676": "Friday 22 October 2021",
+      "0677": "Tuesday 26 October 2021",
+      "0678": "Saturday 30 October 2021",
+      "0679": "Wednesday 3 November 2021",
+      "0680": "Saturday 6 November 2021",
+      "0681": "Friday 12 November 2021",
+      "0682": "Tuesday 16 November 2021",
+      "0683": "Monday 22 November 2021",
+      "0684": "Friday 26 November 2021"
+    },
+    "incoming_gap_from_0674": 3,
+    "gaps_inside_the_batch": [4, 4, 4, 4, 3, 6, 4, 6, 4],
+    "count_note": "Nine inside and one coming in. THE TEN INCLUDING THE INCOMING ARE 3, 4, 4, 4, 4, 3, 6, 4, 6 AND 4. ADDED UP OFF TWO DATES AND NOT OFF A LIST. THE SUM IS 42.",
+    "count_of_gaps": 10,
+    "span_days_from_0674": 42,
+    "weekdays_checked_on_the_real_2021_calendar": "15 OCT 2021 IS A FRIDAY. 16 SAT, 17 SUN, 18 MON, 19 TUE, 20 WED, 21 THU, 22 FRI, 23 SAT, 24 SUN, 25 MON, 26 TUE, 27 WED, 28 THU, 29 FRI, 30 SAT, 31 SUN. 1 NOV MON, 2 TUE, 3 WED, 4 THU, 5 FRI, 6 SAT, 7 SUN, 8 MON, 9 TUE, 10 WED, 11 THU, 12 FRI, 13 SAT, 14 SUN, 15 MON, 16 TUE, 17 WED, 18 THU, 19 FRI, 20 SAT, 21 SUN, 22 MON, 23 TUE, 24 WED, 25 THU, 26 FRI.",
+    "closed_figures_in_datelines": "NONE. 18, 22, 26, 30 OCTOBER AND 3, 6, 12, 16, 22, 26 NOVEMBER. NEITHER THE NINTH NOR THE ELEVENTH APPEARS.",
+    "bound_added_up_and_not_copied": {
+      "strict_pair_from_0674": "Off Friday the fifteenth of October 2021, ten gaps of three to seven days span thirty to seventy days. Thirty days is four weeks and two days and moves the weekday on by two, so it is Sunday the fourteenth of November 2021. Seventy days is ten weeks exactly and does not move it at all, so it is Friday the twenty-fourth of December 2021.",
+      "loose_pair_from_the_declared_floor": "Off Monday the eighteenth of October 2021, plus nine internal gaps of three to seven days, smallest sum twenty-seven days is Sunday the fourteenth of November 2021 and largest sum sixty-three days is Monday the twentieth of December 2021.",
+      "which_binds": "THE STRICT PAIR. THE TWO READINGS TIE AT THE EARLY END AND THE STRICT PAIR IS FOUR DAYS WIDER AT THE LATE END, SO THE STRICT PAIR BINDS.",
+      "where_the_tenth_chapter_falls": "Friday the twenty-sixth of November 2021 is inside the strict pair by a distance of about four weeks and inside the loose pair by about three weeks and a half."
+    }
+  },
+  "bands": {
+    "roster": "FIVE FIGURES CARRY THIS BATCH AND THE SIXTH SITS IT OUT. A WOMAN IN HER LATE SEVENTIES AT NUMBER TWELVE. A WOMAN IN HER LATE FORTIES WHO CLEARS HOUSES. A MAN IN HIS EARLY FORTIES WHO BUILT THE STOOL. A WOMAN IN HER LATE FIFTIES AT NUMBER NINE. A WOMAN IN HER EARLY THIRTIES AT NUMBER TEN, THE SISTER.",
+    "who_sits_this_batch_out_and_why": "THE MAN IN HIS LATE TWENTIES ON THE FAR SIDE OF THE RING ROAD IS NOT IN THESE TEN CHAPTERS, FOR THE SECOND BLOCK RUNNING. HE SAID RIGHT AND DID NOT ASK AND WILL NEVER KNOW, AND GIVING HIM A CHAPTER IS THE MOST OBVIOUS THEFT AVAILABLE, AND 0048 SAID THE SAME THING ABOUT HIM AND WAS RIGHT TO. HE HOLDS THE SIXTH BAND AND THE SIXTH BAND IS NOT SPENT.",
+    "per_chapter": {
+      "0675": "late seventies",
+      "0676": "late forties",
+      "0677": "early forties",
+      "0678": "late seventies",
+      "0679": "late fifties",
+      "0680": "early thirties",
+      "0681": "late forties",
+      "0682": "early forties",
+      "0683": "late seventies",
+      "0684": "late seventies"
+    },
+    "collisions_inside_batch": "NONE. SAME FIGURE SAME BAND ON RETURNS. NO BAND IS FIRST HELD IN A LATER CHAPTER THAN THE ONE THAT HELD IT. LATE FIFTIES IS HELD BY THE WOMAN AT NUMBER NINE AND BY HER ALONE AND APPEARS ONCE. NO EARLY FIFTIES APPEARS.",
+    "presents_without_age": "0679 the sister from number ten is in the room for the whole evening and is DELIBERATELY NOT AGED, because early thirties is first held at 0680, which is later than 0679, and ageing her at 0679 would be first-held-later. The prose gives her no age and the file says so. 0676 the man is referred to in a thought and is not aged. 0677 and 0682 the woman of seventy-eight is not in either chapter and is not aged. 0681 the man is referred to in a thought and is not aged. 0683 a lad puts the parcel down and is not aged. 0684 the surveyor is a woman with a bright voice and is not aged.",
+    "carried_forward_bans": "EARLY FIFTIES AND LATE FIFTIES MAY NOT BE GIVEN TO ANY NEW FIGURE. LATE FIFTIES IS GIVEN ONCE AND TO THE EXISTING WOMAN AT NUMBER NINE."
+  },
+  "cards": {
+    "0675": "A woman in her late seventy-eight empties a bowl with a folded cloth in it under a bath tap and looks at a parcel on the left of her kitchen table that is not fish any more, and the bin lid has not shut since the summer, and a man comes for the bin and tells her a parcel will not go in it and she says nothing about a parcel, and she goes round the side in the afternoon and puts the parcel on the coal in the shed behind the open gate and does not put the padlock on the hasp.",
+    "0676": "A woman in her late forties is on a fly-tipping job off the ring road with a skip and a skip man and finds a taped parcel with a washed-off label on top of the pile, and her rule is that she does not open other people's things, and she puts it behind the bench in the van with the drawer shut, and she does not go up that road, and her palms are cut and one is dressed and one is not.",
+    "0677": "A man in his early forties is in a house fitting doors and a woman on the landing asks him about a mark on her ceiling and he does not say what he knows, because saying it would be a visit and a visit takes the gate off somebody, and he looks at a card in his shirt pocket he has carried three weeks and does not ring the number, and he goes back to planing a sill.",
+    "0678": "A woman in her late seventies goes into her coal shed for coal and the parcel is not on it and there is a clean rectangle in the coal where it sat, and the padlock is still hanging open on the hasp, and she does not go down the road, and she does not ask, and she empties the bowl under the bath tap and the table still stands dead flat.",
+    "0679": "A woman in her late fifties finds a taped parcel on the low wall of her own garden with a number on the label and the street washed off, and her sister is in the house for the evening, and she brings the parcel in and puts it in the front room under the stool because that is where she does not have to look at things, and she does not go up that road.",
+    "0680": "A woman in her early thirties has a parcel on the hall table at number ten where the post goes and has had it since Tuesday, and she checks a kitchen calendar and works out twice that Saturday is not a collection day, and puts it out on the step anyway at about eleven, and it rains on it, and she brings it back in on the back mat, and her back door shuts true over it.",
+    "0681": "A woman in her late forties has the parcel behind the bench in the van where it has been and takes a job where a woman cannot put one thing in the skip, and she does not open the parcel, and she drives past the end of that road and does not turn in, and the drawer under the bench is shut with the bolster in it and there is still no invoice for four hours in August.",
+    "0682": "A man in his early forties shuts the open drawer at half six and thinks about it an hour later at the lights, and buys oak from a woman at the till who asks him to tell his sister Friday is not a date, and is at a merchant tip in the afternoon and finds a taped parcel with a number and a street he has driven past, reads the name, puts it back down the way it was, does not put it in his van, writes TWELVE on a scrap of scribing card into his shirt pocket, and tapes a folded bag over its top corner.",
+    "0683": "A woman in her late seventies finds a lad she has never spoken to putting a taped parcel on the grass inside her open gate without knocking, and she brings it in and puts it on the left of her own kitchen table where it has been since the twelfth of October, and the envelope stays square with the edge on the right of it.",
+    "0684": "A woman in her late seventies has the parcel on the left of her table and a woman with a bright voice comes up the path on the date a machine gave her in October and asks about water staining and says it is for the freeholder and not for you, and the door is not on the latch, and she is let in, and the surveyor asks what the box is and what is in it and whether it was opened and she tells her the truth out loud, and the surveyor goes up for twenty-five minutes and comes back down and hands her a second printed card with the same free number on it, and both cards go in the apron pocket with the two drop bolts, and she has rung neither."
+  },
+  "prohibitions_honoured_in_this_file": {
+    "system": "NO SYSTEM NOTICE, NO MARGIN, NO LENS, NO PERMISSION, NO TERM, NO BEARER, NO HOLDING, NO CLAIM, NO SEAL, NO LATTICE, NO SEAM, IN ANY FORM, INCLUDING ALLUSION. WORDS HOLD, HOLDING, CLAIM AND COUNTER AT ZERO ON WORD BOUNDARIES, AND ALSO AT ZERO IN THE PLURAL AND THIRD PERSON FORMS, HOLDS, HOLDS, CLAIMS, COUNTERS, AND AT ZERO IN THE PAST TENSE, HELD.",
+    "names": "NO HUMAN PERSONAL NAME. THE COUNCIL MAN OF 0674 IS REFERRED TO ONLY BY WHAT HE WAS DOING. THE SURVEYOR IS A VOICE ON AN ANSWERPHONE AND A CARD.",
+    "said": "THE BAN ON THE SAID BUILDING IS LIFTED BY THE REVIEW OF 0048 AND DIALOGUE IS REQUIRED IN EVERY CHAPTER BY AGENTS.MD. WHAT IS MEASURED IS THE WORD SAID, AND IT IS NOT BANNED. WHAT IS BANNED IS A CHAPTER IN WHICH NOBODY SPEAKS.",
+    "this_chapter": "THE PHRASE IS NOT WRITTEN IN ANY CHAPTER AND NEITHER IS ANY OTHER VARIANT THAT STEPS OUTSIDE THE STORY. WRITE THE MORNING, OR THE KITCHEN, OR THE PASSAGE, OR THE SHED.",
+    "day_counts": "NO DAY-COUNT IN ANY CHAPTER IN ANY BLOCK, AND NO CLOCK TIME THAT IS A CLOSED FIGURE. THE FIGURES ALREADY CANON AND ALREADY ON THE PAGE ARE THE FOUR HOURS OF GATE WORK ON THE SEVENTH OF AUGUST, THE ABOUT TEN MINUTES AND THE ABOUT FOUR SECONDS OF THE SIXTEENTH OF JULY, THE THREE SECONDS OF THE REFUSAL IN MAY, THE FOUR MINUTES OF THE PASSAGE LIGHT, THE ABOUT A MINUTE OF THE KNOCK IN THE SUMMER, AND THE HALF A MINUTE AT THE END OF A ROAD IN OCTOBER. NO CHAPTER ON THE NINTH OR THE ELEVENTH.",
+    "standing_refusals": "ELEVEN, UNCHANGED."
+  },
+  "chapter_length": "A CHAPTER IN THIS BATCH IS 2,200 TO 3,200 WORDS, THE RANGE IN PHASE_SYSTEM.MD, WHICH IS WHERE THE TEN CHAPTERS OF 0048 WERE BROUGHT AFTER THE REVIEW. NO EXEMPTION FOR A QUIET CHAPTER AND NO EXEMPTION FOR A CHAPTER WHOSE PEOPLE ARE NOT TALKING TO EACH OTHER, BECAUSE THAT IS THE SAME CHAPTER.",
+  "rules_row": "THE --- ROW IS FOUR TO TWELVE ACROSS A CHAPTER AND EVERY RULE FALLS AT A REAL CHANGE OF PLACE, TIME OR TURN. A RULE THAT FALLS BECAUSE A PARAGRAPH ENDED IS A STRIP AND IS NOT A RULE. THE REPORTED-AND-NOT-TOUCHED RULE FROM 0046 AND 0047 AND THE SIXTEEN-TO-EIGHTEEN RULE FROM 0048 ARE BOTH WITHDRAWN AND NEITHER IS USED AGAIN IN THIS BLOCK.",
+  "figure_that_binds": "THE PARCEL IS THE ONLY THING THAT TRAVELS. THE BRUSH IS ON THE PASSAGE FLOOR AT NUMBER TWELVE AND ONLY THERE. THE GAS ENVELOPE IS ON THE KITCHEN TABLE AT NUMBER TWELVE AND ONLY THERE. THE STOOL IS IN THE FRONT ROOM AT NUMBER NINE AND ONLY THERE. THE GREEN CHAIR AND CUSHION ARE AT THE KITCHEN TABLE AT NUMBER TWELVE. THE RUSH-SEATED CHAIR IS IN THE FRONT ROOM AT NUMBER TWELVE. THE SECOND BRUSH IS IN THE OPEN DRAWER UNDER THE BENCH IN HIS VAN IN A PLASTIC BAG. THE STRANGER'S BRUSH IS IN THE SIDE POCKET OF THE CANVAS BAG IN HIS FOOTWELL. THE BOLSTER IS IN THE SHUT DRAWER UNDER THE BENCH IN HER VAN ON THE LEADS AND THE TIN. THE SHOEBOX IS ON TOP OF HIS OWN BENCH. THE GATE STANDS OPEN.",
+  "movement": "NOTHING IS RESCUED AND NOTHING IS RESOLVED BY ARRIVING OR BY ACTING. THE WATER KEEPS ARRIVING IN THE FRONT ROOM CEILING. FOUR OF SIX STAYS FOUR OF SIX AND NOTHING IS CROSSED OFF AND THERE IS NO PENCIL. NOBODY IS ASKED WHY. THE PARCEL GOES ROUND AND COMES BACK AND IS STILL TAPED."
+}
