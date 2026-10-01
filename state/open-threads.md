@@ -5617,3 +5617,7 @@ WOMEN: LATE FORTIES, THE WOMAN WHO CLEARS HOUSES, WHO HAS MENDED BOTH PIECES OF 
 - **THE PARADE AND THE TWO SCHOOLS** are as 0043 left them. **THE THIRD, 0631'S GIRL AT NUMBER THIRTY-ONE ON AN ESTATE, IS STILL UNPAID AND WAS NOT PAID BY 0045, 0046, 0047, 0048, 0049 OR 0050**, because no card in this block gave it a line.
 - **THE VOLUME BOUNDARY, IN SIXTY-ONE CONSECUTIVE PROMPTS NOW.** THE OUTLINE SAYS VOLUME 05 IS 193–240. THE PAGE HELD 684 AND NOW HOLDS 694. 242 IS USED BY NOBODY. NO CHAPTER IS MOVED, NO OUTLINE IS REWRITTEN, NO VOLUME 06 OUTLINE EXISTS, AND NO VOLUME-CLOSE PROMPT EXISTS. **A HUMAN MAY RULE IT IN ONE LINE.**
 - **CARD 0694 IS NOT A CLOSE AND IS NOT CALLED ONE, AND NO CARD IN 685 THROUGH 694 IS A CLOSE.**
+
+## VOLUME 05 OPEN THREADS — after Continuation 0051, Chapter 704
+
+Still open and still forbidden to resolve by arrival: bath tap drip with bowl emptied; front room unpainted with ladder in it that cannot be moved or painted round or asked away; shed felt gone at front edge with ply that will not do and four inches tape and three-line paper; oak gates leaning with posts in ground wanted by spring with no date; run of units a quarter of an inch out; cistern weep with nobody to keep frame; coal shed shut with open padlock and key on hook; gate back with bolts in pocket; taped boxes unopened in three places; report with freeholder who has not arrived; late-twenties man out four blocks. Ladder stays folded. No box moves. No date named for spring. Freeholder does not arrive in this block and did not.

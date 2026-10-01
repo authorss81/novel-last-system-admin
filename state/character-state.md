@@ -3243,3 +3243,12 @@ One slow-burn relationship only: Jonas and Sanaa. Volume 01 produced a refusal i
 **THE MAN IN HIS LATE TWENTIES, ON THE FAR SIDE OF THE RING ROAD.** Not in 685–694, for the third block running. Holds the sixth band. The sixth band is not spent.
 
 **SIX ROOM FIGURES WHO CARRY NO BAND AND ARE NOT ON THE PAGE BY NAME.** A woman in a white van. A woman in a fleece with a fibreglass step ladder and a roll of lamps. A man with a skip. A man from a coal yard with a barrow. A man at a bench opposite. A man of about thirty-five who books kitchens and works shifts. A woman in a dressing gown at a door. A man of about sixty-five who has not touched his stairs.
+
+## VOLUME 05, CONTINUATION 0051 — CHARACTER STATE AFTER CHAPTER 704
+
+WOMAN 78 AT 12: cannot ask since before Christmas; empties bowl; squares cloth; does not enter front room; ladder folded inside; says spring with no date.
+MAN EARLY 40S: lent ladder 29 Nov, cannot ask back without saying so; gates unhung; card TWELVE unwritten; quarter inch out remembered; says spring with no date.
+WOMAN LATE 40S: white van; drawer shut with bolster; box unread twice; blanket in rags; leaves ladders where they live; pad for paid work only; says spring with no date.
+WOMAN LATE 50S AT 9: back door shuts true; six pads first crossed twice; ash stool empty since 5 Nov; bulb since 7 Dec; fire unlit since Easter; never up road; does not ask borrower; says spring with no date.
+WOMAN EARLY 30S AT 10: back door shuts true; drawer shut with ply tape pencil paper; shed draught; outside light Saturdays, missed 25 Dec, switched out of turn 17 Feb; walked road once 17 Dec; says spring with no date.
+MAN LATE 20S RING ROAD: out fourth block; said right and did not ask; no job on page; finding for a human.
