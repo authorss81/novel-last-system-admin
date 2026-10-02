@@ -42,7 +42,7 @@ He does not open them. He slides the bar under the board above the bands and lif
 
 If he opens them he is not finding out whose it was. He is finding out only that there is something there, and the something will be a lump of old something that somebody cleared out of a building, and it will have a week in which he has had it in his hand and turned it over and put it back. And it will not be any more the fact it was this morning, which was that two people had put two steel bands under the middle of a run of boards for a reason that was good enough for them at the time.
 
-The woman from two doors down is at that frontage for about a quarter of an hour in the middle of the morning because the boards are in her way along the path. She stands clear by the cabin while he carries, and she does not touch a board and does not ask about them, and she does not look at them twice.
+The woman from two doors down is at that frontage for about a quarter of an hour in the middle of the morning because the boards are in her way along the path. She stands with her back against the cabin and her bag in front of her, and she comes out of his way each time he goes past with an end in his hands.
 
 “I can get round by the wall,” she tells him.
 

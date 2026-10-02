@@ -42,7 +42,7 @@ The one at the far end that has sunk is the last of the sixteen and it is the wo
 
 By the middle of the morning she has eleven good ones on the sacking, head to tail the way they stood, and five bad ones on the flags.
 
-She looks at the two rows for a while from a crouch. Eleven will lay about four feet and a half, which is short of the six she took up, and the five are not going to make the difference. Whoever digs this passage will find a heap of eleven and a scatter of five and a trench six feet long, and there is no way to say that in the ground.
+She looks at the two rows for a while from a crouch. The eleven are whole bricks, and laid end to end they come to four foot and an inch and a half, which is short of the six she took up, and the five are not going to make the difference. Whoever digs this passage will find a heap of eleven and a scatter of five and a trench six feet long, and there is no way to say that in the ground.
 
 Her sister is in the kitchen with the door open the whole of it. She can hear the chair move and a cup go down, and the wireless low, and none of it comes out into the passage.
 
@@ -52,11 +52,11 @@ Her sister is in the kitchen with the door open the whole of it. She can hear th
 
 She calls out once to the front gate.
 
-Her sister comes out through the house and stands at the front gate while the stones go down through it. She does not bend and she does not pick one up, and she does not look at the passage twice. She stands with one hand on the gate while the barrow goes past her, and then she goes back in through the house to the kitchen, and the door stays open behind her.
+Her sister comes out through the house and stands at the front gate while the stones go down through it. She keeps one hand on the gate and her bag hooked over the other arm and looks out at the road while the barrow goes past, and once, when the near wheel finds the edge of a flag, she shifts her weight and lets it come by on its own. Then she goes back in through the house to the kitchen, and the door stays open behind her.
 
 The barrow goes down the passage and back four times, and the wheels find the same line every time because the paving has not lifted and she has not moved. The bucket goes down first with the bad ones in it, and then the barrow comes back with the sacking of good ones on it, and she does not put the stones straight into the barrow because two bricks with a good arris will knock each other off that corner in the first ten yards, and an arris once knocked off is an arris once gone.
 
-There is nothing asked about the passage from either of them, and nothing about the stones, and the hour goes as it came.
+The chair goes on moving behind the open door and the cup goes on going down on the table, and the hour goes as it came.
 
 ---
 

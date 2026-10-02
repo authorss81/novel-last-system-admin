@@ -34,7 +34,7 @@ She puts the saw to the foot of the first stem and cuts across, and the stem com
 
 Each face is about the size of a thumb and it is pale green and wet and it is the colour of a cut apple left out. It is out of the sun and off the ground by the end of the afternoon and it will be a brown ring inside a fortnight and grey in a month, and the grey face with nothing above it is the right way for that stem to finish.
 
-The woman who does her shopping passes along the front of number nine in the middle of that Sunday and stops at the kerb to look at the heap on the sheet, and does not come in through the side gate. She does not offer and nothing is asked of her.
+The woman who does her shopping passes along the front of number nine in the middle of that Sunday and stops at the kerb to look at the heap on the sheet, and does not come in through the side gate. She stays on the kerb side of it the whole time she is there.
 
 “The bus did not come,” she tells her from the kerb.
 
@@ -50,9 +50,9 @@ The posts are two by two at the corners and they sit shallow in the ground, and 
 
 She puts a finger down the gap between a post and its hole and can get it to the second knuckle, and the wood at that depth is grey and going, and there is no root on it at all because a privet this size is growing out of one stem.
 
-Leaving them in is a decision and not an oversight, and she made it in about as long as it took to put a finger in the gap. Taking them out means digging four holes two foot deep in a bed two foot wide against a wall she has not dug at this end of, for four posts that have nothing in them. Putting them back is not a thing anybody can be asked for. So they stay, and the wire stays on them, and the fact that they are in the bed is a thing she will be able to read off the ground in the spring if anyone ever wants to.
+Leaving them in is a decision and not an oversight, and she made it in about as long as it took to put a finger in the gap. Taking them out means digging four holes two foot deep in a bed two foot wide against the side wall, in ground that has not been opened this year, for four posts that have nothing in them. Putting them back is not a thing anybody can be asked for. So they stay, and the wire stays on them, and the fact that they are in the bed is a thing she will be able to read off the ground in the spring if anyone ever wants to.
 
-The front wall of that side bed has the low spot at the door end where the water goes, and the privet stood four feet along it and will stand four feet along it, and the weed that comes up through the gap between post and soil comes up in the spring whatever is done about it.
+That bed runs down to a low spot at the door end where the water goes, and the privet stood four feet along it and will stand four feet along it, and the weed that comes up through the gap between post and soil comes up in the spring whatever is done about it.
 
 She knocks the last of the cuttings off the sheet into the barrow and folds the sheet over the barrow, and the green comes off it in a line on the flags where it was wet.
 

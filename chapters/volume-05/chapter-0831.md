@@ -32,13 +32,13 @@ He turns the frame over in the opening and looks at the back of it, and the four
 
 He leaves it. It is now part of the frame rather than part of a repair, and a frame taken out whole wants to stay whole. To open it would be to make two frames out of one, and there is nothing in front of him to argue for opening sound wood.
 
-The woman from two doors down is in that yard at the start of the day with a bucket for the tap by the gate, and does not stay past the first hour and is not there for the frame and does not look at it twice.
+The woman from two doors down is in that yard at the start of the day with a bucket for the tap by the gate, and she is gone up the path before the architrave is off the wall.
 
 “Have you had the rain in your back room?” she tells him.
 
 “Not since the felt went back,” he tells her. She goes out through the yard gate with the bucket and the yard is his again.
 
-There is an hour of that yard with two people in it and no two hands on anything, and then an hour and most of a morning with one person in it and two hands on a frame that is about to come out of a wall it has stood in since before the cabin was at that unit.
+There is an hour of that yard with two people in it and a bucket going out of the gate at the end of it, and then an hour and most of a morning with one person in it and two hands on a frame that is about to come out of a wall it has stood in since before the cabin was at that unit.
 
 ---
 
