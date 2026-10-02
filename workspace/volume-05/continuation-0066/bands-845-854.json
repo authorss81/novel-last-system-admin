@@ -1,0 +1,171 @@
+{
+ "allocation_written_before_prose": true,
+ "anti_tick_rules_written_before_any_prose": [
+  "THE KEEP STAYS SHALLOW. THE GROUND UNDER EVERY ONE OF THESE THINGS HAS ALREADY MOVED AND IS NOT GOING TO STOP. NOTHING IS LIFTED AND NOTHING UNDER ANYTHING IS OPENED. WORK GOES IN FROM THE SIDE OR FROM THE FRONT AND THE THING ITSELF STAYS WHERE IT IS.",
+  "NO CHAPTER ENDS ON A JOB FINISHED. FOUR END ON A THING LEFT AS IT IS AND NOT PUT THERE BY THIS WORK: 0845 THE GREEN SEAM OF MOSS IN THE JOINT UNDER THE HOUSE WALL, 0847 THE BAND OF PALER PLASTER BEHIND THE STORE RAIL, 0849 THE CHIP OUT OF THE ARRIS ON THE THIRD SLAB, 0853 THE ONE JOINT THAT WAS NOT FED UNDER THE LIPPED FLAG BY THE RAIL. THE OTHER SIX END ON WHAT THE WORK SHOWED OR REVEALED.",
+  "THE SECOND PERSON IS SHOWN AND NEVER REPORTED. NOBODY IS TOLD, NOBODY IS REFUSED, NOBODY IS PASSED ANYTHING, NOTHING PASSES BETWEEN PEOPLE ABOUT THE JOB, NOBODY HOLDS ANYTHING OF OURS AND NOBODY LOOKS TWICE.",
+  "A FIGURE THE CHAPTER ITSELF SETS MUST CLOSE. WHERE A COUNT IS MADE IT IS MADE ONCE AND THE ENDING KEEPS IT. SINGLE-PLACE COUNTS ONLY.",
+  "THE THREE BLINDING JOBS ARE THREE DIFFERENT MATERIALS FOR THREE DIFFERENT REASONS AND MUST NOT READ AS ONE JOB THREE TIMES: 0845 IS FINE DUST ON A LEVEL RUN, 0849 IS A SWEEPING BLINDING ON A RUN THAT TAKES WASHING, 0853 IS GRIT ON A FALL BECAUSE DUST ON A FALL WASHES OUT AGAIN. THE WORD BLINDED MAY NOT BE THE SUBJECT OF TWO OF THEM."
+ ],
+ "bands": {
+  "per_chapter": {
+   "0845": "seventy-eight",
+   "0846": "late fifties",
+   "0847": "early forties",
+   "0848": "late forties",
+   "0849": "early thirties",
+   "0850": "early thirties",
+   "0851": "late forties",
+   "0852": "early forties",
+   "0853": "late fifties",
+   "0854": "seventy-eight"
+  },
+  "rotation_in_chapter_order": "TWELVE, NINE, UNIT, LOCK-UP, TEN, TEN, LOCK-UP, UNIT, NINE, TWELVE. THE SECOND HALF IS THE MIRROR OF THE FIRST AND NOT A REPEAT OF IT. A WRITER OF 0855 ONWARD MAY NOT TAKE THIS ORDER WITHOUT SAYING SO.",
+  "the_band_belongs_to_the_person": "The seventy-eight woman is number twelve and has her sister. The woman in her late fifties is number nine and is alone in the house. The woman in her early thirties is number ten and has her sister. The woman in her late forties is the lock-up and hears the woman who books work. The man in his early forties is the unit and sees the woman from two doors down.",
+  "one_figure_per_chapter": "One band figure in each chapter and only that one. No second pair of hands anywhere in the ten."
+ },
+ "family": "FAMILY IS ONE SOUND SHALLOW KEEP ON GROUND THAT HAS ALREADY MOVED. Nothing lifted, nothing opened, and every job is packing, brushing, sweeping, raking or easing into the outside of something that is already there. No customer told, refused, passed or finished inside the day. The second person is never reported: she or he comes, does a thing of his or her own, and goes. Why not nearest: 825-834 was work done properly on a thing going to be taken away; 815-824 was nobody asked and nobody measuring. Here nothing is going anywhere and the ground itself is the only thing that has moved, and the whole of it is keeping what is already sound from going unsound.",
+ "figure_rule_for_this_block": "Five standing figures, one band each, kept for the whole block, and no figure anywhere in the ten is aged except those five. The late fifties stays at number nine alone, two chapters, 0846 and 0853. Roster by eyes: 0845 seventy-eight, 0846 late fifties, 0847 early forties, 0848 late forties, 0849 early thirties, 0850 early thirties, 0851 late forties, 0852 early forties, 0853 late fifties, 0854 seventy-eight. THE NEW UNAGED CEILING FOR THIS BLOCK IS FOUR AND THIS BLOCK USES ZERO.",
+ "declared_ordinary_word": "edge",
+ "declared_ordinary_word_note": "Declared before any prose of 845 to 854 exists. It may not be not, usually, anyway, like, just, enough, still, kind, quite, small, round, one, week, almost, anything, and then, nearly, away, count, garden, shoulder, work, or any other word this file declares. EDGE is the ordinary word of this block, because nine of the ten jobs are on the edge of something: a gate joint, a kerb face, a rail edge, a guide, a slab face, a mouth, a bracket, a drawer front, a flag joint and a sash channel. Its figure is reported after the prose and not before.",
+ "calendar": {
+  "floor": "Saturday the sixteenth of September 2023, which is 0844 on Wednesday the thirteenth of September plus three.",
+  "gap_counting": "TEN DATES GIVE NINE GAPS, SO THE TENTH IS THE INCOMING ONE FROM 0844. Ten gaps including the incoming one: 3, 5, 4, 3, 6, 4, 4, 3, 4, 3, summing to thirty-nine days from Wednesday the thirteenth of September to Sunday the twenty-second of October 2023.",
+  "dates": {
+   "0845": "Saturday the sixteenth of September 2023",
+   "0846": "Thursday the twenty-first of September 2023",
+   "0847": "Monday the twenty-fifth of September 2023",
+   "0848": "Thursday the twenty-eighth of September 2023",
+   "0849": "Wednesday the fourth of October 2023",
+   "0850": "Sunday the eighth of October 2023",
+   "0851": "Thursday the twelfth of October 2023",
+   "0852": "Sunday the fifteenth of October 2023",
+   "0853": "Thursday the nineteenth of October 2023",
+   "0854": "Sunday the twenty-second of October 2023"
+  },
+  "weekdays": "Five distinct weekdays across the ten: Saturday once, Monday once, Wednesday once, Thursday four times and Sunday three times. NO TWO CHAPTERS IN A ROW ON THE SAME WEEKDAY, and this was checked pairwise.",
+  "bounds_both_directions": "Ten gaps of three to seven from 0844 on Wednesday the thirteenth of September give Friday the thirteenth of October to Wednesday the twenty-second of November 2023. Nine gaps of twenty-seven to sixty-three from the floor of Saturday the sixteenth of September give Friday the thirteenth of October to Saturday the eighteenth of November 2023. 0854 at Sunday the twenty-second of October is inside both and no date was moved to meet a bound.",
+  "the_ninth_and_the_eleventh": "None on the ninth and none on the eleventh of any month. Day numbers are 16, 21, 25, 28, 4, 8, 12, 15, 19, 22, checked against the real 2023 calendar.",
+  "the_year": "The year does not turn."
+ },
+ "cards": {
+  "0845": "At number twelve a woman of seventy-eight has the dust gone out of the joints of the run between the gate and the step, and means to brush every joint out and lay fine dust back into it without lifting a flag; the stop is where the dust stays in the joint below the level of the flags.",
+  "0846": "At number nine a woman in her late fifties has grass grown over the kerb and down the gutter along the front, and means to cut it back off the kerb face without moving the kerb; the stop is where the gutter line is open and falling to the gully.",
+  "0847": "At the unit a man in his early forties has the brush strip in the store rail packed with dust and grit over the summer, and means to comb it clean in place without lifting it out; the stop is where the bristles stand up and spring back along the whole length.",
+  "0848": "At the lock-up a woman in her late forties has dust and ground grit packed into the two guides the roller shutter runs in, and means to brush both channels down without taking the shutter out of them; the stop is where the curtain comes down without the bang at the bottom.",
+  "0849": "At number ten a woman in her early thirties has a run of four slabs with the soil film on the faces and the sand gone out of the joints, and means to sweep the faces and lay the sweepings back into the joints without lifting a slab; the stop is where a heel across a joint leaves no print.",
+  "0850": "At number ten a woman in her early thirties has a sack of topsoil standing in the shed that has settled into a cone with a hollow down the middle, and means to turn the bottom of it over inside the sack without emptying it; the stop is where the soil runs loose to the hand at the mouth.",
+  "0851": "At the lock-up a woman in her late forties has a cable tray dusted and packed with the grit off the yard against the conduit in it, and means to dust the tray and check the washer under every bracket head without moving the conduit; the stop is where the conduit lies clear the length of the bay with nothing resting on it.",
+  "0852": "At the unit a man in his early forties has the front of the bench drawer sticking on the swollen runner and rubbed a bright patch on its corner, and means to ease it with wax worked into the bearing edge without opening the drawer; the stop is where the front closes on its own without being pushed.",
+  "0853": "At number nine a woman in her late fifties has the joints of the path opened out where the run falls, and means to brush them out and pack them with grit without lifting a flag; the stop is where nine joints take grit to the level of the flags and the tenth cannot be fed from the top.",
+  "0854": "At number twelve a woman of seventy-eight has the sash channels packed with the dust and grit of the summer, and means to raise the lower sash and brush them out from outside without removing the sash; the stop is where the sash comes back down over the channels without catching."
+ },
+ "ten_stems": {
+  "0845": "dust out of a joint and dust back into it",
+  "0846": "a hook and the width of a hand of stone",
+  "0847": "bristles combed from the root",
+  "0848": "a brush down the inside of a channel",
+  "0849": "a film swept off stone",
+  "0850": "two arms to the elbow in a sack of soil",
+  "0851": "a finger under every washer edge",
+  "0852": "wax worked into a bearing edge with the drawer shut",
+  "0853": "grit into a joint on a fall",
+  "0854": "a sash raised on its nails and the channel under it"
+ },
+ "closing_images": {
+  "0845": "a run of flags blinded pale with dust lying in every joint below the level of the stones, and one green seam of moss left in the joint under the house wall",
+  "0846": "the kerb face showing the width of a hand all the length of the run, the gutter line open and falling to the gully, and one tuft of grass left standing in the joint",
+  "0847": "a rail with its strip combed and the bristles standing up the whole length of it, and behind the rail on the wall a band of paler plaster",
+  "0848": "the shutter down and both guides brushed to the floor, with a band of old grease left black across the foot of the near one",
+  "0849": "four slab faces swept bare with the joints holding their grey fill, and the chip out of the arris on the third slab left bare",
+  "0850": "a sack standing on the shed floor with the soil turned over inside it, and the hessian creased where it has been folded since the spring",
+  "0851": "a tray clean the length of the bay with the conduit lying in it clear, and one short length where the dust had bleached the sheath pale and under the dust it is dark",
+  "0852": "a drawer front closing on its own with a darker line of wax along the bearing edge, and the bright patch on the corner still there",
+  "0853": "nine joints full of grit to the level of the flags and the tenth left open under the lipped flag by the rail",
+  "0854": "a sash down in its old place with the channels clean on both sides and across the weather bar, and the place on the rail the hand goes worn back to the wood"
+ },
+ "canon_scenes_turned_away_from": {
+  "0845": "Turns away from 0835, which packed sand under one loose flag at this same gate, and from all twelve work: frost wall, sash, flue, envelope, taped box, brush, coal hole, ladder, front room, edging heap, blue string, lilac stool, three holes, paving May. THE JOINTS ALONG THE WHOLE RUN ARE THE ONLY WORK. THE RUN IS LEVEL, WHICH IS WHY DUST IS ENOUGH IN IT AND GRIT IS NOT NEEDED.",
+  "0846": "Turns away from 0829 and 0832 and all nine work: turf stack grass-down, privet stub four feet, posts and wire, slab to the rail, pads flat, turf, gate wedges, spanner, coal, back step stone, tub. THE GRASS ALONG THE KERB IS THE ONLY WORK. THE KERB IS NOT MOVED AND THE SPANNER IS NOT PICKED.",
+  "0847": "Turns away from 0839 and 0841 and all unit work: brace chalk, gate post, latch and staple, cowl, cabin frame on battens, boards and bands in the sand, bench battens and shavings beneath. THE BRUSH STRIP IN THE STORE RAIL IS THE ONLY WORK. THE STRIP IS NOT LIFTED OUT.",
+  "0848": "Turns away from 0837 and 0843 and all lock-up work: kerbstone on rubber, apron square hole and base heap, rack bars at the waist, third length by the far wall, pallets, grit rack and the swept heap beside its leg. THE SHUTTER GUIDES ARE THE ONLY WORK. THE SHUTTER IS NOT TAKEN OUT AND THE LADDER IS NOT USED. THE OFFICE DOOR STANDS OPEN ON THE LATCH FROM 0834 AND IS SHOWN, NOT EXPLAINED.",
+  "0849": "Turns away from 0836 and 0840 and all ten work: butt base and chippings, tap, path gravel under boards, palings stack, ivy in the air, dry brick sorted, felt, ply, drawer, line not put right. THE FOUR SLABS ARE THE ONLY WORK. NO SLAB IS LIFTED AND PLY IS NEITHER TOUCHED NOR NAILED.",
+  "0850": "Turns away from 0849 and all ten work: slabs, joints, chip, path, boards, butt, palings, brick, felt, ply, drawer, gravel. THE SETTLED SACK IN THE SHED IS THE ONLY WORK. IT IS NOT EMPTIED AND NOT CARRIED OUT AND THE SOIL IN IT GOES BACK ON THE BED WHEN IT GOES.",
+  "0851": "Turns away from 0848 and all lock-up work: guides, shutter, grease band, kerbstone, apron, rack bars, rack leg, pallets, bench, trays and boxes. THE CABLE TRAY, ITS BRACKETS AND ITS WASHERS ARE THE ONLY WORK. THE CONDUIT IS NOT MOVED AND THE OVAL HOLES ARE NOT FILLED OR PLUGGED.",
+  "0852": "Turns away from 0847 and all unit work: store rail and strip, brace, cowl, frame, boards, battens, bench top. THE FRONT OF THE BENCH DRAWER IS THE ONLY WORK. THE DRAWER IS NOT OPENED AND THE BAGGED BRUSH INSIDE IT IS NOT TOUCHED. THE SPARE SHIMS PUT IN THE DRAWER POCKET IN 0841 ARE STILL IN THE DRAWER.",
+  "0853": "Turns away from 0846 and all nine work: grass along the kerb, kerb face, gutter, turf, privet, slab, pads, spanner, coal. THE PATH JOINTS ARE THE ONLY WORK. NO FLAG IS LIFTED AND THE RUN FALLS, WHICH IS WHY DUST WILL NOT HOLD IN IT.",
+  "0854": "Turns away from 0835 and 0845 and all twelve work: flag joints, moss, edging heap, string, lilac, frost wall, flue, envelope, box, coal, ladder, front room. THE SASH CHANNELS FROM OUTSIDE ARE THE ONLY WORK. THE SASH IS NOT REMOVED, THE FROST WALL IS NOT TOUCHED AND NO ROOM IS ENTERED. THE BLUE STRING OFF THE EDGING HEAP IS TIED OFF AND PUT BACK ON THE HEAP."
+ },
+ "visitors": {
+  "ceiling": "AT MOST FOUR NEW UNAGED FIGURES IN TEN CHAPTERS AND THIS BLOCK USES ZERO. EVERY ONE OF THE TEN ARRIVALS IS A FIGURE ALREADY ON THE PAGE, AND EACH ARRIVAL IS TIED TO ITS PLACE: THE SISTER TO TWELVE AND TO TEN, THE BOOKS TO THE LOCK-UP, THE TWO-DOORS TO THE UNIT, THE SHOPPING TO NINE.",
+  "list": "0845 the sister at twelve. 0846 the woman who does her shopping. 0847 the woman from two doors down. 0848 the woman who books work. 0849 the sister at ten. 0850 the sister at ten. 0851 the woman who books work. 0852 the woman from two doors down. 0853 the woman who does her shopping. 0854 the sister at twelve.",
+  "the_pinned_pairs": "THE VISITORS CANNOT BE SWAPPED WITHOUT MOVING THE ROTATION, SO AT THE TWO PAIRS THE DOOR AND THE MANNER MUST BOTH DIFFER. 0850 IS NOT THE SAME DOOR OR THE SAME MANNER AS 0849. 0854 IS NOT THE SAME DOOR OR THE SAME MANNER AS 0845.",
+  "reasons_for_any_unaged_figure": "None, because none is written.",
+  "what_the_second_person_may_do": "EXIST. SPEAK AT MOST ONCE. COME AND GO. DO SOMETHING OF HER OWN. NOT LOOK AT THE JOB TWICE. NOT ASK ABOUT IT. NOT BE TOLD ABOUT IT. NOT HOLD ANYTHING OF OURS. NOT TOUCH IT."
+ },
+ "door_meetings": {
+  "rule": "The same two people at the same door in the same manner in no two chapters, and at most one second person in any one chapter in all ten.",
+  "per_chapter": {
+   "0845": "The sister at twelve is at the passage window, shuts the window when the brushing raises dust, and goes to the back of the house.",
+   "0846": "The woman who does her shopping comes in at the front door of number nine and carries her bags in one at a time.",
+   "0847": "The woman from two doors down pushes a barrow with a folded sheet on it across the unit yard and out through the far gate without stopping.",
+   "0848": "The woman who books work comes out of the office door and goes across the yard to the gate with her bag and does not stop at the guide.",
+   "0849": "The sister at ten comes out of the back door with a folded sheet over her arm, pegs it on the line and comes back in.",
+   "0850": "The sister at ten sets a barrow down in the shed doorway, stands there while the sack is turned, and takes it away again out of the yard.",
+   "0851": "The woman who books work is at the yard gate with her back to the road and does not come in.",
+   "0852": "The woman from two doors down goes into the cabin and comes out with a rolled mat under her arm and goes out of the gates.",
+   "0853": "The woman who does her shopping is on the pavement with her bags and steps off onto the grass to come round rather than walk on the joints.",
+   "0854": "The sister at twelve comes out of the front door and stands on the step looking up at the window from outside, and goes back in."
+  }
+ },
+ "movement": "Ten jobs, ten sound things on ground that has already moved, and nothing opened. 0845 dust brushed out of a joint and dust laid back into it. 0846 grass cut back off a kerb. 0847 a brush strip combed in place. 0848 shutter guides brushed down from inside. 0849 slab faces swept and joints blinded. 0850 soil turned over inside a sack. 0851 a tray dusted and a washer checked. 0852 a drawer front eased with wax. 0853 a flag joint packed with grit on a fall. 0854 a sash channel brushed out from outside. Every job is dry and from the outside of the thing.",
+ "second_measure_done_before_any_prose": {
+  "method": "The ten closings under closing_images were read side by side and three words were written against each one naming what that closing is actually about. Where two descriptions matched the closing was wrong and was rewritten here before the drafting began. Four of the ten are a thing left as it is and not put there by this work; none of the ten is a job finished.",
+  "result": "TEN DESCRIPTIONS, TEN SUBJECTS, NO TWO MATCHING, NONE A JOB FINISHED, FOUR LEFT AS THEY ARE.",
+  "the_ten_in_order": {
+   "0845": "moss left in joint",
+   "0846": "grass off the kerb",
+   "0847": "band behind rail",
+   "0848": "grease across guide",
+   "0849": "chip in arris",
+   "0850": "soil turned over",
+   "0851": "sheath under dust",
+   "0852": "drawer closing itself",
+   "0853": "joint not fed",
+   "0854": "channel out clean"
+  }
+ },
+ "figure_rule_for_the_block_on_arithmetic": "NO FIGURE-MISMATCH SPREAD, NO TELEPHONE, NO SUM WORKED OUT TO REVEAL SOMETHING, AND NO NUMBER ASKED TO AGREE WITH A NUMBER IN ANOTHER CHAPTER. Counting physical things in one place and letting that count carry the chapter is the trade, and single-place counts are what this block uses. No arithmetic engine.",
+ "still_live_and_taken_up_by_nobody_here": "Four pallets on bearers. A shutter that runs silent. A near gate square with a brace in it. A gate on a wall that shuts. A back door shut on its own frame. A cowl braced on a plate. Grass on ground that has not had anything on it. A shelf under a window with a tub on it. Four feet of frost wall with its top course open. A spanner on a set of flags. Six feet of edging in a heap with the blue string on it. Off the page and waiting on the man off the ring road, who has now sat out nine blocks and would be a tenth in this one: a figure for four rooms given aloud twice in a lock-up and written nowhere; a frame that is out of square; a landing wall with a bare patch; a fourth room at the top of a stair. Three lines of paper shut in a drawer with the tools that would do them. A box in a corner of a lock-up whose lid is not nailed.",
+ "prohibitions_honoured": {
+  "everything_dry_and_from_the_ground": "Every job is dry and from the outside of the thing. No roof, no ladder, no loft, no manhole. No tap run and no water drawn, carried, poured or emptied by the person at work in any of the ten. The only water anywhere is the shopping woman's own bags at nine and nothing that is poured.",
+  "standing_objects_untouched": "The freeholder does not arrive. The line at ten is not put right. The ladder at twelve is not opened and is not used in 0854, where the sash is raised on its own nails and held with the blue string off the edging heap. The box, its drawers and its lid are not opened. The coal at nine stays shut. No front room is entered in any of the ten. The report is not chased. The envelope is not turned. The bowl stays on its shelf and the ring on the tiles. Ply neither touched nor nailed. The staple is NOT DONE and April is NOT PAGE and the latch stays hooked. Frost NOT TOUCHED. Spanner NOT PICKED. Oval holes NOT FILLED PLUGGED. No cement, no mortar, no new concrete.",
+  "no_arithmetic_engine": "No figure-mismatch spread, no telephone, no sum, and no number asked to agree with another. Single-place counts only and every figure set closes."
+ },
+ "question_put_to_a_human": "What are chapters 845 through 854 about, in one sentence? Put to a human before this file was written. No human has answered it for any block from 595 onward. No writer answers it for them. It is recorded here unanswered and it stays open until somebody answers it.",
+ "measures": {
+  "allcaps_paragraph": "ONE IN EACH, WRAPPED IN ASTERISKS, AT LINE 5. IT MAY NOT CONTAIN THE CLOSING IMAGE AND IT MAY NOT STATE THE FAMILY IN ITS OWN WORDS.",
+  "banned_sweep": "hold holds held holding claim claims counter counters seal seals seam seams term terms notice notices lens margin system panel permission bearer lattice civicore goal resistance change beat changes changed changing goals beats, plus household threshold encounter determine noticed exchange. AT ZERO ON THE WHOLE FILE INCLUDING THE ALL-CAPS PARAGRAPH. The narrative word for what goes in the head of a door is strip and not seal. RUN THE SWEEP OVER THE WHOLE FILE AND NOT OVER THE CLEANED BODY.",
+  "dateline_inside_body": true,
+  "measure_first": "THE SHARED TEN-TOKEN SPANS, WITH THE DATELINE INSIDE THE BODY, ARE MEASURED BEFORE THE PROSE IS CALLED DONE AND NOT AFTER. The script is measure_runs.py in this directory. A NON-ZERO MEASURE MEANS THE WRITER DOES NOT FINISH.",
+  "names": "No human personal name anywhere in the ten.",
+  "numerals": "Chapter number and year only. No other digit in any of the ten, in the body or in the all-caps paragraph. No closed clock time and no day tally.",
+  "said": "Cap of five across the ten and at or below five in every chapter.",
+  "scene_breaks": "AT MOST TWO IN ANY CHAPTER, AND NOT THE SAME NUMBER IN ALL TEN. This block is written 1, 2, 1, 1, 2, 0, 1, 2, 1, 1, which is twelve.",
+  "watched_words": "steady, plain, counted, breathed, wrote, nodded. At zero by intention."
+ },
+ "measures_after_prose": {
+  "word_row": "1465, 1256, 1242, 1242, 1275, 1241, 1403, 963, 1266, 1237, TOTAL 12590, by wc -w on each file whole, title line included, taken off the files after the last repair and not carried forward from any summary. The ten files concatenated give the same 12590 because all ten end with a newline.",
+  "scene_breaks": "1, 2, 1, 1, 2, 0, 1, 2, 1, 1, total 12, against a cap of two in any chapter. NOT the same number in every chapter, which the last two blocks were and which a reader side by side can see. 0850 IS THE ONLY CHAPTER OF THE TEN WITH NO SCENE BREAK AT ALL.",
+  "allcaps": "One in each, at line 5 in every one, all in asterisks, no stray bold anywhere in any body.",
+  "banned_and_watched": "The thirty-nine banned plus the six watched are at zero on the whole file including the all-caps paragraph, in every one of the ten. FIVE REPAIRS WERE NEEDED TO GET THERE AND EVERY ONE IS A WORD THAT HAD GONE IN BY HABIT: 0845 holds, holding, hold, three times; 0846 holds, holding, hold; 0847 holds, terms, hold; 0850 changes, threshold, hold, changes, hold; 0851 notice; 0853 holding. ALL TWENTY ARE NOW OUT.",
+  "said": "Zero across the ten and zero in every chapter, against a cap of five.",
+  "declared_ordinary_word_figure": "EDGE is 29 across the ten, at 0, 4, 2, 1, 7, 0, 4, 6, 5, 0. It is the subject of 0852, which is why that chapter carries six, and 0845 and 0850 carry none.",
+  "ordinary_filler_figures": "not 13, 9, 11, 9, 16, 17, 12, 8, 12, 11. one 5, 8, 5, 9, 5, 4, 4, 3, 7, 8 after fourteen were cut out of 0854. round 1, 2, 0, 0, 1, 4, 3, 1, 2, 1. still 6, 0, 1, 0, 1, 0, 0, 1, 1, 0. away 3, 1, 3, 2, 1, 1, 0, 1, 1, 3. kind, quite, usually, anyway, almost, nearly and garden are at zero in all ten.",
+  "numerals": "The chapter number and the year only, in every one of the ten. No closed clock time and no day tally anywhere. The only water in the ten is rain and the water of a last rain, and nothing is drawn, carried, poured or emptied.",
+  "shared_spans": "The shared ten-token body spans with the dateline inside the body are 0 across all forty-five pairs and 0 inside any chapter, measured after the prose and after the last repair. The first pass of the measure found 13 across two pairs and 2 inside 0852 and all fifteen are now cut.",
+  "names": "No human personal name anywhere in the ten.",
+  "pronoun_roster": "he and him are zero in the eight women's chapters. In 0847 the only she and her are the woman from two doors down. In 0852 the two her are the woman from two doors down and he is the band person throughout.",
+  "endings": "Ten closings, ten subjects, no two matching, none a job finished, four left as they are and not put there by this work."
+ }
+}
