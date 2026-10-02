@@ -433,13 +433,17 @@ def build(
     meta_lines.append(f'<dc:language>{html.escape(meta["language"])}</dc:language>')
     if meta["creator"]:
         meta_lines.append(f'<dc:creator>{html.escape(meta["creator"])}</dc:creator>')
-    for subject in meta["subjects"]:
-        meta_lines.append(f'<dc:subject>{html.escape(subject)}</dc:subject>')
+    for _category, tag in meta["tags"]:
+        meta_lines.append(f'<dc:subject>{html.escape(tag)}</dc:subject>')
     meta_lines.append(f'<meta property="dcterms:modified">{now}</meta>')
-    meta_lines.append(f'<meta property="inkstone:genre">{html.escape(meta["genre"])}</meta>')
+    # Inkstone records these as closed numeric lists, so the values are ids.
+    meta_lines.append(f'<meta property="inkstone:genre">{meta["genre"]}</meta>')
     meta_lines.append(f'<meta property="inkstone:gender">{html.escape(meta["gender"])}</meta>')
     meta_lines.append(f'<meta property="inkstone:length">{html.escape(meta["length"])}</meta>')
     meta_lines.append(f'<meta property="inkstone:warning">{html.escape(meta["warning"])}</meta>')
+    meta_lines.append(
+        f'<meta property="inkstone:relationship">{html.escape(meta["relationship"])}</meta>'
+    )
     if meta["abbreviation"]:
         meta_lines.append(
             f'<meta property="inkstone:abbreviation">{html.escape(meta["abbreviation"])}</meta>'
@@ -546,7 +550,7 @@ def main() -> int:
     meta = book_metadata.build_metadata(
         root, title=title, author=args.author, description=matter["synopsis"]
     )
-    cover_path, _ = book_metadata.cover_info(root)
+    cover_path = book_metadata.cover_path(root)
 
     def title_page(count: str) -> str:
         bits = [f"<h1>{html.escape(title)}</h1>", f"<p>{html.escape(args.author)}</p>", f"<p>{count}</p>"]
