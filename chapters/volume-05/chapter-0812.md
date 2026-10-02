@@ -8,8 +8,6 @@ That lock-up, on that Wednesday. She is in her late forties. The bench runs the 
 
 Two of those four legs are rusted out and the other two are on their way.
 
----
-
 The wet patch is not a leak. There is nothing dripping on that floor and there has never been anything dripping on it.
 
 The roller door of that lock-up runs in a channel that sits a couple of inches below the level of the bay floor, and every time that door comes up, whatever is on the hardstanding outside comes in over the channel and across the front of that bay, and every time it goes down it is pushed back out again by the same lip. The water has no way anywhere. It sits in the strip in front of the bench all winter and it goes out in the spring when the hardstanding is dry enough for the wind to take it.
@@ -20,15 +18,11 @@ Iron does not mind being wet. Iron minds being wet and staying wet, with a grit 
 
 That is where the rust line is on all four of those legs, and it is about the same height on all four of them, and it is a hand's width above the floor and not at the floor, which is the tell of every rusted iron leg in every building in this borough.
 
----
-
 A leg of angle iron does not rust. It loses.
 
 Rust starts as a bloom on the outside and works in, and because it works in from both faces of the flats and along the open edge of the angle at the same time, what is left of a leg of angle iron at the bottom is not thin iron. It is a rusted hollow with a hole through it and two rusted faces either side, and there is nowhere at which you could cut the rust off, because the rust is not a coat on it. The rust is most of it.
 
 So there is no cutting the rust off. There is cutting out what is gone and putting back what is not.
-
----
 
 The frame comes up onto two trestles at one end or the other and not both, and everything is done lying on your back with the frame above you.
 
@@ -50,8 +44,6 @@ You cannot get at the bottom of that leg with the frame up. The cross rail is ac
 
 That is a leg with a hole in it and a splice above the hole, and she has left it that way because there is another two hours of that day and two more legs at that end.
 
----
-
 A splice like that is four plates and eight bolts and nothing else.
 
 The plate is flat steel an eighth of an inch thick because a plate thicker than that is a plate you have to drill by hand, and the bolt is a set screw with a nut and two washers because a coach screw into a plate that is only an eighth of an inch thick just pulls the threads out of the plate.
@@ -60,23 +52,17 @@ You do not use a coach screw into that. Everybody does and nobody can get it rig
 
 That is the whole of what the bolts are for. They are not what makes the joint. The bolt is only keeping two plates together while the plates bring two pieces of iron into line, and if the plates are drilled true the joint takes the bench and if the plates are drilled a sixteenth out the joint has a sixteenth of daylight in it that closes when the first load comes on it and stays closed.
 
----
-
 The woman of the house comes in through the shutter about mid-morning.
 
 She is out in her own yard with a pallet on the front of a trolley for the first half of the morning and she comes in and the shutter comes up without a sound over her as she comes in, and there is a person lying on her back on the floor at the far end of that bay with her legs out from under the trestles.
 
 That is all she sees of her, and she does not see it twice, because she goes to the near end.
 
----
-
 At the near end the two legs are not through yet but they are well gone at the bottom, and she lifts that end of the frame onto the trestles herself and does those two legs the same way and about four hours.
 
 You get the new piece to the raked cut and you keep it in place and you set a plate a face each side of the joint, one pair on the back where the two flats are and one pair on the open side, and you put a bolt through each and pull it up.
 
 You do not tighten them as you go. You go down the length of a splice and every bolt gets the same and you come back up it twice at the end and nothing is done the third time. The reason is that the load is not in the bolts and never was. The load goes down the angle into the plate and along the plate into the other piece of angle, and the bolts are only there to stop the plates sliding while that happens.
-
----
 
 They are under that bench for the middle of that day and neither of them comes out.
 
@@ -96,20 +82,16 @@ She looks at it for a while. It is not a bad piece of work and it is not a bad c
 
 What she wants to know is how the leg is going to get its bottom two feet back.
 
----
-
 A bolted splice plate needs the iron to carry on past it on both sides, and it has to carry on about three inches past it, or the bolt has nothing left to bite on.
 
-She cuts a new piece for the bottom of that leg longer than the two feet by a hand's width at the top, so that it runs up over the face of the plate that is already on that leg and stands three inches proud of it, and she drills two holes through that plate and through the flat of her new piece and bolts them together, and the two plates are one on top of the other and there are two bolts through both of them and one of those bolts has not existed until this afternoon.
+She cuts a new piece for the bottom of that leg longer than the two feet by a hand's width at the top, so that it runs up over the face of the plate that is already on that leg and stands three inches proud of it, and she drills two holes through that plate and through the flat of her new piece and bolts them together, and the two plates are one on top of the other and there are two bolts through both of them and both of those bolts have not existed until this afternoon.
 
 She does not take the other plate off and she does not put a bolt in a hole that is already there and she does not take one out. She puts two more in.
-
----
 
 Then she puts that frame back down on its own four feet and it comes onto the floor and it does not move, and it has not moved since.
 
 The wet patch under the front of that bench is still there and it will still be there next winter, and there is no water anywhere near it now, because there is no rust in the floor to carry it up into the iron and the four feet of leg are new steel.
 
-Where her piece crosses the plate that was already on that leg, about two feet up and on the outside face, there are two flat bars lying one on the other with two bolts through both and no daylight between them and no slack in them, and underneath them the end of her cut and the end of the other cut are close together in the middle of the iron.
+Where her piece crosses the plate that was already on that leg, about two feet up and on the outside face, there are two flat bars lying one on the other with four bolts through both and no daylight between them and no slack in them, and underneath them the end of her cut and the end of the other cut are close together in the middle of the iron.
 
 The metal at the bottom of that leg, where it came off the saw and before anything was bolted to it, is bright. Not grey and not brown and not scaled. Bright steel with the file marks still on it from the day, right through the section, and it is the only place on the whole of that bench where there is any metal left that has never seen the inside of that bay.

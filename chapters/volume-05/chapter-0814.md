@@ -2,13 +2,11 @@
 
 Tuesday the twenty-third of May 2023, in this borough. She is out in her own yard at number twelve for most of that Tuesday with a rod and a length of rope, and a drain at the back of it that has been backing up since the summer is the whole of it.
 
-**A WOMAN OF SEVENTY-EIGHT HAS A LENGTH OF CAST-IRON DRAIN AT THE BACK OF THAT YARD THAT HAS BEEN BACKING UP AND HOLDING WATER SINCE THE SUMMER AND MEANS TO GET A ROD INTO IT FROM THE GULLY; HER SISTER GETS A ROD INTO THE FAR END OF THE SAME DRAIN ON THE SAME DAY, AND WHERE THE TWO RODS COME TOGETHER THEY MEET INSIDE A HUNDRED FEET OF OLD IRON AND IT GOES CLEAR IN ABOUT AN HOUR, AND NEITHER OF THEM EVER FINDS OUT.**
+**A WOMAN OF SEVENTY-EIGHT HAS A LENGTH OF CAST-IRON DRAIN AT THE BACK OF THAT YARD THAT HAS BEEN BACKING UP SINCE THE SUMMER AND MEANS TO GET A ROD INTO IT FROM THE GULLY; HER SISTER GETS A ROD INTO THE FAR END OF THE SAME DRAIN ON THE SAME DAY, AND WHERE THE TWO RODS COME TOGETHER THEY MEET INSIDE A HUNDRED FEET OF OLD IRON AND IT GOES CLEAR IN ABOUT AN HOUR, AND NEITHER OF THEM EVER FINDS OUT.**
 
 Number twelve, on that Tuesday. She is seventy-eight. There is a yard drain along the back of that house, cast iron and three inches, laid to a fall about forty years ago when the back of that house was the side of it, and it runs the whole width of that yard with a square gully in a slab at the low end and an old stone headwall at the top end where it goes out into the ditch at the boundary.
 
 It has been backing up since the summer before last and it backs up on every heavy shower and it does not come down again, which is what a drain with something in it does.
-
----
 
 There is a story in that drain that is older than either of the women in it.
 
@@ -16,15 +14,11 @@ When the kitchen of that house was done, the back of it became the side of it an
 
 Nothing about that is anybody's fault and nothing about it is anybody's doing. It is a drain that was put in for a job that is different from the job it is doing, which is what happens to every drain in every yard in this borough and is the reason a whole trade of people knows what a trap is.
 
----
-
 She has a set of drain rods, four-foot lengths with a loop at one end and a stud at the other, screwed together and taken apart in a box, and a length of rope about fifteen feet of it that she has had in the shed for twenty years for no reason anybody could now give her.
 
 She means to rod it from the gully.
 
 A drain is rodded from the low end. Anything in it comes to the low end and comes up into the gully where you can get at it, and you cannot see down a pipe and there is no other way of doing it.
-
----
 
 She goes out to the gully about half way through the morning with a spade and a bucket she does not use and leaves on the flags.
 
@@ -36,8 +30,6 @@ She puts the first rod in at the mouth of the pipe and it goes in about a foot a
 
 She puts the second on and goes in another two feet and stops, and she puts a third on and works it and feels the rods go slack and then come hard against something.
 
----
-
 That is not a soft stop. A drain with sludge in it stops gradually and you feel it go. This stops the way a stop does when there is a thing in the pipe with a shape.
 
 She works it up and down and side to side for about half an hour and she does not get it anywhere, and she knows what she has not got into it because the pipe is three inches and a brick would go down a three-inch pipe easily and this thing is bigger than a brick and it has not gone down a foot in an hour.
@@ -45,8 +37,6 @@ She works it up and down and side to side for about half an hour and she does no
 She takes the rods out and ties the rope to the loop on the first of them and puts the rope round the pipe so that if the rods come back on their own in the night the rope comes with them and she can find them in the morning.
 
 That is not a thing she learned. That is a thing every old person in that borough with a drain has done.
-
----
 
 A drain rod is not a thing you push. It is a thing you work.
 
@@ -64,13 +54,9 @@ The old woman is at the gully at the near end with a rod in the pipe and her bac
 
 She hears the gate and the gate's stay and the boots going past on the flags, and that is the whole of it, because a person who has been standing still in one place for an hour does not turn round.
 
----
-
 What her sister finds at the top end is a stone headwall at the back of that yard, about two feet high, with a hole in the face of it about nine inches across and the iron coming out of it into the ground, and it is the mouth of a hundred feet of old iron that has not been looked at since it was laid.
 
 She has a rod and a coil of rope, and she gets the rod up into that hole from the ground with the loop end first because the loop is what you put against a thing, and the rope she ties to the stud end of it and drops the coil into the hole so that if she lets the rod go the rope goes with it and she can find it again.
-
----
 
 The two rods meet about forty feet in, in the middle, inside a wad.
 
@@ -79,8 +65,6 @@ She is pushing from the low end and her sister is pushing from the high end and 
 It is fat and paper and it has been in there since the summer before last, which is what happens to a drain behind a house where the surface water from a yard goes in on a hard shower and comes back out of a kitchen at the other end of it.
 
 It is not one lump. It is a wad the length of a forearm with a shape inside it.
-
----
 
 The sister's rod gets there first.
 
@@ -102,13 +86,9 @@ She stands in that yard with a full box of rod up in her hands and about two fee
 
 She thinks about it for a while. Then she screws another length on and goes in again, and it goes another two feet, and the water in that gully goes down about an inch and comes back, and she goes in again.
 
----
-
 Her sister at the headwall feels the rod go slack at her end as well and pulls it back and puts it in again and it goes another four feet and comes hard against the wad again and she pulls on the rope to shift it and it comes three inches.
 
 They are doing the same thing at the same moment, which is the whole of the family and neither of them has any part in it, and it takes about an hour from there.
-
----
 
 It comes out of the gully on the third attempt and it does not go down the drain.
 
