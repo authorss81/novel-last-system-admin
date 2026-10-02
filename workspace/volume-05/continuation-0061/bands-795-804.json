@@ -72,7 +72,18 @@
   },
   "calendar": {
     "floor": "Tuesday the twenty-first of February 2023, WHICH IS NOT LEGAL, and the floor is Thursday the twenty-third of February 2023, which is Monday the twentieth of February plus three. THE FLOOR IS THREE DAYS AND NOT TWO. The nine gaps and the ten are taken off the real 2023 calendar on the day and not copied out of any file.",
-    "gaps_ten_including_the_incoming_one": [4, 3, 5, 3, 3, 6, 3, 5, 5, 5],
+    "gaps_ten_including_the_incoming_one": [
+      4,
+      3,
+      5,
+      3,
+      3,
+      6,
+      3,
+      5,
+      5,
+      5
+    ],
     "span_from_0794_to_0804": "Forty-two days, from Monday the twentieth of February 2023 to Monday the third of April 2023. 4+3+5+3+3+6+3+5+5+5 is forty-two and was added up on the day from two dates, AFTER the re-lay recorded under calendar_arithmetic_corrected_by_the_external_reviewer_2026_10_02. THE FIRST LADDER PRINTED 4, 3, 5, 3, 3, 6, 3, 5, 5, 6 AND CALLED IT FORTY-THREE DAYS TO TUESDAY THE FOURTH OF APRIL, WHILE THE DATE LIST ALONGSIDE IT ENDED ON WEDNESDAY THE TWENTY-NINTH OF MARCH, THIRTY-SEVEN DAYS FROM 0794. The real gaps of that list were 4, 3, 5, 3, 3, 6, 3, 5, 4, 1 and a gap of one is not a gap of three to seven. 0803 and 0804 have been re-laid as Wednesday the twenty-ninth of March and Monday the third of April and the whole ladder, both bounds and every weekday were re-taken off the real 2023 calendar after the change.",
     "calendar_arithmetic_corrected_by_the_external_reviewer_2026_10_02": "The two rotation statements in this file and in the prompt did not match the ten cards, and this calendar did not match its own date list. Both are corrected to the cards and to the real calendar. The cards were the safe source in both cases and no card, no band and no family was changed.",
     "dates": {
@@ -87,7 +98,18 @@
       "0803": "Wednesday the twenty-ninth of March 2023",
       "0804": "Monday the third of April 2023"
     },
-    "weekdays": ["Friday", "Monday", "Saturday", "Tuesday", "Friday", "Thursday", "Sunday", "Friday", "Wednesday", "Monday"],
+    "weekdays": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Tuesday",
+      "Friday",
+      "Thursday",
+      "Sunday",
+      "Friday",
+      "Wednesday",
+      "Monday"
+    ],
     "distinct_weekdays": "SEVEN, namely Friday, Monday, Saturday, Tuesday, Thursday, Sunday and Wednesday. Friday appears three times, in 0795, 0799 and 0802, Monday appears twice, in 0796 and 0804, and Tuesday, Saturday, Thursday, Sunday and Wednesday once each.",
     "month_change": "0795 and 0796 in February 2023, 0797 to 0803 in March 2023 and 0804 in April 2023. THE WHOLE BLOCK IS IN ONE YEAR AND THE YEAR DOES NOT TURN.",
     "no_ninth_or_eleventh": "Checked on every one of the ten against the real February, March and April 2023 calendars, and again after the re-lay of the last two dates. The days of the month are 24, 27, 4, 7, 10, 16, 19, 24, 29, 3. NONE IS THE NINTH AND NONE IS THE ELEVENTH. March the ninth and March the eleventh were both in the candidate set and March the eleventh was rejected, which moved 0800 from the eleventh to the sixteenth and lengthened that gap from four to six.",
@@ -157,14 +179,101 @@
   },
   "still_live_and_taken_up_by_nobody_here": "Four pallets with bearers under them and the wall they came off empty again. The shutter and its track. The near gate square with a brace in it. A gate on a wall that is a gate. A back door shut on its frame. A cowl braced on a plate and the damp stopped at the shoulder. A boundary run with scarfed bites in the post. A heap of grass on ground that has not had anything on it. A shelf under a window with a tub on it. A sack with a new bottom. Off the page and waiting on the man off the ring road, who has now sat out five blocks: a figure for four rooms given aloud twice in a lock-up and written nowhere; a frame out of square which its own man will find at the fitting; a landing wall with a bare patch on it and a mirror in a van; a fourth room at the top of a stair that nobody has priced or looked into. Three lines of paper shut in a drawer on purpose with the tools that would do them. A box in a corner of a lock-up whose lid is not nailed.",
   "measures_taken_at_the_end": {
-    "method": "To be filled in after the writing pass and the read-back. Every figure in this section is taken off the files with wc -w and with the measuring script, and none of it is added up from a summary.",
-    "words": null,
-    "scene_breaks": null,
-    "verbatim_runs": null
+    "method": "Taken off the files with `workspace/volume-05/continuation-0061/measure_runs.py`, which keeps the dateline inside the body, and with a cross-range run of the same ten-token window against the canon chapters in tens. None of it is added up from a summary.",
+    "words": [
+      2298,
+      2354,
+      2010,
+      2245,
+      1971,
+      2097,
+      1915,
+      1873,
+      1926,
+      2086
+    ],
+    "total_words": 20775,
+    "scene_breaks": [
+      9,
+      11,
+      8,
+      9,
+      7,
+      8,
+      7,
+      7,
+      8,
+      7
+    ],
+    "allcaps_paragraphs": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "said": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    "said_total": 2,
+    "declared_ordinary_word_brace": "BRACE, declared before any prose existed, is the actual method in 0795, 0798 and 0803 and is named against a rule in 0798 ('a catch is not a brace and a brace is not a catch') and in 0803 (a brace goes into brick and not into the sill).",
+    "banned_sweep": "0 in all ten on word boundaries.",
+    "watched_words": "0 in all ten.",
+    "numerals": "The chapter number and the year only, in all ten.",
+    "clock_times": "None. No closed clock time and no day tally in any of the ten; four were written in the first pass and cut, and two more in the repair.",
+    "verbatim_runs": "0 shared ten-token spans across all forty-five pairs of the ten and 0 inside any one chapter. 0 also against the ten canon chapters 0785 to 0794, and 0 against each of 0769 to 0778, 0761 to 0770, 0756 to 0765, 0751 to 0760, 0746 to 0755, 0741 to 0750 and 0736 to 0745. The band file's own dateline stems came to 14 shared spans on the first taking before any prose existed and 0 after rewording, and the finished chapters took the count back to 0 twice during the repair, once from the five introductions at the five houses standing on each other and once from a sentence added to 0797.",
+    "chapter_files": 610
   },
   "read_back": {
-    "readers": "To be filled in after the writing pass.",
-    "findings_returned": null,
-    "findings_fixed_in_the_prose": null
+    "readers": "One second reader, run over the ten finished chapters with eight canon chapters (0785 to 0791 and 0794) and sixteen points, arithmetic and facts first and prose last. It returned forty findings. Thirty-eight were fixed in the prose and two are recorded below as not a writer's to settle.",
+    "findings_returned": 40,
+    "findings_fixed_in_the_prose": 38,
+    "the_two_that_were_the_method_and_worth_the_most": [
+      "0797's bars could not do what the chapter needed them to do. The first draft lifted a curtain clear of its side guides on two bars stood on end, which no roller shutter can do, and then cleaned six feet of a guide that was still full of curtain. It is now the bottom rail that comes up out of the guide channels on two bars, which is what the bars are for and which is done every week on a shutter like that; the bottom of each guide is cleaned from the floor, and the drum and the mouth of the housing are cleaned with a rag on the end of a length of tube from the curb, and it runs without a sound.",
+      "0803's brace was in the plane of the wall, so it could not have resisted the arm of the bracket rotating out of it. It now goes from the outer end of the arm, on the underside of it, back and down into a joint below. 0800's cowl brace had the same fault and is now a strut under the front of the cowl back and down into the joint below the air brick."
+    ],
+    "the_others_that_were_a_fact_and_not_a_word": [
+      "0803 carried three paragraphs of a writer thinking, including a staging and a withdrawal of an assertion about the frozen front gate; they are cut and replaced with the tub coming off the bed and going four feet along the path.",
+      "0804 contradicted its own card and canon 0794 on the quantity of topsoil, three or four bucketfuls against half a bucket, and had seven months of wear against since May.",
+      "0804's dateline and its scene were on different sides of the day.",
+      "0795 had the gate off its hinges before the visitor arrived and taking it off again after.",
+      "0800 credited the lock-up's cleaned shutter to the unit's own door and to the wrong woman.",
+      "0802 gave number twelve a shed felt, which belongs to number ten and is a live unresolved object there.",
+      "0799 called the visitor her sister, which is the tradeswoman at ten and twelve.",
+      "0799 narrated the writing process twice, once in a clause and once in the body.",
+      "0803 put the woman of the house inside her own front room, which stays shut.",
+      "0796 put eleven feet of close boarding down on its own two ends with the far post out of the ground.",
+      "0799 re-hung a door four inches higher without making good the head over it.",
+      "0801 had four pallets inside and outside at once and got rain on an outside wall off a rooflight.",
+      "0804 sewed two layers of hessian edge to edge and described the join as three.",
+      "0804 cut the same joint twice and turned second person in the middle of a close-third chapter."
+    ],
+    "the_two_taken_as_findings_against_the_block_and_not_acted_on": [
+      "The all-caps card paragraph at the head of each chapter, which has run for hundreds of chapters and is a human's decision.",
+      "The conflict between canon 0793, which leaves the coal hole lid off in the wet at nine, and this block's standing, which has it shut. 0799 and 0803 say shut and are not edited."
+    ],
+    "what_the_reader_called_the_weakest_thing_and_what_was_done_about_it": "THE CLOSING FORMULA. 'She can say exactly' was in seven of the ten and 'it is two people and two tools and she is one' was in five, and all ten ended on the same note. That is a template and not a family. It is now in none of the ten: the ten endings are a square gate that comes home with a hand, a post with four scars in it, two bars where there was one, a latch that drops into a keep, a door standing against a wall with new keeps in it, the end of a bar and the rest of the morning, bearers in the sun and a morning she will have to wait for, a stripe on a brick that stops where it was, four hours and nobody to take the other end of a bar, and a sack that stands on its own bottom and the one after it that will not."
+  },
+  "variances_recorded_after_the_chapters": {
+    "0803_stem_weekday": "THE 0803 STEM IN `dateline.the_ten_stems` ABOVE SAID 'that whole Tuesday', AND 0803 IS WEDNESDAY THE TWENTY-NINTH OF MARCH 2023 IN THIS SAME FILE. The stem was written before the calendar was re-laid and the weekday in it was never re-taken. The prose uses Wednesday and the stem is otherwise as allocated. The first wording is kept in `dateline.the_ten_stems` and is not deleted.",
+    "0803_closing_image": "The band file's closing image for 0803 reads 'a flag underneath it', which was taken as meaning the flag the tub had been standing on is now bare. The prose writes it that way, and does not put the tub back on the path, because `canon_scenes_turned_away_from` says THE BAY OF PATH IS NOT TOUCHED.",
+    "0795_stem": "The stem says the gate 'stands on two trestles in the yard until the light goes'. The card requires it back on its hinges and shutting with a hand before the visitor goes. The stem reads 'through the last of the light' in the prose and it is measured.",
+    "0796_stem": "The stem opened 'From the middle of the morning until the ground is too wet to stand in'. 0794's own dateline opens 'From the middle of the morning', and the measure against 0785 to 0794 was taken before any prose existed and did not see it. The prose opens 'Between the middle of the morning and the middle of the afternoon', and the stem is re-measured.",
+    "0804_door": "0804's door is the yard at the end of the afternoon and the back door of it, which is 0789's door and manner and not 0796's. The band file's own rule holds inside the block; the collision across the boundary is a prompt-level allocation and is flagged for a human, the same way 0060 flagged 0786 against 0784.",
+    "0798_gesture": "`closing_images` put the depart-and-do-not-follow gesture in 0798, 0801 and 0804. The prompt's own rule allows it in no more than two chapters. It is in 0802 and 0804. 0798 ends on the latch and 0801 ends on the bearers in the sun. Both first wordings are on the record here and are not deleted."
   }
 }
