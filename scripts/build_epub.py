@@ -19,6 +19,8 @@ import sys
 import xml.etree.ElementTree as ET
 import zipfile
 
+import book_metadata
+
 CHAPTER_RE = re.compile(r"^chapters/volume-(\d+)/chapter-(\d+)\.md$", re.M)
 NUMBER_PREFIX = re.compile(
     r"^\s*(?:chapter|ch)\s*[0-9ivxlcdm]+\s*(?:[-–—:.]|\s)\s*", re.I
@@ -306,6 +308,54 @@ def spec_field(root: str, label: str) -> str:
     return ""
 
 
+MAX_TITLE_WORDS = 14
+MAX_TITLE_CHARS = 90
+
+
+def tighten_title(title: str) -> str:
+    """Force a title back to something that reads in a table of contents.
+
+    A model asked for a chapter name will sometimes hand back the scene: the
+    place, the hour, the weather, the ages of everyone present. One generated
+    novel put 167 such titles in its final third and every one was unreadable
+    in the nav. Clamp the length and fall back to the number when a title
+    cannot be rescued.
+    """
+    # Prefer a natural clause break over a mid-phrase cut.
+    if len(title) > MAX_TITLE_CHARS or len(title.split()) > MAX_TITLE_WORDS:
+        clause = re.split(
+            r"\s+(?:And|But|While|After|Because|Since|On|At|With|The Second|"
+            r"Then|So|Yet|When|Which|Who|That)\s+",
+            title,
+            maxsplit=1,
+        )[0].strip(" ,;:-—")
+        # A comma is also a reasonable place to stop, if the first half stands.
+        if len(clause) >= 15 and clause.count(",") == 0 and len(clause) <= MAX_TITLE_CHARS:
+            return clause
+        words = title.split()
+        trimmed = " ".join(words[:MAX_TITLE_WORDS])
+        if len(trimmed) > MAX_TITLE_CHARS:
+            trimmed = trimmed[:MAX_TITLE_CHARS].rsplit(" ", 1)[0]
+        return (trimmed or title[:MAX_TITLE_CHARS]).strip(" ,;:-—")
+    return title.strip(" ,;:-—")
+
+
+def unique_titles(entries: list[tuple[int, int, str, str]]) -> list[tuple[int, int, str, str]]:
+    """Clamp titles and disambiguate repeats by appending the chapter number."""
+    seen: dict[str, int] = {}
+    out: list[tuple[int, int, str, str]] = []
+    for volume, number, name, body in entries:
+        name = tighten_title(name) or f"Chapter {number}"
+        key = name.casefold()
+        if key in seen:
+            seen[key] += 1
+            name = f"{name} ({seen[key] + 1})"
+        else:
+            seen[key] = 0
+        out.append((volume, number, name, body))
+    return out
+
+
 def front_matter(root: str) -> dict[str, str]:
     """Blurb and synopsis, written by state/synopsis.md when the pipeline has
     produced one, otherwise the premise from NOVEL_SPEC.md."""
@@ -327,6 +377,8 @@ def build(
     sections: list[tuple[str, str, str]],
     author: str,
     stamp: dt.datetime,
+    meta: dict,
+    cover_path: str = "",
 ) -> None:
     """sections: list of (document filename, document title, xhtml body).
 
@@ -349,6 +401,11 @@ def build(
         '<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>',
         '<item id="style" href="style.css" media-type="text/css"/>',
     ]
+    if cover_path:
+        manifest.append(
+            '<item id="cover-image" href="cover.png" media-type="image/png" '
+            'properties="cover-image"/>'
+        )
     spine: list[str] = []
     nav_points: list[str] = []
     ncx_points: list[str] = []
@@ -367,14 +424,33 @@ def build(
             f'<content src="{name}"/></navPoint>'
         )
 
+    meta_lines = [
+        f'<dc:identifier id="bookid">{identifier}</dc:identifier>',
+        f'<dc:title>{html.escape(meta["title"])}</dc:title>',
+    ]
+    if meta["description"]:
+        meta_lines.append(f'<dc:description>{xml_safe(meta["description"])}</dc:description>')
+    meta_lines.append(f'<dc:language>{html.escape(meta["language"])}</dc:language>')
+    if meta["creator"]:
+        meta_lines.append(f'<dc:creator>{html.escape(meta["creator"])}</dc:creator>')
+    for subject in meta["subjects"]:
+        meta_lines.append(f'<dc:subject>{html.escape(subject)}</dc:subject>')
+    meta_lines.append(f'<meta property="dcterms:modified">{now}</meta>')
+    meta_lines.append(f'<meta property="inkstone:genre">{html.escape(meta["genre"])}</meta>')
+    meta_lines.append(f'<meta property="inkstone:gender">{html.escape(meta["gender"])}</meta>')
+    meta_lines.append(f'<meta property="inkstone:length">{html.escape(meta["length"])}</meta>')
+    meta_lines.append(f'<meta property="inkstone:warning">{html.escape(meta["warning"])}</meta>')
+    if meta["abbreviation"]:
+        meta_lines.append(
+            f'<meta property="inkstone:abbreviation">{html.escape(meta["abbreviation"])}</meta>'
+        )
+    if cover_path:
+        meta_lines.append('<meta name="cover" content="cover-image"/>')
+
     opf = f"""<?xml version="1.0" encoding="UTF-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="bookid">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <dc:identifier id="bookid">{identifier}</dc:identifier>
-    <dc:title>{html.escape(book)}</dc:title>
-    <dc:language>en</dc:language>
-    <dc:creator>{html.escape(author)}</dc:creator>
-    <meta property="dcterms:modified">{now}</meta>
+    {chr(10).join("    " + line for line in meta_lines)}
   </metadata>
   <manifest>
     {chr(10).join("    " + item for item in manifest)}
@@ -423,6 +499,9 @@ def build(
             zf.writestr(entry(name, text), text)
         for name, _doc_title, body in sections:
             zf.writestr(entry(f"OEBPS/{name}", body), body)
+        if cover_path and os.path.isfile(cover_path):
+            with open(cover_path, "rb") as handle:
+                zf.writestr(entry("OEBPS/cover.png", ""), handle.read())
 
 
 def main() -> int:
@@ -456,12 +535,18 @@ def main() -> int:
             name = f"Chapter {number}"
         rendered.append((volume, number, name, body))
 
+    rendered = unique_titles(rendered)
+
     stamp = (
         dt.datetime.fromtimestamp(newest, dt.timezone.utc)
         if newest
         else dt.datetime(1980, 1, 1, tzinfo=dt.timezone.utc)
     )
     matter = front_matter(root)
+    meta = book_metadata.build_metadata(
+        root, title=title, author=args.author, description=matter["synopsis"]
+    )
+    cover_path, _ = book_metadata.cover_info(root)
 
     def title_page(count: str) -> str:
         bits = [f"<h1>{html.escape(title)}</h1>", f"<p>{html.escape(args.author)}</p>", f"<p>{count}</p>"]
@@ -489,7 +574,7 @@ def main() -> int:
             (f"ch-{volume:02d}-{number:04d}.xhtml", name, document(name, markdown_to_xhtml(body, name)))
         )
     flat_path = os.path.join(args.out_dir, f"{os.path.basename(root)}-flat.epub")
-    build(flat_path, title, flat_sections, args.author, stamp)
+    build(flat_path, title, flat_sections, args.author, stamp, meta, cover_path)
     print(f"wrote {flat_path} ({len(rendered)} chapters)")
 
     # Volume edition: a title page per volume, then its chapters.
@@ -518,7 +603,7 @@ def main() -> int:
                     )
                 )
     vol_path = os.path.join(args.out_dir, f"{os.path.basename(root)}-volumes.epub")
-    build(vol_path, title, vol_sections, args.author, stamp)
+    build(vol_path, title, vol_sections, args.author, stamp, meta, cover_path)
     print(f"wrote {vol_path} ({len(vol_sections)} sections)")
     return 0
 
