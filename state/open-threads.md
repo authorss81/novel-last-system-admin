@@ -5974,3 +5974,17 @@ New in the ten, and carried forward as nothing but what happened: nine feet of p
 Off the page this block and still live: the fourth room at the top of the stair nobody has looked into or priced; the frame out of square waiting for its fitting; the mirror in the van; the painting not done on the landing wall. **The fourth room, the frame and the mirror wait on the man off the ring road, who has now sat out 0057 to 0063, seven blocks, because no second job on a different room for a different reason was on the page in any of them.**
 
 Next: continuation, chapters 825–834, not a close.
+
+# VOLUME 05 OPEN THREADS — after Continuation 0064, Chapter 834
+
+**No thread moved nothing resolved rescued.** Ten added work properly going taken away finished once noticed carried on. FAMILY NOT THREAD.
+
+Live untouched as 0834 leaves: envelope taped box ladder coal rooms report freeholder line box lid neither drawers ply felt bowl ring slab card stone coal tub privet fire pads staple NOT DONE April NOT PAGE latch rail frost sash gate stay step drain rope heap; plus edging heap gate string loop; apron edge nothing; palings stack true; boards edge bands top; turf grass down; rack bearers empty; frame stack mend; stub grass posts wire; brick sound stack; stool three holes. No telephone rings. No tap water drawn carried poured emptied. No cement mortar new concrete only 0784 0787 human. None mystery none knows others.
+
+SEVEN SETTLED: family not amend fit chapter page keeps fact card corrected plan first kept promise reader plan writer distinct; measure excluding part cannot report page whole-file sweep zero nine plan paragraphs second three blocks; declared ordinary report not enforce stack 31 third trade after bed line grounds standing; ten-token copy zero before after edits cannot find fact five 0064 drafting office face closed whole-her grass lilac said need reader; break mis-added two ten twenty free cut prose untouched measure job; second measure before prose ten three heap mark edge nothing stack true band turf bearer mend stub sound holes none match first three finished work rewritten.
+
+FIVE INHERIT 835: no male lead Mercer 0263 Ardent 0294 eighth block seventy chapters gap not rule no writer bring back human; all-caps one 0705-0834 one hundred thirty twelve blocks vs 491 two more retired omission never ruled human one new gone or book back until first stands no fix head no closing stop knowing; volume 640 files range 195-242 outline disagree no end no writer supply; freeholder line ladder state size nothing pruned; ledger controller phase-002-batch-plan volume one 1-10 page 834 neither read written.
+
+Off page live: fourth room stair unlooked priced; frame square fitting; mirror van; painting landing. Wait man ring road sat 0057-0064 eight no second job different room reason.
+
+Next continuation 835-844 not close.

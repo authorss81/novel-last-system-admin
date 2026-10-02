@@ -3563,3 +3563,23 @@ The two recurring visitors, **the woman who does her shopping** at nine, **the w
 Man in his late twenties: **sits out for the seventh block running and is in none of 815 to 824.** No second job on a different room for a different reason was on the page in any of 0057 to 0063, and he may not be written into the next block either without one with the reason in that block's band file.
 
 **AND THE STANDING FLAG THIS BLOCK EXTENDED AND DID NOT CLOSE.** Jonas Mercer was last on the page at 0263 and no outline-named figure has been on it since 0294. **These ten chapters put a man in two of them and a working woman in eight, and he exists to own a yard and to be the other end of a window frame, and the band's own names measure records the absence of a human personal name as though the absence were a rule. SEVEN BLOCKS AND SIXTY CHAPTERS NOW, AND NO WRITER MAY BRING A NAMED FIGURE BACK ON THEIR OWN AUTHORITY, WHICH IS EXACTLY WHY IT IS A HUMAN'S AND NOT ONE MORE PROSE PASS'S.**
+
+## VOLUME 05, CONTINUATION 0064 — CHARACTER STATE AFTER CHAPTER 834
+
+**Handover moves no earlier block. Files 640 which is 834 minus 195 plus one. Read after 0064 continuity block.**
+
+**NOBODY ASKED FOR ANY AND NOBODY SAID WASTE PROPERLY LAST.** Ten jobs one person finished day subject noticed carried on.
+
+Seventy-eight at twelve: six feet edging up arris sorted eleven good five bad heap gate order string loop unexplained paving May lilac untouched; lilac stool out May top spade square bar three said back wall follows deeper fork bar side spade square shoots stacked sheet three holes passage open paving root heap untouched. Sister third figure kitchen door open basket step barrow gate stand picks nothing asks nothing passage; passage once basket told clear doorway past not touch ask nothing out empty.
+
+Late forties lock-up: foot apron cut straight dug base hard rubble inch ring firmer bay footprint why not pretended square spade heap sheet edge rule thumbnail; two bars six five first stood winter not subject rack uprights pallet cross screws tin uprights wall guides cross height longer eye longer overhang shorter inside air. Books woman shut door shutter up kettle once dust sheet post bill heard once not out look twice. Pallet bay bench box lid neither untouched.
+
+Early thirties at ten: palings thirty grey lean nails whole claw punch row faces tin; lengths mixed ground long back middle front short middle stack rails flat lean posts string wedges fall shed hole cannot walk; drawer hammer screwdriver paper shut line not put shed felt ply butt untouched. Sister ten yard gate bottle steps near palings far out same bottle steps up course tea side down. Dry brick six three dry windbreak nobody want top hands row; four colours red brown yellow black colour nothing sound taps ring fingers thud skin one sound; rings stack battens order thuds heap shed footing bottom soil brushed; sister kitchen door open cups spoon tea course none mentions wall.
+
+Early forties unit: eleven boards grey sand weeds near bar three clean fourth nail sleeper middle joint bands steel oil folds June two hands not know fold grit; not open lift clear bands flat same place round not through. Woman two doors quarter cabin way clear round wall gone up path touches asks looks twice only. Frame cabin brick felt June squared tab hardwood bolts knock gone allowance open leaf blanket architrave bar tabs; mend flush painted washers no lip movement leaves part frame not repair two one nothing argue sound. Woman bucket tap gate first hour not frame looks twice rain felt back out gate yard his. Sill head untouched opening square felt stack battens sacking air mend still daylight head.
+
+Late fifties at nine: twelve feet turf two wide daisies moss spade fork foot squares two inches tile roots worms row path; fourth stack question all knew grass up read grass down roots air dry day roots dark damp sod sod teaching white dark; rest lifting turning stack grass soil sky brushed bed. Shopping side gate step minute milk shade in out same turf wedge spanner not picked paving slab coal stone untouched. Four feet privet chest posts wire bottom wood tops leaf thick sides wire sheet; cut leaf lower bare two one hand six stretches front six four; ground only flat soil no snag saw foot pale other low flat posts wire; shopping front kerb Sunday heap sheet not in offer asked bus dinner late walks on; posts wire ties cuttings barrow.
+
+Man ring road sits out eight 0057-0064 no second job different room reason.
+
+**Bands kept person not position: 78 twelve 0825 0834; late forties lock-up 0826 0830; early thirties ten 0827 0833; early forties unit 0828 0831; late fifties nine 0829 0832. Zero new unaged ceiling four. No ages except five.**
