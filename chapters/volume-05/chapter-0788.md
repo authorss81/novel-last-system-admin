@@ -80,9 +80,7 @@ She stands in the doorway and looks down the length of the path. The three of th
 
 The woman stands at the rail with her arms folded and walks the length of it coming back up.
 
-"That is a good bay."
-
-"That is a good bay," the woman says. "And it is level with the flags either side, which is the whole thing and the only thing. You will not have to look at that path again."
+The woman looks along the path once more from the rail. "That is a good bay, and it is level with the flags either side, which is the whole thing and the only thing. You will not have to look at that path again."
 
 ---
 
@@ -96,6 +94,6 @@ It is full. She has spent the morning taking the roots and the old sand out from
 
 It stands about the width of a thumb proud of the joint on either side of it, because it is a soft-bottomed tub and it has settled about a thumb into a bed that was packed with a shovel handle an hour ago, and if you put your heel on the path that afternoon you go through the joint and down into the rubble at the rail end.
 
-The woman who does her shopping is gone by then. She went out of the gate while there was still light, with her cardigan on her arm, and the old woman did not follow her out of it, and did not offer to, and stood in the doorway and watched her go and then went back out to the flag.
+The woman who does her shopping is gone by then. She went out of the gate while there was still light, with her cardigan on her arm, and she did not follow her out of it, and did not offer to, and stood in the doorway and watched her go and then went back out to the flag.
 
 She stands in the late light looking down one plane of path from her front door to her gate with a tub of iron standing on the middle of it, and that bay is the best thing that has been done to that path since she came, and it is that bay that a tub of iron and a shovelful of nothing to do with it will go into, and she does not see it, because from where she is standing it looks like a tidied yard.

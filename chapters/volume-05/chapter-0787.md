@@ -64,7 +64,7 @@ That wire is rusted into the post in about a dozen places. It has been there sin
 
 Then she packs it, and it is dry from the top to the bottom.
 
-The bottom of the hole goes in first, with the biggest stuff. There is broken stone in that yard in a heap by the wall and it is not rubble, it is lumps about the size of two fists, and she stands them in on end and hard against one another, so that there is nowhere at the bottom of that hole for anything to come up into. Then hardcore over that, in layers, and she rams every layer with the back of the bolster until the handle rings, and the broken collar goes in with it.
+The bottom of the hole goes in first, with the biggest stuff. There is broken stone in that yard in a heap by the wall and it is not rubble, it is lumps about the size of two fists, and she stands them in on end and hard against one another, so that there is nowhere at the bottom of that hole for anything to come up into. Then hardcore over that, in layers, and she rams every layer with the back of a shovel handle until the handle rings, and the broken collar goes in with it.
 
 The sides are packed in layers as it goes up, not at the end. She stands the post in the hole, and takes the loose out so that there is a hand's width of space all the way about it. Then she packs that space in with the same stuff in layers and tamps every layer, going up as far as the old collar went, and when that is level she puts the last of the loose earth from the heap in over the top of it and tamps that as well, so that the ground comes up flush with the rest of that yard exactly as it did before she started.
 

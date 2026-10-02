@@ -41,7 +41,7 @@
       "0803": "late fifties",
       "0804": "early thirties"
     },
-    "rotation_in_chapter_order": "the unit, number ten, the lock-up, number twelve, number nine, the unit, number ten, the lock-up, number twelve, number nine. THIS IS NEITHER 0057'S ORDER NOR 0058'S NOR 0059'S NOR 0060'S, AND IT IS DECLARED HERE BEFORE ANY PROSE OF 795 TO 804 EXISTS SO THAT NOBODY HAS TO ASK AFTERWARDS. THE FOUR ORDERS IT DIFFERS FROM ARE PRINTED HERE SO THE CLAIM CAN BE CHECKED: 755 to 764 ran twelve, unit, lock-up, nine, ten; 765 to 774 ran lock-up, ten, twelve, nine, unit; 775 to 784 ran nine, lock-up, ten, unit, twelve; 785 to 794 ran lock-up, twelve, unit, nine, ten.",
+    "rotation_in_chapter_order": "THE SAME FIVE HOUSES TWICE, WITH THE RUN GOING THE OTHER WAY ROUND THE YARD AFTER THE UNIT: the unit, number ten, the lock-up, number twelve, number nine, the unit, the lock-up, number twelve, number nine, number ten. THE TEN CARDS ARE THIS ORDER AND THE CARDS ARE THE RIGHT SOURCE. THE FIRST WORDING OF THIS STRING SAID THE SAME FIVE AGAIN IN THE SAME ORDER, WHICH WOULD HAVE PUT 0801 AT NUMBER TEN AND 0804 AT NUMBER NINE; IT WAS WRONG, IT IS CORRECTED HERE AND IN THE PROMPT, AND IT IS KEPT ON THE RECORD IN THIS FIELD. THIS IS NEITHER 0057'S ORDER NOR 0058'S NOR 0059'S NOR 0060'S, AND IT IS DECLARED HERE BEFORE ANY PROSE OF 795 TO 804 EXISTS SO THAT NOBODY HAS TO ASK AFTERWARDS. THE FOUR ORDERS IT DIFFERS FROM ARE PRINTED HERE SO THE CLAIM CAN BE CHECKED: 755 to 764 ran twelve, unit, lock-up, nine, ten; 765 to 774 ran lock-up, ten, twelve, nine, unit; 775 to 784 ran nine, lock-up, ten, unit, twelve; 785 to 794 ran lock-up, twelve, unit, nine, ten.",
     "a_later_writer_may_not_take_this_order_without_saying_so": true,
     "late_fifties": "Stays at number nine alone, two chapters, 0799 and 0803. No early fifties and no late fifties figure is added to anybody.",
     "one_band_per_figure": "Each of the five standing figures keeps one band for the whole block. The sister at number ten is the early thirties woman at number ten. The sister at number twelve is a third figure and is not the sister at nine or at ten. The woman who does her shopping, the woman who books work and the woman from two doors down are existing unaged figures and are not aged here.",
@@ -72,8 +72,9 @@
   },
   "calendar": {
     "floor": "Tuesday the twenty-first of February 2023, WHICH IS NOT LEGAL, and the floor is Thursday the twenty-third of February 2023, which is Monday the twentieth of February plus three. THE FLOOR IS THREE DAYS AND NOT TWO. The nine gaps and the ten are taken off the real 2023 calendar on the day and not copied out of any file.",
-    "gaps_ten_including_the_incoming_one": [4, 3, 5, 3, 3, 6, 3, 5, 5, 6],
-    "span_from_0794_to_0804": "Forty-three days, from Monday the twentieth of February 2023 to Tuesday the fourth of April 2023. 4+3+5+3+3+6+3+5+5+6 is forty-three and was added up on the day from two dates.",
+    "gaps_ten_including_the_incoming_one": [4, 3, 5, 3, 3, 6, 3, 5, 5, 5],
+    "span_from_0794_to_0804": "Forty-two days, from Monday the twentieth of February 2023 to Monday the third of April 2023. 4+3+5+3+3+6+3+5+5+5 is forty-two and was added up on the day from two dates, AFTER the re-lay recorded under calendar_arithmetic_corrected_by_the_external_reviewer_2026_10_02. THE FIRST LADDER PRINTED 4, 3, 5, 3, 3, 6, 3, 5, 5, 6 AND CALLED IT FORTY-THREE DAYS TO TUESDAY THE FOURTH OF APRIL, WHILE THE DATE LIST ALONGSIDE IT ENDED ON WEDNESDAY THE TWENTY-NINTH OF MARCH, THIRTY-SEVEN DAYS FROM 0794. The real gaps of that list were 4, 3, 5, 3, 3, 6, 3, 5, 4, 1 and a gap of one is not a gap of three to seven. 0803 and 0804 have been re-laid as Wednesday the twenty-ninth of March and Monday the third of April and the whole ladder, both bounds and every weekday were re-taken off the real 2023 calendar after the change.",
+    "calendar_arithmetic_corrected_by_the_external_reviewer_2026_10_02": "The two rotation statements in this file and in the prompt did not match the ten cards, and this calendar did not match its own date list. Both are corrected to the cards and to the real calendar. The cards were the safe source in both cases and no card, no band and no family was changed.",
     "dates": {
       "0795": "Friday the twenty-fourth of February 2023",
       "0796": "Monday the twenty-seventh of February 2023",
@@ -83,17 +84,17 @@
       "0800": "Thursday the sixteenth of March 2023",
       "0801": "Sunday the nineteenth of March 2023",
       "0802": "Friday the twenty-fourth of March 2023",
-      "0803": "Tuesday the twenty-eighth of March 2023",
-      "0804": "Wednesday the twenty-ninth of March 2023"
+      "0803": "Wednesday the twenty-ninth of March 2023",
+      "0804": "Monday the third of April 2023"
     },
-    "weekdays": ["Friday", "Monday", "Saturday", "Tuesday", "Friday", "Thursday", "Sunday", "Friday", "Tuesday", "Wednesday"],
-    "distinct_weekdays": "SEVEN, namely Friday, Monday, Saturday, Tuesday, Thursday, Sunday and Wednesday. Friday appears three times, in 0795, 0799 and 0802, and every other weekday once except Tuesday which appears twice, in 0798 and 0803.",
-    "month_change": "0795 and 0796 in February 2023 and 0797 to 0804 in March 2023. THE WHOLE BLOCK IS IN ONE YEAR AND THE YEAR DOES NOT TURN.",
-    "no_ninth_or_eleventh": "Checked on every one of the ten against the real February and March 2023 calendars. The days of the month are 24, 27, 4, 7, 10, 16, 19, 24, 28, 29. NONE IS THE NINTH AND NONE IS THE ELEVENTH. March the ninth and March the eleventh were both in the candidate set and March the eleventh was rejected, which moved 0800 from the eleventh to the sixteenth and lengthened that gap from four to six.",
+    "weekdays": ["Friday", "Monday", "Saturday", "Tuesday", "Friday", "Thursday", "Sunday", "Friday", "Wednesday", "Monday"],
+    "distinct_weekdays": "SEVEN, namely Friday, Monday, Saturday, Tuesday, Thursday, Sunday and Wednesday. Friday appears three times, in 0795, 0799 and 0802, Monday appears twice, in 0796 and 0804, and Tuesday, Saturday, Thursday, Sunday and Wednesday once each.",
+    "month_change": "0795 and 0796 in February 2023, 0797 to 0803 in March 2023 and 0804 in April 2023. THE WHOLE BLOCK IS IN ONE YEAR AND THE YEAR DOES NOT TURN.",
+    "no_ninth_or_eleventh": "Checked on every one of the ten against the real February, March and April 2023 calendars, and again after the re-lay of the last two dates. The days of the month are 24, 27, 4, 7, 10, 16, 19, 24, 29, 3. NONE IS THE NINTH AND NONE IS THE ELEVENTH. March the ninth and March the eleventh were both in the candidate set and March the eleventh was rejected, which moved 0800 from the eleventh to the sixteenth and lengthened that gap from four to six.",
     "no_two_share_a_date": "Checked. All ten are different, and February the twenty-fourth and March the twenty-fourth are in different months.",
-    "derivation": "Every weekday taken off the real 2023 calendar on the day. January 2023 began on a Sunday and February 2023 on a Wednesday, so the twentieth of February is a Monday, the twenty-fourth is a Friday, the twenty-seventh is a Monday, the first of March is a Wednesday, the fourth is a Saturday, the seventh is a Tuesday, the tenth is a Friday, the sixteenth is a Thursday, the nineteenth is a Sunday, the twenty-fourth is a Friday, the twenty-eighth is a Tuesday and the twenty-ninth is a Wednesday.",
-    "tight_bound_from_0794": "Ten gaps of three to seven span thirty to seventy days, so Wednesday 22 March 2023 to Monday 1 May 2023. 0804 at Tuesday the fourth of April is inside it.",
-    "loose_bound_from_the_floor": "Nine gaps of twenty-seven to sixty-three from the floor of Thursday 23 February 2023 give Wednesday 22 March 2023 to Thursday 27 April 2023. 0804 is inside it.",
+    "derivation": "Every weekday taken off the real 2023 calendar on the day, and again after the re-lay of the last two dates. January 2023 began on a Sunday and February 2023 on a Wednesday, so the twentieth of February is a Monday, the twenty-fourth is a Friday, the twenty-seventh is a Monday, the first of March is a Wednesday, the fourth is a Saturday, the seventh is a Tuesday, the tenth is a Friday, the sixteenth is a Thursday, the nineteenth is a Sunday, the twenty-fourth is a Friday, the twenty-ninth is a Wednesday and the third of April is a Monday.",
+    "tight_bound_from_0794": "Ten gaps of three to seven span thirty to seventy days, so Wednesday 22 March 2023 to Monday 1 May 2023. 0804 at Monday the third of April is inside it.",
+    "loose_bound_from_the_floor": "Nine gaps of twenty-seven to sixty-three from the floor of Thursday 23 February 2023 give Wednesday 22 March 2023 to Thursday 27 April 2023. 0804 at Monday the third of April is inside it.",
     "both_bounds_checked_on_the_day_and_both_hold": true
   },
   "dateline": {

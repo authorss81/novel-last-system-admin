@@ -80,7 +80,7 @@ Her sister stands on the side of the shed and watches it shut.
 
 "That is a door."
 
-"That is a door that shuts," her sister says. "And it shuts because the stile in it is the thickness of the stile beside it and the ledge in it is a ledge, and you can put the water off that limb on it for as long as there is a limb on that tree."
+"A door that shuts," her sister says. "And it shuts because the stile in it is the thickness of the stile beside it and the ledge in it is a ledge, and you can put the water off that limb on it for as long as there is a limb on that tree."
 
 "It is still going to let water in at the bottom."
 
@@ -90,7 +90,7 @@ Her sister stands on the side of the shed and watches it shut.
 
 Then the barrow goes back against that door.
 
-Her sister has gone by then, and has gone out of the front gate without anybody walking her to it, and the old woman goes out to the shed because there is nothing else to do in that yard.
+Her sister has gone by then, and has gone out of the front gate without anybody walking her to it, and she goes out to the shed because there is nothing else to do in that yard.
 
 It is a builder's barrow with a steel wheel and a wooden body and it has never been kept in the shed, because the shed has never been big enough and the door has never wanted it leaning. It goes against the face of that shed door when she has finished barrowing, and it stays there until she wants it again, and nobody has ever thought about it and nobody ever will.
 

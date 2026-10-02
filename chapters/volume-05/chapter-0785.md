@@ -38,7 +38,7 @@ She crouches and puts her fingers under the front of the tray and lifts. The fro
 
 "That is bedded."
 
-"That is bedded at the back and hanging at the front. You have a chip under the back of it and nothing under the front of it, and the tray is sitting on the brackets at the front, and it is nowhere near where a tray ought to be bedded."
+"At the back and hanging at the front. You have a chip under the back of it and nothing under the front of it, and the tray is sitting on the brackets at the front, and it is nowhere near where a tray ought to be bedded."
 
 "Then I will put the second chip under the front of it."
 
@@ -86,7 +86,7 @@ It stands against the wall by the rack of boards when it is off, and the woman w
 
 "The bed sits on the rail."
 
-"The bed sits on the rail, and the hinge."
+"On the rail, and the hinge."
 
 ---
 
@@ -114,7 +114,7 @@ She gets it up on her shoulder the way she always has, from behind, in one movem
 
 "That is the step."
 
-"That is the step." She is packing the spanner away. "Do that every time from now on and that hinge will outlive the van."
+"Yes." She is packing the spanner away. "Do that every time from now on and that hinge will outlive the van."
 
 ---
 

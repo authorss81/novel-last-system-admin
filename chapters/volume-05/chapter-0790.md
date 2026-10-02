@@ -36,7 +36,9 @@ The woman who books work is standing at the head of the ramp with her coat on an
 
 "Rubble and sand."
 
-"Rubble and sand that has been there since the autumn, packed down into the bed the kerb is sitting on. And under all of that is the channel that was cut in that concrete before the stone ever went over it. That channel is about as deep as your thumb and it runs the width of the ramp, and the two of them together are what the bed is." She puts her heel in the rubble and grinds it. "And you are going to pull all of it out and put rubble you have barrowed off a yard in its place and pack that in with the back of a shovel." "And then a wheel comes up that ramp, and the fall is about one in eight, and the wheel is doing something on the way."
+"Rubble and sand that has been there since the autumn, packed down into the bed the kerb is sitting on. And under all of that is the channel that was cut in that concrete before the stone ever went over it. That channel is about as deep as your thumb and it runs the width of the ramp, and the two of them together are what the bed is." She puts her heel in the rubble and grinds it. "And you are going to pull all of it out and put rubble you have barrowed off a yard in its place and pack that in with the back of a shovel."
+
+She turns her heel over in it and looks at him. "And then a wheel comes up that ramp, and the wheel is doing something on the way up it, and the water coming down it in a storm is doing something on the way down."
 
 "What is the wheel doing."
 
@@ -88,7 +90,7 @@ They do it four more times with four different loads, and it goes up in one move
 
 "It is one go."
 
-"It is one go." The woman who books work is not smiling. "Go on then. Stop pushing it."
+"One go." The woman who books work is not smiling. "Go on then. Stop pushing it."
 
 "I have not been pushing it. I have been walking it."
 

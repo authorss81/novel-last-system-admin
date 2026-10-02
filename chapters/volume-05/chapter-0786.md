@@ -90,7 +90,7 @@ Her sister stands in the grass and pushes the heel of her hand down on the copin
 
 "It is a good wall."
 
-"It is a good wall," her sister says. "And there is no mortar in it anywhere. It is brick and broken stone and it is packed the whole way up, so it will not lift, because there is nowhere in it for anything to come up into, and the clay coming out of that bed will come up against the outside of it and go over the top and away."
+My sister has her hand still on the coping. "And there is no mortar in it anywhere. It is brick and broken stone and it is packed the whole way up, so it will not lift, because there is nowhere in it for anything to come up into, and the clay coming out of that bed will come up against the outside of it and go over the top and away."
 
 Her sister goes out through the yard gate in the last of the light with her chisel and her cold chisel in her bag and the old woman walks her as far as the gate and stands against the wall beside it and watches her go down the yard and out, and then goes back up the yard on her own and stands in front of four feet of wall that is not going anywhere.
 

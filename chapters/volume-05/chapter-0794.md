@@ -26,7 +26,7 @@ She means to open it, put the whole of it down on that yard of path, and spread 
 
 ---
 
-Her sister knocks at the front door and they go through the house and out into the yard and the old woman goes straight to the sack and puts her hand in it.
+Her sister knocks at the front door and they go through the house and out into the yard and she goes straight to the sack and puts her hand in it.
 
 "It is not full."
 
@@ -64,7 +64,7 @@ Her sister stands in the middle of it with her boots in the gravel.
 
 "That is better than the boards."
 
-"That is better than the boards and it will be better than the boards in ten years. You can put a barrow across that and you can put the wheelbarrow and the sack barrow and a bicycle across it, and you will not have to think about where the mud is." She puts her heel down and turns it over. "And you have done it in an hour instead of eleven weeks."
+"And in ten years it will be better than the boards still. You can put a barrow across that and you can put the wheelbarrow and the sack barrow and a bicycle across it, and you will not have to think about where the mud is." She puts her heel down and turns it over. "And you have done it in an hour instead of eleven weeks."
 
 ---
 

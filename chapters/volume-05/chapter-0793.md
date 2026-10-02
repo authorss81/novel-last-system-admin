@@ -24,7 +24,7 @@ She can see the top of the load from the doorway. The boards and the blocks are 
 
 Her plan is the lid.
 
-She means to get a bar under the front of it, lift it off the ledge, stand it against the wall of the house on edge, leave it there while she goes and does what she has to do, and put it back at the end of the day with its back edge where it goes. She has been lifting that lid off and on like this for years and she knows exactly how it comes off, because it is a piece of a step and it is the weight of one.
+She means to get a bar under the front of it, lift it off the ledge, stand it against the wall of the house on edge, leave it there while she goes and does what she has to do, and put it back at the end of the day with its back edge where it goes and the two screws that are in the ledge going back into the two holes they came out of, and the pair at the front left where they are, because there is nothing under the front of that board for them to do anything with. She has been lifting that lid off and on like this for years and she knows exactly how it comes off, because it is a piece of a step and it is the weight of one.
 
 ---
 
@@ -46,7 +46,7 @@ Then she does it.
 
 It takes both of them and it takes five minutes.
 
-There is nothing to grip on the front of that lid, because its back edge sits on the ledge and the whole of the front of it stands four inches proud of the face of the wall with a gap under it the thickness of a nail, and there is nothing at all to lift it by. Her visitor goes round to the yard side with a long piece of batten and puts the end of it in under the front edge from below and brings it up, and the stone comes up off the ledge on the end of the batten in one movement with a noise like a boot coming out of a river, and then the two of them carry it round to the side of the house and stand it up on edge against the brick with the front face out of the wind.
+The two screws at the back corners come out first, four or five turns of the handle each, out of the sound ledge because that is where they went in in November, and she puts them in the pocket of her apron and they stay in there for the rest of the day. Then there is nothing to grip on the front of that lid, because its back edge sits on the ledge and the whole of the front of it stands four inches proud of the face of the wall with a gap under it the thickness of a nail, and there is nothing at all to lift it by. Her visitor goes round to the yard side with a long piece of batten and puts the end of it in under the front edge from below and brings it up, and the stone comes up off the ledge on the end of the batten in one movement with a noise like a boot coming out of a river, and then the two of them carry it round to the side of the house and stand it up on edge against the brick with the front face out of the wind.
 
 It is the weight of a stone step about a foot and a half across.
 
@@ -66,11 +66,11 @@ She stands and looks at it.
 
 Then she puts it back on.
 
-She lifts it on her own, with the batten, the same way it came off. She stands it up over the ledge and brings it down with the back edge onto the ledge first, the way it goes, so that the whole of the front edge stands out over the brickwork with the gap along it the thickness of a nail. She puts two fingers under the front and lifts: the whole front comes up about the thickness of a thumb, which is right, and nothing at either end, which is right.
+She lifts it on her own, with the batten, the same way it came off. She stands it up over the ledge and brings it down with the back edge onto the ledge first, the way it goes, so that the whole of the front edge stands out over the brickwork with the gap along it the thickness of a nail. Then she puts her own two screws back into the ledge at the back corners, because she has done that once already in November and she knows where every one of them goes, and the screwdriver goes back into the pocket of her apron along with them. She puts two fingers under the front and lifts: the whole front comes up about the thickness of a thumb, which is right, and nothing at either end, which is right.
 
 She runs her hand along the joint at the back, then down the two ends and out along the front, and there is nowhere on any of it she can put the edge of a thumbnail.
 
-Then she goes round the side of the house to the front and the old woman watches her go and does not follow her, and does not call after her, and stands in the grass beside a coal hole with the lid on it and no air in it.
+Then she goes round the side of the house to the front and watches her go and does not follow her, and does not call after her, and stands in the grass beside a coal hole with the lid on it and no air in it.
 
 ---
 
@@ -80,11 +80,11 @@ There is a second frost in March and the load wants airing and she thinks about 
 
 She does it on a Wednesday in March and it is wet.
 
-She does it properly as far as she gets. She gets the bar under the front edge and brings the stone up and she stands it against the wall of the house on the side of the house the wind is not on. She goes in for the post and comes out and she does not leave it. She puts it back within the hour, which is the thing she has been told to do and the only thing she has been told to do.
+She does it properly as far as she gets. She backs the two screws out of the ledge at the back corners and puts them in her apron, and then she gets the bar under the front edge and brings the stone up and she stands it against the wall of the house on the side of the house the wind is not on. She goes in for the post and comes out and she does not leave it. She puts it back within the hour, which is the thing she has been told to do and the only thing she has been told to do.
 
 And the ledge is wet.
 
-That is the whole of it. There has been rain on that wall since before she got up, and there is a film of water lying along the ledge where the stone goes. A stone that weighs what that stone weighs does not come down onto a wet ledge at the back corner and stay where it is put. It slides about the width of a thumbnail, and she cannot see the back corner from where she is kneeling at the front of it, and she puts two fingers under the front and lifts, and it comes up as it should, and the two screws at the front go into nothing at all, and and at the near corner there is a gap about the width of a thumbnail, because nothing is standing on that part of the ledge now.
+That is the whole of it. There has been rain on that wall since before she got up, and there is a film of water lying along the ledge where the stone goes. A stone that weighs what that stone weighs does not come down onto a wet ledge at the back corner and stay where it is put. It slides about the width of a thumbnail, and she cannot see the back corner from where she is kneeling at the front of it, and she puts two fingers under the front and lifts, and it comes up as it should, and the two screws at the back go into nothing at all, because the stone has moved a thumbnail's width off the holes they go into, and at the near corner there is a gap about the width of a thumbnail, because nothing is standing on that part of the ledge now.
 
 She goes round the house and comes back and looks at it from the front.
 
