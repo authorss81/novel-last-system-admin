@@ -1,87 +1,111 @@
-# Chapter 0771 — The Gravel Board
+# Chapter 0771 — The Shed Door At Ten
 
-Saturday the twelfth of November 2022, in this borough. She is in her own house and yard at number ten from morning until the middle of the day, and the whole of it is a gravel board set into a fence with nothing under it and a fence that will rot from the bottom in a year.
+Saturday the twelfth of November 2022, in this borough. She is in her own house and yard at number ten from morning until the middle of the day, and the whole of it is a length of scaffold board let into the bottom of her own shed door and standing proud of the face of it.
 
-**A WOMAN IN HER EARLY THIRTIES HAS A RUN OF FENCE THAT HAS COME LOOSE AND KNOCKS IN THE WIND, THE MAN FROM THE END OF THE ROW TAKES IT DOWN AND PUTS A GRAVEL BOARD UNDER IT AND HANGS THE BOARDS FLAT, AND THE GRAVEL BOARD IS SET INTO HER OWN GRASS WITH NOTHING UNDER IT AT ALL.**
+**A WOMAN IN HER EARLY THIRTIES HAS THE BOTTOM OF THE STILE OF HER SHED DOOR GONE SOFT AND SHE MEANS TO SCREW A BATTEN ACROSS THE FACE OF IT, THE MAN FROM THE END OF THE ROW CUTS THE SOFT WOOD OUT AND LETS IN A LENGTH OF SCAFFOLD BOARD AND SCREWS IT TIGHT, AND THE BOARD STANDS PROUD OF THE FACE, THE DOOR DOES NOT SHUT AGAINST THE SIDE OF IT, AND THE WATER OFF THE BEECH COMES DOWN THE FACE OF THAT DOOR FOR THE REST OF THE WINTER.**
 
-She is a woman in her early thirties at number ten on Saturday. The man from the end of the row comes to the back door in the morning and does the second half her own way.
-
----
-
-The back door is shut and the washing is in and folded on the table. The drawer under the worktop is shut, with the hammer and the screwdriver and the paper with three lines on it in there, and none of them comes out. The washing line is up and there is nothing on it. The ply offcut is up against the front of the shed, not nailed, where it has been since the summer, and the top corner of the felt above it is still lifting.
-
-The fence is the one along the far side of the yard, where the empty lot is. It is a close-boarded one on posts her father put in, and it is four feet high, and it has been the boundary since long before she came. The ground behind it has gone over to rough grass and thistle and the ground in front of it, in her own yard, is the strip of grass about a foot wide that she walks on to get at the water trough.
-
-One run of it between two posts has come away. The boards still sit in their grooves at the top and they knock in the wind whenever it gets a gust under them, and they have been doing that since the summer. The two boards across the bottom are dark from the ground up about a hand's width, and soft under a thumb, and the rail behind has started to go where the nails went through.
-
-She has three inches of a coil of wire, a hammer, a bag of odd nails, a can of creosote with about a third of it left, and she means to knock the bottom of it up, put three nails in the top rail and one in the bottom rail and one in the middle, run a brace across the back, and paint the ends of the boards where they show.
-
-The man from the end of the row comes to the back door in the morning with a claw hammer over his shoulder and a spirit level under his arm.
+She is a woman in her early thirties at number ten on Saturday. The man from the end of the row comes through the gate in the morning and does the second half his own way.
 
 ---
 
-"You have not touched it."
+The back door shuts true on its latch. In the drawer under the worktop there is a hammer, a screwdriver and a folded sheet with three lines written on it, and the drawer has not been opened since before the summer and is not opened today. Nothing on the line. The piece of ply leans where it has leaned for months against the shed front, fastened to nothing, and above it the felt still has its top corner lifted clear off the boarding. The sack of gravel is still at the back of the shed behind the bench, with a shovelful gone out of it in the summer and none this month.
 
-"I have not touched it and I was not going to touch it until you had been."
+The three boards are still down the two yards of path where her sister put them, and the hole the water made at the corner of the shed is deeper than it was. She goes round that way with the barrow every day and has never once put her boot in it. Nobody has swept this floor since October. There is a broom against the end wall under sawdust and grit, and she does not touch it.
 
-"That is not that." He looks over the fence into the lot. "That is all rotten where you can get your thumb in it."
+The door is the problem.
 
-"It is rotten where it is wet and it is wet because it is on the ground and not off it."
+It is a ledged door on two strap hinges, and the stile the hinges are fixed to has gone soft and black for about the length of your hand at the bottom, where it stands on the flat stone the door shuts on. It has lost its arris and you can gouge it with a thumbnail. The door has been dragging on the stone since the summer and she has been lifting it, and a door that has to be lifted is a thing you stop lifting about the fourth week.
 
-"That is the bottom half of it." He comes out into the yard and puts a hand on the boards and knocks them and they knock back. "What about the top of it and the rail behind it."
+Her plan is a batten. She means to get a length of batten the width of the stile and screw it across the face of the soft part, four screws, two at each end into the sound wood and two into the soft, and that will close the hole and put something on the face for the door to shut against.
 
-"The top of it is sound."
-
-"The top of it is sound this year." He puts the claw under the bottom rail and lifts, and the two bottom boards come off their grooves with it. "And then next summer the wind gets under a looser run of it, and the rail behind goes at the nail holes, and then the whole eight foot of it comes out of the posts and lies on the ground and you are picking it up in the spring and starting again at the beginning instead of the other end."
+The man from the end of the row comes through the gate in the morning with a hand drill under his arm and a piece of scaffold board about the length of his forearm tucked against the fence as he came in.
 
 ---
 
-He takes it down. That is the argument, and it is the whole of the argument, and it takes him twenty minutes.
+He stands at the door with his hands in his pockets and looks at the bottom of the stile.
 
-The run comes out of its grooves in four minutes and goes over onto the grass. Behind it the two posts are sound and bare, and the back of the rail is grey and sound and the nails in it are rusted through and lying in the grass, and the top of the grass is about four inches below the bottom of the rail.
+"That is soft."
 
-He stands looking at that for a while.
+"It is soft."
 
-"Four inches."
+"How soft."
 
-"Four inches. That is all that has ever been between the bottom of that fence and the air."
+"Soft enough. I can put my thumb in it."
 
-"Then the foot of every board on it has been four inches off the ground since the fence went up, and they have gone at the foot anyway. A foot is not the only thing that keeps water in a board." He goes and gets the boards out of the way and comes back with his spirit level. "I am putting a board along the bottom. A gravel board. Down the outside, across the face of both posts, screwed into the posts and not into the boards, and then the boards go back on it flat instead of on edge."
+He takes his thumb out of his pocket and puts it in it, and turns his hand over and looks at it, and does not take it out to show her.
 
-"Flat."
+"You are going to put a batten across that."
 
-"Flat. Every board on that fence is on edge, and a board on edge is a cup with the opening down, and it fills at the bottom and keeps it there all winter, and it rots at the foot in no time." He puts his hand up flat. "Flat, it sheds. Flat, the water comes off the top and off the ends and there is nothing to collect. That is why everybody's grandfather put them flat and then somebody clever put them on edge in nineteen-fifty and everybody since has wondered why their fences go at the bottom."
+"That is what I am going to do."
+
+"Two at each end."
+
+"Four screws. Two in the sound at the top and two low down where it is not quite as bad."
+
+"Where it is not quite as bad is the same as where it is bad." He wipes his thumb on his leg. "You will screw a batten across a stile that has gone soft from end to end inside, and it will close the hole and be a batten on the outside of a piece of firewood. In a year you will be putting the batten on again with the stile under it."
+
+"Then what would you do."
+
+"Cut it out."
+
+"Cut it out and put what."
+
+"That." He nods at the scaffold board against the fence.
+
+She looks at the piece of scaffold board for a while.
+
+"It is a bit thick for a stile."
+
+"It is a bit thick for a stile and it is the same thickness as a stile, which is more than a batten is." He rests the board against the door over the opening where the soft part is. "You cannot make that hole any bigger without taking the whole stile out and framing a new one round a door you have to take off its hinges, and that is a job for a man with a bench and a vice."
+
+"I was not going to do that."
+
+"You were going to screw a batten across it and shut the door on the batten."
+
+"That would shut the door."
+
+"That would shut the door for about a year." He puts the board down on the flat stone where the door stands. "And your batten stands proud of the face anyway. You have not thought about that. The door shuts on the batten and takes the water that comes down the face of the door straight into the joint behind it, and your soft stile sits behind it getting wet instead of the door sitting on the stone."
 
 ---
 
-They take the boards off and put them back flat, and it is slow and it is good work.
+They do it, and it takes most of the morning, because he works it by hand.
 
-The gravel board is a length of a board that has been outside before and is grey and has a slight bow in it. He cuts it on the sawhorse in the yard, one long piece, and puts it along the foot of both posts on the lot side, and screws it into them with four screws each, using the head of the claw hammer and a piece of wood so he does not split anything. Then he runs a second rail along the top of that board, one board wide, and the fence boards go back on in their grooves, flat, on to that.
+He takes the door off the two hinges, which is two pins out of two straps with a bar and a lump of wood, and lays it on the flat stone with the face up. He marks round the soft part with a chisel and an old bit of card, cuts it out with a hand saw in four strokes because it is already half out on its own, and squares the hole down to sound wood all the way round with the chisel.
 
-So there is a finger of air between the gravel board and the rail above it and the boards stand clear of it, and the four inches the fence always had is not gone. It is a proper job.
+The soft part comes out in four pieces and the inside of the stile is the colour of a wet tea tray and it crushes between two fingers like a crust of bread. The two screws that went in years ago came out with the wood still round them.
 
-He does the whole run and does it in the wind and with the light going, and it is the best-looking fence in the yard, and it does not knock, and it is tighter than it was when the wind first got under it.
+"That is not wet rot."
 
-She puts her hand flat on the middle of it and pushes. There is no knock.
+"That is wet rot and it has had a summer to do it in." He turns a piece over in his hand. "It sat on a wet stone with a bit of an overhang on it and nobody moved it."
 
-"That will see the winter."
+Then he lays the board across the hole, marks it, takes it back to the fence end, puts it on the saw horse and cuts it to length and to width so it stands a fraction proud all round and not a hole. He gets it back against the hole, keeps it there with one hand, and drives the first screw in from the corner with the bit in his wrist.
 
-"That will see the winter."
+They go in one at a time, four of them, and he puts each one in at the far corner from the last and stops it as soon as it is home. Between them he has a length of folded paper under the board in case the stile twists when the screws go in. It twists. He takes the paper out afterwards and makes nothing of it.
+
+She has the door across her knees for the best part of an hour, and then has it flat on the stone while he fits the hinges and puts the pins back.
 
 ---
 
-She looks at it again when he has gone, because she cannot help it.
+They put it back on and it shuts. It shuts on the stone instead of on the batten, and it shuts without being lifted, and she shuts it and opens it four or five times to be sure.
 
-It is right. The gravel board is along the foot of the fence on the lot side, and there is air behind every board on that run, and the water that comes off the top of that fence goes down onto the ground in the lot and not into her yard.
+"That is better than the door was."
 
-Except that she cannot see the bottom of it, because the lot side is the side she never walks.
+"That is better than the door was when it was new, because that board is harder than anything in it." He is packing the drill away. "The door will outlast you if you leave it alone. Do not lean anything on it and do not nail anything to the inside of it."
 
-He put the gravel board where the posts were, because the posts are what it is screwed to and the posts have not moved in her father's time. But the ground has moved. The rough grass in the lot has come up on that fence the same way it has come up on it in her own yard, and there is an inch of it standing against the bottom of that board, and the coarse grass there went to mat in October and will keep wet leaves against the whole length of it all winter.
+"You are going to tell me I have left it in a draught."
 
-Which is the thing the gravel board was put there to do.
+"I am going to tell you about the beech." He points up over the fence at the far end of the row without looking up, because she knows which tree he means. "That has been over your shed roof since before the shed was there, and it does not know whose shed it is over."
 
-A gravel board with air under it keeps the feet of the fence boards off the wet ground and lets air round them. A gravel board set into wet ground with a mat of grass banked against it and no air at all on its inner face is a board that will be wet at the bottom at the same time as the boards it was put in to keep dry, and it will go before they do, because it is the only piece of timber in that fence that is touching the ground.
+"It has been raining on that roof all summer and it has not gone soft all the way up."
 
-She goes along it and puts her fingers over the top of the fence and down onto the gravel board on the far side, where she cannot get her hand round to feel the ground.
+"The roof is higher than the door and it throws most of it past. And a beech in the winter has no leaves on it, which is the whole of what a beech is for. Every drop that falls on that roof from now until the leaves are back on it goes down the face of the door instead of past the bottom of it."
 
-Where she can touch it the wood is grey and hard and it is doing its job. Where her fingers reach the bottom corner and can get at the joint, it is dark, and there is ground and dead grass in the creases of the grain, and she cannot get her hand behind it to see how far down that goes.
+She looks at the door. It shuts on the stone now, and it is a foot away from where he is standing.
+
+"Then it can rain on it."
+
+"It can rain on it. But it will not run off it."
+
+By the time she has got the barrow out to the corner of the shed the row has gone quiet and he has gone with it. She stands at the shed with the door shut behind her, which is the first time in a month it has shut without her lifting it.
+
+She goes out to the barrow later to shift the hole at the corner of the shed, and on the way back in she stops at the door and puts her thumb along the edge of the scaffold board where it stands out of the stile, from the top corner down to the bottom. The board is hard under her thumb, and there is a line of daylight down the side of it that the door does not shut against, and the whole of it is standing proud of the face of her own shed door.

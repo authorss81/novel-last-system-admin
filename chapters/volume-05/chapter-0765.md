@@ -2,9 +2,9 @@
 
 Sunday the sixteenth of October 2022, in this borough. She is at her own lock-up and yard from morning until the middle of the day, and the whole of it is four pallets stood on edge against a wall with the wet still in the middle of them.
 
-**A WOMAN IN HER LATE FORTIES TURNS FOUR DAMP PALLETS OVER ON THE CONCRETE, THE WOMAN WHO BOOKS WORK STANDS THEM ON EDGE LEANING BACK OFF THE WALL WITH A FINGER OF AIR BETWEEN THEM, AND THE DAMP IS STILL IN THE MIDDLE OF ALL FOUR.**
+**A WOMAN IN HER LATE FORTIES TURNS THREE DAMP PALLETS OVER ON THE CONCRETE, THE WOMAN WHO BOOKS WORK STANDS THEM ON EDGE LEANING BACK OFF THE WALL WITH A FINGER OF AIR BETWEEN THEM, AND THE DAMP IS STILL IN THE MIDDLE OF ALL FOUR.**
 
-She is a woman in her late forties at her own lock-up on Sunday. The woman who comes to book work comes out through the open half of the doors and does the second half her own way.
+She is a woman in her late forties at her own lock-up on Sunday. The woman who comes to book work comes into her yard in the morning and does the second half her own way.
 
 ---
 
@@ -20,7 +20,7 @@ The bottom boards of all four of them have gone the colour of a wet floorboard. 
 
 She has a long bar, a screwdriver, a stiff brush, wire and a sack of polythene, and she means to turn them over one at a time, scrape the black off the bottom boards, wire them together so they cannot walk again, and lay the polythene over the top with the bin lid on it.
 
-The woman who comes to book work comes out through the open half of the doors at the middle of the morning with her coat over her arm and looks down at the corner.
+The woman who comes to book work comes out from behind the doors at the middle of the morning with her coat over her arm and looks down at the corner.
 
 ---
 
@@ -98,7 +98,7 @@ They are the same in all four gaps. The boards that make the underside of a pall
 
 A pallet is not a board. It is a dozen boards and nine little blocks, and the blocks are sawn out of the middle of the log with the pith still in them, and the pith is the wettest thing there is in a pallet.
 
-She stands in her own yard in the middle of the day with four pallets against her own wall that are a hundred times better than they were this morning, and every block in the middle of each of them is as wet as it was in June.
+She stands in her own yard at midday with four pallets up against her own wall that are better than they were this morning, and every block in the middle of each of them is as wet as it was in June.
 
 Then she puts her hands into the first gap and works them up it. The air in there is dry and cold, and the two faces either side of it have gone from black to grey as far as her waist. Above her waist they are still black.
 

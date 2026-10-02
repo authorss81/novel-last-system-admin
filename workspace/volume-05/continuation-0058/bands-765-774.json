@@ -78,7 +78,8 @@
     "span_note": "Forty-two days counted off two dates, the twenty-fourth of November minus the thirteenth of October. The ten gaps add to the same forty-two and both were counted off the real 2022 calendar and neither was copied out of the other or out of any summary in `state/`, which is the note the review of 0057 left for this block. Ten dates give nine gaps between them plus the incoming gap from 0764, which is why there are ten.",
     "bound_both_directions": "Tight from 0764: ten gaps of three to seven span thirty to seventy days, so Saturday the twelfth of November 2022 to Thursday the twenty-second of December 2022. Loose from the floor of Sunday the sixteenth of October plus nine gaps of twenty-seven to sixty-three: Saturday the twelfth of November 2022 to Sunday the eighteenth of December 2022. The ladder falls at forty-two days on Thursday the twenty-fourth of November and sits inside both pairs, and 0771 stands exactly on the earliest legal date of both.",
     "weekdays_checked": "All ten taken off the real 2022 calendar, twice, and not copied out of any summary. Sunday, Thursday, Tuesday, Saturday, Wednesday, Monday, Saturday, Tuesday, Sunday, Thursday, which is five different days among the ten, two of them on a Saturday and two on a Sunday. None on the ninth and none on the eleventh of any month. No two share a date. None before Sunday the sixteenth of October 2022. No chapter spans two dates.",
-    "what_may_not_be_printed": "No day tally in body, dateline, opening or closing, and no closed clock time anywhere. What survives is tenure by month and season, age, date, and standing objects."
+    "what_may_not_be_printed": "No day tally in body, dateline, opening or closing, and no closed clock time anywhere. What survives is tenure by month and season, age, date, and standing objects.",
+    "note_on_the_card_and_the_prose": "Ten dates and ten gaps as above, taken off the real 2022 calendar and not copied out of any summary. Card 0771 calls 0764 'the same shed six weeks earlier in the season' and that is thirty days, and the prose says since October, and the prose wins."
   },
   "cards": {
     "0765": "At the lock-up a woman in her late forties has four pallets flat on the concrete with the bottom boards gone black, the woman who books work stands them on edge leaning back off the fence with a finger of air between them, and the wet stays in the middle of all four.",
@@ -125,5 +126,61 @@
     "declared_word_note": "TO BE MEASURED AT THE END. The word is declared in this file before any prose exists and not after.",
     "banned_sweep": "TO BE MEASURED AT THE END, on word boundaries, and not carried forward from any summary."
   },
-  "read_back": "PENDING. The ten were to be given to a second reader with eight canon chapters and the sixteen points, asked for arithmetic and facts first and prose last, and the findings to be set down here in full and the prose to win over any card that disagrees with it."
+  "read_back": {
+    "who": "A second reader, given the eight canon chapters 0755, 0756, 0758, 0760, 0761, 0762, 0763 and 0764, the band file and the prompt, and the sixteen points, and asked for arithmetic and facts first and prose last.",
+    "arithmetic_first": "Ten findings. The calendar was checked clean off the real 2022 calendar and is not a finding. TWO were arithmetic and both are fixed. 0766 gave the muddy run of the shed path as nine paces and as two yards in the same paragraph while a later paragraph of the same chapter already assumed five firm yards; it now reads five yards firm and the last two of them mud, which is what the card, the dialogue and the caps block all said. 0767 took four coping bricks off a sound run of four feet and then left four feet bare, which is not possible, because four bricks on edge cover about three feet; the sound run at the coal shed end is now seven feet, so four bricks off it leaves four feet bare, and the same paragraph's 'a lump either side of the gap' has become a lump where the lip was and another at the end where the cap was.",
+    "facts": "Eight findings, all fixed. 0767 had the tools go back IN THE COAL SHED, which is a standing object this block may not open, and the tools now go back on the nails by the shed. 0765 gave one door two ways in, the open half of the doors in the orientation line and the gap in the doors forty lines later with the roller door up; both are now one way. 0765's caps block said four pallets turned over and the body turns three. 0773 put a stranger's shopping on the step of number nine with nobody to have brought it, which is the third bag-arrival's trace the standing state was written to stop; the bags are gone and it is her own hands in her pockets. 0773 carried a barrow and an unnamed load to the coal hole, which a reader would take for the wood 0768 left standing green; the trip is now to see whether she shut the lid, and nothing is carried. 0773's caps block said the other side of the posts where the body says the other side of the ledgers, and the body is right, because the fault that ends the chapter is his screws going into the rail. 0771's caps block gave the fault as the water running across the board into the joint, which is the man's argument against the host's batten and not the fault the body leaves; it now says the board stands proud, the door does not shut against the side of it, and the beech water comes down the face of the door for the rest of the winter. 0770's last sentence had the load off the trolley and the wall and the trolley with a load on it on the ramp in the same sentence; she now puts the load back on and pulls it up again, which is what the declared closing image needs. 0770 also had the only hour in the ten, 'before six', and it now says before the light.",
+    "prose_last": "Four findings, all taken. 0768's closing clause had a loose pronoun, the ends of the load being the thing not taken out; it now says she does not take the wood out. 0765's 'a hundred times better' was the only pure emphasis figure in the ten and is gone. 0774 said nothing had moved since the summer when the oak had arrived at the end of September, and it now says since the September. The tenth note is a placement observation and not a fault: 0773 is the block's peak, an obstruction across her own front path on a Sunday in the rain, and 0774 reads as the settle. The order was fixed in the band file before any prose existed and stands."
+  },
+  "card_disagreements_settled_to_the_prose": {
+    "0765": "Card says the pallets lean off the fence. Prose says off the wall, with the tops back against the brick, and there is no fence in that yard. Prose wins.",
+    "0766": "Card says the water goes into the hollow the boards were put down to stop. Prose says the boards were never put down to stop water and the low end was never moved. Prose wins and is the better chapter.",
+    "0767": "Card says the sister builds a stack on the two best bricks and the wall is a brick short at the coping. Prose has her rebuild three feet of coping out of four bricks taken off the sound end and leaves four feet bare at the coal shed end. Prose wins.",
+    "0768": "Card says the middle of the load comes out in the spring. Prose has it going green and furry the same evening and found with her arm in to the elbow. The caps block said spring and the body said the same evening, and the body won, and the caps block was corrected.",
+    "0769": "Card says the oak is not on the page. Prose puts it on the page in the opening inventory, unseen by the man from the cottage, which keeps the 0761 fault alive. Legitimate and allowed.",
+    "0773": "Card says 'a man who does odd work up the road'. The prose label is THE MAN WHO DOES ODD WORK, with the road taken out, because 0763's man is the man from up the road and has been to that gate once and does not come again. Two men with the same locator in the same road would read as one man and the standing state would be broken. Prose wins."
+  },
+  "settled_by_this_block": {
+    "the_0773_visitor_is_the_man_who_does_odd_work": "NOT the man from up the road. The prose label carries no locator. He comes with a spanner in his hand and nothing else, and the woman who does her shopping is in 0768 and nowhere else in the ten, so no second person carries shopping to the gate of nine in this block.",
+    "the_felt_at_number_ten": "The PROMPT's standing state says 'felt gone'. That is wrong and the prose has been right since 0764. The felt is still on the shed at number ten, unnailed, with its top corner lifting clear of the boarding. It is not gone. 0766 and 0771 both say so.",
+    "the_reading_of_thing_left_where_it_is": "The PROMPT allows at most one ending on a thing put away and at most one on a thing left where it is. The band's declared family requires the one thing the good method cannot do to be left standing at the end of every chapter. Read narrowly and in line with the review of 0057, a THING LEFT WHERE IT IS is an object that was to be moved, worked on or taken away and was not. On that reading only 0766 closes on one, in the sack of gravel at the back of the shed, and nothing in the ten closes on a thing put away. The eight other endings close on a fault the adopted method made in the course of the chapter and nobody undid, which is what the family asks for. This reading is settled here so that a later block does not re-open it, and a later block that wants the fault off the last line may put it off, because nothing in the family forbids that."
+  },
+  "measures_taken_at_the_end": {
+    "command": "wc -w on each file whole, title line included, and `ls chapters/volume-05/chapter-*.md | wc -l` printed and not added up.",
+    "chapter_files": 580,
+    "words": [
+      1788,
+      1795,
+      1800,
+      1736,
+      1639,
+      1799,
+      1797,
+      1797,
+      1776,
+      1738
+    ],
+    "total_words": 17665,
+    "range": "1639 to 1800, every chapter inside the target",
+    "said": "0 across the ten, and 0 in every chapter, against a cap of 5. The lowest in four blocks.",
+    "declared_ordinary_word": "almost, declared in this file before any chapter existed. It comes out at 1, in 0769, where the chalk on the gates has faded to almost nothing. Reported at 1 and not at 0 and not rounded.",
+    "scene_breaks": [
+      5,
+      6,
+      5,
+      6,
+      5,
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "caps_blocks": "one standalone all-caps paragraph in every chapter, ten in the ten, against a cap of five in each. Three disagreed with their own bodies and all three were corrected: 0765 turned four pallets, 0768 found the green in the spring, 0771 gave the wrong fault and 0773 gave the wrong member. Four, not three.",
+    "banned_sweep": "the banned thirty-three at zero on word boundaries in all ten, and the six watched substrings at zero in all ten.",
+    "digits": "the only numerals in the ten files are the chapter number, the year 2022, and 2019 once in 0769 where the gate frame was welded badly. No day tally in any form in any of the ten. No closed clock time in any of the ten, after 0770's one hour was cut.",
+    "names": "no human personal name anywhere in the ten.",
+    "self_description": "this chapter, in this account, in this story, in this block, on this page and the writer are all at zero.",
+    "verbatim_runs": "Ten-token body spans, with the dateline and the caps block set aside because they are this volume's convention: 0 against 745-754, 735-744, 725-734, 715-724 and 695-704, and 1 against 755-764, which is ordinary connective language in 0773. **Six standing-state inventories that were the same paragraph run twice across two chapters of this block were found and rewritten: the drawer at ten in 0766 and 0771, the coal shed and taped box at twelve in 0767 and 0772, the unit's gates, drawer and stool in 0769 and 0774, and the whole of nine's kitchen in 0768 and 0773.**"
+  }
 }

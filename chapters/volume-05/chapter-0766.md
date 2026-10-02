@@ -8,13 +8,13 @@ She is a woman in her early thirties at number ten on Thursday. Her sister comes
 
 ---
 
-The back door is shut true on its latch and the washing is in and folded along the table. Under the worktop the drawer is shut, and the hammer and the screwdriver and the folded paper with three lines on it are all in there, and none of them comes out. The line across the yard is up and bare. The ply offcut is still standing where it has stood against the front of the shed, not nailed, and the felt above it is lifting at its top corner. At the end of the yard behind the shed the bed is as she left it, and the second row along the middle stands a paler colour than the rows either side.
+The back door is shut true on its latch and the washing is in and folded along the table. Nothing has come out of the drawer under the worktop in a long while, and what is in there is a hammer, a screwdriver and a folded piece of paper with three lines written on it. The line across the yard is up and bare. The ply offcut is still standing where it has stood against the front of the shed, not nailed, and the felt above it is lifting at its top corner. At the end of the yard behind the shed the bed is as she left it, and the second row along the middle stands a paler colour than the rows either side.
 
-The path from the back door to the shed door is firm for the first five paces and mud for the last four. It has been mud since June and it is mud over about two yards of it, and it is two yards long because that is how long she has been going round it with the barrow, and the grass side has gone bare where her boots go.
+The path from the back door to the shed door is firm for about five yards and mud for the last two of them. It has been mud since June, and the mud is two yards long because that is how long she has been going round it with the barrow, and the grass side has gone bare where her boots go.
 
 Under the path there is hardcore she packed by hand the spring before last and it has never shifted. What has shifted is the top inch of grit, and that has gone into the mud and made the mud, and the mud has gone down into the hardcore where the path is lowest. At the top of the two yards there is a step down of two inches across the whole width. It was not there in the spring.
 
-She has a spade, a barrow and a plank, and she means to lift the mud out, barrow it to the far end, tip in the sack of gravel from under the bench, and rake it flat.
+She has a spade, a barrow and a plank, and she means to lift the mud out, barrow it to the far end, tip in the sack of gravel from under the bench and rake it flat.
 
 Her sister comes through the gate in the morning with her coat over her arm.
 

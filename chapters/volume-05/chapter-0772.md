@@ -1,83 +1,93 @@
-# Chapter 0772 — The Kitchen Floor
+# Chapter 0772 — The Sheet On The Kitchen Floor
 
-Wednesday the sixteenth of November 2022, in this borough. She is in her own house at number twelve from morning until the middle of the day, and the whole of it is a kitchen floor taken up and laid down end for end with a free edge at the one door in the room.
+Wednesday the sixteenth of November 2022, in this borough. She is in her own house at number twelve from morning until the middle of the day, and the whole of it is one sheet of kitchen floor taken up and put back the other way round with its uncut edge across the doorway.
 
-**A WOMAN OF SEVENTY-EIGHT HAS A KITCHEN FLOOR LIFTED ALONG THE PASSAGE DOOR, THE WOMAN WHO DOES THE FRONT STEPS TAKES THE WHOLE SHEET UP AND CLEANS UNDER IT AND LAYS IT DOWN END FOR END, AND THE LAP THAT WAS AT THE DOOR GOES TO THE OTHER WALL AND THE FREE CUT EDGE COMES TO THE DOOR.**
+**A WOMAN OF SEVENTY-EIGHT HAS HER KITCHEN FLOOR LIFTING ALONG THE DOOR TO THE PASSAGE AND MEANS TO PRESS THE EDGE DOWN AND RUN A BEADING ACROSS IT, THE WOMAN WHO DOES THE FRONT STEPS TAKES THE WHOLE SHEET UP AND SCRAPES IT AND THE BOARDS AND LAYS IT BACK END FOR END, AND THE EDGE OF THE SHEET THAT IS NOT CUT LIES ACROSS THE SILL AND THE PASSAGE DOOR STOPS ON IT EVERY TIME.**
 
-She is a woman of seventy-eight at number twelve on Wednesday. The woman who does the front steps comes to the back door in the morning and does the second half her own way.
-
----
-
-There is a fire in the stove and the green chair is at the table. Nothing on the table has been moved since the spring. The envelope is face up on the right of it and the box with its tape and its cloth is on the left. Out of the back window the heap of cut grass is against the shed wall where it has stood since the summer and the stripe above it has gone back to the colour of a dirty thumbprint. The kitchen sash sits where the man from the lane left it, a hand's width low in its frame, and the cold comes in along the top of it.
-
-The floor is sheet lino laid by somebody else before she came to the house, over boards, over a layer of hard stuff nobody has ever looked at. It runs from the passage door to the far wall under the table. There is a lap about a foot wide running along the passage side of the kitchen, where the width ran out and the sheet went over itself.
-
-The lap has come up.
-
-It has come up about a foot in from the passage door and along about four feet of the room, and the edge of the upper sheet is standing up off the lower one by the thickness of a playing card in the middle and not at the ends. The floor under it is grey and gritty. There is grit on the kitchen side of the join too, which means the grit is coming across that join from the passage and not from the kitchen, because the passage floor is where the door is and the door is the whole reason there is grit in this room.
-
-She has a table knife, a tin of adhesive with about a third of it left in it, a piece of brick, and she means to get the edge up and under, scrape the old adhesive off both surfaces, put a fresh bead down, lay it back and put the brick on it.
-
-The woman who does the front steps comes to the back door in the morning with a bucket and a scraper in the back of it.
+She is a woman of seventy-eight at number twelve on Wednesday. The woman who does the front steps comes round to the yard end of the side passage in the morning and does the second half her own way.
 
 ---
 
-"You are not going to stick that back down."
+There is a fire in the stove and she has the green chair up at the table. Square with the edge of the table on her right is the gas envelope, face up, and it will lie exactly like that for as long as she leaves it there. The taped box is the other side of the table under its cloth, squared on three sides of it.
 
-"That is what I am going to do."
+The kitchen sash is a hand's width down in its own frame where it has sat since the summer, and she does not go near it this morning. She goes in and out past the passage all morning over the brush that is lying across the runner, which has been across the runner since before she came. Through the window the heap of cut grass is still banked against the shed wall and going pale along the top, and what it has brought up the brick behind it has dried to the colour of a cold cup of tea and will not go any further whatever she does to it. The padlock on the coal shed is open in the hasp and the shed door is shut. The gate stands propped back against the wall. She has no line and there is nothing on one.
 
-"Then you will do it in a fortnight and you will do it in the fortnight after that." The woman puts the bucket down in the passage. "How many times has that edge come up since you got the house."
+The floor is the problem.
 
-"It has come up twice. In the spring and again in September."
+There is one sheet on the kitchen floor and it has been there longer than the chair is old. It is a thin brown sheet with a pattern in it that has gone under the table to nothing and along the passage wall to nothing, and along the door to the passage the whole of it has come up off the boards in a long bubble about as wide as her hand. The bubble is not down at the far end. It runs the length of the door, and it has been up since before the cold came and it is not going down.
 
-"It came up because there is grit on both sides of it and the grit got under the edge and worked at the adhesive, and if you put it back down with a bead and a brick you will have done the same thing with a bead and a brick and the grit will be in it." She looks at the join from the doorway. "You cannot keep a floor where a door drops grit on it and that door swings over the join. You have to move the join."
+Her plan is a beading. She means to get under the lifted edge with the back of a knife, press it back down, run a thin bead of adhesive along the whole of it, and nail a length of beading across on top of the joint so that the edge has something to be pressed against for ever after, which is what beading is for.
 
----
-
-They take the whole thing up, and it takes most of the morning and it is filthy work.
-
-It comes up in two pieces because it has to. They lift the lap, and the grit that has been under it goes across the kitchen in a grey drift, and then the whole sheet comes off the boards and it is stiff and it curls back on itself about a foot in the air and it takes them both to get it out of the room and lay it flat face up on the yard.
-
-Underneath there is the layer of hard stuff, and about a quarter of an inch of grit on it, and the grit is not all one colour. Some of it is grey kitchen dust. A lot of it is the coarse grit that comes off the passage and off the front step along the passage.
-
-They scrape it off the boards, all of it, and sweep it, and the woman goes over the boards a second time with a wire brush where the boards have gone soft.
-
-"That is where it comes in."
-
-"That is where it comes in. That door." The woman has the sheet up in the middle of the kitchen and turns it end for end. "Now look at the back of that. That is the lap. And that lap has got years of grit ground into the adhesive and it is as good a join as it is going to get. So you put the lap back where it was and you have put your door back over it."
-
-"Then I cannot have a lap there."
-
-"You cannot have a lap at a door. That is the whole of what a lap is for." The woman turns the sheet end for end. "This way. Then the lap goes along the wall opposite the passage, where the chair is and where nothing walks, and the free edge comes along the passage side, and a free edge with nothing on top of it and nothing under it is a piece of vinyl you can stand on and does not lift, because there is nothing under it to push it up."
-
-"That is not how a floor is laid."
-
-"That is exactly how a floor is laid. The joint goes where the feet are not."
+The woman who does the front steps comes round the side of the house to the yard end of the passage at about the middle of the morning and knocks on the yard door, which is standing open, and puts her head in.
 
 ---
 
-They lay it the way the woman says, end for end, and it goes down well and comes up better than it was.
+"You have got that door open in this cold."
 
-The sheet goes down on the adhesive in about the same number of minutes it took to come up, and they roll it with the brick from the middle outwards and it goes down flat and it looks like a different room. The lap is along the wall opposite the passage and you cannot see it from the door because the green chair is in front of it. The free cut edge is along the passage side, bedded down with adhesive under it like any other part of it.
+"I cannot shut it with the floor up."
 
-She stands in the middle of the kitchen and puts her heel on the old place, where the edge stood up a playing card. There is nothing there. It is floor.
+"Can it not shut."
 
-"That is better than it was."
+"It shuts. It will not shut on the floor." She has the knife and the length of beading out on the table. "Look."
 
-"That is better than it was." The woman puts her things in the bucket. "And it will stay better than it was for a year, and I am not promising you longer than that."
+The woman comes down the passage and looks at the bubble along the door with the head of the knife pushed under the middle of it.
+
+"You have not got a bubble. That is your sheet lying on your floor."
+
+"That is my sheet not lying on my floor."
+
+"Then you want it to lie on your floor and you want something to keep it there. That is what beading is for, and there is beading on the other side of that door already where it used to come up."
+
+"I am not putting another piece of wood round my kitchen for one edge."
+
+"You are not, and it will not last. That edge is up because the boards under it are not there any more in any sense that matters, and they are down about a quarter of an inch along the length of that door where the joist runs, and the sheet is bridging it. Nail a beading across it and the beading will be a lid on the bubble, and every time somebody walks past that door the bubble will come up under the beading, and you will have water going in at the edge of the beading instead of at the edge of the sheet, which is worse, because there is no way back from there without taking the sheet up again."
+
+"Then what do you do."
+
+"Take it up."
 
 ---
 
-She finds it that evening.
+They take it up. It takes the best part of an hour and a half and it is not clean work and neither of them says anything about it afterwards.
 
-She has to go through to the passage with a plate in her hand, and the passage is where the door from the back hall is, and the grit comes through that door off the front step and along the passage and under the kitchen door.
+She gets a corner of the sheet up with the back of the knife and the woman takes it from there, and they get a whole corner folded over and worked along, and the sheet comes up off the boards in one long piece with a sound like tearing cloth, and it is not stuck down anywhere at all. The adhesive that is on the boards came away with it, in strings, and it looks as though the floor was never touched with anything.
 
-Her heel catches on the new edge about a foot in from the passage door.
+"That is not keeping it down."
 
-It is not a trip. Her foot stops a half inch short of where it was going and her hand goes out and finds the table.
+"That has been keeping it down for about nine years and the boards have gone." The woman lays the sheet back on its own on the floor with the face up so they can both look at it. "And that is what you have. That edge is the cut one, where it came off the roll, and it is thin. It is thinner than the middle and it is thinner than the edge against the passage wall, which came off the roll and was never cut at all, and you can see it with your thumb."
 
-She gets down on one knee afterwards with the torch and looks along that edge, and about two feet of it is coming away from the boards again already, in the one evening, and it is coming away at the same angle as the old one did and at the same place, and it has done it in a day.
+She runs her thumb along it. The one the woman has put her hand on is a hard edge and she can feel the layers in it. The one along the passage wall is about the same thickness all the way along.
 
-There is grit on the top of it. There is grit on the boards under it. And the grit got there today, through a closed kitchen door, off the passage floor, along the line of the join that has been moved to the one place in this room where it can be walked on and where the wind out of that doorway drops everything it is carrying straight onto it.
+"Then why has that one come up and not the other."
 
-She puts her fingers under the edge and lifts it and looks at it, and it comes up over an inch in the middle and the grit is packed in the joint, and she leaves it where it is and puts the torch on the table and does not get up to answer the thing she has just found.
+"Because that one went down on a board that has gone and that one went down on a board that is still there." The woman takes the sheet back and turns it over and puts it down the other way on the boards, with the cut edge along the passage wall and the edge that was against the wall now along the door. "It will lie better there. It will lie a great deal better along that door, because the door will be shut on an edge that is a full thickness the whole of its length instead of an edge that has gone to nothing over a dip in the boards."
+
+---
+
+They scrape the boards with a chisel and the back of a knife until the whole of it is dry and hard and the old adhesive is off it, and then they lay the sheet down from the door outwards so that the door edge goes down first and last, and they press it down along that edge with the heel of a hand, and then she puts the rolled hearth rug out over the middle of it and the woman backs it up against the skirting with the old chair laid on its side.
+
+It looks better than it has looked in about four years. She sits on the edge of the table and looks at it.
+
+"That is a floor."
+
+"That is a floor until the door has been shut on it a hundred times." The woman is at the door with her hand on it. "Shut it."
+
+She shuts it.
+
+It comes down and stops.
+
+Not against a frame and not against a stop. It comes down on something and stops with the corner of it against the strip of board at the doorway, about halfway along, where the sheet is lying over the sill and the boards have dipped and the sheet is standing up along that edge instead of lying down on it.
+
+She opens it and shuts it again. It stops in the same place.
+
+"Then the door wants easing."
+
+"The door is not easing." The woman puts her own hand on the corner and lifts it and looks at what is under it. "That is your sheet. That corner of your sheet is up off the sill by about the thickness of a nail head and the door is landing on it every single time you shut it. And you cannot ease that door. It is a door on a frame and the frame is where it has been since the wall went up, and it has shut on that frame for thirty years without anything."
+
+"Then it will have to be that way."
+
+"It will have to be that way or the sheet comes up again." The woman straightens up. "You have got a good edge under the door now and you have got the worst thing about it on the one line in the whole kitchen where a door lands on it, and that will not come back down on its own, and you will not find it until the spring and then you will find it with your hand in the middle of it."
+
+She shuts the door once more to be sure of it, and it stops in the same place with the corner of the sheet against the sill.
+
+Then she goes along the passage with the brush and sweeps the grit off the boards out of the yard door, and the grit comes off the brush on to the kitchen sheet by the door, and the door will not shut over it because of the corner of the sheet, and she stands in her own kitchen with the brush in her hand and watches the door stop on a corner of its own floor.

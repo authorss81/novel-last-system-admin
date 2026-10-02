@@ -2,13 +2,13 @@
 
 Saturday the twenty-ninth of October 2022, in this borough. She is in her own house at number nine from morning until the middle of the day, and the whole of it is a load of firewood stood on end in a coal hole with no draught in it and going green in the middle.
 
-**A WOMAN IN HER LATE FIFTIES HAS FIREWOOD WET AT THE BOTTOM END UNDER A SHEET OF PLASTIC, THE WOMAN WHO DOES HER SHOPPING STANDS IT ON END IN THE COAL HOLE WITH THE SAWN ENDS OUT, AND THE MIDDLE OF THE LOAD GOES GREEN AND FURRY AND IS NOT FOUND OUT UNTIL THE SPRING.**
+**A WOMAN IN HER LATE FIFTIES HAS FIREWOOD WET AT THE BOTTOM END UNDER A SHEET OF PLASTIC, THE WOMAN WHO DOES HER SHOPPING STANDS IT ON END IN THE COAL HOLE WITH THE SAWN ENDS OUT, AND THE MIDDLE OF THE LOAD GOES GREEN AND FURRY BEFORE SHE HAS HAD THE LID OFF AGAIN.**
 
 She is a woman in her late fifties at number nine on Saturday. The woman who does her shopping comes to the front door with the bags, takes them straight in, and does the second half her own way.
 
 ---
 
-The fire is unlit and the back door is shut true and its card is at the hinge. There are pads on top of the fridge in a stack and the first one is at the bottom of it. The front room stays shut, and the two stools behind it have had a cloth over them since the summer. There is one bulb in the ceiling on the low setting, and the jug is on the dresser with its lid down and the kettle sitting on the jug.
+The fire is unlit and the back door is shut true and its card is at the hinge. There are pads on top of the fridge in a stack and the first one is at the bottom of it. The front room stays shut, and the two stools behind it have had a cloth over them since the summer. There is one bulb in the ceiling on the low setting, and the kettle stands down on the lid of the jug where the jug stands on the dresser.
 
 The wood is out at the side of the house by the back gate, in the same place it has stood since it came off the cart in the summer, under a sheet of plastic that came off the roll then and has gone down on the top of the load and stuck to it since. It is a load of small stuff, mostly, with four or five lengths of something thicker at the bottom that had been lying against the wall of whoever's place it came from.
 
@@ -16,7 +16,7 @@ The bottom of it is green. You can see it from the gate. The bark on the bottom 
 
 She has a saw, an axe, a plastic sheet and a stack of old bricks, and she means to take the plastic off, saw the four thick lengths into short enough to go into the grate, and rebuild the whole of it as a proper stack against the wall of the yard with the rounds out and the flats in and the plastic over it and the bricks on the plastic.
 
-The woman who does her shopping comes up the path at the middle of the morning with two bags in her hands.
+At the middle of the morning the woman who does her shopping is on the front step with two bags in her hands.
 
 ---
 
@@ -94,4 +94,4 @@ She takes her arm out and looks at her hand, and on the underside of her forearm
 
 She puts her hand in again, further, and there is more of it, and it is not two sticks. It is the whole middle of the load from about the fourth row down, and it is going green the way the bottom of the pile went green in August under the plastic, and it has had the same cause and a different name.
 
-She stands at her own coal hole in the dark kitchen with her hand to the elbow in it, and the sawn ends at the front of the load are dry and pale and look like a wall of coins, and she does not take them out.
+She stands at her own coal hole in the dark kitchen with her hand to the elbow in it, and the sawn ends at the front of the load are dry and pale and look like a wall of coins, and she does not take the wood out.

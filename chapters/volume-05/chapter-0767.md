@@ -8,13 +8,13 @@ She is a woman of seventy-eight at number twelve on Tuesday. Her sister comes to
 
 ---
 
-There is a fire in the stove and the green chair is up to the table where she sits. The gas envelope lies face up on the right of the table, square with the edge, and the taped box is under its cloth on the other side, squared on three sides of it. She looks at neither of them long. Out of the back window the heap of cut grass is against the shed wall where it has stood since the summer, greying on the top, and the dark stripe that came up the brick behind it has gone the colour of weak tea and is not going any further.
+There is a fire in the stove and the green chair is up to the table where she sits. Square with the edge of the table on her right is the gas envelope, face up, and the taped box is the other side of the table under its cloth, squared on three sides of it. She looks at neither of them long. Out of the back window the heap of cut grass is against the shed wall where it has stood since the summer, greying on the top, and the dark stripe it brought up the brick behind it has gone the colour of weak tea and is not going any further.
 
-The coal shed door is shut with the padlock open in the hasp. The gate stands propped back against the wall and the lamp above it burns. The brush lies across the runner in the passage and she steps over it.
+The padlock on the coal shed is open in the hasp and the shed door is shut. The gate is propped back against the wall and the lamp over it burns. A brush lies across the runner in the passage and she steps over it.
 
-The yard wall runs along the lane and it is a low wall, up to about the height of her hip, and it is capped with bricks set on edge all the way along so the rain runs off it instead of going into the courses. About three feet of that capping near the gate end has come off since the winter and the bricks from it are lying in the grass at the foot of the wall in a heap, along with lime mortar in pieces the size of a hand, most of it with grass grown through it.
+The yard wall runs along the lane. It is a low wall, about the height of her hip, and it is capped with bricks set on edge so the rain runs off it instead of going into the courses. About three feet of that coping near the gate end came off in the winter, and the bricks from it lie in the grass at the foot of the wall in a heap with lime mortar in pieces the size of a hand, most of it with grass grown through it.
 
-She has a barrow, a bolster, and a sack, and she means to put the lot in the sack and get it out to the front before the middle of the day, because that is what loose brick is for and because the grass is coming up through it and the grass will bind the whole of it together by Christmas.
+She has a barrow, a bolster and a sack, and she means to put the lot in the sack and get it out to the front before the middle of the day, because that is what loose brick is for and because the grass is coming up through it and will bind the whole of it together by Christmas.
 
 Her sister comes to the front step in the morning with a tea tray under her arm and puts it on the step and does not come in.
 
@@ -60,7 +60,7 @@ Then she stands up and goes along the wall and runs her hand along the capping, 
 
 She cannot do that. That is the whole of the argument and it goes on for most of the morning.
 
-What is on the wall above the heap is a run of about three feet where the mortar has gone and the bricks have shifted and there is a lip along the top where the rain can get in. What is on the wall away from the heap is tight, laid, and the bricks are straight and the frogs are up and the joints are tight, and that is about four feet of it, right at the end by the coal shed.
+What is on the wall above the heap is a run of about three feet where the mortar has gone and the bricks have shifted and there is a lip along the top where the rain can get in. What is on the wall away from the heap is tight, laid, and the bricks are straight and the frogs are up and the joints are tight, and that is about seven feet of it, right at the end by the coal shed.
 
 "You can take four off that end."
 
@@ -68,7 +68,7 @@ What is on the wall above the heap is a run of about three feet where the mortar
 
 "You cannot take the top off the end of a wall."
 
-"I am not taking the top off the end of a wall. I am moving it." She puts the two bricks down on the grass. "You have got a run of three feet up there with a lip on it, and the water is going into it, and if it goes one more winter it will take the face off the wall and you will be looking at a lump. And you have got nothing in that heap you could put back in it that will last, because four of those are the wrong thickness and the rest of them are broken. So you take four off the sound end and you put them in the loose end, and then you have a wall with a lip on one half of it and no cap at all on the other half, and by the spring you have got a lump either side of the gap."
+"I am not taking the top off the end of a wall. I am moving it." She puts the two bricks down on the grass. "You have got a run of three feet up there with a lip on it, and the water is going into it, and if it goes one more winter it will take the face off the wall and you will be looking at a lump. And you have got nothing in that heap you could put back in it that will last, because four of those are the wrong thickness and the rest of them are broken. So you take four off the sound end and you put them in the loose end, and then you have a wall with a lip on one half of it and no cap at all on the other half, and by the spring you will have a lump where the lip was and another one at the end where the cap was."
 
 "That is worse than what I have."
 
@@ -78,9 +78,9 @@ What is on the wall above the heap is a run of about three feet where the mortar
 
 They do it. It takes the rest of the morning and it is done well, and she will say that.
 
-Her sister takes the four off the sound end with the bolster and a lump of wood to get under it, and sets them in the loose run one at a time with the frogs up and the joints tight and a bit of lime putty under each so the brick does not rock, and she makes the three feet of coping straight with a line across the top of it and a second one that goes down the face, and by the middle of the day the run above the heap is as good as the run that was left, and better than what was there in February.
+Her sister takes the four off the sound end with the bolster and a lump of wood to get under it, and sets them in the loose run one at a time with the frogs up and the joints tight and a bit of lime putty under each so the brick does not rock, and she makes the three feet of coping straight with a line across the top of it and a second one down the face, and by the middle of the day the run above the heap is as good as the run that was left, and better than what was there in February.
 
-The broken bricks go back in the heap under the wall and the lime goes with them. The barrow goes out to the front and the sack comes off and stands on the path, and the tools go back in the shed and the shed door is shut and the padlock is open in the hasp where it always is.
+The broken bricks go back in the heap under the wall and the lime goes with them. The barrow goes out to the front and the sack comes off and stands on the path, the tools go back on the nails by the shed, and the coal shed is shut with the padlock open in the hasp where it always is.
 
 Then she stands in the middle of her own yard and looks at her own wall.
 

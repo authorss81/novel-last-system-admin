@@ -1,87 +1,97 @@
-# Chapter 0770 — The Wheel On The Trolley
+# Chapter 0770 — The Trolley And The New Wheel
 
-Monday the seventh of November 2022, in this borough. She is at her own lock-up and yard from morning until the middle of the day, and the whole of it is a new castor wheel fitted to a trolley that now rides low at the front and goes over on the ramp.
+Monday the seventh of November 2022, in this borough. She is at her own lock-up and yard from morning until the middle of the day, and the whole of it is a new wheel on the front of her trolley and a trolley that stops with its back legs off the ground.
 
-**A WOMAN IN HER LATE FORTIES HAS A TROLLEY THAT COMES SIDEWAYS WHEN SHE PULLS IT, THE MAN WHO LIVES OVER THE LOCK-UP GATE TAKES THE WHOLE CASTOR OFF AND PUTS A NEW ONE ON, AND THE NEW ONE IS SMALLER THAN THE OLD ONE SO THE TROLLEY SITS LOWER AT THE FRONT AND GOES OVER ON THE RAMP WITH ANYTHING IN IT.**
+**A WOMAN IN HER LATE FORTIES HAS A TROLLEY THAT COMES SIDEWAYS WHEN SHE PULLS IT, THE MAN WHO LIVES OVER THE LOCK-UP GATE TAKES THE CASTER OFF AND PUTS ANOTHER ONE ON AND LINES IT UP SQUARE, AND THE NEW WHEEL IS SMALLER THAN THE ONE THAT CAME OFF, SO THE TROLLEY SITS LOW AT THE FRONT AND STOPS WITH ITS BACK LEGS OFF THE GROUND ON THE RAMP.**
 
-She is a woman in her late forties at her own lock-up on Monday. The man who lives over the lock-up gate comes in through the roller door with a spanner and a short bar and does the second half his own way.
-
----
-
-The van went at seven and has not come back. The roller door is up on its bracket and has been since. In the corner at the leg of the rack there is half a bucketful of grit from the bottom of the rail and a swept crescent round it where the first bucket went out, and the rest of it has been walked about by boots since. The rack behind is shut with the boards and the bolster on it where they live. The drawer with the leads and the screws is shut in the bench. The box is where it has been since the spring, behind the bench, shut.
-
-The trolley is a flat-deck one with two fixed wheels at the back and a swivelling castor at the front that has come out of square with the deck and turned in on itself, and when she pulls it across the yard it does not follow. It sets off to one side for the first yard and then catches up and goes straight for a yard and then sets off again, and she has been doing that across this yard since the spring with a barrow or a sack on it.
-
-The wheel itself is stiff. She can spin it with a finger and it goes about a quarter of a turn and stops. The castor housing is not seized, and the top plate is not bent, and the wheel comes out and goes back in on its spindle, which means somebody has dropped this trolley at some point with something in it and the two plates that make the fork of a castor have not gone back to parallel.
-
-She has a spanner, a screwdriver, a short bar, a can of penetrating oil with about an inch left in it, a block of wood, and she means to take the wheel out, get it free, spray it, work it back and forth, and put it back square.
-
-The man who lives over the lock-up gate comes in through the roller door in the middle of the morning with a spanner in one hand and the short bar in the other.
+She is a woman in her late forties at her own lock-up on Monday. The man who lives over the lock-up gate comes through the gate at the middle of the morning and does the second half his own way.
 
 ---
 
-"She will not follow."
+The van is back in the bay before the light with its load in, and the packing round that chip at the near corner of the rear step has not worked out of the step. The roller door is up to its bracket. Under the bench the drawer with the leads and the screws is shut. Behind the bench the box stands in its corner and is not opened. In the corner of the floor at the leg of the rack is the heap of grit that came out of the bottom of the rail, swept into a crescent and trodden flat.
 
-"She will not follow since April."
+Along the wall outside, the four pallets are standing on edge where she put them on Sunday, and the black has come off the outside of all four of them as far as her chest. She has not looked at the top of any of them since and is not going to.
 
-"Then that is not the wheel." He puts the bar against the bench and gets down on one knee beside the front of it. "Give me that bar and I will show you."
+The trolley is in the middle of the yard. It is a platform trolley with a steel deck and four casters under the corners, and it came with the yard. The front right caster has been loose since the summer and she has had it in and out twice. When she pulls it, the top of that caster leans out behind the leg instead of standing square under it, and the wheel goes round out to one side, and the trolley leaves the line it is pointed at and goes off into whatever is on that side, which twice has been the foot of the wall and once has been the roller door itself.
 
-He has the castor out of its plate inside a minute, and he turns it over on the deck and works the two plates against each other with his thumbs.
+Her answer to it is a strip of tin. She has cut one the width of the caster plate and punched a hole in it for one of the four bolts, and the plan is to slide it in between the leg and the plate, which puts the wheel back up at the height it is supposed to be, and bolt it on through the tin. The man who lives over the lock-up gate comes through the gate at the middle of the morning with an open-end spanner in his hand and stops at the roller door, because the trolley is in his way.
 
-"There. Feel that."
+"You have had that caster off."
 
-They are not parallel. One plate is bent outward about the thickness of a coin and the wheel is squeezed between them, and that is the stiff, and the squashed wheel is the sideways.
+"It is off. It is on the bench with the tin strip lying beside it."
 
-"Then it is the wheel."
+"Then you are shimming it back on." He puts the spanner down on the deck. "Put the caster on and show me the gap."
 
-"It is not the wheel." He turns it over again. "You could get that wheel free tonight with a hammer and a flat file and it would run all right and it would be out of square again by Christmas, because what has happened to those plates has happened to them for good. Somebody has stood on the side of this castor with a loaded trolley and it has not been true since. And that is not a wheel you oil. That is a fork you replace."
+She runs her thumb up the back of the caster where the four bolts go through the top plate, and then does the same thing with the plate on the leg.
 
----
+"That is the gap."
 
-He does replace it, and he does it properly, and the tools come off his own van out of the store over the gate and not out of anybody's pocket.
+"It is not the gap I meant." He puts a torch on the concrete low down and looks along the joint where the plate is bolted to the leg. "That is the joint. Look at the top of the caster."
 
-He takes the old fork to pieces on the deck, gets the wheel out of it, gets the top plate off the deck, and opens a box he has brought with him with two castors in it, one of which is the right size and one of which is not. He fits the right-size one, in the right place, with the trailing leg behind the swivel so the wheel trails instead of leading, greases the swivel, puts the plate back, and does the bolt up properly.
+She looks at the top of the caster. The plate has opened at the four corners, where the wood has gone soft and let go round the bolt, and the top of it sits crooked on the bolt shanks.
 
-Then he stands up off his knee and pushes the trolley across the empty yard and lets go of it.
+"That is what the tin is for."
 
-It goes straight from the door to the front gate. It goes out through the gate and along the front and comes back and goes straight, and it does that three times while she is standing in the doorway with her hands still black with the old grease.
+"A tin strip goes between a leg and a plate that are true, to bring the wheel up where it wants to be." He straightens up. "Yours is a plate that has opened and a leg that has not dropped. Put the tin in there and you are propping a corner with a piece of a can, and the first time that bolt is done up properly it will fold the tin and the corner will be open again."
 
-"That is a trolley."
+"Then what do you do with it."
 
-"That is a trolley."
+"Take it off and put another one on."
 
----
+"I have not got another one."
 
-She puts a sack of rubble in it that afternoon, because there are two sacks to go out and it is a long way to the front, and it is a good trolley now and she is pleased with it and it is the best thing in her yard.
-
-It goes out through the roller door across the concrete fine. It goes down the ramp onto the yard fine, and it goes along the yard fine for about eight feet.
-
-Then the front drops.
-
-Not a lot. The front of the deck comes down by about a finger and stops, and the two back legs come up off the ground about half an inch and the whole thing stops moving and stands there with the load in it and her hand on the handle.
-
-She puts her face down beside the wheel.
-
-The new wheel is smaller than the one that was on it. It is about a quarter of an inch smaller across the tread, which is nothing on a wheel, and the castor body that came with it puts the axle a quarter of an inch lower than the axle the old one was at, which on a deck standing at the height it stands at means the whole front end of the trolley is a quarter of an inch nearer the ground than it was this morning.
-
-And a quarter of an inch is nothing until you put a sack of rubble on it and go over a ramp.
-
-Because the ramp is the only place in this yard where the back legs can come up off the ground. It is at the front of the yard and it drops from the yard level to the lane. If the front end of the trolley is lower than the back end by anything at all, the back legs have to be higher than the front by that much before the thing will start to tip forward onto the front wheel. This morning the two ends were level and the front wanted nothing. This afternoon the front is a finger's width below the back and the back legs have to come up a finger's width before it will go, and a sack of rubble over a finger's width of ramp with a castor in front of you that has never been asked to do it does not go down the ramp.
-
-It goes over instead. It pitches forward onto the front castor, the back feet come clean off the ground, and it stands there.
+"I have got one." He is already going out of the gate. "Do not do that tin while I am gone."
 
 ---
 
-She gets it back. She puts a hand on the frame and lifts the back and walks it down and it goes down.
+He is gone a few minutes. He comes back with the caster in his hand and stands the two of them on the bench side by side, and his is smaller all round.
 
-She does not take the wheel off again, and she does not ring anybody.
+"That is not the same wheel."
 
-She goes and gets the ramp. The ramp is a thing she put in herself years ago out of an old scaffold board with the ends chopped off, and the ramp does nothing except take six inches off the drop at the front of the yard. She props the low end of it on a lump of brick and puts the high end on a second lump of brick, one course higher, which makes the ramp steeper and makes the back legs come up sooner, and she tries it again with the sack in.
+"It is the right fitting. It is about the thickness of a coin smaller all round and the hole is the hole, so it goes on the same plate. It came off my own trolley in June and my own trolley has stood in my yard on three wheels since then, because it does not need to go anywhere. I have got a wheel that is the right fitting and not the right size, and you have got a frame that wants the size that came off it. One of those two is a job for today."
 
-It goes down the ramp. It takes the drop and it goes forward on the front wheel and the back legs stay on.
+"Then take yours."
 
-That is the answer, and it is not a bad answer, and it is not the wheel.
+"Put your tin in the scrap bin and keep your hands off the leg." He picks up the drill. "It will be there in five years and you will not be thinking about it."
 
-She will do it like that every time now. The sack goes in, the back hand goes on the frame instead of the handle, she walks it down her own ramp with two bricks under the front of it, and the trolley that came out of the roller door this morning and went straight across the yard three times is a trolley she has to lean over the front of.
+---
 
-And on the flat, if she forgets the bricks are not under the ramp, it will do it again, because that is what a quarter of an inch is when the castor under your hand is new and the load is wet rubble and you are in a hurry to get it down to the front gate.
+It takes the best part of an hour and it is better than anything she had in her head.
+
+He takes the old caster off with the bar and a lump of wood and does not let go of the leg while he does it. He cleans the plate out where the wood has gone soft, with a screwdriver and then with the twist of a wire brush, until it is back to hard wood and you can see the grain standing up in it. Then he runs his finger in the four holes and finds that two of them have gone out the side, where the wood has gone the colour of a wet floorboard and gone soft about as deep as a thumbnail.
+
+"A plate bolted on to half its holes, and half of them in soft wood, leans." He puts hardwood in place of the two soft holes, drives it in, cuts it off flush and knocks the middle out with a drift, and then bolts his caster on and sets the toe of it up so the wheel stands square behind the leg.
+
+"Then the tin is out of it."
+
+"The tin was the right idea." He puts the trolley down on the flat and pulls it the length of the yard. "It comes straight, because the caster is square and the plate is sound."
+
+She pulls it herself, the length of the yard and back, three times, and says twice that it is a different trolley. Then he crouches and looks at it from the side.
+
+"Before you say it is done."
+
+"It is done."
+
+"It is done on the flat." He puts two fingers under the front of the rail. "Mine is smaller than the one that came off yours. The front of that frame is sitting lower than it was this morning and lower than the two back legs, and on this floor it does nothing, because the four corners are not what carries you on a floor like that. It looks level to you. It is low at the front and you cannot see that from standing up."
+
+"It looks level to me."
+
+"It is low at the front." He looks at the ramp where it comes up out of the yard to the sill of the roller door. "Anything come up that on a load?"
+
+"It comes up that all day."
+
+"Try it up there now."
+
+---
+
+She is not going to try it up there now. It is nearly the middle of the day and there is a load in the bay she has not got in, and he will not put a load up a ramp to show a woman what he has told her in words, and he has a thing of his own at his own gate.
+
+He goes up the lane with the drill under his arm and the old caster in his other hand. She gets the sack out of the bay, puts it on the deck against the back rail and pulls.
+
+The trolley goes up the ramp. It goes up well. It comes up at the front and the load sits where she put it and the whole thing wants to go straight on into the bay, which is what she wanted when she started.
+
+She stops it at the top. The front of it comes level with the sill and then the whole trolley stops, and she feels it through the rail. The load goes back about the depth of a hand against the back rail and stays there. She leans on it to get it moving again and the front wheels turn and nothing behind them does anything, because there is nothing behind them on the ground.
+
+She gets down and looks at it. The two back legs are hanging about the thickness of a coin off the concrete, both of them, and the frame is pitched nose down so that it is standing on the two front casters and keeping itself up on them, and the load is lying back against the legs that are not touching anything. It is not a wheel that has come off. It is a trolley standing on two wheels with its back feet in the air, and it has been like that on the flat since the middle of the morning.
+
+She gets the load off it and puts it down by the wall, and stands at the foot of the ramp for a while with the spanner he left lying on the deck. Then she puts the load back on it and pulls it up the ramp again, and the trolley goes forward when she pulls and stops with its back legs off the ground.
