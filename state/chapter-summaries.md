@@ -1822,3 +1822,25 @@ The first eight lines below are unchanged from the block as first written. 0727 
 **0743, Wednesday the twentieth of July. The man in his late twenties and a turning stair.** Four door frames off the landing, three doors, and the fourth is a cupboard with the frame still showing round the outside of it. A solid sideboard goes down in two goes alone. A mirror on the wall of the turn fouls the stair, is not the woman's to give, comes down anyway, goes into the back of the van facing forward, and the bare patch of wall gets nothing put on it. She goes up to the top room herself at the middle of the day and is a good deal longer in there than the room needed, and neither of them asks the other a single question about it.
 
 **0744, Saturday the twenty-third of July. The woman at number ten and the paper in the drawer.** A ply offcut comes off the yard wall and is stood against the shed where the felt has gone, not nailed, doing a job badly and for nothing. Her sister is offered the three lines for her own table and is refused, because that would make it her sister's job. She tells her sister she will put the paper in the drawer and does not do it in front of her. After her sister has gone she pulls the drawer out, puts the paper down on the hammer and the screwdriver, and shuts it, on purpose, with the means and the job in one place where the two do not fit.
+
+## 0745–0754
+
+0745, Tuesday 26 July. Woman of seventy-eight keeps her sister in the passage at twelve over the brush, speaks there, does not bring her to the kitchen. Ends at the gate, then tea alone in the green chair.
+
+0746, Saturday 30 July. Man in early forties meets a lad with a van at the roller door, talks gates and posts at the track, does not bring him to the bench. Ends marking at the bench.
+
+0747, Tuesday 2 August. Woman in late forties meets the booking woman at the lock-up doors over the Wednesday, does not bring her past the bench. Ends with doors to a hand width.
+
+0748, Sunday 7 August. Woman in late fifties keeps the shopping woman on the step at the front door of nine, talks shopping there, does not open the front room. Ends putting shopping away.
+
+0749, Wednesday 10 August. Woman in early thirties meets her sister at the gate of ten over the felt, does not bring her up the yard. Ends standing at the window.
+
+0750, Sunday 14 August. Woman of seventy-eight keeps a duster woman at the kitchen doorway of twelve over the front room, does not let her past. Ends washing cups at the sink.
+
+0751, Wednesday 17 August. Man in early forties meets the cottage man at the yard gate over the posts, does not walk him to the bench. Ends marking alone.
+
+0752, Tuesday 23 August. Woman in late forties stands with the booking woman by the yard wall over the van and boards, does not open the doors. Ends standing at the doors.
+
+0753, Friday 26 August. Woman in late fifties talks with her sister on the step at the back door of nine, does not bring her to the table. Ends standing at the back door with a cup.
+
+0754, Tuesday 30 August. Woman in early thirties talks with a boy over the fence at ten over a ball, stays her side. Ends washing a cup at the sink.

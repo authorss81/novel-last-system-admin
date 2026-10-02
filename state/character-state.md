@@ -3359,3 +3359,17 @@ Six people, one pass, no memory findings. Five are in this block; the man in his
 **The man in his late twenties off the ring road.** One chapter. Took a solid sideboard down a turning stair in two goes alone, counted four frames and three doors on a landing, took a mirror off a landing wall because it fouled the turn, was told it was not the woman's to give, put it in the back of his van facing forward and put nothing on the bare patch. He is not placed as the lad with the keys and is not placed as the man with keys and no writer may read that identification into it.
 
 **Still standing and still not anybody's to change.** The freeholder has not come. The line is not put right. Nobody rings through to anybody who can act. The tape roll at number ten has nothing worth the name on it.
+
+## VOLUME 05, CONTINUATION 0056 — CHARACTER STATE AFTER CHAPTER 754
+
+Woman of seventy-eight at twelve: keeps two visitors at two edges (passage, kitchen doorway), envelope and box untouched, brush stepped over, takes tea alone.
+
+Man in early forties at unit: keeps two visitors at two edges (roller door, yard gate), drawer shut, stool folded, gates leaning, posts firm, marks alone.
+
+Woman in late forties at lock-up: keeps booking woman at doors and in the yard, van tidy, box corner standing, drawer shut, pad in coat.
+
+Woman in late fifties at nine: keeps shopping woman at front door and sister at back step, pads with first at bottom, front room shut, fire unlit.
+
+Woman in early thirties at ten: keeps sister at gate and boy at fence, drawer shut, ply standing, line bare.
+
+Man in late twenties: sits out. No job on the page.
