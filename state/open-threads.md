@@ -5994,3 +5994,6 @@ FIVE INHERIT 835: no male lead Mercer 0263 Ardent 0294 eighth block seventy chap
 Off page live: fourth room stair unlooked priced; frame square fitting; mirror van; painting landing. Wait man ring road sat 0057-0064 eight no second job different room reason.
 
 Next continuation 835-844 not close.
+
+# VOLUME 05 OPEN THREADS — after Continuation 0065, Chapter 844
+Standing at 0844 Wed 13 Sep 2023, 650 files. Twelve/unit: flag packed, edging heap + blue string + lilac holes untouched, frost/sash/flue/envelope/box/ladder/coal untouched. Ten: butt chippings packed tap untouched, gravel raked boards level, palings/brick/slabs/felt/ply/drawer untouched, line not put right. Lock-up: kerbstone packed on rubber, rack leg swept heap beside, apron hole/rack bars/pallets/bench/shutter untouched, office shutter-down after dust-shut. Nine: slab grit-packed to rail, pads laid flat, turf stack + privet stub + flags + spanner untouched. Unit: brace re-marked, bench eased battens uncut, boards/bands/cabin/frame untouched. Man ring road sits out nine blocks (0057-0065). Freeholder absent, no new fifties, no names, no clock/tally. Next floor 0845 from Sat 16 Sep 2023 +3..7, no 9th/11th. Card 0844 not close.

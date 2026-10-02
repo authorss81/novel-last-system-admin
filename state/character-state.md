@@ -3585,3 +3585,6 @@ Late fifties at nine: twelve feet turf two wide daisies moss spade fork foot squ
 Man ring road sits out eight 0057-0064 no second job different room reason.
 
 **Bands kept person not position: 78 twelve 0825 0834; late forties lock-up 0826 0830; early thirties ten 0827 0833; early forties unit 0828 0831; late fifties nine 0829 0832. Zero new unaged ceiling four. No ages except five.**
+
+# VOLUME 05, CONTINUATION 0065 — CHARACTER STATE AFTER CHAPTER 844
+Twelve 78: flag packed, runner shaken, sister at kitchen door then barrow. Ten early-30s: butt + path done, sister front then yard gate. Lock-up late-40s: kerb + rack leg done, books woman shut then shutter-down. Nine late-50s alone: slab + pads done, shopping woman step then kerb. Unit early-40s: brace + bench done, two-doors doorway then bucket. No new figures, no ages changed, no second hands, visitors shown not reported.
