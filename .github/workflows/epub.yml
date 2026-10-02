@@ -6,9 +6,12 @@ on:
     paths:
       - state/synopsis.md
       - state/complete.md
-  schedule:
-    # Safety net: catches a finished novel whose build request was missed.
-    - cron: "17,47 * * * *"
+  # No cron here on purpose. A schedule is a safety net while a novel is public,
+  # because public Actions minutes are free. Once a manuscript is finished the
+  # repository is made private, and a private cron spends a shared monthly
+  # allowance to rebuild a deterministic, byte-identical archive. Finished
+  # novels are stripped of this trigger by scripts/finalize_completed_novel.ps1;
+  # workflow_dispatch stays so a rebuild is still available on demand.
   workflow_dispatch:
 
 permissions:
