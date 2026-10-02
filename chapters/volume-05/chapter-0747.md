@@ -1,117 +1,161 @@
-# Chapter 0747 — The Doors Of The Lock-Up
+# Chapter 0747 — The Back Of The Van
 
-Tuesday the second of August 2022, in this borough. She is at her own lock-up from morning until the middle of the day, and the whole of it is a woman with bookings kept at the doors over a Wednesday.
+Tuesday the second of August 2022, in this borough. She is in her own yard and her own lock-up from morning until the middle of the day, and the whole of it is a strap off the board rack and a woman who wants to see what is in the van.
 
-**A WOMAN IN HER LATE FORTIES MEETS THE WOMAN WHO BOOKS WORK AT THE DOORS OF THE LOCK-UP, TALKS THE BOOKED WEDNESDAY OVER AT THE DOORWAY, AND DOES NOT BRING HER INSIDE PAST THE BENCH.**
+**A WOMAN IN HER LATE FORTIES OPENS THE BACK OF HER OWN VAN FOR THE FIRST TIME SINCE THE SPRING FOR A WOMAN WHO BOOKS WORK, TAKES A STRAP THAT HAS COME OFF ITS RING AND BINDS IT WITH A PIECE OF WIRE OUT OF HER OWN APRON BEFORE ANYBODY CAN OFFER, GIVES HER THE INVOICE PAD TO LOOK AT AND LETS THE HALL LINE GO BACK EMPTY, AND TELLS HER THAT SHE IS NOT TAKING A JOB WITH A MAN IN IT.**
 
-She is a woman in her late forties at the lock-up on Tuesday. The woman who books work comes to the doors in the morning, stands at the doorway with her, and goes no further than the doorsill.
-
----
-
-She gets to the lock-up in the morning with the white van tidy in the yard and the boards and the bolster shut in the back of it. She opens the side door and lets the morning air into the dim inside where her own bench stands with the drawer under it shut since November and the box behind it with the corner of the lid standing where she can see it. She does not touch the box. She does not touch the drawer. She puts the kettle on the ring in the corner and sets out two mugs on the bench, and then she goes to the doors and opens them wide to the yard.
-
-The woman who books work comes through the yard gate with a slip in her coat pocket and her bag over her shoulder. She stops at the doorsill and looks in at the bench and the mugs and the dim beyond.
-
-"You are early."
-
-"I am here." She stays on the inside of the sill with her hands on the door edge. "You can stop there. The inside is for work and the doorway is for talk."
-
-The woman looks at the sill and then at her.
-
-"Since when."
-
-"Since today." She does not move from the door edge. "Today we speak here and the bench stays beyond us. What have you got."
-
-The woman takes the slip out of her coat pocket and looks at it without handing it over.
-
-"Wednesday." She taps the slip with a finger. "The house two streets back from the ring road. The Wednesday booked for the fourth."
-
-"I know it." She nods. "What of it."
+She is a woman in her late forties at the lock-up on Tuesday. The woman who books work comes to the doors in the morning, stands at the bench with her, and goes out to the back of the van with her and sees the boards for the first time since the spring.
 
 ---
 
-"It is still on." The woman puts the slip back in her pocket. "I came to tell you face to face because you like it face to face. The woman wants us at first light and the van tidy and the boards in."
+She opens the place up with her own key and the van is out in the yard with the tailgate up and the boards and the bolster lying under the bench where they live, and the rag bag tied on top of them.
 
-"We will be." She keeps her hands on the door edge. "You did not need to come for that. You could have left word."
+The box is in the dark behind the bench under the rags, where it has been since the autumn. She goes down the far side of the bench with her shoulder turned so that the corner of it does not catch her sleeve, and she does not put her hand near it and she does not look at it longer than she has to.
 
-"I wanted to see you." The woman looks past her at the bench and the two mugs. "You have put two mugs out."
+She warms two mugs on the ring in the corner.
 
-"I have." She glances back at them. "One for me and one for whoever stands here with me. You can have yours here at the doorsill."
+The woman who books work comes up the yard on foot with a plastic bag over her arm.
 
-"You will not have me in."
+"I have not got a slip."
 
-"Not today." She picks one mug up and brings it to the doorway and hands it over across the sill. The steam comes up between them. "The lock-up is the bench and the box and the drawer, and I have had men in and out of it all spring, and today I want a morning where no one comes past the doors."
+"Then there is nothing on the bench."
 
-The woman takes the mug and drinks standing on the outside of the sill.
+"It is on me." She turns the bag over on her hip. "It has not got a slip because the man has not said yes on paper and he is not going to."
 
-"It is your place."
+"Then he has not agreed."
 
-"It is." She drinks from her own mug on the inside of the sill. "And today the line is here."
+"He agreed with his mouth."
 
-They drink there a while with the yard bright behind the woman and the dim behind her. A van goes past on the road beyond the yard wall. The kettle ticks in the corner as it cools.
-
----
-
-"You have the boards ready." The woman nods at the white van in the yard.
-
-"I have." She does not turn round. "Boards and bolster shut in the back. Rag bag tied. Blanket set aside. Card work in the van. Everything that goes out goes from the van and not from the bench."
-
-"And the box."
-
-She looks back over her shoulder at the box behind the bench with the corner standing.
-
-"It sits." She turns back to the doorway. "I put my knee under one end of it and the contents shifted and settled, and the strip across the join let go along one length, and I did not open it and I will not. It sits where I can see which way the lid folds over."
-
-"You never opened it."
-
-"No." She drinks. "And I am not opening it today to show you. Today you stand at the sill and I stand inside it, and the box sits behind me, and none of us goes to it."
-
-The woman looks at her over the mug.
-
-"You are short today."
-
-"I am short." She gives a short laugh. "I am short because the Wednesday is booked and the slip is in your pocket and the van is tidy, and there is nothing to settle, and still we are here at the doors talking as if there were."
-
-"There is the hour." The woman sets her mug on the sill. "She wants us at first light."
-
-"Then we come at first light." She sets her own mug beside it on the inside. "That is not new. First light is when we always come for a clearance."
-
-"And the rooms."
-
-"The rooms are as on the slip." She puts her hand on the door edge. "You have the slip and I have the van. We do not need to lay them side by side here."
-
-The woman picks her mug up again and drinks.
-
-"You will not look at it."
-
-"I will look at it on Wednesday." She shakes her head. "Today I look at you at the doorsill with a mug in your hand, and that is enough."
-
-"You have the leads shut." The woman nods past her at the bench where the drawer sits under it.
-
-"I have." She does not turn round. "The drawer under the bench has been shut since November and it stays shut. Today is not the day it opens."
-
-"And the blanket."
-
-"The blanket sits set aside since November and it stays set aside." She keeps her hand on the door edge. "You can see it from here if you look, and seeing is all today is for."
-
-The woman looks in at the dim and the bench and the box with the corner standing.
-
-"That corner stands higher than last time."
-
-"It stands where it stands." She does not look back. "I put my knee under it and it settled, and I left it, and today I do not go to it. Today the doorsill is as far as either of us goes."
+"That is not a thing I can put in a van." She puts both hands round the mug. "Give me where it is and I will go and look at it, and then you can have it in writing off me and not off him."
 
 ---
 
-They finish the mugs there. The woman hands hers across the sill and she takes it and sets both back on the bench without going further in than an arm's reach. She comes back to the doorway and stands with her hands on the door edge once more.
+"There is a shop off the ring road," the woman says, "with a back room behind where they serve, and it is full of stock belonging to a man who had a market stall and stopped. The man who has the shop now wants it out before he opens in the morning and he will be stood in there the whole time in his coat."
 
-"Then I will go." The woman steps back from the sill into the yard.
+"You told me he would be stood in there."
 
-"You will." She stays inside. "And the Wednesday stands, and the van stands tidy, and the doors stay open until you are through the yard gate."
+"I told you he would be stood in there in his coat."
 
-The woman goes through the yard to the gate with her bag over her shoulder. At the gate she turns.
+"Then I am not taking it."
 
-"You never have anyone in this place."
+"You have taken jobs with men in them."
 
-"I have." She nods from the doorway. "I have had men with keys at these doors in the evening and women with slips in the morning, and today I keep you at the sill on purpose, so that tomorrow I can remember a morning where the bench was mine alone."
+"I have taken jobs where the man is not in the room." She takes her hands off the mug. "You know what that is worth to me, so do not make me say it twice. A man stood in a back room watching a woman empty it is not a man who goes home that night and tells his wife the room is clear. It comes back at me inside a month and it comes back with a question in it."
 
-The woman nods and goes out through the gate and up the road. She stays at the doors until the sound of steps goes from the lane. Then she takes the two mugs from the bench and washes them at the standpipe in the yard, sets them back on the bench inside an arm's reach from the doorway, and pulls the doors to all but a hand width to keep the sun off the box.
+---
+
+The woman stands at the bench a while and drinks her tea and does not go at it again. Then she sets the mug down on the bench and asks what is in the van.
+
+"Nothing you have not seen."
+
+"I have not been in the van since the spring."
+
+"No."
+
+"Then open it."
+
+---
+
+She thinks about it. Then she takes two keys out of her apron and unlocks the back of the van and swings the door round on its catch and puts the boards down off the rack so the woman can get her head in past them.
+
+The boards are the boards. Three of them full size and one cut down for a narrow turn, and the bolster, and the rag bag tied on top of them with a knot that takes a person a minute to undo and about four seconds to do when you know it.
+
+The rack is across the width of the van on the side the boards slide in under, and it is kept up against the side of the van by a strap of webbing hooked over the top rail and brought back down to a ring in the floor.
+
+The strap is off the ring.
+
+The ring is there. The strap is not in it and is not anywhere else. The loose end of it is up under the rack on its own hook with the hook open, and the rack is sitting where it is because there is nothing on that side of it but the side of the van.
+
+She watches the woman find it.
+
+She does not offer to say anything.
+
+---
+
+The woman gets her head in past the boards and then her shoulders, and looks at the ring and the hook for a while.
+
+"That strap is done."
+
+"It is done."
+
+"You have had that rack come off the side of that van with the boards on it."
+
+"Twice."
+
+"Twice." She comes back out onto the step. "And you have had that strap done."
+
+"Then have it done."
+
+---
+
+The woman puts her bag down on the boards and comes out into the yard and stands over the strap.
+
+"There is a place off the ring road that does webbing and belts and nothing else," she says. "He will make you one while you wait."
+
+She does not answer that.
+
+"It is not done." She crouches down by the rack. "It is not done until somebody carries it up there, pays for it, brings it back, and I put it on. That is three days of my van and a bus fare for a strip of webbing."
+
+She goes round the front of the van, unhooks the flap on her apron, and takes out a coil of wire.
+
+It is a length of fencing wire off the loom of the tipper, about the thickness of a pencil lead gone soft, and she has carried a length of it in that apron since April, because there is nothing in a van worth going out and buying a thing for.
+
+"This has been in here since April," she says, "and it has been in here for that strap, and I have not had the strap done because I did not want to have the strap done."
+
+She gets the loose end out from under the hook and brings it round the bottom rail of the rack and up through the ring and round the other way, then back up over the top rail where the hook was, and twists the two ends together twice with her fingers, and folds them back and drives them down through the loop with the point of her own shears, and then goes round it five more times, tight, and turns the last one back into itself the way you do.
+
+It takes her the length of a song.
+
+---
+
+The woman says nothing about it at all.
+
+On Thursday there will be a strap on the rack and there was not a strap on the rack this morning, and it will have gone on by a woman who had the wire in her apron since April and did not mention it in April either. The wire is not the part she will be thinking about on Thursday.
+
+"You have just done that in front of me."
+
+"I have just done that in front of you."
+
+"You could have asked me."
+
+"You looked at it." She stands up and puts the wire in her apron. "You looked at it and you told me it was done. That is asking me."
+
+---
+
+The woman picks her bag off the boards and stands with the strap in the corner of her eye.
+
+"I want to see your pad."
+
+She takes the pad out of the door pocket of the van and hands it over, and the woman turns it round and reads it the way people read a pad, top to bottom, and then goes back to the top of it.
+
+The hall line is the one at the top and it has been the one at the top since the pad came into that van, and it has never had anything on it. There are lines under it now that were not there in June, and one of the lines further down has a date on it and nothing else.
+
+"Nothing on the top one."
+
+"Nothing on the top one."
+
+"Is that a job."
+
+"That is a hall."
+
+"A hall?"
+
+"Somebody had a hall done and I have never set eyes on the hall." She takes the pad back off her and looks at the hall line herself for a second. "It is not mine and it did not come off my own list, and it goes on the top line of a pad in a van, and that is what the top line is for."
+
+The woman hands the pad back.
+
+"You have carried that pad since April."
+
+"Since the spring."
+
+"And the hall is still the top one."
+
+"The hall is still the top one."
+
+---
+
+She came back up the lane about the middle of the day with the rag bag in the cab and the floor of the van empty, and she got out and pulled the tailgate down on its catch and went and took the rack in both hands and shook it as hard as she could.
+
+The rack did not move an inch.
+
+She stood there with her hands still on it, and then she let go of it and went out to the tip with the waste in a barrow.

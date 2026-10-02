@@ -1,145 +1,131 @@
-# Chapter 0753 — The Step At Number Nine
+# Chapter 0753 — The Key In The Bag
 
-Friday the twenty-sixth of August 2022, in this borough. She is in her own house at number nine from morning until the middle of the day, and the whole of it is a sister kept on the step at the back door.
+Friday the twenty-sixth of August 2022, in this borough. She is in her own house at number nine from morning until the middle of the day, and the whole of it is a key to her own front door that has arrived in a shopping bag without anybody being asked.
 
-**A WOMAN IN HER LATE FIFTIES TALKS WITH HER SISTER AT THE BACK DOOR OF NUMBER NINE, KEEPS HER ON THE STEP, AND DOES NOT BRING HER TO THE TABLE.**
+**A WOMAN IN HER LATE FIFTIES FINDS A KEY TO HER OWN FRONT DOOR ON A SPLIT RING IN THE BOTTOM OF THE SHOPPING BAG, GIVES THE WOMAN WHO PUT IT THERE TWO REASONS FOR NOT HAVING IT AND USES THE WORD PREFERENCE WHEN SHE IS TOLD A PREFERENCE IS NOT A REASON, PUTS IT IN AN ENVELOPE AND THE ENVELOPE IN A DRAWER WHILE THE WOMAN IS STILL ON HER STEP, WATCHES HER CARRY THE BIN UP THE PATH AND BACK DOWN IT AGAIN WITHOUT HAVING ASKED HER TO, AND STANDS ON HER OWN STEP WITH THE DOOR SHUT BEHIND HER.**
 
-She is a woman in her late fifties at number nine on Friday. Her sister comes to the back door in the morning, stands on the step with her, and goes no further than the step.
-
----
-
-She is in the kitchen from morning with the back door shut true and the card at the hinge where it has been since March. The fire sits unlit. On the fridge the pads stand in their stack with the first one at the bottom. She puts the kettle on and takes down two cups, and then she hears the knock at the back, which is her sister's knock, and goes to answer it with the cups still on the side.
-
-Her sister stands on the step with her bag on her arm and her coat over it, looking past her into the kitchen with the table and the chairs beyond it.
-
-"You are up," her sister puts one foot on the step and does not come over it.
-
-"I am up." She opens the door wider and stands in the doorway with her hand on the door edge. "You can stop there. Today the step is the place."
-
-Her sister looks at the doorway and then at her.
-
-"Since when."
-
-"Since today." She does not move from the doorway. "Today we speak here and the table stays beyond us. What did you come for."
-
-Her sister nods past her at the kitchen.
-
-"That." She tips her chin. "I came to sit with you."
-
-"Not today." She keeps her hand on the door edge. "Today you stand with me here and we speak here, and the kitchen stays beyond us."
-
-Her sister lets out a breath.
-
-"You have had me to that table."
-
-"I have." She nods. "And today the table is for no one. Today the step is enough."
+She is a woman in her late fifties at number nine on Friday. The woman who does her shopping stands on her front step in the morning with the bag and will not come inside, and the whole of it is done through the open door and once in the yard at the back.
 
 ---
 
-Her sister sets her bag down on the step by her feet and does not bring it over the doorway.
+The step does not rock.
 
-"You will not have me in."
+She has not been up on it more than she has had to since the Sunday, and she has not looked down at the nest in the low corner of it either, and there is nothing in it and that is as far as that goes.
 
-"Not today." She stays in the doorway. "The kitchen is the pads and the fire and the stools beyond, and today I want a morning where no one sits at that table and looks at those things."
+The knock comes at the front door at the usual hour on a Friday, the same knock, and the step takes it without any of the give that used to be in it.
 
-Her sister looks at her for a moment.
-
-"What did you want to speak of, then."
-
-"The shopping." She glances toward the road without leaving the doorway. "The woman comes to the front door and I meet her on the step, and today I do the same with you at the back. I wanted you to see that the step is the place for talk today."
-
-Her sister laughs a little without smiling.
-
-"I am your sister and she is the shopping."
-
-"You are both visitors." She keeps her hand on the door edge. "And today both are met at the door. That is not the same as saying you are the same. It is saying today is the day I keep the doorway."
-
-The kettle begins to sound in the kitchen behind her. She does not go to it. Her sister glances past her toward it.
-
-"Go and take it off."
-
-"It can sing." She stays at the doorway. "It has water enough and the stove is low. If I go to it you will follow me in, and then we will be at the table, and I do not want that this morning."
+The woman is standing there with the bag on her hip.
 
 ---
 
-They stand there a while with the yard bright behind her sister and the house dim behind her. The pads stand on the fridge out of sight. The fire sits unlit. The shopping bag from the week sits folded by the back door.
+She took the bag in without going out on to the step, and the milk went into the cold box of the fridge and the bread went on the table.
 
-"You never keep me out," her sister shifts her bag on the step.
+The six pads are on the front of the fridge with the first one at the bottom of the stack where she has not put it back on top, and the first one is crossed twice and the second one is crossed once, and the woman does not look at them now because she read all six out loud in this kitchen in July and that is done.
 
-"I keep you here today." She keeps her hand on the door edge. "Today the frame is the line. You on the step and me in the doorway, and the table beyond us both."
+The fire has been out since Easter and the front room is shut, and neither of them goes near the grate or the door.
 
-"You will not even pour."
+There is a key on the table in the middle of the kitchen where the bag has been emptied out.
 
-"No." She shakes her head. "Today no cups. Today the kettle sings and no one pours until you have gone."
-
-Her sister picks her bag up and puts it down again in the same place.
-
-"That is a poor visit."
-
-"It is short." She gives a short laugh. "Short is not the same as nothing. You came to the back door and you stopped at the step, and I met you there, and neither of us went past it."
-
-Her sister looks at her straight.
-
-"And if I will not go."
-
-"Then we stand here longer." She does not move from the doorway. "The step does not move and the frame does not move, and we can speak here as long as the morning lasts."
-
-Her sister considers this, and then she steps back half a pace on the step to show she will stay.
-
-"Then speak."
+It is on a split ring with a paper label round it that somebody has written the street on in ballpoint, and it is a key to the front door of number nine.
 
 ---
 
-"What shall we speak of."
+She did not pick it up straight away.
 
-"The bulb." She nods toward the front room door standing shut beyond the kitchen. "Sixty watts and no more, and it is off today, and the stools sit dusted, three oak and one ash, and no one sits on them today."
+She looked at it for a second and then she picked it up and turned it over, and it is a cut key and not a blank, and the paper label round the ring is damp on the underside where it has been in the bag, and there is a smear of grease on the bow of it off somebody's pocket.
 
-"That is the front room."
+"What is this."
 
-"It is." She does not turn round. "Shut, with the door to, and today it stays shut. From here you cannot see it, and that is the point. Today you do not need to see it."
+"That is your door." The woman gets her cardigan half off and stops. "I had it cut on Thursday."
 
-Her sister looks past her into the kitchen without moving her feet.
+"You had my front door cut."
 
-"I can see the table."
+"On Thursday. It was no trouble. The man does it at the till in about a minute, and if you buy the blanks off him he does not ask you anything for it."
 
-"You can see it from here and no closer is needed." She puts her other hand on the door edge as well. "Two chairs and the cloth and the cups on the side, and the pads beyond on the fridge with the first at the bottom. That is all today is for."
-
-Her sister lets out a breath and picks up her bag.
-
-She looks back toward the kitchen where the kettle sits singing low and the cups on the side wait cold.
-
-"You put two out." Her sister nods at the doorway as if she can see through it.
-
-"I did." She keeps her hand on the door edge. "Two on the side and the kettle on, and today they sit there still. Today no one pours while we speak here."
-
-"You will pour after I go."
-
-"I will." She nods. "One for me, and the bag to fold, and the pads on the fridge untouched. That is the rest of the morning."
-
-Her sister looks at the yard where the sun moves along the wall.
-
-"You keep the fire unlit." She nods past her.
-
-"Since Easter." She does not turn round. "And it stays unlit. From the step you cannot see it, and today you do not need to. Today the step is the whole house."
+"You had my front door cut and you have not mentioned it."
 
 ---
 
-"Then I will go."
+"I have been standing on your step in the wet in July and it took you a time to come to the door."
 
-"You will." She stays in the doorway. "And the table stays as it was, and the step will be empty again."
+"The front room is shut."
 
-Her sister goes down the step to the yard with her bag on her arm. At the yard gate she turns.
+"It is shut."
 
-"You never asked me in."
-
-"I did not today." She nods from the doorway. "You came to the back door and you stood on the step, and we spoke there. That is enough to remember you by."
-
-Her sister nods and goes out through the yard gate and up the lane. She stays in the doorway until the steps go from hearing. She looks once more at the step where her sister stood, empty now in the sun.
-
-"You stood there." She speaks the words aloud to the empty doorway, trying how they sound. "And I stood here."
-
-The kettle ticks as it cools. The pads stand on the fridge with the first at the bottom. The fire sits unlit. The step sits empty, and the frame sits between, and the morning goes on round them.
+"Then there was nobody at the front door at all," the woman says. "There was a step and a keyhole and nobody coming, and I stood on it long enough for the people at your neighbour's to come out and look at me."
 
 ---
 
-Then she takes the kettle off the stove and pours a single cup, carries it to the back door and stands there with it in both hands, looking out at the empty step where her sister stood, and drinks it there with the door open to the yard.
+She puts the key down on the table and pushes it away from her with one finger.
+
+"No," she says. "You have not heard me out."
+
+"You have said it in one sentence and I have said no in one word, and they are the same length, so you have been heard out."
+
+"Then say why."
+
+"I am not going to stand at my own kitchen table and argue about a key," she says. "Take it out of the bag and put it back where it came from and we will have the tea."
+
+---
+
+"There are two things I could say, and you are not going to get both of them at once, and you will get the second one if you push me, so do not push me."
+
+"I am not going to push you."
+
+"The first one is that I have been out on a Thursday twice since April and you have knocked on a shut house and stood on my step, and I did not know you were standing on it. That is not good to have done to somebody."
+
+She went out into the yard to be out of that, and came back in through the back door with a card at the hinge that shuts true.
+
+"The second one is that I do not want to be in a house where nobody ever waits at my door again."
+
+"That is not a reason. That is a preference."
+
+"Yes," she says. "It is a preference, and I am entitled to one, and I have not had a great many of them since the spring."
+
+---
+
+She went to the drawer in the kitchen and put the ring off her hand into an envelope and folded the flap over and put the envelope in the drawer and shut the drawer, all of it while the other woman was still standing on the step.
+
+"You will not come to the front door if I have that key?"
+
+"I will come to the front door every Friday until one of us cannot."
+
+"You will stand out here in the rain."
+
+"I have stood out here in the rain since April," the woman says, "and you have watched me do it from your front room, which is shut, so you have not. And I have not minded. And it is the only thing either of us does all week that we would both call a conversation."
+
+---
+
+"You are not going to come in."
+
+"Not this morning."
+
+"Then I will leave the bag."
+
+"Put the bag on the step and go on, and I will come out for it."
+
+The woman put the bag on the step, stood there a moment looking at the nest in the corner of it the way everybody looks at a thing they have been told about, and then went off up the lane, and she stood in the doorway and watched her go.
+
+That was the last time that woman came to that door. She did not know it and there was no way of knowing it.
+
+---
+
+Then the woman came back up the lane about half an hour later and stopped at the gate.
+
+She did not knock. She went straight to the bin, got both hands on the bar of it, and carried it up the front path by herself the way it had been carried up on the Sunday, round the side with the rail, and left it out at the far side where it will stay until somebody gets it in.
+
+Then she came back down the path, and stopped at the gate, and said, to nobody in particular, "Have you tried to get that round the rail on your own."
+
+The door opened.
+
+She did not answer, and she went away up the lane with her hands in her pockets.
+
+---
+
+She stood on her own front step after the lane had gone quiet.
+
+The step does not rock, and there is a nest in the low corner of it with nothing in it, and the envelope is in the drawer in the kitchen with the string handles and a tin of drawing pins, and she is not going to open it this afternoon.
+
+The bin is out at the far side of the house and it is going to stay out there until she gets it in herself, and she is going to have to ask somebody or leave it.
+
+She stood on the step and looked down the front path at the gate and along the front of the house where the bin was not.

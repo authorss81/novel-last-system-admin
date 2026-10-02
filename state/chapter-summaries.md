@@ -1825,25 +1825,25 @@ The first eight lines below are unchanged from the block as first written. 0727 
 
 ## 0745–0754
 
-0745, Tuesday 26 July. Woman of seventy-eight keeps her sister in the passage at twelve over the brush, speaks there, does not bring her to the kitchen. Ends at the gate, then tea alone in the green chair.
+0745, Tuesday 26 July. Woman of seventy-eight at twelve finds the bin at the kerb that her sister has been taking out and bringing back for a fortnight, lets her do it again that day, and neither of them says one word about it. A washday is settled for the Wednesday after. The bin comes back with the lid on the bottom and she turns it over without saying anything. Ends with it standing the right way up and the kettle on the ring again.
 
-0746, Saturday 30 July. Man in early forties meets a lad with a van at the roller door, talks gates and posts at the track, does not bring him to the bench. Ends marking at the bench.
+0746, Saturday 30 July. Man in early forties at the unit finds the loose post of his own yard gate packed with six turns of wire driven down the split from the top down, and works out that he cannot undo it without taking the post out of the ground. A woman from two doors down comes to the roller door about her mother's key and does not get it. Ends with the bolt in its keeper, the latch hooked back over the gate, and the post untouched.
 
-0747, Tuesday 2 August. Woman in late forties meets the booking woman at the lock-up doors over the Wednesday, does not bring her past the bench. Ends with doors to a hand width.
+0747, Tuesday 2 August. Woman in late forties at the lock-up opens the back of her own van for the first time since the spring, finds a strap has come off its ring on the board rack, and binds it with fencing wire out of her own apron before the woman who books work can offer to have a new one made. Refuses her an afternoon twice. Gives her the invoice pad. Ends with the rack shaken as hard as it will shake and not moving.
 
-0748, Sunday 7 August. Woman in late fifties keeps the shopping woman on the step at the front door of nine, talks shopping there, does not open the front room. Ends putting shopping away.
+0748, Sunday 7 August. Woman in late fifties at nine finds there is no broom in that house, turns the front step over on a Sunday morning after being told twice it cannot be done on a Sunday, and finds forty years of paint on the underside and an old empty nest in the low corner. Carries the shopping bin up her own front path and down it again rather than let it be carried for her. Ends with the nest pressed back into the corner of the step.
 
-0749, Wednesday 10 August. Woman in early thirties meets her sister at the gate of ten over the felt, does not bring her up the yard. Ends standing at the window.
+0749, Wednesday 10 August. Woman in early thirties at ten finds the dustpan emptied and stood out by somebody, tells the boy over the fence to stop doing her yard without telling her, empties the trough by hand with six buckets in the middle of the day for the first time since May, and says out loud that the ninety yards are not a distance she is refusing on principle. Ends with her own gate hooked back on its latch.
 
-0750, Sunday 14 August. Woman of seventy-eight keeps a duster woman at the kitchen doorway of twelve over the front room, does not let her past. Ends washing cups at the sink.
+0750, Sunday 14 August. Woman of seventy-eight at twelve, and the path at the back has not been swept in ten years and there is no broom in the house. A woman who does the front steps comes to say in person what she has been refusing by letter, sees the path, and sweeps it. She is neither stopped nor thanked. The bin goes out at the kerb by her own hand for the first time since the middle of July. Ends in the kitchen with a bare table and no going out to look.
 
-0751, Wednesday 17 August. Man in early forties meets the cottage man at the yard gate over the posts, does not walk him to the bench. Ends marking alone.
+0751, Wednesday 17 August. Man in early forties at the unit sweeps his own bench first thing and finds it swept again in the middle of the day with his own shavings lying on the clean part, works out that somebody came while he was in the yard, and decides not to ask. The woman from two doors down is sweeping her own path across the lane. He carries his own bin out to the kerb for the first time since the spring. Ends with the bench swept again over the top and the roller door pulled down to belt height.
 
-0752, Tuesday 23 August. Woman in late forties stands with the booking woman by the yard wall over the van and boards, does not open the doors. Ends standing at the doors.
+0752, Tuesday 23 August. Woman in late forties at the lock-up refuses the woman who books work an afternoon twice and refuses her a sash window off a job from June twice, tells her why once each time and will not say either again. Puts the window into the roof of her own greenhouse on her own, writes the address of that bungalow on the underside of it in pencil, and says nothing to anybody. Ends in her own yard looking at the whole glasshouse thrown up on the wall behind her with one bright square in it.
 
-0753, Friday 26 August. Woman in late fifties talks with her sister on the step at the back door of nine, does not bring her to the table. Ends standing at the back door with a cup.
+0753, Friday 26 August. Woman in late fifties at nine finds a key to her own front door in the bottom of the shopping bag. Gives two reasons for not having it and uses the word preference when she is told a preference is not a reason. Puts the ring into an envelope and the envelope into a drawer while the woman is still on her step. The woman will not come inside, and comes back half an hour later and takes the bin out without knocking. Ends on her own step.
 
-0754, Tuesday 30 August. Woman in early thirties talks with a boy over the fence at ten over a ball, stays her side. Ends washing a cup at the sink.
+0754, Tuesday 30 August. Woman in early thirties at ten tells the boy over the fence that she is not going to be asking him for anything ever again, and he says she can. Finds the dustpan full and empties it herself. Puts his ball back over the fence at him instead of down the garden. Hears a ply offcut come off her own shed in the first wind, carries it back up the yard and stands it again at the same angle against the same loose felt, and does not go out to it.
 
 ## 0755–0764
 

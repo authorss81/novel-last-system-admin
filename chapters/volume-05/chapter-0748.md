@@ -1,135 +1,161 @@
-# Chapter 0748 — The Front Door
+# Chapter 0748 — The Front Step Over
 
-Sunday the seventh of August 2022, in this borough. She is in her own house at number nine from morning until the middle of the day, and the whole of it is a shopping bag kept on the step at the front door.
+Sunday the seventh of August 2022, in this borough. She is in her own house at number nine from morning until the middle of the day, and the whole of it is a front step that has gone round under her and a bin that somebody else has been carrying round since April.
 
-**A WOMAN IN HER LATE FIFTIES KEEPS THE WOMAN WHO DOES HER SHOPPING AT THE FRONT DOOR OF NUMBER NINE, TALKS THE SHOPPING OVER ON THE STEP, AND DOES NOT ASK HER INTO THE FRONT ROOM.**
+**A WOMAN IN HER LATE FIFTIES FINDS THAT THERE IS NO BROOM IN THAT HOUSE, TURNS THE FRONT STEP OVER ON A SUNDAY MORNING AFTER BEING TOLD IT CANNOT BE DONE ON A SUNDAY, FINDS FORTY YEARS OF PAINT ON THE UNDERSIDE AND AN OLD EMPTY NEST IN THE LOW CORNER OF IT, PUTS THE NEST BACK IN THE CORNER WHEN THE STEP IS BACK DOWN, AND CARRIES THE SHOPPING BIN UP HER OWN FRONT PATH AND DOWN IT AGAIN RATHER THAN LET IT BE CARRIED FOR HER.**
 
-She is a woman in her late fifties at number nine on Sunday. The woman who does her shopping comes to the front door in the morning, stands on the step with her, and goes no further than the step.
-
----
-
-She is in the kitchen from morning with the back door shut true and the card at the hinge where it has been since March. The fire sits unlit as it has sat since Easter. On the fridge the pads stand in their stack with the first one at the bottom where she left it and did not put it back on top. She looks at them while the kettle boils and does not touch them. She puts her own bag by the back door and her purse in her apron pocket, and then she hears the knock at the front, which no one used before July, and goes through to answer it.
-
-The woman who does her shopping stands on the step with a bag in each hand and her coat done up though the morning is mild.
-
-"You are up," she steps back to give room on the step and does not come over it.
-
-"I am up." She opens the door wider and stands in the doorway with her hand on the door edge. "You can stop there. Today the step is the place."
-
-The woman looks at the doorway and then at her.
-
-"Since when is the step the place."
-
-"Since today." She does not move from the doorway. "Today we do the shopping on the step and the front room stays beyond us. What have you got."
-
-The woman sets one bag down on the step and has the other out in her hand.
-
-"Yours." She nods at it. "Bread and tea and soap, as on the list. And your jug lid is in there at two layers, as you wanted."
-
-She takes the bag and sets it down inside the doorway by her feet without going back into the house for it.
-
-"You remembered the layers."
-
-"I did." The woman smiles a little. "Two and no third. The third refused, as you said."
-
-"As I said." She puts her hand on the bag. "And I thank you for it."
+She is a woman in her late fifties at number nine on Sunday. The woman who does her shopping stands on her front step in the morning with the bag, and she is let in through the front door, and the two of them are in the kitchen and then on the step and then in the front path.
 
 ---
 
-The woman picks up the second bag, which is her own, and sets it down on the step beside her feet. She does not bring it over the doorway.
+The woman who does her shopping has a key to the back door and has never had a key to the front one, so she comes to the front and stands on the step, which is what she has done since about April.
 
-"You will not have me in."
+She is standing on it with the bag at her feet when the door opens.
 
-"Not today." She stays in the doorway with her hand on the door edge. "The front room is the stools and the bulb and the dust, and I have had no one past this door since you began coming to it, and today I want to keep it that way on purpose."
+"That is the step going round," she says. "I have been putting my heel in the same place every Friday for months and I have been blaming the bag."
 
-The woman looks past her into the hall and the doorway beyond it where the front room door stands shut.
+The door opens in. It has always opened in, which is why a step can be turned over without touching the door.
 
-"You never sit in there."
+The top of it is white and gone chalky, with a worn hollow running from one side at the top to the other at the bottom, so that anybody who stands on it puts their weight on one corner.
 
-"I sit in there when there is need." She shakes her head. "Today there is shopping on the step and no need. We can speak here."
+"Well. We will have to turn it."
 
-"What did you want to speak of."
+"Not on a Sunday."
 
-"The pads." She glances back toward the kitchen where the fridge stands out of sight. "You read them all out once and I put the first one at the bottom, and I have left it there, and I wanted you to see that I have not put it back on top."
+"It is a step."
 
-The woman laughs softly.
-
-"I saw nothing of it today. I am on the step."
-
-"You saw it once." She keeps her hand on the door edge. "Once is enough. You read all of them aloud and I admitted I could not account for the first being crossed twice, and I refused you the fifth outright, and you put them back with the first at the bottom. I have not touched them since."
-
-"You have left them."
-
-"I have." She nods. "And today you stand on the step and I stand in the doorway, and the pads stay on the fridge, and no one reads them."
+"It is a Sunday," the woman says, "and I am not having a step pulled up on a Sunday with nobody else in the house."
 
 ---
 
-They stand there a while with the road quiet behind the woman and the house dim behind her. A cat goes along the opposite wall and drops out of sight. The shopping bag sits inside the doorway by her feet.
+The woman stands in the doorway, one arm up on the frame, and looks at the step from the side.
 
-"You have the stools dusted." The woman nods past her toward the shut front room door.
+"You could turn it tomorrow. First thing."
 
-"I have." She does not turn round. "Three oak and one ash, and they were sat on once and dusted, and today no one sits on them. Today the door to that room stays shut."
+"And who is in this house tomorrow."
 
-"And the bulb."
+"You are."
 
-"The bulb burns when it is wanted." She keeps her hand on the door edge. "Sixty watts and no more. Today it is off and the room is dark, and we speak here in the daylight on the step."
+"Then it will keep till the Tuesday."
 
-The woman shifts her own bag on the step.
+"The Tuesday is when the front door gets done."
 
-"That room is never used."
+"That is the door, and that is the step, and you have been putting me off with the door since June." The woman shifts the bag on the step clear with her foot. "And it has not been up at all."
 
-"It is used when there is need." She shakes her head. "Today the need is on the step. The shopping in your hand and mine, and the pads on the fridge untouched, and the room beyond us shut."
-
-"You are different today," the woman bends to her own bag and straightens again.
-
-"How."
-
-"You keep me out and you do not explain it beyond today." The woman looks at her straight. "Most weeks you explain."
-
-"Most weeks I have a reason." She keeps her hand on the door edge. "Today the reason is the step. The step is enough."
-
-"You will not even have me over it for tea."
-
-"No." She shakes her head. "Today no tea. Today the shopping goes over the step and we speak there, and then you go with your own bag, and I take mine in."
-
-The woman considers this.
-
-"And if it rains."
-
-"It is not raining." She looks at the sky over the road. "And if it were we would still speak here, with our coats done up, because today is the day I keep the doorway."
-
-She looks back toward the kitchen where the kettle sits on the side, cold now, and the cups beside it that no one has used.
-
-"You put two cups out most weeks." The woman nods at the doorway as if she can see through it.
-
-"I do." She keeps her hand on the door edge. "Two on the side and the kettle on, and today they sit there still. Today the cups stay where they are and we speak here."
-
-"You will pour after I go."
-
-"I will." She nods. "One for me and the pot to warm, and the bag to put away, and the pads on the fridge untouched. That is the rest of the morning."
-
-The woman looks at the sky where cloud moves thin over the road.
-
-"You keep the back door true." She nods past her. "With the card at the hinge."
-
-"I do." She does not turn round. "Since March, and it shuts as it should. From the step you cannot see it, and today you do not need to. Today the front step is the whole house."
-
-"You are proud today."
-
-"I am steady." She gives a short laugh. "Steady is enough for a Sunday with shopping on the step."
+"I have had a woman round about it twice and she said she would send somebody and sent nobody," she says. "And the one time she came herself she had a man with her, and it was a Tuesday, and I did not like the look of him, so I told him to go. That is the end of it."
 
 ---
 
+"You have not had it up."
 
+"Not a hand."
 
-"Then I will go."
+"Then I will bring my son."
 
-"You will." She stays in the doorway. "And you will come again in the week, and then we will see where we speak."
+"You will not bring your son. He has done a step in ten minutes."
 
-The woman goes down the step to the road with her bag on her arm. At the road she turns.
+"Your son does other work. That is not an insult to your son. If I have a man in on a Sunday morning about a step, then in a month I will have a man in about the door, and by the spring I will be ringing people because there is a man in the house. I have been on my own here since the spring and I have managed, and I am not starting it over a step with a hollow in it."
 
-"You never asked what was on my list."
+The woman picks the bag up off the step.
 
-"I did not need to." She lifts her hand off the door edge and lets it fall again. "You had my bag and your bag, and mine came over the doorway and yours stayed on the step, and we spoke of pads without reading them. That is enough to remember you by."
+"Then turn it yourself. You have got a bar."
 
-The woman nods and goes off up the road with her bag. She stays in the doorway until the steps go from hearing. Then she picks up her own bag from inside the doorway, shuts the front door, and carries the bag through to the kitchen where she sets it on the table and takes out the bread and the tea and the soap, and the jug lid at two layers, and puts each away in its place.
+"I have got a bar."
+
+"You have got a screwdriver and a knife and a bit of bar under the sink where your mother kept it."
+
+---
+
+"Do you have a broom," she says.
+
+"Then you have not got one, and that is the whole of it. Every step in this street has got a broom in it and you have not. I have done two down from this gate every Friday since I started, and nobody in this street has less in the house than you have."
+
+"Then there is nothing to be done about it."
+
+"There is nothing to be done about it," the woman says, "and I have swept two steppers every Friday since I started, and I have never once swept a step there was nothing to sweep it with."
+
+---
+
+They go in through the front door and through to the kitchen, and the bag goes on the table, and the milk goes into the cold box of the fridge, which is on the other side and shut. The back door has a card at the hinge and shuts true, and the woman who does her shopping has a key to it and did not come round to it.
+
+The six pads are on the front of the fridge with the first one at the bottom of the stack where she has not put it back on top, and neither of them looks at them. The fire has been out since Easter.
+
+She gets the bar from under the sink where her mother kept it and a piece of packing board off the roll.
+
+"It will have to come up on the long edge. It will not lift straight, it is forty years down, and the mortar under it has gone to dust on one side. Give me the heel of your hand and not your foot."
+
+---
+
+It comes up on the long edge, and the mortar underneath is a grey dust gone into the joints of the paving either side of it.
+
+The underside of it is black. Not dirty black. Forty years of whatever was brushed onto it before it was laid, gone to a hard skin like the skin on a bean left in a shed. It is in one piece and it has never seen light.
+
+And there is a hollow in one corner of it about the width of two fingers, and in the hollow there is an old nest.
+
+It is made of what there is out of a street. A bit of string. Two or three pieces of green yarn. A cigarette paper folded. Horsehair off a brush. All of it grey and dry and packed flat, and it has been in that dark corner so long that it is part of the step now. There is nothing in it.
+
+"You have got a bird's nest in the bottom of your step," the woman says.
+
+"It has been dead a long time," she says.
+
+"It could be any time. You cannot tell that."
+
+---
+
+She carries it into the kitchen and puts it on the table beside the bag.
+
+"That goes in the bin."
+
+"That goes on the step," she says. "It will be on that step in the spring when whatever laid it comes back and finds the step gone."
+
+"There is a step in this house and it has just been off it."
+
+"Then it goes on when the step goes back."
+
+She puts the bar under the long edge and got it over on its side, and they got it down the other way up, and it went down on the old mortar bed without a sound, because there was dust in it and dust slides, and she drove the packing under the corner with the handle of the screwdriver and hit the back of it with the heel of the bar till it sat down.
+
+She put her weight on it and rocked her heel and it did not move. The hollow is still there in the middle of it and it will always be there, and that is forty years of one door.
+
+---
+
+The woman went at the bin.
+
+It is the wheelie bin and it has gone to the front and back down the front path on a Friday since April, and she came up the path with the bag on her shoulder and did not let her near it.
+
+"You have been on that step for an hour," she says. "You have been on your knees in the sun and you have turned a step, and you are not carrying that bin."
+
+"I will carry the bin."
+
+"I have carried the bin every Friday since April and I have never once asked you," she says, "and I am not taking it off you now on the ground that I am turning a step."
+
+The woman stopped on the path.
+
+"You are turning a step."
+
+"I am carrying a bin, and then I am having my tea, and then you can go."
+
+So she carried the wheelie bin up the front path by herself, past the woman, round the side with the rail, and left it out at the far side, and came back down and up her own front step, which did not rock.
+
+Then she put the kettle on and drank her tea, and the nest was on the table beside the bag with nothing on either of them.
+
+---
+
+The woman went at about the middle of the day.
+
+She stood on the step in the doorway with the bag empty and looked down at it.
+
+"That is not round any more."
+
+"It is not round any more."
+
+"It will go again. It will be worse than this by next winter and you will be having a man in."
+
+"It will go again," she says. "It has been going round since before I came to this house and it will go round again, and that is why it was done today and not on a Tuesday in the rain."
+
+The woman went off down the path and through the gate.
+
+She washed the cups and put them on the shelf, washed the bar and the screwdriver and put them back under the sink, swept the grit off the flags at the bottom of the step and came back for the nest.
+
+She rocked her heel on the step to see whether it was still true, and it was.
+
+Then she set the nest down in the low corner of it where it had been and pressed it with the ball of her hand so that the wind would not take it.

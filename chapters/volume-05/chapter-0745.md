@@ -1,127 +1,131 @@
-# Chapter 0745 — The Brush On The Runner
+# Chapter 0745 — The Bin At The Back Gate
 
-Tuesday the twenty-sixth of July 2022, in this borough. She is in her own house at number twelve from morning until the middle of the day, and the whole of it is a sister kept in the passage over a brush no one lifts.
+Tuesday the twenty-sixth of July 2022, in this borough. She is in her own house and her own yard at number twelve from morning until the middle of the day, and the whole of it is a bin that has been going out on its own for a fortnight and a path that has not been swept at all.
 
-**A WOMAN OF SEVENTY-EIGHT KEEPS HER SISTER IN THE PASSAGE AT NUMBER TWELVE OVER THE BRUSH ON THE RUNNER, SPEAKS WITH HER THERE THROUGH THE MORNING, AND DOES NOT BRING HER INTO THE KITCHEN.**
+**A WOMAN OF SEVENTY-EIGHT FINDS THAT HER SISTER HAS BEEN PUTTING THE BIN OUT AT THE BACK GATE AND BRINGING IT BACK FOR A FORTNIGHT, LETS HER PUT IT OUT AGAIN THAT DAY WITHOUT EITHER OF THEM MENTIONING THAT SHE KNEW, AGREES A WASHDAY FOR THE WEDNESDAY AFTER, AND GOES ON AT A KITCHEN TABLE WITH NOTHING ON IT.**
 
-She is a woman of seventy-eight at number twelve on Tuesday. Her sister comes to the back door in the morning, stands in the passage with her, and goes no further than the runner.
-
----
-
-She is in the kitchen from morning with the stove warm and the green chair out from the table. On the right of the table the gas envelope lies face up and square with the edge, pencil side up. On the left the taped box sits under its cloth squared with the edge on three sides. She does not touch either of them. She puts the kettle on and takes a cup down and sets it by the stove to warm, and then she goes to the back door to look at the yard because the morning is bright and the gate stands propped back the way it has stood since September.
-
-The passage light burns above her as it has since June. The brush lies across the runner where it has lain for months. She steps over it with her hand on the wall, the way everyone does in this house, and goes to the back door and opens it to the yard air.
-
-Her sister knocks at the back door before the kettle boils, with her bag on her arm and her cardigan over it.
-
-"You are up," her sister puts her hand on the doorframe and looks past her into the passage.
-
-"I am up," she pulls the door wider and stands back from it so her sister can see the passage and the runner and the brush across it. "You can come as far as the runner."
-
-Her sister steps inside and stops at the runner. She looks down at the brush.
-
-"You step over that every day."
-
-"I do." She keeps her own feet on the kitchen side of it. "Everyone does."
-
-"Why is it there."
-
-"It lives there," she says. "It has lived there since the spring and no one has lifted it, and I am not lifting it today."
+She is a woman of seventy-eight at number twelve on Tuesday. Her sister comes to her back door in the morning, and they speak in the yard and afterwards in the kitchen, and the bin goes out to the kerb with her sister while she stands at the gate and watches it go.
 
 ---
 
-Her sister sets her bag down by her feet on the passage floor and does not go round the brush. She looks along the passage toward the kitchen doorway and the light coming out of it.
+She is in the kitchen with the stove warm and the green chair out from the table. The table is dead flat on the card shim under the window-side leg and it does not rock. On the right of it the gas envelope lies face up, square with the edge of the table, the pencil side up. On the left the taped box sits under its cloth squared with the edge on three sides. Between them the table has nothing on it at all.
 
-"You will not have me in the kitchen."
+She puts the kettle on and takes down two cups and sets them by the stove to warm. The passage light is burning above her where it has burned since June, and the brush lies across the runner where it has lain since the spring and she steps over it with her hand on the wall on the way out. The front room door is shut and the folding ladder is under its window with the tape on the second rail, and she goes past both of them.
 
-"Not this morning." She stays where she is with her back to the kitchen. "The kitchen is the table and the envelope and the box, and I have the kettle on, and I want a morning where no one sits at that table and looks at those things."
+Out at the back step she stops, because the yard has the bin standing at the kerb.
 
-"You have had me at that table before."
+Not by the gate. At the kerb, out past the gate, standing on the pavement with its lid on and its two wheels down and the handle turned out towards the road the way it goes when somebody has meant to put it back properly and not just shove it at the gate.
 
-"I have." She folds her arms across her apron where the two drop bolts ride in the pocket. "And today the table is not for sitting at. Today you stand with me here and we speak here, and the kitchen stays beyond us."
-
-Her sister looks at her for a moment.
-
-"Is the stove on."
-
-"It is warm." She nods toward the doorway. "You can feel it from here."
-
-"I can feel it." Her sister does not move her feet. "What did you want me for, then, if not the table."
-
-"I wanted you to see the brush." She looks down at it. "I wanted someone else to see that I step over it and do not lift it, and to hear me say so out loud."
-
-"You have told me that before."
-
-"I have not." She shakes her head. "I have stepped over it in front of you. I have never asked you to watch me do it and say nothing about it."
+She stands on the step and looks at it.
 
 ---
 
-They stand on either side of the brush for a while. The kettle begins to sound in the kitchen. She does not go to it. Her sister glances toward the doorway and then back at her.
+"You have got the wrong end of that house," she says. "The step is on the other side of that door. You want to come round."
 
-"Go and take it off," her sister tips her chin toward the kitchen. "It will boil dry."
+"I have come round." Her sister comes out through the gate with her sleeve pushed up and a cigarette going. "It was back against the wall. I came round the yard the way you would."
 
-"It will not." She stays with her feet planted. "It has water enough and the stove is low. It can sing a while."
+"It is always back against the wall. Come in and do not stand out there."
 
-"You always go to it."
+"I have been coming through that gate since April," her sister says.
 
-"Today I do not." She puts her hand on the wall where the paint is smooth from hands going along it. "Today I stay here and let it sing, because if I go into the kitchen you will follow me, and then we will be at the table, and then we will be looking at the envelope, and I do not want that this morning."
-
-Her sister picks her bag up and puts it down again in the same place.
-
-"That envelope has been on that table for months."
-
-"It has." She does not turn her head. "And it will be there when you have gone. It is face up and square with the edge and I have not turned it over and I am not turning it over today."
-
-"I was not asking about it."
-
-"You were going to." She gives her sister a straight look. "You come to the back door and you stand in the passage and after a while you ask about the table, because the table is in the next room and you can see the light from it. Everyone does."
-
-Her sister lets out a breath through her nose.
-
-"And if I do not ask."
-
-"Then we will have had a visit where no one asked." She lets her hand drop from the wall. "That would be a new thing."
+"I know you have. Come in."
 
 ---
 
-The kettle sings louder and then eases. She listens to it the way she listens to the bathroom in the night, for the absence of a sound she has lived with. Her sister listens too, with her arms folded and her bag at her feet.
+Inside they drink the tea standing, and her sister goes over to the window and looks at the bin through the glass over the sink.
 
-"Step over it with me," she says after a while.
+"That has gone out since about the middle of the month. Not yesterday. I have come at eleven and at twelve and it has been at the kerb, and I have not mentioned it because it wanted doing."
 
-Her sister looks down at the brush.
+"How long has it wanted doing."
 
-"Which way."
+"A fortnight. Maybe more."
 
-"To the kitchen side." She steps back to give room. "Come over it and stand with me on this side, and then go back. I want to see someone else do it."
+"A fortnight," she says. "And you have come twice a week."
 
-Her sister lifts her skirt a little and steps over the brush and stands beside her on the kitchen side of the runner. The two of them stand close in the narrow passage with the light burning above them. Then her sister steps back over it to the door side.
-
-"There." Her sister smooths her skirt. "I have done it."
-
-"You did not lift it."
-
-"No." Her sister looks at the brush. "It is in the way and I went round it by going over it, the way you do."
-
-"That is the whole of it." She feels something ease in her chest. "It is in the way and we go over it, and no one lifts it, and today someone else has done it on purpose and seen herself do it."
-
-Her sister picks up her bag.
-
-"Is that all you wanted."
-
-"That is all." She walks her sister to the back door and opens it to the yard. The gate stands propped back beyond the yard wall. The morning air comes in cool off the stones. "You came to the back door and you stood in the passage and you stepped over the brush twice, and you did not go into the kitchen, and the kettle sang and no one took it off until now."
+"I have come twice a week for my own reasons," her sister says. "There is a lamp over that gate burning all night in the summer. I am not the only one who can see it from the top of that lane."
 
 ---
 
-She sees her sister out to the yard gate and stops at the gate with her hand on the latch post. Her sister goes through and turns on the lane.
+They take the sacks out of the corner of the yard where the sacks go, and her sister carries them down in two goes, and they get the lid up and the sacks in, and the smell off a yard in the last week of July comes up out of it and goes straight through the nose and down the back of the throat.
 
-"You will take the kettle off now."
+"That is two bin bags of that in a fortnight," her sister says, tipping the last one in. "And it has wanted doing in between, whatever you say about it." "What are you putting in it."
 
-"I will." She stays at the gate with the drop bolts heavy in her apron pocket. "And I will pour the cup and sit in the green chair, and the envelope will be on the right and the box on the left, and neither will have moved."
+"Everything comes in it," she says. "The tea leaves and the peelings and anything the mice get at out of the cupboard, and I have a woman comes for the old paper and she has never once put anything in the bin in her life."
 
-"And the brush."
+"You could have the green one back. They have not done them since the spring."
 
-"The brush will be where it was." She looks back toward the house. "It will be across the runner when I go in, and I will step over it with my hand on the wall, the way I did before you came."
+"I know they have not done them since the spring. I have asked twice."
 
-Her sister nods and goes off up the lane with her bag on her arm. She stays at the gate until her sister turns off at the end and is gone from sight. Then she goes back up the yard, through the back door which shuts true behind her, along the passage where she steps over the brush once more, and into the kitchen where the kettle sits singing low on the stove.
+"Then you have asked twice and nobody has come."
 
-She takes it off and pours the cup and sits in the green chair with the cup in both hands. The envelope lies face up on the right. The box sits under its cloth on the left. She looks from one to the other and then out of the window at the yard wall, and drinks, and does not get up for a long while.
+"Nobody has come," she says.
+
+---
+
+Her sister has her hands on the bar of the bin and does not push it.
+
+"I will take this round when I am here," she says. "It is not a thing to ask for. It is not even a favour. You will not hear a word about it again and I do not want to hear a word about it."
+
+"You will not hear a word about it," she says.
+
+"I have told you the shape of it now," her sister says, "so that you know what it is. I am not having you thanking me at the door every time for a bin bag."
+
+"Then I will not."
+
+---
+
+They go down the yard together and stand at the gate. The gate has been propped back against the wall since September and the lamp above it is on in the middle of a bright morning, and she has never once been able to make herself turn it off, and it is not the subject this morning either.
+
+Her sister goes out through the gate and then steps off the pavement and puts both hands on the bar of the bin and tips it the right way up onto its wheels, and sets her shoulder against the side of it and gets it started, and it goes out along the wall with her at the side of it the way a thing gets moved by somebody who has done it before.
+
+She stands at the gate with her hand on the end post and watches her go up the lane.
+
+That is the whole of the bin. That is what it is and there is nothing to be done about it.
+
+---
+
+Back in the kitchen there is the tea and the cups and the envelope on the right of the table with the pencil side up and the box on the left under its cloth.
+
+"What are you doing for your washing this week," she says.
+
+"The same as I do every week," her sister says. "I do it Monday night and hang it Monday night and it is wet again by the time I have got to it on the Wednesday."
+
+"I have a line on the side of my own house and a washing line at the back of mine has been standing up since before Christmas and I have not put a sheet on it since before Christmas."
+
+"Then why have you not put a sheet on it."
+
+"Because I cannot get to the far end," she says, "and because I have got nobody to come and do the far end for me, and because the next week after I do it I will want somebody again, and there is nobody."
+
+Her sister put her cup down on the table.
+
+"Tuesday," she says.
+
+"I cannot do it Tuesday. I have got the woman for the front door at eleven on Tuesday."
+
+"The Wednesday after then," her sister says. "Bring them out and put them in the basket and I will do the far end, and you will do the near end, and I am not doing your washing."
+
+"I know you are not doing my washing."
+
+"I am doing the far end of a line with four sheets on it, and the two of us will be in the same yard for forty minutes and you will have said four sentences to me in the whole of it, and that is how it will go and that is the arrangement."
+
+"Four sentences will do."
+
+---
+
+At the end of it her sister wants to know about the niece's cardigan, which came back from being a present in a box in a shop on a Saturday, and the two of them go through the two winters of it in about four minutes with the cuffs up past her hands, and it is decided, and the cardigan goes into the bag.
+
+Then her sister goes out through the gate and up the lane with the bin behind her, and she stands in the kitchen and listens to the gate and then does not listen at all.
+
+---
+
+She hears her come back up the lane about half an hour later and stop at the gate.
+
+Her sister puts the bin back against the wall inside the gate and stands back off it to look at it.
+
+The lid is on the bottom. That is what makes it look wrong from the step, and it has been put down that way every time since the middle of the month.
+
+She goes down the yard in her slippers and turns it over, so that the lid is on the top and the handle is out where you can get a hand to it. The lid is warm. It has been in the sun all morning and the inside of it has been in the sun all the time it was at the kerb.
+
+She knew. She has known since the middle of the month. She knew on the first Tuesday she let it go past her, and she has let it go past her every Tuesday since, and it has gone on being a bin.
+
+She leaves it standing there the right way up, and goes back up the yard, and puts the kettle on the ring again.

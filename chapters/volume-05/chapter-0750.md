@@ -1,123 +1,127 @@
-# Chapter 0750 — The Kitchen Doorway
+# Chapter 0750 — The Path At Twelve
 
-Sunday the fourteenth of August 2022, in this borough. She is in her own house at number twelve from morning until the middle of the day, and the whole of it is a visitor kept at the kitchen doorway over a front room no one enters.
+Sunday the fourteenth of August 2022, in this borough. She is in her own house and her own yard at number twelve from morning until the middle of the day, and the whole of it is a path with the weeds up through it and a broom in her yard that does not belong to her.
 
-**A WOMAN OF SEVENTY-EIGHT KEEPS A VISITOR WITH A DUSTER AT THE KITCHEN DOORWAY AT NUMBER TWELVE, TALKS THE FRONT ROOM OVER WITHOUT ENTERING IT, AND DOES NOT LET HER PAST THE DOORWAY.**
+**A WOMAN OF SEVENTY-EIGHT LETS A WOMAN SHE HAS SPOKEN TO TWICE SWEEP HER OWN BACK PATH WITH A BROOM SHE BROUGHT HERSELF, STANDS IN THE KITCHEN DOOR WHILE IT HAPPENS AND CANNOT THINK OF ONE SENTENCE TO PUT IN THE MIDDLE OF IT, PUTS HER OWN BIN OUT AT THE KERB BY HAND FOR THE FIRST TIME SINCE THE MIDDLE OF JULY, AND GOES ON INSIDE WITH THE TABLE BARE AND NO BROOM IN THE HOUSE.**
 
-She is a woman of seventy-eight at number twelve on Sunday. A woman with a duster comes to the back door in the morning, stands at the kitchen doorway with her, and goes no further than the doorway.
-
----
-
-She is in the kitchen from morning with the stove warm and the green chair to the table. On the right the gas envelope lies face up and square with the edge, pencil side up. On the left the taped box sits under its cloth squared on three sides. She looks at neither long. She puts water on for tea and takes down one cup and then, after a moment, a second, and sets both by the stove. Then she goes down the passage, stepping over the brush with her hand on the wall, to open the back door to the yard air because the morning promises warmth and the gate stands propped back beyond the wall.
-
-The knock comes before the water boils. A woman stands at the back door with a duster over her arm and her bag on her shoulder, come about the dust that gathers where no one sits.
-
-"You sent word." She puts her hand on the doorframe of the kitchen when they come back along the passage, and stops there. "You can stop here. Today the doorway is the place."
-
-The woman looks at the doorway and the kitchen beyond it with the table and the envelope and the box.
-
-"Since when."
-
-"Since today." She does not move from the doorframe. "Today we speak here and the kitchen stays beyond us except for tea. What did you come to dust."
-
-The woman lifts the duster.
-
-"The front room." She nods toward the passage and the shut door beyond it. "You asked once and I said I would come on a Sunday."
-
-"I did." She keeps her hand on the doorframe. "And today I keep you here and we speak of it first. The front room is the rush chair where no one sits and the low table with the machine and the telephone on it, and no one has gone in there for months."
+She is a woman of seventy-eight at number twelve on Sunday. A woman who does the front steps comes to the back door in the morning, is let in, and speaks to her in the yard and afterwards at the kitchen doorway.
 
 ---
 
-The woman looks past her at the kitchen table with the envelope on the right and the box on the left.
+The path runs from the back step to the gate, and it is clay and old slab laid on a curve so that it does not run straight at the door, and it has not been swept in ten years.
 
-"That is the table."
+That is not an accident. She has a brush and a dustpan and the back step of that house is swept every morning of her life, and the path has not been swept in ten years because there is nothing in that house that sweeps a path.
 
-"It is." She does not turn round. "Dead flat on dry card with no glue. You can see it from here and no closer is needed today."
+The weeds are up through the joints along the middle of it where the slab does not quite meet the clay, and there is a mat of them about the width of a hand, and it has been up since June and it has flowered twice.
 
-"You will not have me past this frame."
-
-"Not today." She stays with her shoulder to the doorframe. "Today you stand with me here and we speak here, and the rooms stay where they are."
-
-The woman shifts the duster on her arm.
-
-"What did you want to speak of, then, if not the dust."
-
-"The chair." She glances toward the passage without leaving the doorway. "The rush chair in the front room where no one sits. I wanted you to hear me say that no one sits in it and no one will today, and that your duster will not go in there today."
-
-The woman considers this.
-
-"You asked me here to tell me not to do it."
-
-"I asked you here and now I keep you here." She gives a short laugh. "That is a poor visit. But today the doorway is the visit. You came to the back door and you came up the passage and you stopped at the runner with me, and now you stand at the kitchen doorway, and each edge has been marked."
-
-The water boils in the kitchen behind her. She does not go to it at once. She lets it sound.
+She stands at the back door with her tea in her hand and looks at it over the yard for about four minutes.
 
 ---
 
-"Go and take it off," the woman nods past her.
+The passage light is burning and the brush is across the runner and the front room door is shut with the ladder folded under its window, and then there is a knock at the back door before she has made the bed.
 
-"It can sing." She stays at the doorframe. "It has water enough and the stove is low. If I go to it you will follow me in, and then we will be at the table, and then we will be looking at the envelope, and I do not want that this morning."
+The woman who does the front steps has been to number twelve twice and has been at the back door both times, and she has a card with the name of a firm on it and she is not from the firm.
 
-The woman looks at her straight.
+"I have come to ask you something and you can say no at the door and I will not come again."
 
-"That envelope."
+"You had better come in then."
 
-"It lies." She does not turn her head. "Face up and square with the edge, and I have not turned it over, and I am not turning it over today. From the doorway you can see the pencil side and no more, and that is enough."
+"You have not asked me in."
 
-"I was not asking to read it."
-
-"You were going to look." She gives her a straight look. "Everyone looks at the table when they come into the kitchen. Today no one comes past the frame, so no one looks close."
-
-The woman lets out a breath.
-
-"And the box."
-
-"The box sits." She keeps her hand on the doorframe. "Taped round every edge under its cloth, and it has not moved, and it will not move today. From here you can see the cloth squared on three sides, and that is all today is for."
-
-They stand there a while with the passage dim behind the woman and the kitchen bright behind her. The brush lies across the runner where they stepped over it coming up. The passage light burns above it as it has since June.
+"You had better come in then," she says, and stands back from the door so there is room.
 
 ---
 
-"You step over that." The woman tips her chin toward the runner.
+The woman comes in past her and stops on the flags with her hat still on.
 
-"I do." She nods. "With my hand on the wall, every time. You did just now with me. No one lifts it."
+"I do the steps at nine and at eleven. Three houses on this side and two on the other. And I have been asked about yours three times this summer and refused every time, because you have never asked me and I do not go where I have not been asked."
 
-"Why keep it."
+"Then you had better not."
 
-"Because it lives there." She shrugs. "Since the spring, and no one has moved it, and today is not the day."
+"I know. That is why I have come to say it to your face." The woman takes her hat off and keeps it folded against her stomach. "There is a woman going round with photographs of them on a tablet saying she has done thirty years and she has a discount out on a Sunday, and I do not believe a word of it, and I would rather you heard it from me than from her."
 
-The water eases. She goes to the stove at last, still keeping herself between the woman and the table, pours two cups, and brings one back to the doorway and hands it over across the frame. The steam comes up between them.
+"There is nothing in this paper on my table about steps."
 
-"You can have yours here."
-
-The woman takes it and drinks standing on the passage side of the frame.
-
-"It is your kitchen."
-
-"It is." She drinks from her own cup on the kitchen side. "And today the frame is the line. You with the duster on one side and me with the tea on the other, and the front room shut beyond us both."
-
-The woman drinks and looks over the cup at her.
-
-She looks down the passage toward the shut front room door with the brush across the runner before it.
-
-"You dust that room never." The woman nods toward it.
-
-"I dust it when there is need." She keeps her hand on the doorframe. "Rush chair and low table and lamp, and today the door stays to. From here you cannot see in, and today you do not need to. Today the doorway is the whole house."
-
-"You will send word."
-
-"I will." She nods. "When the dust is more than a duster wants. Until then the room sits and no one sits in it."
+"No, because I have never asked you, and because that is your business and not mine."
 
 ---
 
-"Then I will go."
+She put her tea down on the sill of the back door.
 
-"You will." She stays at the frame. "And the front room stays shut, and the dust stays where it is another week, and the doorway will be empty again."
+"You are welcome to look at the path while you are standing there," she says. "It is the one thing in this yard anybody could do something about and I have not had it done and I am not going to have it done."
 
-The woman hands the cup back across the frame. She takes it and sets both on the sill of the doorway without going to the table. She walks the woman back along the passage where they step over the brush once more, out to the back door and the yard. At the yard gate the woman turns with her duster over her arm.
+"You have weeds up through it."
 
-"You never asked me to come back."
+"I have weeds up through the middle of it. They have flowered twice. I have looked at them every morning since June and they come back about a week after I pull them and I have not pulled them since May."
 
-"I will send word when the room is to be done." She stays at the gate with her hands in her apron where the bolts ride. "Until then the chair sits and no one sits in it, and the doorway is where we spoke."
+The woman put her hat down on the flags.
 
-The woman nods and goes off up the lane. She goes back up the yard, through the back door, along the passage stepping over the brush, to the kitchen doorway where the two cups sit on the sill. She takes them in, washes them at the sink, sets them away, and sits in the green chair with her hands in her lap, looking at the envelope on the right and the box on the left, neither moved, and the doorway empty beyond her.
+"Do you have a broom," she says.
+
+"No."
+
+"Nine years I have been up and down that front of yours and I have never once had to bring a broom to a door, and there is not one in that house, and that is the whole of why your path is the way it is."
+
+---
+
+"Then it is a broom," she says, and looked at the middle of the yard.
+
+The woman had the broom out of her bag before she had decided. It is a yard broom, worn at the head of it where the bristles have gone down to the block, and it is a good one and it is not new, and it came in a bag with two other things in it and it went back in the bag after.
+
+She started at the gate end.
+
+She did not ask, and she did not say she was going to do it, and she did not apologise either. She put the broom down on the slab at the gate and worked it back towards the step in long strokes, and the grit came off the slab and off the joints and went forward in a grey fan ahead of the bristles, and where the weeds were up through the middle she went over them twice and left them flat on the flags where they were.
+
+She stands in the kitchen doorway and watches her do the whole length of it.
+
+---
+
+That is the honest position and she worked it out about halfway down the path. There are any number of things she could have said. She could have said that she had not asked. She could have said it was a Sunday. She could have said that her sister had been through the yard on Tuesday and had not swept it, which is a thing she will never put to anybody.
+
+What she did was stand in the doorway and let it go on, and the longer it went on the less she was able to think of a sentence that would fit in the middle of it.
+
+The woman swept the joints. The woman went back over the weeds with the side of the broom and got most of them. The woman took the fan of grit off the end of the slab at the step with the edge of it and put it in the dustpan that was standing by the door.
+
+And when she had done the last of it she stood the broom up against the shed wall by the coal shed door and put the dustpan back where it goes and came and took her hat off the flags.
+
+---
+
+"I have not been paid for this and I am not going to ask you for anything."
+
+"You have swept a path."
+
+"I have swept a path, and a woman came to your door about it and you refused her, and now here is a path gone."
+
+"Seven days," she says. "It will be back up through the middle of it inside a week and I will not pull them again before the spring."
+
+"Yes."
+
+"And you will not come back and do it."
+
+"I will not come back and do it," the woman says, and then, before she had gone: "But I will not say no again either. If you put the broom in the yard one day, I will not say no."
+
+"There is no broom in this house."
+
+"Then that is the whole of what is wrong with the front of this house," the woman says, "and it is not a thing about your steps, and I will not say it again."
+
+---
+
+She went out through the back door and along the path she had just swept, and the broom was under her arm, and the gate was standing propped back against the wall where it has stood since September, and the lamp above it was burning in the middle of a Sunday afternoon and she did not look at it.
+
+She stood in the kitchen doorway after she had gone.
+
+Then she went along the wall to the coal shed, and the broom was standing up against the shed wall beside the coal shed door, and the coal shed door was shut with the padlock open in the hasp and the key on its hook behind the back door, and she had not been in that shed all summer and neither had anybody else.
+
+She picked the broom up and carried it out to the gate and put it into the woman's hands in the lane, and the woman took it without arguing about it, and went off up the lane with her bag on her shoulder.
+
+Then she went back up the swept path to her own gate.
+
+---
+
+She had not put the bin out since the middle of July.
+
+She went and got it from where it stands against the wall inside the gate, and she turned it over onto its wheels because she still does that, and she pushed it out along the path she had just had swept, with both hands on the bar of it and her shoulder against the side, and out through the propped gate and along to the kerb, and she did not like it and she did it anyway.
+
+She left it standing at the kerb with the handle out towards the road, in the sun, on a Sunday, and came back up her own path with nothing in her hands.
+
+Then she went in and stood in the kitchen with the table bare between the envelope on the right and the box on the left, and she thought about the back step of her own house with the brush and the dustpan on it, and about the path and the joints and the broom that is not in this house and never has been, and she did not go out and look at the path again.

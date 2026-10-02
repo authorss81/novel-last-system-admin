@@ -1,135 +1,141 @@
-# Chapter 0754 — The Fence At Number Ten
+# Chapter 0754 — The Ball Over The Fence Again
 
-Tuesday the thirtieth of August 2022, in this borough. She is in her own house and yard at number ten from morning until the middle of the day, and the whole of it is a boy kept on his own side of the fence over a ball.
+Tuesday the thirtieth of August 2022, in this borough. She is in her own house and her own yard at number ten from morning until dark, and the whole of it is a dustpan that is full again because she told a boy to stop, and a strip of ply that comes off the shed in the first wind.
 
-**A WOMAN IN HER EARLY THIRTIES TALKS WITH A BOY OVER THE FENCE AT NUMBER TEN, STAYS ON HER OWN SIDE OF THE FENCE, AND DOES NOT LIFT HIM OVER OR GO ROUND TO HIM.**
+**A WOMAN IN HER EARLY THIRTIES TELLS A BOY OVER THE FENCE THAT SHE IS NOT GOING TO BE ASKING HIM FOR ANYTHING EVER AGAIN AND HE SAYS SHE CAN, FINDS THE DUSTPAN FULL AND EMPTIES IT HERSELF, PUTS HIS BALL BACK OVER THE FENCE AT HIM INSTEAD OF DOWN THE GARDEN, HEARS A STRIP OF PLY COME OFF HER OWN SHED IN THE FIRST WIND, CARRIES IT BACK UP THE YARD AND STANDS IT AGAIN AT THE SAME ANGLE AGAINST THE SAME LOOSE FELT, AND DOES NOT GO OUT TO IT.**
 
-She is a woman in her early thirties at number ten on Tuesday. A boy comes to the fence in the morning, stands on his own side with her on hers, and neither goes past the fence.
-
----
-
-She is in the yard from morning with the washing in and folded on the table inside and the line bare across the draught. The strip of ply stands against the front edge of the shed where the felt has gone, not nailed. The drawer under the worktop stays shut with the hammer and the screwdriver and the folded paper in it. She puts the empty peg bag by the back door and goes down the yard with the ball she found by the shed wall, because the boy over the fence has been calling for it since first light.
-
-The boy stands on his own side of the fence with his hands on the top boards, looking through the gap where a knot has come out.
-
-"That is mine." He puts his fingers through the gap.
-
-"It is." She stops on her own side with the ball under her arm. "You can stop there. Today the fence is the place."
-
-He looks at the fence and then at her.
-
-"What."
-
-"We speak here." She does not go to the gate. "Today you stay on your side and I stay on mine, and the ball goes over the top."
-
-He pushes his fingers further through the gap.
-
-"Throw it."
-
-"I will hand it." She comes to the fence and has it up where he can see it. "Over the top and into your hands, and neither climbs."
-
-He takes his fingers out of the gap and puts his hands up over the top boards.
-
-"Why."
-
-"Because the fence is enough." She puts the ball on the top board between them without letting go of it. "Today the fence is where we meet. What did you come to tell besides the ball."
-
-He looks at the ball on the boards under her hand.
-
-"Nothing." He keeps his hands up. "Only the ball."
-
-"Then the ball is enough." She lets him put his hands on it, and together they keep it on the boards a moment, neither pulling. "But today we speak first. The shed and the felt and the ply, have you seen them from there."
+She is a woman in her early thirties at number ten on Tuesday. A boy comes over the fence in the middle of the day, as he has done all summer, and she speaks to him over the top of it and does not open the gate.
 
 ---
 
-He looks past her down the yard at the shed with the ply against it.
+The dustpan is full.
 
-"That." He nods. "It will come off."
+That is the first thing she sees when she goes out with the hand brush in the middle of the morning, and the brush is still in her hand, and she stands on the flags with it and looks at it.
 
-"It will." She does not turn round. "In the wind under it, when the wind comes. Until then it stands, doing its job badly and free."
+It is stood up against the wall by the back step with the handle up, the way she leaves it. It is not tilted. It is not squared with the handle out at an angle so that a hand can get to it.
 
-"You will not nail it."
-
-"No." She shakes her head. "There is no face to nail to where the felt has gone. Today you see it from the fence and no closer is needed."
-
-He looks at her for a moment with his hands still on the ball.
-
-"You read me the paper once."
-
-"I did." She keeps her hand on the ball. "Three lines and I could not finish the third. Today the paper stays in the drawer and the drawer stays shut."
-
-"You will not read it again."
-
-"Not today." She gives him the ball a little push so it sits more into his hands. "Today you stand on your side and I stand on mine, and the drawer stays shut in the kitchen, and no one looks at it."
-
-He takes the ball fully and hugs it to his chest on his own side.
-
-"That is all."
-
-"That is all." She keeps her hands on the top boards. "You came to the fence and you stopped there, and I met you there, and the ball went over the top."
-
-He steps back from the fence with the ball and then comes back to it.
-
-"You never keep me here." He puts his hands on the boards again. "Most days you talk and then you go round."
-
-"Most days I go round." She nods. "Today the fence stays between us. Today is the day I keep it."
+She empties it into the wheelie bin herself, stands it back against the wall the way she leaves it, which is not the way it had been standing since the boy put it there, and then goes out and puts the bin on the kerb at the back gate.
 
 ---
 
-He looks past her at the yard with the bare line across it.
+The trough behind the shed is full of leaves again too.
 
-"You take the washing in." He nods at the line.
+She had it out about three weeks ago with six buckets by hand in the middle of the day in the sun, sitting on the back step afterwards with her back to the door, and it has taken three weeks of wind off the two apple trees and it is full.
 
-"I did." She keeps her hands on the top boards. "In and folded on the table inside, and the line bare. From the fence you can see it, and that is enough."
+She did not expect a trough to want doing twice inside a month. She is not sure anybody does.
 
-"You peg too tight." He points at the shed-end where the peg sits.
-
-"It sits so since May." She does not turn round. "A finger too tight, and I have not loosened it. Today I do not touch a peg."
-
-He looks at the shed with the ply against it.
-
-"That will go."
-
-"It will." She nods. "In the wind under it. Until then it stands, and today you see it from the fence."
-
-"You are steady today."
-
-"I am here." She gives a short laugh. "Here at the fence is enough for a Tuesday with a ball over the top."
-
-He kicks at the post on his side and looks up at her.
-
-"You never go round today."
-
-"Not today." She shakes her head. "Today the fence stays between us. Today is the day I keep it, and tomorrow we will see."
+She leaves it until the boy has gone.
 
 ---
 
-They stand there a while with the lane bright on his side and the yard bright on hers. The washing line stands bare. The ply stands against the shed without moving. The outside light shows on its bracket though the morning is bright.
+The ball comes over the fence about the middle of the day and lands square in her yard by the shed, and it does not hit the shed this time and it does not go past.
 
-"What is on your side." He peers through the gap where the knot came out.
+His head comes over the coping about four seconds later.
 
-"Yard and shed and back door which shuts true." She does not move from the fence. "Table and drawer shut and peg bag by the door. That is all today is for."
+"That was a good one."
 
-"And yours." He means the sister, without saying so.
+"It was the wind."
 
-"At nine today, if I want her." She looks down the yard toward the lane beyond it. "I will want her, and I will go to the gate for her, and today is not that hour yet."
+"It was you."
 
-He kicks at the fence post on his side.
+"I have not thrown a ball over that fence since June," she says. "Throw your own."
 
-"Then I will go."
-
-"You will." She stays on her side. "And the ball goes with you, and the fence will be empty again."
-
-He goes off along his side with the ball under his arm. Halfway he turns and raises it high. She waves him off from the fence. He runs off with it bouncing beside him.
-
-She stays at the fence until his steps go from hearing, with her hands on the top boards and the sun warm on them, and the lane empty beyond, and the ball gone with him over the boards, and the morning bright and quiet after him. Then she goes back up the yard past the shed without touching the ply, past the bare line without touching a peg, through the back door which shuts true behind her, and into the kitchen where she runs her hand along the drawer front without opening it.
-
-She looks once more at the fence where the boy stood, empty now with the sun on the top boards.
-
-"You stood there." She speaks the words aloud to the empty yard, trying how they sound. "And I stood here."
-
-The line stands bare across the draught. The ply stands against the shed edge. The drawer stays shut under the worktop. The fence stands between, and the ball is gone over it, and the morning goes on round them.
+She goes and gets it and puts it back over the fence at him, hard, without warning, the way you put something over a fence when you have decided you are finished with it, and he does not catch it and it goes off along the path on the other side and he has to run for it.
 
 ---
 
-She puts the kettle on and takes down a cup, pours and drinks it standing at the sink looking out at the yard wall and the fence beyond it, washes the cup and sets it away, and goes to the back door to look down the yard at the shed edge with the ply standing.
+He stays over the fence with his arms along the top of it.
+
+"You are not going to ask me for anything."
+
+"I have said that."
+
+"You said you did not want me in your yard."
+
+"I have not said that either," she says, "and if I had, it would not have been because of the dustpan."
+
+---
+
+The boy looked at her for a bit.
+
+"What was it because of."
+
+"Because I would have to open that gate," she says, "and if I open it once you will be coming through it, and then there will be a day when I want something and I will wait for you to bring it, and then it will be a thing about you and me, and I have not had that in this yard since March and I have got used to it."
+
+"You had me in your yard all summer."
+
+"You were over the fence," she says. "You were over the fence for a ball and you came in off the low bit by the shed once with a pan and that is the whole of the time you have been in here since April."
+
+---
+
+He put his chin on his arms.
+
+"You can ask me for things," he said.
+
+"I know you can."
+
+"Then why will you not."
+
+"Because you are a boy and I am thirty-odd and you have got your own yard with your own bin in it," she says, "and I have not walked ninety yards out of this house since the spring, and I am not going to begin by making a boy my errancy."
+
+---
+
+She turned round then and went back down the yard, and she did not say anything else about it, and neither did he.
+
+That was the end of that and it was the end of the whole business and both of them knew it, and the knowing is the part she will think about later, because she did not know it was the end of it while it was happening and neither did he.
+
+She went and got the hand brush and swept the flags along the back of the shed, and she emptied the trough with four buckets and not six, because it had not gone to black at the bottom this time and she only wanted the space.
+
+---
+
+The wind came round about the middle of the afternoon.
+
+It came off the west and it did a lot in about twenty minutes and then it went on down the lane and left everybody else to it. It took the last of the leaves off both apple trees and put them over the wall.
+
+And it took the ply off the shed.
+
+She heard it go and she was not out at the time. She was at the kitchen sink and there is a noise like a piece of board coming off a heap, and then nothing, and then the dust going down off the apple trees.
+
+The gate is standing back against the inside wall where she put it on the Wednesday three weeks ago, with the latch hooked over it and nobody gone through it since, and the line is bare across the yard with the bag of pegs on the worktop under the window.
+
+When she came out, the strip of ply was face down in the grass by the end of the shed with the grass gone over it.
+
+---
+
+She went and got it.
+
+It is a strip of ply about a foot and a half and four inches wide with a square end where it came off a sheet. She has carried it from three places since May. She carried it up this yard in April and stood it against the front edge of that shed at the angle of the loose felt and it did nothing and cost nothing.
+
+She turned it over in her hands.
+
+The corner of the felt is lifting on the inside edge of the shed roof, and it has been lifting since the spring, and it goes up and comes down and goes up again on its own with no wind at all.
+
+A strip of ply standing on the outside of that roof takes the weight of the water and not the weight of the flap. That is still true. It is still doing nothing and it is still doing it for nothing, and it has now been off the shed once and has come back round.
+
+---
+
+She put her thumb and her finger on the end of it where it came off the sheet.
+
+She could nail it. There is a hammer in the drawer under the worktop and there are nails in an old tin on the worktop, and there is a three-inch gap between the ply and the shed face at the bottom because there is no felt there to nail to, and she has known that since April.
+
+She could get the felt off the whole front edge and put a new piece on it and have the whole thing right, and that is a job with three lines of paper in a drawer.
+
+She does not open the drawer.
+
+---
+
+She carried the ply up the yard to the shed and stood it against the front edge of the roof at the angle of the lifting corner, and let go of it.
+
+It stood.
+
+It does not stop the corner lifting and it never has. What it does is stand there under the piece that is loose, all day, every day, until the next wind gets under it.
+
+She stood at the back step and watched it.
+
+---
+
+The wind came round the yard again at about seven in the evening, out of the west, the same quarter as the afternoon.
+
+It went through the apple trees and it went along the shed and it lifted the ply about an inch off the shed face and set it back down on the grass, and it did not take it away, and he was not at the fence to see any of it.
+
+She was at the kitchen door with the brush in her hand when it did that, and she stood in the doorway and watched the ply come down and settle and stand there against the shed with the corner of the felt lifting behind it, the same as it has been since April, and she did not go out to it.

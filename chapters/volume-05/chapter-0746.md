@@ -1,131 +1,135 @@
-# Chapter 0746 — The Roller Door
+# Chapter 0746 — The Packed Post
 
-Saturday the thirtieth of July 2022, in this borough. He is at his own unit from morning until the middle of the day, and the whole of it is a lad with a van kept at the roller door over gates and posts.
+Saturday the thirtieth of July 2022, in this borough. He is in his own yard and his own unit from morning until the middle of the day, and the whole of it is a gate post that has been packed by somebody and a woman who wants a key put inside her own front door.
 
-**A MAN IN HIS EARLY FORTIES MEETS A LAD WITH A VAN AT THE ROLLER DOOR OF THE UNIT, TALKS GATES AND POSTS AT THE DOORWAY, AND DOES NOT BRING HIM ONTO THE BENCH SIDE.**
+**A MAN IN HIS EARLY FORTIES FINDS THE LOOSE POST AT HIS OWN YARD GATE PACKED WITH SIX TURNS OF WIRE DRIVEN DOWN THE SPLIT AND FOUNDS THAT HE CANNOT UNDO IT WITHOUT TAKING IT OUT AND HE NEVER SAW ANYBODY AT IT, AND TELLS A WOMAN FROM TWO DOORS DOWN THAT HER MOTHER CAN HAVE THE KEY OUT OF HIS OWN DRAWER AND PUT IN HER OWN PORCH HIMSELF, AND LEAVES THE POST PACKED AND PUTS THE BOLT BACK ON.**
 
-He is a man in his early forties at the unit on Saturday. A lad with a van comes to the roller door in the morning, stands at the doorway with him, and goes no further than the door track.
-
----
-
-He is at the bench from morning with the pencil behind his ear and the scrap of scribing card in his pocket. The oak gates lean against the wall with the chalk gone pale on them. The two-tread stool stands folded by the paint. The drawer under his own bench stays shut. He has the square out on the bench and a length of timber across the trestles, and he is marking it when the van sounds outside on the yard stones.
-
-The lad comes to the roller door with his engine off and his door open behind him. He stops at the track where the door runs down and looks in at the bench and the gates and the man.
-
-"You are open."
-
-"I am here." He sets the pencil down on the bench and comes to the door. He stops on the inside of the track and does not step past it. "What is it."
-
-"Gates." The lad nods past him at the oak gates leaning inside. "The ones you have leaning."
-
-"Those are spoken for." He stays with his boots behind the track. "They lean here and they go to a cottage. What did you want with them."
-
-"Only to look." The lad stays on the outside of the track with his hands in his pockets. "A man told me you had oak gates in and I have never seen oak up close."
-
-"You can see them from there." He turns half round and looks at them himself. "They lean and the chalk is pale on them. There is nothing more to them from closer."
-
-The lad laughs a little and does not come forward.
-
-"You will not have me in."
-
-"Not this morning." He leans his shoulder on the doorframe. "The bench side is for work and the doorway is for talk. We can talk here."
+He is a man in his early forties at the unit on Saturday. A woman from two doors down comes to the roller door in the morning about a key, and he speaks to her out there and does not open the roller door.
 
 ---
 
-The lad looks past him again at the bench and the square lying on it.
+The two-tread stool stands folded by the paint inside the roller door where it lives, and the post is at the hinge end of the yard gate and it has been loose since the spring, because the gate was hung in the spring on a post that had been set in the year the wall on that side was rebuilt, and the wall took the frost and moved and the post went with it about half an inch off true.
 
-"That is a square."
+He has had it loose since April. He has knocked it with a mallet twice, which made it worse, and he has been meaning to do something to it since then, and what he has been meaning to do is take the gate off its hinges, dig the post up, put it back plumb, and pack it with the same three courses of rubble he puts under every post he sets.
 
-"It is." He does not turn round. "It came out of the drawer under the bench and it went back in. What of it."
+He does not do roofs and he does not hang anything. He had somebody else in to hang these gates in the spring and it took them two days between them.
 
-"Nothing." The lad pulls his hands out of his pockets and puts them back in. "Only that I have got one bent in my van and I have never squared anything with a bent one."
-
-"You want a straight one."
-
-"I want to see a straight one used." The lad grins. "But not today, by the look."
-
-"Not today." He folds his arms. "Today you stand at the track and I stand inside it, and we speak about gates and posts, and the bench stays beyond us."
-
-The lad nods toward the yard behind him where the posts stand stacked by the wall.
-
-"Those posts firm."
-
-"They are firm." He looks at them over the lad's shoulder. "Both men at the cottage refused twice, and the posts stand here until they send word. That is the whole of that."
-
-"You waited long."
-
-"I wait." He touches the pencil behind his ear to check it is there. "Waiting is part of the bench. Timber waits and posts wait and gates lean and wait. You learn it or you force it and split it."
+He comes out into the yard at about the middle of the morning and the gate is on its latch, which it never is, and the gate is shut, which it never is.
 
 ---
 
-The lad kicks at the door track with the toe of his boot.
+He stops in the middle of the yard with his hand still on the roller door edge.
 
-"My van waits too." He tips his head at it. "It waits outside your door while we speak, and no one loads it and no one looks in the back of it."
+The post has a lump round it at about the height of a hand and a half.
 
-"That is right." He looks at the van with the side door shut and the front cab empty. "It can wait there until we are done. No one needs to open it for this."
+He goes over and puts his thumb in it.
 
-"What are we doing, then."
+Wire. Six turns of it, wound round the split in the post where the post has opened along the grain, and driven down the split with something flat and then bent back over itself, and it is packed as tight as wire can be packed and it is packed from the top down, which is the way you do it and the only way you do it.
 
-"We are speaking at a doorway." He puts his foot on the track without going over it. "You came about gates and I told you they are spoken for. You asked about the square and I told you it is put away. You asked about the posts and I told you they are firm. That is a visit."
+He stands with his thumb in it and does not say anything out loud.
 
-The lad considers this.
+He looks round his own yard. There is nothing in this yard that is not his. The bench trestles are his and the timber on them is his and the gates leaning along the back wall with the chalk gone pale on them are his, and one of the two carries two marks and a clean patch on the back of it that has not been touched since June.
 
-"That is a short visit."
-
-"It is short." He does not move from the doorway. "Short is not the same as nothing. You came to the roller door and you stopped at the track, and I met you there, and neither of us went past it."
-
-The lad takes a step back from the track and looks up at the lintel where the paint is worn from the door going up and down.
-
-"You never have anyone past it."
-
-"I have men past it when there is work on the bench for them." He shakes his head. "Today there is marking out and no lifting, and no second pair of hands needed. Today the track is the line."
+Nobody has been in this yard. The gate has been on its latch and the wire is packed from the top down.
 
 ---
 
-They stand there a while with the yard bright behind the lad and the unit dim behind the man. A pigeon goes over the yard wall and drops beyond it. The square lies on the bench where he left it. The gates lean with the pale chalk on them.
+He takes the wire cutters off the board by the paint and gets the point of them into the top bend and pulls, and the bend goes, and then the second bend goes, and then the wire loosens on the outside of the post and hangs in a loop with the packing still down in the split.
 
-"You have the stool by the paint." The lad nods at the two-tread stool standing folded in the corner.
+The packing does not come up. That is the thing about it. Once wire is driven into a split and bent over, the split has closed on the wire, and the wire is part of the shape of the post now, and the only way to get it out is to cut the post off below the ground and start again.
 
-"I have." He does not turn to look. "It stands folded and it stays folded. It is for reaching and today there is no reaching."
+He puts the cutters down and stands there with the loose loop of wire hanging off the post.
 
-"You never climb."
-
-"Not here." He shakes his head. "I do not do roofs and I do not hang. The stool is for the bench side when a tall piece needs marking, and today the piece is low and the stool stays shut."
-
-The lad looks at the stool a moment longer.
-
-"Everything here stays where it is."
-
-"Most things do." He puts his foot flat on the track. "The gates lean until the cottage sends word. The posts stand until they are wanted. The stool stays folded until it is needed. You learn the waiting or you do not last at a bench."
-
-The lad kicks at a stone on the outside of the track and sends it rattling to the wall.
-
-"And me."
-
-"You wait at the track." He looks at him steady. "You came to look at oak and you have looked, and you asked of the square and the posts and the stool, and each answer was given here. That is the visit, and it is done from here."
+Whoever did it had done it before. He would have taken half an hour over it and he would have packed it from the top down.
 
 ---
 
-"Will you show me the back of that gate." The lad nods at the leaning oak. "The one with the clean patch."
+The woman from two doors down comes at the roller door about an hour after that.
 
-"No." He does not turn round. "The back of it is to the wall and it stays to the wall until the fitting. You have seen the front of them from the doorway and that is enough for a morning with no work in it."
+She has a key on a loop of string and the string is gone round her wrist twice.
 
-"You are careful with them."
+"That is my mother's," she says. "The one off the landing. Under the board with the bell on it. You have had it since October."
 
-"I am careful with what is spoken for." He puts his hand on the roller door edge. "A gate that is spoken for is not for showing round. It leans and waits, and the chalk stays pale on it, and no thumb goes on it today."
+"That is your mother's," he says. "I have had it since October and you have had your mother's key on your own wrist since about March, and we have both got on with it."
 
-The lad puts his hands in his pockets again and rocks back on his heels.
+"It is a bell board. It is nailed over the top of the stair where anybody coming up can hear it. It is not in a safe. It is on a landing in her own house."
 
-"Then I will go."
+"Yes."
 
-"You will." He stays inside the track. "And you will take the van with you, and the doorway will be empty again, and the bench will be as it was."
+"So it comes inside the porch," she says. "That is all. It goes on the same hook it is on now and the porch door has a pane of glass in it and anybody standing on the step can read that hook."
 
-The lad goes to the van and gets in and shuts the door. He starts the engine and lets it run a moment. Then he puts his arm out of the window.
+"It is a key to a house off this lane and it is not going behind a pane of glass," he says.
 
-"You never asked my name."
+"It is not anybody. It is the two of them and a neighbour who cannot get up the steps."
 
-"I did not need it." He lifts a hand off the door edge and lets it fall again. "You were the lad with the van at the roller door on a Saturday morning, and you stopped at the track, and we spoke there. That is enough to remember you by."
+---
 
-The lad laughs once more and drives off the yard stones and out through the yard gate. The man stays at the roller door until the sound goes from the lane. Then he pulls the door down to his shoulder height to keep the sun off the bench, ducks under it back to the inside, and goes to the bench where the square lies and the timber waits across the trestles.
+He leans his shoulder on the roller door frame.
 
-He takes the pencil from behind his ear and goes on marking, with the door half down and the yard bright beyond it and no one past the track.
+"I will tell you what I will do," he says. "I will not put it in your porch and I will not hand it to anybody who is not the woman it belongs to. If your mother wants it in her own porch she can come and take it out of the drawer it is in, in this unit, with me standing here, and she can put it on her own hook herself and shut the drawer and I will shut it after her."
+
+"My mother is not coming down here."
+
+"Then it stays in the drawer."
+
+"It has been in the drawer since October."
+
+"Then it stays in the drawer until October of next year and it is not getting any worse in there," he says.
+
+---
+
+She stands at the roller door with the string off her wrist and the key dangling from it.
+
+"You have not had one key out of that drawer in nine months," she says.
+
+"No."
+
+"Not for a neighbour."
+
+"No."
+
+She looks past him into the unit, at the bench and the shoebox on it and the gates leaning along the wall with the pale chalk on them.
+
+"You have somebody else's work leaning up in there," she says. "Those two gates are spoken for and everybody in this lane knows it and you have had them since the spring."
+
+"They are spoken for and they wait here until the word comes. That is what a thing waits for."
+
+"A gate waits for a man," she says. "A plate waits for a wall. You have been in that unit since the spring and you have not put a thing up for anybody in this lane."
+
+"That is fair," he says, "and I will not argue with it, and you will not get a key out of my drawer for saying it."
+
+---
+
+She puts the string back over her wrist.
+
+"You have had a go at that gate," she says.
+
+He does not turn round.
+
+"The gate is on its latch," he says. "It is not on its latch on a Saturday and it has not been on its latch on any day since the spring, and I have not been near it since Friday when I shut it."
+
+"You have just said you have not been near it," she says, "and you are standing in a yard with the gate open behind you and a post with wire on it."
+
+He looked at the post.
+
+"That is my business and it is not your mother's," he says.
+
+She went away up the lane without saying anything else about it, which he thought about for the rest of the morning.
+
+---
+
+He got the brush off the wall by the paint and swept the length of shavings off the bench into his hand and out through the roller door onto the hard standing where the birds get at it, and put the brush back against the wall where it lives.
+
+Then he went out and looked at the gate again, properly, the way you look at a thing when you have stopped being in a bad mood about it.
+
+He put his hand flat on the post, above the wire, and pushed.
+
+The wire went tight. The top of the post came over towards him by about the width of a knuckle and stopped, and it stopped because a piece of wire that somebody had driven into it at some hour of one of the mornings since Friday was doing the only job it can do.
+
+He lifted the latch, undid the bolt, and swung the gate back on it, and stood with his head through the gap looking down the inside of the post to where it goes into the ground.
+
+He could get a finger down beside it. He could get his whole hand down beside it. If he had taken a bar and levered the post against the wall he could have closed that gap before the end of the day and the gate would have shut for a month and then gone open again by the frost.
+
+He left the gate where it was.
+
+He put the bolt back on the near side and dropped it into its keeper and hooked the latch over it so that the gate stayed where it was, and did not touch the post once, and went in and got the pencil from behind his ear and went back to the timber on the trestles.

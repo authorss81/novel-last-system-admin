@@ -1,131 +1,153 @@
-# Chapter 0749 — The Gate At Number Ten
+# Chapter 0749 — The Dustpan At The Foot Of The Wall
 
-Wednesday the tenth of August 2022, in this borough. She is in her own house and yard at number ten from morning until the middle of the day, and the whole of it is a sister met at the gate over felt that has gone.
+Wednesday the tenth of August 2022, in this borough. She is in her own house and her own yard at number ten from morning until the middle of the day, and the whole of it is a dustpan emptied by somebody and put back, and ninety yards she has never once put into words what they are.
 
-**A WOMAN IN HER EARLY THIRTIES MEETS HER SISTER AT THE GATE OF NUMBER TEN, TALKS THE SHED FELT OVER AT THE GATE, AND DOES NOT BRING HER UP THE YARD PAST THE WASHING.**
+**A WOMAN IN HER EARLY THIRTIES FINDS THE DUSTPAN AT THE FOOT OF HER OWN WALL EMPTIED AND SQUARED WITH THE HANDLE OUT, TELLS A BOY OVER THE FENCE TO STOP DOING HER YARD WITHOUT TELLING HER, AND HE SAYS HE WILL, AND SHE EMPTIES THE TROUGH BY HAND WITH SIX BUCKETS IN THE MIDDLE OF THE DAY FOR THE FIRST TIME SINCE MAY, AND SAYS OUT LOUD THAT THE NINETY YARDS ARE NOT A DISTANCE SHE IS REFUSING ON PRINCIPLE.**
 
-She is a woman in her early thirties at number ten on Wednesday. Her sister comes to the gate in the morning, stands at the gate with her, and goes no further than the gate.
-
----
-
-She is in the yard from morning with the washing out and pegged across the draught and the shed-end peg pushed a finger too tight where it has been since May. The strip of ply stands against the front edge of the shed where the felt has gone, not nailed, doing its job badly and for nothing. She looks at it from the back step and does not touch it. The drawer under the worktop stays shut with the hammer and the screwdriver and the folded paper in it. She puts the peg bag by the back door and goes down the yard to the gate to look at the lane because the morning is bright and the outside light still shows on its bracket from Saturday.
-
-Her sister comes up the lane with her bag on her arm and stops at the gate on the outside of it. She stops on the inside of it with her hands on the latch post.
-
-"You are out," her sister puts her hand on the gate and does not lift the latch.
-
-"I am out." She keeps her hands on the latch post. "You can stop there. Today the gate is the place."
-
-Her sister looks at the gate and then at her.
-
-"Since when."
-
-"Since today." She does not lift the latch. "Today we speak here and the yard stays beyond us. What did you come for."
-
-Her sister nods past her down the yard at the shed and the ply standing against it.
-
-"That." She tips her chin. "I came to see if it was still standing."
-
-"It stands." She does not turn round. "It stood all week and it will come off in the wind under it when the wind comes, and until then it stands."
-
-"You will not have me up the yard to look."
-
-"Not today." She keeps her hands on the latch post. "The yard is the washing and the shed and the paper in the drawer, and today I want a morning where no one walks up it to look at those things."
+She is a woman in her early thirties at number ten on Wednesday. A boy comes over the fence in the middle of the day, as he does for the ball and as he has done since the summer, and she speaks to him over the top of it, and she puts her gate back on its latch at the end of it without letting him in.
 
 ---
 
-Her sister leans on the gate with her arms folded over the top bar.
+The dustpan is at the foot of the yard wall by the back step, where the dustpan goes, and it is empty.
 
-"You have had me in the kitchen."
+She finds it at about the middle of the morning, because she goes to it with the hand brush in her hand and the brush is not needed.
 
-"I have." She nods. "And on Saturday I told you I would put the paper in the drawer when you had gone, and I did, and today the drawer stays shut and the yard stays empty of visitors."
+The pan is stood flat on the flags against the wall with its handle out at a slight angle so that you can get a hand to it without moving anything, and it is not the way she leaves it. She leaves it with the handle up against the wall and the pan itself tilted so that it cannot stand in rain, because she found it full of water in the spring twice and the water came over the edge onto the flags.
 
-Her sister looks at her for a moment.
+It is not empty of nothing either. There is a leaf in it, and a bit of grit, and a long yellow thing off a spider that has been dead long enough to be paper.
 
-"Is the paper still in there."
-
-"It is." She does not move from the latch post. "With the hammer and the screwdriver, where the means and the job are in one place and do not fit. I put it there on purpose after you had gone, and I shut the drawer, and I have not opened it since."
-
-"You will not show me."
-
-"No." She shakes her head. "Today you stand at the gate and I stand inside it, and the drawer stays shut in the kitchen, and no one looks at it."
-
-Her sister lets out a breath.
-
-"You are short today."
-
-"I am short." She gives a short laugh. "I am short because the felt has gone and the ply stands and the washing is out, and there is nothing to settle, and still we are here at the gate talking as if there were."
-
-"What did you want to speak of, then."
-
-"The felt." She glances back at the shed without leaving the gate. "You said it would come off in the wind, and I said it would, and I wanted you to see from here that it has not yet, and to hear me say so."
-
-Her sister looks down the yard at the shed edge where the corner lifts.
-
-"It lifts."
-
-"It lifts." She nods. "And the ply takes the weight of the water and not the weight of the flap, and it does the job badly and free instead of not at all, and from the gate you can see it and no closer is needed."
+Nobody empties a dustpan and leaves three things in the bottom of it.
 
 ---
 
-They stand there a while with the lane quiet behind her sister and the yard bright behind her. The washing moves a little on the line. The ply stands against the shed without moving.
+She goes to the fence.
 
-"You have the line too tight." Her sister nods at the washing where the shed-end peg sits a finger too tight.
+He is over it before she gets there, elbows on the coping and his chin on his elbows, the way he gets.
 
-"I have." She does not turn to look. "It has sat so since May and I have not loosened it. Today I do not touch a peg."
+"You have been in my yard."
 
-"And the tape."
+"I have not."
 
-"The tape sits on the shelf with nothing worth the name on it." She keeps her hands on the latch post. "You can see the shelf from here if you stand tall, and seeing is all today is for."
+"You have emptied my dustpan."
 
-Her sister looks down the yard at the line and the shed and the ply.
-
-"Everything here waits."
-
-"It waits." She nods. "The felt waits and the ply waits and the peg waits, and I wait at the gate with you, and no one goes up the yard to sort them."
+"I have not emptied your dustpan." He does not lift his chin off his arms. "I have put it back."
 
 ---
 
-She looks back toward the kitchen window where the curtain hangs still and the drawer front shows under the worktop.
+"You have been in my yard."
 
-"You leave the drawer shut." Her sister nods at the house as if she can see through the wall.
+"I have been over the fence," the boy says, "which is not in your yard, it is above it. I came along on the low bit by your shed and I came in over that and I put the pan back on the wall and I came out over the same bit."
 
-"I do." She keeps her hands on the latch post. "Hammer and screwdriver and paper inside, and the front stays to. From the gate you cannot see it, and today you do not need to. Today the gate is the whole yard."
+"That is in my yard."
 
-"You will open it after I go."
+"It is not in your yard if I am not in your yard," he says. "I was not in your yard. My shoes were on your flags and I did not stand on your yard."
 
-"I will not." She shakes her head. "Today it stays shut. Today the paper sits with the tools and no hand goes to it."
+She grips the coping.
 
-Her sister looks at the lane where a van goes past beyond the houses.
+"Do not do it again."
 
-"You keep the light for Saturdays." She nods at the bracket by the back door.
+"I will not do it again."
 
-"I do." She does not turn round. "Outside light for Saturdays, and today is Wednesday, and it sits dark on its bracket. From here you can see it, and that is enough."
+"You have emptied it how many times."
 
-"You are steady today."
+"I do not know."
 
-"I am here." She gives a short laugh. "Here is enough for a Wednesday with felt loose and ply standing."
+"You have been here since the spring."
+
+"I have not been counting," he says. "You have got no marks on it."
 
 ---
 
+She stayed at the wall a moment longer than she meant to.
 
+"You cannot come through that gate," she says.
 
-"I keep you here today." She keeps her hands on the latch post. "Today the latch stays down and we speak over it, and the yard stays mine alone."
+"I have never asked for the gate."
 
-"You will not even have me to the back door."
+"Everybody asks for the gate. That is the whole of what a gate is for. It is not there so that a person can say they have not asked for it."
 
-"No." She shakes her head. "Today no back door. Today the gate, and then you go, and I go up the yard alone."
+"I have asked for a ball over this fence three times," the boy says, "and you have never thrown one back, which is the answer, and I have got it."
 
-Her sister picks her bag higher on her arm.
+---
 
-"Then I will go."
+"It is a bin thing. That is why it was full."
 
-"You will." She stays inside the gate. "And you will come again, and then we will see where we speak."
+"It was leaves."
 
-Her sister steps back from the gate into the lane. At the lane she turns.
+"It was leaves and the dust off the washing line and there was a thing off the roof of the shed in it. And somebody came along and put it in the bin and brought the pan back empty, and now I come out here with a brush in my hand for nothing."
 
-"You never asked what was in my bag."
+"Then keep the brush."
 
-"I did not need to." She smiles from inside the gate. "You came to the gate and you stopped there, and we spoke of felt without going to it. That is enough."
+"That is what I am telling you," she says. "You have done a thing in my yard and you have not told me, and now I do not know whether my yard is being kept or whether I am being kept."
 
-Her sister nods and goes off up the lane with her bag on her arm. She stays at the gate until the steps go from hearing. Then she goes back up the yard past the washing without touching a peg, past the shed without touching the ply, through the back door which shuts true behind her, and into the kitchen where she runs her hand along the drawer front without opening it and then stands at the window looking down the yard at the gate, with her hands on the sill, and stays there while the light moves.
+---
+
+The boy thought about that.
+
+"That is a bad thing to say to somebody," he says.
+
+"It is a true thing."
+
+"It is a bad thing," he says, "because I am not keeping you. I have got my own yard and my own gate and my dad has not been in my yard since Easter either, and I am not keeping anybody, I am doing a thing with a pan."
+
+He laid his forearms along the coping and looked along the yard at the shed, and at the strip of ply standing against the front edge of the roof where the felt has come off, which is not fixed and which he had asked her about in the summer.
+
+"You asked me that once," he says. "About the ply."
+
+"You did not ask me. You asked me if I could not nail it, and I told you no, and you asked me a second time."
+
+"I asked you a second time."
+
+"That is what I mean," she says, and did not finish it, and went back down the yard.
+
+---
+
+The trough is behind the shed against the back wall, and it has been under the two apple trees since before she came, and it has been full of leaves since the spring because the downpipe that used to feed it came off the shed roof in the winter and was never put back.
+
+She wants it out. Not for the water. For the space. There is nowhere else in this yard to put a thing, and the trough is where things go, and she cannot put anything in a trough that has leaves in it going to black at the bottom.
+
+So she empties it, by hand, with buckets.
+
+There is a standpipe at the bottom of the yard by the fence, and she scoops the water out of the trough into a bucket and carries it down to the standpipe and empties it there, and there is a low step where the ground goes up to the shed, and six buckets is what a trough that size takes when it is properly dry.
+
+She did the first one in about ten minutes.
+
+The second one she did in eight. The third one in seven. She has emptied that trough about once a month since May and she has done every one of them in the evenings when there is nobody on the path, and she has never once done it in the middle of the day. There is a reason for that and she has never written it down and would not be able to say it quickly.
+
+She was carrying the fourth one down to the standpipe when she stopped.
+
+She stood on the low step with the bucket in her hand in the middle of her own yard, in the middle of a bright day, with the sun on the shed and the washing not out because it is not Saturday, and she put it out loud, to nobody, in the way a person says a thing when they have been not saying it for years.
+
+"Ninety yards. There and back is a hundred and eighty and I have not walked it since the spring and I am not refusing it on principle."
+
+She carried it the rest of the way down and emptied it there and went back up for the fifth.
+
+---
+
+The fifth took less than half the time.
+
+She filled the sixth and sat down on the back step with her back to the door and let it go all at once, and she could hear the last of it going down through the leaves and the grit and the black at the bottom of that trough.
+
+She got up and went to the fence.
+
+He was still over it.
+
+"You have not been in my yard since I was at the trough."
+
+"I have not."
+
+"That was a thing I did just now and nobody saw it."
+
+"I am above your yard. I am not above the yard where you are."
+
+---
+
+"Then go and do your own."
+
+"I am doing my own." He nodded over his own fence at nothing in particular. "It is not much of a yard."
+
+Then she went along the wall to the gate and put her hand on the latch, and it was on the latch, and it had been on the latch since she came, and no person had ever been on the other side of that latch in this yard in the time she has had it.
+
+She lifted the latch and pushed the gate back on its hinges until it was against the wall inside, out of the rain, and hooked the latch over it to keep it there.
+
+She did not look round at the fence at all while she did it, and she went back up the yard and got the hand brush and swept the flags by the back step where the dustpan goes, and put the brush away in the shed and shut the shed door, and the gate stayed where she had left it.

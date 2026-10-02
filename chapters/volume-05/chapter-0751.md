@@ -1,143 +1,155 @@
-# Chapter 0751 — The Yard Gate
+# Chapter 0751 — The Bench In The Morning
 
-Wednesday the seventeenth of August 2022, in this borough. He is at his own unit from morning until the middle of the day, and the whole of it is a man from the cottage kept at the yard gate over posts that stand firm.
+Wednesday the seventeenth of August 2022, in this borough. He is in his own unit and his own yard from morning until dark, and the whole of it is a bench that is swept in the middle of the day by somebody and a length of oak with its shoulder marked on it and not cut.
 
-**A MAN IN HIS EARLY FORTIES MEETS THE MAN FROM THE COTTAGE AT THE YARD GATE OF THE UNIT, TALKS THE POSTS OVER AT THE GATE, AND DOES NOT WALK HIM TO THE BENCH.**
+**A MAN IN HIS EARLY FORTIES SWEEPS HIS OWN BENCH FIRST THING AND FINDS IT SWEPT AGAIN IN THE MIDDLE OF THE DAY WITH HIS OWN SHAVINGS LYING ON THE CLEAN PART, TELLS A WOMAN FROM TWO DOORS DOWN ACROSS THE LANE THAT HE IS NOT GOING TO TAKE THE WIRE OUT OF HIS OWN GATE POST, LEAVES THE SHOULDER ON A LENGTH OF OAK SCRIBED AND NOT CUT, CARRIES HIS OWN BIN OUT TO THE KERB FOR THE FIRST TIME SINCE THE SPRING, AND SWEEPS THE BENCH AGAIN OVER THE TOP OF WHAT SOMEBODY ELSE HAD DONE.**
 
-He is a man in his early forties at the unit on Wednesday. The man from the cottage comes to the yard gate in the morning, stands at the gate with him, and goes no further than the gate.
-
----
-
-He is at the bench from morning with the pencil behind his ear and the timber across the trestles. The oak gates lean against the wall with the chalk pale. The stool stands folded by the paint. The drawer under the bench stays shut. He is sighting along a length when steps sound on the yard stones outside and stop at the gate.
-
-The man from the cottage stands at the yard gate with his hands on the top bar, looking in at the unit with the roller door up and the bench beyond it.
-
-"You are here."
-
-"I am here." He sets the timber down on the trestles and comes out to the gate. He stops on the inside of it and does not lift the latch. "You can stop there. Today the gate is the place."
-
-The man looks at the gate and then at him.
-
-"Since when."
-
-"Since today." He keeps his hands off the latch. "Today we speak here and the bench stays beyond us. What did you come for."
-
-The man nods past him at the yard where the posts stand stacked by the wall.
-
-"Those." He tips his chin. "I came to see them standing."
-
-"They stand." He does not turn round. "Firm, both of them, as they stood last month. You refused twice and they wait here until you send word."
-
-The man lets out a breath through his nose.
-
-"You will not have me in to look close."
-
-"Not today." He stays inside the gate. "Today you stand with me here and we speak here, and the yard stays beyond us."
+He is a man in his early forties at the unit on Wednesday. A woman from two doors down sweeps her own front path at about the middle of the day and speaks to him across the lane.
 
 ---
 
-The man leans on the gate with his arms over the top bar.
+He swept his own bench first thing, the way he has swept it every morning since he took this place.
 
-"You have had me to the bench."
+The brush is a yard brush gone soft at the head of it, and it lives against the wall by the paint where the two-tread stool stands folded, and the bench is the bench, four feet of beech on two trestles with the shoebox on it and nothing else on it except the grain of the wood and the places where the grain has been raised by something hot stood on it.
 
-"I have." He nods. "And today the bench is for marking out alone. Today the gate is as far as we go."
+The drawer under the bench is shut, and has been shut since November except for the Tuesday in July, when he opened it for a square and shut it again with the bag and the brush in it still on the bottom. The gates lean along the back wall with the chalk gone pale on them, and one of the two carries two marks and a clean patch on the back of it.
 
-"What did you want to speak of, then."
-
-"The waiting." He puts his hand on the gate post. "You refused twice and the posts stand here, and I wanted you to see from here that they stand firm, and to hear me say so without going to them."
-
-The man looks at him for a moment.
-
-"They stand."
-
-"They do." He glances back at them without leaving the gate. "Through rain and sun, and the chalk on the gates goes pale, and no thumb goes on them, and no foot goes past the gate today."
-
-"You are short today."
-
-"I am short." He gives a short laugh. "I am short because there is marking out on the bench and no lifting, and nothing to settle, and still we are here at the gate talking as if there were."
-
-The man shifts his arms on the bar.
-
-"Show me them close."
-
-"No." He shakes his head. "From here you can see them stacked by the wall, and that is enough for a morning with no work in it."
+He swept off the bench and off the floor to the front of it and went out to the trestles.
 
 ---
 
-They stand there a while with the road quiet behind the man and the unit bright behind him. A van goes past on the road beyond the wall. The square lies on the bench where he left it. The gates lean with the pale chalk.
+The length of oak is on the trestles in the yard where he can see it from the door.
 
-He looks back toward the bench where the timber lies across the trestles and the square beside it.
+It is for a gate stile and it has the shoulder scribed on it in pencil all the way round and not cut, because he is not cutting shoulders this week. A shoulder wants two hands and a set square and a clear bench, and there is a person sweeping that bench in the middle of the day.
 
-"You leave the drawer shut." The man nods past him at the unit.
-
-"I do." He keeps his hands off the latch. "Under my own bench, and it stays shut. It opened once in July and the square came out and the bag with the brush stayed in, and today it stays shut. From the gate you cannot see it, and today you do not need to."
-
-"You will open it after I go."
-
-"I will not." He shakes his head. "Today it stays shut. Today the bench is for marking and no drawer comes open."
-
-The man looks at the yard wall where the sun moves along the brick.
-
-"You keep the stool folded." He nods at the corner where it stands by the paint.
-
-"I do." He does not turn round. "Two treads and it stays folded. Today there is no reaching and no climbing, and the stool stays as it is."
-
-"You are steady today."
-
-"I am here." He gives a short laugh. "Here at the gate is enough for a Wednesday with posts standing and gates leaning."
-
-The man looks at the roller door standing up with the sun on the track.
-
-"You keep that half down in the sun."
-
-"When the sun is on it." He nods. "Today it stands up because we speak here. After you go I pull it to my shoulder to keep the sun off the bench."
+He got it to both ends with the saw in the morning and he spent about an hour out in the yard on the far side of the unit with the door up and his back to the bench, and he did not think about the bench once in that hour.
 
 ---
 
-"You never keep me here." The man looks along the wall.
+The bell under the board on her landing rang about the middle of the day, from two doors down.
 
-"I keep you here today." He keeps his hands off the latch. "Today the latch stays down and we speak over it, and the bench side stays mine alone."
+That bell goes off when somebody knocks at her mother's door, and her mother is in the house on the ninth of every month and this is not the ninth.
 
-"You will not even walk me to them."
-
-"No." He shakes his head. "Today no bench. Today the gate, and then you go, and I go back to marking."
-
-The man picks at a splinter on the top bar.
-
-"That gate of yours wants oil."
-
-"It wants many things." He looks at the hinges. "It gets none today. Today it is the line, and it does its job by staying shut."
-
-The man laughs once, short.
-
-"That is a poor job for a gate."
-
-"It is the job today." He puts his hand on the post. "A shut gate with a man on each side of it, speaking of posts without going to them. Tomorrow it will open. Today it does not."
-
-He looks at the lane where cloud moves over the roofs beyond the wall.
-
-"You will mark after I go." The man nods at the bench.
-
-"I will." He keeps his hands off the latch. "Line and square and pencil, and the timber across the trestles. That is the rest of the morning."
-
-"You will not lift alone."
-
-"Not today." He shakes his head. "Today marking only, and no lifting. Today the bench is a table for lines."
-
-The man looks at him a moment longer over the top bar.
-
-"Then the posts wait."
-
-"They wait." He puts his hand on the post. "Firm and stacked, until word comes. And the gates lean, and the chalk goes pale, and no one goes past the gate today."
-
-The man steps back from the gate into the road.
-
-"Then I will go."
-
-"You will." He stays inside. "And the posts stand, and the gates lean, and the gate stays shut until you are gone from the road."
+He came to the roller door.
 
 ---
 
-The man goes off up the road with his hands in his pockets. At the road end he turns and raises his arm. He nods back from the gate and stays there until the steps go from hearing. Then he goes back through the yard past the posts without touching them, past the gates without touching the chalk, under the roller door to the bench where the square lies and the timber waits across the trestles.
+She was out on her own front path with her own broom.
 
-He takes the pencil from behind his ear and sights along the timber once more, steady and slow in the warm still air of the morning. The yard gate stands shut behind him. The posts stand stacked by the wall. He marks the line, blows the dust off it, and goes on with the morning, with no one past the gate and the bench his own, and the yard quiet round him, and the sun moving slow along the wall while the dust settles.
+She has swept that path on a Friday since before he came to this lane, and she sweeps it on a Wednesday too, which he has never once been out at the hour for.
+
+"You are out in the middle of the day," she called.
+
+"I am standing in my own doorway."
+
+"You have not been in your own doorway at this hour since Easter," she called. "I sweep at eleven on a Wednesday and I have never seen you."
+
+---
+
+He put his hands on the roller door edge.
+
+"There is a broom in every house in this lane but yours."
+
+"There is a broom in mine."
+
+"You carried a piece of offcut out to the bin by hand in October because you would not take the barrow out. That is the only broom I have seen you use."
+
+---
+
+She was at the end of her path and came back up it toward her own step.
+
+"What is that across your gate. That lump on your post."
+
+"Six turns of wire."
+
+"Who packed it."
+
+"Not me."
+
+"Not me either, and I have looked at it every morning since you had the gate open on the Saturday."
+
+---
+
+He did not say anything for a moment.
+
+"I know it is not you," he says.
+
+"It is packed the way I would pack it," she says. "It is packed from the top down and it is bent back over and it is going to be as good in five years as the day somebody drove it in. I do not know one other person on this lane who packs a post like that."
+
+"Then it is somebody who knows what they are doing."
+
+"You could take it out," she says. "Get the bar and get at it and pack it yourself with rubble and have it done right and shut for good."
+
+"It is packed."
+
+"It is packed by a stranger. In my view of it that is not packed. That is a stranger having been in your yard."
+
+---
+
+"It is packed by somebody who has been in my yard," he says, "and I did not know it and I have not found out, and it is not going to keep me awake, and I am not going to take it out."
+
+"That is a strange thing to be happy about."
+
+"It is not happy. It is shut." He comes down onto the track. "I would rather have a gate that shuts to the width of a knuckle and a post I know nothing about than a gate that shuts true and a post I have had to open up to find out about. I have made gates for twenty years and I am telling you that is not a stupid answer."
+
+"It is a strange answer."
+
+"It is the trade answer," he says. "You pack it and you put the gate back on and you go and do the next one. Nobody in this trade goes back and unpacks a post to see who was in the yard."
+
+---
+
+She leaned on her own gate post.
+
+"You have a length on your trestles."
+
+"I have."
+
+"It has got a shoulder scribed on it and not cut. Nobody leaves a shoulder on."
+
+"I leave a shoulder on," he says. "I leave one on when the day is not right for cutting it off and I would rather have the mark of where it is than not have it. That is the whole of it and it is not a thing you can get wrong."
+
+"Nobody leaves a shoulder on."
+
+"Nobody on this lane packs a post the way you would either," he says, "and we are both talking about ourselves."
+
+---
+
+She went back down her path and he went back into the unit.
+
+He stood at the roller door for a second looking at the bench.
+
+It was swept. The whole of it, from the far end to the near end, and there is dust in the grain of the beech along the front edge where the grain has been raised, and there is a clean place on the bevel of the shoebox lid where the dust normally sits and nowhere else.
+
+The shavings from this afternoon are lying on the clean part of it in a fan, about a foot across, from where he has been knocking the pencil out of the line on a piece he is scribing at the trestles.
+
+They are on top of the sweep. They are not under it.
+
+So somebody swept this bench in the middle of the day, while he was out in the yard on the far side of this unit with his back to it.
+
+---
+
+He went out and looked at the lane.
+
+There is nothing in the lane.
+
+He could have gone along to two doors down and asked one question and got one answer, and it would have been the wrong answer, because whoever swept that bench was not going to be standing in her own front path in the middle of a Wednesday. They would be at home with their own hands and their own day and no reason in the world to say one word about a bench.
+
+---
+
+He left it until the end of the day.
+
+That is the part he would think about afterwards and not about the length of oak.
+
+He left the bench swept at about the middle of the day, with his shavings on it, and he did not mention it to anybody, and he went back to the trestles, and then at the end of the day he carried his own bin out to the kerb by the front of the unit, which he has not done since the spring and which he did without a word to anybody, and put it at the kerb and left it.
+
+Then he came back up the yard and shut the gate behind him.
+
+---
+
+He got the brush off the wall by the paint and went over the bench all of it, from the far end to the near end, and along the front of it and round the legs of the trestles, and he did not stop at the shavings and he did not put them somewhere. He put them with the rest of it.
+
+Then he put the brush back against the wall by the paint, with its head down, where it lives.
+
+The length is still out on the trestles with the shoulder scribed on it and not cut, and he looked at it once on the way past and did not go back for the saw.
+
+He pulled the roller door down to about the height of his belt and stood in the half-dark inside his own unit with the bench clean behind him.
