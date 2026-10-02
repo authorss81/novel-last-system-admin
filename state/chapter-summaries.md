@@ -1823,7 +1823,7 @@ The first eight lines below are unchanged from the block as first written. 0727 
 
 **0744, Saturday the twenty-third of July. The woman at number ten and the paper in the drawer.** A ply offcut comes off the yard wall and is stood against the shed where the felt has gone, not nailed, doing a job badly and for nothing. Her sister is offered the three lines for her own table and is refused, because that would make it her sister's job. She tells her sister she will put the paper in the drawer and does not do it in front of her. After her sister has gone she pulls the drawer out, puts the paper down on the hammer and the screwdriver, and shuts it, on purpose, with the means and the job in one place where the two do not fit.
 
-## 0745–0754
+## VOLUME 05, CONTINUATION 0056 — CHAPTER SUMMARIES 745–754, TUESDAY 26 JULY TO TUESDAY 30 AUGUST 2022
 
 0745, Tuesday 26 July. Woman of seventy-eight at twelve finds the bin at the kerb that her sister has been taking out and bringing back for a fortnight, lets her do it again that day, and neither of them says one word about it. A washday is settled for the Wednesday after. The bin comes back with the lid on the bottom and she turns it over without saying anything. Ends with it standing the right way up and the kettle on the ring again.
 
@@ -1845,7 +1845,7 @@ The first eight lines below are unchanged from the block as first written. 0727 
 
 0754, Tuesday 30 August. Woman in early thirties at ten tells the boy over the fence that she is not going to be asking him for anything ever again, and he says she can. Finds the dustpan full and empties it herself. Puts his ball back over the fence at him instead of down the garden. Hears a ply offcut come off her own shed in the first wind, carries it back up the yard and stands it again at the same angle against the same loose felt, and does not go out to it.
 
-## 0755–0764
+## VOLUME 05, CONTINUATION 0057 — CHAPTER SUMMARIES 755–764, SATURDAY 3 SEPTEMBER TO THURSDAY 13 OCTOBER 2022
 
 0755, Saturday 3 September. Woman of seventy-eight rakes the yard at twelve; her sister barrows the four loads under the shed eave instead of by the step; both walk round the heap and neither moves it. Ends with the rake on its nails and a dark stripe coming up the shed wall.
 
@@ -1863,6 +1863,20 @@ The first eight lines below are unchanged from the block as first written. 0727 
 
 0762, Monday 3 October. Woman in her late forties wants the grit out of the roller door's rail; the woman who books work brushes it away from the door into the corner at the leg of the rack. Ends with her hand flat on the rail.
 
-0763, Friday 7 October. Woman in her late fifties has the loose slab on the front path; a man from up the road beds it high at the door end so it sheds; the slab tilts the other way and rocks at the far end. Ends in the dark with the bar and the firewood left out by the gate and her hand still feeling the shape of the far corner of it. This line and the closing-image entry in the band file both used to end on grit still in her fingers, which is 0758's hand and not 0763's, and both are corrected by the review of 2 October 2026; the scene is unmoved..
+0763, Friday 7 October. Woman in her late fifties has the loose slab on the front path; a man from up the road beds it high at the door end so it sheds; the slab tilts the other way and rocks at the far end. Ends in the dark with the bar and the firewood left out by the gate and her hand still feeling the shape of the far corner of it.
 
 0764, Thursday 13 October. Woman in her early thirties and her sister sweep out the floor of the shed at ten and neither shifts the bench off the wall; the broom reaches most of the way under and stops at the trestle leg. Ends on the corner under the bench as black as it was.
+
+## WHAT THE REVIEWS OF 0056 AND 0057 CHANGED ON THE PAGE, SO THAT A LATER WRITER DOES NOT READ A SUMMARY THAT DISAGREES WITH A FILE
+
+Prose wins over every card and over every line written here. Nothing below moved a date, a family, a band, a standing object or a planned turn, and no chapter was rewritten.
+
+**0745, the review of 0056.** Two speeches ran together in one paragraph, the sister's complaint and the protagonist's question, and they are now two paragraphs; it was the only such join in the twenty chapters of the two newest blocks. The chapter also gave number twelve a washing line, and canon puts the line and the too-tight shed-end peg at number ten. The sentence that did it was garbled as well, two subjects and the same phrase twice. The protagonist's own line is gone. She has nothing to hang washing on and cannot get to the far end of her own yard with her hands full, and the sister brings her own line over from her own house. The washday, the four sheets, the forty minutes, the four sentences, the near end, the far end and the line about not doing somebody's washing all stand, and the summary above is unchanged because nothing in the scene moved. **Number twelve has no washing line and never had one.**
+
+**0759, the review of 0056.** The clause dating the undoing of the latch to a time before the summer contradicted 0749, which says nobody has ever been on the other side of that latch in the time she has had the yard. The absolute is the load-bearing image and is quoted in the continuity file, so 0759 is the side that gave. It now says the latch has not had anybody on the other side of it in this yard in the time she has had it, which makes the unlocking in 0759 the first time, which is what the chapter was written to be.
+
+**0763, the review of 0057.** This entry used to end on grit still in her fingers and carried a note about it inside the entry. The hand in 0763 is her own on the shape of the far corner of the slab, and grit in the fingers is 0758's hand. The entry above is corrected and the note is here instead of inside it.
+
+**The two headings above had dropped the VOLUME 05 CONTINUATION prefix that every other block in this file uses, so a search on the block name missed them. Both are restored and nothing else in the headings changed.**
+
+**Word counts moved and were re-taken off the files.** 0745 is 1714 and the block is 17068, where it was 1734 and 17088. 0759 is 1576 and its block is 16174, where it was 1567 and 16165. Every chapter in both blocks is still between 1400 and 1800.

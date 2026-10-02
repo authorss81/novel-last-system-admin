@@ -48,7 +48,9 @@ Inside they drink the tea standing, and her sister goes over to the window and l
 
 They take the sacks out of the corner of the yard where the sacks go, and her sister carries them down in two goes, and they get the lid up and the sacks in, and the smell off a yard in the last week of July comes up out of it and goes straight through the nose and down the back of the throat.
 
-"That is two bin bags of that in a fortnight," her sister says, tipping the last one in. "And it has wanted doing in between, whatever you say about it." "What are you putting in it."
+"That is two bin bags of that in a fortnight," her sister says, tipping the last one in. "And it has wanted doing in between, whatever you say about it."
+
+"What are you putting in it."
 
 "Everything comes in it," she says. "The tea leaves and the peelings and anything the mice get at out of the cupboard, and I have a woman comes for the old paper and she has never once put anything in the bin in her life."
 
@@ -90,11 +92,11 @@ Back in the kitchen there is the tea and the cups and the envelope on the right 
 
 "The same as I do every week," her sister says. "I do it Monday night and hang it Monday night and it is wet again by the time I have got to it on the Wednesday."
 
-"I have a line on the side of my own house and a washing line at the back of mine has been standing up since before Christmas and I have not put a sheet on it since before Christmas."
+"I have not had a sheet out since before Christmas."
 
-"Then why have you not put a sheet on it."
+"Then why have you not put a sheet out."
 
-"Because I cannot get to the far end," she says, "and because I have got nobody to come and do the far end for me, and because the next week after I do it I will want somebody again, and there is nobody."
+"Because there is nothing to put them on," she says, "and because I cannot get to the far end of my own yard with my hands full, and because the next week after I do it I will want somebody again, and there is nobody."
 
 Her sister put her cup down on the table.
 
@@ -102,7 +104,7 @@ Her sister put her cup down on the table.
 
 "I cannot do it Tuesday. I have got the woman for the front door at eleven on Tuesday."
 
-"The Wednesday after then," her sister says. "Bring them out and put them in the basket and I will do the far end, and you will do the near end, and I am not doing your washing."
+"The Wednesday after then," her sister says. "I will bring my own line over and put it up across the back of your yard, and I will do the far end, and you will do the near end, and I am not doing your washing."
 
 "I know you are not doing my washing."
 

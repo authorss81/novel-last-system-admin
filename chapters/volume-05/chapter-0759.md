@@ -32,7 +32,7 @@ The boy is at the gate before she has the fork into the ground.
 
 "That is the same as this and worse." He looks at the barrow. "Can I have the barrow."
 
-She looks at him through the gap and then at the bed with the stalks standing in it, and then she undoes the latch, which she has not done for him since the summer.
+She looks at him through the gap and then at the bed with the stalks standing in it, and then she undoes the latch, which nobody has been on the other side of in this yard in the time she has had it.
 
 "You will not take the spade." She hands him the fork and keeps the spade against her own leg. "That is not a fork job and you will do yourself an injury with it inside ten minutes. Fork only, and you go slow, and if I say stop you stop."
 
