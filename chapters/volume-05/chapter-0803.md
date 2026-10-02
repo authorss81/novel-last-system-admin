@@ -60,7 +60,7 @@ The shelf is made on the ground before it goes up.
 
 It is a length of deal about four inches wide and an inch and a half thick with the arris taken off both long edges, and it is not a beautiful thing. They cut it on the trestles and bore four holes in it while it is on the trestles, two for each bracket.
 
-The brackets are made up out of flat iron, three-quarters of an inch wide and an eighth thick, and each one is an upright about three feet six with a short arm turned at the bottom of it at a right angle, and the upright goes up the face of the wall and the arm goes out under the shelf.
+The brackets are made up out of flat iron, three-quarters of an inch wide and an eighth thick, and each one is an upright about two feet long with an arm of eight inches turned at the top of it at a right angle, so that the arm goes out under the shelf and the upright goes up the face of the wall behind it and none of the ironwork stands above the board.
 
 Two of them go up the wall four feet apart, screwed into the brick.
 
@@ -70,7 +70,7 @@ Four screws each, into lead plugs driven into the joints, and they go in brass b
 
 Then the braces, and that is the part that decides whether it is still there in ten years.
 
-Each bracket gets a diagonal. A length of the same flat iron about three feet long goes from the outer end of the arm, on the underside of it, back and down into a joint in the wall about a foot and a half below the bracket, so that everything that tries to pull the arm of that bracket down is pulling on the diagonal instead, and the whole of the pull comes onto the brick instead of onto four screws.
+Each bracket gets a diagonal. A length of the same flat iron about twenty inches long goes from the outer end of the arm, on the underside of it, back and down into a joint in the wall about a foot and a half below the bracket, so that everything that tries to pull the arm of that bracket down is pulling on the diagonal instead, and the whole of the pull comes onto the brick instead of onto four screws. Twenty inches is not very much of anything, and it does not have to be, because it is not the length of it that is doing the work: it is that it runs down and back into the wall instead of along the face of it, and the arm cannot come down without the wall taking it.
 
 A bracket on its own into a wall like that is a bracket for a shelf with a box of matches on it. A shelf like that with a tub of iron on it is four foot of lever against nine inches of solid brick, and the four screws of the bracket alone would draw out over a few winters and take about a foot of face off the wall with them.
 
@@ -102,4 +102,6 @@ The coal hole on the other side of that house is shut and the load standing in i
 
 She has been round that wall twice with her own thumb and her own knuckle since it went up, and there are two small brass screws in the sound joint at each end of both brackets and nothing at all in the sill, and the diagonal off the end of each arm has a fixing in the joint below it, and none of that is where a shelf stands on a house and she did not know any of it.
 
-It took four hours and it took two people, and there is nobody at number nine to take the other end of a bar.
+Then she goes down onto the middle of that bay with the tub off it for the first time since January and stands on the joint and looks down the whole length of it.
+
+It is close all the way along. She has had a tub of iron standing on the top of it since January and she has never once looked down at it, and the joint was made good in the January and is exactly as it was left.

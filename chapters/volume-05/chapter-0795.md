@@ -40,7 +40,7 @@ He has a box of them under the bench. He means to take that gate off its hinges 
 
 He does not take that seriously at first, and then he looks at the gate properly for the first time since the summer.
 
-The gate is a rectangle and it is not a rectangle. It has hung on those two hinges all winter with all of its own weight coming down on the far corner, and that corner has dropped about three inches and gone out from under the frame in the same twenty years, and the two sides of it that were cut to be the same length are a good deal out. Where the slats meet the rails the joints have opened on the diagonal and you can see daylight through the top joint on the latch side.
+The gate is four feet by three and it is a rectangle and it is not a rectangle. It has hung on those two hinges all winter with all of its own weight coming down on the far corner, and that corner has dropped about three inches and gone out from under the frame in the same twenty years, and the two sides of it that were cut to be the same length are a good deal out. Where the slats meet the rails the joints have opened on the diagonal and you can see daylight through the top joint on the latch side.
 
 If he packs that stile he is packing a stile that is carrying a load across it. The load is not straight down the stile. It comes off the far end of the gate and across to the hinge side on the diagonal, and the packing is across that diagonal and does nothing about it.
 
@@ -58,7 +58,7 @@ Then she squares it, which is a different thing from packing it.
 
 She does not do it by driving anything. She puts a long brace in first and lets the brace do the work.
 
-She has a length of softwood with her, about three feet and square in section and about an inch and a half through. She lays it across the frame from the bottom of the hinge stile to the top of the latch stile and marks where it crosses each of them, and she takes a chisel and cuts a housing in each stile for it — not a slot in the face, but a shallow bed cut into the thickness of the wood on the inside of the frame, so that the brace goes down into the timber and part of it is inside the gate and part of it stands out on the inside, and you can see the joint at each end and it is not a stick laid on the front of a gate.
+She has a length of softwood with her, about five feet and square in section and about an inch and a half through, which is as near as a bit of a batten goes to the length of that corner. She lays it across the frame from the bottom of the hinge stile to the top of the latch stile and marks where it crosses each of them, and she takes a chisel and cuts a housing in each stile for it — not a slot in the face, but a shallow bed cut into the thickness of the wood on the inside of the frame, so that the brace goes down into the timber and part of it is inside the gate and part of it stands out on the inside, and you can see the joint at each end and it is not a stick laid on the front of a gate.
 
 "You have taken the corner out to put it back."
 
@@ -112,6 +112,8 @@ It is the only thing in that yard tonight he could not have done. It is lying on
 
 He stands in the middle of his own yard with his hand flat on the boards and works out where the far corner was before it came back up — two fingers of a bar from the bottom rail and a foot and a half up the stile, and about an hour with the door open to the light.
 
-There is one bar in that yard and one length of softwood and there are two people in what he has just watched, and there is him.
+Then he goes out to the gate in the gap, because it is standing open on its post and it is the only way in or out of that yard.
 
-The gate is square and it comes home with a hand. It will do that for as long as the brace is in it, and the brace will be in it for twenty years, and there is nothing at all wrong with that gate and nothing at all he can do about it.
+It comes across as far as it ever has and stands a hand's width short of the frame and stays there. He puts the flat of his hand on the boards and walks it twice and it does the same both times, and the latch is hooked back over a frame that has nothing on it at all, and that leaf has been leaning on that post since the spring and its far corner has come down about as far as this one's did.
+
+He leaves the gate open. It is the only way in and out and it will be in the morning.

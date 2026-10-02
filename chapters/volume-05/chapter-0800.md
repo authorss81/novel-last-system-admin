@@ -2,7 +2,7 @@
 
 Thursday the sixteenth of March 2023, in this borough. All of that Thursday goes on the air brick at the back of that unit and on the wall behind it, from first light to the last, and the damp coming up that wall is what it is about.
 
-**A MAN IN HIS EARLY FORTIES HAS A DAMP PATCH COMING UP THE WALL BEHIND A COWL ON AN AIR BRICK AND MEANS TO PATCH THE WALL, THE WOMAN FROM TWO DOORS DOWN WILL NOT, AND TAKES THE COWL OFF AND OPENS THE AIR PATH OUT THROUGH THE BRICK AND LAYS A NEW SLATE PLATE OVER IT AND BRACES THE COWL TO THE BRICK BESIDE IT AND MAKES GOOD THE FACE BELOW, AND THE WALL IS DRY TO THE SHOULDER BY THE SUMMER.**
+**A MAN IN HIS EARLY FORTIES HAS A DAMP PATCH COMING UP THE WALL BEHIND A COWL ON AN AIR BRICK AND MEANS TO PATCH THE WALL, THE WOMAN FROM TWO DOORS DOWN WILL NOT, AND TAKES THE COWL OFF AND OPENS A WAY AT THE RUBBLE PACKED BEHIND THE AIR BRICK AND LAYS A NEW SLATE PLATE OVER IT AND BRACES THE COWL TO THE BRICK BESIDE IT AND MAKES GOOD THE FACE BELOW, AND THE WALL IS DRY TO THE SHOULDER BY THE SUMMER.**
 
 He has run that unit for years and nobody at that address thinks about how old he is any more. The woman from two doors down comes in through the roller door in the morning and the two of them go out at the back of the building and spend the day on that wall.
 
@@ -16,7 +16,7 @@ The air brick is on the outside of that same wall, about two feet up, with a cow
 
 The man means to patch the wall.
 
-He has the patching filler and a filling knife and a bag of powdered plaster, and he means to take the blisters off, fill them, and put two coats over the whole six feet of it, and that is what he told the woman who does his shopping he was going to do, and she told him it would not last a winter.
+He has the patching filler and a filling knife and a bag of powdered plaster, and he means to take the blisters off, fill them, and put two coats over the whole six feet of it, and that is what he told her he was going to do, and she told him it would not last a winter.
 
 ---
 
@@ -52,7 +52,7 @@ She puts her fingers into that gap and brings about a half inch of wet grit out 
 
 Then she opens the air path, and it is the whole of the job.
 
-The air brick is four bricks set into the face of the wall with the courses above and below going across it. She knocks the mortar out of the head and the two sides of it with a cold chisel, so that those four bricks stand in an opening of their own with the courses above and below of them cut through and going straight on either side, and then she goes in with the bar and a length of scaffold tube she has bent into a hook at the end, and she works the rubble out of the void behind that opening.
+The air brick is four bricks set into the face of the wall with the courses above and below going across it, and the throat of it is open, because it has been open since the year it was built and that is what it is for. What is behind the throat is what is in the way: a pocket of rubble packed hard against the back of it with no way at it from anywhere. She knocks the perpends out of the course directly under that brick with a cold chisel and takes that course out entire, so that the opening goes down a course and there is flat ground at the bottom of it to work a bar and a hook into, and then she goes in with the bar and a length of scaffold tube she has bent into a hook at the end, and she works the rubble out of the void behind.
 
 It comes out in lumps. The packing behind that brick is a pocket of rubble about the depth of a bucket, going back and up into a pocket under the floor that was filled in the year it was laid, and she gets at it from the outside on the bar and then she gets at it from the inside on the hook through the gap where the boards have lifted at the skirting. It takes most of the morning and both of them and it makes about nine or ten bucketfuls, and most of it went out through the gap at the skirting and was shovelled out of the way of that door.
 
@@ -66,7 +66,7 @@ Then the plate.
 
 She does not point the hole and she does not put a fill over it and she does not put anything wet on that wall anywhere at any point of that day.
 
-She takes the old slate off and breaks it up, and then she dresses a new one on the back of a bucket with a bolster, an inch over on every side than what came off, and she lays it on a bed of the broken-up pieces of the old one. A slate goes on a bed of slate and not on anything else, which is why it has not moved in forty years and which is the whole of what he was trying to do with a bag of powdered plaster on the other side of the wall.
+She takes the old slate off and breaks it up, and then she dresses a new one on the back of a bucket with a bolster, an inch over on every side than what came off, and she lays it on a bed of the broken-up pieces of the old one. A slate goes on a bed of slate and not on anything else, which is why the head of the old one has never come out of the groove that was cut for it and is not going to in another forty years, and which is the whole of what he was trying to do with a bag of powdered plaster on the other side of the wall. The bottom edge is a different matter, and the bottom edge of the old one has dropped the thickness of a coin down the face of that wall in about ten years, and it will go on dropping the same.
 
 The top edge of the new plate goes into a groove cut in the joint above the air brick with the bolster and it is packed at the back of it with small offcuts of slate so that it cannot come out, and it is fixed with four copper nails into the joints either side of it.
 
@@ -74,9 +74,9 @@ The top edge of the new plate goes into a groove cut in the joint above the air 
 
 And then the face of the brick below it.
 
-The two courses of facing brick under that air brick have been blown. Four of them have come out of the face altogether and there are two more that are loose to a chisel, and the joints under them are open the width of a coin and you can see daylight through two of them from inside.
+Under the course she had taken out to open the path there are two more courses of facing brick, and those are the blown ones: four of those eight bricks have come out of the face altogether and the other four are spalled to a chisel, and the joints under them are open the width of a coin and you can see daylight through two of them from inside.
 
-She takes the loose ones out. She takes the spalled faces off the two that were not loose with a bolster, which is what makes good a brick you cannot replace, and then she puts four bricks back into the opening from the stack by the gate, taken from the back of that stack and not off the face of any wall, and she beds them on the chippings that came out of the joints and packs the perpends with the same, and she does not put a trowel to any of it and she does not mix anything, and the face of that brick is not as good as it was when it was laid and it is a great deal better than four holes and two days of rain.
+She takes the spalled faces off those four with a bolster, which is what makes good a brick you cannot replace, and then she puts four bricks back into the opening from the stack by the gate, taken from the back of that stack and not off the face of any wall, and she beds them on the chippings that came out of the joints and packs the perpends with the same, and she does not put a trowel to any of it and she does not mix anything, and the face of that brick is not as good as it was when it was laid and it is a great deal better than four holes and two days of rain.
 
 ---
 

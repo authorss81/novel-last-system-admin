@@ -80,7 +80,7 @@ She does it dry and she does it let in, and she says what a brace is while she i
 
 "No I am not."
 
-"A catch is not a brace and a brace is not a catch, and they do not do each other's work. That gate is hanging on one edge of itself with all its own weight coming down that edge, and that edge is about to be eighteen inches long instead of four, and the bottom of it has been a foot off the ground for twenty years. Something has to keep the corners of that frame square."
+"A catch is not a brace and a brace is not a catch, and they do not do each other's work. That gate is hanging on one edge of itself with all its own weight coming down that edge, and each hook on that edge has four inches of oak in front of it, and that is going to be eighteen. The bottom of that edge has been a foot off the ground for twenty years. Something has to keep the corners of that frame square."
 
 She lets a length of oak into the hanging stile and the free stile on the diagonal, the whole length of the gate from the bottom of the new stile to the top of the far one, housings cut into the thickness of both stiles and one bolt through each end into the rail behind, and the brace goes in the frame instead of on the front of it.
 
@@ -88,9 +88,9 @@ She lets a length of oak into the hanging stile and the free stile on the diagon
 
 Then the two new jamb hinges, and they are the reason a gate on a wall can be taken off and put on.
 
-Jamb hinges are a pin with a hook at the top of it, and the hook goes into a socket cut in the jamb and the gate hangs off the hook and can be lifted off the hook and put back on the hook without the pin ever coming out. There are a pair of new ones at each end of the hanging stile, four inches apart, so that the load is not on one hook at one moment.
+Jamb hinges are a pin with a hook at the top of it, and the hook goes into a socket cut in the jamb and the gate hangs off the hook and can be lifted off the hook and put back on the hook without the pin ever coming out. There are a pair of new ones on the hanging stile, four inches apart, so that the load is not on one hook at one moment.
 
-The jamb at that end is an oak post and not masonry, which is why a hook can be in it at all. The old two are out — a chisel and a bar and about ten minutes — and the new sockets are opened out to take the new hooks and packed behind them with a hardwood offcut so that they cannot turn in the oak. And they are set plumb with a short level stood against the face of the post, and that is what the level is for, not for the gate; it is for the hooks, because a jamb hook that is not plumb is a gate that hangs crooked.
+The jamb at that end is an oak post and not masonry, which is why a hook can be in it at all. The old two are out — a chisel and a bar and about ten minutes — and each of them had four inches of oak in front of it and four inches of oak behind. The new sockets are opened out eighteen inches further into that post and packed behind with a hardwood offcut so that they cannot turn in the oak, and eighteen inches of oak in front of a hook is not going to come out of a post with a whole leaf hanging off it. And they are set plumb with a short level stood against the face of the post, and that is what the level is for, not for the gate; it is for the hooks, because a jamb hook that is not plumb is a gate that hangs crooked.
 
 And she sets the stay in the ground.
 
@@ -104,7 +104,7 @@ The old woman does not touch it while it goes up. She stands clear and her siste
 
 Then her sister puts the bolt home.
 
-The bolt goes across. The free stile of that gate is a hand's width back where it belongs because the frame has come back into the square it was cut in, and the new hanging stile is eighteen inches long where the old one was four, which is enough to hang a whole leaf off for twenty years, and the bolt goes into the keep.
+The bolt goes across. The free stile of that gate is a hand's width back where it belongs because the frame has come back into the square it was cut in, and there are eighteen inches of oak in front of each of those hooks where there were four, which is enough to hang a whole leaf off for twenty years, and the bolt goes into the keep.
 
 Her sister puts her thumb on the head of the bolt and pushes it and it goes in as far as it will go.
 
@@ -120,6 +120,6 @@ She opens it again and it comes back against the wall on its own, and shuts it a
 
 The old woman stands in her own yard with her hands still on the rail, and the gate is shut, and it stays shut while she stands there.
 
-A gate shuts and latches by being square, and being square is not a thing a person can talk into it. She has had five months of that gate standing against the render with its top rail at the height of her chest, and there is no pull on that handle now and no hip against it and no bar off the wall, and there is a bolt going into a keep that has been in that pier since before she came.
+A gate shuts and latches by being square, and being square is not a thing a person can talk into it. She has had five months of that gate standing against the render with its top rail at the height of her chest, and there is no pull on that rail now and no hip against it and no bar off the wall, and there is a bolt going into a keep that has been in that pier since before she came.
 
 It is shut.

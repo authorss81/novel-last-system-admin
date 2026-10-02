@@ -2,7 +2,7 @@
 
 Saturday the fourth of March 2023, in this borough. The whole of that day in that lock-up is one roller shutter off its drum and cleaned along its track and back on again, and it takes two of them and a bar.
 
-**A WOMAN IN HER LATE FORTIES HAS A ROLLER SHUTTER THAT JUDDERS AT THE HEAD BECAUSE ITS GUIDES HAVE BEEN PACKING WITH GRIT SINCE THE AUTUMN AND MEANS TO CLEAR THE GRIT OUT WITH A BRUSH AND A MACHINE, THE WOMAN WHO BOOKS WORK PUTS TWO BARS UNDER THE BOTTOM RAIL AND STANDS ON THEM AND HAS THE CURTAIN LIFTED OUT OF BOTH GUIDES, AND THE DRUM AND THE WHOLE LENGTH OF BOTH GUIDES CLEANED, AND IT RUNS UP AND DOWN WITHOUT A SOUND.**
+**A WOMAN IN HER LATE FORTIES HAS A ROLLER SHUTTER THAT JUDDERS AT THE HEAD BECAUSE ITS GUIDES HAVE BEEN PACKING WITH GRIT SINCE THE AUTUMN AND MEANS TO CLEAR THE GRIT OUT WITH A BRUSH AND A MACHINE, THE WOMAN WHO BOOKS WORK PUTS TWO BARS UNDER THE BOTTOM RAIL AND STANDS ON THEM SO THAT THE WEIGHT OF THE HANGING PART OF THE CURTAIN IS OFF BOTH GUIDES AND THE BOTTOM OF EACH CHANNEL IS OPEN TO THE FLOOR, AND THE DRUM AND THE MOUTH OF THE HOUSING CLEANED, AND IT RUNS UP AND DOWN WITHOUT A SOUND.**
 
 She is a woman in her late forties and has been the length of that building's life. The woman who books work comes up the ramp and in at the head of the bay in the middle of the morning, through that shutter, while it is up and doing what it does at the head of it.
 
@@ -46,15 +46,15 @@ The woman who books work stands under it and listens to it go up and it goes on 
 
 ---
 
-They get the shutter's weight off its drum and off both guides, and that takes two of them and a bar each.
+They take what is hanging of that curtain off both its guides, and that takes two of them and a bar each.
 
 The shutter goes down first, all the way, so that the drum stands empty in its brackets with nothing wound on it, and that takes a minute and a half and makes that judder going down.
 
 Then the two of them go under the bottom rail of the curtain with the two bars.
 
-The bottom rail is a bar of iron across the bottom of the slats and it runs in the channel of the guide, and there is one bar lying in the corner by the office door about eight feet of square steel tube and another one behind the shelving. They put them in under the bottom rail at each end, crossways, and stand on them. Standing on them lifts that bottom rail up out of the two guide channels and takes the whole weight of the curtain off the drum and off both guides at the same time, and while it hangs there the bottom of each guide is open to the floor and the drum in its brackets above it is free to be got at.
+The bottom rail is a bar of iron across the bottom of the slats and it runs in the channel of the guide, and there is one bar lying in the corner by the office door about eight feet of square steel tube and another one behind the shelving. They put them in under the bottom rail at each end, crossways, and stand on them. Standing on them takes the weight of the hanging part of that curtain off both guides and puts it on two bars and the floor, so that the bottom rail rides up in the two channels instead of down in them, and the bottom two feet of each channel is open to the floor to get a brush and a bar into. The drum in its brackets above it is free to be got at, and it always was.
 
-Then the woman who books work tells the woman of the lock-up to stand still on them, and she goes over the curb and gets a brush and a bar and a bucket.
+Then the woman who books work tells the woman of the lock-up to stand still on them, and she goes over the kerb and gets a brush and a bar and a bucket.
 
 ---
 
@@ -68,7 +68,7 @@ Then the head of it, and this is why the two bars matter.
 
 There is a length of scaffold tube leaning at the head of the bay with a rag wired round the end of it, and she puts it up into the mouth of the housing and works the rag round the drum with it. The drum is a steel barrel on a shaft and about four inches of it, and there is a band of grit packed right round it where the curtain has been lying on it and coming off it again every time that shutter has moved since the autumn. It comes off in rings and it is the only part of that shutter that has never seen daylight.
 
-The noise is made in the mouth of the housing and there is very little of it in there at all. She cannot get her hand up there and she is not going to try for it. She goes right round that drum and right round the mouth of the housing with the rag on the end of the tube, working from the curb, and she does not touch the shaft — everything hanging off that shaft has the whole weight of that curtain through it — and she brings down about a hatful of grit that has been packed there since before the middle of January.
+The noise is made in the mouth of the housing and there is very little of it in there at all. She cannot get her hand up there and she is not going to try for it. She goes right round that drum and right round the mouth of the housing with the rag on the end of the tube, working from the kerb, and she leaves the shaft alone, because a shaft that has turned in one bearing since January is bright where it runs and there is nothing on it to take off, and she brings down about a hatful of grit that has been packed there since before the middle of January.
 
 ---
 
@@ -90,10 +90,12 @@ Then she takes the chain and puts it up to the head, and it comes up off the dru
 
 "You knew it was grit and you knew it was up high, and there is no way to that head of that housing from the floor with a brush and a machine, and that is not a fault and it is only what it is." She is putting the bar back against the wall by the office door and there are two of them there now where there was one, because the other one came out of the shelving and it is not going back in there. "That shutter wants somebody standing on something for as long as it takes to get under it, and it is not a thing a person can be doing and standing on at the same time."
 
+The second bar is leaning against that wall with the first one and she has never stood on it and does not want to for another year, and she knows to the foot where it goes and what it is for, and that is the whole of what she has got on that wall.
+
 ---
 
-They go down the ramp and out through the gate, and the shutter is down behind them and there is nothing in it to be heard.
+They go down the ramp and out through the gate, and the shutter is up behind them.
 
-The woman of the lock-up stands at the foot of the ramp with her hand still on the chain and listens to that shutter sit at the top of its own housing without saying anything at all.
+The woman of the lock-up stands at the foot of the ramp with her hand on the chain and sends it up twice more and brings it down twice, and stands clear of it and listens at the head of it each time.
 
-There are two bars by the office door where there was one. She did not have a spare and she has one now and she has never used it and she knows what it is for, and she knows that the next time the wind gets up that wall and the rain drives across the yard at it, that is a morning she will have to stand on one of those bars while somebody she has not got takes a brush to the head of that housing.
+It does not come. That knock has been in that building every working day since the January and she had stopped hearing it some time before anybody came and looked at it, and it is not there this afternoon, and there is nothing that is going to put it back.

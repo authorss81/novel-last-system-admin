@@ -82,7 +82,7 @@ A keep that long has to be let in rather than screwed on to the face, and lettin
 
 They go in a hand's width higher than the old three did, which means every old hole is plugged and every new hole is somewhere else in the jamb, and the woman who does her shopping finds them with a bradawl and opens them with a cold chisel because a jamb of that thickness does not take a screw into new oak very well and it takes it into old oak very badly.
 
-And the head has to be made good for it, because a leaf hung four inches higher than it was has to have four inches of head over it or it will not shut at all. The head of that frame is a timber lintel and she takes the top three inches off the underside of it with a saw and a chisel, because the top of that door is four inches of solid oak and there is four inches of old frame above it that nobody has looked at since it went in.
+And the head has to be made good for it, because a leaf hung four inches higher than it was has to have four inches of head over it or it will not shut at all. The head of that frame is a timber lintel with four inches of old frame under it that nobody has looked at since it went in, and she takes those four inches off the underside of it with a saw and a chisel, because the top of that door is four inches of solid oak and it has just gone up four inches.
 
 Then the door goes back on, one hinge at a time, and the leaf comes into the opening five inches further out and four inches higher than it hung before, and the bottom of it comes clear of the top of that stone by the better part of an inch.
 
@@ -108,4 +108,4 @@ She goes round the yard and comes back to it and closes it, and then opens it an
 
 She stands in her own yard and runs her thumb along the head of that door where it now sits four inches higher than it did, and along the jamb where the new keeps are let into the front half of it, and along the bottom edge that she was going to take four shavings off and has not touched.
 
-That door weighs what it weighs and there are two of them who know how much that is, and it is standing against her own back wall with its new keeps in it, and there is nobody else in that yard.
+Then she goes and puts the edge of her hand on the stone. The stone is where it was and it is the same stone it was in the spring and it will be there when the next thing on that house comes off its hinges. That stone is not going anywhere and it never has, and whatever gets hung in that opening after this will have to shut over it as well.

@@ -24,7 +24,7 @@ Her plan is to take it down and put it out on the road.
 
 "I am putting it out on the road. It has to go somewhere and the road is there."
 
-"It is a hundred yards to that gate and it is the width of a barrow and you would be going up and down it twenty times." Her sister has a fork in her hand and she has not put it down. "And what are you putting on the road."
+"It is out of that gate and on to the road and back twenty times, and every one of those twenty goes past eleven front doors." Her sister has a fork in her hand and she has not put it down. "And what are you putting on the road."
 
 "Cut grass."
 
@@ -44,9 +44,9 @@ Twenty goes.
 
 The old woman takes the barrow out.
 
-She takes it across the yard on the line of the shed and through the gate and away to the far end, where there is ground that has not had anything on it since before she came and has not been dug since before the war, and she tips each load where she has decided it goes.
+She takes it across the yard on the line of the shed and away to the far end of it, where there is ground that has not had anything on it since before she came and has not been dug since before the war, and she tips each load where she has decided it goes.
 
-It is a hundred yards each way and the barrow has a flat on it that has been flat since she came, and she goes at a good deal of a walk and she does not hurry one of them, because the twenty loads are going to be laid and where they go matters more than how quickly she gets them there. There is a line of worn grass already in that yard from the back door to the shed and she goes along the edge of it and not down the middle, so that in the summer there will still be a path under that grass and not two.
+It is the length of that yard each way and the barrow has a flat on it that has been flat since she came, and she goes at a good deal of a walk and she does not hurry one of them, because the twenty loads are going to be laid and where they go matters more than how quickly she gets them there. There is a line of worn grass already in that yard from the back door to the shed and she goes along the edge of it and not down the middle, so that in the summer there will still be a path under that grass and not two.
 
 ---
 
@@ -88,4 +88,6 @@ They clear up late and her sister goes out of the gate with the barrow and the f
 
 She knows exactly which barrowful went where. She can tell you that the first three were the black ones off the bottom and that the fourth and the ninth were wetter than the ones round them because they were under the north shoulder, and she can tell you about a foot deep over ten square yards and not a foot deep over four.
 
-That took two people and a day and she has done every barrowful of it herself. She could not have got that fork into the bottom of that heap at the wall without somebody else standing at the barrow, and there is nobody in that yard who would stand at a barrow.
+Then she goes back down that yard on her own, from the shed to the gate, the whole way.
+
+The worn line from that back door to that shed has been in that yard since before she came and it is a foot and a half wide where her feet go. She walks down one side of it and back up the other, and there is a strip of ground in the middle of it that has not had a boot on it in twenty years, and in the summer there is going to be grass over that as well.

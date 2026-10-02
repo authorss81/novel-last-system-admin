@@ -82,7 +82,7 @@ It stands on its own bottom on the shed floor for the first time since the May b
 
 Then the topsoil goes back in.
 
-It goes in in three goes and she puts it in with a bucket and she levels it off with the back of her hand, and the sack stands up on its own bottom with three quarters of a bucket of topsoil in it, and she lifts it by the rim with one hand and walks it to the beds and puts it down, and it does not go over.
+It goes in in three goes and she puts it in with a bucket and she levels it off with the back of her hand, and the sack stands up on its own bottom with a little over half a bucketful of topsoil in it, and she lifts it by the rim with one hand and walks it to the beds and puts it down, and it does not go over.
 
 The hank of twine is on the bench with about a foot and a half of it left on it and the needle is beside it stuck in a piece of cork, because that is what she has always done with a needle.
 
@@ -92,6 +92,6 @@ The offcut of hessian that came off the bottom of that sack is folded and pushed
 
 Her sister goes out of the back door of that yard with her bag and her coat and the knife, and the woman of the house stands in the shed doorway with the sack behind her and watches her go out through the yard and does not go out of it.
 
-She kept that join flat all the way round a sack with her thumbs and could not have got a needle through it by herself, and there is not going to be anybody standing in that shed with a bag in August or in October or in any month after this one.
+She kept that join flat all the way round a sack with her thumbs and could not have got a needle through it by herself.
 
-The sack will stand on its own bottom. The one after it will not.
+That is all that has been done to that sack this afternoon and it is what will have to be done to the one after it, and the one after it is not until August.

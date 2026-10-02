@@ -27,7 +27,7 @@
   },
   "figure_rule_for_this_block": "Five standing figures, one band each, kept for the whole block, and no figure anywhere in the ten is aged except those five. Late fifties stays at number nine alone, two chapters, 0799 and 0803. No early fifties and no late fifties figure is added to anybody. Roster by eyes: 0795 early forties, 0796 early thirties, 0797 late forties, 0798 seventy-eight, 0799 late fifties, 0800 early forties, 0801 late forties, 0802 seventy-eight, 0803 late fifties, 0804 early thirties. THE BAND BELONGS TO THE PERSON AND NOT TO THE POSITION, SO THE LOCK-UP IS LATE FORTIES HERE AS SHE WAS IN 0776, 0781, 0785 AND 0790, AND EVERY FIGURE KEEPS THE BAND SHE OR HE HAD IN 0060.",
   "declared_ordinary_word": "brace",
-  "declared_ordinary_word_note": "Declared before any prose of 795 to 804 exists. It may not be not, usually, anyway, like, just, enough, still, kind, quite, small, round, one, week, almost, anything, and then, nearly, away, count, garden, shoulder, work, or any other word this file declares. BRACE is a ground and joinery word and not filler: a diagonal brace across a gate is the actual method in 0795, and it is named in 0798 and 0803 against a rule.",
+  "declared_ordinary_word_note": "Declared before any prose of 795 to 804 exists. It may not be not, usually, anyway, like, just, enough, still, kind, quite, small, round, one, week, almost, anything, and then, nearly, away, count, garden, shoulder, work, or any other word this file declares. BRACE is a ground and joinery word and not filler: a diagonal brace across a gate is the actual method in 0795, it is named in 0798 and 0803 against a rule, and 0800 names it out loud over the front of a cowl. Four chapters in all.",
   "bands": {
     "per_chapter": {
       "0795": "early forties",
@@ -137,7 +137,7 @@
   },
   "cards": {
     "0795": "At the unit a man in his early forties has a gate on two hinges that has to be lifted to be shut, and means to pack the hinge stile with wedges and screw it tight; the woman from two doors down takes the gate off its hinges on trestles, gets the stile back into square with a long diagonal brace bolted across two corners and let in so that it is part of the frame and not a stick on the front of it, hangs it back on new buttons so that it shuts with a hand's weight and not a shoulder, and it shuts; the gate is right and the gate is square and the latch is still hooked back over it because the staple on the frame is not done until April, and he has now watched the whole of a two-person job from the off and he cannot do any of it.",
-    "0796": "At number ten a woman in her early thirties has four turns of galvanised wire bitten into a post on a leaning run of close boarding and means to cut them off; her sister cuts them, takes the far post of that run out and gets the bottom rail back on the line of the rest of the run with the wire's own bright bites scarfed over and a new turn of wire put back on, and the run is better than it has been since she took the boarding up; and the woman in her yard now knows precisely how that is done and it is two people and a saw and she is one, and there is nobody on that boundary but her.",
+    "0796": "At number ten a woman in her early thirties has four turns of galvanised wire bitten into a post on a leaning run of close boarding and means to cut them off; her sister cuts them, takes the far post of that run out and gets the bottom rail back on the line of the rest of the run with the wire's own bright bites scarfed over and a new turn of wire put back on, and the run is better than it has been since she took the boarding up; and the woman in her yard now knows precisely how that is done and it is two people and a saw and she is one, and there is nobody on that boundary but her. **THAT LAST CLAUSE WAS THE CLOSING BEAT OF THE FIRST WRITING OF THIS CARD AND THE EXTERNAL REVIEW FOUND EIGHT OF THE TEN CARDS CLOSING ON THE SAME SHAPE, THIS ONE INCLUDED. IT WAS NOT WRITTEN. THE CHAPTER 0796 ON THE PAGE CLOSES ON THE FOUR WIRE BITES CLOSING OVER IN THE POST, AND THE WORDING ABOVE IS KEPT AS THE RECORD OF WHAT WAS DECLARED, NOT AS AN INSTRUCTION.**",
     "0797": "At the lock-up a woman in her late forties has a roller shutter that judders at the top because its track has been packing with grit since the autumn and means to clear the grit out; the woman who books work takes the shutter off its drum on a bar with two of them under it, cleans the drum and the whole of the track and puts it back, and the shutter runs up and down without a sound; and it is two people and a bar and a morning and she knows both halves of it.",
     "0798": "At number twelve a woman of seventy-eight has a gate propped back against a wall since September because it is a gate on a wall it does not close against, and means to have a catch put on it; her sister will not, and lets in a new hanging stile on the wall end, two new jamb hinges and a stop in the ground, and the gate is a gate and shuts and latches; and it is two people and a brace and a level and the old woman has watched all of it and cannot do any of it.",
     "0799": "At number nine a woman in her late fifties has a back door out of line with itself by a hand's width where it crosses a stone because it was hung too far closed in the autumn, and means to plane the bottom of it; the woman who does her shopping takes the door off its hinges, re-hangs it a hand's width higher on new longer keeps so that it shuts on its own frame and not on the stone, and it shuts; and it is two people and a door that weighs what it weighs, and she now knows exactly what has to be done to it and has nobody to do it with.",
@@ -180,7 +180,7 @@
   "still_live_and_taken_up_by_nobody_here": "Four pallets with bearers under them and the wall they came off empty again. The shutter and its track. The near gate square with a brace in it. A gate on a wall that is a gate. A back door shut on its frame. A cowl braced on a plate and the damp stopped at the shoulder. A boundary run with scarfed bites in the post. A heap of grass on ground that has not had anything on it. A shelf under a window with a tub on it. A sack with a new bottom. Off the page and waiting on the man off the ring road, who has now sat out five blocks: a figure for four rooms given aloud twice in a lock-up and written nowhere; a frame out of square which its own man will find at the fitting; a landing wall with a bare patch on it and a mirror in a van; a fourth room at the top of a stair that nobody has priced or looked into. Three lines of paper shut in a drawer on purpose with the tools that would do them. A box in a corner of a lock-up whose lid is not nailed.",
   "measures_taken_at_the_end": {
     "method": "Taken off the files with `workspace/volume-05/continuation-0061/measure_runs.py`, which keeps the dateline inside the body, and with a cross-range run of the same ten-token window against the canon chapters in tens. None of it is added up from a summary.",
-    "words": [
+    "words_before_the_second_external_review": [
       2298,
       2354,
       2010,
@@ -192,7 +192,20 @@
       1926,
       2086
     ],
-    "total_words": 20775,
+    "words": [
+      2376,
+      2387,
+      2065,
+      2298,
+      2008,
+      2211,
+      1958,
+      1920,
+      2054,
+      2081
+    ],
+    "total_words_before_the_second_external_review": 20775,
+    "total_words": 21358,
     "scene_breaks": [
       9,
       11,
@@ -230,12 +243,12 @@
       0
     ],
     "said_total": 2,
-    "declared_ordinary_word_brace": "BRACE, declared before any prose existed, is the actual method in 0795, 0798 and 0803 and is named against a rule in 0798 ('a catch is not a brace and a brace is not a catch') and in 0803 (a brace goes into brick and not into the sill).",
-    "banned_sweep": "0 in all ten on word boundaries.",
+    "declared_ordinary_word_brace": "BRACE, declared before any prose existed, is the actual method in 0795, 0798 and 0803, is named against a rule in 0798 ('a catch is not a brace and a brace is not a catch') and in 0803 (a brace goes into brick and not into the sill), and is ALSO named out loud in 0800 ('That is the brace'), so the honest count is FOUR chapters and not three, at 15, 5, 5 and 4. The three-chapter wording is the first one and is kept on the record here.",
+    "banned_sweep": "39 words in the list and 0 in all ten on word boundaries. The wording thirty-three plus seven that the first measures printed was stale from 0059; the measured list is 39 plus the 6 watched.",
     "watched_words": "0 in all ten.",
     "numerals": "The chapter number and the year only, in all ten.",
     "clock_times": "None. No closed clock time and no day tally in any of the ten; four were written in the first pass and cut, and two more in the repair.",
-    "verbatim_runs": "0 shared ten-token spans across all forty-five pairs of the ten and 0 inside any one chapter. 0 also against the ten canon chapters 0785 to 0794, and 0 against each of 0769 to 0778, 0761 to 0770, 0756 to 0765, 0751 to 0760, 0746 to 0755, 0741 to 0750 and 0736 to 0745. The band file's own dateline stems came to 14 shared spans on the first taking before any prose existed and 0 after rewording, and the finished chapters took the count back to 0 twice during the repair, once from the five introductions at the five houses standing on each other and once from a sentence added to 0797.",
+    "verbatim_runs": "0 shared ten-token spans across all forty-five pairs of the ten and 0 inside any one chapter. 0 also against the ten canon chapters 0785 to 0794, and 0 against each of 0769 to 0778, 0761 to 0770, 0756 to 0765, 0751 to 0760, 0746 to 0755, 0741 to 0750 and 0736 to 0745. The band file's own dateline stems came to 14 shared spans on the first taking before any prose existed and 0 after rewording, and the finished chapters took the count back to 0 twice during the repair, once from the five introductions at the five houses standing on each other and once from a sentence added to 0797. The second external review's repair broke it a third time, at three intra-chapter spans, two of them a replacement sentence written to replace another and sharing its opening, and all three were rewritten. The ten now stand at 0 again, and at 0 against 0736 to 0794 under the same body rule.",
     "chapter_files": 610
   },
   "read_back": {

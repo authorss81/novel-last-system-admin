@@ -90,8 +90,10 @@ Four pallets, on edge, the other way up, off the ground on bearers and off the r
 
 And the woman who books work goes out of the gate and up the lane and does not turn round.
 
-The woman of the lock-up stands with her hand on the rail at the top of the ramp, looking at the sun coming over the far wall and stopping about a foot up the bearers.
+The woman of the lock-up stands with her hand on the rail at the top of the ramp and looks down that wall a while longer.
 
-She put all four of those out into the middle of that yard on a Sunday and she could not have tipped the first one. She has been lifting blocks off lorries and putting them on again since before she came and there is nobody else in that building on any day of the week.
+She put all four of those out into the middle of that yard on a Sunday and she could not have tipped the first one. There are nine feet of clear ground in the middle of that yard with the sun coming over the far wall onto it, and that is what a pallet with nine blocks in it wants, and there is no making it out of the four feet of gap against a wall.
 
-On the Thursday those blocks go out dry at the ends and wet in the middle, and a mason will take them, and in the next wet weekend the same thing will begin again in the same place, and she will know exactly where the bars go and she will have to wait for somebody to stand on them.
+Under the bottom edge of every one of those four pallets there is now a strip of daylight a foot and a half long, where in October there was nothing to see at all, and it is not a shadow, and there is nothing standing in front of it.
+
+On the Thursday those blocks go out dry at the ends and wet in the middle, and a mason will take them, and in the next wet weekend the same thing will begin again on the same render about this time.

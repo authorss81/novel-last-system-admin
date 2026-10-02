@@ -126,4 +126,4 @@ Then her sister goes out of the gate at the bottom of the lane and she goes alon
 
 She stands with her thumb in one of the four cuts in that post and thinks about the saw going dull on it every twenty strokes, and about the eight feet of air that eleven feet of fence was hanging over for an hour while somebody else did the bottom of a hole.
 
-There are three of them and a saw in what that took, and she is one of the three, and there is nobody on that boundary but her.
+The one turn of wire round that post and the strut is about as thick as a pencil lead, and inside it there is a turned edge in the grain where four turns used to be, and the two topmost of those four cuts have already begun to close over, because there is nothing in them now to keep them open.
