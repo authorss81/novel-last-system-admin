@@ -4,7 +4,7 @@ Friday the seventh of October 2022, in this borough. She is in her own house at 
 
 **A WOMAN IN HER LATE FIFTIES HAS A SLAB ON HER FRONT PATH THAT ROCKS, A MAN SHE HAS NEVER HAD IN THE HOUSE LIFTS IT AND BEDS IT HIGH AT THE DOOR END, AND THE SLAB IS LEFT ROCKING AT THE OTHER END.**
 
-She is a woman in her late fifties at number nine on Friday. A man from up the road stops at her gate with his shopping, lifts the slab, beds it his own way, and leaves.
+She is at number nine on Friday with a flag on the front path that will not stop knocking. A man from up the road stops at her gate with his shopping, lifts the slab, beds it his own way, and leaves.
 
 ---
 

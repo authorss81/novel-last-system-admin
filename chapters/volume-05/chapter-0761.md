@@ -8,7 +8,7 @@ He is a man in his early forties at the unit on Thursday. The man from the cotta
 
 ---
 
-He is in the unit from early with the roller door up to its bracket and the bench along the wall under the window. The gates lean where they have leaned since the spring with the chalk gone pale on them, and the one that carries two marks and a clean patch stands at the end nearest the door. The two-tread stool is folded by the paint. The drawer under the bench is shut with the bag and the brush in it on the bottom where it was put in July.
+He is in the unit from early with the roller door up to its bracket and the bench along the wall under the window. The gates lean where they have leaned since the spring with the chalk gone pale on them, and the one that carries two marks and a clean patch stands at the end nearest the door. The folded two-tread stool is by the paint. The drawer under the bench is shut with the bag and the brush in it on the bottom where it was put in July.
 
 The oak is on the bench. It came off a tree that came down in the gales three winters back and it has been on the rack ever since, squared on two faces and rough on the other two, and it has dried slowly and gone hard on the outside and softer in the middle, which is what happens to a thing that is stacked on end in a shed with one end open to the air.
 
@@ -90,4 +90,4 @@ He does not have it done now. He looks at the piece for a while with his thumb o
 
 The length of oak stays on the bench.
 
-The man from the cottage goes to the gate and out through it and up the lane towards the cottage and does not look back at it. He stands in the unit for a while with his hands on the bench on either side of the oak, one at the near end where the shoulder is true and one at the far end where it stands out, and he can feel the difference in the wood from six inches away without touching either.
+The man from the cottage goes out through the unit and across the yard and out at the gate, and there is nobody else in the yard. He stands in the unit for a while with his hands on the bench on either side of the oak, one at the near end where the shoulder is true and one at the far end where it stands out, and he can feel the difference in the wood from six inches away without touching either.

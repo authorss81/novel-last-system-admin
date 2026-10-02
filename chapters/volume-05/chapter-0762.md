@@ -4,7 +4,7 @@ Monday the third of October 2022, in this borough. She is at her own lock-up and
 
 **A WOMAN IN HER LATE FORTIES WANTS THE GRIT OUT OF THE BOTTOM OF HER ROLLER DOOR'S RAIL, THE WOMAN WHO BOOKS WORK BRUSHES IT AWAY FROM THE DOOR INTO THE CORNER, AND THE GRIT IS LEFT UNDER THE CORNER OF THE RACK.**
 
-She is a woman in her late forties at the lock-up on Monday. The woman who books work comes through the doors with a hand brush, takes the second half of the rail, and puts the grit where it cannot be got at.
+She is at her own lock-up on Monday with the grit packed in the bottom of the rail and the roller door coming down hard on it. The woman who books work comes through the doors with a hand brush, takes the second half of the rail, and puts the grit where it cannot be got at.
 
 ---
 

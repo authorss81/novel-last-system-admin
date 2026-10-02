@@ -1863,6 +1863,6 @@ The first eight lines below are unchanged from the block as first written. 0727 
 
 0762, Monday 3 October. Woman in her late forties wants the grit out of the roller door's rail; the woman who books work brushes it away from the door into the corner at the leg of the rack. Ends with her hand flat on the rail.
 
-0763, Friday 7 October. Woman in her late fifties has the loose slab on the front path; a man from up the road beds it high at the door end so it sheds; the slab tilts the other way and rocks at the far end. Ends in the dark with grit still in her fingers.
+0763, Friday 7 October. Woman in her late fifties has the loose slab on the front path; a man from up the road beds it high at the door end so it sheds; the slab tilts the other way and rocks at the far end. Ends in the dark with the bar and the firewood left out by the gate and her hand still feeling the shape of the far corner of it. This line and the closing-image entry in the band file both used to end on grit still in her fingers, which is 0758's hand and not 0763's, and both are corrected by the review of 2 October 2026; the scene is unmoved..
 
 0764, Thursday 13 October. Woman in her early thirties and her sister sweep out the floor of the shed at ten and neither shifts the bench off the wall; the broom reaches most of the way under and stops at the trestle leg. Ends on the corner under the bench as black as it was.
