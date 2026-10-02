@@ -26,7 +26,7 @@ The woman from two doors down crosses the yard in the middle of the morning with
 
 “I am clear of them,” she tells him, and goes out through the gates with the bucket, out of his way each time he steps back to sight.
 
-She does not touch the bench and does not look at it twice, and nothing passes between them about the twist.
+He picks the mallet up again where he put it down and the shims go in another sliver at a time, and neither of them ever mentions the twist.
 
 He thinks about oak while he drives screws, how it moves with seasons and comes back, slow as breathing across months. The twist of August will ease by winter without his battens, and his battens only keep the bench useful in between. That is enough. Usefulness in between is the whole of what yard furniture owes anyone.
 

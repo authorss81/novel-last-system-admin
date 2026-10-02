@@ -36,7 +36,7 @@ Pail on, pail off, that is the test. A slab that will take a pail full without s
 
 After three rounds the tick goes. After five the corner sits with the rest, and the pail goes down on it full and stays where it is put.
 
-She brings the dust from the pot and brushes it into the joint over the grit, to blind it, so the sharp stuff below is not left open to boots. Dust over grit beds in with the first damp and makes a skin, and a skin keeps the grit where it was put.
+She brings the dust from the pail and brushes it into the joint over the grit, to blind it, so the sharp stuff below is not left open to boots. Dust over grit beds in with the first damp and makes a skin, and a skin keeps the grit where it was put.
 
 She sweeps the face of the slab and the rail above it, where dust has settled in a pale film.
 

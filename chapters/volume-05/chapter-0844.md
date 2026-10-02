@@ -16,13 +16,13 @@ Shaking is done over the step, a fold at a time, snapping the runner downwind so
 
 She takes one end in both hands and snaps it. Dust comes out in a soft burst, hanging a moment before it settles, with grit pinging off the flags.
 
-Her sister comes down the passage in the middle of the morning with the barrow empty, turns it at the gate with care round the flag packed in August, and goes back up with it.
+Her sister comes down the passage in the middle of the morning with the barrow empty, sets it down at the gate well clear of the flag packed in August.
 
 “Mind the corner, it is fresh packed,” she tells her.
 
 “I am round it,” her sister tells her, and wheels the barrow back up the passage without touching the flag, out of the dust of the shaking.
 
-The barrow goes up the passage and back once, and the wheels keep to the middle where the flags run true, and the shaking waits while it passes and goes on after.
+The wheels keep to the middle where the flags run true, and the shaking waits while they pass and goes on after.
 
 She thinks about the runner while she snaps it, how wool wears where feet turn and nowhere else. The middle thin to the backing is a map of every coming and going through that door all summer, every visitor and every errand, written in worn pile. Shaking out the dust does not erase the map. It only makes it readable again.
 

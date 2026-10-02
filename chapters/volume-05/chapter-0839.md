@@ -26,7 +26,7 @@ The woman from two doors down stands in the doorway of the unit at midday with a
 
 “Mind your wet paint,” he tells her, though there is no paint, and she laughs once and goes on out to the road with the bag.
 
-She does not step into the yard past the doorway, and she does not look at the brace twice, and nothing passes between them about the gate.
+She keeps her feet on the step and her face to the road, and the rule goes up and down the brace twice with nobody watching it but him.
 
 He thinks about the ghosts while he chalks, how wood keeps what was put on it long after eyes give up reading. The marks went pale but never left, sitting in the grain through rain and sun, waiting for chalk to find them again. Work remembers longer than people, and re-marking is only listening to what the brace already knows.
 
