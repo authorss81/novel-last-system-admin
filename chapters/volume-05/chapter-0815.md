@@ -64,7 +64,7 @@ There was a root under the fourth one.
 
 She has the bar in under the edge of it and she can see where it has been: a hollow in the sand about four inches deep and eighteen inches long, the shape of a finger, running away under the third flag towards the house. The root is the thickness of a wrist at that point and it has gone along there since the flag was laid, and it has taken water into itself every winter and given a little of it back and taken some more, and the sand has washed out of the ground under it and gone somewhere under the house.
 
-She gets the pick and goes at it, and it is root and not stone and it does not want to be cut. She gets the pick behind it and puts a lump of it in the bucket and cuts another lump off and puts that in the bucket too, and it goes on for the better part of a quarter of an hour, and then she stops cutting it.
+She gets the pick and goes at it, and it is root and not stone and it does not want to be cut. She gets the pick behind it and puts a lump of it in the bucket and cuts another lump off and puts that in the bucket too, and it goes on for the better part of a quarter of an hour.
 
 She stops cutting it because she can see where it goes.
 
@@ -90,17 +90,19 @@ The joints she does with the edge of the board, which is about the width of a jo
 
 The fall goes the right way. She set it that way when she laid it. It falls about a quarter of an inch to the foot away from the house, so that if it rains hard the water goes down the passage and out through the gate and not under the kitchen floor.
 
-Her sister comes out about the middle of the afternoon with the back door open behind her and looks down the passage from the kitchen step.
+Her sister calls out from the kitchen about the front step, which has been leaning since the winter and is not the side passage, and about the flue, which nobody has been up.
 
-"That lilac wants cutting back," she tells her. "It's into the roof of the porch."
+"There was a man on the front step on Tuesday," her sister calls.
 
-"It is not," she tells her. "It has been told it is into the roof of the porch since I was thirty."
+"He was on the front step on Tuesday," she tells her.
 
-"Then take it out of the path."
+"Then he can come back to it, and he can look at the flue while he is stood there."
 
-"No," she says. "You take the top off a lilac and you have three. I have had three of those already and I know what they look like."
+"He can look at the flue," she tells her.
 
-And her sister goes back in and the door stays open, and that is all that passes between the two of them about that Friday, and neither of them mentions the flags.
+That is the hour of it, and there is nothing in it about this passage. Neither of them mentions the flags or the lilac or the root, and the door stands open behind her sister the whole time, and her sister does not come out into that passage at all.
+
+From where she is kneeling the woman can hear the chair move twice and a plate go down on a table, and none of it is about what she is doing, and she gets on with it.
 
 By the time the light has come off the top of the boundary wall she is sitting on the step with her tea gone cold on the flags beside her, and the whole nine feet is down, the joints are tight, the fall is the fall it was, and there is no flag on that path now she would put a coin under.
 

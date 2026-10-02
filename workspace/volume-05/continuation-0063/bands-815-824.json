@@ -153,7 +153,7 @@
     "0824": "Turns away from 0789, 0794, 0805, 0809, 0814 and 0815 at twelve: the four feet of frost wall with its open top course, the kerb, the gate on its stay, the envelope, the taped box, the brush, the coal shed, the ladder, the front room, the kitchen sash, the front step packed and shimmed at both ends, and the drain at the back with its rod and its rope. THE RAISED BED IS THE ONLY WORK. THE STEP AND THE DRAIN ARE NOT TOUCHED."
   },
   "movement": "Ten jobs, ten sound methods with no fault in any of them, ten jobs nobody asked for, and ten chapters about the moment each person stops. 0815 a paving strip lifted and the fourth flag put back down because the base under it has not moved. 0816 a mossy strip scarified to the colour of the stone and not an inch below. 0817 three bowed lengths set at the top of a run because that is where a bow stops showing. 0818 an edge cut to the line the grass started on and not to the line of the kerb. 0819 a strip of foam into a rebate and a knock that stops. 0820 six slabs laid face up on two battens. 0821 six feet of privet cut to the leaf and the fence behind it seen for the first time since the spring. 0822 a limb cut to a length set by a fence. 0823 a fence door hung back on two straps in sound timber with the old holes left empty. 0824 a bed of broken brick straight again except for one course and the sight that bends over it. Every job is dry work, every job is done from the ground, and no job in the ten needs a roof, a ladder, a loft or a manhole.",
-  "closing_images": "TEN, AND NOT ONE OF THEM A THING PUT AWAY, AND NOT ONE OF THEM THE SHAPE OF ANOTHER. 0815 the cut face of the lilac root, pale and wet where the spade went through it, and going grey in a fortnight on its own. 0816 a stripe of the old colour showing through the new stone in the middle of that path, and the moss in a heap at the edge of it that will be a heap on that spot until it rots. 0817 the bow still in the run at the top end of it, where she put it on purpose, with the line of that fence going true from the gate to about three lengths and then not. 0818 the clippings going over the front of the path on the wind, because a cut edge is not a finished edge until the grass is off it. 0819 the frame still a quarter of an inch low where it has been for two years, and the knock gone out of it entirely, which is a different thing from the draught and he knows that it is. 0820 the six slabs flat on their two battens and the damp patch on the wall behind them going pale at its edges. 0821 the fence behind the privet, which had not been seen since the spring the hedge went in, and the cut face of it on both sides of her. 0822 the street with nothing in it that came off it, and the last length of that limb going through the gap at the front of the house on its side. 0823 the door swinging on two straps and shutting, and the two old holes still in that timber, empty, above the line where the strap used to be. 0824 the sight down the length of that bed bending over one course at the near end.",
+  "closing_images": "TEN, AND NOT ONE OF THEM A THING PUT AWAY, AND NOT ONE OF THEM THE SHAPE OF ANOTHER. 0815 the cut face of the lilac root, pale and wet where the spade went through it, and going grey in a fortnight on its own. 0816 a stripe of the old colour showing through the new stone in the middle of that path, and the moss in a heap at the edge of it that will be a heap on that spot until it rots. 0817 the bow still in the run at the top end of it, where she put it on purpose, with the line of that fence going true from the gate to about three lengths and then not. 0818 the arisings going over the front of that path on the wind and a fine green film left along the top of the kerb, because a cut edge is not a finished edge until the grass is off it. 0819 the frame still a quarter of an inch low where it has been for two years, and the knock gone out of it entirely, which is a different thing from the draught and he knows that it is. 0820 the six slabs flat on their two battens and the damp patch on the wall behind them going pale at its edges. 0821 the fence behind the privet, which had not been seen since the spring the hedge went in, and the cut face of it on both sides of him. 0822 the street with nothing in it that came off it, and the last length of that limb going through the gap at the front of the house on its side. 0823 the door swinging on two straps and shutting, and the two old holes still in that timber, empty, above the line where the strap used to be. 0824 the sight down the length of that bed bending over one course at the near end.",
   "second_measure_done_before_any_prose": {
     "when": "Written into this file before a single chapter of 815 to 824 was drafted, because the instruction is not to write ten different sentences on the same thing and that cannot be done after the fact.",
     "method": "The ten closings under closing_images were read side by side, and three words were written against each one naming what that closing is actually about. Where two descriptions matched, the closing was wrong and was rewritten in this file before the drafting began. The same was done to the ten dateline stems.",
@@ -200,20 +200,20 @@
   "measures_taken_at_the_end": {
     "method": "Taken off the finished files with wc -w on each file whole, title line included, and with workspace/volume-05/continuation-0063/measure_runs.py, and with a second sweep run over the WHOLE FILE for the banned and watched words. Nothing here is added up from a summary and nothing here is printed in advance.",
     "words": [
-      2486,
+      2522,
       2074,
       2024,
       2211,
       1959,
       2083,
-      1939,
+      1953,
       2006,
       1761,
       2084
     ],
-    "words_total": 20627,
+    "words_total": 20677,
     "words_median": 2049.0,
-    "words_longest": 2486,
+    "words_longest": 2522,
     "words_shortest": 1761,
     "scene_breaks": [
       2,

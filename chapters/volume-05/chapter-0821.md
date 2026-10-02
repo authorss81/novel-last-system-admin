@@ -88,4 +88,4 @@ He does not tie it tight. Tight ties on a young shoot are a wire round a wrist, 
 
 He stands in that yard for a while looking at four feet of a fence he has not seen since the spring the hedge went in, and it is grey and soft along the bottom and a wire on it is rusted through, and the privet along the rest of that boundary is still standing over him from the place it started and will be bare at the bottom for about a fortnight before it puts a leaf out along those cut stems.
 
-Six feet of it is cut back to the leaf and there is nothing else about that Monday, and about four feet of the grey fence at the corner is out in the open for the first time in five years, and a wire on it is rusted through.
+Six feet of it is cut back to the leaf and there is nothing else about that Monday, and about four feet of the grey fence at the corner is out in the open for the first time in five years, and the gravel board at the near end of it is carrying the board above it with nothing under it but air.

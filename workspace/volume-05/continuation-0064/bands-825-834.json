@@ -57,14 +57,14 @@
   },
   "visitors": {
     "ceiling": "AT MOST FOUR NEW UNAGED FIGURES IN TEN CHAPTERS, AND THIS BLOCK USES ZERO. Every one of the ten arrivals is a figure already on the page.",
-    "list": "0825 the sister at twelve. 0826 the woman who books work. 0827 her sister at ten. 0828 the woman from two doors down. 0829 the woman who does her shopping. 0830 the woman who books work. 0831 the woman from two doors down. 0832 the woman who does her shopping. 0833 her sister at ten. 0834 the sister at twelve.",
+    "list": "0825 the sister at twelve. 0826 the woman who books work. 0827 the sister at ten. 0828 the woman from two doors down. 0829 the woman who does her shopping. 0830 the woman who books work. 0831 the woman from two doors down. 0832 the woman who does her shopping. 0833 the sister at ten. 0834 the sister at twelve.",
     "reasons_for_any_unaged_figure": "None, because none is written.",
     "what_the_second_person_may_do": "EXIST. SPEAK. COME AND GO. NOT LOOK AT THE JOB TWICE. NOT ASK ABOUT IT. NOT BE TOLD ABOUT IT. NOT HOLD ANYTHING. NOT TOUCH IT."
   },
   "door_meetings": {
     "rule": "The same two people at the same door in the same manner in no two chapters, and at most one second person in any one chapter in all ten.",
     "per_chapter": {
-      "0825": "The sister at twelve is in the kitchen with the door open the whole morning and is called out to the front gate once, because a heap has to be carried through it. She puts the stones down where she is told to and goes back in and nothing is asked about the passage.",
+      "0825": "The sister at twelve is in the kitchen with the door open the whole morning and is called out to the front gate once, and stands at the gate while the stones go down through it and does not pick one up, and goes back in, and nothing is asked about the passage.",
       "0826": "The woman who books work is in the office with the door shut and the shutter up over her and is not seen. The apron is outside and the shutter comes down at the end of the day over her.",
       "0827": "The sister at ten comes through the yard gate after the middle of the day, puts a bottle of something on the flags, and goes out the same way. She is at the near end and the palings are at the far end.",
       "0828": "The woman from two doors down is at that frontage for about a quarter of an hour in the middle of the morning because the boards are in her way, and does not touch them and does not ask.",
