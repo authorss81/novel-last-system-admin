@@ -1844,3 +1844,25 @@ The first eight lines below are unchanged from the block as first written. 0727 
 0753, Friday 26 August. Woman in late fifties talks with her sister on the step at the back door of nine, does not bring her to the table. Ends standing at the back door with a cup.
 
 0754, Tuesday 30 August. Woman in early thirties talks with a boy over the fence at ten over a ball, stays her side. Ends washing a cup at the sink.
+
+## 0755–0764
+
+0755, Saturday 3 September. Woman of seventy-eight rakes the yard at twelve; her sister barrows the four loads under the shed eave instead of by the step; both walk round the heap and neither moves it. Ends with the rake on its nails and a dark stripe coming up the shed wall.
+
+0756, Wednesday 7 September. Man in his early forties fills the hole at the unit with a lad's rubble; pipe spoil goes in a loose layer across the middle and the fill is left standing proud in the middle. Ends with his heel off the crown of it.
+
+0757, Monday 12 September. Woman in her late forties has the board on the rear step of her van loose; the woman who books work sands the hollow out and re-beds it on a chip at the near corner only; the step rocks at that corner. Ends in the lock-up with the bare bay and the stripe down the rail.
+
+0758, Friday 16 September. Woman in her late fifties picks the moss out of her front step and path; the woman who does her shopping uproots the mats whole and packs the loose root back over the top; the joint is packed wrong. Ends washing her hands at the cold tap.
+
+0759, Tuesday 20 September. Woman in her early thirties digs the bed at ten and lets the boy over the fence in through the gate; he digs too deep and mixes the fieldstones through the bottom. Ends at the far end of the bed without picking up the fork.
+
+0760, Sunday 25 September. Woman of seventy-eight has a kitchen sash coming down in her hand; a man from the lane re-cords it and hangs the weights on the wrong eyes; the sash sits a hand's width low for good. Ends with the window shut and the catch tried twice.
+
+0761, Thursday 29 September. Man in his early forties planes oak for a gate stile; the man from the cottage cuts the shoulder off by hand and it is square to the top and not to the face. Ends with the plane on the shelf and the oak still on the bench.
+
+0762, Monday 3 October. Woman in her late forties wants the grit out of the roller door's rail; the woman who books work brushes it away from the door into the corner at the leg of the rack. Ends with her hand flat on the rail.
+
+0763, Friday 7 October. Woman in her late fifties has the loose slab on the front path; a man from up the road beds it high at the door end so it sheds; the slab tilts the other way and rocks at the far end. Ends in the dark with grit still in her fingers.
+
+0764, Thursday 13 October. Woman in her early thirties and her sister sweep out the floor of the shed at ten and neither shifts the bench off the wall; the broom reaches most of the way under and stops at the trestle leg. Ends on the corner under the bench as black as it was.

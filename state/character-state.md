@@ -3373,3 +3373,19 @@ Woman in late fifties at nine: keeps shopping woman at front door and sister at 
 Woman in early thirties at ten: keeps sister at gate and boy at fence, drawer shut, ply standing, line bare.
 
 Man in late twenties: sits out. No job on the page.
+
+## VOLUME 05, CONTINUATION 0057 — CHARACTER STATE AFTER CHAPTER 764
+
+Woman of seventy-eight at twelve: rakes her own yard with her sister and leaves the heap under the shed eave; has a kitchen window sash re-corded by a man from the lane with the weights hung on the wrong eyes, so the sash sits a hand's width low for good; envelope, box, brush, shed, ladder and front room all untouched.
+
+Man in his early forties at unit: fills a hole in his own yard with a lad's rubble and leaves it proud; planes oak and lets the man from the cottage cut the shoulder off by hand out of square to the face; drawer shut, stool folded, gates leaning, no roofs and nothing hung.
+
+Woman in her late forties at lock-up: has the rear step of the van re-bedded by the woman who books work on one chip and the step rocks at that corner; has the grit brushed out of her roller door's rail into a corner at the leg of the rack; rack shut, drawer shut, box not opened, blanket not opened, van out and back.
+
+Woman in late fifties at nine: picks the moss out of her front step and path and has them repacked with loose root by the woman who does her shopping; has the loose slab on the front path bedded high at the door end by a man from up the road; pads with the first at the bottom, front room shut, fire unlit, shopping still to the front door.
+
+Woman in early thirties at ten: digs the bed at the end of her yard with the boy over the fence let through the gate, and he digs it too deep with the fieldstones in the bottom; sweeps the shed floor out with her sister and neither shifts the bench; drawer shut, ply standing, felt gone, line bare.
+
+Man in his late twenties: sits out. No second job on the page.
+
+New unaged figures added this block, none aged anywhere: the man from the lane at 0760 and the man from up the road at 0763. Both appear once. No figure anywhere in 755 to 764 was aged except the five standing ones.

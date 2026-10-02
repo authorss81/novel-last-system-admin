@@ -5748,3 +5748,13 @@ All six people stand where they stood, with small moves: pen proven dry, run lef
 Live and untouched: envelope never turned; box behind the bench never opened; drawer with leads never opened; ladder never opened; front room never entered; report never chased; line never put right; freeholder never arrives; drawer at ten stays shut; fourth room at the stair never looked into (off page this block); frame out of square waits for its fitting (off page this block); mirror in the van waits (off page this block). All standing, none advanced, none closed.
 
 Next: continuation, chapters 755–764, not a close.
+
+# VOLUME 05 OPEN THREADS — after Continuation 0057, Chapter 764
+
+Live and untouched: envelope never turned; box behind the bench never opened; drawer with leads never opened; drawer at ten with the hammer, the screwdriver and the paper never opened; ladder never opened; coal shed never opened; front room at twelve never entered; report never chased; line never put right; freeholder never arrives; ply at ten still unnailed and shed felt still gone; washing line at ten still bare with the shed-end peg too tight; bowl still on its shelf with the ring on the tiles; gate still propped. All standing, none advanced, none closed.
+
+Off the page this block and still live: the fourth room at the top of the stair nobody has looked into or priced; the frame out of square waiting for its fitting; the mirror in the van; the painting not done on the landing wall. The fourth room, the frame and the mirror wait on the man off the ring road, who sat out of 755 to 764 because no second job was on the page.
+
+New this block and not carried forward as anything but what happened: a heap of cut grass under the shed eave at twelve with a stripe coming up the wall; a filled hole at the unit standing proud; a van step packed at one corner; a front path packed level with loose root in the joints; a bed at ten dug too deep with fieldstones in the bottom; a kitchen sash at twelve sitting a hand's width low for good; a length of oak on the unit bench with a shoulder not square; grit in a corner of the lock-up floor at the leg of the rack; a front path slab at nine bedded high at the door end; a swept shed floor at ten with a black corner under the bench. None of these is a mystery and none is going to be.
+
+Next: continuation, chapters 765-774, not a close.
