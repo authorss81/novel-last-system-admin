@@ -106,6 +106,6 @@ She looks at the door. It shuts on the stone now, and it is a foot away from whe
 
 "It can rain on it. But it will not run off it."
 
-By the time she has got the barrow out to the corner of the shed the row has gone quiet and he has gone with it. She stands at the shed with the door shut behind her, which is the first time in a month it has shut without her lifting it.
+He is gone back down the row and the door is shut behind her, and it is the first time in a month that door has shut without her lifting it.
 
 She goes out to the barrow later to shift the hole at the corner of the shed, and on the way back in she stops at the door and puts her thumb along the edge of the scaffold board where it stands out of the stile, from the top corner down to the bottom. The board is hard under her thumb, and there is a line of daylight down the side of it that the door does not shut against, and the whole of it is standing proud of the face of her own shed door.

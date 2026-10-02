@@ -2,9 +2,9 @@
 
 Sunday the twentieth of November 2022, in this borough. She is in her own house at number nine from morning until the middle of the day, and the whole of it is her own gate taken off one side of itself and put on the other, and it stands open across her own front path.
 
-**A WOMAN IN HER LATE FIFTIES HAS A GATE AT THE FAR END OF HER FRONT PATH THAT WILL NOT SHUT SQUARE AND MEANS TO WEDGE THE HINGES AND DRAW A STRAP TIGHT AND PLANE THE LATCH EDGE, THE MAN WHO DOES ODD WORK TAKES BOTH HINGES OFF AND PUTS THEM ON THE OTHER SIDE OF THE GATE AND THE OTHER SIDE OF THE RAILS, AND THE GATE STANDS OPEN ACROSS THE PATH WITH THE NEW SCREWS THREE THREADS INTO THE RAIL.**
+**A WOMAN IN HER LATE FIFTIES HAS A GATE AT THE FAR END OF HER FRONT PATH THAT WILL NOT SHUT SQUARE AND MEANS TO WEDGE THE HINGES AND DRAW A STRAP TIGHT AND PLANE THE LATCH EDGE, THE MAN WHO DOES ODD WORK TAKES BOTH HINGES OFF AND PUTS THEM ON THE OTHER SIDE OF THE GATE AND THE OTHER SIDE OF THE LEDGERS, AND THE GATE STANDS OPEN ACROSS THE PATH WITH THE NEW SCREWS THREE THREADS INTO THE LEDGER.**
 
-She is a woman in her late fifties at number nine on Sunday. The man who does odd work comes to the gate of her front path with a spanner in his hand and does the second half his own way.
+She is a woman in her late fifties at number nine on Sunday. The man who does odd work comes to the gate of her front path with his bag over his shoulder and does the second half his own way.
 
 ---
 
@@ -14,13 +14,13 @@ The front step and the path are packed level and the packing in the joints is lo
 
 Her coal hole is full of wood standing on end with the sawn ends out. She has not put her arm in it since the night she put it in.
 
-The gate is at the far end of the front path, where the path turns and goes along the side of the house to the back. It has been there since before she came. It is a framed gate on two ledgers between two posts and a latch on the end of it, and it has not shut square since the summer.
+The gate is at the far end of the front path, where the path turns and goes along the side of the house to the back. It has been there since before she came. It is a framed gate on two ledgers between two posts with a latch on the end of it, and it has not shut square since the summer.
 
-You can see it from the front step. The bottom of the gate has dropped at the hanging end and the latch end has gone out a little, so the top of the gate and the top of the ledger are not parallel and the latch goes over and does not come back on to its staple. It goes over about halfway, which is worse than not at all.
+You can see it from the front step. The bottom of the gate has dropped at the hanging end and the latch end has gone out a little, so the top of the gate and the ledger it hangs on are not parallel and the latch goes over and does not come back on to its staple. It goes over about halfway, which is worse than not at all.
 
-Her plan is the frame. She has a bag of wooden wedges, a length of hitching strap, a paintbrush and a plane, and she means to knock the wedges in at the hinge side to lift the gate back into its opening, draw the strap up tight round the frame and the post and have it that way for ever, and then take a shaving off the latch edge to get the latch home, which she knows is a bad thing to do and intends to do about an inch of it.
+Her plan is the gate. She has a bag of wooden wedges, a length of hitching strap, a paintbrush and a plane, and she means to knock the wedges in at the hinge side to lift the gate back into its opening, draw the strap up tight round the gate and the post and have it that way for ever, and then take a shaving off the latch edge to get the latch home, which she knows is a bad thing to do and intends to do about an inch of it.
 
-The man who does odd work comes up the front path at the middle of the morning and stops at the gate with a spanner in his hand and nothing else at all.
+The man who does odd work comes up the front path at the middle of the morning with a canvas bag over his shoulder, stops at the gate and takes a spanner out of it.
 
 ---
 
@@ -42,11 +42,11 @@ The man who does odd work comes up the front path at the middle of the morning a
 
 She does not understand that and says so, and he does it anyway.
 
-He takes the gate off in under twenty minutes. It is two bolts through two straps into a ledger and a ledger into a post, and he has a spanner for the first two and does the last two with a bar and a lump of wood, and the gate comes off the frame and stands against the house with its back to the path where anybody going along can see it.
+He takes the gate off in under twenty minutes. It is two bolts through two straps into a ledger and a ledger into a post, and he takes the spanner out of his back pocket for the first two and puts it down on the flags by the wall before he starts on the last two, which he does with a bar and a lump of wood out of the bag, and the gate comes off the frame and stands against the house with its back to the path where anybody going along can see it.
 
 Then he turns it round.
 
-That is the whole of what he does. He turns the gate round on its hinges' line so that the face that was against the ledgers is the face away from the ledgers, and the two faces of the gate are not the same, because the diagonal is on one side and he is going to put it on the other. He shifts the straps over to the other side of the gate so they work on the other edge of it, drills the new holes, and hangs it back on the far side of the ledgers with the hinge knuckles between the gate and the rail instead of against it.
+That is the whole of what he does. He turns the gate round on its hinges' line so that the face that was against the ledgers is the face away from the ledgers, and the two faces of the gate are not the same, because the diagonal is on one side and he is going to put it on the other. He shifts the straps over to the other side of the gate so they work on the other edge of it, drills the new holes out of the bag, and hangs it back on the far side of the ledgers with the hinge knuckles between the gate and the ledger instead of against it.
 
 She watches all of it from the step.
 
@@ -56,7 +56,7 @@ She watches all of it from the step.
 
 "And it will shut this way."
 
-"It will shut this way for as long as it is on that side of the rail."
+"It will shut this way for as long as it is on that side of the ledger."
 
 He shuts it. It comes up square against the frame and the latch goes over and comes back on to the staple and it is a gate that shuts.
 
@@ -80,10 +80,10 @@ She shuts it four times to be certain and it shuts four times, and she is not go
 
 That fixes the opening.
 
-Then she looks at the screws. They are the ones he put in, and they are at the bottom corner where the rail has opened along its length for about the length of a hand, and there is a long pale scar on the face of the rail above them where the strap has been rubbing and moving, and the bottom screw stands proud of the timber by about a nail head and sits in the split with the head of it out in the open.
+Then she looks at the screws. They are the ones he put in, and they are at the bottom corner where the ledger has opened along its length for about the length of a hand, and there is a long pale scar on the face of the ledger above them where the strap has been rubbing and moving, and the bottom screw stands proud of the timber by about a nail head and sits in the split with the head of it out in the open.
 
-She puts the back of a thumbnail in the gap beside it and pushes and the strap moves down the rail as a whole about the thickness of a card, which is not what a screw in a post does and is exactly what a screw three threads into a rail does.
+She puts the back of a thumbnail in the gap beside it and pushes and the strap moves down the ledger as a whole about the thickness of a card, which is not what a screw in a post does and is exactly what a screw three threads into a ledger does.
 
-The man who does odd work told her at the gate and she did not take in one word of it. She can hear it now. The screws are in the rail and not in the post, and that is where they are going to stay. The rail wants the ledger off and the post bored and one long screw through it, and that is not a job he does with one spanner on a Sunday morning in the rain.
+The man who does odd work told her at the gate and she did not take in one word of it. She can hear it now. The screws are in the ledger and not in the post, and that is where they are going to stay. The ledger has opened along its own length where the strap bears on it, and a screw in a ledger that has opened is a screw in nothing. The only way into the post behind it is to take that ledger off, bore the post and put one long screw through it, and that is not a job he does on a Sunday morning in the rain.
 
 She stands in her own front path with the gate open across it, with two wedges in behind the strap and his spanner still lying where he dropped it on the flags, and a gate that shuts square behind the wedges and stands open in front of them.

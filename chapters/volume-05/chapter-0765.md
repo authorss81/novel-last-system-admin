@@ -2,7 +2,7 @@
 
 Sunday the sixteenth of October 2022, in this borough. She is at her own lock-up and yard from morning until the middle of the day, and the whole of it is four pallets stood on edge against a wall with the wet still in the middle of them.
 
-**A WOMAN IN HER LATE FORTIES TURNS THREE DAMP PALLETS OVER ON THE CONCRETE, THE WOMAN WHO BOOKS WORK STANDS THEM ON EDGE LEANING BACK OFF THE WALL WITH A FINGER OF AIR BETWEEN THEM, AND THE DAMP IS STILL IN THE MIDDLE OF ALL FOUR.**
+**A WOMAN IN HER LATE FORTIES TURNS FOUR DAMP PALLETS OVER ON THE CONCRETE, THE WOMAN WHO BOOKS WORK STANDS THEM ON EDGE LEANING BACK OFF THE WALL WITH A FINGER OF AIR BETWEEN THEM, AND THE DAMP IS STILL IN THE MIDDLE OF ALL FOUR.**
 
 She is a woman in her late forties at her own lock-up on Sunday. The woman who comes to book work comes into her yard in the morning and does the second half her own way.
 

@@ -8,9 +8,9 @@ She is a woman of seventy-eight at number twelve on Wednesday. The woman who doe
 
 ---
 
-There is a fire in the stove and she has the green chair up at the table. Square with the edge of the table on her right is the gas envelope, face up, and it will lie exactly like that for as long as she leaves it there. The taped box is the other side of the table under its cloth, squared on three sides of it.
+There is a fire in the stove and she has the green chair up at the table. The gas envelope is face up against the right-hand edge of that table, and it will lie exactly like that for as long as she leaves it there. Under its cloth on the far side, trued on three sides to the edge of the table, is the taped box.
 
-The kitchen sash is a hand's width down in its own frame where it has sat since the summer, and she does not go near it this morning. She goes in and out past the passage all morning over the brush that is lying across the runner, which has been across the runner since before she came. Through the window the heap of cut grass is still banked against the shed wall and going pale along the top, and what it has brought up the brick behind it has dried to the colour of a cold cup of tea and will not go any further whatever she does to it. The padlock on the coal shed is open in the hasp and the shed door is shut. The gate stands propped back against the wall. She has no line and there is nothing on one.
+The kitchen sash is a hand's width down in its own frame where it has sat since the summer, and she does not go near it this morning. She goes in and out past the passage all morning over the brush lying across the runner, which has lain there since before she came. Through the window the heap of cut grass is still banked against the shed wall and going pale along the top, and what it has brought up the brick behind it has dried to the colour of a cold cup of tea and will not go any further whatever she does to it. The padlock on the coal shed is open in the hasp, where it has been since she had the house, and the shed door is shut. The gate stands propped back against the wall. She has no line and there is nothing on one.
 
 The floor is the problem.
 
@@ -66,7 +66,7 @@ She runs her thumb along it. The one the woman has put her hand on is a hard edg
 
 They scrape the boards with a chisel and the back of a knife until the whole of it is dry and hard and the old adhesive is off it, and then they lay the sheet down from the door outwards so that the door edge goes down first and last, and they press it down along that edge with the heel of a hand, and then she puts the rolled hearth rug out over the middle of it and the woman backs it up against the skirting with the old chair laid on its side.
 
-It looks better than it has looked in about four years. She sits on the edge of the table and looks at it.
+It looks better than it has looked in four years. She sits on the edge of the table and looks at it.
 
 "That is a floor."
 

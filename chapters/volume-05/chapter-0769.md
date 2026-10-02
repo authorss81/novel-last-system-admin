@@ -8,7 +8,7 @@ He is a man in his early forties at the unit on Wednesday. The man from the cott
 
 ---
 
-The roller door is up to its bracket. Both gates are leaning on the wall they lean on, and their chalk has faded to almost nothing, so that the one at the door end now looks like something that was written on it once and rubbed out and did not quite go. The stool that folds in two stands where it stands against the paint. The drawer is shut, and lying on the bottom of it, where it has lain since July, is the bag with the brush in it.
+The roller door is up to its bracket. Both gates have tipped forward against the wall and they are staying there, and their chalk has faded to almost nothing, so that the one at the door end now looks like something that was written on it once and rubbed out and did not quite go. The stool that folds in two is against the paint where it has been since the summer. The drawer is shut, and lying on the bottom of it, where it has lain since July, is the bag with the brush in it.
 
 The length of oak has been on the bench since the end of September, with dust on the planed face and a thumbprint of hard black wood at the far end, where the shoulder stands out over that face by about as much as the back of a knife is thick.
 

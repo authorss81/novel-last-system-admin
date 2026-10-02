@@ -10,7 +10,7 @@ He is a man in his early forties at the unit on Thursday. The woman from two doo
 
 The roller door is up to its bracket, and the grit along the bottom of its rail is where it was in the autumn, because he has never got a brush to it. The gates are still tipped forward against the wall where the frost found them, and what is left of the chalk on them is two chalked marks at one end and a bare clean square beside them, the paint under the square being a different grey altogether from the paint under the marks. The latch is hooked back over that gate, and hooked back to the post with the two new turns of wire on it, one a hand's width under the top and one a hand's width up off the ground. The post is a wall at the top and a wall at the bottom. In between, at the height of his hip, he can still get his thumb into it.
 
-Nothing in here has been touched since the September. Dust is on the planed face of the length of oak and its shoulder is standing proud over that face at the far end. A box stands in the corner behind the bench, and the drawer underneath is shut, and down on the bottom of it, where he put it and where it has been ever since, is the bag he keeps his brush in and has never wanted. Out in the yard the hole he filled is still standing up in the middle of the grass where he left it, and the stool folds itself in two over by the paint.
+Nothing in here has been touched since September. Dust is on the planed face of the length of oak and its shoulder is standing proud over that face at the far end. A box stands in the corner behind the bench, and the drawer underneath is shut, and down on the bottom of it, where he put it and where it has been ever since, is the bag he keeps his brush in and has never wanted. Out in the yard the hole he filled is still standing up in the middle of the grass where he left it, and the stool folds itself in two over by the paint.
 
 The air brick is in the back wall of the store, at ground level, at the corner nearest the boundary.
 
@@ -44,9 +44,9 @@ He is on his knees at the corner of the store with the rod in and the bucket bes
 
 ---
 
-They clear it first. It takes a while and it is filthy and by the end of it the bucket is a good half full of grey mortar dust and grit and old leaves and one wasp's nest that has gone hard as a paper bag, and the inside of the brick comes back to where it was cast, which is one rough face and one smooth face and nothing between them.
+They clear it first. It takes a while and it is filthy and by the end of it the bucket is a good half full of grey mortar dust and grit and old leaves and one wasp's nest that has gone hard as a paper bag, and the inside of the brick comes back to where it was cast, which is one rough face, one smooth face and nothing between them.
 
-He puts his arm in it up to the elbow and can feel the two faces and can feel nothing else.
+He puts his hand in it past the wrist and can feel the two faces and can feel nothing else.
 
 "That is clean."
 
@@ -74,8 +74,8 @@ They go into the store about an hour later because he wants the spare strap off 
 
 The wall round the brick has gone dark from the floor up.
 
-Not grey and not dusty. Dark, in a patch about the width of his two hands across and standing up off the floor about as far as his knee, with the edges of it soft and going out into the paint in a fan, and the cold out of the corner of that store is coming off the wall in a way that it was not coming off it this morning, and it is not the cold coming in through the brick, because the brick is behind the cowl and the cowl is shut.
+Not grey and not dusty. Dark, in a patch about the width of his two hands across and standing up off the floor about as far as his knee, with the edges of it soft and going out into the paint in a fan, and the cold out of that corner is coming off the wall in a way that it was not coming off it this morning, and it is not the cold coming in through the brick, because the brick is behind the cowl and the cowl is shut.
 
-It is the other end of the store breathing in at the bottom of its own door and going straight back out at the top of the same wall, and the wall in between them has not got a thing to do about it.
+It is that door, at that end of the store, at the end the brick is in. The air comes in under it and goes across the floor of that corner to get out through the hole in the cowl. That floor has not been dry since he took the unit. Cold air going over a wet floor lifts the wet off it, and then it has got to put that wet somewhere, and it puts it on the first cold thing it comes to, and the coldest thing in that corner is the wall behind the cowl. The wall between that door and that corner is only a wall.
 
 The woman from two doors down stands in the doorway of the store with her coat still on and looks at it with him, and neither of them says anything, and the cowl is on the brick behind his shoulder, and the damp patch is coming up the back wall of his store from the floor.
