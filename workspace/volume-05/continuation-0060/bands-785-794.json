@@ -71,7 +71,18 @@
   },
   "calendar": {
     "floor": "Saturday the fourteenth of January 2023, which is Tuesday the tenth of January 2023 plus four, and the floor is four days and not three. 0784 is Tuesday the tenth of January 2023 on the real calendar. CORRECTED 2 OCTOBER 2026: 0785 IS ON THE PAGE AT THE FOURTEENTH, SO THAT FOUR-DAY INCOMING GAP IS SPENT AND 0786'S OWN FLOOR IS TUESDAY THE SEVENTEENTH OF JANUARY 2023, WHICH IS FOURTEEN PLUS THREE. THE NINE GAPS AFTER 0785 RUN THREE TO SEVEN.",
-    "gaps_ten_including_the_incoming_one": [4, 3, 3, 3, 4, 4, 6, 6, 3, 5],
+    "gaps_ten_including_the_incoming_one": [
+      4,
+      3,
+      3,
+      3,
+      4,
+      4,
+      6,
+      6,
+      3,
+      5
+    ],
     "span_from_0784_to_0794": "Forty-one days, from Tuesday the tenth of January 2023 to Monday the twentieth of February 2023. 4+3+3+3+4+4+6+6+3+5 is forty-one and was added up on the day from two dates and not copied out of any summary.",
     "span_of_the_block_itself": "Thirty-seven days, from Saturday the fourteenth of January 2023 to Monday the twentieth of February 2023, which is the nine gaps after 0785 and not the ten.",
     "dates": {
@@ -86,7 +97,18 @@
       "0793": "Wednesday the fifteenth of February 2023",
       "0794": "Monday the twentieth of February 2023"
     },
-    "weekdays": ["Saturday", "Tuesday", "Friday", "Monday", "Friday", "Tuesday", "Monday", "Sunday", "Wednesday", "Monday"],
+    "weekdays": [
+      "Saturday",
+      "Tuesday",
+      "Friday",
+      "Monday",
+      "Friday",
+      "Tuesday",
+      "Monday",
+      "Sunday",
+      "Wednesday",
+      "Monday"
+    ],
     "distinct_weekdays": "SIX, not the seven this key used to claim: Saturday, Tuesday, Friday, Monday, Sunday and Wednesday. CORRECTED 2 OCTOBER 2026 AGAINST THE WEEKDAYS ARRAY ABOVE. Monday appears three times, in 0788, 0791 and 0794; Tuesday and Friday twice each; Saturday, Sunday and Wednesday once each. THE SENTENCE THIS KEY USED TO CARRY, THAT NO WEEKDAY APPEARS THREE TIMES IN THE BLOCK, IS FALSE OF THE ALLOCATION AS WRITTEN AND IS NOT TRUE OF THE BLOCK AS A RULE: Monday appearing three times is a fact about one allocation and not a prohibition, and a writer who wants no weekday more than twice may move one of 0788, 0791 and 0794 inside the bounds above, which is a choice and not an obligation.",
     "month_change": "0785 to 0790 in January 2023 and 0791 to 0794 in February 2023. THE WHOLE BLOCK IS IN ONE YEAR AND THE YEAR DOES NOT TURN.",
     "no_ninth_or_eleventh": "Checked on every one of the ten against the real January and February 2023 calendars. The days of the month are 14, 17, 20, 23, 27, 31, 6, 12, 15, 20. NONE IS THE NINTH AND NONE IS THE ELEVENTH. February the ninth and February the eleventh were both in the candidate set and were both rejected.",
@@ -158,15 +180,72 @@
   },
   "still_live_and_taken_up_by_nobody_here": "Four pallets with the blocks in the middle of every one of them wet through. Three boards down a muddy path and a hole digging itself out at a shed corner. A coal hole with a green furry middle in it. A sheet of kitchen floor with its uncut edge across a doorway. A gate that shuts behind two wedges and stands open in front of them. A cowl on an air brick and a damp patch coming up the wall behind it. A sheet of ply with a groove cut in it. A bay of paving standing proud with a line of grit along its foot. A back door out of line with itself by a hand's width. A pipe in the middle of a wall that knocks hollow behind the packing. Three lengths of dead hedge and a barrow that does not go through. NONE OF THESE IS A MYSTERY, NONE OF THEM IS GOING TO BE ONE, AND NONE OF THEM KNOWS ABOUT ANY OF THE OTHERS. Off the page and waiting on the man off the ring road, who has now sat out four blocks: a figure for four rooms given aloud twice in a lock-up and written nowhere; a frame out of square which its own man will find at the fitting; a landing wall with a bare patch on it and a mirror in a van; a fourth room at the top of a stair that nobody has priced or looked into. Three lines of paper shut in a drawer on purpose with the tools that would do them. A box in a corner of a lock-up whose lid is not nailed.",
   "measures_taken_at_the_end": {
-    "method": "To be filled in after the writing pass and the read-back. Every figure in this section is taken off the files with wc -w and with a measuring script, and none of it is added up from a summary.",
-    "words": null,
-    "scene_breaks": null,
-    "verbatim_runs": null
+    "method": "Taken off the files on 2 October 2026 with `wc -w` on each file whole, title line included, and with `workspace/volume-05/continuation-0060/measure_runs.py 0785 0794`, which keeps the dateline inside the body. Nothing in this section is added up from a summary.",
+    "words": {
+      "0785": 2088,
+      "0786": 2364,
+      "0787": 2426,
+      "0788": 2019,
+      "0789": 2019,
+      "0790": 2305,
+      "0791": 1998,
+      "0792": 1707,
+      "0793": 1964,
+      "0794": 1997,
+      "total_ten": 20887,
+      "total_the_nine_written_here": 18799,
+      "note": "0785 was already on the page and is not rewritten. THE BLOCK RUNS LONGER THAN 775 TO 784, WHICH CAME IN AT 1746 TO 1799, AND SAYS SO."
+    },
+    "scene_breaks": {
+      "0785": 7,
+      "0786": 9,
+      "0787": 8,
+      "0788": 6,
+      "0789": 6,
+      "0790": 7,
+      "0791": 4,
+      "0792": 5,
+      "0793": 5,
+      "0794": 5
+    },
+    "allcaps_paragraphs": "One in each of the ten.",
+    "banned_sweep": "The thirty-three plus seven at zero on word boundaries in all ten. No hit in any chapter was written and left standing; the ones that were written and cut were hold, holding, noticed, change, changes, panel, seam.",
+    "watched_words": "steady, plain, counted, breathed, wrote, nodded. Zero in all ten.",
+    "said": {
+      "per_chapter": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1
+      ],
+      "total": 3,
+      "cap": 5
+    },
+    "declared_ordinary_word": "wedge, declared before any prose existed. Per chapter: 0, 1, 3, 0, 0, 0, 0, 0, 0, 0. It is the actual method in 0787 and a lever under a coping stone in 0786.",
+    "numerals": "The chapter number and the year 2023 only, in all ten. No closed clock time and no day tally; four closed clock times were written in the first pass and cut.",
+    "names": "No human personal name in any of the ten.",
+    "verbatim_runs": "MEASURED BEFORE ANY PROSE EXISTED AND AGAIN AT THE END. The ten dateline stems were written out and measured against one another before a chapter was drafted: 7 shared ten-token spans on the first taking, all of them between 0785 and 0790 and between 0786 and 0789; reworded; 0 on the second. On the finished files with the dateline inside the body: 0 shared ten-token spans across all forty-five pairs of the ten, and 0 inside any one chapter. THE NINE MEASURED AGAINST THE TEN CANON CHAPTERS 0776 TO 0785: 0, and NOT 0 on the first draft, from which five chapters were rewritten. THAT IS BETTER THAN THE RULE, WHICH ASKED ONLY THAT NO TEN-TOKEN RUN OF A DATELINE STAND IN MORE THAN TWO OF THE NINE."
   },
   "read_back": {
-    "readers": "To be filled in after the writing pass.",
-    "findings_returned": null,
-    "findings_fixed_in_the_prose": null
+    "readers": "A second reader over 0786 to 0794 with the eight canon chapters 0776, 0777, 0778, 0779, 0781, 0782, 0783, 0784 and 0785 and the sixteen points, arithmetic and facts asked for first and prose last. Run on 2 October 2026.",
+    "findings_returned": 37,
+    "findings_fixed_in_the_prose": 35,
+    "the_two_not_fixed_and_why": [
+      "0787 BREAKS A COLLAR OF OLD CONCRETE OFF THE BOTTOM OF THE GATE POST AND PUTS THE PIECES IN AS HARDCORE. 0769 PUTS THAT COLLAR ON THE PAGE TWICE AND CANNOT BE EDITED, THE RULE IS THAT EVERY JOB IN THE TEN IS DRY WORK, NOTHING WET IS MIXED AND NOTHING NEW IS LAID, AND THE PROSE SAYS OLD AND SAYS HARDCORE. IT IS THE SECOND SUCH FLAG IN THIS BLOCK'S INHERITANCE AND IT IS A HUMAN'S.",
+      "0786 PUTS THE SISTER'S ARRIVAL IN THE YARD GATE IN THE MORNING ON A TUESDAY, WHICH IS THE DOOR AND THE DAY AND THE HOUR OF 0784, A CHAPTER OF THE BLOCK BEFORE THAT IS NOT EDITED. THE ALLOCATION WAS THE BAND FILE'S. THE PROSE IS WORDED SO THAT NO TEN-TOKEN RUN OF THE TWO OPENINGS AGREES, AND THE COLLISION ITSELF IS A PROMPT-LEVEL DECISION."
+    ],
+    "the_two_that_mattered_most": [
+      "0787 HOLE IN A METHOD: the wedges were driven before the plumb was read, and the line was hung off the gate instead of off the post. A line hung off the gate says nothing about the post, and a line that comes off a stepped face is evidence of the fault being cured. It now hangs off a nail in the top of the post itself, the post is brought to the line, and the two wedges follow it and are read between every pair of blows.",
+      "0791 A METHOD THAT CANNOT DELIVER ITS CLAIM: a woman sweeping at the hearth reported on the top of a stack nobody in the block goes near. She now reports only what the rope and the rod met, two slacks with a lump in them and no obstruction at all, and says plainly that she has not seen the top of that chimney and is not going to tell anybody what is on it."
+    ],
+    "the_rest": "Arithmetic and fact, all worked into the prose: eleven courses in a two-foot wall; the trough in 0790 that contradicted 0781's thumb-deep channel; a figure of three times in 0791 with nothing to measure against, now measured against the finger of soot standing on the ledge; a foot of extra depth in 0787 with nothing dug; packing at two levels in one paragraph; gravel both over the boards and level with them; a sack emptied faster than a sack empties; the spanner belonging to the man who does odd work; a lid measured with another stone's dimensions; a plan reaching into a drawer that must stay shut; four closed clock times; three feet and four feet transposed; a sequence running backwards against its own date; a frost that disagreed with the chapter before it; a no-mortar chorus in three chapters; a card clause reproduced verbatim as a closing sentence; and the opening lines of 0787, 0788, 0789, 0790, 0791, 0792, 0793 and 0794, all rewritten because in a rotation of five the second chapter at a house inherits the first one's phrasing if it is not made to.",
+    "nothing_moved": "No date moved, no card moved, no band moved, no family changed, no standing object changed, no planned turn changed, and no chapter was restarted. 0785 was not edited."
   },
   "variance_recorded_after_0785": {
     "what_this_is": "Added on 2 October 2026, after a review of the hand-over. Nothing above this key was changed and no value above it is wrong by arithmetic; the values above it are what was allocated before any prose existed, and an allocation is a plan and the prose is the page.",
@@ -184,5 +263,14 @@
     "the_weekday_count": "The key said SEVEN distinct weekdays, listed six, and then said no weekday appears three times in the block. Off the weekday array there are six, and Monday appears three times, in 0788, 0791 and 0794. The count and the sentence are corrected. The correction does not move a date: no weekday appearing more than twice was ever a rule of this block, it was a claim about one allocation, and if a writer wants it true one of those three dates moves inside the bounds.",
     "the_floor": "The floor string above is left as it was written, because it was true when it was written, and a sentence has been added to it saying that the four-day incoming gap is spent and that 0786's own floor is Tuesday the seventeenth of January 2023.",
     "nothing_else_was_touched": "The dates table, the weekday array, the month change, the ninth-and-eleventh check, the no-two-share check and the derivation narrative are all unchanged, because they are all correct."
+  },
+  "variance_recorded_after_the_block": {
+    "what_this_is": "Written on 2 October 2026 after the read-back. The page is the page and anything below is where the prose and this allocation came apart.",
+    "0790_closes_on_a_trolley_against_a_van_and_not_on_the_rail": "Allocated closing image: a trolley coming off the top of the ramp on its own and going across the bay. That is what is on the page. It ends up against the side of the van, because the van stands nose to the back wall since 0785 and a trolley with its back legs in the air has nothing behind it to slow it. No rail and no pallet is put on the page as work.",
+    "0791_reconciles_a_card_against_a_band_note": "The card says the stove is lit BESIDE THE FLUE and the band key says a stove lit OUT IN A YARD. The chapter lights it in the kitchen twice, gets smoked out, and then carries it out into the yard and lights it there, and the smoke comes back in through the gap under the sash. Both halves of the allocation are on the page and the fault in the person is the one card 0791 asks for.",
+    "0793_the_load_is_not_looked_into": "The green furry middle from 0768 is not looked at, not counted, not carried out and not mentioned, and the front of the load is described only as pale and dry, which is what 0775 said it was.",
+    "0794_the_topsoil_origin_is_made_local": "The card says the topsoil came out of the same bucket as what in 0779. At number ten the chapter gives it its own origin, off the front of that path in a bucket last spring, with half of it on the beds and half of it stood back under the bench, and the all-caps paragraph was corrected so that THE SAME BUCKET no longer dangles.",
+    "0791_sweep_provenance": "The rod, the coil of rope and the flue brush come off the back of a garage in the town where the sister took a kitchen out in the autumn, which is this block's own object and asserts nothing standing.",
+    "0790_inventory_off_new_objects": "The standing-state inventory at the lock-up in 0790 was rewritten off the strip light, the calendar on November, the coat on the hook and an empty drum on its side, because 0785's own inventory is on the page and cannot be edited and the first draft of 0790 was close to a copy of it. A water butt with a foot of black water in it was written and cut; the block's first water in that building did not need to be there."
   }
 }
