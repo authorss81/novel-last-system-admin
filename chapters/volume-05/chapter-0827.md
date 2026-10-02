@@ -2,7 +2,7 @@
 
 Wednesday the twelfth of July 2023, along the far side of that yard at number ten all through the middle of the day, and a run of palings on a boundary that is coming down is the whole of that Wednesday.
 
-THERE IS A RUN OF PALINGS ALONG THE FAR SIDE OF THE YARD AT NUMBER TEN AND SHE MEANS TO TAKE THEM OFF THE POSTS AND PUT THEM IN A STACK, AND HER SISTER COMES THROUGH THE YARD GATE AFTER THE MIDDLE OF THE DAY WITH A BOTTLE AND GOES OUT THE SAME WAY.
+**THERE IS A RUN OF PALINGS ALONG THE FAR SIDE OF THE YARD AT NUMBER TEN AND SHE MEANS TO TAKE THEM OFF THE POSTS AND PUT THEM IN A STACK, AND HER SISTER COMES THROUGH THE YARD GATE AFTER THE MIDDLE OF THE DAY WITH A BOTTLE AND GOES OUT THE SAME WAY.**
 
 That boundary is posts and rails with palings nailed on the yard side, about ten feet long, grey with weather, with ivy at one end and a lean to the whole of it that has been getting worse since the spring.
 

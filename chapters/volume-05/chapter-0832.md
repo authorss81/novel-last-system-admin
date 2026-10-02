@@ -24,7 +24,7 @@ The shears go in about a foot at a time and the cut comes out in a length on the
 
 Here is the whole of the decision, and it comes at the end with her knees on the sheet.
 
-**The last cut is a different cut and it does not have a rule in it that anybody can get wrong by eye.** Everything above can be got wrong by eye and put right again, a branch too high or too low, a side too full. The cut at the ground cannot be got wrong by eye because there is only one place for it, flat to the soil, and it is the only cut on a privet that has one answer.
+The last cut is a different cut and it does not have a rule in it that anybody can get wrong by eye. Everything above can be got wrong by eye and put right again, a branch too high or too low, a side too full. The cut at the ground cannot be got wrong by eye because there is only one place for it, flat to the soil, and it is the only cut on a privet that has one answer.
 
 The snag is the whole reason. A privet left on a stump a quarter of an inch high has a flat top on it that keeps water in the middle of the face, and the water goes into the wood and rots the cut off, and in two winters the stump is a hole with bark round it. Left cut on the slope, the water runs off the face and there is nothing to rot behind. Left cut at the level of the grass and not one inch above it, the cut is under the grass and out of sight in a fortnight and no one can see a cut they cannot see, which is the only kind worth having.
 
@@ -50,7 +50,7 @@ The posts are two by two at the corners and they sit shallow in the ground, and 
 
 She puts a finger down the gap between a post and its hole and can get it to the second knuckle, and the wood at that depth is grey and going, and there is no root on it at all because a privet this size is growing out of one stem.
 
-Leaving them in is a decision and not an oversight, and she made it in about as long as it took to put a finger in the gap. Taking them out means digging four holes two foot deep in a bed two foot wide against a wall, in a bed she has just taken the turf off, for four posts that have nothing in them. Putting them back is not a thing anybody can be asked for. So they stay, and the wire stays on them, and the fact that they are in the bed is a thing she will be able to read off the ground in the spring if anyone ever wants to.
+Leaving them in is a decision and not an oversight, and she made it in about as long as it took to put a finger in the gap. Taking them out means digging four holes two foot deep in a bed two foot wide against a wall she has not dug at this end of, for four posts that have nothing in them. Putting them back is not a thing anybody can be asked for. So they stay, and the wire stays on them, and the fact that they are in the bed is a thing she will be able to read off the ground in the spring if anyone ever wants to.
 
 The front wall of that side bed has the low spot at the door end where the water goes, and the privet stood four feet along it and will stand four feet along it, and the weed that comes up through the gap between post and soil comes up in the spring whatever is done about it.
 

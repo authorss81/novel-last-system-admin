@@ -2,7 +2,7 @@
 
 Saturday the fifteenth of July 2023, out on that frontage from the middle of the morning until the shadow of that office cabin is across the whole of it, and eleven boards that are going with the frontage is the whole of that Saturday.
 
-ELEVEN BOARDS ARE DOWN ALONG THE FRONTAGE AT THE UNIT AND HE MEANS TO TAKE THEM UP AND PUT THEM ON EDGE AGAINST A WALL, AND THE WOMAN FROM TWO DOORS DOWN IS AT THAT FRONTAGE FOR A QUARTER OF AN HOUR IN THE MIDDLE OF THE MORNING BECAUSE THE BOARDS ARE IN HER WAY.
+**ELEVEN BOARDS ARE DOWN ALONG THE FRONTAGE AT THE UNIT AND HE MEANS TO TAKE THEM UP AND PUT THEM ON EDGE AGAINST A WALL, AND THE WOMAN FROM TWO DOORS DOWN IS AT THAT FRONTAGE FOR A QUARTER OF AN HOUR IN THE MIDDLE OF THE MORNING BECAUSE THE BOARDS ARE IN HER WAY.**
 
 That frontage is scaffold boards laid down the front of the yard to walk on, eleven of them end to end, grey with use, with sand under them and weeds through the joints.
 

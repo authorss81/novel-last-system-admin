@@ -2,7 +2,7 @@
 
 Monday the third of July 2023, in that side passage at number twelve from first thing until the heat has come off the paving, and about six feet of brick edging that is going to be dug up anyway is the whole of that Monday.
 
-SIX FEET OF BRICK EDGING ALONG THE SIDE PASSAGE AT NUMBER TWELVE IS LOOSE AND SHE MEANS TO TAKE IT UP AND SORT WHAT IS THERE, AND HER SISTER IS IN THE KITCHEN WITH THE DOOR OPEN AND IS CALLED TO THE FRONT GATE ONCE WHILE THE STONES GO DOWN THROUGH IT.
+**SIX FEET OF BRICK EDGING ALONG THE SIDE PASSAGE AT NUMBER TWELVE IS LOOSE AND SHE MEANS TO TAKE IT UP AND SORT WHAT IS THERE, AND HER SISTER IS IN THE KITCHEN WITH THE DOOR OPEN AND IS CALLED TO THE FRONT GATE ONCE WHILE THE STONES GO DOWN THROUGH IT.**
 
 That passage is four feet wide between the house wall and the old brick wall at the side, and it runs from the back door to the front gate, and along one side of it there is a line of edge stones where the paving meets a narrow bed that has not grown anything for years.
 
@@ -40,7 +40,7 @@ She puts each one back down on the sacking in the order it came off, head to tai
 
 The one at the far end that has sunk is the last of the sixteen and it is the worst of the lot. It has gone down about an inch and two, which means there is a hollow under it where the sand has washed in from the bed side and taken the support away. She gets the bar under it and lifts, and it comes up with a lip of dry sand stuck to the bottom of it in one piece, and under the lip the sand is grey and close packed and has never been wet. She knocks the lip off, finds the arris soft along its whole outer side, and it goes on the flags with the others.
 
-By the middle of the morning she has eleven good ones on the sacking in the order they came off, head to tail the way they stood, and five bad ones on the flags.
+By the middle of the morning she has eleven good ones on the sacking, head to tail the way they stood, and five bad ones on the flags.
 
 She looks at the two rows for a while from a crouch. Eleven will lay about four feet and a half, which is short of the six she took up, and the five are not going to make the difference. Whoever digs this passage will find a heap of eleven and a scatter of five and a trench six feet long, and there is no way to say that in the ground.
 

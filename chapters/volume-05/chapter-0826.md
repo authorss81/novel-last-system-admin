@@ -2,7 +2,7 @@
 
 Thursday the sixth of July 2023, at that roller door from the middle of the morning until the light has gone off the apron, and a broken edge to a yard that is going to be dug is the whole of that Thursday.
 
-THE APRON OUTSIDE THE ROLLER DOOR AT THE LOCK UP IS BROKEN FOR ABOUT A FOOT AND SHE MEANS TO CUT THE EDGE STRAIGHT AND TAKE THAT FOOT UP AND DIG OUT WHAT IS UNDER IT, AND THE WOMAN WHO BOOKS WORK IS IN THE OFFICE WITH THE DOOR SHUT ALL DAY AND IS NOT SEEN.
+**THE APRON OUTSIDE THE ROLLER DOOR AT THE LOCK UP IS BROKEN FOR ABOUT A FOOT AND SHE MEANS TO CUT THE EDGE STRAIGHT AND TAKE THAT FOOT UP AND DIG OUT WHAT IS UNDER IT, AND THE WOMAN WHO BOOKS WORK IS IN THE OFFICE WITH THE DOOR SHUT ALL DAY AND IS NOT SEEN.**
 
 That apron is a slab of old work in front of the shutter, about as wide as the door and about three feet deep, laid to fall away from the guides so that rain runs off it into the yard.
 

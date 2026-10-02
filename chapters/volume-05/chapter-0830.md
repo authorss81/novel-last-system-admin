@@ -8,7 +8,7 @@ That bay is the open end of the lock up with the bench along the front and the s
 
 They are going with the office when it goes.
 
-One is about six feet long and the other about five, both steel, with paint on the ends and rust in the middle where hands have been. The first bar, the one she stood on in the winter of another year, is not the subject and is not used and stays where it was by the far wall.
+One is about six feet long and the other about five, both steel, with paint on the ends and rust in the middle where hands have been. There is a third length lying over by the far wall of that bay, and it is the one she stood on in another year, and it is not the subject and is not used and stays where it lies.
 
 The paint on the ends is worth what it is worth. There are three colours on the two bars and they are on the ends and not along them, because that is how it was done: each length that comes off a building gets a daub of the colour of the stillage it belongs to so that the crew can see at a glance which tube goes with which, and the colour is put on the ends where it can be read off the stack without moving anything. Two of these have the same colour and one has a third, so these two came off the same building and the third is a different building, and neither of the two she is dealing with came off the yard she is standing in.
 
@@ -20,11 +20,11 @@ She means to make a rack to get these two off the floor and out of the way of fe
 
 A rack for bars is two uprights with cross timbers between them, off the ground, with the bars laid across the top. Two measures go into it and they are not the same measure, and that is the thing that took her the morning.
 
-**The reach is the distance between the two cross timbers, and the reach is set by the length of the longer bar and by nothing else.** Set the timbers further apart than the bar is long and the bar cannot bear on both of them at all, which is not a rack, it is a floor with a hurdle on it. Set them much closer together and the bar bears on them and overhangs so far at the ends that the ends are the first thing to go on the ground and the first thing to be trodden on.
+The reach is the distance between the two cross timbers, and the reach is set by the length of the longer bar and by nothing else. Set the timbers further apart than the bar is long and the bar cannot bear on both of them at all, which is not a rack, it is a floor with a hurdle on it. Set them much closer together and the bar bears on them and overhangs so far at the ends that the ends are the first thing to go on the ground and the first thing to be trodden on.
 
 Here is the whole of it. The longer bar is six feet, so the two cross timbers go about four feet apart, which leaves the bar overhanging a foot at each end with a foot of air under each end and its whole weight on the timber. The shorter bar will lie inside that with room to spare, which is how it should be, because two bars of different lengths want one measure and the measure wants to be the longer one.
 
-**The height is the distance the top of the rack is off the ground, and the height is set by her hands and by nothing else.** A bar at knee height has to be reached down to and gripped and lifted and turned over before it comes off, and the turning is where it goes into a foot. A bar at chest height comes down on whoever is standing under it.
+The height is the distance the top of the rack is off the ground, and the height is set by her hands and by nothing else. A bar at knee height has to be reached down to and gripped and lifted and turned over before it comes off, and the turning is where it goes into a foot. A bar at chest height comes down on whoever is standing under it.
 
 So the reach is four feet and the height is waist, and those two numbers came out of two different questions, and a rack built to the wrong one is a rack that is wrong in a way that only shows up when somebody uses it.
 
@@ -38,7 +38,7 @@ She squares it on the bench top, which is the only flat thing in that bay, and s
 
 The uprights go against the back wall of the bay on either side of the door, clear of the shutter guides, with the cross timbers between them four feet apart at the waist, checked with the short bar laid across them and her thumb under the gap, because a rack that is a quarter of an inch out wants to rock the first time a bar goes on it.
 
-The office stands with its door open on the latch all day and nobody in it. The chair is pushed back from the desk the way it is pushed back when a person gets up from it in a hurry, and the booking book on the desk is open at a page with half a line on it, and the kettle on the shelf behind the door is cold and she does not put it on because it is not hers to put on.
+The office stands with its door open on the latch all day and nobody in it. The chair is pushed back from the desk the way it is pushed back when a person gets up from it in a hurry, and the kettle on the shelf behind the door is cold, and she does not put it on because it is not hers to put on.
 
 She does not go in. There is nothing in that office she is there for, and a door standing open on the latch in July is a thing the woman who books work has done before and will do again.
 
@@ -58,6 +58,6 @@ The pallet bay with the four pallets on edge is not touched in any of it, and th
 
 She goes round the bay once at the end of it and looks at the floor rather than at the rack, because a bay floor tells you what a bay gets walked over and this one has a track worn in it four feet in from the door where everybody goes when they come in with something long. The rack is at the back wall, which is the one place along that wall a person does not walk.
 
-The bay is fuller than it was in the morning by two bars and a rack, and the middle of it is the same empty floor it was at eight o'clock, and she has put the two bars on their ends where her knees go when she is lifting into the van.
+The bay is fuller than it was in the morning by two bars and a rack, and the middle of it is the same empty floor it was when the shutter went up, and she has put the two bars on their ends where her knees go when she is lifting into the van.
 
-When the shutter comes down at the end of the day she stands in the bay and looks at what is there. Two cross timbers are down at the waist and four feet apart with the two lengths across them and nothing else on them, and the middle of the bay is empty round them.
+When the shutter comes down at the end of the day she stands in the bay and looks at what is there. Two cross timbers are down at the waist and four feet apart with the two lengths across them and nothing else on them, and over by the far wall the third length is lying where it was lying in the morning with nothing on it and nothing under it.

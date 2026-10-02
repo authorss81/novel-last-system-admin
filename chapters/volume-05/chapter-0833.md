@@ -42,7 +42,7 @@ She stacks by sound. The ones that ring go in one stack on battens off the damp,
 
 Thirty bricks and nineteen of them ring and eleven of them do not, and she rings each of the thirty twice because the first tap on a dusty brick gives a dull answer whatever is under the dust, so the dust comes off with a thumb and then the brick is asked properly.
 
-Her sister is in the kitchen of number ten with the door open through the whole of that Wednesday, and the wall is under the window outside, and neither of them mentions it from either side. She can hear cups and the tap of a spoon on a pot, and none of it comes out of the door, and she does not take a brick inside to show.
+Her sister is in the kitchen of number ten with the door open through the whole of that Wednesday, and the wall is under the window outside, and neither of them mentions it from either side. She can hear cups and the sound of a spoon on a pot, and none of it comes out of the door, and she does not take a brick inside to show.
 
 “Your tea is on the side when you want it,” her sister tells her.
 
@@ -58,7 +58,7 @@ The bottom course is the one that has been sitting on the ground, and the ground
 
 She brushes them with a stiff brush on the flags and she gets the corners, and then she asks each one, and five of the bottom eleven thud and six of them ring, and that is a worse proportion than the course above and she was expecting it and would not have been surprised by anything else.
 
-The dust and the brick dust and the mortar dust from a wall that has never been pointed is one grey colour and it goes over the flags and into the bed under the window, and the bed is not dug and the edging along it is not lifted.
+The dust and the brick dust and the grit off thirty years of faces is one grey colour and it goes over the flags and into the bed under the window, and the bed is not dug and the edging along it is not lifted.
 
 She does not wash any of it down and there is nothing to wash it down with and she does not go out to the tap for anything at all through the whole of that Wednesday.
 

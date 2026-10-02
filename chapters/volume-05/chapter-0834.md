@@ -48,14 +48,14 @@ The basket is in the doorway of a side passage four feet wide with a barrow and 
 
 When the light has gone off the lilac the stool is out.
 
-It comes up with a sucking pop out of the hole, whole, with soil on it and roots hanging, and she lays it on the sheet and knocks the soil off back into the hole with the fork.
+It comes up with a sucking pop out of the ground in three pieces and not in one, with soil on them and roots hanging off each of them, and she lays them on the sheet and knocks the soil off them back into the holes with the fork.
 
-It is about as big as two fists together and it is not a ball of roots at all, which is what she had expected. It is a knuckle of old wood with three short stubs on it where the shoots were and a fringe of roots an inch long coming out of the bottom of it, and the fringe is the whole of what it had left to grip the ground with, and that is a thing about lilacs that nobody tells you.
+Each of the three is about the size of a fist and not one of them is a ball of roots at all, which is what she had expected. Each is a knuckle of old wood with a stub on it where a shoot was, and a foot of root coming out of the side of it, cut square where it went under the paving and cut square again where it went into the wall, and under the two cuts a fringe of fine roots an inch long. Twenty years of that fringe, two cuts, and nothing else, and that is a thing about lilacs that nobody tells you.
 
-The hole it came out of is deeper than the stool and about the size of the stool, and the sides of it are clean where the spade went and ragged where the roots tore, and the bottom of it is where the bar was in the morning.
+The three holes they came out of are deeper than the pieces and about the size of them, and there is open ground in between them where the roots that ran out sideways were taken off, and the bottom of each one is where the bar was in the morning.
 
 The soil goes back in and it does not go back the same, because soil with the root fringe torn out of it is not the same as soil with the root fringe still in it. She puts the fork in and turns it over twice and puts it in flat and does not pack it, because packed soil over a broken root collar is a hard pan, and a hard pan in a passage is where the water stands.
 
 The paving is still down in one piece on both sides of the strip, and the root she cut in May under the middle of it is not touched, and the heap of edge stones by the gate is not touched.
 
-She stands at the back end of the passage with the sheet full and the barrow beside it and looks down the strip where the work was. The stool is out of the ground and there are three holes where it was with the passage open in between them, and the cut faces on the stacked shoots are already going pale at the edges.
+She stands at the back end of the passage with the sheet full and the barrow beside it and looks down the strip where the work was. The stool is out of the ground in three pieces and there are three holes where it was with the passage open in between them, and the cut faces on the stacked shoots are already going pale at the edges.
