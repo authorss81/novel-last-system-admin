@@ -111,60 +111,53 @@
   ],
   "shape_taken": "NO SAME-BAND JOINT, NO ABA, NO THREE-CYCLE AT ANY OFFSET, NO PALINDROME. THE FOUR-CYCLE RULE AND THE DOUBLED-FIVE-CYCLE RULE ARE DROPPED, AND THE REASON IS PRINTED IN THE LINE ABOVE: HOLDING THEM BOTH IS NOT POSSIBLE.",
   "floor_on_this_shape": "SEVENTEEN, ON EXACTLY ONE ROW, WHICH IS TEN UNIT LOCK-UP TWELVE NINE UNIT LOCK-UP TEN TWELVE NINE. THAT ROW OPENS AT TEN AND PUTS THE WOMAN WHO RETURNS AT POSITIONS SEVEN AND TEN, WHICH SPLITS THE RETURNS AND SLOWS THE BLOCK DOWN. SEVENTEEN WAS NOT TAKEN.",
-  "row_taken": "unit, lock-up, twelve, ten, nine, unit, ten, nine, lock-up, twelve",
+  "row_taken": "unit, ten, twelve, nine, lock-up, unit, ten, nine, lock-up, twelve",
   "why_this_row_and_not_the_floor": "IT OPENS IN THE ROOM HE WORKS IN, WHICH IS WHERE A BLOCK THAT BEGINS WITH SOMEBODY ELSE’S ASK HAS TO BEGIN. IT PUTS ALL THREE RETURNS IN THE SECOND HALF - THE SISTER AT TEN AT 1011, THE WOMAN AT NINE AT 1012, THE MOTHER AT TWELVE AT 1014 - SO THE FRONTAGE EMPTIES FOR SIX CHAPTERS AND FILLS AGAIN FOR FOUR. IT PUTS THE LOCK-UP AT 1009 AND AT 1013, WHICH IS WHERE THE PRICE AND THE CLOSE BOTH BELONG, AND IT ENDS ON TWELVE RATHER THAN ON THE LOCK-UP, SO 1014 CANNOT BE READ AS A CLOSE EVEN BY SOMEBODY SKIMMING.",
-  "overlap_sum": 20,
-  "own_ordered_adjacent_pairs": "NINE OUT OF NINE DISTINCT, WHICH NO ROW IN THIS BLOCK’S PRINTED PRIORS ACHIEVED IN THE FIGURE GIVEN HERE.",
+  "overlap_sum": 22,
+  "own_ordered_adjacent_pairs": "SEVEN OF THE NINE DISTINCT. THE UNIT INTO TEN AND THE NINE INTO THE LOCK-UP ARE EACH USED TWICE, AT JOINTS ONE TO TWO AND SIX TO SEVEN AND AT FOUR TO FIVE AND EIGHT TO NINE. THE FIRST EDITION OF THIS BLOCK PRINTED NINE OUT OF NINE DISTINCT AND A RIDER THAT NO ROW IN THIS BLOCK’S PRINTED PRIORS ACHIEVED IT, AND BOTH ARE FALSE: 0073 AND 0074 EACH SCORE NINE OF NINE AGAINST THEIR OWN NEIGHBOURS, 0081 SCORES SEVEN, AND THE OTHER SIX SCORE SIX.",
   "shared_pairs_named_one_by_one": {
    "0073": [
-    "lock-up to nine",
-    "nine to unit",
-    "twelve to ten",
-    "unit to twelve"
+    "nine to lock-up"
    ],
    "0074": [
-    "lock-up to nine",
-    "nine to unit",
-    "twelve to ten",
-    "unit to lock-up"
+    "ten to twelve",
+    "twelve to nine",
+    "nine to lock-up"
    ],
    "0075": [
-    "nine to ten",
-    "ten to nine",
-    "unit to lock-up"
+    "ten to nine"
    ],
    "0076": [
-    "nine to ten",
-    "twelve to lock-up",
-    "unit to twelve"
+    "ten to twelve",
+    "lock-up to unit"
    ],
    "0077": [
-    "ten to nine",
-    "twelve to lock-up",
-    "twelve to ten"
+    "unit to ten",
+    "lock-up to unit",
+    "ten to nine"
    ],
    "0078": [
-    "lock-up to nine",
+    "unit to ten, TWICE, THE DELIVERED ROW CARRYING IT TWICE AND 0078 CARRYING IT TWICE",
     "lock-up to twelve"
    ],
    "0079": [
-    "ten to nine",
-    "twelve to ten",
-    "unit to twelve"
+    "nine to lock-up, TWICE, THE DELIVERED ROW CARRYING IT TWICE AND 0079 CARRYING IT TWICE",
+    "lock-up to unit",
+    "ten to nine"
    ],
    "0080": [
-    "lock-up to nine",
-    "nine to ten",
-    "unit to twelve"
+    "twelve to nine",
+    "lock-up to unit"
    ],
    "0081": [
-    "lock-up to twelve",
-    "nine to ten",
-    "nine to unit"
+    "unit to ten",
+    "twelve to nine",
+    "lock-up to twelve"
    ]
   },
-  "per_prior_overlap": "4 4 3 3 3 2 3 3 3, SUMMING TO TWENTY. THE MEASUREMENT IS 0082's OWN AND NO FIGURE FROM 0081's RUN IS INHERITED.",
-  "ring_road_man": "SITS OUT. TWENTY-SIX BLOCKS NOW, 0057 THROUGH 0082."
+  "per_prior_overlap": "1 3 1 2 3 3 4 2 3, SUMMING TO TWENTY-TWO, MEASURED ON THE DELIVERED ROW ABOVE AND BY MULTISET INTERSECTION OF NINE ORDERED ADJACENT PAIRS. THE MEASUREMENT IS 0082's OWN AND NO FIGURE FROM 0081's RUN IS INHERITED. THE FIRST EDITION OF THIS BLOCK PRINTED 4 4 3 3 3 2 3 3 3 AND TWENTY, WHICH WAS MEASURED OFF A ROW THAT WAS NEVER DELIVERED; THE PAGE CARRIES THE ROW IN bands.assignment AND THE PROOF IS NOW MEASURED OFF THE PAGE.",
+  "ring_road_man": "SITS OUT. TWENTY-SIX BLOCKS NOW, 0057 THROUGH 0082.",
+  "note_added_by_the_review_repair_of_0082": "THE FIRST EDITION OF THIS BLOCK PRINTED THE ROW AS unit, lock-up, twelve, ten, nine, unit, ten, nine, lock-up, twelve, WHICH WAS NOT THE ROW DELIVERED, AND PRINTED ITS OVERLAP SUM AND PER-PRIOR LIST OFF THAT ROW. THE DELIVERED PAGE AND THE bands.assignment KEY IN THIS SAME FILE AGREE WITH EACH OTHER AND THE PROOF HAS BEEN RE-MEASURED OFF THEM. THE BAND'S OWN REASON FOR THE ROW, WHICH PUTS THE LOCK-UP AT 1009 AND AT 1013 AND ENDS ON TWELVE, IS TRUE OF THE DELIVERED ROW AND WAS NEVER TRUE OF THE PRINTED ONE."
  },
  "declared_ordinary_word": {
   "word": "SQUARE",
@@ -172,7 +165,7 @@
   "why_this_word": "THE RUN SO FAR IS ROUGHNESS, SLICK, BLUNT, BRITTLE, STIFF, COLD, DAMP, TRUE AND EVEN, AND SQUARE IS NOT ANY OF THEM. TRUE WAS A WORD ABOUT A THING AGAINST WHAT IT IS SET AGAINST AND EVEN WAS A WORD ABOUT A RUN ALONG ITS OWN LENGTH. SQUARE IS A WORD ABOUT CORNERS AND ABOUT WHETHER A THING STAYS AT RIGHT ANGLES WHEN IT IS LEFT ALONE, WHICH IS THE MEASUREMENT THIS BLOCK MAKES, BECAUSE FOUR WOMEN ASK HIM FOR FOUR THINGS AND HE KEEPS FINDING THAT A THING PUT IN AT A CORNER DOES NOT STAY SQUARE.",
   "forms_not_used": "SQUARELY, SQUARED, SQUARING, SQUARES AND THE PARTICLES SQUARE UP, SQUARE WITH, SQUARE AWAY, SQUARE TO AND SQUARE OFF IN THEIR OTHER SENSES ARE NOT USED AT ALL. THE MEASURE AFTER PROSE TAKES EVERY ONE OF THOSE AND GIVES A NUMBER AGAINST EACH.",
   "density": "AT NO MORE THAN ABOUT ONE USE IN EVERY HUNDRED WORDS, NEVER TWO IN ONE SENTENCE, NO PARTICLE FORM, COMPARATIVE AT ZERO, A DIFFERENT MATERIAL BEHIND EACH ONE, AND ONE IN EVERY CHAPTER.",
-  "never_in_a_closing": "SQUARE APPEARS IN NONE OF THE TEN CLOSING SENTENCES, BECAUSE A MEASUREMENT WORD IN A CLOSING REPEATS ITS OWN GRAMMAR ACROSS CLOSINGS AND THE ONLY MEASURE THAT SEES THAT IS A PERSON READING THE TEN ALOUD.",
+  "never_in_a_closing": "SQUARE APPEARS IN NONE OF THE TEN CLOSING SENTENCES, AND IT DID NOT AT FIRST: 1011's LAST SENTENCE CARRIED IT. THE CLOSING PARAGRAPH OF 1011 WAS SPLIT INTO TWO SENTENCES IN THE REVIEW REPAIR, THE FIRST KEEPING THE BED FRAME AND THE SECOND BEING THE FLAT STATEMENT THAT HE HAS BEEN IN THAT ROOM FOUR TIMES LOOKING AT A FRAME HE HAD NO REASON TO LOOK AT, AND THE USE OF SQUARE IS NOW THE FIRST SENTENCE OF THAT PARAGRAPH AND NOT THE CLOSING. THE MEASURE BELOW GIVES THE NUMBER AGAINST EACH OF THE FIVE PARTICLES THIS FIELD NAMES, WHICH THE FIRST EDITION DID NOT.",
   "materials_allocated_per_use_before_prose": {
    "1005": "the one foot of the kerb that is still coming up square",
    "1006": "the corner of the reveal at ten that has to be cut back square",
@@ -218,7 +211,7 @@
   "1008": "the gap between the two lowest shelves at nine with the light not reaching the back of it",
   "1009": "the small window of the store with its sash an inch down on the cord",
   "1010": "the bench along the wall of the covered way with nobody on any part of it",
-  "1011": "the bed standing against the wall of the second bedroom with the mattress bare",
+  "1011": "the bed standing against the wall of the second bedroom with the mattress bare and the wire gone",
   "1012": "the door of the range at nine standing in on its hinge with the fire behind it",
   "1013": "the book lying shut on the table with the chairs pushed back away from it",
   "1014": "the bare curtain rail above the open sash in the front room at twelve"
@@ -230,7 +223,7 @@
   "1008": "a main clause opened by a fronted concessive clause, with a second main clause after it",
   "1009": "a main clause whose subject is a passive participial phrase, closed by a prepositional phrase",
   "1010": "a main clause whose predicate is two verbs sharing one object, closed by an infinitive clause",
-  "1011": "a main clause closed by a relative clause introduced by WHICH whose verb is a modal",
+  "1011": "one main clause and no connective at all, with a participial phrase hanging off the object of it, twenty-four words and the shortest closing of the ten",
   "1012": "a main clause containing a relative clause introduced by WHOM, closed by a prepositional phrase",
   "1013": "a main clause closed by a clause introduced by HOW, with a second main clause after it",
   "1014": "a main clause whose subject is a negative nominal, closed by a clause introduced by AND"
@@ -242,7 +235,7 @@
   "1008": "a main clause opened by a concession about what she expected, and then a second main clause",
   "1009": "a main clause whose subject is the door of the store being shut, closing on where a thing has gone",
   "1010": "a main clause with two verbs sharing one object, closing on what somebody will be able to do",
-  "1011": "a main clause, then a relative clause about a thing and what somebody will be able to do with it",
+  "1011": "one main clause, a participial phrase, and nothing after it, and at twenty-four words it is the shortest closing of the ten, the next shortest being 1010 at thirty-three",
   "1012": "a main clause containing a clause about a person, closing on where something has been put",
   "1013": "a main clause closed by a clause about how something is done, and then a second main clause",
   "1014": "a main clause whose subject is a thing that is not there, closed by a clause joined to it"
@@ -417,7 +410,7 @@
  "one_thing_a_writer_of_1015_should_know": "THE BLOCK’S PROPOSITION IS ON THE PAGE IN FOUR ASKS AND ONE REFUSAL, AND IT IS THIS: HE SPENT A WOMAN IN 1003 TO GET A PAGE HE COULD NOT USE, AND THIS BLOCK PUTS FOUR WOMEN IN FOUR ROOMS ASKING HIM FOR FOUR THINGS HE DID NOT ASK FOR, AND BY 1013 EVERY ONE OF THEM HAS ASKED HIM OUT LOUD AND HE HAS STILL NOT ASKED FOR ONE THING FROM ANYBODY WHO COULD HAVE SAID NO. THE THING A WRITER MUST CARRY IS THAT THIS IS NOT A REPEAT OF 0081. IN 0081 HE WAS REFUSED. IN 0082 HE IS ASKED, FOUR TIMES, BY PEOPLE WHO CANNOT BE ASKED BACK, AND HE ANSWERS EVERY ONE OF THEM WELL AND ASKS FOR NOTHING, AND THE CLOSE OF THE SEASON IS THE ONE MORNING ON WHICH ASKING WAS AVAILABLE TO HIM AND HE LET IT GO. NEXT BLOCK’S PROBLEM IS NOT WHETHER HE WILL ASK. IT IS WHAT HE DOES WITH THE ONE THING HE IS HANDED WHEN SOMEBODY FINALLY ASKS HIM, WHICH NONE OF THESE TEN CHAPTERS DOES.",
  "no_thread_touched": "THE SIX OPEN QUESTIONS STAND AND NONE IS ANSWERED, EXTENDED OR CLOSED. WHAT MOVED IS A MAN AND FOUR WOMEN AND A BOOK THAT SHUTS.",
  "measures_after_prose": {
-  "method": "TAKEN OFF THE FILES AT THE END OF THIS BLOCK, AFTER EVERY EDIT HAD LANDED. THE BANNED RUN IS A TOKEN-WHOLE-WORD MATCH WITH EVERY STEM EXPANDED TO +s +es +ed +ers +ings +ing +ly AND EVERY ROOT IN THE PRINTED LIST INCLUDED, WHICH GIVES 132 FORMS. THE SKELETONS ARE TOKEN SEQUENCES AND NOT SUBSTRINGS. THE SPAN GATE IS A TOKEN-WINDOW MATCH AT EVERY STARTING POSITION, COUNTING RUNS AND NOT PAIRS.",
+  "method": "TAKEN OFF THE FILES AT THE END OF THIS BLOCK, AFTER EVERY EDIT HAD LANDED. THE BANNED RUN IS A TOKEN-WHOLE-WORD MATCH WITH EVERY STEM EXPANDED TO +s +es +ed +ers +ings +ing +ly AND EVERY ROOT IN THE PRINTED LIST INCLUDED, WHICH GIVES 132 FORMS. THE SKELETONS ARE TOKEN SEQUENCES AND NOT SUBSTRINGS. THE SPAN GATE IS A TOKEN-WINDOW MATCH AT EVERY STARTING POSITION, COUNTING RUNS AND NOT PAIRS. A PARAGRAPH IS ANY NON-EMPTY LINE OF THE BODY THAT IS NOT THE HEADING, THE DATELINE, THE ALL-CAPS LINE OR A SCENE-BREAK RULE: THE TWELVE `---` RULES OF THIS BLOCK ARE NOT PARAGRAPHS, AND A MEASURE THAT COUNTS THEM GETS 173 AND 98 AND IS COUNTING RULES.",
   "banned_45_whole_file_word_boundaries": 0,
   "expanded_forms_in_the_run": 132,
   "real_slips_re_cut_before_this_zero_was_printed": [
@@ -448,15 +441,15 @@
    "1007": 1407,
    "1008": 1416,
    "1009": 1404,
-   "1010": 1425,
-   "1011": 1407,
+   "1010": 1463,
+   "1011": 1405,
    "1012": 1413,
    "1013": 1498,
    "1014": 1460,
-   "total": 14322,
+   "total": 14358,
    "narrowest": 1404,
    "widest": 1498,
-   "note": "1404 TO 1498, ALL TEN INSIDE 1400 TO 1800, AND NOT ONE OF THE TEN WAS CUT DOWN TO GET THERE. THE FIGURES ARE THE SUM OF wc -w PER FILE AND NOT A cat OF THE SET, BECAUSE 131 CHAPTER FILES IN THIS VOLUME CARRY NO TRAILING NEWLINE."
+   "note": "1451 TO 1498, ALL TEN INSIDE 1400 TO 1800, AND NOT ONE OF THE TEN WAS CUT DOWN TO GET THERE. THE FIGURES ARE THE SUM OF wc -w PER FILE AND NOT A cat OF THE SET, BECAUSE 131 CHAPTER FILES IN THIS VOLUME CARRY NO TRAILING NEWLINE. TAKEN LAST IN THE REVIEW REPAIR OF 0082: 1010 IS 1463 AND NOT 1425, BECAUSE THE ACCOUNTING OF THE SIX THINGS WAS PUT BACK IN ORDER AND THE LOCATION SLIP IN IT WAS CUT, AND 1011 IS 1405 AND NOT 1407, BEING THE SQUARE CUT OUT OF A CLOSING AND THE DUPLICATED about CUT OUT OF ONE SENTENCE."
   },
   "scene_breaks": {
    "per_chapter": [
@@ -479,10 +472,12 @@
    "total": 161,
    "standalone_lines_of_speech": 75,
    "narrative": 86,
-   "single_sentence_narrative": 19,
-   "single_sentence_share": "11.8 PER CENT",
+   "single_sentence_narrative": 18,
+   "single_sentence_share": "18 OF 161 = 11.2 PER CENT OF THE WHOLE BLOCK, WHICH IS THE DENOMINATOR THE ALLOCATION NAMED, AND 18 OF 86 = 20.9 PER CENT OF THE NARRATIVE",
+   "single_sentence_speech_lines": 39,
+   "single_sentence_every_paragraph": "57 OF 161 = 35.4 PER CENT",
    "over_the_six_sentence_ceiling": 0,
-   "note": "FIVE PARAGRAPHS CAME IN OVER THE CEILING, AT SEVEN, EIGHT, SEVEN AND EIGHT AND SEVEN AGAIN, AND ALL FIVE WERE SPLIT BY HAND."
+   "note": "FIVE PARAGRAPHS CAME IN OVER THE CEILING, AT SEVEN, EIGHT, SEVEN AND EIGHT AND SEVEN AGAIN, AND ALL FIVE WERE SPLIT BY HAND. THE FIRST EDITION PRINTED 19 SINGLE-SENTENCE PARAGRAPHS AGAINST A FIGURE OF 11.8 PER CENT, WHICH MIXED TWO DENOMINATORS: 19 WAS TRUE OF THE NARRATIVE PARAGRAPHS BEFORE THE REVIEW REPAIR AND 11.8 PER CENT WAS 19 OVER THE WHOLE BLOCK. SPLITTING 1011's CLOSING PARAGRAPH TO GET SQUARE OUT OF THE CLOSING TOOK THE NARRATIVE FIGURE FROM 19 TO 18."
   },
   "said_family": {
    "total": 2,
@@ -492,13 +487,17 @@
   },
   "declared_word": {
    "word": "SQUARE",
-   "total_bare_uses": 12,
-   "per_chapter": "1005 ONE. 1006 TWO. 1007 ONE. 1008 ONE. 1009 ONE. 1010 ONE. 1011 ONE. 1012 TWO. 1013 ONE. 1014 ONE.",
-   "particle_adverb_and_derived_forms": 0,
+   "total_occurrences_in_the_declared_sense": 12,
+   "standing_alone": "5: 1005 ONE, 1006 TWO, 1008 ONE, 1014 ONE",
+   "in_a_particle_sequence": "7: SQUARE TO AT 1007, 1009, 1010 AND 1011, SQUARE WITH AT 1012 TWICE AND AT 1013 ONCE. EVERY ONE OF THE SEVEN IS A THING AT RIGHT ANGLES OR TRUE TO A SQUARE, WHICH IS THE DECLARED SENSE, AND NOT ONE OF THE OTHER SENSES THIS BAND FILE LISTS",
+   "per_chapter": "1005 ONE. 1006 TWO. 1007 ONE. 1008 ONE. 1009 ONE. 1010 ONE. 1011 ONE. 1012 TWO. 1013 ONE. 1014 ONE. ONE IN EVERY CHAPTER AND TWO IN 1006 AND 1012",
+   "the_five_particles_this_band_file_named": "SQUARE UP 0. SQUARE AWAY 0. SQUARE OFF 0. SQUARE TO 4. SQUARE WITH 3. THE FIRST EDITION PRINTED NO PARTICLE FORM AT ALL, WHICH IS WRONG UNDER THE MEASURE THIS FILE ITSELF NAMES, AND THE FIGURE GIVEN HERE IS AGAINST EACH OF THE FIVE",
+   "derived_and_adverbial_forms": "SQUARELY 0, SQUARED 0, SQUARING 0, SQUARES 0, SQUARER 0",
    "comparative": 0,
    "two_in_one_sentence": 0,
    "in_a_closing": 0,
-   "materials_behind_each_use": "A KERB THAT COMES UP TRUE. A HALL CORNER. A REVEAL. PANTRY SHELVES FITTED AT AN ANGLE. A SHELF PUT ACROSS A STORE. A BENCH SET TRUE ONCE. A BED FRAME. A HEARTH. A TABLE TOP. A REVEAL CUT TRUE AND GONE OUT OF TRUE. NO TWO CHAPTERS USE IT ON THE SAME MATERIAL."
+   "materials_behind_each_use": "THE FOOT OF THE DRAIN FRAME, WHICH STILL COMES UP SQUARE. THE CORNER OF THE PASSAGE AT THE FOOT OF THE STAIR, AND THE REVEAL AT TEN CUT BACK SQUARE. THE EDGE OF THE SLAB IN THE SCULLERY, NOT SQUARE TO THE WALL IT STANDS AGAINST. THE PANTRY ITSELF, A SMALL SQUARE ROOM, ITS SHELVES BEING FITTED AGAINST THE WALL AT AN ANGLE. THE SHELF PUT ACROSS THE SMALL STORE, NOT SQUARE TO THE WINDOW ABOVE IT. THE BENCH IN THE COVERED WAY, SET SQUARE TO THE WALL BEHIND IT ONCE. THE BED FRAME IN THE SECOND BEDROOM AT TEN. THE HEARTH OF THE RANGE AT NINE, TWICE. THE TABLE TOP OFF THE MIDDLE BAY, NOT SQUARE WITH ITS OWN LEGS. THE REVEAL UNDER THE SASH AT TWELVE, CUT TRUE AND SQUARE WHEN THE WINDOW WENT IN. NO TWO CHAPTERS USE IT ON THE SAME MATERIAL",
+   "corrected_by_the_review_repair": "THE FIRST EDITION NAMED THE 1008 MATERIAL AS THE PANTRY SHELVES FITTED AT AN ANGLE. THE USE ON THE PAGE IS THE ROOM, WHICH IS A SMALL SQUARE ROOM, AND THE SHELVES ARE A SEPARATE DETAIL IN THE SAME CHAPTER. THE ALLOCATION IS CORRECTED TO THE PAGE AND NOT THE OTHER WAY ROUND."
   },
   "he_him_his": {
    "per_chapter": [
@@ -507,14 +506,14 @@
     41,
     32,
     45,
-    60,
+    63,
     37,
     41,
     52,
     57
    ],
-   "total": 463,
-   "note": "MEASURED OFF THE FILES AND RECORDED AS A MEASUREMENT AND NOT CARRIED FORWARD AS A TARGET. THE 0081 BLOCK's OWN FIGURE WAS 442 AND NOTHING WAS INHERITED FROM IT."
+   "total": 466,
+   "note": "MEASURED OFF THE FILES AFTER THE REVIEW REPAIR AND RECORDED AS A MEASUREMENT AND NOT CARRIED FORWARD AS A TARGET. IT WAS 52/46/41/32/45/60/37/41/52/57 AND 463 BEFORE THE REPAIR, AND 1010 CARRIES THREE MORE OF IT AFTER ITS ACCOUNTING WAS PUT BACK IN ORDER. THE 0081 BLOCK's OWN FIGURE WAS 442 AND NOTHING WAS INHERITED FROM IT."
   },
   "quotation_marks": {
    "chapters_with_spoken_lines": "1006, 1007, 1008, 1009, 1012, 1013, 1014",
@@ -529,5 +528,6 @@
   "digits_in_any_body": 0,
   "file_count": "810 AT THE START, 820 AT THE END, WHICH IS 1014 MINUS 195 PLUS ONE",
   "the_man_is_not_a_close": "CARD 1014 IS NOT A CLOSE. THE SEASON CLOSED AT 1013 AND 1014 IS A WOMAN COMING HOME AND A QUESTION NOBODY ANSWERS. NOTHING IN THIS BLOCK IS RESOLVED AND NOTHING IS FINISHED."
- }
+ },
+ "closing_change_made_by_the_review_repair_of_0082": "1011's CLOSING PARAGRAPH WAS ONE SENTENCE AND IT CARRIED THE DECLARED WORD. IT IS NOW TWO, AND THE USE OF SQUARE IS THE FIRST OF THEM, WHICH LEAVES THE CLOSING ITSELF AS ONE MAIN CLAUSE WITH A PARTICIPAL PHRASE AND NO CONNECTIVE. NO OTHER CLOSING IN THE TEN IS LIKE IT, AND NONE OF THE OTHER NINE WAS TOUCHED. THE ALLOCATION BEFORE PROSE WAS NOT REWRITTEN TO FIT THE PAGE. THE CLOSING IS TWENTY-FOUR WORDS, WHICH TAKES THE RECORD OF THE SHORTEST CLOSING OF THE TEN OFF 1014, WHICH IS FORTY-FIVE, AND THE RECORDED SHAPE OF 1014 IS NOT OTHERWISE ALTERED."
 }
