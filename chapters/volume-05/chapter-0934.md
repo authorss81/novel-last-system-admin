@@ -4,11 +4,11 @@ Friday the twenty-third of August 2024, at the fan housing on the yard wall of t
 
 **HE HAS A FAN HOUSING FIXED TO THE YARD WALL AT THE UNIT WHOSE BACK PLATE IS NOT AGAINST THE RENDER AND HE MEANS TO PUSH THE HAND INTO THE SPACE BEHIND IT WITH THE PALM TURNED TO THE NEAR SIDE UNTIL THE HEEL OF THE PALM COMES AGAINST THE EDGE AND WILL GO NO FURTHER, TO FIND OUT HOW DEEP THAT SPACE IS AND WHAT IS IN IT.**
 
-The housing was screwed up in a morning in the spring, and the wall behind it was rendered thirty years before that, and both of those have gone on doing what they do. The ladder has not been up there since, and nothing about it is visible from the yard except the fact that the top of it stands away from the wall.
+Screwed up in a morning in the spring onto a wall that had been rendered thirty years before that, both of those have gone on doing what they do; the ladder that carried the fan up has not been back there since, and nothing about any of it shows from the yard except the fact that the top of the housing stands away from the wall. It has stood that way through eleven wet winters and one dry summer.
 
-It is a housing of pressed steel about a foot square, fixed on four screws to the render of the yard wall, with a grille on the front of it and the blades out of sight behind. He wants the space the plate stands off from.
+Pressed steel, about a foot square, fixed on four screws to the render with a grille on the front of it and the blades out of sight behind.
 
-A thing fixed flat to a wall is off that wall before it is anything else, and a quarter of an inch is nothing to ask of four screws over forty years. So the hand goes in with the palm turned to the near side and the heel of it stopping. The steel is cool and slick along the folded edge, and behind the plate the render is gritty and quite dry.
+The space the plate stands off from is what he is after, a thing fixed flat to a wall being off that wall before it is anything else, and a quarter of an inch being nothing to ask of four screws over forty years, so the hand goes in with the palm turned to the near side and the heel of it stopping. The steel is cool and slick along the folded edge, and behind the plate the render is gritty and quite dry.
 
 The gap is a quarter of an inch at the top of the housing and nothing at the foot of it. The plate has leaned, and the top has come away from the wall while the bottom has stayed against it, and the line of the gap is not parallel with the top of the housing but very slightly bowed.
 
@@ -26,7 +26,7 @@ So the two of them part company by about a hair each year at the top of the fixe
 
 Which corner parts most depends on where the wall is kept firm. A wall firm at its ends and slack in the middle bows outwards, and a housing fixed to one lifts at the bottom of that bow and never at the top. This wall is firm at the bottom and slack at the top, and a housing screwed to it lifts at the top, which is what the quarter of an inch has been for eleven years.
 
-The blades behind the grille have been out of true since the day they went in, and a blade out of true knocks at the housing and not at the wall, and it is a noise that goes out of the housing at the wrong moment, which is how he came to hear of it at all. A fan that knocks travels a finger's width in the case before it stops, and a finger's width is the whole of the clearance it was given. A fan that knocks in its housing stops against a washer, and a washer that stops against a blade has to have moved, and a washer that moves a quarter of an inch in eleven years has been pushed there. The washer under the upper fixing is standing off the plate by about the depth of a penny, and the washer under the lower one is bedded flat in the plate and cannot be seen at all, which is how a plate says which end of it has carried the weight for eleven years. The blades turn freely, which the housing allows by having a clearance the size of a pencil between its back plate and the top of the case, and the case carries that clearance on four pressed lugs.
+The blades behind the grille have been out of true since the day they went in, and a blade out of true knocks at the housing and not at the wall, and it is a noise that goes out of the housing at the wrong moment, which is how he came to hear of it at all. A fan that knocks travels a finger's width in the case before it stops, and a finger's width is the whole of the clearance it was given. A fan that knocks in its housing stops against a washer, and a washer that stops against a blade has to have moved, and a washer that moves a quarter of an inch in eleven years has been pushed there. The washer under the upper fixing is standing off the plate by about the depth of a penny, and the washer under the lower one is bedded flat in the plate and cannot be seen at all, which is how a plate shows which end of it has carried the weight for eleven years. The blades turn freely, which the housing allows by having a clearance the size of a pencil between its back plate and the top of the case, and the case carries that clearance on four pressed lugs.
 
 Those lugs are the only things on the plate that touch the wall, and they are what the housing stands on, and they stand on the lip of the cut like everything else. The plate itself clears the wall by the depth of a washer on four sides, which is a quarter of an inch if the washers are new and nothing at all if they have bedded.
 
@@ -36,9 +36,7 @@ The wall under the housing is warmer than the wall beside it by about a hand's b
 
 ---
 
-The woman from two doors down goes up to the store step at the unit from the yard carrying a pair of boots, which stay in her hand.
-
-With the boots still in her hand she stood a while on the step with their heels side by side, looking up the wall past the housing to the gutter above it, and then she turned about on the flags and carried them back down the yard the way she had come. She stayed as long as she meant to and no longer, and what took her up the step was the run of dark on the render at the gutter line, and what took her back down was the same run of dark.
+The woman from two doors down goes up to the store step at the unit from the yard carrying a pair of boots, which stay in her hand. With the boots still in her hand she stood a while on the step with their heels side by side, looking up the wall past the housing to the gutter above it, and then she turned about on the flags and carried them back down the yard the way she had come. She stayed as long as she meant to and no longer, and what took her up the step was the run of dark on the render at the gutter line, and what took her back down was the same run of dark.
 
 By the time that wall moves again in a wet winter it will move by another hair at the top, and the housing will go with it, and the ring of dirt round the housing will be inside the shadow for good.
 

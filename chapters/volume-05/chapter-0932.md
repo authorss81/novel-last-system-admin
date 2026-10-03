@@ -4,11 +4,11 @@ Wednesday the fourteenth of August 2024, at the footing pier in the lock-up yard
 
 **SHE HAS A FOOTING PIER STANDING FREE IN THE LOCK-UP YARD WITH A STONE CAP ON IT AND SHE MEANS TO LAY THE HAND OVER THE TOP OF THAT CAP WITH THE FINGERS HANGING DOWN ITS FAR FACE, TO FIND OUT WHAT HAS OPENED BEHIND THE CAP AND WHAT HAS GOT IN.**
 
-The pier was built when the yard was made and was left standing when the bay next door was widened, and the bay has been widened twice since while the pier has kept its cap. It stands in the middle of what used to be a run of fence, with the fence line going round three sides of it and stopping at the wall on the fourth.
+The bay next door has been widened twice since that yard was made, and the pier standing in the middle of what used to be a run of fence was left standing through both of them with its cap still on it; the fence line goes round three sides of the pier and stops at the wall on the fourth. That fourth side is the only side of it that has never been a boundary to anything.
 
-It is a pier of brick about two feet square and four courses high, standing clear of the wall by a foot and a half on three sides, with a single stone laid flat on top of it. What she wants is the gap the cap is standing off from.
+Two feet square and four courses high, clear of the wall by a foot and a half on three sides, with a single stone laid flat on top of it and nothing under that stone but its own weight — that is the pier.
 
-A stone cap laid flat on brick has nothing under it but its own weight and the mortar that was laid with it. So the hand goes over the top and the fingers hang down the far face. The cap is slick and cold across the top and gritted down its edge, and the mortar behind it has let go of the stone.
+The hand goes over the top and the fingers hang down the far face to take what is standing behind the cap, a stone cap laid flat on brick having nothing under it but its own weight and the mortar that was laid with it. The cap is slick and cold across the top and gritted down its edge, and the mortar behind it has let go of the stone.
 
 The fingers go in about half an inch and then stop. Behind that half inch the mortar is gone, and behind the mortar the brick courses stand open along the bed for about a foot of the face, and the opening is as even as a ruled line.
 
@@ -32,13 +32,13 @@ A cap that walks a quarter of an inch and then stops has found a corner of brick
 
 The mortar in that bed joint is forty years old and has done what forty-year mortar does, which is to lose itself in the middle and keep its colour at the edges. The lime at the two ends of the bed is the colour it was laid, and it crumbles there.
 
-The joints of a pier that has settled stand open at the bottom and closed at the top. Bottom joints take the water off the cap and pass it down the face; top joints shed it, and the shedding ones are the ones that stay white. A pier with two open joints is a pier with two places for a frost to get in.
+The joints of a pier that has settled stand open at the bottom and closed at the top. Bottom joints take the water off the cap and pass it down the face; top joints shed it, and the shedding ones are the ones that stay white. On this pier the joint that passes the water down has opened and the one above it has stayed white, and the opening has been there since the cap came down onto the fourth course.
 
 Water down the face of a pier in summer dries by noon. Water down the face of the same pier in January does not dry at all, and the brick it runs over is wet at the back of the house and dry at the front by the middle of the day.
 
 The ivy at the far end of that yard has not touched the pier in eleven years. It reached the wall two feet away, found no purchase in the brick of the pier because the brick stands clear of it, and turned up the wall instead.
 
-A wall with a pier standing off it is two walls with a gap between them, and the gap is where the wind coming round the corner finds somewhere to go. The gap between that pier and the wall is about three inches wide at its narrowest and has been since the pier was built.
+The pier standing off that wall makes two walls out of one with a gap between them, and the gap is where the wind coming round the corner finds somewhere to go. The gap between that pier and the wall is about three inches wide at its narrowest and has been since the pier was built.
 
 A pier of that size would have been built in a day by two men with a bucket of lime and a line, and this one was built twice over, because the first was taken out and the second went in on top of it. The second pier is a course taller than the first and its bricks are a different batch, and where the two meet the colour turns over on a line you can follow all the way round three sides of it.
 
@@ -50,11 +50,9 @@ The yard was surfaced at the same time as the pier was built, and the surfacing 
 
 Grit that collects against a footing goes down between the concrete and the brick and stops at the footings course, which is a course of bricks laid on edge a foot below the yard surface. That course is the last thing between the yard and the ground, and it is laid on nothing whatever, and where the ground under it has gone the six inches of pier above it has followed the ground down.
 
-A pier is a thing people lean on, and leaning on it puts a hand flat on the cap about eighteen inches above the joint that has opened. That hand feels the cap move a quarter of an inch over eleven years and registers nothing at all, and the quarter of an inch shows as a line of shadow along the back of the cap on any afternoon with the sun behind it.
+People lean on a pier without noticing that they have leaned on it, and leaning on this one puts a hand flat on the cap about eighteen inches above the joint that has opened. That hand feels the cap move a quarter of an inch over eleven years and registers nothing at all, and the quarter of an inch shows as a line of shadow along the back of the cap on any afternoon with the sun behind it.
 
-The woman who books work comes to the gate of that yard from the street with her hood down and does not go in.
-
-Hood down, she stood outside that gate with her hands in her sleeves and looked up at the shutter, down at the pier, and along the length of the capping above it, and then she turned back towards the street and went on with the gate shut behind her.
+The woman who books work comes to the gate of that yard from the street with her hood down and does not go in. Hood down, she stood outside that gate with her hands in her sleeves and looked up at the shutter, down at the pier, and along the length of the capping above it, and then she turned back towards the street and went on with the gate shut behind her.
 
 A Wednesday, and whether a van could come by eleven, and the answer to that, which was that it could not. Nothing of the cap and the quarter of an inch it had walked entered any of the three, and the hand was down at her side before she reached the gate.
 

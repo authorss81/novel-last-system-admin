@@ -4,11 +4,11 @@ Sunday the eighteenth of August 2024, at the lower end of the yard gate strap at
 
 **SHE HAS THE LOWER END OF A GATE STRAP AT NUMBER NINE DRAWN OFF THE TIMBER IT IS SCREWED TO AND SHE MEANS TO PUT THE HAND INTO THE GAP AT THAT END WITH THE THUMB LAID ACROSS THE STRAP ON ITS NEAR FACE AND THE FINGERS PRESSING THE TIMBER BACK AGAINST THE THUMB, TO FIND OUT HOW FAR THE STRAP HAS DRAWN OFF.**
 
-The strap was fitted when the gate was hung on its third hinge, and the hinge is now on its second fixing while the strap has kept its screws. It is a strap for a five-bar gate and it came with the hinge, and it was put on the heel stile because the heel stile is where the maker's list put it.
+It came with the hinge, because a strap of that length is a strap for a five-bar gate and the gate was hung on its third hinge; the maker's list put it on the heel stile, the hinge is now on its second fixing, and the strap has kept its screws. Oak under iron stays for a good while and then does not, and no washer was fitted under any of the three heads.
 
-It is a strap of wrought iron about two feet long and an inch and a half wide, screwed flat across the face of the hinge stile, and at its lower end it has drawn away from the wood by about a sixteenth. She wants the space between the strap and the timber, and the width of that space is the only thing the strap has to say.
+Wrought iron, about two feet long and an inch and a half wide, screwed flat across the face of the hinge stile, and at its lower end it has drawn away from the wood by about a sixteenth.
 
-Iron fixed flat to timber keeps its seat only as long as the timber is there. So the hand goes into the gap at the lower end. The iron is cool and slick on its face and pitted all over underneath, and behind it the timber is dry and warm and quite unlike the iron.
+The space between the strap and the timber is the only thing the strap has to say, and iron fixed flat to timber keeps its seat only for as long as the timber is there, so the hand goes into the gap at the lower end. The iron is cool and slick on its face and pitted all over underneath, and behind it the timber is dry and warm and quite unlike the iron.
 
 The thumb bears on the strap and the fingers push the wood back against it, and between the two of them the gap opens to about a sixteenth and a half, which is as far as it has ever been. The strap itself does not move under the thumb, because the whole of it is bedded at its upper end and only the foot of it has anything to give.
 
@@ -40,9 +40,7 @@ The stile this strap is fixed to is oak, and the oak has been on that hinge line
 
 Nothing in that band of wood has been touched since the strap came off it, and the crescent of paint round the head has been open since the last winter and will open a little more this one. The band and the crescent are two records of the same movement written at two different scales, and they agree.
 
-Her handbag comes with the woman who does her shopping, up to the back step at nine from the yard, and she does not knock.
-
-Handbag in one hand, she came up the step and looked at the strap, then at the hinge, then along the strap once more, and then she set the handbag down on the step beside her and stood there a moment with her other hand on the rail. She did not touch the iron and she did not go through the gate behind it.
+Her handbag comes with the woman who does her shopping, up to the back step at nine from the yard, and she does not knock. Handbag in one hand, she came up the step and looked at the strap, then at the hinge, then along the strap once more, and then she set the handbag down on the step beside her and stood there a moment with her other hand on the rail. She did not touch the iron and she did not go through the gate behind it.
 
 "Your wash is going white."
 
@@ -50,7 +48,7 @@ Handbag in one hand, she came up the step and looked at the strap, then at the h
 
 "Then I will take it in before Sunday is out."
 
-"It will not come down on that."
+"It can stand till tomorrow."
 
 She picked the handbag up again and went on down the yard with it, and the strap on the gate stayed a sixteenth and a half off the timber with the pale band behind it showing the width of the gap. What went into words there was a wash and a Sunday and nothing else, and not one of the three had anything to do with iron.
 

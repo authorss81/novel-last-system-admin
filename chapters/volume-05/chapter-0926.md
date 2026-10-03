@@ -4,11 +4,11 @@ Thursday the eighteenth of July 2024, at the brick edging beside the front path 
 
 **SHE HAS AN EDGING OF BRICKS SET ON EDGE IN TWO COURSES BESIDE THE FRONT PATH AT NUMBER TEN AND SHE MEANS TO LAY THE THUMB FLAT AGAINST THE UPPER COURSE AND SLIDE THE HAND SIDEWAYS BEHIND IT WITH THE OTHER FOUR FINGERS BENT BACK, TO FIND OUT HOW FAR THE BED JOINT UNDER THAT COURSE RUNS AND WHAT STANDS BEHIND IT.**
 
-The edging was laid in a week in the spring of the path widening, and the path has been resailed once since while the two courses have kept their beds.
+Two courses of brick on edge have stood at that side of the walk since the spring the path was widened, one course bearing on the other, and in the sixty years since the walk has been resailed once and neither course has been lifted. The upper of the two is the course the broom finds every week of the summer, and the lower is the one it finds nothing on.
 
-It is a double edging of hard blue brick set on edge the whole length of the walk, one course standing on the other, with the outer course standing a little proud where the ground has settled under it. She wants the bed joint, which is the line where the lower course ends and the upper one begins.
+A double edging of hard blue brick, set on edge the whole length of the walk with the outer course standing a little proud where the ground has settled under it, is what the walk has beside it.
 
-A bed joint is the one joint on a run of bricks that the eye passes over entirely. So the thumb goes along it and the hand follows behind. Brick feels cool and slick along the top arris and gritted down the side of it, and the mortar between them is gone to sand.
+A bed joint is the one joint on a run of bricks that the eye passes over entirely, and the line where the lower course ends and the upper one begins is the one she is after, so the thumb goes along it with the hand following behind, bent back off the work. Brick feels cool and slick along the top arris and gritted down the side of it, and the mortar between them is gone to sand.
 
 The thumb runs about three feet and comes to a place where the joint opens and does not close again. Beyond that line the joint is a quarter of an inch deep, with old mortar crumbled along its floor and pale grains sitting in it. The thumb presses down into the opening and it does not give at all, because what is under it is not sand but the footing course of a gate pier, laid flat and already three years gone.
 
@@ -32,7 +32,7 @@ What the joint has opened into is a footing that runs on across the walk and com
 
 The bricks came out of a kiln two miles off and were sorted on the delivery for hardness, and the ones that could not strike a ring were thrown out. What is left is stone at the grain and not clay, and clay brick laid on edge in a joint like this one is already breaking down in its second winter.
 
-The front arris of the upper course has been rubbed to a shine by six summers of a broom drawn along it and by nothing else at all. Under the shine the brick is still taking in water, because a rubbed face closes the pores at the top and leaves the face under it open. A rubbed face dries first and wets slowest, which is the whole of the trick of a rubbed edge: it keeps a film off itself by being burnished rather than by being kept out.
+The front arris of the upper course has been rubbed to a shine by six summers of a broom drawn along it and by nothing else at all. Under the shine the brick is still taking in water, because a rubbed face closes the pores at the top and leaves the face under it open. Dries first and wets slowest is what a rubbed face does, and the whole trick of one is in that: it keeps a film off itself by being burnished rather than by being kept out.
 
 Rain off the hedge runs along the top of the course and finds the joint, and the joint takes the run without passing it on. Every shower puts the same two hundred grains into the same foot of that joint, and the grains are from the top course itself, worn off it by the water that made the groove.
 
@@ -42,9 +42,7 @@ A joint that has gone to sand cannot be pointed again, for nothing is left in it
 
 The bricks of the pier footing were never meant to be seen either. They were laid to spread the pier's load into the ground, and they were laid at a depth that the eye does not reach, and they are the only masonry on this walk that has had no rain on it at all.
 
-Her sister is at the shed window from inside, the sash up to its head, a folded net in her hand that she has not shaken out.
-
-Net in her hand, she stood at the opening and looked down the length of the edging, then at the gate, then along it once more.
+Her sister is at the shed window from inside, the sash up to its head, a folded net in her hand that she has not shaken out, and she stays at the opening long enough to look down the length of the edging twice over before she says anything at all. Net in her hand, she stood and looked down the length of the edging, then at the gate, then along it once more.
 
 "The hens have found the new bed."
 

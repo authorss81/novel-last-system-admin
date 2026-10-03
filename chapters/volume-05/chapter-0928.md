@@ -2,13 +2,13 @@
 
 Thursday the twenty-fifth of July 2024, at the stone lintel over the yard doorway at number nine while the doorway keeps its shade. Under a stone that spans a door.
 
-**SHE HAS A STONE LINTEL OVER THE YARD DOORWAY AT NUMBER NINE WITH A HOLLOW UNDER IT AND SHE MEANS TO PUT THE HAND IN AT ONE END OF THAT HOLLOW AND TAKE IT PAST THE CORNER OF THE JAMB SO THAT THE CORNER COMES INTO THE MIDDLE OF THE PALM, TO FIND OUT HOW DEEP THE HOLLOW IS AND WHAT LIES AT THE FAR END OF IT.**
+**SHE HAS A STONE LINTEL OVER THE YARD DOORWAY AT NUMBER NINE WITH A HOLLOW UNDER IT AND SHE MEANS TO SET THE HAND IN AT ONE END OF THAT HOLLOW AND TAKE IT PAST THE CORNER OF THE JAMB SO THAT THE CORNER COMES INTO THE MIDDLE OF THE PALM, TO FIND OUT HOW DEEP THE HOLLOW IS AND WHAT LIES AT THE FAR END OF IT.**
 
-The yard wall and its doorway went up together in a week, and the wall has been repointed twice since while the stone over the door has kept its ends.
+One stone in that yard wall has never been touched by a pointer, and it is the one that spans the doorway; about four feet long, set on edge across the opening, with a chamfer cut under it and a hollow running the whole length behind that chamfer. It is also the only stone on that wall with a worked edge left sharp on one side.
 
-It is a stone about four feet long set on edge across the opening, with a chamfer on the underside of it and a hollow running the whole length behind that chamfer. She wants the hollow, which is where the arch above the door has never quite got to.
+The yard wall and its doorway went up together in a week and the wall has been repointed twice since, and the hollow behind that chamfer is where the arch above the door has never quite got to.
 
-A hollow behind a chamfer is a place a mason makes on purpose. So the hand goes in at the low end and past the jamb corner. The stone is cool and feels slick along the chamfer's upper face and gritty under the arris of it. Past the corner the hollow opens out, and the depth at the middle of the stone comes to about three inches, with lime gone hard rolled into the back of it and the roll lying against the left-hand side.
+A hollow behind a chamfer is a place a mason makes on purpose, and the depth of that hollow is the thing she came for, so the hand goes in at the low end and past the jamb corner. The stone is cool and feels slick along the chamfer's upper face and gritty under the arris of it. Past the corner the hollow opens out, and the depth at the middle of the stone comes to about three inches, with lime gone hard rolled into the back of it and the roll lying against the left-hand side.
 
 The stone does not go beyond that. Two inches on from the roll there is stone again, dressed with a point and going down solid to the back, and it is the same stone to the last grain.
 
@@ -26,7 +26,7 @@ A stone over an opening gets everything the wall above it throws and nothing of 
 
 ---
 
-The wall round that doorway is rubble stone bedded in lime, and the rubble is the same stone as the lintel, which is why the doorway reads as one piece from the front and is not one from underneath.
+The wall round that doorway is rubble stone bedded in lime, and the rubble is the same stone as the lintel, which is why the doorway reads as one piece from the front and is not one from underneath. Both of the jambs were built up of it stone by stone rather than rubble by rubble, and the difference shows from the side.
 
 Bedded rubble carries its load on the ground through the pointing and through nothing else. A stone lintel carries its own weight on the jambs at either end and spans the whole of the opening between them.
 
@@ -48,7 +48,7 @@ Her sister does not come to number nine. The woman who does her shopping comes i
 
 Handbag inside the gate, she stood on the flags and looked at the plinth, then up at the coping, then at the plinth again, and then she turned her head towards the lane and went on out through the gate with the gate left standing open.
 
-The price of flour and the size of the shop's bags went into words there, Neither of those reached the stone, and the roll of lime lying behind its chamfer went unnamed the whole time.
+The price of flour and the size of the shop's bags went into words there, Neither of those reached the stone, and the roll of lime lying behind its chamfer went unnamed the whole time. She had the gate open behind her again before she had finished saying both of them.
 
 The powder waits behind the chamfer for a frost hard enough to move it, and the chamfer underneath it is slick where the arris has gone and takes what falls as readily as it took rain.
 

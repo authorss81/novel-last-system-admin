@@ -2,9 +2,9 @@
 
 Saturday the third of August 2024, at the curved edging of the front walk at number ten from the gate to the step. Round the inside of a turn.
 
-**SHE HAS AN EDGING OF BRICKS LAID IN AN ARC WHERE THE FRONT WALK TURNS ITS CORNER AT NUMBER TEN AND SHE MEANS TO RUN THE PAD OF THE THUMB ROUND THE INSIDE OF THAT CURVE FROM ONE END TO THE OTHER WITH THE REST OF THE HAND LEFT OUTSIDE IT, TO FIND OUT WHERE THE CURVE IS TIGHTEST AND WHAT HAS COLLECTED IN IT.**
+**SHE HAS AN EDGING OF BRICKS LAID IN AN ARC AT THE CORNER OF THE FRONT WALK OUTSIDE NUMBER TEN AND SHE MEANS TO RUN THE PAD OF THE THUMB ROUND THE INSIDE OF THAT CURVE FROM ONE END TO THE OTHER WITH THE REST OF THE HAND LEFT OUTSIDE IT, TO FIND OUT WHERE THE CURVE IS TIGHTEST AND WHAT HAS COLLECTED IN IT.**
 
-The walk was turned in a morning and the arc of edging went down with it, and the walk has been taken up and relaid twice since while the arc has kept its set. It is a quarter-circle of bricks on edge, six feet across the chord, with the bricks set close enough at the tight end that the joints there are a pencil wide. She wants the inside of it, where the curve doubles back on itself and the two faces stand nearest, and the two faces there stand about an inch apart at the tightest point of the whole curve.
+That corner of the walk has been taken up and relaid twice since the arc of bricks went down with it on the morning the corner was cut, and the arc has kept its set through both of them; it is a quarter-circle of bricks on edge six feet across the chord, set close enough at the tight end that the joints there are a pencil wide. She wants the inside of it, where the curve doubles back on itself and the two faces stand nearest, and the two faces there stand about an inch apart at the tightest point of the whole curve.
 
 The pad of the thumb goes round the concave side and the hand stays outside the bricks. Where the bricks are slick with six summers of a broom the pad knows them at once, and where the joint stands open the pad drops into it and comes out again.
 
@@ -22,7 +22,7 @@ The outer face is the convex side, and the convex side of an arc is where the st
 
 ---
 
-Six bricks make the tight end of that arc and they were set by eye against a line struck from the step and not against a centre, which is why the sixth one stands a quarter of an inch out of the curve and does not go back.
+Six bricks make the tight end of that arc and they were set by eye against a line struck from the step and not against a centre, which is why the sixth one stands a quarter of an inch out of the curve and does not go back. It is also the only brick on the whole arc that can be seen to be out of it from the gate.
 
 A brick out of curve on the concave side narrows the walk by a quarter of an inch at knee height, which is the height a person's hip finds and nothing else does. It also takes the corner off the broom on every pass, and the broom corner is a corner of lead and not a thing that can be argued with. The joints either side of that brick are pencil wide and the brick itself is a finger wide across its face, and the finger of extra is the reason the arc has never needed pointing.
 
@@ -34,13 +34,9 @@ Both of the two pale bricks on that arc are on the outer face and both have lost
 
 The lime dust on the convex side is three years old and it rubs off in a season on a sleeve, and the film that puts back is not lime dust but the fine grit the broom carries off the concrete behind it. That grit is slick to the pad and the lime dust was not, and the difference between them is the whole of the shine on the inside of the arc.
 
-Her sister is on the front step when she comes round from the garden, a folded jacket over her arm that she has not set down.
+Her sister is on the front step when she comes round from the garden, a folded jacket over her arm that she has not set down. Jacket on her arm, she stood at the step and looked along the walk to the gate, then down at the arc, then along the walk again, and then she shifted the jacket to her other arm and went on round the corner of the house with it. She did not come back along the walk and she did not stop at the arc on her way.
 
-Jacket on her arm, she stood at the step and looked along the walk to the gate, then down at the arc, then along the walk again, and then she shifted the jacket to her other arm and went on round the corner of the house with it. She did not come back along the walk and she did not stop at the arc on her way.
-
-What passed between them was the hens again and whether the run wanted a second shade over the water butt, and that it did not want one while the wall was in the sun till nine.
-
-None of that touched the arc, and the quarter of an inch the sixth brick stands out went unnamed, and the pencil-wide joint at the tight end went unnamed the whole time she was standing there.
+What passed between them was the hens again and whether the run wanted a second shade over the water butt, and that it did not want one while the wall was in the sun till nine. None of that touched the arc, and the quarter of an inch the sixth brick stands out went unnamed, and the pencil-wide joint at the tight end went unnamed the whole time she was standing there.
 
 The sweep does not lift the stones and the stones do not move towards the middle, and the pale bricks on the outer face keep their two corners whichever way the arc is swept.
 

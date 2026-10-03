@@ -4,7 +4,7 @@ Monday the fifteenth of July 2024, at the stone trough in the side yard at numbe
 
 **SHE HAS A STONE TROUGH IN THE SIDE YARD AT NUMBER TWELVE STANDING ON TWO LOW BLOCKS WITH A GAP WHERE THE TROUGH'S OWN STONE CLEARS THE BLOCK IT RESTS ON AND SHE MEANS TO LOWER THE HAND DOWN THE OUTSIDE OF THAT GAP WITH THE FINGERS GOING FIRST AND HER WRIST BENDING AFTER THEM.**
 
-The trough was set up on its two blocks in a morning in the spring of the year the wall behind it was repointed, and the wall has been pointed once since while the trough has kept its blocks.
+The trough was set up on its two blocks in a morning in the spring of the year the wall behind it was repointed, and the wall has been pointed once since while the trough has kept its blocks. Both blocks were cut for this trough and neither of them has been moved since it was put down.
 
 It is a trough cut out of one block of sandstone about four feet long, and the two blocks under it are off-cuts of the same stone, laid flat, one at each end. She wants the gap, which is the space the trough's own stone leaves between itself and the block where the two do not meet.
 
@@ -46,9 +46,7 @@ Slick stone takes a wet hand's palm and hands it back; the same stone takes a dr
 
 A stone that has stood water for years keeps it in the pores, and a dry summer takes it out again a season at a time rather than all at once. So the stone at the foot of that trough sweats on a still night in the third week of July, with no water anywhere above it and none due for a fortnight.
 
-Her sister comes to the side gate from the lane with a folded horse blanket over her forearm and does not shake it out.
-
-Blanket on her forearm, she stood at the gate and looked at the trough, then at the wall, then at the trough again, and then she shifted the blanket up to her elbow and went on through the gate and up the side yard with it.
+Her sister comes to the side gate from the lane with a folded horse blanket over her forearm and does not shake it out. Blanket on her forearm, she stood at the gate and looked at the trough, then at the wall, then at the trough again, and then she shifted the blanket up to her elbow and went on through the gate and up the side yard with it. She got as far as the second block and no further.
 
 Nothing of that morning's business went into words. What went into words was the price of hay, and whether the far field had been cut or not, and what the far field would yield if it was cut late, and neither answer touched the trough.
 

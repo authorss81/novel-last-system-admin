@@ -4,11 +4,11 @@ Monday the twenty-second of July 2024, at the lead collar on the back wall of nu
 
 **SHE HAS A LEAD COLLAR ON THE BACK WALL AT NUMBER TWELVE WHERE AN OLD FLUE CAME OUT THROUGH THE RENDER AND SHE MEANS TO PUSH TWO FINGERS OF ONE HAND BEHIND THAT COLLAR WITH THE PALM FLAT TO THE WALL AND THEN OPEN THEM APART, TO FIND OUT HOW WIDE THE SPACE BEHIND IT IS AND WHAT IS IN IT.**
 
-The flue came out of that wall in a fortnight in the winter the house was first piped, and it was bricked up at its mouth some thirty years later, with the collar left where it was because nobody thought of it again.
+That flue came out of the back wall in a fortnight in the winter the house was first piped, and some thirty years later its mouth was bricked up at the inside and the collar was left standing where it stood, and the collar is the only part of that flue still showing on the wall. It is a five-inch ring of metal round a hole that goes no further than four courses into the thickness of it.
 
-It is a collar of lead about five inches round the pipe it once carried, flanged back against the render and bedded in a ring of old lime that has gone hard as a stone. She wants the space behind it, and the whole of what is under the flange is in that space.
+A collar of lead about five inches round, flanged back against the render and bedded in a ring of old lime gone hard as a stone, is what is on that wall, and the whole of what lies under the flange is in the space behind it, which is the space she wants.
 
-A flange bedded in lime stands off the wall everywhere the lime has not crushed. So the two fingers go behind the collar. The lead is cool and slack, and the lime behind it is gritty and has begun to open away from the metal in a curve about the width of a thumb.
+A flange bedded in lime stands off the wall everywhere the lime has not crushed, and the two fingers go in behind the collar along that line. The lead is cool and slack, and the lime behind it is gritty and has begun to open away from the metal in a curve about the width of a thumb.
 
 The fingers open apart and find both edges. The gap is a finger wide at the top of the flange and closes to a paper's thickness at the bottom, and the two edges are not parallel to each other. Pressed between them the hand finds a wedge of render standing proud in a slow wave, which is the swell of the wall behind the flue and not a crack in it, and the wave itself is slick along its length where the lime has been drawn out of the face.
 
@@ -34,11 +34,9 @@ What a sealed pipe gives up in a year is about a bucket of water. What it keeps 
 
 Packed dust under a flange is not a fault in the collar. It is the collar doing the one thing a collar is for, which is to keep the water on the face of the wall out of the wall. What it keeps out is what it also keeps in, and the lime behind it stays dry while the render round it stays soaked, which is the trade every flashing on every building makes and none of them makes well.
 
-A dry lime behind a flange crumbles from the bottom up, because the damp gets into it from the wall end and works against the cold of the back wall. It is about halfway through, and the bottom inch is the colour of a biscuit. The bricked-up mouth of that flue is on the inside of the wall and it is four courses deep, and the inside of it is the driest part of the whole structure, which is why nobody found the wall smelled before the collar was looked at.
+A dry lime behind a flange crumbles from the bottom up, because the damp gets into it from the wall end and works against the cold of the back wall. It is about halfway through, and the bottom inch is the colour of a biscuit. The bricked-up mouth of that flue is on the inside of the wall and it is four courses deep, and the inside of it is the driest part of the whole structure, which is why the wall gave out no smell at all until the collar was looked at.
 
-The yard door is where her sister stands when she comes up from the beds, a pair of gloves in one hand and no sign of putting them on.
-
-Gloves in one hand, she stood in the yard door and looked up at the collar, then down at the beds, then up at the collar again, and then she put the gloves into her apron pocket and went on towards the beds with the yard door left open behind her.
+The yard door is where her sister stands when she comes up from the beds, a pair of gloves in one hand and no sign of putting them on. Gloves in one hand, she stood in the yard door and looked up at the collar, then down at the beds, then up at the collar again, and then she put the gloves into her apron pocket and went on towards the beds with the yard door left open behind her.
 
 What passed between them there was the wasps in the hedge and whether the far end of the hedge wanted cutting back before the fruit set. Neither of those touched the collar, and neither of them named the four summers of dust packed under its top edge.
 
