@@ -76,7 +76,7 @@ So the barrow stands where it stands, in the corner, wheel to the wall.
 
 Her sister comes and stands in the shed door about half eleven with her hands in her pockets.
 
-She wanted a length of wire and it is not in there, and the spare roll of it is on the shelf behind the sacks and she did not want to go behind the sacks. She was asked what for and she said the pea sticks are done and the ones for next year want doing now while there is nothing else in. She put her hands deeper in and looked at the yard, which is a yard with one thing in it.
+She wanted a length of wire and it is not in there, and the spare roll of it is on the shelf behind the sacks and she did not want to go behind the sacks. She was asked what for and she said the pea sticks are done and the ones for next year want doing now while there is nothing else in the ground. She put her hands deeper in and looked at the yard, which is a yard with one thing in it.
 
 Then she went back inside and shut the door behind her, and the corner of the yard was the corner of the yard.
 

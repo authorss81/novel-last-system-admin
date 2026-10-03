@@ -44,7 +44,7 @@ What it is, is a made ground. A strip of ground that has been made good by someb
 
 And there is only one thing a house gets made good for like this.
 
-That is a path. An old path, running along the front of that house, that somebody walked on and that was made good because people walk on it and a footpath gets ruts and a ruts needs mending. And then the path was taken up and the front of that house was dug over from end to end, and ground that is dug over gets dug over, and nobody digs over a strip that does not give.
+That is a path. An old path, running along the front of that house, that somebody walked on and that was made good because people walk on it and a footpath gets ruts and a rut needs mending. And then the path was taken up and the front of that house was dug over from end to end, and ground that is dug over gets dug over, and nobody digs over a strip that does not give.
 
 Because a path is not a road and not a yard. A path takes the feet of one person going to one door and coming back, twice a day, for fifty years, and that is enough to make good a strip about a hand wide and not enough to make good a strip a foot wide. Whoever mended it mended exactly what the feet had done to it and stopped there, and they stopped because it stopped.
 
@@ -60,7 +60,7 @@ Everything in that front for as long as there has been a front there has been du
 
 Which is not a fault.
 
-That is the part worth saying, because everything above it sounds like a discovery and it is not one. A hard strip under soft ground that nobody can see is a perfectly ordinary thing and half the ground in this borough is like it, and it has cost nothing and it is going nowhere.
+That is the part worth saying, because everything above it sounds like a discovery and it is not one. A hard strip under soft ground that does not show on the surface above it is a perfectly ordinary thing and half the ground in this borough is like it, and it has cost nothing and it is going nowhere.
 
 What it means is narrower than it sounds.
 

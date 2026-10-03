@@ -6,8 +6,6 @@ Saturday the twentieth of January 2024, along the face of the front bed at numbe
 
 Six feet of edging came out of that bed in the spring and it is standing against the wall in the yard under a string, and the bed is a hole with three sides and a face, which is what a bed is once it has been opened.
 
-The face is the part nobody looks at.
-
 Everybody who has ever walked past that bed has seen the top of it, which is a strip of about two feet of bare ground going down to the lawn, and the grass round it, and the frame. From the path you cannot see the face at all, because the face is at the end of the bed and it goes down into the ground.
 
 She has been in the bed twice this winter and both times she stood at the top of it and looked down.

@@ -10,11 +10,11 @@ A scaffold board on two trestles, a foot and a bit above the flags, hard against
 
 He knows what the top of it is like. That is the whole of what he has ever wanted to know about it and it took him the better part of a day with a bundle of cards.
 
-What is under it is the other half of the question, and nobody in that yard has ever put a hand under it, because there is no reason on earth to. There is nothing stored under it. It is not a place anything gets put.
+What is under it is the other half of the question, and the flags under that bench are in one piece where the ones round it are scuffed pale, with the dust lying flat across the joints and joined at the edges of it, which is what a floor looks like that has had nothing stood on it and nothing walked over since it was laid.
 
 Which is exactly why whatever is under it has been able to do what it has done.
 
-A bench on two trestles in a yard in this country stands on two trestles and two trestles stand on ground. The ground goes down and the bench does not, and then the bench is a thing on stilts, and then water goes under the board instead of off it, and the board goes off at the ends of it. Nobody notices, because the underside of a bench is the one surface in a yard that no arrangement of daylight ever reaches.
+A bench on two trestles in a yard in this country stands on two trestles and two trestles stand on ground. The ground goes down and the bench does not, and then the bench is a thing on stilts, and then water goes under the board instead of off it, and the board goes off at the ends of it, and the whole of that goes on the one surface in a yard that no arrangement of daylight ever reaches.
 
 So he gets down and puts his hand flat on the flags at the front of the bench, palm down, and pushes it forward under the board.
 

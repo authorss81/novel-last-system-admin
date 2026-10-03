@@ -16,7 +16,7 @@ So the hole has stayed open because a hole is what everybody would rather have t
 
 A hole like that has three things to know and two of them are free.
 
-The first is how deep it is, which anybody can see into from the side of it with a stone dropped in. The second is what shape it is in plan, which anybody can see from above with a boot. The third is what shape it is in section, which nobody sees from anywhere, because you have to be in it, and being in it means putting an arm in a foot square hole in a concrete apron in January.
+The first is how deep it is, which anybody can see into from the side of it with a stone dropped in. The second is what shape it is in plan, which anybody can see from above with a boot. The third is what shape it is in section, which cannot be had from outside it, because you have to be in it, and being in it means putting an arm in a foot square hole in a concrete apron in January.
 
 She means to put an arm in it.
 
