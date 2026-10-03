@@ -2290,3 +2290,25 @@ Fifteen findings on the committed block of 785 to 794, nine of them fixed in the
 
 
 **THE TEN SUMMARIES ABOVE WERE CHECKED AGAINST THE FILES ON 3 OCTOBER 2026 AFTER THE REVIEW OF 0072, AND FOUR OF THEM DESCRIBED A DRAFT.** 0908 carried a job fact into the visitor's head and 0910 did the same with a can for seedlings, both of which the repair cut; 0912 was summarised as ending on a repair when it now ends on the sand going on packing itself down, and 0914 as ending on a step wanting brushing firm when it now ends on the crease packing and the tread losing its shine. **Nothing in the findings, the hands, the dates, the figures, the doors or the ten closing moves was altered by the repair, and all ten are as the block wrote them.** What moved was wording and shape, and 0906 0910 0912 0913 and 0914 were rebuilt around the other five rather than around 0907 to break one template that ten chapters had been sharing.
+
+## Continuation 0073 — Chapters 915-924
+
+0915 Under The Loose Cap. Thu 6 Jun 2024, twelve seventy-eight. Fingertips sideways under cap palm-down wrist low. Cap on front lip and back earth bank with grit in shadow; forward stance throws wash; ivy ropes in footing trench. Sister at garden doorway with folded square unfolded, indirect beans. Ends WHEN.
+
+0916 Under The Slab Corner. Mon 10 Jun 2024, ten early thirties. Palm flat under lifted corner fingers spread thumb clear. Corner on two stone rims with rammed earth; ants run hollow; joint sand grades coarse to fine; hazel tripod. Sister at yard gate with string bag unhung, quoted two exchanges on rain and beans. Ends IF.
+
+0917 Along The Runner Slot. Sat 15 Jun 2024, lock-up late forties. Forefinger alone along slot others curled. Slot stopped both ends with dust; chaff wad lifts wheel; padlock chains apron lore. Books at bay arch with slip kept pocketed, silent. Ends SINCE.
+
+0918 Into The Post Hollow. Tue 18 Jun 2024, nine late fifties alone. Thumb deep in hollow fingers braced. Hollow blind in rammed earth on post core; rails tenoned wedged; brickbat footings. Shopping at back doorway with knotted scarf, indirect plums. Ends THOUGH.
+
+0919 Into The Bench Joint. Sat 22 Jun 2024, unit early forties (man). Knuckles edge-first fingers bent. Bar finger off leg on peg, still air keeps joint; vice jaw beech; rim pegs. Two-doors at store mouth with brush unshaken, quoted two exchanges on opening and warped shelves. Ends BECAUSE.
+
+0920 Behind The Loose Collar. Tue 25 Jun 2024, twelve seventy-eight. Hand-back down behind collar fingers down. Slit finger deep bottomed in rammed moss on post face; ivy ties slaters; cap rail pegged. Sister at front step with seed tin unturned, silent. Ends BEFORE.
+
+0921 Between The Stacked Boards. Sun 30 Jun 2024, unit early forties (man). Middle pair together outers folded. Lengths finger apart on crossbars; dished rick breathes; slab offcuts battens. Two-doors at side doorway with sack unleant, indirect runner beans. Ends AND.
+
+0922 Through The Weep Hole. Wed 3 Jul 2024, nine late fifties alone. Little finger hooked hand cupped. Hole through to banked earth on buried stone; bullnose steps flints grit beds; swallows. Shopping at back gate with basket lid uncarried, silent. Ends FOR.
+
+0923 Along The Hairline Crack. Sun 7 Jul 2024, lock-up late forties. Hand-heel along crack fingers clear. Hairline blind finger deep on sand; square nuts stickers soldier arch. Books at front arch with pencil unspread, quoted two exchanges on bay and peas. Ends YET.
+
+0924 Across The Warped Gap. Fri 12 Jul 2024, ten early thirties. Thumb to middle span idle forefinger. Gap stub-short at peg on banked earth; seed trays fish-scale laps; seedling script. Sister at side path with twine loop unwound, silent. Ends SO, and it is not a close.
