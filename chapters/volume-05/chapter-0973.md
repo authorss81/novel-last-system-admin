@@ -16,14 +16,17 @@ The post itself is of softwood, squared and pointed at the foot before it was dr
 
 The stones round the foot of the post are of field stone mixed with broken brick, packed tight when the post went in and settled since. One stone stands proud and rocks underfoot, while the rest sit fast. Grass grows between the stones in tufts, and a snail shell lies empty beside them.
 
-The site steps behind the post run up to the office door in concrete with iron nosings on each tread, and the nosings have worn bright along their crowns where feet strike. The concrete between is rough and pale with dust, and grit gathers in the corners where the broom cannot reach. The grit there is of sand and paint flakes mixed, pale against the grey concrete, with each flake curled and thin. Tread nosings cast travelling umbrae matutinal, gaining the nether step by noon. The handrail beside the steps is of pipe with collars at each turn, and the collars there are smooth and dark where hands have taken them. The pipe runs in three lengths joined at the turns, and each length rings faintly when struck. The brackets that fix it to the wall stand off on lugs with old paint gone hard round the screws.
+The site steps behind the post run up to the office door in concrete with iron nosings on each tread, and the nosings have worn bright along their crowns where feet strike. The concrete between is rough and pale with dust, and grit gathers in the corners where the broom cannot reach. The grit there is of sand and paint flakes mixed, pale against the grey concrete, with each flake curled and thin. Tread nosings cast travelling umbrae matutinal, gaining the nether step by noon.
+
+The handrail beside the steps is of pipe with collars at each turn, and the collars there are smooth and dark where hands have taken them. The pipe runs in three lengths joined at the turns, and each length rings faintly when struck. The brackets that fix it to the wall stand off on lugs with old paint gone hard round the screws.
 
 Rain off the office roof falls onto the steps and runs down them in sheets, washing the grit from the middles and leaving it in the corners. Dew settles on the washers overnight and rusts them a little more with every week, while the post beneath stays dry under the pile. Roof water from the bay runs across the yard in a channel that passes the post by a foot and carries sand clear of the stones.
 
 A second post further along carries no washers but a coil of twine hung on a nail, and the twine there has frayed at its end into pale fibres. The nail leans down a little under the weight and the twine sits in the angle where nail meets post. The fibres at the end catch the light and drift in wind, while the coil above stays wound tight. A spider has drawn a line from the twine to the post, thin and bright in sun. A third post carries a hook with nothing on it, bright at its tip where it was forged. The hooks and nails draw little heat, being small and rusted, while the washers draw most where fingers meet them together.
 
-The washers were gathered through years, one here and one there from jobs about the yard, and dropped over the post for keeping. A washer spreads the load of a bolt head across timber that would crush beneath iron alone, and each size suits a different bolt. The pile here mixes sizes because it was gathered without sorting, with large washers below and small above as they came to hand. The small ones rock a little on the large below, while the large sit full and still. No two match precisely, hence the lean and the bore skewing faintly off-plumb. The lean is slight and even, no more than the thickness of a thin washer across the height of the pile.
-One finger drops upright through the piled washers from the top to the post, kept straight so as not to catch on the rims.
+The washers were gathered through years, one here and one there from jobs about the yard, and dropped over the post for keeping. A washer spreads the load of a bolt head across timber that would crush beneath iron alone, and each size suits a different bolt. The pile here mixes sizes because it was gathered without sorting, with large washers below and small above as they came to hand. The small ones rock a little on the large below, while the large sit full and still.
+
+No two match precisely, hence the lean and the bore skewing faintly off-plumb. The lean is slight and even, no more than the thickness of a thin washer across the height of the pile. One finger drops upright through the piled washers from the top to the post, kept straight so as not to catch on the rims.
 
 It goes down slowly because the shaft runs a little out of true and the finger must ease past each rim. It decodes apertures tactually, disc by disc, hoisting none.
 
@@ -57,6 +60,6 @@ The finger rises from the iron shaft and flicks rust dust to the earth as the cl
 
 "It will be back by Friday."
 
-Afterwards the subject is the market and the lent barrow and the price of each, and nothing that sits on the timber post or stands beside it. The ledger-keeper keeps the stair foot, nearing the stack never, treads behind, yard agape ahead. The pile stays where it sits with its shaft running straight and its rims showing dust in the sun.
+Afterwards the talk runs to the market and the barrow lent out and not returned and the price asked for each; the post and the pile upon it go unremarked. The ledger-keeper keeps the stair foot, nearing the stack never, treads behind, yard agape ahead. The pile stays where it sits with its shaft running straight and its rims showing dust in the sun.
 
 Nobody moves the pile from its post for the sake of tallying, though the washers sit there for any who pass to tally.

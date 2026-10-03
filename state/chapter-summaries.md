@@ -2413,14 +2413,14 @@ Fifteen findings on the committed block of 785 to 794, nine of them fixed in the
 
 ---
 ## VOLUME 05, CONTINUATION 0078 — CHAPTERS 965–974 — Undated (calendar awaiting human ruling)
-0965 Along The Paving Joint (nine/shopping): two fingers ease a washed paving joint; drift of grit lies where water left it, as though sorting by weight. 1512.
+0965 Along The Paving Joint (nine/shopping): two fingers ease a washed paving joint; drift of grit lies where water left it, as though sorting by weight. 1513.
 0966 Between The Standing Boards (twelve/sister): hand edge-first down a board slot; board spans its bow, until dust settles again. 1496.
 0967 Behind The Bench Leg (unit/two-doors, quoted: dog, hall roof fund): fingers over stretcher into wall void; bench asks nothing of the wall, since it stood first. 1411.
-0968 Through The Wire Coil (ten/sister): finger through a wire-coil hollow; coil keeps its hollow, because wound to last. 1402.
-0969 Round The Pipe Bend (lock-up/books, indirect: post, parcel): middle finger round a pipe bend bore; bore keeps its scale where daylight meets dark. 1419.
+0968 Through The Wire Coil (ten/sister): finger through a wire-coil hollow; coil keeps its hollow, because wound to last. 1406.
+0969 Round The Pipe Bend (lock-up/books, indirect: post, parcel): middle finger round a pipe bend bore; bore keeps its scale where daylight meets dark. 1420.
 0970 Down The Stone Crack (twelve/sister): fingertip down a stone crack; twin stones guard cleft and powder, when the line dries. 1400.
 0971 Along The Frame Groove (unit/two-doors, quoted: fete board, scarf): finger along a frame groove; squared oak grips powder, once the tour ends. 1403.
 0972 Under The Flag Arris (ten/sister): fingers flat under a flag arris; hollow yields sand, before noon crowns the wall. 1402.
-0973 Through The Piled Washers (lock-up/books, quoted: market, barrow): finger down a washer-pile shaft; nobody moves the pile, though washers sit to be tallied. 1413.
-0974 Into The Flint Gap (nine/shopping, indirect: bus, shop hours): nail into a flint gap; flint wall keeps lime and gap, in case another winter tests the bed. 1400.
-Full account is the `VOLUME 05, CONTINUATION 0078` block at the end of `state/continuity.md`, which is authoritative.
+0973 Through The Piled Washers (lock-up/books, quoted: market, barrow): finger down a washer-pile shaft; nobody moves the pile, though washers sit to be tallied. 1416.
+0974 Into The Flint Gap (nine/shopping, indirect: bus, shop hours): nail into a flint gap; flint wall keeps lime and gap, in case another winter tests the bed. 1413.
+Full account is the `VOLUME 05, CONTINUATION 0078` block at the end of `state/continuity.md`, which is authoritative. **The five word counts above were re-taken by the review repair of continuation-0078 on 3 October 2026, which was the last edit to land in any of these chapters; 0965/0968/0969/0973/0974 moved and the other five did not, and the first edition's row stood at 1512/1496/1411/1402/1419/1400/1403/1402/1413/1400 TOTAL 14258 against the page's 1513/1496/1411/1406/1420/1400/1403/1402/1416/1413 TOTAL 14280. No chapter was restarted and no card changed. That repair's findings, including its refusal of two findings that were themselves wrong numbers, are in the review-repair block under the 0078 block in `state/continuity.md`.**

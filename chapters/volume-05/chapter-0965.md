@@ -12,7 +12,7 @@ The joint sand has washed out of that opening grain by grain, and the run of the
 
 That joint is about the width of a little finger at the top and narrower below, and it goes down between the two slabs for about the depth of a finger before it meets what is left of the bedding sand. The sand that is left is pale and loose at the top and darker and firmer further down, and it falls away under the arris of the lower slab for a short distance.
 
-A paving slab feels cold down one side of a finger, for cast mix pulls heat out of skin quickly. Neighbouring sand lies arid, tender, gifting warmth to none. The arris of the slab is square and sharp from the mould, and it has lost none of its edge along the length of the joint except where a corner has been rubbed by feet.
+A paving slab feels cold down one side of a finger, for cast mix pulls heat out of skin quickly. The sand lying beside it gives nothing back to the hand and keeps none of its own. The arris of the slab is square and sharp from the mould, and it has lost none of its edge along the length of the joint except where a corner has been rubbed by feet.
 
 The bedding sand under the path was put down on soil, and the soil beneath it is dark and close and full of small stones. At the open joint the sand has gone down into the soil in a narrow cone, and the sides of that cone are lined with grains that have stuck together with damp. Nothing has been dug there and nothing has been swept out of it.
 
@@ -44,16 +44,14 @@ Sward beside the walk has crept an inch across both flags, rootlets trussing loa
 
 Rain water runs off these slabs toward the grass and not toward the house, which is why the joint opened where it did and not elsewhere. The fall of the path is slight but true, and a cup of water tipped at the door would reach the pavement without stopping. Dew sits on the slabs until mid-morning, and roof water from the bay has cut a shallow channel in the grass beyond.
 
-The iron gate at the pavement stands open against the wall on its hook, and the brick pier beside it shows where old lime has gone hard in the joints and where it has fallen away to leave a shallow groove. That pier furrow lies thirsty, dusty; a fingertip traversal returns ashen. Fired clay in that pier bites cold and deep against a fingertip. It is the same kind of opening as the joint in the path, only upright and in old lime instead of sand, and it goes back only to the first knuckle.
+The iron gate at the pavement stands open against the wall on its hook, and the brick pier beside it shows where old lime has gone hard in the joints and where it has fallen away to leave a shallow groove. The groove in that pier lies thirsty and dusty along its length, and a fingertip drawn along it comes away grey. Fired clay in that pier bites cold and deep against a fingertip. It is the same kind of opening as the joint in the path, only upright and in old lime instead of sand, and it goes back only to the first knuckle.
 
 ---
 
-The woman who does her shopping is at the corner of the front path where it meets the pavement at number nine from the pavement, with both feet on the pavement and not stepping onto the path and nothing in her hands.
+The woman who does her shopping stands where the front path meets the pavement at number nine, both feet on the paving and off the path, with nothing in her hands.
 
 Both hands hang loose at the sides with grit under the nails while the shopper measures the door from the pavement. Talk runs on whether the corner shop has moved its opening hours, and whether the morning bus still waits at the stop, with replies traded easily across the path.
 
 The shopper bides on public paving, never mounting the path, surveying slabs, then door, then roadway in turn. The path stays where it is with its joint open and its sand fallen away, and the door stays shut with the paint on it unmarked.
 
 The drift of grit at the bottom of that joint lies where the water left it and spreads a little further with every rain, as though the path were learning to sort what it sheds by weight.
-
-(End of file - total lines)

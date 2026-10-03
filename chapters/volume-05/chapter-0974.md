@@ -14,7 +14,7 @@ The flints around the gap are of different shapes, one square with a sharp arris
 
 Knapped flint needles the nail cold, glass-hard and glittering. Adjacent aged lime takes minimal warmth, dusting at a fingertip. Mouth grit yields no warmth to touch.
 
-The old lime of the bed has gone hard through years and cracked along three joints besides the gap, each crack no wider than paper thickness. Lingering mortar gleams wan on tenebrous flint, shedding filament shadows. Where it has fallen the flints show their sides, dark and damp where rain never reaches.
+The old lime of the bed has gone hard through years and cracked along three joints besides the gap, each crack no wider than paper thickness. Old mortar still in place gleams wan on tenebrous flint, shedding filament shadows. Where it has fallen the flints show their sides, dark and damp where rain never reaches.
 
 The brick around the bed is of kiln-fired stock with a dark skin and a softer heart, laid in courses that run true across the porch. The pointing there is old lime gone hard, fissured down one bond above the flintwork and showered in grit across the tread. Grit sleeps where it dropped, pallid on tread stone, unswept by any broom.
 
@@ -42,9 +42,9 @@ Inward distance tells first. The nail reaches about an inch before it meets the 
 
 What hides behind tells afterwards. Through the greater depth old lime alone stands, rigid and pallid, scarred where the lost fragment tore free. Deep aft lurks a flint splinter spalled from squared arris, bridged crosswise, tissue-thin, keen. It stays sullen to top pressure, veering to side pressure till the round flint cheeks it.
 
-The spall drinks warmth deep, razor-rimmed. Tread stone underfoot drinks cold slowly through the soles, dense quarry fashion. The lime flanking both sips meagre warmth, flouring to fingernails.
+The spall drinks warmth deep, razor-rimmed. Tread stone underfoot drinks cold slowly through the soles, dense quarry fashion. The lime flanking both takes what warmth the finger brings and gives none of it back, flouring to fingernails.
 
-The nail ascends from the slit, grime beneath its rim, else clean. The slit stays as encountered, the glass flake pinned where the press pinned it, a hair beneath its birth seat.
+The nail ascends from the slit, grime beneath its rim, else clean. The slit stays as first found, the glass flake pinned where the press pinned it, a hair beneath its birth seat.
 
 Neither flint stirs to pressure, lime bedding plus bed-mass locking each. Thumb load stirs neither a whisker; each sinks home anew.
 

@@ -65,7 +65,7 @@
       "nine"
     ]
   },
-  "block": "VOLUME 05, CONTINUATION 0078 \u2014 CHAPTERS 965\u2013974",
+  "block": "VOLUME 05, CONTINUATION 0078 — CHAPTERS 965–974",
   "calendar": {
     "human_ruling_required": [
       "Authorise the year to turn again",
@@ -277,20 +277,20 @@
     "recorded_as": "Strict zero unsatisfiable; overall minimum two; best under held shape constraints three, attained. A human may rule the rotation rule."
   },
   "measures_after_prose": {
-    "date": "Taken off the files after every edit landed, including span-driven paraphrases, cold fixes, closing rewrites and top-ups.",
+    "date": "Taken off the files after every edit landed, including span-driven paraphrases, cold fixes, closing rewrites and top-ups, AND RE-TAKEN AT THE END OF THE REVIEW REPAIR OF CONTINUATION 0078 ON 3 OCTOBER 2026, WHICH WAS THE LAST EDIT TO LAND IN ANY OF THE TEN. The first edition of this block read 1512/1496/1411/1402/1419/1400/1403/1402/1413/1400 TOTAL 14258 and is kept in the repair block in state/continuity.md; both rows stand and this one is the page.",
     "words_by_file_whole_title_included": {
-      "965": 1512,
+      "965": 1513,
       "966": 1496,
       "967": 1411,
-      "968": 1402,
-      "969": 1419,
+      "968": 1406,
+      "969": 1420,
       "970": 1400,
       "971": 1403,
       "972": 1402,
-      "973": 1413,
-      "974": 1400
+      "973": 1416,
+      "974": 1413
     },
-    "total": 14258,
+    "total": 14280,
     "length_target": "1400 to 1800 all ten inside, wc -w whole title included off the files.",
     "scene_breaks": {
       "per_chapter": [
@@ -349,9 +349,9 @@
       ],
       "note": "Three quoted plus three indirect satisfies at least three quoted and a fourth indirect. No line about the work."
     },
-    "banned_45": "Zero on whole file including all-caps in all ten with word boundaries and at plural stems. Checked after every edit; fixes included seal/panel/holds/steady/plain/counted/frost/moss/bearer/margin/holding rewrites.",
-    "skeletons": "there is no, it is not a, and that is, that is the whole of at zero in all ten with word boundaries.",
-    "numerals": "Chapter number and no other digits in all ten (undated lines carry no year by human ruling, \u00a70).",
+    "banned_45": "Zero on whole file including all-caps in all ten with word boundaries and at plural stems. Checked after every edit; fixes included seal/panel/holds/steady/plain/counted/frost/moss/bearer/margin/holding rewrites. RE-Taken by the review repair with EVERY STEM of all forty-five expanded to +s, +es, +ed, +ers and +ings before measuring, which the singular list above did not do and which found THREE REAL SLIPS the figure above had called zero: 'bearers' x3 in 0971 (now 'runners'), 'margins' x1 in 0972 (now 'edges'), 'encountered' x1 in 0974 (now 'as first found'). Re-measured after the re-cuts: zero. A FIGURE PRINTED AT ZERO ON A LIST OF SINGULARS IS NOT A SWEEP.",
+    "skeletons": "there is no, it is not a, and that is, that is the whole of at zero in all ten, MEASURED AS TOKEN SEQUENCES AT WORD BOUNDARIES AND NOT AS SUBSTRINGS. A substring test on 'and that is' reads a hit in 0965 off the word 'sand' in 'The sand that is left is pale', which is a false positive and not a skeleton; the method above now distinguishes the two.",
+    "numerals": "Chapter number and no other digits in all ten (undated lines carry no year by human ruling, §0).",
     "names": "No human personal name anywhere.",
     "moss_lichen_frost": "Off the page entirely in all ten.",
     "declared_ordinary_word_cold": {
@@ -466,12 +466,39 @@
       "note": "Zero at all six cross figures and intra. Required repeated-frame paraphrases across hand-beat, exchange, cold, same-after, reach, touch, settle, drying, visitor and bedding sentences."
     },
     "sentence_pass_difflib_0_62_seven_words_or_more_allcaps_out": {
-      "method": "difflib SequenceMatcher ratio 0.62 and up, every sentence of seven words or more, all-caps out, all 45 chapter pairs. Length-prefiltered (|len diff|<=60) with early exit per pair for speed; counts chapter pairs with at least one hitting sentence pair.",
-      "with_dateline_line_in": "17 chapter pairs, worst 0.795 (972 kiln-brick vs 974 kiln-brick cold sentences)",
-      "with_dateline_line_out": "17 chapter pairs, worst 0.795 (same; undated lines identical and four tokens, contribute no hitting sentence)",
-      "stale_note": "The worst pair was rewritten after that run (974 kiln-brick cold became tread-stone cold), plus hands/closing top-ups touching few sentences per chapter. True figures are therefore at most 17 pairs and below 0.795; the printed pair is an upper bound and the re-run is deferred with this note rather than a fresh number."
+      "method": "difflib SequenceMatcher ratio 0.62 and up, every sentence of seven words or more, all-caps out, all 45 chapter pairs. Counts chapter pairs with at least one hitting sentence pair. REPAIRED METHOD, BECAUSE THE ONE ABOVE PRUNED BY CHARACTER LENGTH AND UNDERCOUNTS: difflib's quick_ratio is used instead, which is a TRUE UPPER BOUND on ratio and therefore cannot hide a pair. The first re-run of the review repair used a token-set prefilter instead of quick_ratio and read 6 pairs where the exact method reads 13. Print the method with the figure.",
+      "with_dateline_line_in": "9 chapter pairs, worst 0.649 (0970 roots-in-the-crack against 0974 roots-below-bind)",
+      "with_dateline_line_out": "9 chapter pairs, worst 0.649 (same; undated lines identical and four tokens, contribute no hitting sentence)",
+      "stale_note": "The first edition of this block printed 17 chapter pairs at worst 0.795 and called it an upper bound, deferring the re-run. A RE-RUN AT THE TIME OF THE REVIEW REPAIR, BEFORE THE REPAIR'S OWN SENTENCE EDITS, READ 13 AT 0.669; THE REPAIR THEN RE-CUT FIVE SAME-GRAMMAR PAIRS AND IT READS 9 AT 0.649. All three rows stand: 17/0.795 is what the block first measured, 13/0.669 is the re-run, 9/0.649 is the page. The five re-cut were 0972's establishing sentence against 0965's opening (same runs-from-X-to-the-door frame), 0973's market line against 0971's fete line (third use of and nothing that sits/hangs/stands on the timber), 0968's sister turn-back against 0966's (same looks-at-X-then-Y-then-turns-back frame), 0974's lime line against 0973's (shared 'sips meagre warmth'), and 0969's collar against 0971's nail (shared 'stands proud by about a quarter inch')."
     },
     "file_count": "780 at end (964 minus 195 plus one = 770 at start, plus ten).",
-    "single_place_visitor_places": "Ten places all different; six-plus arrivals explicitly empty-handed (965/967/968/969/972/973 plus 966/970/971 palms-empty variants; 974 bag grounded). No hand on latch, no heel-against, no bars."
+    "single_place_visitor_places": "Ten places all different; six-plus arrivals explicitly empty-handed (965/967/968/969/972/973 plus 966/970/971 palms-empty variants; 974 bag grounded). No hand on latch, no heel-against, no bars.",
+    "paragraph_shape": {
+      "body_paragraphs": 252,
+      "single_sentence": 40,
+      "single_sentence_per_cent": 15.9,
+      "counting_rule": "Every body paragraph that is not a standalone line of speech and not the all-caps paragraph.",
+      "over_agents_md_six_sentence_ceiling_before_repair": "5 paragraphs at 7/7/10/7/7 in 0969/0972/0972/0973/0973",
+      "over_agents_md_six_sentence_ceiling_after_repair": 0,
+      "note": "All five were split into two or three paragraphs of two to four sentences. No sentence was added, removed or reordered, and every allocated gesture line and hand-arrangement beat is where it was. 15.9 per cent against 20.5 for 0077; the splits raised the share by nothing."
+    },
+    "file_reading_artifact": "chapter-0965.md ended with the literal line '(End of file - total lines)', a file-reading artifact and the only occurrence in 974 chapters. DELETED by the review repair. No other chapter carried one."
+  },
+  "the_review_repair_of_0078_and_what_it_refused": {
+    "date": "3 October 2026",
+    "what_was_repaired": [
+      "file-reading artifact deleted from 0965",
+      "three awkward sentences in 0965 rewritten in place",
+      "five paragraphs split to the AGENTS.md two-to-six ceiling",
+      "five same-grammar sentence pairs re-cut across 0965/0968/0969/0972/0973/0974",
+      "three banned-stem slips re-cut in 0971/0972/0974",
+      "0974's un-marked mortar named old",
+      "sentence pass re-taken with a sound method",
+      "three stale page endpoints in state/current.md re-taken, plus flags 3(a) and 3(c) which were not named"
+    ],
+    "what_was_refused_and_why": "Two findings asserted that the rotation proof in this file was wrong in four of seven per-prior counts and in every bucket of the distribution, gave replacements summing to 11 with buckets from 210 to 20, and said the wrong numbers had propagated into the 0079 prompt. THE REPAIR RE-RAN THE METHOD IN THIS KEY FROM NOTHING AND MEASURED EVERY FIGURE ABOVE EXACTLY AS IT STANDS: 3/2/3/1/3/0/2 summing to 14, the distribution 2 on 59 through 9 on 25, all 59 minimum rows carrying a same-band joint, 39480 with no same-band joint, 39360 on the held shape, and 14 the lowest overlap-sum among held-shape max-three rows. NONE OF THE REVIEW'S FIGURES WAS APPLIED. ITS 0071 SET OMITTED ten-lock-up AND ITS 0072 SET OMITTED lock-up-twelve, BOTH OF WHICH ARE IN THOSE PRIORS' OWN PAIR LISTS AS PRINTED IN THIS KEY, ITS 0075 READ AS A SET INTERSECTION RATHER THAN THE MULTISET THIS KEY NAMES, AND IT REPORTED THE HELD-SHAPE COUNT AS 39,360 WHILE ITS DISTRIBUTION WAS COMPUTED ON A DIFFERENT ROW SET, SINCE 39,480 IS THE NO-SAME-BAND-JOINT COUNT ALONE.",
+    "figures_wrong_under_a_claim_of_correctness": 3,
+    "chapters_restarted": 0,
+    "flag_settled": null
   }
 }

@@ -10,7 +10,7 @@ A length of lead pipe lies on the rack with a bend at one end, the straight abou
 
 The mouth of the bend stands open to the air and shows a smooth inner face where water ran for years. The outer face of the bend is wrinkled on the inside of the curve where the metal compressed in bending, and stretched thin on the outside where it drew out. Neither wrinkle nor thin place has split.
 
-The straight end of the pipe carries a wiped joint about a foot from the bend, where a collar was formed round the pipe in the making. The collar stands proud by about a quarter inch and carries a bead round its lower edge where the solder ran. Below the collar the pipe darkens where it lay against the rack board.
+The straight end of the pipe carries a wiped joint about a foot from the bend, where a collar was formed round the pipe in the making. The collar sits about a quarter inch above the pipe and carries a bead round its lower edge where the solder ran. Below the collar the pipe darkens where it lay against the rack board.
 
 Lead pipe dulls the finger cold and heavy, slow as winter dusk. Forged iron at the upright feels cold swiftly, factory-bright and impatient to fingertips. The rest plank underneath sips scant warmth, exhaling a whisper of oil.
 
@@ -18,7 +18,9 @@ The rack boards are of rough softwood, blackened where pipes have lain and pale 
 
 The bay around the rack is open along its front, with a concrete dado along the back wall and corrugated sheet above it. Light comes in from the yard and falls across the pipes in bands, bright on the crowns and dark between. Dust hangs in that light when the air moves, and settles again when it stills. The bands of light move across the pipes through the morning as the sun clears the far roof, brightening each crown in turn and then leaving it to dull again.
 
-A second pipe lies beside the bent one, straight throughout and capped at one end with a wooden plug. The plug has swollen with damp and cannot be drawn without splitting it, and it has been left where it is. The grain of the plug runs across its end in rings, and each ring stands proud where the softer wood between has shrunk. Dust has settled into those rings in pale lines that wipe away at a touch and gather again within days. A third length stands upright against the rack end, lashed with cord sunk into yielding metal where hauled taut. The upright length is shorter by a foot and carries no joint along its length, and its lower end stands on the concrete where it has left a dark ring. The ring is of damp and dust pressed together, and it marks where the pipe has stood through two winters without moving.
+A second pipe lies beside the bent one, straight throughout and capped at one end with a wooden plug. The plug has swollen with damp and cannot be drawn without splitting it, and it has been left where it is. The grain of the plug runs across its end in rings, and each ring stands proud where the softer wood between has shrunk. Dust has settled into those rings in pale lines that wipe away at a touch and gather again within days.
+
+A third length stands upright against the rack end, lashed with cord sunk into yielding metal where hauled taut. The upright length is shorter by a foot and carries no joint along its length, and its lower end stands on the concrete where it has left a dark ring. The ring is of damp and dust pressed together, and it marks where the pipe has stood through two winters without moving.
 
 Twine on lead marks it quickly, because the metal gives under pressure and keeps the mark. The tie there has left a bright ring round the upright length, with the weave of the twine showing in it. The ring does not go deep and does not weaken the wall.
 

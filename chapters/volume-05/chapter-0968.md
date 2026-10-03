@@ -50,7 +50,7 @@ The coil carcass abides on turf, lower loops sewn by grass and massed wire. A bo
 
 The garden-side sibling waits beyond the dwarf box at number ten, knee-high green dividing them, palms unladen both.
 
-The fingertip backs out of the wire round and settles on the flagstone as the sister peers across the hedge top. The hedge between them is dense with rain from the night, and the path beyond runs clear to the lane with the sun on the upper flags. Wire and pathside litter go unmentioned between them. The sister looks once at the coil and once at the house, and then turns back to the garden without coming through the gap.
+The fingertip backs out of the wire round and settles on the flagstone as the sister peers across the hedge top. The hedge between them is dense with rain from the night, and the path beyond runs clear to the lane with the sun on the upper flags. Wire and pathside litter go unmentioned between them. The sister looks once at the coil and once at the house, and then turns back to the garden by the front path, well clear of the gap.
 
 The cut end of a wire tells how it was cut when read closely. The end here shows two flat faces where the cutters met and a small burr on one side that catches the skin. The burr is sharp enough to prick but not to cut, and it stands away from the hollow so nothing passing through need touch it. The bright metal at the cut has dulled to grey in the months since spring, while the faces beside it have stayed bright where they rub each other in wind.
 
