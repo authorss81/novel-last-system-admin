@@ -14,21 +14,21 @@ An iron foot reads best by edge, because the eye sees the rust and the edge lear
 
 So the hand edge travels down the rust foot with fingers straight and shut together.
 
-The iron feels rough on the skin, the way rusted iron bites in dry wind, and the groove drags where grit sits in it.
+Rusted iron takes the edge of a hand in patches and lets go of it in others, and the groove works at the skin along its run where grit has bedded into the scale.
 
-The edge goes down about three inches and stops on something firm. Not iron. Grit, piled hard at the toe of the guide, grey and sharp, with sand in it and a washer rusted thin at one side.
+The edge goes down as far as the second knuckle before the grit closes on it, and what closes on it is grit, piled hard at the toe of the guide, grey and sharp, with sand in it and a washer rusted thin at one side.
 
-She presses the edge a little harder, and the grit shifts half an inch under it and then locks where it was, because grit at a toe packs down the more it is pressed.
+Pressed harder, the grit shifts half an inch under the hand and then locks where it was, because grit at a toe packs down the more it is pressed on it.
 
 What stops it further down is stone. The footing under the guide, set flat under the iron with its flat face up and its rough back in the soil.
 
-So the guide does not stand in soil at all. It stands on a stone footing with grit rammed at its toe, and the rammed grit is what keeps it upright in wind.
+The guide is carried, not buried. It stands on a stone footing with grit rammed round the toe, and that footing takes the wind off the yard without the iron ever entering the ground.
 
 The woman who books work steps to the yard doorway from the open yard with a ledger under her arm and does not open it.
 
 She stood in the doorway with the ledger pressed under her elbow and looked across to the guide and then to the shutter and back again, and she shifted the ledger to the other arm and kept it shut.
 
-She was given word the ledger would be wanted in the office for the hours on the sheet, and she tucked it tighter under her arm and went back across the yard with it and left the doorway empty.
+She stood there a while longer with it shut, and then she went back across the yard with the ledger under her arm and left the doorway empty behind her.
 
 A guide on a footing does a job beyond building work. A guide is where a shutter runs when the bay shuts at night, and a bay mouth is where it meets wind all day.
 
@@ -36,7 +36,7 @@ The footing under it sits flat in its cut, the sort of stone that comes up when 
 
 Dark iron stands in grit in a way that pine does not. Pine beds down and locks, and iron rocks a little and grinds, so it wants grit at its toe and the grit wants sand in it.
 
-That is why the toe pile sits high on the wind side and low on the lee side, with the high side taking the push when the shutter rattles.
+On the wind side of that toe the pile stands high and on the lee side it lies low, with the high side taking the push when the shutter rattles.
 
 The rust at the foot scales off in flakes where the shutter shakes it, with the flakes bright underneath and dark on top.
 
@@ -44,7 +44,7 @@ Flakes fall where the shutter runs and pile at the toe, and each flake leaves a 
 
 Bright iron rusts fast in yard air, because rain and wind meet on it and eat it, and a bright patch on a guide goes dark in a week.
 
-That is why the foot shows bright and dark in bands, while the face above stays dark all year.
+Bands of bright and dark come up out of that one foot across the years, while the face above it stays dark the whole of every year.
 
 Rust bands mark winters the way rings mark timber, and each band says one year of shake and rain.
 
@@ -60,7 +60,7 @@ Grit watered in runs down into the holes and locks, while grit tipped in dry sit
 
 Dry grit blows because each grain stands separate and the wind rolls it, while wet grit sticks where it is put until the sun sets it.
 
-That is why toe grit goes in on a damp morning with rain behind it, and not on a dry one with wind behind.
+Toe grit goes in on a damp morning with rain coming, and on no dry morning with wind behind it.
 
 The tops of the footing stones take weight under the iron, with no cracks across them and no corners gone soft.
 
@@ -78,20 +78,20 @@ The timber of the stack stays flat where the sun meets it, and the stone footing
 
 The grit at the toe lies packed at the top where feet press it and damp below where water sits, and the washer lies thin in the damp part the way a leaf lies in a ditch.
 
-The washer came off the guide bolts when the shutter was hung, with the nut gone tight and the washer left in the grit where it fell.
+The washer came off the guide bolts when the shutter was hung, the nut under it buried in its own rust, and the washer was left in the grit where it dropped.
 
 Iron washers spread their load into soft timber the way a coin does, and a guide hung on washers pulls out of its rail before the washers pull through.
 
-That is why the guide bolts sit tight in the face and only this one washer lies loose at the foot.
+Those bolts sit tight in the face while that one washer lies loose at the foot, and the whole of the difference between the two is a nut under a washer that rusted before anyone looked at it.
 
-She draws the edge out from the foot and rubs the rust off on the side of the guide, and reads the iron from the yard for what the face gives away.
+She lifts the hand out of the grit at the toe, wipes the rust off along the groove, and stands back in the yard with the guide against her shoulder and the shutter hanging above her head.
 
 Rain off the bay roof runs across the yard in a sheet and drops at the foot, and the sheet brings sand that settles at the toe and sharpens it underfoot. The sheet thins where tyre marks have polished the pour and thickens where green rims the far corner. Green rims only the shaded corner by the pipe bend, where drizzle lingers past noon. The bend drips long after rain stops, feeding that green rim through dry weeks.
 
-Seen face on the guide looks straight and true, with the groove dark down its run and the foot true against its stone.
+Face on, the guide looks straight and true, with the groove dark down its run and the foot true against its stone.
 
 True against stone like that the iron dries first after rain on its weather face, while the lee face keeps the damp till evening.
 
 A face that lies flat to the wind sheds the night damp by midday, while one tucked in the lee keeps it along its lower edge.
 
-She will let the guide stand through another summer, foot on stone and grit firm at its toe, rust flaking yearly until shutters shake it free.
+The guide stands where the shutter hung it, on its footing stone with the grit packed firm at the toe, and the rust will keep coming off it in flakes until the wind gets under the foot and works the whole of it loose.

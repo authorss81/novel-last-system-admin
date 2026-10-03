@@ -14,11 +14,11 @@ A cleft under a rim reveals beyond the crown of it, for the crown carries rain w
 
 So the wrist back settles into the cleft under the trough rim with fingers curled toward the arm.
 
-The stone feels cold on the skin, the way trough stone stays cold till noon, and the underside drags where grit sticks to it.
+Cold stands off that stone into the skin the way trough stone keeps it past noon, and grit under the overhang catches at the wrist as the hand turns.
 
-The wrist presses in about an inch and stops on something firm. Not stone. Earth, packed hard between the rim and its stone, firm and dark, with small roots in it cut clean across where they grew through last spring.
+Earth comes up against the wrist at the heel of the hand, packed hard between the rim and its stone, dark and cold, with small roots in it cut clean across where they grew through last spring.
 
-She works the wrist a little forward, and then a little back, and the earth gives about a quarter of an inch under the bone and then sets hard anew.
+She works the wrist forward and then back, and the earth gives a quarter of an inch under the bone and sets hard again as the hand comes round.
 
 What stops it is a second stone. The under-stone under the north end, set across under the rim with its flat top to the trough and its rough foot in the soil.
 
@@ -44,48 +44,54 @@ The stones under the ends of it are flat topped and square, the sort that come u
 
 Grey stone lies flat under a load in a way that red brick does not. Red brick drinks a little and beds down, and grey stone throws water off and sits where it was set, so it wants a bed cut true for it and the bed wants sand under it.
 
-That is why the under-stones sit flat in their cuts while the trough sits flat on them, with the flat rim to the sky and the flat tops meeting under it.
+Set on a bed cut true, the two under-stones have not shifted since the trough went down, and the gap between them has taken two winters of leaf and worm and gone to earth firm enough to bear a fork tine.
 
-The cleft between rim and under-stone runs about five inches along at the north end and nothing at the south, where the rim meets its stone face to face on a cushion of sand.
+The gap at the north end runs the length of a hand along under the rim, and at the south end the two stones meet the trough face to face with only a cushion of sand between them.
 
-Sand sits where stone meets stone and on nothing else, because rain washes the fine soil down through the gap and abandons coarse grains where they snag.
+Sand at a face-to-face joint washes out in a season or two and is brushed back in, while earth in an open joint binds and is left alone.
 
-The wrist finds the edge of that cushion if pressed, and it can be pressed, which is how the trough came to sit without rocking.
+The moss in the cleft is the old record of that gap, thick where the earth stands highest against the rim and thin where the south stone crowds the joint.
 
-A trough set like that will take a winter. Cold lifts the rim off its stones a hair, and thaw lets it down again, and each year the rim grinds its bed a hair flatter than before.
+Moss at the north end carries a cushion of its own growth two seasons deep, and inside the cushion the roots have knitted a mat that a thumbnail can lift but a finger cannot pull.
 
-In three winters the north rim has worn its under-stone about the thickness of a coin, because the soot mark on the side that was level with the stone sits now a fraction below it.
+Where the cushion has been lifted before it grows back thicker at the edges and thinner in the middle, which is the only way to tell an old cushion from a young one.
 
-The soot mark comes from the year the shed burned rubbish too close, when smoke touched the stone and left a smudge of black on it.
+The cold keeps the north end of that cleft alive when the south end has gone brown, and the difference shows by the middle of April along the whole run.
 
-That smudge is the one measure on the whole trough, and it says the trough wears and does not wander. Soot rinses away in showers within two summers, so the smudge lingering faint yet visible tells the mark shelters beneath the rim overhang.
+Under a rim like that the drip line on the coping above throws everything it catches to one spot, and everything that lands has to go somewhere.
 
-The earth in the cleft stays firm and cool and full of root ends that went soft over winter and will push again in June.
+It goes into the cleft at the north end and stops there, because the rim overhangs and the stone beyond slopes away from it.
 
-What lives under a trough lives out of the sun. Slaters run the cleft at night, and the sand at the mouth of it stays loose enough to take a nail.
+On the south side the rim sits square with the sky and the same water runs straight over the top and off the end, which keeps that end of the trough dry from above all winter.
 
-The slaters in that cleft and the sand at its mouth and the soot smudge on the side leave that trough where it stands. A trough borne on stones with earth rammed round shifts solely as runoff removes that earth. Runoff from the garden shed roof runs across the path and beneath the trough in storms, and it has hollowed a dip about half an inch deep past the south stone.
+So the wet end of this trough is the end that gets no looking at, and it takes the whole of the shed roof water off the north face.
 
-Past the north stone the dip turns out to the fence, because the north stone stands a little proud of the line and throws the water off.
+The trough has been asked to do that longer than the fence beside it has been painted, and it has done it without moving once.
 
-So the north stone shields its base by sitting out of line, with the dip behind absorbing the runoff.
+The rim at the north end has ground its under-stone by the thickness of a coin in three winters, and the soot mark on the side that stood level with the stone when the shed burned rubbish now sits a fraction below it.
+
+Soot rinses away in showers within two summers, and this smudge has stayed faint and visible for years because the rim overhangs it.
+
+That smudge is the sole measure this trough keeps, and what it says is that the trough wears where it stands rather than wandering off it.
+
+The root ends in the cleft went soft over winter and will push again in June, and the earth they run in has not been turned since the fork broke off the spade in March.
+
+Slaters run that cleft at night, and the sand at the mouth of it stays loose enough to take a nail, and both of them go on working at a joint the eye passes over.
+
+Slater work in a wet joint shows first as a pale bloom on the shaded face of the rim, and the bloom has not been on that north end since the paint went on the fence.
 
 The timber of the shed door sits flat where the ledges meet the boards, and the stone of the trough sits flat where the rim meets its under-stones out of the wet, and the brick of the path edge lies flat where it meets the soil.
 
-She draws the wrist out from the cleft and rubs the earth off on the side of the trough, and studies the rim from the path for what it shows at eye level.
+The wrist stays in the cleft until the fingers go cold in it, and what comes out afterwards is a cold grey paste that she wipes on the side of the trough without looking down, and then she stays at the path a while with the rim against her leg.
 
-The nails in the side fence stand out a little where the timber has shrunk round them, with the heads bright on the weather side and dark where the boards overlap. Iron nails work out of softwood a hair each year as the boards swell and shrink, and each nail leaves a dark ring where rain follows it in. The rings go deepest on the south boards where the sun draws the damp out fastest, and shallowest on the north where the timber stays cool.
+The nails in the side fence stand out a little where the timber has shrunk round them, with the heads bright on the weather side and dark where the boards overlap. Iron nails work out of softwood a hair each year as the boards swell and shrink, and each nail leaves a dark ring where rain follows it in. The rings go deepest on the south boards where the sun draws the damp out fastest, and shallowest on the north, where the boards stay cool into the afternoon.
+
+Two of those nails sit lower than the rest, and they are the pair that fix the board nearest the trough, and the board they fix has gone grey along its lower edge where the trough throws rain back up at it.
 
 The fence boards sit flat where they meet the rails, and the rails sit flat where they meet the posts, and each flat meeting throws the rain off instead of drinking it in. A board that meets its rail face to face dries between the two by evening, while one that meets it edge on keeps the damp till the next dry day.
 
-The rim gives a straight line at eye level and a low shadow under it, and the second tells more, because a trough rim beds on stones and not on sight.
+The rim stands flat to the sky along its whole length with the north end a fraction high and the crown carrying nothing at all across it.
 
-From eye level the trough looks level and true, with the north end a fraction high and the faces flat to the morning.
+Flat to the sky the crown comes dry first, and the underside stays damp till the afternoon, and the gap between those two facts is where the joint lives.
 
-Flat to the sky like that the rim dries earliest after dew, each drying leaving the crown a touch flatter than earlier, for loose grit departs and hard stone endures.
-
-A surface lying flat to skies sheds night damp by mid-morning, while a canted one retains it at its lower lip till noon.
-
-That is why the rim dries first of all the stone in that corner, with its flat top open and its underside shut to the air, and why the under-stones stay damp till evening.
-
-She will let the trough sit through another summer, rim on stones and earth firm in the cleft, under-stones wearing yearly after dew leaves the stone.
+Two under-stones and a rammed earth joint between them is what this trough has stood on since the fence went up, and the north end of it will keep the same shadow under the lip right through the summer, after the dew lifts off the rim and the crown goes dry again.

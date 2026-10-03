@@ -11284,7 +11284,7 @@ The gaps, counting the incoming one, are 2, 5, 4, 7, 5, 7, 5, 7, 6 and 5 days, w
 | Ch | Date | Weekday | Gap | Blank line | Card | Letter |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0515 | Tue 27 Aug 2019 | Tuesday | 2 (the floor is 0514 plus two) | 1735 | 1649 | 1651 |
-| 0516 | Sun 01 Sep 2019 | Sunday | 5 | 1740 | 1654 | 1656 |
+| 0516 | Sun 01 Sep 2019 | Sunday | 5 | 1740 | 1654 | 1655 |
 | 0517 | Thu 05 Sep 2019 | Thursday | 4 | 1744 | 1658 | 1660 |
 | 0518 | Thu 12 Sep 2019 | Thursday | 7 | 1751 | 1665 | 1667 |
 | 0519 | Tue 17 Sep 2019 | Tuesday | 5 | 1756 | 1670 | 1672 |
@@ -13224,7 +13224,7 @@ The gaps, counting the incoming one, are 2, 5, 4, 7, 5, 7, 5, 7, 6 and 5 days, w
 | Ch | Date | Weekday | Gap | Blank line | Card | Letter |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0515 | Tue 27 Aug 2019 | Tuesday | 2 (the floor is 0514 plus two) | 1735 | 1649 | 1651 |
-| 0516 | Sun 01 Sep 2019 | Sunday | 5 | 1740 | 1654 | 1656 |
+| 0516 | Sun 01 Sep 2019 | Sunday | 5 | 1740 | 1654 | 1655 |
 | 0517 | Thu 05 Sep 2019 | Thursday | 4 | 1744 | 1658 | 1660 |
 | 0518 | Thu 12 Sep 2019 | Thursday | 7 | 1751 | 1665 | 1667 |
 | 0519 | Tue 17 Sep 2019 | Tuesday | 5 | 1756 | 1670 | 1672 |
@@ -15168,7 +15168,7 @@ The gaps, counting the incoming one, are 2, 5, 4, 7, 5, 7, 5, 7, 6 and 5 days, w
 | Ch | Date | Weekday | Gap | Blank line | Card | Letter |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0515 | Tue 27 Aug 2019 | Tuesday | 2 (the floor is 0514 plus two) | 1735 | 1649 | 1651 |
-| 0516 | Sun 01 Sep 2019 | Sunday | 5 | 1740 | 1654 | 1656 |
+| 0516 | Sun 01 Sep 2019 | Sunday | 5 | 1740 | 1654 | 1655 |
 | 0517 | Thu 05 Sep 2019 | Thursday | 4 | 1744 | 1658 | 1660 |
 | 0518 | Thu 12 Sep 2019 | Thursday | 7 | 1751 | 1665 | 1667 |
 | 0519 | Tue 17 Sep 2019 | Tuesday | 5 | 1756 | 1670 | 1672 |
@@ -19124,6 +19124,22 @@ Flags: 3(b) man on page at 0897/0903 only, he/him/his zero in women's (13/10 who
 
 # VOLUME 05, CONTINUATION 0072 — CHAPTERS 905–914 — Sunday 28 April 2024 to Monday 3 June 2024
 
-Ten of ten on the page, 1452/1433/1400/1430/1402/1401/1400/1416/1405/1434 TOTAL 14173, breaks 2/1/2/1/2/1/2/1/2/1 total 15, said 0, quoted 0906/0909/0913 indirect 0905/0908/0910 silent 0907/0911/0912/0914, banned forty-five zero with word boundaries, skeletons zero, sixteen-shape lexicon zero reportable, numerals chapter+year only, no names, FLAT in all ten for how level a face lies for stone timber slab board brick concrete, he/him/his only in 0909/0911, ten-token 0 across 45 and 0 intra eight-token 0 all-caps out (with caps back 2 ten-runs 9 eight-runs, all visitor openings, both figures recorded), closing moves WHILE AFTER UNLESS UNTIL WHERE BUT OR ONCE AS present-perfect HAS, dateline closer none tools-stowed none closings varied, no room entered no water drawn no new concrete latch hooked no frost no spanner no ply no staple no ovals, files 720. Rotation ten twelve nine lock-up unit ten unit lock-up twelve nine. Calendar Sun 28 Apr Wed 1 May Sun 5 May Fri 10 May Mon 13 May Fri 17 May Wed 22 May Sat 25 May Wed 29 May Mon 3 Jun 2024, gaps 3,3,4,5,3,4,5,3,4,5 totalling 36, no 9th/11th no shared no two same weekday in a row, real 2024 calendar, year not turned. First pass shared 32 ten-pairs; rewritten in later chapter each pair (purpose, flat tale, screws, reveals, guards, corners, reach, readings, paving, stain, tops, sand) with re-measure after every batch until zero. Frost cut to cold in four chapters; April kept to datelines; holding/bearer cut. CARD 0914 NOT CLOSE.
+Ten of ten on the page, 1481/1580/1425/1486/1482/1521/1466/1655/1496/1543 TOTAL 15135 AFTER THE REVIEW REPAIR OF 3 OCTOBER 2026 AND NOT THE 14173 THE BLOCK FIRST PRINTED, breaks 2/1/2/1/2/1/2/1/2/1 total 15, said 0, quoted 0906/0909/0913 indirect 0905 silent 0907/0911/0912/0914, banned forty-five zero with word boundaries, skeletons zero, sixteen-shape lexicon zero reportable, numerals chapter+year only, no names, FLAT in all ten for how level a face lies for stone timber slab board brick concrete, he/him/his only in 0909/0911, ten-token 0 across 45 and 0 intra eight-token 0 all-caps out (with caps back 2 ten-runs 4 eight-runs, all visitor openings, both figures recorded), closing moves WHILE AFTER UNLESS UNTIL WHERE BUT OR ONCE AS present-perfect HAS, dateline closer none tools-stowed none closings varied and no two closings sharing a main-clause subject or predicate, TWO-VIEW PAIR IN FIVE AND THE FIVE ARE 0905 0907 0909 0911 0913, no room entered no water drawn no new concrete latch hooked no frost no spanner no ply no staple no ovals, files 720. Rotation ten twelve nine lock-up unit ten unit lock-up twelve nine. Calendar Sun 28 Apr Wed 1 May Sun 5 May Fri 10 May Mon 13 May Fri 17 May Wed 22 May Sat 25 May Wed 29 May Mon 3 Jun 2024, gaps 3,3,4,5,3,4,5,3,4,5 totalling 36, no 9th/11th no shared no two same weekday in a row, real 2024 calendar, year not turned. First pass shared 32 ten-pairs; rewritten in later chapter each pair (purpose, flat tale, screws, reveals, guards, corners, reach, readings, paving, stain, tops, sand) with re-measure after every batch until zero. Frost cut to cold in four chapters; April kept to datelines; holding/bearer cut. CARD 0914 NOT CLOSE.
 
 **Next floor 0915 = 0914 plus three to six days off Monday 3 June 2024, never plus seven, head of range read against the ninth and the eleventh, no shared date, no two in a row on one weekday. 0924 falls between Wednesday 3 July and Tuesday 30 July 2024 on the same arithmetic. NOT A CLOSE, AND CARD 0924 IS NOT A CLOSE.**
+
+## THE REVIEW OF 0072, AND WHAT IT FOUND, AND WHAT THE REPAIR DID — 3 OCTOBER 2026
+
+**EIGHT FINDINGS AND THREE OF THEM WERE THE SAME FAULT. The span gate had returned zero throughout, in every batch, after every edit, and the block was carrying 255 near-duplicate sentence pairs at ratio 0.62 and up, worst at 0.89, with 0905 against 0906 at 23 of them.** The gate is not broken: it cannot see a frame whose slots have been re-filled, and ten chapters of one family will hand a writer the same forty slots in the same order every time unless something stops them.
+
+**AFTER THE REPAIR: 56 pairs, worst 0.75, 0905 against 0906 at 3. Ten frames broken. That is why 9 of 10 down to 3; near two inches before meeting firmness 9 of 10 down to 1; So the X does not ... at all 7 of 10 down to 3, and those seven had all stood at line 25; feels <temp> on the skin the way X stays <temp> till 5 of 10 down to 1; Not <material>. as the discovery frame 8 of 10 down to 2, and those eight had all stood at line 19; the packed X is what keeps it from rocking 5 of 10 down to 2; corners stay square and flat 3 of 10 down to 1; screw-slot and rust-trail 3 of 10 each down to 1 each; carries its own lesson 4 of 10 down to 1; through another summer 4 of 10 down to 0.** A tenth frame the review did not name was found in the same pass and is now on the list.
+
+**THE CLOSING WAS THE SAME FAULT AT A DIFFERENT SCALE, AND THE BAND FILE HAD COMPARED THE LABEL.** Four of the ten sentences were one sentence with the conjunction swapped and a fifth reused the frame again. **A CLOSING IS NOT ITS CONNECTIVE. IT IS THE SUBJECT AND PREDICATE OF ITS MAIN CLAUSE, AND TEN OF THOSE ARE NOW PRINTED IN THE 0073 PROMPT TO BE COMPARED INSTEAD.**
+
+**TWO FIGURES THE NEXT WRITER WAS HANDED WERE FALSE, AND BOTH WERE PRINTED AS MEASURED TRUTH.** The two-view ceiling said five and was seven; the 0073 calendar bound said Wednesday 3 July to Tuesday 30 July and is Sunday 30 June to Saturday 27 July, the same plus-three error the 0072 prompt made against its own floor and did not notice. **Both corrected. The FLAT density was a third: 153 uses against a declared ceiling of about 66, now 93, and the band file now carries the per-chapter counts because a figure with no counts behind it cannot be checked.** Two more items of bookkeeping: the skeletons claim overstated and is withdrawn to the four constructions actually watched; the 0910 watering can is ruled on in writing, the rule banning four acts and not four objects.
+
+**AND A PHYSICS-AND-REGISTER PASS THAT NO COUNT WOULD HAVE CAUGHT.** sans ledge and Hence and a telegram-shaped visitor opening and a books woman renamed the booking woman and a second lore section opening cold at 0913 and an ungrammatical final sentence at 0912, all in the two chapters the counts liked best; 0908 naming the rail in a chapter with no rail in it, a paragraph transplanted out of 0907 and not fully reskinned; four of the last five chapters closing on a pending repair against a family that bars anything put right, so that **no closing in the block now prescribes an act**; and `was given word` three times, each time putting a job fact into a visitor's head unasked.
+
+**THE THING TO CARRY FORWARD IS ONE SENTENCE AND IT IS NOT ANY OF THE EIGHT.** The loop optimised the number the measure returned rather than the prose, and then wrote the optimised number into the next prompt as a fact, so that three of the figures the writer of 0073 received were wrong on arrival. **Measure the prose and record the number. Never the number first. A gate that returns zero on a rebuilt template is a gate that has learned nothing.**
+
+**Next floor 0915 = 0914 plus three to six days off Monday 3 June 2024, never plus seven, head of range read against the ninth and the eleventh, no shared date, no two in a row on one weekday. 0924 falls between Sunday 30 June 2024 and Saturday 27 July 2024 on the same arithmetic, corrected. NOT A CLOSE, AND CARD 0924 IS NOT A CLOSE.**

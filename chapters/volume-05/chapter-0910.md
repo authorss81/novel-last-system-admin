@@ -16,9 +16,9 @@ So the thumb knuckle side tracks the soil groove with the hand tipped on its sid
 
 The stones feel warm on top where the sun has been, and cool inside the groove where the sun does not reach.
 
-The thumb travels the run and meets firmness. Not soil. Grit compacted beneath the groove, sandy within, split by a severed root where the spade passed in spring.
+The thumb travels the run and meets firmness under the soil, and what it meets is grit compacted beneath the groove, sandy within, split by a severed root where the spade passed in spring.
 
-She runs the knuckle again slower, and the grit sinks a fraction under it and then sets where it was, because grit in a groove locks tighter the more it is pressed.
+She presses again where the groove runs lowest, and the grit goes down a fraction under the knuckle and comes back up level with itself when she lifts, which is what loose lying on firm does.
 
 What lies under the grit is more grit, going down further than the thumb can reach, with the sides of the stones going straight down to it without any lip under either.
 
@@ -26,7 +26,7 @@ Her sister steps to the front path from the garden with a watering can at her fe
 
 She stood there with her hands empty and looked down the path to the stones and then to the bed and back again, and she moved the can a little with her foot to keep it out of the light.
 
-Word had come the can would serve seedlings at the frame by nightfall, so she abandoned it upright and circled the bed empty-handed, the can remaining parked.
+She went round the bed with her hands empty and left the can standing upright where she had set it, and it was still standing where she had set it when she came back past.
 
 A groove between edging stones fills from the side and not from above, because feet keep the tops clean while rain throws soil in from the dug ground beside.
 
@@ -38,11 +38,11 @@ Soil rises in a groove because worms throw it up from below and rain washes it i
 
 Worm casts stand in little towers under stones where birds cannot get at them, and each tower spreads in the next rain and adds to the groove.
 
-That is why the groove lies firm on top where feet press it and loose underneath where worms work it.
+Grit lies firm on top where feet press it and lies loose underneath where the worms work at it.
 
 Worms work under stones all winter because the stone keeps the cold off the soil and the damp in it, and the soil under edging does not freeze the way open soil does.
 
-That is why the groove rises fastest in spring, when the worms are at their busiest and the bed beside stays too wet to dig.
+The groove fills fastest in spring, when the worms are at their busiest and the bed beside stays too wet to dig.
 
 A fork in spring throws soil further than in June, because wet soil sticks to the iron and flies off in lumps, and each lump that lands by the stones breaks in the next rain and runs into the groove.
 
@@ -52,11 +52,11 @@ Hazel makes a good groove stick because it bends enough to follow the stones and
 
 Sandstone tears along its beds if the stick is driven hard, because sandstone splits between its hard layers and its soft ones, and the soft part comes away first.
 
-That is why she runs the thumb light along the groove and lets the knuckle do the feeling, and why the sides show pale streaks where it went.
+She runs the thumb light along the groove and lets the knuckle do the feeling, and the sides show pale streaks afterwards where it went.
 
-She runs the thumb along again slower, to feel how much the groove gives under the push.
+She lays the thumb across the groove and lets it lie there while she counts, to see how much of the give belongs to the top grit and how much to what lies under it.
 
-It yields near a quarter inch beneath pressure before meeting harder matter.
+It gives near a quarter inch beneath pressure before meeting harder matter.
 
 What stops it is a flat pebble, smooth and wide, lying under the groove about a foot from the path end.
 
@@ -64,40 +64,40 @@ It is a pebble out of the bed, thrown aside in digging and trodden down under th
 
 A pebble under a path does not move the stones. Water runs round it and soil packs over it, and the stones ride over the top of it without touching it.
 
-That is why the path ends of the stones stand a little higher than the bed ends. The path ends ride on soil packed over the pebble, while the bed ends ride on soil alone.
+The path ends of the stones stand a little higher than the bed ends, because the path ends ride on soil packed over the pebble while the bed ends ride on soil alone.
 
 ---
 
 Sandstone cups in rain when one side stays damp and the other dries, but these two lie flat where they meet the soil, with the flat tops open to the sun and the flat bottoms shut to the earth.
 
-Flat to the sun like that the caps dry earliest after showers, each drying leaving the surface a touch flatter than earlier, for loose sand departs and hard grains endure.
+Capped like that the stones dry earliest after showers, and the bed end beside them stays damp till the evening.
 
-A surface resting flat to skies spills runoff toward the groove before noon, while a canted one ponds moisture at its upper lip.
+A surface resting flat to skies spills runoff toward the groove before noon, while a canted one ponds moisture at its upper lip, and both of those run to the same place.
 
-That is why the groove runs wettest after rain, with the flat stones shedding to it from both sides, and why the bed end stays damp till evening.
+The groove runs wettest after rain, with the flat stones shedding to it from both sides, and the bed end stays damp till evening because nothing sheds to it.
 
-The flat stone tops carry their own lesson. Grit lies on them after dry days and washes off in downpours, with each wash leaving the tops a touch flatter than earlier, for soft grains depart and hard ones persist.
+The flat stone tops carry their own history. Grit lies on them after dry days and washes off in downpours, and after a year of that they show where boots stand and how little the sandstone underneath minds.
 
-She turns the thumb sideways again and feels how the sides run below the grit.
+She lays the thumb over on its other face and runs it along the flank, feeling for the line where the groove gives out.
 
-They run straight for about an inch and then roughen where the mould left them, with the rough part catching soil and keeping it.
+It runs down the flank for a hand's width and then loses its straight edge where the stone was broken rather than cut, the torn grit standing proud of it in a fuzzy band.
 
-A coarse flank retains its soil while a sleek one releases it, explaining why split stones outlast sawn ones at their grooves.
+A torn flank keeps its soil and a dressed one gives it up, and the side of this groove has been torn since the day the bed was edged, when a lump of sandstone came out of the bed and went into the path edge as it came.
 
-A groove at the side of a path is filled from the top with sand in autumn, brushed in with a stiff broom and watered in, the crown left a touch proud to settle into the gap.
+A groove at the side of a path fills from the top with sand in autumn, brushed in with a stiff broom and settled with rain, the crown left a touch proud so it works down into the gap.
 
-Damp sand poured in sinks through voids and binds, while dry-brushed grains perch atop and scatter by midsummer.
+Settled sand sinks through the voids below and binds, while sand brushed in dry stays perched on top and leaves by midsummer.
 
-Loose grains scatter since each stands apart for breezes to roll, while dampened ones cling where placed till sunshine fixes them.
+Each grain brushed in dry stands apart with air under it, and wind rolls them out one by one, while grains wetted first lie on one another and stay where they were put.
 
-Hence groove grit enters on misty mornings ahead of showers, rather than on breezy afternoons following drought.
+Grit of that sort goes in on a misty morning ahead of the showers, and on no breezy afternoon after a dry spell.
 
-The stone crowns bear weight underfoot, without cracks over them and without corners gone soft.
+The crowns of these two stones take the tread, and neither crown has a crack across it or a corner worn down.
 
-Sandstone goes soft at the corner where feet grind grit into it year by year, because grit underfoot trims a little each step till the crown shines.
+Sandstone loses a corner to grit underfoot over years, one small bite for every wet week, and a worn corner shows a shine across it where it was square.
 
-Those corners remain square and flat, showing grit stays in the groove and off the tops.
+Square and blunt they are, and grit coming off them goes down into the groove instead of being worked across the tops.
 
-She takes the thumb out of the groove and brushes the soil off on the stone beside it, and reads the two stones from the path by what the tops give away.
+She takes the thumb out of the groove, brushes the soil off on the face of the near stone, and stands back on the path with her hands down at her sides.
 
-The tops read level from above and low toward the bed at one end, two readings from a single fall and a single groove, with stones sitting true on binding grit, but the groove will want picking out before autumn.
+The stones sit true on the grit that came up through them, and the groove between them will fill again out of the worm casts and the forked ground beside, but the ends will ride a little higher than they do now, and the stones will not shift for that.

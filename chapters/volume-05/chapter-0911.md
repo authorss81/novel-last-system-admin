@@ -14,15 +14,15 @@ A pile split discloses past its crown, the crown bearing sunlight while the fiss
 
 So the three middle fingers wedge into the sawn split with the outer two raised away.
 
-The timber feels cool inside the split, the way shut timber stays cool past midday even in late spring, and the sides drag where sawdust coats them thick.
+The split has no draught in it, and the timber in there keeps the cold of the night longer than the face of the pile does, and sawdust coats the sides so thick that the fingers come out grey to the first joint.
 
-His fingers drive near two inches before meeting stillness past powder and filings. Not timber. Air halting where the split narrows inward, cool and stagnant, tickling with pine-scented dust.
+The three fingers go in as far as the middle joint and stop against something that is not there. Air halting where the split narrows inward, cool and stagnant, tickling with pine-scented dust.
 
-He works the wedge a little deeper, and the sides give about half an inch under the push and then turn firm where the lengths bear on the sticker below.
+He works the three fingers deeper, and the sides part half an inch and then come up hard against something square where the two lengths bear on a strip below.
 
 What stops the fingers is the sticker. A strip of hazel set across under the layer, square cut and dry, with its flat face up to the lengths and its flat back on the layer below.
 
-So the split does not run through the pile at all. It runs only between the top faces of two lengths that ride on one sticker, with air between them that the sun does not reach.
+The split is only in the joint between the two. It runs along the top faces of a pair of lengths that ride on one sticker, with air between them that the sun does not reach, and it goes nowhere near the middle of the pile.
 
 The woman from two doors down comes to the back corner from the lane with a sack across her shoulder, keeping it slung.
 
@@ -32,13 +32,13 @@ She stood at the corner with the sack pulled tight across her back and looked at
 
 A pile on stickers answers a need outside building work. A pile is where bench waste goes after cutting, and a store back is where it waits till wanted.
 
-The stickers between the layers sit flat where they meet the lengths, with the flat hazel to flat pine throwing the air through instead of shutting it out.
+Every strip of hazel between the layers lies broadside to the lengths above it, and hazel laid that way lets the air through the gap instead of stopping it.
 
 Flat to flat like that the lengths dry even on both faces by evening, and each week the pile settles a hair flatter than before, because damp air goes and dry air stays.
 
 A face that lies flat to stickers keeps its line through winter, while one that lies flat on soil cups toward the damp by spring.
 
-That is why the middle layer stays true with stickers under it, and why the top layer, which rides without them, leans a finger off true toward the wall.
+That is why the middle layer stands true on its stickers, and why the top layer, which rides without them, leans a finger off true toward the wall.
 
 The lean shows most at the ends, where the top length stands out past the one below by about a finger.
 
@@ -64,11 +64,11 @@ Air comes in at the two ends of the pile and stops short in the middle of it, an
 
 The pile stands about a foot off the wall on its stickers, and the slab under it shows pale where the pile kept the rain off through winter and dark round the edges where drips fell.
 
-That is why this pile leans a finger out at the top, where the stickers stop two layers down and the top two ride on each other.
+The pile leans a finger out at the top because the stickers stop two layers down and the top two lengths ride on one another, with nothing under them but timber.
 
 Two layers without air between will always lean to the damp, while two with air stay true through winter.
 
-Two more stickers up top would bring that lean back, and in the meantime the top two want an offcut laid along them and pressed down flat.
+Two more stickers up top would bring that lean back, and until they go in the top two lie on one another and take the weather on a single face.
 
 An offcut as long as the arm and as thick as the wrist presses even along the whole top without denting it.
 
@@ -80,16 +80,18 @@ Sun warps by drying the top face while the bottom stays damp, so the top shrinks
 
 Weight undoes it by night, pressing the cup flat while dew damps both faces even.
 
-The brick of the wall behind sits flat where the paint covers it, and the stone of the slab sits flat where the stickers meet it, and the timber of the pile sits flat where sticker meets length.
+The slab under the pile lies flat where the stickers bear on it, and every length in the pile stands square to that slab, and the wall behind carries the lot without moving.
 
-He frees the wedge from the split and shakes dust away against the pile flank, studying the lengths from the doorway for what their faces disclose.
+The three fingers come out of the split slowly, and the dust on them leaves a clean streak in the sawdust along the flank of the pile, and he goes on standing in the doorway with the daylight behind him.
 
-The nails in the store door stand proud where the boards shrank round them, with the heads dark on the weather side and bright where the paint peeled. Iron nails bleed rust down flat pine in thin streaks where rain follows them, and each streak stops where the timber turns hard. The streaks run straightest on the south boards where sun draws damp fastest, and wander on the north where timber stays cool past noon.
+The nail heads in the store door stand up clear of the boards, the paint on them cracked round the edges where the pine drew back. Iron nails bleed rust down pine in thin streaks where rain follows them, and each streak stops where the timber turns hard. They run straightest on the south boards, where the sun gets at the damp first, and they wander where the timber stays cool past noon.
 
-The hinge screws rest in slots filled with sawdust, the slots placed across the pull so the driver bites. Each screw settles flat where head meets pine and carries a dust collar that rinses off in showers and returns by nightfall. A screw settling flat to pine pulls boards close without crushing, while one settling edgewise splits the face come winter.
+Each of those heads has lifted a sixteenth of an inch out of its board since the door was hung, which is enough for a thumbnail to catch under any one of them and not enough to work the nail out of its hole.
+
+The hinge screws have all four been turned once and once only, and the dust packing into their slots has them fast enough now that a driver would have to be turned twice to break them loose.
 
 Cobwebs stitch the pile to the wall at the far end, anchors on brick dust and edge grain. Strands snap when lengths slide and re-spin within days, grey with sawdust. Fresh strands shine silver at dawn while old ones hang pewter and sag, marking which shadowed bays rest longest undisturbed through winter.
 
 At eye level the pile looks straight and true, with the stickers showing even between the layers.
 
-Flat in the middle like that the pile dries between rains and keeps its line through spring winds, or the top will want fresh stickers before high summer arrives in full.
+Flat in the middle like that the pile dries between rains and keeps its line through spring winds, or the top will carry the same lean into summer and into the autumn after it.

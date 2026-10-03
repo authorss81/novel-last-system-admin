@@ -4,27 +4,27 @@ Wednesday the twenty-ninth of May 2024, at the wall coping of brick at number tw
 
 **SHE HAS A WALL COPING OF BRICK AT NUMBER TWELVE WITH A CHANNEL OF MOSS ALONG ITS UNDERSIDE AND SHE MEANS TO DRAW FINGER PADS UPWARD INSIDE THAT CHANNEL WITH WRIST TURNED OUT AND HER SISTER IS AT THE GARDEN PATH FROM THE SHED SIDE WITH A TRUG ON THE GROUND.**
 
-The coping came to that wall when the wall was raised, and the wall under it has been repointed once while the coping has kept its seat.
+The wall was raised in a fortnight by three men working from a scaffold, and this coping has sat on the head of it ever since with nothing lifted off and nothing put back.
 
 It is a coping of blue brick about six feet long, with the top cambered to throw rain and the underside hollowed where the mould left it.
 
 She wants the channel along that underside, where the moss grows deep and the rain drips longest.
 
-A channel under a coping tells more than the top of it, because the top shows the weather and the underside shows what the weather feeds.
+A hollow under a course of brick is where the weather stops and starts keeping, because the top only sees it go by and the hollow has to sit in it.
 
 So the finger pads climb the moss channel with the wrist tilted outward.
 
-The moss feels soft and cool on the skin, the way moss stays cool past noon, and the brick under it drags where sand coats it.
+Moss under a coping is cold and wet and soft all the way through, and the grit that gets into a channel like this one dries the pads out within a few inches.
 
-Her fingers climb near two inches before meeting firmness. Not brick. Garden-blown soil snagged in moss, dense and shadowed, gritty within with a bleached snail shell centred.
+The pads go up past the first joint and into soil that has lain there all winter without once being turned, dense and shadowed, gritty within, with a bleached snail shell bedded in the middle of it.
 
-She draws the pads a little further, and the soil gives half an inch under them and then turns firm where the channel narrows.
+She draws the pads a little further along, and the soil gives half an inch under them and then turns firm where the channel narrows to nothing at the wall head.
 
-What stops them further in is stone. The wall head under the coping, set flat under the brick with its flat top to the coping and its rough back in the wall.
+Beyond the soil the pads find the stone of the wall head, set flat under the brick with its top taking the coping and its rough back buried in the mortar of the course below.
 
-So the coping does not sit on mortar at all. It sits dry on the wall head with moss packed in the channel between, and the packed moss is what keeps it from rocking in wind.
+So the coping is carried dry on the stone and never once on mortar. Moss packed in the channel between them has kept it from rocking through every winter since the wall went up, and it will keep it from rocking through the next.
 
-Her sister steps to the garden path from the shed side with a trug on the ground and does not pick it up.
+Her sister is at the garden path off the shed side with a trug on the ground behind her, and she leaves it on the ground.
 
 "Did the coping move in the cold?"
 
@@ -38,62 +38,62 @@ She nudged the trug with her foot and left it where it was, and stood with her h
 
 ---
 
-A coping on a wall head answers a need outside building work. A coping is where rain breaks before running down a wall, and a garden wall top is where it meets wind year round.
+A coping carries the weather off a wall and a garden wall carries it year round, and the run of it along the top is the only job the piece was ever cut to do.
 
-The wall head under it sits flat in its bed, the sort of brick that comes up when a pier is taken down, and the moss in the channel sits loose on top and firm below.
+Under this coping the wall head is laid true in its bed out of the sort of brick that comes up when a pier is taken down, that bed being flat across the whole length of the wall so the coping has one unbroken line to sit on, and the moss above it is loose on the top surface and matted firm underneath.
 
-Blue brick rests flat beneath moss unlike red stock. Red stock absorbs slightly and settles, while blue stock sheds runoff and remains placed, demanding a true-cut bed with sand below.
+Blue brick rests beneath moss in a way red stock does not. Red stock takes up a little water and settles a little in its bed, while blue stock throws the water off and stays exactly where it was put.
 
-That is why the coping sits flat on its wall head while the moss sits flat under it, with flat brick to flat brick throwing the rain off instead of drinking it.
+Set true in the bed, the coping has not lifted an edge since the wall was raised, and the moss has done the work of a joint that was never laid at all.
 
-Flat to flat like that the coping sheds the night rain by morning, and each shedding leaves the channel a little deeper than before, because moss grows where water runs.
+Each shower puts a little more moss where the drip lands, and each dry spell takes a little of it away at the ends where the wind reaches, and the two together keep the channel from ever closing.
 
-An open face resting flat to skies dries earliest following showers, while a sheltered one retains moisture along its run till nightfall.
+Moss drinks at night and gives the water back by day, so a channel packed with it stays damp through a dry week that would leave bare brick dry by Tuesday.
 
-That is why the coping top dries first of all the brick in that corner, with its flat back open to the wind at the ends, and why the channel stays damp till the next dry day.
+The moss at that middle is three seasons deep and comes away from the brick in a piece, green underneath and brown at the mat, and the piece has to be cut to get at the channel at all.
 
-The flat coping crown carries its own lesson. Soot lies on it after dry spells and rinses off in showers, and each rinse leaves the crown a touch flatter than before, for soft soot leaves and hard brick remains.
+So the channel runs wet at the middle where the drip falls and dries out at the ends where the wind gets in, and the difference between those two ends is the whole length of the piece.
 
-Moss grows deep where water drips and thin where wind dries, and each year the channel grows a little deeper where the drip falls most.
+A shallow channel throws its water off in rain and a deep one keeps it, which is why moss grows thick in the middle and thin at the ends.
 
-Deep moss keeps the channel damp through dry weeks, because moss drinks at night and gives it back by day, and each night adds a little of what the day took.
+Under a coping like this the moss has been cut back twice by weather alone, and each cutting left the brick below it paler than the brick at the ends.
 
-That is why the channel runs damp at the middle where the drip falls, and dry at the ends where wind gets in.
-
-She draws the pads down again and feels how the channel runs along the wall.
-
-It runs even for about four feet and then shallows where the wall head rises, with the shallow part catching less moss and more grit.
-
-A shallow channel throws water off in rain and a deep one keeps it, which is why moss grows thick in the middle and thin at the ends.
+The crown of the coping carries soot off the shed chimney that lies on it year round and in wet weeks, and the soot has never worked its way into the pores of the blue brick beneath, because that crown stands flat to the sky and the soot has nowhere to sit down in.
 
 ---
 
-The shed door screws rest in paint-clogged slots, the slots placed across the strain so the driver keeps purchase. Each settles flat where head meets oak and carries a rust crescent where damp lingers beneath. Rust trails down the flat door face in fine lines, halting at hardened oak, each streak noting a cold season of expansion and contraction.
+The moss has been drying and wetting on the same schedule since the wall went up, and the wall itself has been wet and dry on the schedule of the year, and the two are not the same.
 
-Shed side boards meet their ledges flat to flat, shedding showers rather than absorbing them. Boards meeting ledges face to face dry between by nightfall, while edgewise meetings retain moisture till the following dry spell.
+Where the shed roof throws its water the paving below has been scrubbed pale, and that pale runs out under the channel and stops at the fourth foot of it.
 
-She puts the pads up again further along, to feel whether the moss runs the whole length.
+She puts the pads up again further along, to see whether the moss runs the whole length.
 
-It runs all along with no gap, thick near the middle where drips feed it and thin near the ends where wind dries it.
+It runs the whole length with no gap in it, thick near the middle where drips feed it and thin near the ends where the wind dries it.
 
-What makes it thin at one end is the lean of the coping. Water runs along the channel in rain and drops at the low end, and each rain leaves the low end a little barer than before.
+What makes it thin at one end is the lean of the coping. Water runs along the channel in rain and drops off at the low end, and each rain leaves that end a little barer than before.
 
-A fall of half an inch over six feet throws water clear without showing, which is why the coping was set to that fall when the wall went up.
+A fall of half an inch over six feet throws water clear without showing to the eye, which is why the coping was set to that fall when the wall went up.
 
-Less fall ponds in the channel and rots the moss, while more fall shows to the eye and spoils the line.
+Less fall ponds in the channel and rots the moss out of it, and more fall shows to the eye and spoils the line of the wall.
 
-That is why the low end sits half an inch down and no more, and why the coping sits where it was set with no lifting since.
+The low end sits half an inch down and no more, and the coping sits exactly where it was set with no lifting since.
 
-The coping crown meets weather head on, without a crack over it and without a corner gone soft.
+The crown of that coping meets the weather head on, with no crack across it and no corner gone soft anywhere along its run.
 
-Blue brick goes soft at the corner where moss grinds into it year by year, because moss keeps damp through still nights and the damp frets a little every night until the edge rounds.
+Blue brick loses a corner slowly to moss that keeps damp against it night after night, and a corner that has gone soft shows a rounded shine where it was square.
 
-Wall ivy grips the far pier with aerial roots pale as bone, probing shadows for purchase. Roots thicken yearly, prising crumbs loose and dropping them to the path. Fresh rootlets glow green following showers while aged ones turn grey and woody, mapping which shaded courses retain damp longest across seasons.
+The corners on this coping are square still, which says the moss stays inside its channel and does not reach up over the crowns.
 
-Those corners stay square and flat, proving moss remains channel-bound and clear of the crowns. Iron wall ties stitch the pier to the inner leaf below the coping, plates star-shaped without and rods reaching deep within. Ties rust-jack their sockets over decades, cracking beds a hairline, while sound ones sleep silent, distinguishing burdened joints from easy ones.
+Iron wall ties stitch the pier to the inner leaf below the coping, with plates star-shaped outside and rods reaching deep within.
 
-The wall plate nails stand proud where timber shrank round them, heads dark where rain tracks in. Each nail settles flat where head meets pine and wears a dark halo paling in sun and darkening by night. A nail settling flat to pine pulls tight without splitting, while one driven aslant splits the face by the next cold snap.
+Ties rust-jack their sockets over decades and crack the bed a hairline, while sound ones sleep in them, and the cracked ones tell which piers have been asked to carry the most.
 
-She takes the pads out of the channel and brushes the moss off on the wall beside it, and reads the coping from the path by what the top gives away.
+The wall plate under the coping has been taken off twice and put back twice, and the nails that fix it stand proud where the timber shrank round them.
 
-The crown reads level from the garden and low toward the shed at one end, and both readings spring from a single fall and a single channel, and the pads know the coping sits true on its wall head that binds under cold, as the moss greens again after rain.
+Each of those nails sits flat in its head and wears a dark halo that pales in sun and darkens by night, and a nail driven square draws tight without splitting the grain.
+
+The plate itself has warped a little on the outside face, so the halo round each head is drawn out into a long tail on the weather side and stays a circle on the sheltered one.
+
+She works the pads out of the channel, and the moss comes away in one piece with the grit gripped in the bottom of it, and she lays the piece on the wall beside and stands at the path with her wrist still turned out.
+
+The crown reads level from the garden and low toward the shed at one end, and both of those readings come off the same fall and the same channel, and the pads know the coping is carried dry on its wall head and will not shift until the stone under it does, as the moss greens again after rain.

@@ -4,7 +4,7 @@ Sunday the fifth of May 2024, at the fence rail at the side of number nine from 
 
 **SHE HAS A FENCE RAIL OF TIMBER AT THE SIDE OF NUMBER NINE WITH A BORED HOLE IN ITS END AND SHE MEANS TO PUSH THE THUMB ALONE INTO THAT BORE WITH FINGERS FOLDED TO THE PALM AND THE WOMAN WHO DOES HER SHOPPING IS AT THE SIDE PASSAGE FROM THE STREET WITH A BASKET ON HER ARM.**
 
-The rail came to that side when the fence went up, and the posts each side of it have been tarred once while the rail has kept its place.
+The fence went up in a week and a half, and this rail has stayed where the first man set it while every post either side of it has been tarred over since.
 
 It is a rail of pine about five feet long, with the top edge rounded off to throw rain and the end cut square where it meets the post.
 
@@ -22,7 +22,7 @@ She turns the thumb a little, and the dust turns with it for half a turn and the
 
 What stops it further in is soil, washed in off the top of the rail, firm and dark, with sand in it that grits under the nail.
 
-So the bore runs deeper than the thumb by a good inch, with dust at the mouth and soil at the bottom, and the bottom is what keeps the bore from taking a dowel now.
+So the bore runs deeper than the thumb by a good inch, with dust at the mouth and soil at the bottom, and the bottom of it is the reason that bore will take no dowel now.
 
 The woman who does her shopping comes to the side passage from the street with a basket on her arm and does not set it down.
 
@@ -56,7 +56,7 @@ A blind bore with soil firm in it will not take iron at all. Soil swells with ra
 
 A blind bore with sand firm at the bottom will take a dowel if the sand is picked out first. The dowel goes through to sound timber and the timber spreads the load, and the rail carries it the way it would carry a knot.
 
-That is why the bore was left open and the dowel put aside. The man who bored it saw the auger wander, and kept the dowel for the shelf, and left the bore to the rain.
+The bore was left open and the dowel put aside for a reason. The man who bored it saw the auger wander, and kept the dowel for the shelf, and left the bore to the rain.
 
 The timber of the rail stays flat where the top edge meets the sky, with no soft place in it and no shake along its face.
 
@@ -74,10 +74,10 @@ The iron of the post nails stays bright where the heads meet the air, and the st
 
 The screws that face the rail sit in slots choked with paint, with the slots running across the pull so the driver bites. Slotted screws bed flat where the head meets the timber, and each head throws a half-moon of rust where rain sits under it. The rust runs down the flat rail face in thin streaks and stops where the timber turns hard, and each streak marks one winter of shrink and swell.
 
-She draws the thumb out of the bore and rubs the dust off on the side of the rail, and studies the end from the passage for what the square gives away.
+The thumb stays in the bore until the dust warms right round it, and when it comes out it brings a skinful of grey with it, and she wipes that on her apron and goes on down the passage.
 
-At eye level the bore mouth looks like a dark spot in flat pine, round and true from the front, with the flat end grain tight all round it.
+Seen straight on, the bore mouth looks like a dark spot in flat pine, round and true, with the end grain tight all round it.
 
-Seen slantwise the mouth shows oval, where the auger broke the edge on its way in, while the rail end stays flat round it.
+Seen slantwise the mouth shows oval, where the auger broke the edge on its way in, while the rail end stays flat round it through sun and shower.
 
-Round from the front and oval from the side, and the thumb knows which part would take wood, namely the bottom that was cut on the day the bench stood flat, unless the sand is left where the wind put it.
+The thumb knows which part of that mouth would take wood, namely the bottom the auger cut on the day the bench stood flat, and it knows how far that wood still stands off the opening, unless the wind lays more sand into the low side than the rain washes out of it.

@@ -36,9 +36,9 @@ A row of loose bricks at the end of a bed is put there for a use that has nothin
 
 The bricks at the ends of it are dark and green on one face, the sort that sat through winter under leaves, and the middle one is red and drier, the sort that spent winter under cover by the shed.
 
-Red brick goes flat in a row in a way that blue brick does not. Blue brick has a glazed face that throws water off, and red brick has an open face that drinks a little and then dries, so it beds down into soil and the soil round it locks.
+A row of red brick beds into the ground under it, and a row of blue brick stands on it. Blue brick has a glazed face that throws water off, and red brick has an open face that drinks a little and then dries, so it beds down into soil and the soil round it locks.
 
-That is why the middle brick sits flat on its bank while the end ones rock a little when trodden near. The foot of it has sunk about half an inch into the earth, and the earth has come up round the foot, and the brick now sits on a footing of its own making.
+Flat on its bank like that the middle brick stays put while the end ones rock a little when trodden near. The foot of it has sunk about half an inch into the earth, and the earth has come up round the foot, and the brick now sits on a footing of its own making.
 
 The slit behind it runs about four inches across at the top and nothing at the bottom, where the brick meets the bank on a bed of sand.
 
@@ -80,8 +80,8 @@ Laid flat like that they throw the morning rain off in sheets, and each sheet le
 
 A face that lies flat to the weather dries first after rain, while one that tilts in keeps the damp along its lower edge till midday.
 
-That is why the middle brick dries first of the three, with its flat face to the south and its back to the bank, and why the end ones stay dark till dinner.
+Turned south a face dries ahead of one turned north, and the middle brick has its flat face to the south and its back to the bank, which is why it dries before the two at the ends and why the dark stays in them along the lower lips till dinner.
 
-The flat of the brick top tells the same tale. Dust sits on it after dry days and washes off in rain, and each washing leaves the top a little flatter than before, because loose sand goes and hard clay stays.
+Dust settles on the crown of the middle brick after dry days and washes off in rain, and each washing leaves that crown a little flatter than before, because loose sand goes and hard clay stays.
 
-She will leave the three where they lie through another summer, with the middle one wedged and the soil firm round it, and the row sinking a hair each year under its own weight while the light goes off the yard.
+She leaves the three where the edging left them, the middle one wedged between soil and grit with the bank packed firm about its heel, and the row will go down a hair into that bank every year under nothing heavier than its own weight while the light goes off the yard.
