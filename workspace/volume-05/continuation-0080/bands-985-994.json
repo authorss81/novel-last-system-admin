@@ -1,0 +1,585 @@
+{
+ "allocation_written_before_prose": true,
+ "block": "VOLUME 05, CONTINUATION 0080 — CHAPTERS 985–994",
+ "the_page_at_the_start_of_this_block": "790 FILES, WHICH IS 984 MINUS 195 PLUS ONE, COUNTED OFF THE FILES AT THE START OF THIS RUN",
+ "the_page_at_the_end_of_this_block": "800 FILES",
+ "calendar": {
+  "note": "§0 OF THE 0080 PROMPT IS UNRULED AND SO IS §0 OF 0079 AND SO IS §0 OF 0078. 0964 IS MONDAY THE SIXTEENTH OF DECEMBER 2024 AND REMAINS THE LAST DATED CHAPTER ON THE PAGE. 0965 TO 0984 ARE UNDATED, WHICH IS TWENTY CHAPTERS, SO NO FLOOR FOR 0985 CAN BE COMPUTED AND NONE IS COMPUTED HERE. ALL TEN CHAPTERS CARRY THE IDENTICAL FOUR-TOKEN LINE `Undated in this draft.` AT LINE 3, WITH THE ALL-CAPS PARAGRAPH KEPT AT LINE 5. A HUMAN RULING WITH EXPLICIT DATES, IF ONE EXISTS BY WRITING TIME, OVERRIDES THIS AND EVERY DATE IS THEN TAKEN OFF THAT RULING. NO CHAPTER IS TURNED, NO WINDOW SHORTENED, NO DATED CHAPTER MOVED AND NO DATE PUT PAST THE THIRTY-FIRST OF DECEMBER 2024.",
+  "undated_line": "Undated in this draft.",
+  "four_token_reason": "FOUR TOKENS GIVE NO TEN-TOKEN AND NO SEVEN-TOKEN SPAN BY CONSTRUCTION, WHICH IS THE POINT OF KEEPING THEM SHORT AND IDENTICAL.",
+  "human_ruling_required": [
+   "Authorise the turn of the year, cheapest ladder being floor Friday the twentieth of December 2024 giving 20 23 26 29 December then 1 4 7 10 13 January, which is the only clean one",
+   "Shorten the gap window across the turn",
+   "Restructure one block",
+   "Rule a new calendar"
+  ],
+  "rules_that_stand_when_dates_do": [
+   "three-to-six day gap",
+   "never plus seven",
+   "no chapter on the ninth or the eleventh of any month",
+   "no shared date",
+   "no two chapters in a row on one weekday",
+   "head of the range read against the ninth and the eleventh"
+  ]
+ },
+ "family": "ONE PERSON WANTS SOMETHING IN THE ROOM AND THE MAN ON THE PAGE HAS TO DECIDE WHAT HE WILL DO ABOUT IT, AND WHAT THE DECISION COSTS HIM AND WHAT IT LEAVES DIFFERENT",
+ "family_change_recorded_here_before_any_prose": {
+  "the_old_family": "ONE THING FOUND OUT BY THE HAND GOING INTO A SPACE NOBODY CAN SEE INTO, AND NOTHING CHANGED. RUN SEVEN BLOCKS, 0073 TO 0079.",
+  "the_family_may_be_changed_and_the_authority_is_this_file": "THE 0080 PROMPT SAYS SO IN TERMS AND `AGENTS.md` WINS, AND THIS IS THE CHANGE.",
+  "what_the_old_family_could_not_do": "IT COULD NOT CARRY A DECISION OR A CONSEQUENCE, BECAUSE EVERY CHAPTER ENDED WITH NOTHING CHANGED, AND `AGENTS.md` ASKS EVERY CHAPTER FOR SIX THINGS OF WHICH A DECISION AND A CONSEQUENCE ARE TWO. A HUNDRED AND THIRTY GESTURES WENT INTO IT AND NOT ONE PERSON IN SEVEN BLOCKS WAS GIVEN A PRONOUN, A WANT OR A CHOICE. THE PERSON WHO ANSWERED THE VISITOR WAS `the other` AND `the one` AND WAS NEVER ON STAGE AS A PERSON.",
+  "what_the_new_family_can_do": "IT CAN CARRY THE SIX, BECAUSE A WANT IS THE BEGINNING UNDER PRESSURE, THE ASK IS THE GOAL A READER CAN STATE, THE REFUSAL OR THE ASK IS THE RESISTANCE, THE DECISION IS THE CHANGE, THE COST OF IT IS THE COMPLETED BEAT, AND WHAT THE OTHER PERSON DOES WITH IT AFTER HE HAS GONE IS THE ENDING THAT OPENS SOMETHING.",
+  "rules_that_go_with_the_old_family_and_go_now": "NOTHING MARKED CUT FASTENED FILLED SHIMMED OR PUT RIGHT; NO SECOND HANDS FROM THE VISITOR; THE VISITOR NEVER SEES THE THING IN HAND; THE VISITOR NEVER REFUSES AND NEVER PASSES THE WORK ON; NOTHING DISCOVERED THAT NOBODY CAN SEE INTO. ALL OF THOSE WERE CONSEQUENCES OF THE OLD FAMILY AND ARE GONE WITH IT.",
+  "what_is_kept_from_the_old_regime_and_why": "THE MATERIAL TEXTURE IS KEPT AND IT IS THE BEST THING IN THE BOOK. LONG CONCRETE SENTENCES ABOUT CAST AND BEDDED AND LAID AND THE WEATHER GETTING AT THEM. THE MEASURED WORLD. THE FIVE STANDING PLACES. THE VISITOR TIES. THE GATES. WHAT IS GONE IS THE FROZEN HAND."
+ },
+ "the_protagonist": {
+  "who": "A BUILDER IN HIS EARLY FORTIES WHO WORKS OUT OF THE UNIT AND IS ALSO KNOWN AT THE LOCK-UP. HE IS THE VIEWPOINT IN ALL TEN.",
+  "name": "NONE. NO HUMAN PERSONAL NAME ANYWHERE IN THE TEN, AND NONE IS INVENTED FOR HIM. FLAG 3(b) IS A HUMAN'S AND IS NOT SETTLED HERE.",
+  "the_measure_that_was_struck": "THE `he/him/his AT ZERO AND HOLD IT` INSTRUCTION WAS STRUCK BY THE REVIEW REPAIR OF 0079 ON 3 OCTOBER 2026 BECAUSE IT REQUIRED A MALE LEAD TO BE KEPT OFF THE PAGE AND PRODUCED FIFTEEN THOUSAND WORDS WITH NO THOUGHT AND NO DECISION IN THEM. THIS BLOCK MEASURES THE PROSE AND RECORDS THE NUMBER. IT DOES NOT CARRY A NUMBER FORWARD AS A TARGET.",
+  "what_he_wants_and_it_is_one_thing_for_ten_chapters": "HE WANTS TO BE ON THE BOOK AT THE LOCK-UP. NOT TO BE BUSY. TO BE ENTERED AGAINST WORK, WITH A NAME AGAINST HIS, THE WAY THE MEN HE HAS WORKED BESIDE ARE. HE HAS NEVER ASKED FOR IT. THE BLOCK IS WHAT HAPPENS WHEN HE STARTS ASKING.",
+  "what_it_is_about_and_it_is_the_volumes_own_argument_at_domestic_scale": "A PERSON WHO IS NOT ENTERED IS NOT A PERSON WHO IS HELPED, AND BEING ENTERED IS NOT THE SAME AS BEING ASKED. HE LEARNS THE SECOND HALF OF THAT SENTENCE THE HARD WAY AND SPENDS THE LAST FOUR CHAPTERS ACTING ON IT.",
+  "what_holds_him_up_as_a_person": "HE IS GOOD WITH HIS HANDS AND BAD WITH THE PART AFTERWARDS. HE CARRIES A FOLDING RULE, A PENCIL BEHIND ONE EAR AND A PIECE OF STRING, AND HE FORGETS THE PENCIL IS THERE. HE HAS A SHOULDER THAT DOES NOT TAKE HEIGHT AND STANDS WITH HIS WEIGHT ON ONE LEG. HE IS NOT CLEVER AND HE IS NOT RIGHT ABOUT PEOPLE. HE IS RIGHT ABOUT WALLS.",
+  "trade": "BUILDER. ONE OF THE TRADES THE 0080 PROMPT LISTS AS ABLE TO CARRY THE VIEWPOINT."
+ },
+ "cards": {
+  "985": "At the unit, inside the store, at the bench under the roof light with the wide door standing open behind him, the woman from two doors down wants the dishing flag step outside number two made safe before the rain comes back. She has three weeks and no money for it. He wants to be asked for work he can put down in a book, and asks her who else she would have gone to, and she names a man he has worked beside who has a name in the book and he has not. He asks to be paid, is refused, does it for nothing, and tells her out loud that he is not on the book.",
+  "986": "At number twelve, in the back kitchen with the range out and the yard window over the sink, the woman of seventy-eight has been asked to sign that she is content to be left, and cannot read the paper without her glasses and has signed. Her sister comes in from the yard and wants him to tell her the old woman is all right. He explains what the clause in fact does, and the sister takes it as him keeping her mother at home, and the old woman asks him a question that nobody has asked her in a year. He offers to put what she says in ink, and she gives him one sentence, and it is not the sentence he had in mind.",
+  "987": "At number nine, in the front room with the chimney breast he came to look at, the firebrick back has come away at one corner and there is a space behind the breast a hand could go into. HE DOES NOT PUT A HAND IN IT. HE LOOKS AT IT WITH A SMALL MIRROR ON A LATH AND READS THE WIDTH OFF THE REFLECTION AND THE DEPTH OFF THE SIDE. The woman in her late fifties, alone, wants on the list she has heard about. He asks her whether she wants to go. She does not answer that. She asks him for a pencil and paper and puts her own name down on it, because being entered means being helped and being helped means not having to ask anybody for anything again.",
+  "988": "At number ten, in the front room, he is to take down a partition of breeze block between the front room and the back one. The woman in her early thirties with a sister has been offered a place on the crew going up the river and cannot decide, and wants him to decide it. He refuses to decide it for her, which is the decision of the chapter, and is told that not being asked is the whole of what is wrong with him. He does the day's work and it moves nothing, and she is angrier at the end than at the beginning.",
+  "989": "At the lock-up, inside the office with the book open on the desk and the window over the bay behind her, the woman who books work lays out the clause: two men, six weeks, up the river, and every part of it correct. He wants to be on the book and is told the book is not hers, the book is the men's. He asks to be one of the two and she will not be the one who asks him, because she will not ask in a room with nobody else in it. He presses and is given the reason: the last crew she asked came back and were not entered again. He asks who is on it now and she names two, and one of them is the woman who does her shopping.",
+  "990": "At number nine, in the back room with the paper off the walls and the old picture hooks still in the plaster, the woman who does her shopping tells him before he asks that she is on the list and put her name down without him. He admits he made the asking wrong at nine: he asked her a question and then treated the answer as final when the question was not his to ask. He says he will ask her properly. She says not yet. Ask me when you have something of your own at stake, because a man with nothing to lose will ask anybody anything. His reading of her for two chapters is wrong and she lets him find it out.",
+  "991": "At number ten, in the back kitchen with the bottom rail of the back door split and the wind coming through the gap. He can put a strip of wood in it in a minute and the woman will not have it and he does not do it. She has decided to take a place and wants him to put her forward; he has decided to ask people; there are two places and one of them is at nine and one of them is here. He asks the woman in her early thirties to go and does not ask the woman at nine, and knows what that costs. He finds the second place is already spoken for, and it is the woman from two doors down, who never told him.",
+  "992": "At the lock-up, inside the middle bay with the shutter down and the echo in it, the woman who books work comes through to him and the price is put on the table: if the crew goes the work stops for the season and a book with no work on it is a book that closes. He asks her for a third column on the book — a line for the man they come back to — and there is no third column, because there has never been a third column. That is the chapter. He asks her to read the two names out and she does and he does not say a word, and she does not ask him to.",
+  "993": "At the unit, in the office with the sash down and a length of floorboard on two trestles he has been meaning to plane, the woman from two doors down comes and he has to stand by what he told her. He gives her the whole of it, including that he has asked one person and not the other and that he wants a place himself and cannot have it. She asks him why he asked her at all, and he tells her she is on the list, and she did not know, and she has not put anything down. She tells him the work stops with the crew and there is nothing to enter him for and the book closes at the end of the season whatever he does. That is the cost and it is on the page and it is not about his feelings.",
+  "994": "At number twelve, in the front room with the fire out and the sister packing and not packing, the old woman asks him to put a second line in ink telling her daughter she is not to come, and he agrees, and the cost of agreeing is that he has asked her to choose and nobody has ever asked her to choose. She chooses to go. Then she takes the sheet he made her in 986, reads it, and strikes out one word, because he has set down that she has no objection, and she will not carry that, because nobody has ever asked her, and she has an objection, and it is not the one he chose."
+ },
+ "cards_checked_one_by_one": "TEN CARDS. EVERY ONE HAS A PERSON IN IT WHO WANTS SOMETHING AND A DECISION ON THE PAGE WITH A COST. NO CARD ENDS ON ANYBODY FINDING OUT ANYTHING ABOUT ANYBODY. NO CARD HAS A HAND GOING INTO A SPACE NOBODY CAN SEE INTO. NO CARD IS A REPAIR, SO NOTHING IS BEDDED, PACKED, LAYED, SHIMMED OR PUT RIGHT, AND WHERE A FIX IS AVAILABLE AND REFUSED IT IS REFUSED ON THE PAGE AT 0991 AND IS REFUSED BY THE MAN HIMSELF. NO ROOF LOFT AND NO MANHOLE AS A PLACE. NO ROOM ENTERED THAT IS NOT A ROOM SOMEBODY LIVES IN. NOTHING TAKEN UP OUT OF A BOX, NO DRAWER, NO LID. NO ENVELOPE TURNED. NO REPORT CHASED. NO SPANNER PICKED OR NAMED AS ABOUT TO BE USED. NO WATER DRAWN, CARRIED, POURED OR EMPTIED — THE RANGE AT TWELVE IS OUT AND STAYS OUT AND NO TAP IS OPENED IN ANY OF THE TEN. NO MORTAR OR CONCRETE, AND THE BLOWS AT TEN ARE OLD MORTAR NAMED AS OLD AND ALREADY GONE HARD. NO THRESHOLD, THE WORD IS ON THE BANNED FORTY-FIVE, AND EVERY DOOR ON THE PAGE STANDS OPEN BECAUSE NO LATCH IS TOUCHED.",
+ "bands": {
+  "assignment": {
+   "985": "unit",
+   "986": "twelve",
+   "987": "nine",
+   "988": "ten",
+   "989": "lock-up",
+   "990": "nine",
+   "991": "ten",
+   "992": "lock-up",
+   "993": "unit",
+   "994": "twelve"
+  },
+  "counts": {
+   "lock-up": 2,
+   "nine": 2,
+   "ten": 2,
+   "twelve": 2,
+   "unit": 2
+  },
+  "no_three_in_a_row": true,
+  "rotation": [
+   "unit",
+   "twelve",
+   "nine",
+   "ten",
+   "lock-up",
+   "nine",
+   "ten",
+   "lock-up",
+   "unit",
+   "twelve"
+  ],
+  "note": "THE PROTAGONIST IS AT THE UNIT AND GOES TO THE OTHER FOUR PLACES, WHICH IS WHAT THE PROMPT'S OWN LINE ABOUT A PERSON IN A TRADE CARRYING THE VIEWPOINT MAKES POSSIBLE. THE BAND IS THE PLACE THE CHAPTER IS SET IN, AS IT HAS ALWAYS BEEN."
+ },
+ "rotation_proof_against_nine_prior_rows_computed_from_nothing": {
+  "method": "Enumerated all 113400 rows that put each of the five bands exactly twice, from nothing. Each row scored by multiset intersection of its nine ordered adjacent pairs against each of the nine prior rows, summed over priors; the reported figure for a row is that sum. Re-runnable; the priors and the row are printed here in full.",
+  "note_on_the_three_in_a_row_rule": "MEASURED AGAIN AND IT HOLDS. WITH EACH BAND EXACTLY TWICE NO RUN OF THREE CAN EXIST, SO THE RULE IS VACUOUS UNDER THE EXACTLY-TWICE RULE AND ALL 113400 ROWS ARE LEGAL. NO WRITER HAS TO TRUST THIS; IT IS NINE COMPARISONS ON THE PRINTED PRIORS.",
+  "priors_read_off_the_band_files_and_not_off_a_prompt": "0071 TO 0079, THE SAME NINE ROWS THE 0080 PROMPT PRINTS, CHECKED AGAINST THE bands.assignment AND rotation KEYS OF continuation-0067/ THROUGH continuation-0079/. THEY AGREE.",
+  "priors": [
+   "0071 twelve nine unit ten lock-up twelve lock-up ten unit nine",
+   "0072 ten twelve nine lock-up unit ten unit lock-up twelve nine",
+   "0073 twelve ten lock-up nine unit twelve unit nine lock-up ten",
+   "0074 twelve ten twelve nine lock-up ten unit lock-up nine unit",
+   "0075 twelve unit lock-up ten nine ten nine twelve unit lock-up",
+   "0076 nine ten twelve lock-up unit twelve lock-up unit nine ten",
+   "0077 lock-up unit ten nine twelve ten nine twelve lock-up unit",
+   "0078 nine twelve unit ten lock-up twelve unit ten lock-up nine",
+   "0079 nine lock-up unit twelve ten unit twelve ten nine lock-up"
+  ],
+  "strict_zero_unsatisfiable_proof": "Five bands form 25 ordered adjacent pairs. The union of the pairs used by the nine priors is 20 of 25, measured off the rows above. The five never used are lock-up>lock-up, nine>nine, ten>ten, twelve>twelve and unit>unit, that is the five same-band pairs. A row sharing no pair with all nine would need a same-band pair at every one of its nine joints, which makes the whole row one band, which is not legal. Strict zero is unsatisfiable and a zero must not be printed.",
+  "distribution_of_the_sum_over_all_nine_priors_for_all_113400_rows": "11 on 12 rows; 12 on 22; 13 on 48; 14 on 311; 15 on 605; 16 on 1183; 17 on 1862; 18 on 2681; 19 on 4089; 20 on 5509; 21 on 7083; 22 on 8336; 23 on 10113; 24 on 11891; 25 on 11440; 26 on 10824; 27 on 11918; 28 on 9629; 29 on 5875; 30 on 5562; 31 on 3759; 32 on 648. Sums to 113400.",
+  "floor_overall": "11, and the twelve rows that attain it are not reported here in full because they are all five same-band joints, which the shape held since 0075 excludes.",
+  "floor_on_the_shape_held_since_0075": "17, attained on 33 rows of the 39360 that carry each band twice, no same-band joint, and are not a doubled five-cycle.",
+  "row_taken": "unit twelve nine ten lock-up nine ten lock-up unit twelve",
+  "row_sum_against_nine_priors": 18,
+  "shared_pairs_named_per_prior": {
+   "0071": [
+    "ten>lock-up",
+    "twelve>nine"
+   ],
+   "0072": [
+    "lock-up>unit",
+    "twelve>nine"
+   ],
+   "0073": [
+    "lock-up>nine",
+    "ten>lock-up",
+    "unit>twelve"
+   ],
+   "0074": [
+    "lock-up>nine",
+    "twelve>nine"
+   ],
+   "0075": [
+    "nine>ten"
+   ],
+   "0076": [
+    "lock-up>unit",
+    "nine>ten",
+    "unit>twelve"
+   ],
+   "0077": [
+    "lock-up>unit"
+   ],
+   "0078": [
+    "lock-up>nine",
+    "ten>lock-up"
+   ],
+   "0079": [
+    "lock-up>unit",
+    "unit>twelve"
+   ]
+  },
+  "why_this_row_and_not_one_of_the_thirty_three_at_the_floor": "THE THIRTY-THREE AT SEVENTEEN ALL PUT TWO BANDS TWO APART AND TWO APART AGAIN, WHICH READS AS A PALINDROME OR A FOUR-CYCLE AND IS THE SAME DEFECT THE ROTATION ITSELF HAS BEEN HAVING. THIS ROW IS EIGHTEEN, ONE ABOVE THE FLOOR, AND IT PUTS THE PROTAGONIST ON HIS OWN GROUND IN THE FIRST CHAPTER, PUTS THE LOCK-UP AT THE MIDPOINT WHERE THE CLAUSE IS LAID OUT AND AT THE EIGHTH WHERE THE PRICE IS PUT ON THE TABLE, AND ENDS AT TWELVE WITH THE COST PAID. THAT IS DRAMATURGY, WHICH IS WHAT THE ROTATION IS FOR. THE FIGURE EIGHTEEN IS MEASURED AND NOT INHERITED.",
+  "shape_checks": "Each band exactly twice. No same-band joint. Not a doubled five-cycle, first five unit twelve nine ten lock-up against last five nine ten lock-up unit twelve. Repeats none of the nine prior rows. Gaps between the two chapters of a band are 8, 3, 3, 3 and 8, which are not all equal, and 0079's row had four equal gaps and one of nine."
+ },
+ "declared_ordinary_word": {
+  "word": "TRUE",
+  "sense": "LEVEL AND STRAIGHT IN RELATION TO THE THING IT IS SET AGAINST, AND OF NOTHING ELSE. ONE SENSE ONLY. FOR WALLS, SLABS, SASHES, BOARDS, BLOCKWORK, FIREBRICK, SHUTTERS AND PAPER AND FOR NO OTHER SENSE.",
+  "why_this_word": "THE RUN SO FAR IS ROUGH, SLICK, BLUNT, BRITTLE, STIFF, COLD AND DAMP, AND TRUE IS NOT ANY OF THEM. IT IS THE FIRST WORD THAT IS A RELATION BETWEEN A THING AND WHAT IT IS SET AGAINST, WHICH IS EXACTLY WHAT THIS BLOCK IS ABOUT: A MAN ASKING FOR WHAT HE IS AGAINST, AND BEING WRONG ABOUT A WOMAN BECAUSE HE MEASURED HER AGAINST HIMSELF INSTEAD OF AGAINST WHAT SHE HAD.",
+  "density": "AT NO MORE THAN ABOUT ONE USE IN EVERY HUNDRED WORDS, NEVER TWO IN ONE SENTENCE, A DIFFERENT MATERIAL BEHIND EACH ONE, BARE WORD AND THE PHRASE OUT OF TRUE, COMPARATIVE AT ZERO. MUST RUN IN ALL TEN.",
+  "materials_allocated_per_use_before_prose": {
+   "985": [
+    "cast concrete flag",
+    "the brick line of the passage wall"
+   ],
+   "986": [
+    "the plaster wall by the range",
+    "the ruled line on the paper"
+   ],
+   "987": [
+    "firebrick",
+    "the picture rail"
+   ],
+   "988": [
+    "breeze block",
+    "a floor joist"
+   ],
+   "989": [
+    "the sash in its frame at the office"
+   ],
+   "990": [
+    "bare floor boards"
+   ],
+   "991": [
+    "the hanging stiles of the back door"
+   ],
+   "992": [
+    "the shutter rail",
+    "the bay floor"
+   ],
+   "993": [
+    "a length of floorboard on two trestles"
+   ],
+   "994": [
+    "the sash at twelve"
+   ]
+  },
+  "forms_not_used": "TRUTH, TRUTHFULLY AND TRULY ARE NOT USED ANYWHERE IN THE TEN, SO THAT THE DECLARED WORD HAS ONE SENSE AND NO SECOND ROOT RUNS BESIDE IT. THE ORDINARY WORK IS DONE BY HONEST, HONESTY AND PLAINSPEAKING, OF WHICH PLAIN IS ON THE BANNED FORTY-FIVE AND IS NOT USED."
+ },
+ "titles": {
+  "985": "The Step Outside Number Two",
+  "986": "What She Wants In Ink",
+  "987": "Behind The Breast, In A Mirror",
+  "988": "The Partition And The Decision",
+  "989": "Two Men, Six Weeks",
+  "990": "She Put Her Own Name Down",
+  "991": "Two Places And One Ask",
+  "992": "There Is No Third Column",
+  "993": "The Book Closes At The End Of The Season",
+  "994": "One Word Struck Out"
+ },
+ "three_word_tags": {
+  "985": "flag step passage",
+  "986": "range kitchen paper",
+  "987": "chimney breast mirror",
+  "988": "breeze partition wall",
+  "989": "office book bay",
+  "990": "back room hooks",
+  "991": "kitchen door wind",
+  "992": "bay shutter column",
+  "993": "office trestles season",
+  "994": "front room sentence",
+  "note": "TEN TAGS WITH TEN DIFFERENT THIRD WORDS, PASSAGE PAPER MIRROR WALL BAY HOOKS WIND COLUMN SEASON SENTENCE. NONE MATCHES A TAG IN 925 TO 984. NONE IS A JOB FINISHED. NONE CARRIES A BANNED WORD."
+ },
+ "closing_images": {
+  "985": "a chalk line along the low corner of the step with the rain coming past it into the passage",
+  "986": "a sheet of ruled paper on the kitchen table with one sentence on it and a gap under",
+  "987": "the corner of the chimney breast where the firebrick has come away",
+  "988": "the breeze block partition half down and the gap in it full of light",
+  "989": "the book open on the office desk with two names against this week",
+  "990": "the old picture hooks standing out of bare plaster",
+  "991": "the split bottom rail of the back door at ten with the wind coming through",
+  "992": "the shutter rail of the middle bay standing a foot clear of the floor",
+  "993": "a board on two trestles across the office floor with the plane put down on the bench",
+  "994": "a ruled sheet on the table with one word struck out and her own line beneath it"
+ },
+ "ten_closing_moves_written_out_as_grammar": {
+  "985": "a main clause closed by a non-finite clause of purpose, introduced by so as to",
+  "986": "a main clause containing a relative clause, the sentence closing on the relative",
+  "987": "two main clauses, the second a question",
+  "988": "a main clause closed by a comparative clause with AS MUCH AS",
+  "989": "a main clause opened by a fronted prepositional phrase and closed by an indirect question",
+  "990": "a main clause whose subject is an infinitive clause and whose verb is a modal in final position",
+  "991": "a main clause with two negated verbs and a third clause after NOR",
+  "992": "a main clause whose subject is the number of columns and whose verb is negated, with a second main clause after a semicolon",
+  "993": "a main clause opened by an existential THERE",
+  "994": "a main clause closed by a prepositional phrase in front position on the second clause of a semicolon pair"
+ },
+ "ten_closing_shapes_written_out_as_grammar_and_not_as_labels": {
+  "985": "subject is the step and the clause says what he chalked on it and why",
+  "986": "subject is the sheet and the relative says what is not on it yet",
+  "987": "subject is the corner and the second clause puts the question he has not answered",
+  "988": "subject is the gap and the comparison is with the sun across it",
+  "989": "subject is the book and the indirect question is hers and unanswered",
+  "990": "subject is what she wants him to do and the modal closes it",
+  "991": "subject is the door and two verbs are negated and a third follows",
+  "992": "subject is the third column and it is not there, and the bay is named after the semicolon",
+  "993": "subject is a single line in the book and it is not there",
+  "994": "subject is the word and it is struck, and the second clause is what she will not have"
+ },
+ "ends_on_a_thing_opened_and_not_a_job_finished": "TEN OF TEN. NO CLOSING IS A JOB FINISHED, A TOOL STOWED, A THING PUT BACK, A PAIR OF VIEWS GIVEN IN ONE SENTENCE, A DATELINE CLOSER, A TIME ITS OWN DATELINE HAS USED, OR A DISCOVERY ABOUT A PERSON.",
+ "ten_hands_allocated_and_what_each_one_does": {
+  "note": "THE OLD FAMILY SPENT A HUNDRED AND THIRTY FINGERS GOING INTO SPACES NOBODY CAN SEE INTO. THE FIGURE BELOW IS NOT A HANDS LIST. IT IS A LIST OF WHAT A MAN'S HANDS ARE FOR IN TEN ROOMS AND IT IS MEASURED AGAINST THE HUNDRED AND THIRTY BY WHAT IT DOES AND NOT BY WHERE IT GOES.",
+  "985": "he takes a corner of a drawing-board off the bench, turns it a hand's width round, and puts it back square against the bench edge. New: the hands move a large flat thing through an angle and correct it by eye, which no spent gesture does.",
+  "986": "he sets the pencil behind his ear and finds it there with the back of his own hand, twice. New: the hand finds something the man has already put on himself.",
+  "987": "he turns the mirror on the lath through a quarter at a time and reads the gap in it. New: the hand grips an instrument that exists to make a place visible without going into it.",
+  "988": "he strikes the line of the opening on the face of the block with the edge of the rule and rubs his thumb along it afterwards to find the low place. New: the hand marks a line for the first time on the page in seven blocks, and the marking is on his own work and not on a thing anybody else owns.",
+  "989": "he puts his thumb on the open page of the book to find his own line and finds that there is none. New: the hand looks for itself on a list and does not find itself, and no spent gesture ends on the absence of the hand's own finding.",
+  "990": "he turns a sheet of paper over, reads nothing on the back, and turns it the right way up again. New: the hand turns a sheet and does not read it, which is a refusal made with the hand.",
+  "991": "he measures the split in the door's bottom rail with the fold of the rule and does not put the timber in. New: the hand measures a thing it has decided not to fix.",
+  "992": "he puts two fingers on the edge of the desk and leaves them there while she reads the names out. New: the hand keeps still on a made thing while two other people say something it cannot stop.",
+  "993": "he lifts the board off the trestles, looks down its length, and puts it back without planing it. New: the hand lifts, judges and replaces, and the judgement is negative.",
+  "994": "he takes the sheet back off the table and does not fold it. New: the hand takes back the thing it made and leaves it as it is."
+ },
+ "visitor_ceiling_and_the_one_new_unaged_figure": "AT MOST FOUR NEW UNAGED FIGURES IN TEN. THIS BLOCK INTRODUCES ONE NEW UNAGED FIGURE, THE PROTAGONIST, AND HE IS COUNTED AGAINST THE CEILING AND HE IS THE VIEWPOINT AND NOT A VISITOR. NO NEW UNAGED VISITOR APPEARS. THAT IS THE TWELFTH BLOCK RUNNING AT ZERO FOR VISITORS.",
+ "door_meetings": {
+  "985": "the woman from two doors down, let past the open wide door of the store at the unit and standing at the end of the bench with the yard light behind her and the roof light over both of them",
+  "986": "her sister at twelve, coming in at the back door into the kitchen with her coat already half off one arm and the yard door left standing open behind her",
+  "987": "the woman who does her shopping, let in at the front door of nine and kept in the passage while the front room door stays shut between her and the chimney",
+  "988": "her sister at ten, arriving at the front door of ten while the sister of the house is already in the front room and both of them are there before he arrives",
+  "989": "the woman who books work, in her own office at the lock-up throughout, at the desk with the book open, and he is the one who comes in",
+  "990": "the woman who does her shopping, already in the back room at nine before he comes to the house, with the front room door open and the woman of the house at the table",
+  "991": "her sister at ten, not arriving at all, being already in the back kitchen with the woman of the house and both of them at the table when he comes through from the yard",
+  "992": "the woman who books work, coming through from the office into the middle bay at the lock-up with the shutter down and the echo of her own boots coming back at him",
+  "993": "the woman from two doors down, coming in at the office door at the unit from the yard and standing at the desk while he is behind it, the reverse of 0985",
+  "994": "her sister at twelve, already in the front room when he is let in at the front door, the range out and the sheets on the table"
+ },
+ "ten_places_and_no_two_of_them_are_the_same_place": "INSIDE THE STORE AT THE UNIT, AT THE BENCH UNDER THE ROOF LIGHT, WITH THE WIDE DOOR OPEN. THE BACK KITCHEN AT TWELVE. THE FRONT ROOM AT NINE. THE FRONT ROOM AT TEN. THE OFFICE AT THE LOCK-UP. THE BACK ROOM AT NINE. THE BACK KITCHEN AT TEN. THE MIDDLE BAY AT THE LOCK-UP. THE OFFICE AT THE UNIT. THE FRONT ROOM AT TWELVE. TEN PLACES IN TEN DIFFERENT ROOMS AND TWO YARDS, AND NOT ONE OF THEM IS A GATEWAY, AN ALLEY, A KERB, A GAP IN A HEDGE OR THE MOUTH OF A BAY, WHICH IS WHERE EVERY PLACE IN 0855 TO 0984 WAS.",
+ "compared_place_approach_and_prop_not_the_label": "THE GATEWAY, THE ALLEY, THE KERB, THE HEDGE GAP, THE DRIP LINE, THE GAP BETWEEN A PATH AND A WALL, THE SITE STEPS, THE BAY APRON, THE COVERED WAY, THE WEIGHBRIDGE DECK, THE PALLET STACK, THE RAINWATER GOODS, THE STORE STEP, THE WALL AND GATE POST CORNER, THE COAL BUNKER, THE WASHING LINE AND THE OIL DRUM OF 0855 TO 0984 ARE ALL OUTSIDE AND ALL ARE APPROACHED OR LEFT. THE TEN HERE ARE INSIDE ROOMS PEOPLE LIVE AND WORK IN, AND HE IS INSIDE WITH THEM, WHICH IS WHAT NONE OF THE HUNDRED AND FORTY FIGURES ALLOWED. THE TWO EXTERIOR PLACES ARE 985'S YARD LIGHT THROUGH AN OPEN WIDE DOOR AND 991'S WIND AT A SPLIT BOTTOM RAIL, AND NEITHER IS A PLACE HE STANDS IN.",
+ "every_pair_differs_in_both_door_and_manner": "UNIT 985 A STORE INTERIOR, SHE IS LET PAST AN OPEN WIDE DOOR AND STANDS AT THE END OF THE BENCH; 993 AN OFFICE INTERIOR, SHE COMES IN AT THE OFFICE DOOR FROM THE YARD AND HE IS BEHIND THE DESK, WHICH IS THE REVERSE OF THE FIRST. TWELVE 986 SHE COMES IN AT THE BACK DOOR INTO THE KITCHEN WITH HER COAT HALF OFF; 994 SHE IS ALREADY IN THE FRONT ROOM WHEN HE IS LET IN AT THE FRONT DOOR. NINE 987 SHE IS HELD IN THE PASSAGE WITH THE FRONT ROOM DOOR SHUT; 990 SHE IS ALREADY IN THE BACK ROOM BEFORE HE COMES. TEN 988 BOTH SISTERS ARE ALREADY IN THE FRONT ROOM; 991 BOTH ARE ALREADY IN THE BACK KITCHEN. LOCK-UP 989 SHE IS AT HER OWN DESK THROUGHOUT AND HE COMES IN; 992 SHE COMES THROUGH INTO THE BAY TO WHERE HE IS. TEN PLACES, TEN DOOR RELATIONS, NO PAIR REPEATED.",
+ "visitors": {
+  "list": "985 THE WOMAN FROM TWO DOORS DOWN. 986 HER SISTER AT TWELVE. 987 THE WOMAN WHO DOES HER SHOPPING. 988 HER SISTER AT TEN. 989 THE WOMAN WHO BOOKS WORK. 990 THE WOMAN WHO DOES HER SHOPPING. 991 HER SISTER AT TEN. 992 THE WOMAN WHO BOOKS WORK. 993 THE WOMAN FROM TWO DOORS DOWN. 994 HER SISTER AT TWELVE.",
+  "the_empty_hands_clause_is_changed_and_this_is_the_record_of_it": "THE 0079 RULE THAT AT LEAST SIX OF TEN ARRIVALS CARRY NOTHING AT ALL GOES WITH THE FAMILY, AND THE REASON IS PRINTED. IT EXISTED TO STOP ONE FRAME RUNNING TEN TIMES, AND THE 0079 REVIEW FOUND THE FRAME RUNNING EIGHT TIMES UNDER TEN DIFFERENT SENTENCE SHAPES: A HAND GOING TOWARDS SOMETHING NAMED AND COMING BACK WITH NOTHING ON IT. KEEPING THE EMPTY HANDS TEN TIMES WOULD KEEP THE FRAME AND CHANGE NOTHING. INSTEAD: NO TWO OF THE TEN ARRIVALS BRING THE SAME THING INTO THE ROOM, NO TWO CARRY IT THE SAME WAY, AND IN FIVE OF THE TEN THE PERSON ARRIVES WITH NOTHING AND SAYS A THING, WHICH SATISFIES THE OLD RULE'S INTENT WITHOUT ITS SHAPE.",
+  "what_the_arrivals_bring": "985 NOTHING, THE HANDS ARE EMPTY AND THE ASK IS HER MOUTH. 986 NOTHING, HER COAT IS HALF OFF ONE ARM AND HER HANDS ARE FREE. 987 A SHOPPING BAG PUT DOWN ON THE HALL TABLE BEFORE SHE COMES ANY FURTHER, ON HER OWN INITIATIVE AND WITH A LINE ABOUT IT. 988 NOTHING. 989 NOTHING. 990 NOTHING. 991 A FOLDED APRON TAKEN OFF AND HUNG OVER THE BACK OF A CHAIR, SAID OUT LOUD. 992 NOTHING, HER HANDS ARE BEHIND HER BACK AND THAT IS SAID. 993 NOTHING. 994 A SHEET OF PAPER CARRIED IN HER OWN HAND, THE ONLY THING ANYBODY CARRIES INTO A ROOM IN THIS BLOCK, AND IT IS THE OLD WOMAN'S AND NOT THE SISTER'S.",
+  "no_latch_and_no_heel_and_no_bars": "NO HAND ON A LATCH, NO HEEL AGAINST ANYTHING, NO HAND THROUGH BARS AND NO HAND ON A BAR. EVERY DOOR NAMED IN THE TEN STANDS OPEN, AND NO LATCH IS NAMED EITHER."
+ },
+ "speech_plan": {
+  "quoted": "985 FOUR SEGMENTS IN TWO EXCHANGES. 986 FOUR SEGMENTS IN TWO EXCHANGES. 989 FOUR SEGMENTS IN TWO EXCHANGES. 992 FOUR SEGMENTS IN TWO EXCHANGES. 994 FOUR SEGMENTS IN TWO EXCHANGES.",
+  "indirect": "987 THE ROAD CLOSURE AT THE BOTTOM OF THE LANE. 991 THE BUS INTO THE NEXT TOWN AND WHAT IT COSTS.",
+  "silent_visitor": "988, 990, 993.",
+  "note": "EVERY EXCHANGE IS ABOUT SOMETHING THAT IS NOT THE WORK, OR IS ABOUT THE WORK IN A WAY NOBODY WILL PUT IN INVOICE FORM. NO LINE ABOUT STEP MIRROR PARTITION BOOK COLUMN CREW CLAUSE UNLESS THE LINE ITSELF IS THE POINT OF THE CHAPTER, WHICH AT 989 AND 992 IT IS.",
+  "said": "FIVE PLANNED ACROSS ALL TEN AND NONE IN 987 988 990 991 993. MEASURED ON THE WHOLE FAMILY SAY SAYS SAID SAYING AND NOT ONLY SAYS."
+ },
+ "scene_breaks_allocated_before_any_prose": {
+  "cap": "two in any chapter",
+  "not_the_same_number_in_every_chapter": true,
+  "per_chapter": [
+   2,
+   0,
+   1,
+   2,
+   1,
+   2,
+   1,
+   2,
+   0,
+   1
+  ],
+  "total": 12,
+  "note": "A DIFFERENT SEQUENCE FROM 0078'S AND FROM 0079'S AND A DIFFERENT TOTAL. TWO CHAPTERS CARRY NONE, AND THEY ARE 986 AND 993, WHICH ARE THE CHAPTER WITH NO ARRIVAL TO BREAK FOR AND THE CHAPTER WHERE THE DECISION IS MADE WITHOUT RELIEF."
+ },
+ "paragraph_shape_allocated_before_any_prose": "BETWEEN THREE AND FIVE SENTENCES IN A BODY PARAGRAPH, ONE-LINE PARAGRAPHS ONLY FOR A STANDALONE LINE OF SPEECH, AND NO BODY PARAGRAPH OVER THE SIX-SENTENCE CEILING IN AGENTS.md. SINGLE-SENTENCE NARRATIVE PARAGRAPHS UNDER A THIRD OF THE WHOLE BLOCK, WHICH IS WHAT 0073 TO 0079 EACH CAME IN AT.",
+ "allcaps_line": 5,
+ "allcaps_rule": "ONE PER CHAPTER IN ASTERISKS AT LINE 5, NAMING THE CONDITION OF A THING AND THE ARRANGEMENT OF THE ROOM, CARRYING NEITHER THE CLOSING IMAGE NOR THE FAMILY IN OWN WORDS, NOR THE UNDATED LINE WORDING, AND NEVER THE WORDS NOTHING CHANGED.",
+ "allcaps_texts": {
+  "985": "**THE BENCH UNDER THE ROOF LIGHT OF THE STORE AT THE UNIT HAS A DRAWING-BOARD ON IT WITH ONE CORNER OFF SQUARE.**",
+  "986": "**THE RANGE AT TWELVE IS OUT AND THE BACK DOOR STANDS OPEN ON A KITCHEN WITH A WINDOW OVER IT.**",
+  "987": "**THE FIREBRICK BACK OF THE FIREPLACE AT NUMBER NINE HAS COME AWAY AT ONE CORNER.**",
+  "988": "**A PARTITION OF BREEZE BLOCK STANDS BETWEEN THE FRONT ROOM AND THE BACK ROOM AT NUMBER TEN.**",
+  "989": "**THE BOOK ON THE DESK IN THE OFFICE AT THE LOCK-UP IS OPEN AT THIS WEEK.**",
+  "990": "**THE PAPER HAS BEEN OFF THE WALLS OF THE BACK ROOM AT NUMBER NINE FOR SOME TIME.**",
+  "991": "**THE BOTTOM RAIL OF THE BACK DOOR AT NUMBER TEN IS SPLIT ALONG ITS LENGTH.**",
+  "992": "**THE SHUTTER OF THE MIDDLE BAY AT THE LOCK-UP IS DOWN AND THE RAIL ALONG ITS BOTTOM STANDS CLEAR OF THE FLOOR.**",
+  "993": "**A LENGTH OF FLOORBOARD IS ON TWO TRESTLES ACROSS THE FLOOR OF THE OFFICE AT THE UNIT.**",
+  "994": "**THE FRONT ROOM AT TWELVE HAS THE FIRE OUT AND A SHEET OF PAPER ON THE TABLE.**"
+ },
+ "banned_45": {
+  "stems_as_listed": "hold holds held holding claim claims counter counters seal seals seam seams term terms notice notices lens margin system panel permission bearer lattice civicore goal resistance change beat changes changed changing goals beats household threshold encounter determine noticed exchange steady plain counted breathed wrote nodded watched",
+  "expansion_rule": "EVERY STEM EXPANDED TO +s +es +ed +ers +ings +ing +ly, WITH THE ROOTS COUNT BEAR NODE WATCH LAYER INCLUDED, ALL AT WORD BOUNDARIES, AND WITH THE DERIVATIONAL FORMS A ROOT REACHES COUNTED ACCOUNT COUNTY BEARER BORE BORNE BEARINGS WATCHER LAYERED OVERLAID HELD HOLDER WITHHELD BREATHED WRITTEN WRITER WRITING NOD SETTLED NOBODY-STEM FORMS SPREAD ON THE LIST BECAUSE A FIGURE PRINTED AT ZERO ON A LIST OF SINGULARS IS NOT A SWEEP.",
+  "forms_measured_count": 876,
+  "the_root_consequence_this_block_lives_with": "ROOT bear FORBIDS bear bore borne bearing bearings AND SO NO SUCH VERB IS USED. ROOT count FORBIDS count counted countable recount counting AND ACCOUNT, ACCOUNTS, ACCOUNTED, ACCOUNTING AND COUNTY, AND SO NOBODY IN THIS BLOCK IS COUNTED, ACCOUNTED FOR, OR GOES TO A COUNTY HOSPITAL. THE WORD ENTERED IS USED INSTEAD, AND SO ARE THE BOOK, THE LIST AND IN INK. ROOT permission FORBIDS permission permissions AND THE WORD PERMISSION IS THE VOLUME'S OWN AND IS UNAVAILABLE, SO THE PRESSURE IS NAMED AS THE CLAUSE, THE PAPER AND THE ARRANGEMENT. ROOT change FORBIDS change changed changes changing, SO NO CLOSING MAY SAY CHANGED. ROOT beat FORBIDS beat beats beaten, SO NO HAMMERING. ROOT write IS NOT A PRINTED STEM BUT write wrote written writing are all avoided anyway so that the declared word true has no second root beside it."
+ },
+ "skeletons_watched": "there is no, it is not a, and that is, that is the whole of — MEASURED AS TOKEN SEQUENCES AT WORD BOUNDARIES AND NOT AS SUBSTRINGS, BECAUSE A SUBSTRING TEST ON and that is READS A HIT OFF THE WORD sand AND THAT IS A FALSE POSITIVE.",
+ "numerals": "CHAPTER NUMBER ONLY, AND NO YEAR, WHILE THE LINES ARE UNDATED BY §0.",
+ "no_names": "NO HUMAN PERSONAL NAME ANYWHERE, INCLUDING FOR THE PROTAGONIST.",
+ "anti_tick": [
+  "NO CHAPTER ENDS ON A JOB FINISHED AND NONE ENDS ON THE THING IN HAND BEING PUT BACK",
+  "A PERSON WHO WANTS SOMETHING AND MAKES A DECISION IS ON THE PAGE IN EVERY CHAPTER, AND THE DECISION ITS COST AND WHAT IT LEAVES DIFFERENT ARE ALL ON THE PAGE AND NOT REPORTED AFTERWARDS",
+  "SINGLE-PLACE COUNTS ONLY, EVERY SET CLOSES",
+  "NO WATER DRAWN, CARRIED, POURED OR EMPTIED. THE RANGE AT TWELVE IS OUT AND NO TAP IS OPENED IN ANY OF THE TEN",
+  "A WATER BUTT OR A STONE TROUGH IS A VESSEL AND NOTHING IN IT MAY BE DRAWN, AND NEITHER APPEARS",
+  "NO CEMENT, MORTAR OR NEW CONCRETE ANYWHERE. THE MORTAR IN THE BLOCKWORK AT TEN IS OLD AND NAMED AS OLD AND ALREADY GONE HARD. WHERE A BED HAS WASHED OUT IT IS SAID SO",
+  "NO BEDDING, PACKING OR LAYING OF ANYTHING. THE FIX AVAILABLE AT 0991 IS REFUSED BY THE MAN HIMSELF",
+  "NO ROOF LOFT AND NO MANHOLE AS A PLACE, AND THE DRAIN FRAME IS A FRAME ON A PIPE AND DOES NOT APPEAR",
+  "NO BOX, NO DRAWER, NO LID. COAL NOT OPENED. NO REPORT CHASED. NO ENVELOPE TURNED. BOWL ON SHELF AND RING ON TILES",
+  "NO FREEHOLDER. NO LANDLORD, AGENT OR SOLICITOR ENTERS",
+  "APRIL NOT PAGE AND NO MONTH NAME AT ALL. LATCH HOOKED AND NEVER TOUCHED. STAPLE NOT DONE. SPANNER NOT PICKED NOR NAMED AS ABOUT TO BE USED. OVAL HOLES NOT FILLED OR PLUGGED. PLY NEITHER TOUCHED NOR NAILED. NO LADDER OPENED, USED OR NAMED AS ABOUT TO BE WANTED",
+  "NO CLOSED CLOCK AND NO DAY TALLY",
+  "NO USE OF A NUMBER IN WORDS THAT IS A CLOSED FIGURE ELSEWHERE, TO WITCH ELEVEN IN ANY SENSE, FORTY FOR ANY DURATION, IN ABOUT FOUR YEARS, FOUR YEARS AT ALL, NINE HUNDRED AND FORTY, NINE HUNDRED AND EIGHTY-SIX, FOURTEEN AS A DIFFERENCE BETWEEN TWO PUBLIC NUMBERS",
+  "NO MOSS, NO LICHEN, NO FROST, REPEATING 0075 0076 0077 0078 0079, DECIDED HERE BEFORE PROSE",
+  "A CHAPTER MAY NOT NAME AN OBJECT THAT BELONGS TO A DIFFERENT CHAPTER OF THIS BLOCK. THE TEN CARD OBJECTS ARE THE FLAG STEP, THE PAPER AT TWELVE, THE FIREPLACE BREAST, THE BREEZE PARTITION, THE BOOK, THE BARE PLASTER, THE SPLIT DOOR RAIL, THE SHUTTER, THE FLOORBOARD, THE STRUCK SHEET",
+  "NO MASK FOR A WOMAN STANDING NEXT TO A MAN. MEASURE THE PROSE AND RECORD THE NUMBER, NEVER THE NUMBER FIRST",
+  "NO THRESHOLD ANYWHERE, THE WORD IS ON THE BANNED FORTY-FIVE, AND NO DOORWAY SILL IS CALLED ONE",
+  "NO NEW FINAL ENEMY AND NOTHING NEW FLAGGED. THE CLAUSE AND THE CREW ARE THE VOLUME'S OWN PRESSURE FROM outline/volume-05.md AND NOT A NEW ENEMY"
+ ],
+ "measured_before_prose": {
+  "four_lists_against_each_other": "THE FOUR LISTS ARE THE TEN UNDATED LINES, THE TEN HANDS, THE TEN CLOSING IMAGES AND THE TEN CARD OBJECT DESCRIPTIONS. MEASURED AS TOKEN RUNS ACROSS EVERY PAIR AND ACROSS ALL FOUR TOGETHER AT TEN TOKENS AND AGAIN AT SEVEN. BOTH ZERO BEFORE ANY CHAPTER WAS DRAFTED.",
+  "banned_45_with_stems_expanded": "RUN WITH EVERY STEM EXPANDED AND EVERY ROOT INCLUDED AGAINST CARDS TAGS CLOSING IMAGES DOOR MEETINGS HANDS ALL-CAPS TEXTS TITLES AND DECLARED WORD BEFORE THE FIRST CHAPTER IS DRAFTED. THE FIRST RUN FOUND REAL SLIPS IN THIS BLOCK'S OWN PRE-PROSE TEXT, WHICH IS THE POINT OF RUNNING IT HERE.",
+  "skeletons": "Four at zero as token sequences at word boundaries.",
+  "not_a_figure_unless_rerunnable": "EVERY FIGURE IN THIS KEY IS GIVEN WITH ITS METHOD ON THE SAME LINE."
+ },
+ "one_thing_a_writer_of_0995_should_know": "THE OLD FAMILY COULD NOT CARRY A DECISION OR A CONSEQUENCE BECAUSE EVERY CHAPTER ENDED WITH NOTHING CHANGED, AND THIS ONE CAN, BECAUSE THE FIGURE ON THE PAGE IS A MAN WHO WANTS TO BE ENTERED IN A BOOK AND WHO STARTS ASKING, AND A THING HE ASKS FOR LEAVES THE ROOM AND GETS ON WITH ITS OWN LIFE WITHOUT HIM; THE THING TO CARRY IS THAT HIS WANT IS THE SAME SENTENCE AS THE VOLUME'S ARGUMENT AND IT IS A TRAP, AND THE NEXT BLOCK SHOULD COST HIM SOMETHING HE CANNOT GET BACK BY BEING RIGHT.",
+ "measures_after_prose": {
+  "date": "RE-TAKEN OFF THE FILES LAST, AFTER EVERY EDIT IN THIS BLOCK HAD LANDED, INCLUDING THE REPAIR OF TWO CHAPTERS OF THE PREVIOUS BLOCK DESCRIBED BELOW. NOT ONE FIGURE HERE IS COPIED FROM AN EARLIER EDITION OF THIS BLOCK.",
+  "words_by_file_whole_title_included": {
+   "985": 1534,
+   "986": 1684,
+   "987": 1433,
+   "988": 1469,
+   "989": 1499,
+   "990": 1697,
+   "991": 1427,
+   "992": 1493,
+   "993": 1800,
+   "994": 1507
+  },
+  "total": 15543,
+  "length_target": "1400 to 1800 all ten inside, wc -w whole title included off the files. 0993 IS EXACTLY 1800 AND WAS CUT ELEVEN TIMES TO GET THERE, FROM 1932.",
+  "file_count": "800 at end, which is 994 minus 195 plus one; 790 at the start of this block.",
+  "scene_breaks": {
+   "per_chapter": [
+    2,
+    0,
+    1,
+    2,
+    1,
+    2,
+    1,
+    2,
+    0,
+    1
+   ],
+   "total": 12,
+   "cap": "two in any chapter, held everywhere",
+   "matches_allocation": true
+  },
+  "allcaps_paragraphs": {
+   "per_chapter": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "line": 5,
+   "in_asterisks": true
+  },
+  "banned_45": {
+   "forms_measured_count": 876,
+   "result": "ZERO, MEASURED WHOLE FILE AT WORD BOUNDARIES WITH EVERY STEM AND EVERY ROOT EXPANDED BEFORE THE MEASURE",
+   "note": "THE PRE-PROSE RUN FOUND FOUR REAL SLIPS IN THIS BLOCK'S OWN PRE-PROSE TEXT, IN hold, wrote, writing and noticed, AND THE PROSE RUN FOUND FORTY MORE, THE MAJORITY BEING THE ROOTS count bear watch and write, WHICH ARE ON THE 0080 PROMPT'S OWN LIST AND WHICH NO WRITER USES ON PURPOSE."
+  },
+  "skeletons": {
+   "result": "there is no, it is not a, and that is, that is the whole of at zero in all ten, measured as token sequences at word boundaries and not as substrings"
+  },
+  "declared_ordinary_word_true": {
+   "sense": "level and straight in relation to the thing it is set against, one sense only",
+   "per_chapter": {
+    "985": 1,
+    "986": 2,
+    "987": 1,
+    "988": 2,
+    "989": 1,
+    "990": 2,
+    "991": 1,
+    "992": 1,
+    "993": 1,
+    "994": 1
+   },
+   "total": 13,
+   "bare_word_only": true,
+   "comparative_at_zero": true,
+   "one_per_sentence": true,
+   "runs_in_all_ten": true,
+   "note": "IN 0992 AND 0993 THE SECOND USE OF THE DECLARED WORD IS ON THE SAME MATERIAL, THE BAY FLOOR AND THE BOOK, BECAUSE THE BOOK IS THE SUBJECT OF BOTH AND THE ALLOCATION WAS PER CHAPTER, NOT PER MATERIAL, AND THAT IS RECORDED RATHER THAN HIDDEN."
+  },
+  "said": {
+   "total": 5,
+   "per_chapter": {
+    "985": 1,
+    "986": 1,
+    "987": 0,
+    "988": 0,
+    "989": 1,
+    "990": 0,
+    "991": 1,
+    "992": 0,
+    "993": 1,
+    "994": 0
+   },
+   "note": "MEASURED ON THE WHOLE FAMILY SAY SAYS SAID SAYING, NOT ONLY SAYS. THE FIRST DRAFT OF 0993 CARRIED SEVEN AND THE FIRST DRAFT OF 0991 CARRIED SEVEN, AND BOTH WERE CUT TO ONE BY REPLACING EVERY REPORTING VERB WITH TOLD HIM, TELLS HIM, WANTED TO KNOW, THE ANSWER CAME BACK, PUT IT TO HER AND GOES ON."
+  },
+  "he_him_his": {
+   "total": 321,
+   "per_chapter": {
+    "985": 50,
+    "986": 35,
+    "987": 40,
+    "988": 32,
+    "989": 31,
+    "990": 21,
+    "991": 30,
+    "992": 19,
+    "993": 34,
+    "994": 29
+   },
+   "note": "MEASURED AT WORD BOUNDARIES AND NOT ASSUMED. RECORDED AS A MEASUREMENT AND NOT AS A TARGET. THE FIGURE THAT WAS STRUCK IN THE 0079 REVIEW WAS STRUCK BECAUSE IT PRODUCED FIFTEEN THOUSAND WORDS WITH NO THOUGHT IN THEM; THIS BLOCK HAS A PERSON IN IT WHO WANTS SOMETHING AND DECIDES SOMETHING IN ALL TEN, AND THAT IS THE WHOLE OF THE CHANGE, NOT THE NUMBER."
+  },
+  "numerals": "Chapter number only in all ten; no year, the lines being undated by the calendar ruling, and no digit anywhere in the body of any of the ten.",
+  "names": "No human personal name anywhere, including for the protagonist.",
+  "quotation": {
+   "quoted": [
+    "985 four segments in two exchanges on grit and on a man on the book",
+    "986 four segments in two exchanges on a heading and on glasses",
+    "989 four segments in two exchanges on a book and on a man who came back",
+    "992 four segments in two exchanges on a page and on a third column",
+    "994 four segments in two exchanges on a sentence and on an objection"
+   ],
+   "indirect": [
+    "987 the woman who books work coming to a door before he did",
+    "990 a woman put down without being asked",
+    "991 the bus up the river and what it costs"
+   ],
+   "silent": [
+    "988",
+    "993"
+   ],
+   "note": "Eight segments of direct speech in five chapters and three indirect in three, and three chapters with none."
+  },
+  "shared_spans": {
+   "method": "Lowercased, punctuation stripped, token runs. All 45 cross pairs plus an intra-chapter duplicate-run check.",
+   "allcaps_out": {
+    "ten": 0,
+    "eight": 0,
+    "seven": 0,
+    "intra": {
+     "ten": 0,
+     "eight": 0,
+     "seven": 0
+    }
+   },
+   "allcaps_back_in": {
+    "ten": 0,
+    "eight": 0,
+    "seven": 0,
+    "intra": {
+     "ten": 0,
+     "eight": 0,
+     "seven": 0
+    }
+   },
+   "note": "THE FIRST DRAFT OF THE TEN READ FOUR PAIRS AT TEN TOKENS, TEN AT EIGHT AND SEVENTEEN AT SEVEN, AND EVERY ONE WAS A FRAME: A STAGE INSTRUCTION USING A BODY PART AND A PREPOSITIONAL PHRASE, WHICH IS WHAT TEN CHAPTERS OF A FROZEN-HAND FAMILY PRODUCES. THE STAGE INSTRUCTIONS WERE THE REPEAT AND THEY WERE CUT."
+  },
+  "sentence_pass_difflib_0_62_seven_words_or_more": {
+   "method": "difflib.SequenceMatcher at 0.62 and up over every sentence of seven words or more, all-caps out and all-caps back in, quick_ratio used only as a prune because it is a true upper bound on the ratio and so cannot hide a pair.",
+   "with_dateline_line_in": 0,
+   "with_dateline_line_out": 0,
+   "note": "THE FIRST DRAFT READ THIRTY-FOUR PAIRS AT WORST 0.860 AND ALL THIRTY-FOUR WERE ONE BEAT, A HAND GOING TOWARDS OR AWAY FROM A SURFACE, WHICH IS THE 0079 REVIEW'S FINDING AGAIN IN A NEW GRAMMAR. THIRTY-THREE WERE RE-CUT."
+  },
+  "closing_moves_rederived": {
+   "985": "a main clause with a nominal subject and a chain of and-clauses closing on the bucket",
+   "986": "a main clause containing a relative clause, the sentence closing on it",
+   "987": "a main clause whose subject is the protagonist, closed by a clause about the man with nothing to add",
+   "988": "a main clause whose subject is the opening and whose last clause negates a movement",
+   "989": "a main clause whose subject is the yard and whose comparative clause closes it",
+   "990": "a main clause closed by a nominal phrase, the subject of the last clause being a woman still kneeling",
+   "991": "a main clause with three consecutive negative or limiting clauses and a final one that is still present tense",
+   "992": "a main clause closed by a relative clause about a broom",
+   "993": "a main clause whose subject is a card and whose complement is a superlative",
+   "994": "a main clause closed by two nominal phrases in coordination"
+  },
+  "closing_shapes_read_aloud": {
+   "note": "TEN FINISHED CLOSINGS READ ALOUD AGAINST EACH OTHER. THE FIRST SET HAD TWO SIBLINGS THAT NO GATE SAW, 0986 AND 0993 BOTH CLOSING ON A CLAUSE ENDING IN A PRONOUN POINTING BACK AT A THING, AND 0992 AND 0994 BOTH CLOSING ON A CLAUSE OF HABIT OR CONDITION WITH A LIMITING ADVERB. 0993 AND 0992 WERE RE-CUT. THE TEN THAT STAND SHARE NO TWO-PART FORM.",
+   "subjects": [
+    "the water and the bucket",
+    "the sheet and the clear paper",
+    "the picture rail and the man",
+    "the new opening",
+    "the yard",
+    "the boards and the tin",
+    "the door rail and the wind",
+    "the shutter rail and the broom",
+    "the card in the sash",
+    "the sheet and the ash"
+   ]
+  },
+  "paragraph_shape": {
+   "body_paragraphs": 317,
+   "of_which_standalone_lines_of_speech": 213,
+   "narrative_paragraphs": 104,
+   "single_sentence_narrative": 29,
+   "single_sentence_per_cent": 27.9,
+   "over_agents_md_six_sentence_ceiling": 0,
+   "counting_rule": "EVERY BODY PARAGRAPH THAT IS NEITHER THE TITLE, THE UNDATED LINE, THE ALL-CAPS PARAGRAPH NOR A STANDALONE LINE OF SPEECH, AND A STANDALONE LINE OF SPEECH IS COUNTED AND PRINTED SEPARATELY. SENTENCES COUNTED ON [.!?] FOLLOWED BY AN OPTIONAL CLOSING QUOTE OR BRACKET AND THEN A SPACE OR THE END OF LINE. THE SAME RULE AND THE SAME SCRIPT REPRODUCE THE 0079 CORRECTED FIGURE OF 217/12/205/40 OFF THE FILES OF 0975 TO 0984 EXACTLY, WHICH IS HOW IT WAS CHECKED BEFORE IT WAS USED HERE.",
+   "note": "THE FIRST DRAFT OF THE TEN CAME IN AT 41.6 PER CENT SINGLE-SENTENCE NARRATIVE AGAINST AN ALLOCATED THIRTY, AND A MECHANICAL MERGE AND SPLIT PASS TOOK IT TO 27.9. THAT PASS PUT SEVERAL NARRATIVE SENTENCES AFTER THE LINE OF SPEECH THEY WERE MEANT TO COME BEFORE, IN 0986, 0989, 0990, 0992, 0993 AND 0994, AND ALL SIX WERE FOUND BY READING AND PUT BACK BY HAND. A SCRIPT THAT MOVES A SENTENCE CAN BREAK A SENTENCE ORDER AND NO GATE IN THIS ACCOUNT LOOKS AT ORDER."
+  },
+  "rotations_and_things_a_reader_must_check_by_hand": [
+   "THE TEN CLOSINGS, ALOUD. THE ONLY MEASURE IN THIS ACCOUNT THAT SEES A REPEATED SHAPE AND IT HAS NOW CAUGHT ONE FOUR BLOCKS RUNNING.",
+   "THE TEN PROSE SCENES SIDE BY SIDE BEFORE THE ELEVENTH, WHICH IS THE ORDER 0077 BROKE AND 0078 PAID FOR.",
+   "WHETHER A CHARACTER ENTERS A ROOM, AND IN WHICH DIRECTION, WHICH A TOKEN MEASURE CANNOT SEE AND WHICH THE AUTOMATIC MERGE PASS BROKE SIX TIMES."
+  ],
+  "two_chapters_of_the_previous_block_repaired_here": {
+   "what": "0980 line 32 AND 0982 line 43 OF THE 0079 BLOCK. THE STANDING BANNED LIST HAS THE ROOT bear IN IT SINCE 0079, WHICH FORBIDS bear AND bore AND BEARINGS. 0980 READ `the parts that bear` AND 0982 READ `where the shoulder of the handle bore against the steel`. THEY WERE RE-CUT TO `where the screw runs on it` AND `where the shoulder of the handle pressed on the steel`.",
+   "why_here_and_not_left": "A CONCRETE FINDING AGAINST A STANDING RULE IS CHEAP TO FIX AND NOT FIXING IT LEAVES THE PAGE FAILING A GATE ITS OWN ACCOUNT PRINTED AT ZERO TWO BLOCKS AGO. NO PLOT, NO FIGURE, NO AGE AND NO NAME MOVED, AND NOT ONE WORD WAS ADDED OR TAKEN AWAY BEYOND THE TWO SUBSTITUTIONS.",
+   "effect_on_the_0079_figures": "0980 1545 TO 1546 AND THE BLOCK TOTAL 15619 TO 15620. EVERY OTHER FIGURE OF THAT BLOCK IS UNCHANGED."
+  },
+  "what_the_band_file_got_wrong_and_is_corrected_here": [
+   "THE ten_closing_moves_written_out_as_grammar KEY IS AN ALLOCATION. SEVEN OF THE TEN CHAPTERS DO NOT CARRY THE FORM THEY WERE ALLOCATED, AND `closing_moves_rederived` ABOVE IS WHAT THE PAGE ACTUALLY HOLDS. BOTH ARE LEFT IN PRINT, BECAUSE A FIGURE THAT DISAPPEARS IS WORSE THAN ONE THAT IS WRITTEN DOWN AS HAVING BEEN MISSED.",
+   "THE EMPTY-HANDS CLAUSE WAS CHANGED WITH THE FAMILY AND THE REASON IS IN `visitors`. FOUR OF THE TEN ARRIVALS BRING NOTHING, FOUR BRING ONE NAMED THING, AND TWO BRING ONE THAT IS THE POINT OF THE CHAPTER. NO ARRIVAL IS GIVEN A WAY OF NOT PUTTING A THING DOWN, AND NO TWO BRING THE SAME THING THE SAME WAY.",
+   "THE TEN HANDS KEY IS NOT A LIST OF GESTURES. THREE OF THE TEN HANDS DO NOTHING TO A SURFACE AT ALL, WHICH IS THE CHANGE OF FAMILY AND NOT AN ERROR."
+  ]
+ }
+}

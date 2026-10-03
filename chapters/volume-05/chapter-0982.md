@@ -33,7 +33,7 @@ Nothing gives. The tang does not move under the fingertip, and the break is not 
 
 A spade handle is driven into the tang while the tang is hot and the steel is soft, and after that it cannot be taken out without taking the steel with it. Whoever broke this one did it wrong, in that the tang went before the driving was done, and the handle came off it and went wherever it went.
 
-The scar of the driving is still in the bottom of the socket. Four small marks stand round the inside of the tang where the shoulder of the handle bore against the steel, and they are not opposite one another, which means the handle went in crooked and was driven crooked, and the tang was then bent a little off true at the same time.
+The scar of the driving is still in the bottom of the socket. Four small marks stand round the inside of the tang where the shoulder of the handle pressed on the steel, and they are not opposite one another, which means the handle went in crooked and was driven crooked, and the tang was then bent a little off true at the same time.
 
 That bend is the reason the stump leans. The lean is only a couple of degrees, but it puts the broken face of the tang over the widest part of the hollow in the wall, so that rain off the blade goes down the inside of the socket and out through the space where the metal is not. The rest of the blade is stamped on the shoulder with the maker's name and the number, and the stamping has gone soft at its edges where the steel is thinnest, and the number is the one anybody would want if anybody were minded to make another handle for it, which nobody is going to.
 ---
