@@ -31,7 +31,10 @@ The deck is laid on joists and not on a solid frame because a deck is meant to g
 ---
 
 The four joists are the ordinary softwood sawn and set into the old footings at each end, and they are pitched a sixteenth of an inch out of level because the bench was not level, which is not enough to be seen and enough to be found under a board with a cup in it. Each board is fixed to each joist with two nails about a foot apart, and the nail heads are all of them below the surface of the boards except two at the near end of the run, where a nail head has stood proud and gone rusty and would catch a cloth on the way past.
- The near end of that run is where the deck steps down into the yard. And the step there is a board on edge fixed to the joist ends, and it is the one piece of the whole thing that has been touched since it went down, because somebody caught a shoe on it last winter and put it back where it had been. 
+
+The near end of that run is where the deck steps down into the yard. And the step there is a board on edge fixed to the joist ends, and it is the one piece of the whole thing that has been touched since it went down, because somebody caught a shoe on it last winter and put it back where it had been.
+
+A nail gun sets its depth by the pressure in its own canister, and on softwood in a cold month it drives a nail about a sixteenth further than the same nail by hand in a warm one. Two of the heads on that run are proud for exactly that reason and the rest of them are not, because the man went along the whole run a second time with the canister turned down and drove every nail on it again from the same place each time.
 
 The channel at the head of the run has been the same depth of dust for a fortnight and the dust has a line of grit in it where the rain comes off the house wall and falls. The wall behind that channel is the older brick of the back of the house, and the lime between those bricks is gone hard and brittle and has begun to fall out of three joints on the lowest course.
 
@@ -49,6 +52,6 @@ Nothing at all lives in that run and not a grain of grit has got into it, becaus
 
 They stay on the kerb a while. The talk goes on to whether the woman next door has had her windows washed, and whether a man came at all or whether it was a girl from the town, and neither of them mentions the deck or the boards behind the house, and the hand was off that deck before she came off the kerb of the lane.
 
-The channel at the head of the run is six inches deep and has carried the same depth of dust for a fortnight, with a line of grit in the middle of it where the rain comes off the house wall and falls, and the four joists keep their sixteenth of an inch of slope.
+The channel at the head of the run is six inches deep and the four joists keep their sixteenth of an inch of slope, and nothing has been done to either of them since the deck went down last spring.
 
-A quarter of an inch of nothing under the middle of that board, the arris of it blunt and furry where the drying raised the fibres, and a fortnight of dust in the channel with a line of grit in the middle of it. The four joists are still under it in the same places, assuming that nobody comes out with a plane and a cold chisel and takes a shaving off that board to make it lie down again.
+A quarter of an inch of nothing under the middle of that board, a fortnight of dust in the channel behind it, and four joists still under it in the places they were put. That is what is left there, assuming that nobody comes out with a plane and a cold chisel and takes a shaving off that board to make it lie down again.

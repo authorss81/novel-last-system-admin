@@ -8,13 +8,15 @@ The store door is a boarded door in a timber frame and it was hung thirty years 
 
 At the hinge corner the gap is three inches.
 
-Along the top of the door it narrows as the leaf leans, and by the latch corner there is nothing at all between the top edge of the door and the frame, and a folded strip of paper has to be worked in there with a fingernail to find out which way round it went. At the foot the leaf has closed on the same hinge and the bottom edge is now down on the flags, which is why the door shuts hard and why nobody in this yard has swept under it in a while.
+Along the top of the door it narrows as the leaf leans, and by the latch corner the top edge of the door and the frame have nothing between them at all, and a folded strip of paper has to be worked in there with a fingernail to find out which way round it went. At the foot the leaf has closed on the same hinge and the bottom edge is now down on the flags, which is why the door shuts hard and why nobody in this yard has swept under it in a while.
 
 The door itself is four boards with two ledges across it and a total thickness of two inches. And the paint on it is the green paint of thirty years ago over an older white, and the paint is brittle everywhere it is not rubbed, and along the top edge it has lifted off the third board in flakes the size of a thumbnail and left the bare wood underneath a shade paler than the rest of the leaf.
 
 The hand is put flat and up into the gap at the hinge corner and then turned end over end inside it, so that the knuckle comes out where the palm went in and the width of the gap comes off that and not off the eye looking up into it.
 
 The gap is as deep as the frame is thick, which is three inches of sawn oak, and it is a clean rectangular hole with the head of the frame running along the top of it. In the corners of that hole the old paint has crazed off in scales and the scales have gone soft and grey, and a good deal of the dust in the frame head has gone down with them.
+
+The dust lies in the top of that head at the hinge end and not along the length of it. The door shuts at the other end, so every movement of air in thirty years has come in through these three inches and gone out again at the shut corner as a push, and a draught like that lays dust down at the end of itself and lifts it off everywhere else.
 
 Above the head of the frame is the lintel, another beam of the same oak let into the wall. And between the head of the frame and the soffit of the lintel there is a run of old lime and rubble about four inches deep that nobody has looked at since the wall was put up.
 
@@ -24,7 +26,7 @@ It is a heavier way of making a frame than a wedged lintel, and it was the ordin
 
 A butt hinge is two leaves and a knuckle and a pin, and the pin sits in a hole bored through both halves of the knuckle, and the hole is bored a sixteenth of an inch under the size of the pin, because a pin that is a tight fit in cold weather will not swing in a cold month.
 
-So the pin has always had a little play in it, and thirty years of that play has taken the inside of the knuckle into a crescent. A crescent of clearance at a knuckle is a door that comes down about a sixteenth of an inch every ten years without anything having visibly happened to it at all.
+That pin has always had a little play in it, and thirty years of that play has taken the inside of the knuckle into a crescent. A crescent of clearance at a knuckle is a door that comes down about a sixteenth of an inch every ten years without anything having visibly happened to it at all.
 
 Both leaves of each butt are still screwed to their own timber and the screws are still in. The screws are brass and turned into oak and they have rusted at their own shoulders into the paint, and none of them is loose, so all of the drop in that door is in the two knuckles and nowhere else.
 
@@ -46,4 +48,4 @@ The hand had been out of the gap and down at his side before she was at the door
 
 The office door four feet away has half an inch at its head on the same corner and a knife blade's worth of play in its top knuckle, and the two doors in this yard will go on in one another's company doing the same thing at different rates.
 
-The gap at that hinge corner stays three inches by three inches and the office door four feet away will have two inches of its own half inch in another twenty years. The head of that door is where the door is, rather than where it was.
+The gap at that hinge corner stays three inches by three inches and the office door four feet away will have twice its own half inch in another twenty years. The head of that door is where the door is, rather than where it was.

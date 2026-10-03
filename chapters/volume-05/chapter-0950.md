@@ -30,7 +30,7 @@ A stone trough weighs more than anything else that size in a yard. Set down on t
 
 Slate was used because it was there. It came off the same roof as everything else that has been rebuilt on that side of the house, and the pieces are the sizes slate gets cut into when there is a broken edge to be made do with, which is why neither of them is square.
 
-A trough is a vessel and the making of one is a piece of work in its own right, and a trough made by hand is always a compromise between a block big enough to take a pail and a block a man can lift. The hollow goes down from the top face and gets wider as it goes, because the chisel is not a machine and the man working it goes round the block in courses and leaves a taper of the man’s own making on it.
+A trough is a vessel and the making of one is a piece of work in its own right, and a trough made by hand is always a compromise between a block big enough to take a pail and a block a man can lift. The hollow goes down from the top face and gets wider as it goes, because the chisel is not a machine and the man working it goes round the block in courses and leaves a taper of the man's own making on it.
 
 That taper is the reason the underside of this trough has a flat in the middle and a slope down each side of it. The flat is the part that has been near the ground for a hundred and thirty years and the slopes are the parts that have not.
 
@@ -52,10 +52,10 @@ Her sister is standing in the mouth of the back passage with her back to the yar
 
 They stand there in the mouth of the passage a while with the yard behind them. The fingers had come down out of the run before either of them was in the passage, and the trough above that mouth of the passage has been stood on by a woman who came out to hang washing and a man who came out to look at the roof, and neither of them has ever looked underneath it.
 
-A postcard has come for the woman at number twelve and has not come for anybody else on that side of the street. And it is from a niece who writes about twice a year, and neither of them makes anything of it.
+A postcard has come for the woman at number twelve and has not come for anybody else on that side of the street. And it is from a niece who sends word about twice a year, and neither of them makes anything of it.
 
-The run under that trough is three inches deep at the middle and shut at both corners. And its floor is a band of dry flags a hundred and thirty years pale.
+Nothing has been done to that trough since the two pieces of slate went under it, and the run along the whole of its length has been open to the air of that yard and closed to the light of it ever since. The flags at the bottom of it are dry all the year and pale all the year for the same reason.
 
-The run under that trough is three inches deep at the middle and shut at both corners, and its floor is a band of dry flags a hundred and thirty years pale, and the grit under the stone ends of the trough and the snail in the corner are where they are.
+The run under that trough is three inches deep at the middle and shut at both corners, and its floor is a band of dry flags a hundred and thirty years pale.
 
-Under that trough there are three inches of dry air over a band of flags a hundred and thirty years pale, with a leaf skeleton lying flat in the middle of them and a snail in the left-hand corner, and a hand hooked over the far rim finds the dish in the stone, then three inches of air, then the flags, and the whole of that waits, pending a reason that has not come.
+Under that trough there are three inches of dry air, a leaf skeleton lying flat in the middle of the flags and a snail in the left-hand corner, and a hand hooked over the far rim finds the dish in the stone, then air, then the flags, and the whole of that waits, pending a reason that has not come.

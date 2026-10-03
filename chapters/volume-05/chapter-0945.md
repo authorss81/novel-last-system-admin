@@ -16,7 +16,7 @@ Four fingers go in as far apart as they will go. The bore is wider than they are
 
 Then the fingers close, slowly, so that the pads of all four arrive on the pipe's wall together and the width of the pipe comes off the closing of the hand instead of off the looking at it. A four-inch pipe is four inches across the inside, and four fingers spread are nearer five, and it takes a closing of about an inch before the clay comes in on the outside of the little finger.
 
-The bore is round and very slightly out of true, so that it is wider at one height than at another by a difference small enough to be the thickness of a sheet of paper and large enough to feel under the pads. It is colder in there than the wall around it, because there is nothing in it and the air in a bore goes a long way down before it takes the temperature of the earth round it.
+The bore is round and very slightly out of true, so that it is wider at one height than at another by a difference small enough to be the thickness of a sheet of paper and large enough to feel under the pads. It is colder in there than the wall around it, because nothing is in it and the air in a bore goes a long way down before it takes the temperature of the earth round it.
 
 The clay itself is brittle at the rim, where the mouth has been chipped on the outside by a barrow or a boot and the chip has been left as it came away. It crumbles at the edge of that chip under nothing more than a fingernail and has been crumbling slowly since the wall was built, which is why there is a small heap of orange grit on the brick ledge below the mouth.
 
@@ -24,7 +24,7 @@ Inside, away from the rim, the clay is not brittle at all. It is smooth and dark
 
 ---
 
-A pipe on end in a wall is bedded rather than built, and being bedded is the whole reason the section has not moved since the wall went up. The brickwork is set on the outside of it and lime is run round the outside of it, and the earth under it is beaten down before the section goes in, because a pipe set on loose ground settles into it and takes its bond with the lime along with it.
+A pipe on end in a wall is bedded rather than built, and being bedded is the whole reason the section has not moved since the wall went up. The brickwork is set on the outside of it and lime is run round the outside of it, and the earth under it is rammed down before the section goes in, because a pipe set on loose ground settles into it and takes its bond with the lime along with it.
 
 So the section does not give at all. It is not loose in the wall and it is not loose in the ground, and a hand can push at the mouth for as long as a hand is willing to push and the clay will not come towards it by so much as a nail.
 
@@ -42,7 +42,7 @@ The bond round the pipe is old lime and not cement, and it has gone hard and gon
 
 Old lime draws itself back from whatever it is set against as it goes off, and the gap it leaves is not a fault in anything. It is the reason a wall like that one can still be taken down by a man with a crowbar and nothing else.
 
-A pipe laid on end is stronger than the brickwork round it in every direction that matters. Round it, the brick has to bridge four inches and it does it. Down it, the pipe carries four inches across and a foot and more downward without noticing, and the one weakness in the whole arrangement is the rim, which stands out in the weather on one side and takes everything a wall of that height takes.
+A pipe laid on end is stronger than the brickwork round it in every direction that matters. Round it, the brick has to bridge four inches and it does it. Down it, the pipe carries four inches across and a foot and more downward without any sign of it, and the one weakness in the whole arrangement is the rim, which stands out in the weather on one side and takes everything a wall of that height takes.
 
 ---
 

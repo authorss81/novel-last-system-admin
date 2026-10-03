@@ -44,7 +44,7 @@ Of the four things that move at that gate, three of them do not move. The leaf d
 
 ---
 
-From the alley behind, the rear gate of the yard is standing open, and the woman who books work comes through it with a coil of wire over her arm, and she puts the coil down on the flags as she comes in.
+From the alley behind, the rear gate of the yard is standing open, and the woman who books work comes through it with a coil of wire in the crook of one elbow, and she puts the coil down on the flags as she comes in.
 
 She stops a few feet inside the gate and stands there. The yard goes on round both of them with nobody else in it, and the hand was out of the section and down at her side before she was through the opening.
 

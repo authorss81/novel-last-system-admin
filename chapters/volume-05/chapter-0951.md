@@ -6,7 +6,7 @@ Monday the fourth of November 2024, at the end of the beam in the bay of the loc
 
 The beam is eighteen feet long and was part of a floor at a works that closed. And it came here in three loads on a flat-bed with a man and a boy and a hired lorry, and it has stood on end in the corner of that bay since the week it arrived with its lower end on the flags.
 
-There is nowhere in that bay to put a beam of that length except on end or leaning. And it is on end because a leaning beam wants a wall to lean on and the corner has two and the open floor has none.
+A beam of that length can be put in that bay in two ways only, on end or leaning. And it is on end because a leaning beam wants a wall to lean on and the corner has two and the open floor has none.
 
 It is not propped and it is not tied. A thing of that weight stood on end at that height would go over in a night if it were anything but a beam, and a beam is the one shape of eighteen feet of steel that stands up on its own end without anything being done to it.
 
@@ -16,7 +16,7 @@ The space between the chords is fourteen inches at the middle of the depth and a
 
 Coming out and going in again with the wrist turned, the hand meets a vertical member instead, which is four inches further along. There is a clear two inches between that vertical and the chord above, and a hand goes into that space and stops in it and gets no further.
 
-Behind the web the bay is dark and then the far wall is not, and there is nothing in between them but air and the dust that is always in a bay. The lower flange of the bottom chord is pitted rather than scaled, and the pits are shallow and round and about the size of a pinhead.
+Behind the web the bay is dark and then the far wall is not, and only air and the dust that is always in a bay stands in between them. The lower flange of the bottom chord is pitted rather than scaled, and the pits are shallow and round and about the size of a pinhead.
 
 ---
 

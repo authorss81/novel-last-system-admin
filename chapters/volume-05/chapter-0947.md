@@ -10,7 +10,7 @@ The course has not been lifted or reset. Two of the slates along it sit true whe
 
 There is a line of pale grit along the flags under the outer edge where the rain comes off the slates and drops. And the grit has been swept into the corner at the left-hand end and left in a ridge all the way along the front.
 
-A slate is laid head up the slope and tail down it, and the head of it lies over the front face of the batten while the tail of the slate below hangs down behind that batten. The two do not touch, because the tail of the slate below is hung on the batten beneath and there is a finger of air between the head of one slate and the tail of the one under it, which is what lets a roof breathe.
+A slate is laid head up the slope and tail down it, and the head of it lies over the front face of the batten while the tail of the slate below hangs down behind that batten. The two do not touch, because the tail of the slate below is hung on the batten beneath and there is a finger of air between the head of one slate and the tail of the one under it, which is what lets a roof dry itself out over a winter.
 
 Two fingertips go into the opening and wring against one another, the first against the second. And the space opens along its own length rather than across it, because a slate's head lifts where the nail is loose and stays down where the nail is still in.
 
@@ -48,4 +48,4 @@ They get as far as the gate before either of them says anything, and what they s
 
 The opening along the head of that course is where it was, half an inch for six feet of it and shut at the third slate from the left. Behind it the battens are bare along the top where the wind has been at them, smooth there and not brittle anywhere.
 
-Along that low course the heads have come off their battens for six feet and shut again at the third slate, and what is behind the loose ones is sawn timber and then a foot of nothing with a wasps' nest going grey in the far corner of it and no light reaching it since the spring, granting that nobody comes back to it with a hammer in a pocket.
+Along that low course the heads have come off their battens for six feet and shut again at the third slate, and what is behind the loose ones is sawn timber and then a foot of nothing with a wasps' nest going grey in the far corner of it and a darkness in there that has not been broken since the spring, granting that nobody comes back to it with a hammer in a pocket.

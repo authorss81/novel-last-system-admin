@@ -48,4 +48,4 @@ The paper bag goes with her and the lane is empty afterwards, and where she stoo
 
 The kerb keeps its forty feet of true bed and its two feet of blunt arris and its third of an inch at the field end. The thumb finds a third of an inch of nothing, a quarter of an inch of powder, and ground under that.
 
-A third of an inch under the field end of that kerb, a wedge of washed lime powder eight inches long lying in it, and firm ground under that, and an arris at the very end chipped away to nothing where a barrow wheel caught the corner of it. That hollow is left as the water made it, despite every cart on that lane going over the end of it a hundred times a year.
+A wedge of washed lime eight inches long lying in it at the field end of that kerb, with firm ground under that and the very end of the arris gone off at the corner where a barrow wheel caught it. That hollow is left as the water made it, despite every cart on that lane going over the end of it a hundred times a year.
