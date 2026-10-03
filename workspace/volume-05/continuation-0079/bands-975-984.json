@@ -1,0 +1,597 @@
+{
+  "allocation_written_before_prose": true,
+  "block": "VOLUME 05, CONTINUATION 0079 — CHAPTERS 975–984",
+  "the_page_at_the_start_of_this_block": "780 FILES, WHICH IS 974 MINUS 195 PLUS ONE, COUNTED OFF THE FILES AT THE START OF THIS RUN",
+  "the_page_at_the_end_of_this_block": "790 FILES",
+  "calendar": {
+    "note": "§0 OF THE 0079 PROMPT IS UNRULED AND SO IS §0 OF 0078. 0964 IS MONDAY THE SIXTEENTH OF DECEMBER 2024 AND REMAINS THE LAST DATED CHAPTER ON THE PAGE. 0965 TO 0974 ARE UNDATED, SO NO FLOOR FOR 0975 CAN BE COMPUTED AND NONE IS COMPUTED HERE. ALL TEN CHAPTERS CARRY THE IDENTICAL FOUR-TOKEN LINE `Undated in this draft.` AT LINE 3, WITH THE ALL-CAPS PARAGRAPH KEPT AT LINE 5. A HUMAN RULING WITH EXPLICIT DATES, IF ONE EXISTS BY WRITING TIME, OVERRIDES THIS AND EVERY DATE IS THEN TAKEN OFF THAT RULING. NO CHAPTER IS TURNED, NO WINDOW SHORTENED, NO DATED CHAPTER MOVED AND NO DATE PUT PAST THE THIRTY-FIRST OF DECEMBER 2024.",
+    "undated_line": "Undated in this draft.",
+    "four_token_reason": "FOUR TOKENS GIVE NO TEN-TOKEN AND NO SEVEN-TOKEN SPAN BY CONSTRUCTION, WHICH IS THE POINT OF KEEPING THEM SHORT AND IDENTICAL.",
+    "human_ruling_required": [
+      "Authorise the turn of the year, cheapest ladder being floor Friday the twentieth of December 2024 giving 20 23 26 29 December then 1 4 7 10 13 January, which is the only clean one",
+      "Shorten the gap window across the turn",
+      "Restructure one block",
+      "Rule a new calendar"
+    ],
+    "rules_that_stand_when_dates_do": [
+      "three-to-six day gap",
+      "never plus seven",
+      "no chapter on the ninth or the eleventh of any month",
+      "no shared date",
+      "no two chapters in a row on one weekday",
+      "head of the range read against the ninth and the eleventh"
+    ]
+  },
+  "family": "ONE THING FOUND OUT BY THE HAND GOING INTO A SPACE NOBODY CAN SEE INTO, AND NOTHING CHANGED",
+  "family_same_as_0073_0074_0075_0076_0077_0078": "UNCHANGED AND SAID HERE BEFORE ANY PROSE. SEVENTH BLOCK RUNNING. HAND OR PART INTO UNSEEN SPACE UNDER, BEHIND, INSIDE A FOLD, BETWEEN, BORE, SLOT, CRACK, GAP, CORNER OR HOLLOW. THE CHAPTER KNOWS ONLY HOW FAR, WHAT IS AT THE FAR END, WHAT RESTS ON IT AND HOW MUCH IT GIVES. NOTHING MARKED, CUT, FASTENED, FILLED, SHIMMED, WRITTEN OR PUT RIGHT. NO SECOND HANDS. THE SECOND PERSON MAY BE ASKED A PLAIN QUESTION AND ANSWER IT, MAY SAY ONE NON-WORK THING WITH AN ANSWER BACK, MAY NOT BE TOLD ABOUT THE WORK, MAY NOT REFUSE, MAY NOT PASS IT ON, MAY NOT PUT A SECOND HAND ON ANYTHING AND MAY NOT SEE THE THING IN HAND.",
+  "cards": {
+    "975": "At number nine a cast-iron boot scraper stands in the flags of the front path and its back edge has lifted off the stone along its whole length, leaving a slot closed at both ends and along the top, and means to put one finger in behind it at the near end and draw it gently out against the stone until something stops it, and then to do the same at the far end, and to find out how far it stands off at one end against the other. Nothing lifted, no scraper turned over, no flag taken up, no slot filled, no room entered.",
+    "976": "At the lock-up a wooden cable drum lies on its cheek in the bay with the last turn of cable lying loose against the inside of one flange, and means to put the fingers in behind that loose turn and walk them right round, following the flange, to find how far the space goes and whether it is the same width all the way. Nothing unwound, no drum rolled, no turn lifted off, no room entered.",
+    "977": "At the unit a hollow clay block lies on its side on the flags by the office wall with one of its square cells clear, and means to put one finger into that cell and sweep it round the inside, side by side, until all four sides have been felt, and to find out whether the cell is square and how far it goes before it closes. Nothing lifted, no block set upright, no cell filled, no room entered.",
+    "978": "At number twelve a galvanised bath stands on its side at the shed end of the yard with one rim propped off the flags by a brick, and means to put the hand down under that propped rim until the wrist will not go any further, and to read the depth at the wrist against the outside of the bath, and to find what the rim is standing on. Nothing lifted, no brick taken out, no bath turned over, nothing put in it, no room entered.",
+    "979": "At number ten a stack of old clay pantiles leans against the shed wall with the row of their rolled heads facing out, and means to put one finger in at the open end of that row and push along from one roll to the next, lifting it a little at each, to find out whether the rolls are all the same and what is behind them. Nothing lifted, no tile drawn out of the stack, no stack knocked over, no line put right, no room entered.",
+    "980": "At the unit a smoothing plane stands on its side on the bench with its mouth open and the iron still in it, and means to put one finger in through that mouth behind the iron and press it forward along the bed until the iron stops it, and to find out how long the bed is and what lies at the far end of it. Nothing unscrewed, no iron taken out, no shaving cleared, no plane wiped, no room entered.",
+    "981": "At number twelve a fence post at the shed end of the yard has a square hole cut in it where the end of a rail once sat, and the hole has been packed with leaf litter and nothing else, and means to lay the hand flat on the top of the post and push the fingers down into that square hole until the knuckles come to lie across the post's face, and to find out how deep the hole is and what is at the bottom of it. Nothing dug, no hole filled, no rail fitted, no post moved, no room entered.",
+    "982": "At number ten a broken spade blade lies in the grass by the shed with the socket empty and the steel tang standing broken in the bottom of it, and means to put one fingertip into that empty socket and turn it against the broken steel, to find out how deep the socket is and what the break left. Nothing picked up, no tang touched, no handle fitted, no hole dug, no room entered.",
+    "983": "At number nine a small wooden shelf is fixed to the side wall beside the side path on two cleats, and the near cleat has come away from the brick so that the shelf stands a quarter of an inch off the wall and leaves a slot closed at either end by the two cleats, and dust off the roof has packed that slot full; and means to press the pad of one thumb up into that packing until the pad takes the shape of what is packed there, and to find out how deep the packing lies and what is on the brick at the back of it. Nothing unscrewed, no shelf taken down, no cleat refixed, no slot emptied, no room entered.",
+    "984": "At the lock-up two steel road plates lie one on the other in the bay, the lower one with its edge turned up, and means to press one fingertip down into the shallow hollow that is closed between that turned edge and the face of the plate above, first at the near end and then at the far end, and to find out whether the hollow is the same depth at both. Nothing lifted, no plate turned over, no hollow packed, no room entered."
+  },
+  "cards_checked_one_by_one": "TEN CARDS. EACH IS A SPACE NOBODY CAN SEE INTO. EACH IS REACHED FROM THE GROUND OR FROM ORDINARY STANDING HEIGHT. NONE IS A ROOF LOFT OR A MANHOLE OR A CHAMBER; THE DRAIN FRAME AT THE LOCK-UP IS A FRAME ON A PIPE AND IS NOT USED. NO CARD TAKES UP A THING THE STANDING AT 0974 PUTS AS UNTOUCHED: LOCK-UP APRONS FOOTINGS BOLTS POURS, UNIT DOORS DUST FANS, TEN BRICK ROWS BANKS GRIT BEDS FORKS, NINE RAILS POSTS SCREWS BEDS, TWELVE TROUGH DIPS SOOT SLATERS SCREWS TIES. NO CARD ENDS ON ANYBODY DISCOVERING ANYTHING ABOUT ANYBODY. NO SECOND HANDS. NOTHING MARKED, CUT, FASTENED, FILLED, SHIMMED, WRITTEN OR PUT RIGHT. NO CEMENT MORTAR OR NEW CONCRETE. NO WATER BUTT AND NO STONE TROUGH. NO BEDDING PACKING OR LAYING. WHERE A THING HAS BEEN BEDDED OR SET IN LIME IT IS NAMED AS OLD AND ALREADY GONE HARD.",
+  "bands": {
+    "assignment": {
+      "975": "nine, the woman in her late fifties alone",
+      "976": "lock-up, the woman in her late forties who books work",
+      "977": "unit, the man in his early forties",
+      "978": "twelve, the woman of seventy-eight",
+      "979": "ten, the woman in her early thirties with a sister",
+      "980": "unit, the man in his early forties",
+      "981": "twelve, the woman of seventy-eight",
+      "982": "ten, the woman in her early thirties with a sister",
+      "983": "nine, the woman in her late fifties alone",
+      "984": "lock-up, the woman in her late forties who books work"
+    },
+    "counts": {
+      "lock-up": 2,
+      "nine": 2,
+      "ten": 2,
+      "twelve": 2,
+      "unit": 2
+    },
+    "no_three_in_a_row": true,
+    "rotation": [
+      "nine",
+      "lock-up",
+      "unit",
+      "twelve",
+      "ten",
+      "unit",
+      "twelve",
+      "ten",
+      "nine",
+      "lock-up"
+    ]
+  },
+  "band_figure_rule": "FIVE STANDING FIGURES, TWELVE THE WOMAN OF SEVENTY-EIGHT WITH A SISTER, NINE THE WOMAN IN HER LATE FIFTIES ALONE, TEN THE WOMAN IN HER EARLY THIRTIES WITH A SISTER, THE LOCK-UP THE WOMAN IN HER LATE FORTIES WITH HER BOOKS, THE UNIT THE MAN IN HIS EARLY FORTIES. EACH EXACTLY TWO OF TEN. THE ROSTER IS TIED TO PLACE AND IS NOT CHANGED FOR THE ROTATION.",
+  "visitor_ceiling": "AT MOST FOUR NEW UNAGED FIGURES IN TEN AND THIS BLOCK USES ZERO, WHICH IS THE ELEVENTH BLOCK RUNNING.",
+  "rotation_proof_against_eight_prior_rows_written_again_not_inherited": {
+    "method": "Enumerated all 113400 distinct rows that put each of the five bands exactly twice, from nothing. Each row scored by multiset intersection of its nine ordered adjacent pairs against each of the eight prior rows, summed over bands; the quantity reported for a row is the maximum of those eight sums. Re-runnable; script and prior rows are printed here in full so any writer can check the arithmetic without trusting either account.",
+    "note_on_the_three_in_a_row_rule": "MEASURED, NOT ASSUMED. WITH EACH BAND EXACTLY TWICE, NO RUN OF THREE CAN EXIST, SO THE NO-THREE-IN-A-ROW RULE IS VACUOUS UNDER THE EXACTLY-TWICE RULE AND ALL 113400 ROWS ARE LEGAL. THIS IS WHY 0078 ALSO FOUND 113400 LEGAL ROWS.",
+    "priors": [
+      "0071 twelve nine unit ten lock-up twelve lock-up ten unit nine",
+      "0072 ten twelve nine lock-up unit ten unit lock-up twelve nine",
+      "0073 twelve ten lock-up nine unit twelve unit nine lock-up ten",
+      "0074 twelve ten twelve nine lock-up ten unit lock-up nine unit",
+      "0075 twelve unit lock-up ten nine ten nine twelve unit lock-up",
+      "0076 nine ten twelve lock-up unit twelve lock-up unit nine ten",
+      "0077 lock-up unit ten nine twelve ten nine twelve lock-up unit",
+      "0078 nine twelve unit ten lock-up twelve unit ten lock-up nine"
+    ],
+    "priors_read_off_the_band_files_and_not_off_a_prompt": "0071 TO 0074 READ FROM THE bands.assignment keys OF THEIR OWN FILES AND 0074 FROM ITS rotation_in_chapter_order STRING, 0075 0076 0078 FROM THEIR rotation KEYS, 0077 FROM ITS bands.assignment KEY. AGREE WITH THE PROMPT.",
+    "zero_unsatisfiable_proof": "Five bands form 25 ordered adjacent pairs. The union of the pairs used by the eight priors is 20 of 25, measured off the rows. The five never used are lock-up-lock-up, nine-nine, ten-ten, twelve-twelve and unit-unit, that is the five same-band pairs. A row sharing no pair with all eight would need a same-band pair at every one of its nine joints, which makes the whole row one band, which is not legal. Strict zero is unsatisfiable and that part of 0076, 0077 and 0078 stands.",
+    "distribution_of_max_overlap_against_all_eight": "2 on 37 rows; 3 on 4132; 4 on 33269; 5 on 49339; 6 on 21669; 7 on 4392; 8 on 536; 9 on 26. Sums to 113400. Minimum is two.",
+    "minimum_rows_and_their_shape": "37 rows attain two. ALL 37 CARRY A SAME-BAND JOINT. Among the 39480 rows with no same-band joint the minimum is three, on 50 rows. Among the 39360 on the shape this block holds, no same-band joint and not a doubled five-cycle, the minimum is three, on 33 rows.",
+    "row_taken": "nine lock-up unit twelve ten unit twelve ten nine lock-up",
+    "per_prior_overlap": {
+      "0071": 1,
+      "0072": 3,
+      "0073": 3,
+      "0074": 3,
+      "0075": 1,
+      "0076": 2,
+      "0077": 3,
+      "0078": 0,
+      "sum": 16,
+      "max": 3
+    },
+    "shared_pairs_named": {
+      "0071": [
+        "ten-unit"
+      ],
+      "0072": [
+        "lock-up-unit",
+        "nine-lock-up",
+        "ten-unit"
+      ],
+      "0073": [
+        "nine-lock-up",
+        "twelve-ten",
+        "unit-twelve"
+      ],
+      "0074": [
+        "nine-lock-up",
+        "ten-unit",
+        "twelve-ten"
+      ],
+      "0075": [
+        "ten-nine"
+      ],
+      "0076": [
+        "lock-up-unit",
+        "unit-twelve"
+      ],
+      "0077": [
+        "lock-up-unit",
+        "ten-nine",
+        "twelve-ten"
+      ],
+      "0078": []
+    },
+    "shape_checks": "Each band exactly twice. No same-band joint. Not a doubled five-cycle, first five nine lock-up unit twelve ten against last five unit twelve ten nine lock-up. Repeats none of the eight prior rows. Overlap-sum 16 is the lowest of any row on the held shape that attains the held-shape minimum of three.",
+    "recorded_as": "Strict zero unsatisfiable; overall minimum two, attained only on rows carrying a same-band joint; best under the shape held since 0075 is three, attained. A human may rule the rotation rule."
+  },
+  "declared_ordinary_word": {
+    "word": "DAMP",
+    "sense": "HOW MUCH MOISTURE A MATERIAL HOLDS AT ITS SURFACE AGAINST THE SIDE OF A FINGER OR A THUMB. ONE SENSE ONLY. FOR TIMBER STONE BRICK CLAY METAL LIME LEATHER AND WOOL AND FOR NO OTHER SENSE.",
+    "why_this_word": "NOT DUST 0066 NOT EDGE 0067 NOT GRAIN 0068 NOT WEAR 0069 NOT GIVE 0070 NOT SOUND 0071 NOT FIRM 0072 NOT FLAT 0073 NOT ROUGH 0074 NOT SLICK 0075 NOT BLUNT 0076 NOT BRITTLE 0077 NOT STIFF 0078 NOT COLD 0079 IS THE NEXT AND IT MEASURES A PROPERTY NOBODY HAS MEASURED YET. IT IS A NEIGHBOUR OF COLD AND NOT A SYNONYM OF IT.",
+    "density": "AT NO MORE THAN ABOUT ONE USE IN EVERY HUNDRED WORDS, NEVER TWO IN ONE SENTENCE, A DIFFERENT MATERIAL BEHIND EACH ONE, BARE WORD ONLY, COMPARATIVE AT ZERO. MUST RUN IN ALL TEN.",
+    "materials_allocated_per_use_before_prose": {
+      "975": [
+        "cast iron",
+        "cast stone"
+      ],
+      "976": [
+        "oak drum flange",
+        "rubber-sheathed cable"
+      ],
+      "977": [
+        "fired clay",
+        "bay concrete"
+      ],
+      "978": [
+        "zinc-coated steel",
+        "old brick",
+        "sandstone kerb"
+      ],
+      "979": [
+        "clay pantile",
+        "shed render"
+      ],
+      "980": [
+        "cast plane body",
+        "beech sole",
+        "boxwood wedge"
+      ],
+      "981": [
+        "oak post",
+        "softwood rail"
+      ],
+      "982": [
+        "cast steel tang",
+        "shed timber"
+      ],
+      "983": [
+        "shelf softwood",
+        "old brick"
+      ],
+      "984": [
+        "steel plate",
+        "bay oil film"
+      ]
+    }
+  },
+  "titles": {
+    "975": "Where The Scraper Stands Off",
+    "976": "Round The Drum Flange",
+    "977": "Inside One Clay Cell",
+    "978": "Under The Propped Rim",
+    "979": "Along The Pantile Row",
+    "980": "Behind The Plane Iron",
+    "981": "Into The Empty Mortice",
+    "982": "Where The Handle Broke",
+    "983": "Behind The Cleats",
+    "984": "Down Into The Plate Hollow"
+  },
+  "three_word_tags": {
+    "975": "scraper slot iron",
+    "976": "drum flange cable",
+    "977": "block cell core",
+    "978": "bath rim steel",
+    "979": "pantile roll clay",
+    "980": "plane mouth blade",
+    "981": "post mortice oak",
+    "982": "spade socket tang",
+    "983": "shelf cleat dust",
+    "984": "plate hollow oil",
+    "note": "TEN TAGS WITH TEN DIFFERENT THIRD WORDS, IRON CABLE CORE STEEL CLAY BLADE OAK TANG HOLE OIL. NONE MATCHES A TAG IN 925 TO 974. NONE IS A JOB FINISHED. NONE CARRIES A BANNED WORD."
+  },
+  "closing_images": {
+    "975": "slot behind a cast-iron boot scraper standing off the flags",
+    "976": "loose turn of cable against the inside of a drum flange",
+    "977": "square cell of a hollow clay block lying on its side",
+    "978": "wedge-shaped hollow under the propped rim of a galvanised bath",
+    "979": "row of rolled heads along a stack of clay pantiles",
+    "980": "mouth of a smoothing plane with the iron still in it",
+    "981": "square hole in a fence post where a rail end dropped out",
+    "982": "empty socket in the blade of a broken spade",
+    "983": "dust packed in the slot behind a shelf that has stood off the wall",
+    "984": "shallow hollow between two stacked steel road plates"
+  },
+  "ten_closing_moves_written_out_as_grammar": {
+    "975": "a main clause closed by an absolute participial phrase, the phrase in final position",
+    "976": "a main clause opened by an existential THERE",
+    "977": "a main clause containing a relative clause, the sentence closing on the relative",
+    "978": "a main clause with a modal verb in final position",
+    "979": "two main clauses coordinated by YET",
+    "980": "a passive main clause with the agent left unsaid",
+    "981": "a main clause with an -ing clause in final position",
+    "982": "a main clause closed by a comparative clause with MORE THAN",
+    "983": "a main clause opened by an adverbial of time in front position",
+    "984": "a main clause with a negated verb"
+  },
+  "ten_closing_shapes_written_out_as_grammar_and_not_as_labels": {
+    "975": "subject is the slot and verb says what it is like, closed by what the iron goes on doing",
+    "976": "subject is the turn and verb says what lies round it",
+    "977": "subject is the block and verb says what the cell is, closed on the far side of it",
+    "978": "subject is the rim and verb says what will take the weight of it",
+    "979": "subject is the row and verb says what it does in weather, coordinated with what does not move",
+    "980": "subject is the bed and verb says what is stopped by the iron, agent unsaid",
+    "981": "subject is the hole and verb says what is at the bottom of it",
+    "982": "subject is the break and verb says what is left above it",
+    "983": "subject is the rust and verb says where it stops",
+    "984": "subject is the hollow and verb says what it will take, negated"
+  },
+  "ends_on_a_thing_left_where_it_is": "TEN OF TEN. NO CLOSING IS A JOB FINISHED, A THING PUT BACK, A TOOL STOWED, A PAIR OF VIEWS GIVEN IN ONE SENTENCE, A DATELINE CLOSER, A TIME ITS OWN DATELINE HAS USED, OR A DISCOVERY ABOUT A PERSON.",
+  "ten_stems": {
+    "975": "one finger put in behind the scraper at each end in turn and drawn back against the flags",
+    "976": "fingers walked right round behind a loose turn against a drum flange",
+    "977": "one finger swept round the inside of a square cell, side by side",
+    "978": "hand pushed down under a propped rim until the wrist stopped it",
+    "979": "one finger pushed in at the open end of a row of rolls and lifted from one to the next",
+    "980": "one finger pressed forward behind a plane iron along the bed until the iron stopped it",
+    "981": "hand laid flat on a post with the fingers pushed down into a square hole until the knuckles came to the face",
+    "982": "fingertip turned against broken steel at the bottom of an empty spade socket",
+    "983": "pad of one thumb pressed up into the packing behind a shelf until it took the shape of what was there",
+    "984": "one fingertip pressed down into a hollow between two plates at the near end and then at the far end"
+  },
+  "one_sentence_of_difference_for_each_new_gesture": {
+    "975": "Nothing spent draws a finger OUTWARD against a floor; 0896 turned fingers in holes and 0914 pinched along a crease, and this one pushes in at one end and pulls back at both, so the answer is a difference between two places and not a depth.",
+    "976": "Nothing spent goes round a whole circle behind something; 0897 walked the fingers along one edge and 0930 ran a thumb round one curve, and this one turns a full turn inside a round space.",
+    "977": "Nothing spent works the inside of a square; every swept joint to date has been a line or a circle, and this one puts the same finger against four flat sides in turn and finds whether they are the same.",
+    "978": "Nothing spent uses the wrist as the measure; 0890 used two hands and 0964 used thumb and fingers along two walls, and this one stops where the skin at the wrist will not pass and reads the depth there.",
+    "979": "Nothing spent travels along a row of repeated openings; 0890 went from one end of one gap towards another and 0955 let fingers go one at a time, and this one goes in at the open end and lifts from one small space into the next.",
+    "980": "Nothing spent was stopped by a blade inside a tool; the tool families have been pipes bars and bores, and this one is a cutter with an iron in it and the finger is stopped by the iron rather than by wood.",
+    "981": "Nothing spent read a depth at the knuckles; 0919 drove knuckles edge-first into a joint and 0904 ran them down inside a narrow opening, and this one puts the whole hand flat on the timber and lets the knuckles come to rest on its face.",
+    "982": "Nothing spent was turned about against a break in metal; the closest is 0944 and 0961, both of which push and wait for a side to arrive, and this one turns the tip against a broken edge to read what the break left.",
+    "983": "Nothing spent takes an impression; no card in 855 to 974 presses a soft part of the hand into a place and lets it take the shape of what is inside, and this one reads a packed slot from below by the shape the pad comes back with.",
+    "984": "Nothing spent compared two ends of one hollow in one place; 0872 walked two ends of a length even with a boot, and this one presses at the near end and at the far end of a hollow and does not compare lengths at all."
+  },
+  "one_hundred_twenty_gestures_spent_before_this_block_and_still_banned_as_stands": "0067 ten, 0070 two extras, 0071 to 0078 eighty. READABLE OUT OF THE bands JSON KEYS ten_stems, stems or gestures IN workspace/volume-05/continuation-0067/ THROUGH continuation-0078/. NOT ONE OF THE TEN ABOVE IS A VARIANT OF ANY OF THEM.",
+  "door_meetings": {
+    "975": "the woman who does her shopping standing in the four-foot gap between the front path and the boundary wall at number nine, having come the last of the way along the wall, with the path on one side and the wall on the other and nothing in her hands",
+    "976": "the woman who books work out on the bay apron at the lock-up from the office door, walking to where the shutter begins and stopping with the drum ahead of her and nothing in her hands",
+    "977": "the woman from two doors down at the corner where the office wall returns into the gate post at the unit, coming in from the gate with the post at one shoulder and the wall at the other and nothing in her hands",
+    "978": "her sister standing under the eaves of the coal shed at number twelve at the drip line, from the yard, where the flags are dry and a yard to either side of her are not, with nothing in her hands",
+    "979": "her sister in the alley between the shed and the boundary wall at number ten, coming from the back step with the wall at her shoulder and the shed at her back and nothing in her hands",
+    "980": "the woman from two doors down at the gate end of the covered way at the unit, where the flags stop and the concrete begins, standing on the concrete with the way behind her and nothing in her hands",
+    "981": "her sister outside the yard gate at number twelve taken from the lane side, with the gate shut and the five bars between her and the yard and nothing in her hands",
+    "982": "her sister standing in the gap where one leaf of the ten gate hangs by its top hinge only, with the fence on one side of the gap and the loose leaf lying in the grass on the other and nothing in her hands",
+    "983": "the woman who does her shopping at the side gate of number nine standing in the gateway with the gate leaf open back against the wall and the side path ahead of her and nothing in her hands",
+    "984": "the woman who books work at the head of the site steps at the lock-up with the steps behind her and the plates ahead of her and nothing in her hands"
+  },
+  "ten_places_all_different_from_each_other_and_from_855_to_974": "GAP BETWEEN PATH AND BOUNDARY WALL AT NINE. BAY APRON AT THE LOCK-UP. CORNER OF OFFICE WALL AND GATE POST AT THE UNIT. DRIP LINE UNDER THE COAL SHED EAVES AT TWELVE. ALLEY BETWEEN SHED AND BOUNDARY WALL AT TEN. GATE END OF THE COVERED WAY AT THE UNIT. LANE SIDE OF THE YARD GATE AT TWELVE. GAP UNDER A HINGED GATE LEAF AT TEN. SIDE GATEWAY AT NINE. HEAD OF THE SITE STEPS AT THE LOCK-UP. COMPARED ON PLACE, APPROACH AND PROP AND NOT ON THE LABEL AGAINST EVERY door_meetings ENTRY IN continuation-0067/ THROUGH continuation-0078/; NONE MATCHES ON ALL THREE. THE COVERED WAY AT THE UNIT IS THE NEAREST REPEAT AND THE PLACE IS A DIFFERENT END OF IT AND THE APPROACH IS ALONG IT FROM THE STREET RATHER THAN OUT OF IT.",
+  "every_pair_differs_in_both_door_and_manner": "NINE 975 IN A GAP INSIDE THE GARDEN, 983 IN A GATEWAY ON THE SIDE. LOCK-UP 976 OUT ON THE BAY APRON WALKING OUTWARD FROM THE OFFICE DOOR, 984 AT THE HEAD OF THE STEPS WITH THE STEPS BEHIND. UNIT 977 AT A WALL AND POST CORNER COMING IN FROM THE GATE, 980 AT A CHANGE OF SURFACE ON THE WAY WITH THE WAY BEHIND. TWELVE 978 UNDER AN EAVE FROM THE YARD, 981 OUTSIDE A SHUT GATE FROM THE LANE. TEN 979 IN AN ALLEY FROM THE BACK STEP, 982 IN A GATE GAP FROM THE FRONT PATH. FIVE PAIRS, TEN PLACES, TEN APPROACHES.",
+  "visitors": {
+    "list": "975 THE WOMAN WHO DOES HER SHOPPING. 976 THE WOMAN WHO BOOKS WORK. 977 THE WOMAN FROM TWO DOORS DOWN. 978 THE SISTER AT TWELVE. 979 THE SISTER AT TEN. 980 THE WOMAN FROM TWO DOORS DOWN. 981 THE SISTER AT TWELVE. 982 THE SISTER AT TEN. 983 THE WOMAN WHO DOES HER SHOPPING. 984 THE WOMAN WHO BOOKS WORK.",
+    "at_least_six_with_nothing": "TEN OF TEN ARRIVE WITH NOTHING IN THEIR HANDS, WHICH SATISFIES THE SIX, AND NO ARRIVAL IS GIVEN A WAY OF NOT PUTTING A THING DOWN BECAUSE NO ARRIVAL IS GIVEN A THING.",
+    "no_latch_and_no_heel_and_no_bars": "NO HAND ON A LATCH, NO HEEL AGAINST ANYTHING, NO HAND THROUGH BARS AND NO HAND ON A BAR. THE ONLY BAR IN THE BLOCK IS A TREE BAR AT TWELVE AND NOBODY PUTS A HAND ON IT."
+  },
+  "ten_hand_out_beats_in_ten_different_grammars": {
+    "975": "the hand goes out palm up for balance on the kerb and comes back with nothing on it",
+    "976": "the hand comes off the shutter rail and drops to the side before it is anywhere near the other one",
+    "977": "the hand lifts in front of the chest and goes into the cuff of the other sleeve",
+    "978": "the hand goes up towards the shed door for the latch and stops a good inch short of it",
+    "979": "the hand goes out for the weight of a washing line in the wind that turns out not to need it",
+    "980": "the hand opens on the concrete as if for something and closes again on nothing",
+    "981": "the hand goes towards the gate to push it and is put in the coat pocket instead",
+    "982": "the hand goes down towards the loose gate leaf in the grass and comes back up empty",
+    "983": "the hand stays out palm down and empty until the other one has gone through, and then drops",
+    "984": "the hand goes to the rail and closes on the rail and on nothing else"
+  },
+  "speech_plan": {
+    "quoted": "976 FOUR SEGMENTS IN TWO EXCHANGES ON A BUS TIMETABLE AND ON A SHOP KEEPING LATER. 978 FOUR SEGMENTS IN TWO EXCHANGES ON A RADIO SERIAL AND ON A CAT. 982 FOUR SEGMENTS IN TWO EXCHANGES ON POTATOES AND ON A RETURN TICKET.",
+    "indirect": "975 ON WHETHER THE POST STILL COMES TWICE A DAY. 980 ON A ROAD CLOSURE AND ON WHAT TIME THE BINS GO OUT. 983 ON A JUMBLE TABLE IN THE CHURCH HALL.",
+    "silent_visitor": "977, 979, 981, 984.",
+    "note": "EVERY EXCHANGE IS ABOUT SOMETHING THAT IS NOT THE WORK. NO LINE IN ANY OF THE TEN ABOUT SCRAPER DRUM FLANGE CLAY CELL BATH RIM PANTILE PLANE MORTICE POST SPADE BLADE SPEAR RUST PLATE ROAD IRON TIMBER SLOT GAP OR HOLLOW. NO LINE ABOUT SHEET KERB GATE STACK GUTTER STEP PIPE FOLD CHANNEL ANGLE PAVING BOARD BENCH COIL BORE STONE GROOVE FLAG WASHER FLINT. NO NUMBERS SPOKEN AT ALL.",
+    "said": "ZERO PLANNED ACROSS ALL TEN, WHICH IS THE FOURTH BLOCK RUNNING AT ZERO."
+  },
+  "scene_breaks_allocated_before_any_prose": {
+    "cap": "two in any chapter",
+    "not_the_same_number_in_every_chapter": true,
+    "per_chapter": [
+      2,
+      1,
+      2,
+      1,
+      2,
+      1,
+      1,
+      2,
+      1,
+      2
+    ],
+    "total": 15,
+    "note": "A DIFFERENT SEQUENCE FROM THE ONE 0078 ALLOCATED AND THE SAME TOTAL."
+  },
+  "paragraph_shape_allocated_before_any_prose": "BETWEEN THREE AND FIVE SENTENCES IN A BODY PARAGRAPH, ONE-LINE PARAGRAPHS ONLY FOR A STANDALONE LINE OF SPEECH, AND NO BODY PARAGRAPH OVER THE SIX-SENTENCE CEILING IN AGENTS.md. SINGLE-SENTENCE BODY PARAGRAPHS KEPT UNDER A THIRD OF THE WHOLE BLOCK, WHICH IS WHAT 0073 TO 0078 EACH CAME IN AT AND IS THE ONE SHAPE CEILING THOSE FOUR REVIEWS SET.",
+  "allcaps_line": 5,
+  "allcaps_rule": "ONE PER CHAPTER IN ASTERISKS AT LINE 5, NAMING THE CONDITION OF A THING AND THE ARRANGEMENT OF THE HAND, CARRYING NEITHER THE CLOSING IMAGE NOR THE FAMILY IN OWN WORDS, NOR THE UNDATED LINE WORDING NOR THE BODY HAND-ARRANGEMENT WORDING, AND NEVER THE WORDS NOTHING CHANGED.",
+  "allcaps_texts": {
+    "975": "**A BOOT SCRAPER IN THE FLAGS OF THE FRONT PATH HAS LIFTED ITS BACK EDGE OFF THE STONE ALONG ITS WHOLE LENGTH.**",
+    "976": "**A CABLE DRUM LYING ON ITS CHEEK HAS ITS LAST TURN OF CABLE LOOSE AGAINST THE INSIDE OF ONE FLANGE.**",
+    "977": "**A HOLLOW CLAY BLOCK ON ITS SIDE BY THE OFFICE WALL HAS ONE OF ITS FOUR CORNERS OPEN TO THE AIR.**",
+    "978": "**A GALVANISED BATH ON ITS SIDE AT THE SHED END STANDS ON ITS RIM WITH ONE BRICK UNDER IT.**",
+    "979": "**A STACK OF OLD CLAY PANTILES STANDS ON END AGAINST THE SHED WALL WITH ITS ROLLED HEADS FACING OUT.**",
+    "980": "**A SMOOTHING PLANE ON ITS SIDE ON THE BENCH HAS ITS MOUTH OPEN AND THE IRON STILL IN IT.**",
+    "981": "**A FENCE POST AT THE SHED END HAS A SQUARE HOLE IN IT WITH LEAF LITTER PACKED IN AND NOTHING ELSE.**",
+    "982": "**A BROKEN SPADE BLADE LIES IN THE GRASS WITH THE SOCKET EMPTY AND THE STEEL TANG BROKEN IN THE BOTTOM OF IT.**",
+    "983": "**A SMALL SHELF ON TWO CLEATS FIXED TO THE SIDE WALL AT NUMBER NINE STANDS OFF THE BRICK BEHIND IT WITH DUST PACKED IN THE SLOT.**",
+    "984": "**TWO STEEL ROAD PLATES LIE ONE ON THE OTHER IN THE BAY WITH THE LOWER EDGE TURNED UP.**"
+  },
+  "banned_45": "hold holds held holding claim claims counter counters seal seals seam seams term terms notice notices lens margin system panel permission bearer lattice civicore goal resistance change beat changes changed changing goals beats household threshold encounter determine noticed exchange steady plain counted breathed wrote nodded watched",
+  "banned_45_run_before_prose": "RUN AGAINST CARDS TAGS CLOSING IMAGES DOOR MEETINGS HAND-OUT BEATS STEMS AND ALL-CAPS TEXTS BEFORE THE FIRST CHAPTER IS DRAFTED, WITH WORD BOUNDARIES, AND WITH EVERY STEM EXPANDED TO +s, +es, +ed, +ers AND +ings FIRST. A FIGURE PRINTED AT ZERO ON A LIST OF SINGULARS IS NOT A SWEEP AND THE EXPANSION IS DONE BEFORE THE MEASURE AND NOT AFTER IT. STRIP IS ALLOWED AND SEAL IS NOT. RESULT AND METHOD BELOW.",
+  "skeletons_watched": "there is no, it is not a, and that is, that is the whole of — MEASURED AS TOKEN SEQUENCES AT WORD BOUNDARIES AND NOT AS SUBSTRINGS, BECAUSE A SUBSTRING TEST ON and that is READS A HIT OFF THE WORD sand AND THAT IS A FALSE POSITIVE AND NOT A SKELETON.",
+  "numerals": "CHAPTER NUMBER ONLY, AND NO YEAR, WHILE THE LINES ARE UNDATED BY §0.",
+  "no_names": "NO HUMAN PERSONAL NAME ANYWHERE.",
+  "anti_tick": [
+    "NO CHAPTER ENDS ON A JOB FINISHED AND NONE ENDS ON THE THING IN HAND BEING PUT BACK",
+    "SECOND PERSON SHOWN AND NOT TOLD ABOUT WORK, NO REFUSAL, NO PASSING ON, NO SECOND HANDS FROM THEM, NO SEEING THE THING IN HAND",
+    "A FIGURE THE CHAPTER SETS MUST CLOSE, SINGLE-PLACE COUNTS ONLY",
+    "NO WATER DRAWN, CARRIED, POURED OR EMPTIED. ONLY RAIN, DEW AND ROOF WATER. THE BATH AT TWELVE STANDS EMPTY AND IS NOT A VESSEL ANYTHING IS DRAWN FROM",
+    "A WATER BUTT OR A STONE TROUGH IS A VESSEL AND NOTHING IN IT MAY BE DRAWN, AND NEITHER APPEARS IN THIS BLOCK",
+    "NO CEMENT, MORTAR OR NEW CONCRETE ANYWHERE. OLD LIME AND OLD MORTAR NAMED AS OLD AND ALREADY GONE HARD. WHERE A BED HAS WASHED OUT IT IS SAID SO, AND 979 SAYS SO OF THE FOOT OF THE PANTAILE STACK",
+    "HE, HIM AND HIS AT ZERO IN ALL TEN INCLUDING BOTH UNIT CHAPTERS",
+    "NO ROOM ENTERED",
+    "A CHAPTER MAY NOT NAME AN OBJECT THAT BELONGS TO A DIFFERENT CHAPTER OF THIS BLOCK. THE TEN CARD OBJECTS AND THE TEN VISITOR PLACES SHARE NO OBJECT",
+    "NO MASK FOR A WOMAN STANDING NEXT TO A MAN. MEASURE THE PROSE AND RECORD THE NUMBER, NEVER THE NUMBER FIRST",
+    "NO THRESHOLD ANYWHERE, THE WORD IS ON THE BANNED FORTY-FIVE",
+    "NO MOSS, NO LICHEN, NO FROST, REPEATING 0075 0076 0077 0078, DECIDED HERE BEFORE PROSE",
+    "APRIL NOT PAGE. LATCH HOOKED. STAPLE NOT DONE. SPANNER NOT PICKED NOR NAMED AS ABOUT TO BE USED. OVAL HOLES NOT FILLED OR PLUGGED. PLY NEITHER TOUCHED NOR NAILED. NO BEDDING, PACKING OR LAYING OF ANYTHING. NO BOX, NO DRAWER, NO LID. COAL NOT OPENED. REPORT NOT CHASED. ENVELOPE NOT TURNED. BOWL ON SHELF AND RING ON TILES. NO FREEHOLDER. NO LADDER OPENED, USED OR NAMED AS ABOUT TO BE WANTED. NO ROOF LOFT AND NO MANHOLE AS A PLACE",
+    "NO CLOSED CLOCK AND NO DAY TALLY",
+    "NO USE OF A NUMBER IN WORDS THAT IS A CLOSED FIGURE ELSEWHERE, TO WITCH ELEVEN, FORTY MINUTES, ELEVEN THOUSAND TWO HUNDRED AND EIGHTY POUNDS, IN ABOUT FOUR YEARS, NINE HUNDRED AND FORTY, NINE HUNDRED AND EIGHTY-SIX AND FOURTEEN"
+  ],
+  "closed_figures_not_to_be_printed_again": "eleven in any sense · about eleven seconds · a room eleven feet by nine · about eleven people a day · eleven years · eleven days · eleven words · eleven rows · eleven extracts · eleven o'clock · the eleven standing refusals · the eleventh time · forty for any duration except forty-one and forty-two minutes as a bus journey and forty hours as the gate being open · in about four years · four years at all · a level of service once a batch at most · nine hundred and forty · nine hundred and eighty-six · fourteen as a difference between two public numbers",
+  "measured_before_prose": {
+    "four_lists_against_each_other": "THE FOUR LISTS ARE THE TEN UNDATED LINES, THE TEN STEMS, THE TEN CLOSING IMAGES AND THE TEN HAND-ARRANGEMENT DESCRIPTIONS. MEASURED AS TOKEN RUNS ACROSS EVERY PAIR OF ITEMS AND ACROSS ALL FOUR LISTS TOGETHER AT TEN TOKENS AND AGAIN AT SEVEN. BOTH ZERO BEFORE ANY CHAPTER WAS DRAFTED.",
+    "banned_45_with_stems_expanded": "RUN WITH EVERY STEM EXPANDED TO +s, +es, +ed, +ers AND +ings BEFORE MEASURING, AGAINST CARDS TAGS CLOSING IMAGES DOOR MEETINGS HAND-OUT BEATS STEMS AND ALL-CAPS TEXTS. THE FIRST RUN FOUND TWO REAL SLIPS IN THIS BLOCK'S OWN PRE-PROSE TEXT, WHICH IS THE POINT OF RUNNING IT HERE: HOLD in the tenth hand-out beat, now CLOSES ON, and PANEL in the 983 card, now RUN. RECUT AND RE-RUN AT ZERO. A FIGURE PRINTED AT ZERO ON A LIST OF SINGULARS IS NOT A SWEEP AND THE EXPANSION IS DONE BEFORE THE MEASURE AND NOT AFTER IT.",
+    "skeletons": "Four at zero as token sequences at word boundaries.",
+    "not_a_figure_unless_rerunnable": "EVERY FIGURE IN THIS KEY IS GIVEN WITH ITS METHOD ON THE SAME LINE."
+  },
+  "one_thing_a_writer_of_0985_should_know": "THE TEN GESTURES WERE ALLOCATED TO TEN SPACES BEFORE ANY PROSE EXISTED AND NONE OF THEM IS A VARIANT OF THE HUNDRED AND TWENTY SPENT, WHICH IS THE RULE THAT 0077 BROKE AND 0078 PAID FOR. THE MEASURE THAT CATCHES A VARIANT IS NOT THE STRING MEASURE, WHICH READ ZERO WHILE THE SAME BEAT RAN, BUT SIDE-BY-SIDE READING OF THE TEN.",
+  "notes_on_two_cards_that_were_moved_after_the_first_allocation": "983 WAS FIRST ALLOCATED A RUSTED RAILING SPEAR AND WAS RE-CUT TO A SHELF BEFORE ANY PROSE WAS DRAFTED, BECAUSE RAILS AND POSTS ARE AMONG THE THINGS THIS BLOCK MAY NOT TOUCH AT NINE AND A SPOKE GOES THROUGH A RAIL ANYWAY. THE MECHANIC, THE PAD PRESSED INTO PACKING AND TAKING ITS SHAPE, WAS KEPT AND THE OBJECT WAS CHANGED, WHICH IS THE FIRST TIME IN THIS ACCOUNT THAT AN OBJECT HAS BEEN CHANGED AFTER THE MECHANIC WAS CHOSEN.",
+  "measures_after_prose": {
+    "date": "Taken off the files after every edit landed, including the span re-cuts, the closing re-cuts, the two damp fixes and the paragraph merges. No figure here is copied from an earlier block.",
+    "words_by_file_whole_title_included": {
+      "975": 1611,
+      "976": 1678,
+      "977": 1602,
+      "978": 1700,
+      "979": 1604,
+      "980": 1545,
+      "981": 1429,
+      "982": 1504,
+      "983": 1450,
+      "984": 1425
+    },
+    "total": 15548,
+    "length_target": "1400 to 1800 all ten inside, wc -w whole title included off the files.",
+    "file_count": "790 at end, which is 984 minus 195 plus one; 780 at the start of this block.",
+    "scene_breaks": {
+      "per_chapter": [
+        2,
+        1,
+        2,
+        1,
+        2,
+        1,
+        1,
+        2,
+        1,
+        2
+      ],
+      "total": 15,
+      "cap": "two in any chapter, held everywhere",
+      "matches_allocation": true,
+      "note": "The first draft of all ten carried FOUR breaks each against a cap of two, and the count did not vary by chapter either, which is the shape a writer gets by putting a break in every section. Breaks A and C were removed from the five chapters allocated two and A, C and D from the five allocated one, and the blank lines were put back by hand where two paragraphs had been left against each other. FORTY BREAKS BECAME FIFTEEN AND NOT ONE WORD OF PROSE WAS ADDED TO DO IT."
+    },
+    "allcaps_paragraphs": {
+      "per_chapter": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "line": 5,
+      "in_asterisks": true,
+      "note": "None carries the closing image in its own words, none carries the family, none carries the undated-line wording, none carries the body's hand-arrangement wording and none carries the words nothing changed."
+    },
+    "said": {
+      "total": 0,
+      "per_chapter_zero": true,
+      "note": "THE WHOLE SAY FAMILY, say says said saying, AT ZERO IN ALL TEN AND NOT ONLY SAYS, WHICH IS WHAT THE LAST TEN CHAPTERS OF 0078 ALSO HELD. MEASURED, NOT ASSUMED."
+    },
+    "quotation": {
+      "quoted": [
+        "976 four segments in two exchanges on a bus service and a shop's closing hour",
+        "978 four segments in two exchanges on a radio serial and a cat",
+        "982 four segments in two exchanges on potatoes and a return ticket"
+      ],
+      "indirect": [
+        "975 the post coming twice a day",
+        "980 a road closure and what time the bins go out",
+        "983 a jumble table in the church hall"
+      ],
+      "silent": [
+        "977",
+        "979",
+        "981",
+        "984"
+      ],
+      "note": "Three quoted and three indirect satisfies at least three quoted and a fourth indirect. No line about the work and no number spoken aloud anywhere."
+    },
+    "he_him_his": "Zero in all ten whole file including both unit chapters, 0977 and 0980.",
+    "numerals": "Chapter number only in all ten; no year, the lines being undated by the calendar ruling.",
+    "names": "No human personal name anywhere. Christmas, Easter, Michaelmas replaced by one autumn, Saturday, English bond and a saint's day are not people.",
+    "banned_45": "Zero on whole file with word boundaries in all ten AND at every stem expanded to +s, +es, +ed, +ers and +ings, the expansion done BEFORE the measure. EIGHT REAL SLIPS WERE CAUGHT IN THIS BLOCK'S OWN PROSE AND RE-CUT: held, holds and holds in 0975; change in 0976 and 0978; claimed in 0978; bearers in 0980; seam in 0982; held and holds in 0983; and, after the paragraph merges, holds in 0979 and 0983. TWO MORE WERE FOUND IN THE PRE-PROSE TEXT AND ARE RECORDED UNDER banned_45_run_before_prose.",
+    "skeletons": "there is no, it is not a, and that is, that is the whole of at zero in all ten, measured as token sequences at word boundaries and not as substrings. Two hits on it is not a were made by the last edits of 0984 and were re-cut.",
+    "declared_ordinary_word_damp": {
+      "sense": "how much moisture a material holds at its surface against the side of a finger or a thumb",
+      "per_chapter": {
+        "975": 3,
+        "976": 3,
+        "977": 2,
+        "978": 6,
+        "979": 2,
+        "980": 2,
+        "981": 2,
+        "982": 2,
+        "983": 3,
+        "984": 2
+      },
+      "total": 29,
+      "bare_word_only": true,
+      "comparative_at_zero": true,
+      "one_per_sentence": true,
+      "runs_in_all_ten": true,
+      "note": "SEVEN SEPARATE SENTENCES CARRIED TWO USES EACH AFTER THE FIRST DRAFT AND EVERY ONE WAS RE-CUT BEFORE THE MEASURE WAS TAKEN AGAIN, WHICH IS THE 0078 LESSON ABOUT MATERIALS BEING ALLOCATED LIKE COUNTS, APPLIED TO THE DENSITY AND NOT ONLY TO THE MATERIAL.",
+      "materials_actually_used": {
+        "975": [
+          "cast iron",
+          "cast stone"
+        ],
+        "976": [
+          "oak drum flange",
+          "rubber-sheathed cable",
+          "armoured cable bloom"
+        ],
+        "977": [
+          "fired clay",
+          "hardstanding under flags"
+        ],
+        "978": [
+          "zinc-coated steel",
+          "old brick",
+          "ground beneath the shed",
+          "sandstone kerb",
+          "brick dust",
+          "chalky paint"
+        ],
+        "979": [
+          "clay pantile",
+          "shed render"
+        ],
+        "980": [
+          "cast plane body",
+          "beech tote"
+        ],
+        "981": [
+          "oak post",
+          "leaf litter"
+        ],
+        "982": [
+          "cast steel tang",
+          "shed timber"
+        ],
+        "983": [
+          "shelf softwood",
+          "brick of the wall"
+        ],
+        "984": [
+          "steel plate",
+          "bay oil film"
+        ]
+      }
+    },
+    "shared_spans": {
+      "method": "Lowercased, punctuation stripped, token runs. All 45 cross pairs plus an intra-chapter duplicate-run check.",
+      "allcaps_out": {
+        "ten_token_cross_pairs": 0,
+        "eight_token_cross_pairs": 0,
+        "seven_token_cross_pairs": 0,
+        "intra": {
+          "ten": 0,
+          "eight": 0,
+          "seven": 0
+        }
+      },
+      "allcaps_back_in": {
+        "ten_token_cross_pairs": 0,
+        "eight_token_cross_pairs": 0,
+        "seven_token_cross_pairs": 0,
+        "intra": {
+          "ten": 0,
+          "eight": 0,
+          "seven": 0
+        }
+      },
+      "note": "The first draft read SEVEN PAIRS AT TEN TOKENS, TWENTY-TWO AT EIGHT AND THIRTY-THREE AT SEVEN, WITH TWENTY ONE-TOKEN RUNS INSIDE SINGLE CHAPTERS. EVERY ONE WAS A CRAFT FRAME AND NOT A THING: the visitor opener, the nothing-in-her-hands frame, the shutter and bay sentence written almost word for word in two lock-up chapters, a coping-and-root sentence written word for word in two twelve chapters, a shed-and-felt sentence written word for word in two ten chapters, the going-in-and-coming-out frame in three, and the answer-given frame in five. The frames were re-cut, not the nouns."
+    },
+    "sentence_pass_difflib_0_62_seven_words_or_more_allcaps_out": {
+      "method": "difflib.SequenceMatcher at 0.62 and up over every sentence of seven words or more, all-caps out, all 45 chapter pairs, quick_ratio used only as a prune because it is a true upper bound on the ratio and so cannot hide a pair.",
+      "with_dateline_line_in": "0 chapter pairs",
+      "with_dateline_line_out": "0 chapter pairs",
+      "note": "The first draft read EIGHT PAIRS AT WORST 0.729, and the worst of those was two visitor-openers written on the same frame. Five same-grammar pairs were re-cut, then three more, and the page reads zero. This block's own figure and not 0078's, which was nine at 0.649, and 0078's was not copied."
+    },
+    "closing_moves_rederived": {
+      "975": "main clause closed by an absolute participial phrase in final position",
+      "976": "main clause opened by an existential THERE",
+      "977": "main clause containing a relative clause, closing on the relative",
+      "978": "main clause with a modal verb, WILL TAKE, in final position",
+      "979": "two main clauses coordinated by YET",
+      "980": "main clause whose subject is the gap behind the iron and whose last clause names the one place light comes through",
+      "981": "main clause closed by an -ing clause, WILL BE STANDING, in final position",
+      "982": "main clause closed by a comparative clause with MORE THAN",
+      "983": "main clause opened by an adverbial of time in front position",
+      "984": "main clause with a negated verb, twice in the same sentence"
+    },
+    "closing_shapes_read_aloud": {
+      "note": "Ten finished closings read aloud against each other. The first set contained TWO SIBLINGS THE TOOLS DID NOT SEE, both of them a subject that gives nothing followed by YET, at 0979 and 0982, and TWO MORE of the same family, a main clause that keeps a thing and is closed by an absolute phrase beginning with STANDING, at 0975 and 0981. 0982 and 0981 were rewritten and the ten that stand share no single two-part form.",
+      "subjects": [
+        "slot behind the scraper",
+        "width of the space",
+        "hollow clay block",
+        "bath on its brick",
+        "row of pantiles",
+        "mouth of the plane",
+        "square hole in the post",
+        "broken tang",
+        "dust behind the shelf",
+        "hollow between the plates"
+      ]
+    },
+    "paragraph_shape": {
+      "body_paragraphs": 207,
+      "single_sentence": 42,
+      "single_sentence_per_cent": 20.3,
+      "counting_rule": "Every body paragraph that is neither the all-caps paragraph, nor the undated line, nor a standalone line of speech.",
+      "over_agents_md_six_sentence_ceiling": 0,
+      "note": "The first draft ran THIRTY-FOUR POINT THREE PER CENT single-sentence against 15.9 for 0078 and 20.5 for 0077, counted with the undated line and the caps paragraph left out. TWENTY-EIGHT single-sentence paragraphs were merged into the one before them, no sentence was added, removed or reordered, and every allocated hand beat and closing stayed where it was. The figure is 20.3 per cent and no paragraph runs over the six-sentence ceiling."
+    },
+    "single_place_visitor_places": "Ten places all different from each other and from every place in 855 to 974. Four of the ten state the empty hands and six do not, which satisfies the six of ten and avoids one frame running ten times. No hand on a latch, no heel against anything, no hand on a bar; the tree bar at 0981 has a hand near it and not on it."
+  }
+}
