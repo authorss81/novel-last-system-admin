@@ -40,7 +40,7 @@ That bend is the reason the stump leans. The lean is only a couple of degrees, b
 
 The sister is standing in the gap where the near leaf of the gate hangs by its top corner only, with the close-boarding on one side of her and the loose leaf lying in the grass on the other, and her hands swinging empty at her sides.
 
-She does not step over the leaf. The spade lies six feet away in the grass by the shed and is not looked at, and and not one word is spent on the leaf or on the spade.
+She does not step over the leaf. The spade lies six feet away in the grass by the shed and is not looked at, and not one word is spent on the leaf or on the spade.
 
 "There were potatoes in the market again."
 
@@ -54,4 +54,4 @@ Her hand goes down towards the loose leaf in the grass as if to lift it clear of
 
 The tang stands in the bottom of the socket at the same lean with the same torn edge to it, and there is more iron in the wall of that socket than there ever was in the middle of it.
 
-The blade gives the finger nothing at all, yet it keeps the broken tang standing up in the open, and the rust powder under the lip of the tear will be there for good.
+Under the lip of the tear the rust powder lies in a hollow no wider than a sheet of paper and is packed there hard, so that the rain coming down the blade goes past it and out through the gap in the metal; it will be there for good, and the number on the shoulder is the one nobody will ask for.

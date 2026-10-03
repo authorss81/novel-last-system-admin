@@ -37,7 +37,7 @@ Nothing about the space gives. The flange does not move at the top edge and does
 
 The barrel's staves have shrunk unevenly over the years of weather and about two of them on the underside stand a shade proud of the rest, so that the loose turn catches on them as it goes round. The proud stave is enough to lift the turn a quarter of an inch and enough to take it back down again when it has passed, and the whole circumference of the drum is now marked by that one stave in the dust on the flange.
 
-The cable on the roll is of three sizes. The inner layers are thicker and older, with the armour gone from them entirely and the core showing black under the wire, and the outer turn is thinner and brighter and came onto the drum in the last fortnight of the work that put it there. The joint between them is a straight line the whole way round, visible from the yard as a difference in the colour of the roll.
+The cable on the roll is of three sizes. The inner turns are thicker and older, with the armour gone from them entirely and the core showing black under the wire, and the outer turn is thinner and brighter and came onto the drum in the last fortnight of the work that put it there. The joint between them is a straight line the whole way round, visible from the yard as a difference in the colour of the roll.
 
 The armour that has come away has not fallen off. It lies back against the cable in curls the length of a thumbnail, and where a curl has lifted there is a small hollow of the core beneath it, and the core in that hollow is pale and dry while everything above it is wet with the bloom.
 

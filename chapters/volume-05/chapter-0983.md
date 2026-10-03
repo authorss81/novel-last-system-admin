@@ -19,15 +19,15 @@ Between the shelf and the wall the air does not move at all. It is the same air 
 
 The pad of one thumb is pressed up into the dust packed behind the shelf, from below, and is pushed a long way in, and is kept there long enough to take the shape of what is packed there.
 
-The mat of dust takes a print of the pad at once and the pad takes a print of the mat, and they are the same shape, which is how the packing can be read off without any tool at all. What the pad comes back shaped like is a flattish cushion with a groove along the middle of it, and the groove is where the drip from the roof has run down the brick and laid a channel in the dust for as long as the shelf has stood off the wall.
+The mat of dust takes a print of the pad at once and the pad takes a print of the mat, and they are the same shape, which is how the packing can be read off without any tool at all. What the pad comes back shaped like is a flattish cushion with a groove along the middle of it, and the groove is where the dew that comes off the brick has run down it and laid a channel in the dust, and the dew has done that every night the shelf has stood open.
 
 The depth of the cushion is about an eighth of an inch over most of the slot and rather more at the far end, where the mat has built up against the far cleat and nowhere to go. At the near end the packing is shallow and the pad can feel the corner of the near cleat through it, and the cleat is still on the wall at its top end and away from it at its bottom end.
 
 Underneath the dust, in the two dark circles at the back of the slot, the pad finds the two screw holes in the brick. They are half an inch apart, they go in about an inch and a half, and their bottoms are filled with grit out of the mortar which has gone soft in them, because the board has moved at the head of the screw and ground the hole round.
 
-The shelf board is softwood of the kind that comes out of a joinery shop as an offcut, with the grain running its length and a knot near the middle of it that has been filled and faced. It is about three-quarters of an inch thick and it is not warped, and the whole of the quarter of an inch that it stands off is the thickness of the plaster behind the near cleat failing away.
+The shelf board is softwood of the kind that comes out of a joinery shop as an offcut, with the grain running its length and a knot near the middle of it that has been filled and faced. It is about three-quarters of an inch thick and it is not warped, and the whole of the quarter of an inch that it stands off is the thickness of the render that used to stand proud of the brick behind it, which is the way the space got there.
 
-Where the cleat pulled out of the plaster there is a rough place on the wall about two inches by one, and it is not the plaster that has let go but the render that was skimmed over it, which has come away with the cleat and taken a skin of old lime with it. The old lime is gone hard on the face of the break and powdery at its edge, and it is the reason the near end of the slot is a quarter of an inch shallower than the rest of it.
+Where the cleat pulled out of the plaster there is a rough place on the wall about two inches by one, and it is not the plaster that has let go but the render that was skimmed over it, which has come away with the cleat and taken a skin of old lime with it. The old lime is gone hard on the face of the break and powdery at its edge, and the near cleat, which was bedded in that render and never reached the brick, has let the near end of the board swing back against the brick again, which is why the near end of the slot is a quarter of an inch shallower than the rest of it.
 
 The two screws of the far cleat are of two different sorts, which is common and means the shelf has been re-fixed once without the first pair being taken out. The left head is bright where a spanner has been across it and the right one is rusted in the slot and would want a different blade.
 
@@ -41,6 +41,6 @@ The shelf gets no mention. After a while she asks whether the jumble table is st
 
 Her hand stays out beside her, palm down and empty, until the other one has gone through the gateway and along the path, and drops after that.
 
-The dust behind the shelf keeps the channel it has worn down its length, and the slot keeps its quarter of an inch, and the far cleat stays on the wall with the board screwed to it.
+The channel that the dew has worn down the dust runs the length of the slot and dies away at the far cleat, and the far cleat is still on the wall with the board screwed to it.
 
 By the end of another winter the shelf will stand a little further off the brick than it does now, and the packing behind it will be a little deeper along its whole length.
