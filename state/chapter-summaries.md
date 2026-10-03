@@ -2265,3 +2265,25 @@ Fifteen findings on the committed block of 785 to 794, nine of them fixed in the
 
 
 **THE TEN SUMMARIES ABOVE WERE CHECKED AGAINST THE FILES ON 3 OCTOBER 2026 AFTER THE REVIEW OF 0071, AND FIVE OF THEM DESCRIBED A DRAFT.** 0896 still said the grit in the top bore was firm, which is one of the off-list uses the repair cut; 0897 and 0903 still said *quoted four lines* of visitor dialogue, and half of what those lines carried was a job request and a refusal, which is now gone; 0899's four lines included the shutter; 0902's said the slabs *want* sand watered in, which is the six-chapter *what the X wants* frame the repair broke up, and left out the wrist finding that the repair put in and which is now the way the chapter learns that the slabs meet underneath. **The findings themselves, the hands, the dates, the figures, the doors and the ten closing moves were correct in all ten and are unmoved.**
+
+## VOLUME 05, CONTINUATION 0072 — CHAPTERS 905-914
+
+0905 Behind The Middle Brick. Sun 28 Apr 2024, ten early thirties. Palm down behind middle brick fingers together thumb along side. Slit with soil banked on grit, brick wedged leaning on grit, sinking yearly; proud brick throws shed-roof wash. Sister at back step with cloth, indirect (cloth for shed shelf). Ends WHILE.
+
+0906 Under The Trough Rim. Wed 1 May 2024, twelve seventy-eight. Wrist back into cleft fingers curled. Rim on two under-stones with rammed earth, north wears yearly; proud stone throws dip wash. Sister at side fence with parcel pressed to coat, quoted two exchanges on rain and shelf, nothing about work. Ends AFTER.
+
+0907 Down The Rail Bore. Sun 5 May 2024, nine late fifties alone. Thumb alone into bore fingers folded. Dust mouth soil middle sand bottom; auger wandered; bottom takes dowel once sand picked. Shopping at side passage with basket, silent. Ends UNLESS.
+
+0908 Down The Iron Foot. Fri 10 May 2024, lock-up late forties. Hand edge down rust foot fingers shut. Guide on flat stone footing with grit rammed at toe; rust bands mark winters. Books at yard doorway with ledger shut, indirect (ledger for office hours). Ends UNTIL.
+
+0909 Behind The Cupboard Back. Mon 13 May 2024, unit early forties (man). Fingertips backward wrist bent elbow high. Back board finger off brick on runner, air keeps back pale flat; cupped sides air themselves. Two-doors at store doorway with broom unsweeping, quoted two exchanges on opening and warped shelves. Ends WHERE.
+
+0910 Along The Soil Groove. Fri 17 May 2024, ten early thirties. Thumb knuckle along groove hand tipped. Groove grit over flat pebble, path ends high on packed soil; groove sand in damp not dry. Sister at front path with can unlifting, indirect (can for frame seedlings). Ends BUT.
+
+0911 Into The Sawn Split. Wed 22 May 2024, unit early forties (man). Three middles wedged outers raised. Split only between top faces riding one hazel sticker; top leans for want of stickers; cobwebs mark resting bays. Two-doors at back corner with sack slung, silent. Ends OR.
+
+0912 Over The Kerb Notch. Sat 25 May 2024, lock-up late forties. Thumb heel into notch fingers fanned. Nick with sand over grit, bolt once grit spooned; saw chipped; gates hinges chains padlock lore. Books at bay mouth rag pocketed, silent. Ends ONCE.
+
+0913 Up The Moss Channel. Wed 29 May 2024, twelve seventy-eight. Pads up channel wrist out. Coping dry on wall head with moss packed, drip-fed middle; screws oak, nails, ivy, ties lore. Sister at garden path with trug grounded, quoted two exchanges on cold move and moss. Ends AS.
+
+0914 Along The Earth Crease. Mon 3 Jun 2024, nine late fifties alone. Thumb edge forefinger side nipped travelling crease. Step on back edge and flint wedge with packed earth; front floated on sand wants brushing firm. Shopping at garden gate purse shut, silent. Ends present perfect HAS (middle tread has lost its shine).

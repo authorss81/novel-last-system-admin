@@ -1,0 +1,326 @@
+{
+ "allocation_written_before_prose": true,
+ "allcaps_line": 5,
+ "allcaps_rule": "ONE PARAGRAPH AT LINE 5 IN ASTERISKS CARRYING NEITHER THE CLOSING IMAGE NOR THE FAMILY IN ITS OWN WORDS",
+ "anti_tick": [
+  "NO CHAPTER ENDS ON A JOB FINISHED AND NONE ENDS ON THE THING IN HAND BEING PUT BACK",
+  "SECOND PERSON SHOWN AND NOT TOLD ABOUT WORK NO REFUSAL NO PASSING ON NO SECOND HANDS NO SEEING THING IN HAND HANDS OUT BEFORE ARRIVAL",
+  "A FIGURE THE CHAPTER SETS MUST CLOSE SINGLE-PLACE COUNTS ONLY",
+  "NO WATER DRAWN CARRIED POURED OR EMPTIED ONLY RAIN DEW ROOF WATER",
+  "NO CEMENT MORTAR NEW CONCRETE OLD GROUT LIME NAMED AS OLD ALREADY GONE HARD ONLY",
+  "HE HIM HIS AT ZERO IN EIGHT WOMENS CHAPTERS STANDING ONLY IN 0909 AND 0911"
+ ],
+ "band_figure_rule": "FIVE STANDING FIGURES ONE BAND EACH KEPT WHOLE BLOCK EACH CARRIES EXACTLY TWO OF TEN",
+ "bands": {
+  "per_chapter": {
+   "0905": "early thirties",
+   "0906": "seventy-eight",
+   "0907": "late fifties",
+   "0908": "late forties",
+   "0909": "early forties",
+   "0910": "early thirties",
+   "0911": "early forties",
+   "0912": "late forties",
+   "0913": "seventy-eight",
+   "0914": "late fifties"
+  },
+  "rotation_in_chapter_order": "TEN TWELVE NINE LOCK-UP UNIT TEN UNIT LOCK-UP TWELVE NINE NOT THE 0071 NOR 0070 NOR 0069 NO BAND THREE TIMES IN A ROW EACH BAND EXACTLY TWO"
+ },
+ "banned_45": "hold holds held holding claim claims counter counters seal seals seam seams term terms notice notices lens margin system panel permission bearer lattice civicore goal resistance change beat changes changed changing goals beats PLUS household threshold encounter determine noticed exchange PLUS steady plain counted breathed wrote nodded AND watched. AT ZERO WHOLE FILE INCLUDING ALL-CAPS WITH WORD BOUNDARIES. NARRATIVE HEAD DOOR WORD IS STRIP NOT SEAL",
+ "block": "VOLUME 05 CONTINUATION 0072 CHAPTERS 905-914",
+ "calendar": {
+  "bounds": "0914 BETWEEN SATURDAY THE TWENTY-FIFTH OF MAY 2024 AND FRIDAY THE TWENTY-FIRST OF JUNE 2024 OFF FLOOR SUNDAY THE TWENTY-EIGHTH OF APRIL 2024 WITH NINE GAPS TWENTY-SEVEN TO FIFTY-FOUR",
+  "dates": {
+   "0905": "Sunday the twenty-eighth of April 2024",
+   "0906": "Wednesday the first of May 2024",
+   "0907": "Sunday the fifth of May 2024",
+   "0908": "Friday the tenth of May 2024",
+   "0909": "Monday the thirteenth of May 2024",
+   "0910": "Friday the seventeenth of May 2024",
+   "0911": "Wednesday the twenty-second of May 2024",
+   "0912": "Saturday the twenty-fifth of May 2024",
+   "0913": "Wednesday the twenty-ninth of May 2024",
+   "0914": "Monday the third of June 2024"
+  },
+  "day_numbers": "28 1 5 10 13 17 22 25 29 3 NONE ON NINTH NONE ON ELEVENTH NO TWO SHARE A DATE",
+  "floor": "SUNDAY THE TWENTY-EIGHTH OF APRIL 2024 WHICH IS 0904 THURSDAY THE TWENTY-FIFTH PLUS THREE",
+  "gaps": [
+   3,
+   4,
+   5,
+   3,
+   4,
+   5,
+   3,
+   4,
+   5
+  ],
+  "gaps_include_incoming": [
+   3,
+   3,
+   4,
+   5,
+   3,
+   4,
+   5,
+   3,
+   4,
+   5
+  ],
+  "gaps_total_nine_after": 36,
+  "head_of_range": "CHECKED EACH TIME SIX OFF NEVER LANDS NINTH OR ELEVENTH IN THIS RUN SO AVAILABLE EACH TIME THIS BLOCK LATEST EACH CHAPTER SIXTH DAY NOT ONE DAY LATER",
+  "real_calendar_checked": "2024-04-28 SUNDAY 2024-05-01 WEDNESDAY 2024-05-05 SUNDAY 2024-05-10 FRIDAY 2024-05-13 MONDAY 2024-05-17 FRIDAY 2024-05-22 WEDNESDAY 2024-05-25 SATURDAY 2024-05-29 WEDNESDAY 2024-06-03 MONDAY",
+  "weekdays": "SUNDAY WEDNESDAY SUNDAY FRIDAY MONDAY FRIDAY WEDNESDAY SATURDAY WEDNESDAY MONDAY NO TWO IN A ROW ON SAME WEEKDAY",
+  "why_no_seven": "SEVEN PUTS NEXT CHAPTER ON SAME WEEKDAY AND THIS BLOCK FORBIDS IT",
+  "year_turn": "YEAR TURNED ONCE BETWEEN 0873 AND 0874 AND NOT AGAIN EVERY DATELINE CARRIES DAY AND YEAR ONLY"
+ },
+ "cards": {
+  "0905": "At number ten a woman in her early thirties has three loose bricks at the end of the bed and means to slide the palm flat into the slit behind the middle brick with fingers together and thumb along its side and to find out how far the slit runs and what sits at its end. Nothing lifted nothing re-laid no room entered.",
+  "0906": "At number twelve a woman of seventy-eight has a stone trough at the side of the garden with a cleft under its rim and means to press the back of the wrist into that cleft with fingers curled back toward the forearm and to find out what the rim sits on and how deep the cleft goes. Nothing lifted nothing dug no room entered.",
+  "0907": "At number nine a woman in her late fifties has a fence rail of timber with a bored dowel hole in its end and means to push the thumb alone into that bore with fingers folded against the palm and to find out how deep it runs and what stops it. The rail not moved the hole not bored deeper the spanner not picked the coal not opened.",
+  "0908": "At the lock-up a woman in her late forties has a shutter guide of iron along the bay with a seam of rust at its foot and means to drive the outer edge of the hand down that seam with fingers straight and pressed together and to find out what the guide stands on and how far down it goes. Nothing lifted the shutter stays down the oval holes not filled or plugged.",
+  "0909": "At the unit a man in his early forties has a cupboard under the bench with a pocket of air behind its back board and means to walk the fingertips backward into that pocket with wrist bent and elbow raised and to find out what the back board rests against and how wide the pocket runs. Nothing lifted no bar in the latch hooked the staple NOT DONE.",
+  "0910": "At number ten a woman in her early thirties has two edging stones along the path with a groove of soil between them and means to run the knuckle side of the thumb along that groove with the hand on its side and to find out what lies under the groove and how much it gives. Neither stone lifted nothing cut the felt and the ply neither touched nor nailed.",
+  "0911": "At the unit a man in his early forties has a sawn pile of offcuts at the back of the store with a split between two lengths and means to push the middle three fingers as a wedge into that split with outer fingers lifted clear and to find out what the split opens onto and how far it goes. No length moved no bar in the latch hooked the staple NOT DONE.",
+  "0912": "At the lock-up a woman in her late forties has a kerb of concrete at the mouth of the bay with a notch in its top and means to press the heel side of the thumb into that notch with fingers spread over the face and to find out what the notch sits over and how deep it runs. Nothing put in the notch the heap not touched the oval holes not filled or plugged.",
+  "0913": "At number twelve a woman of seventy-eight has a wall coping of brick with a channel of moss along its underside and means to draw the finger pads upward inside that channel with wrist turned outward and to find out what the coping covers and how far back the channel runs. Nothing lifted nothing planted no room entered.",
+  "0914": "At number nine a woman in her late fifties has a step of stone at the back with a crease of earth along its foot and means to pinch the edge of the thumb and the side of the forefinger into that crease and draw along and to find out what the step sits on and how far under it goes. The step not lifted the gate not touched the coal not opened."
+ },
+ "dateline_closer_ceiling": "AT MOST TWO CARRY THE CLOSER AND THE TASK IS THE WHOLE OF THAT WEEKDAY IT IS IN NONE OF TEN FOR THIS BLOCK TO REST THE DEVICE",
+ "datelines": {
+  "0905": "Sunday the twenty-eighth of April 2024 at the loose bricks at the end of the bed at number ten while the morning rain still darkens the soil. The slit behind a middle brick.",
+  "0906": "Wednesday the first of May 2024 at the stone trough at the side of the garden at number twelve when the dew has lifted off the rim. The cleft under a trough rim.",
+  "0907": "Sunday the fifth of May 2024 at the fence rail at the side of number nine from mid-morning until the sun leaves the timber. The bore in the end of a rail.",
+  "0908": "Friday the tenth of May 2024 at the shutter guide along the bay at the lock-up after the yard has dried in the wind. Down the foot of an iron guide.",
+  "0909": "Monday the thirteenth of May 2024 in the cupboard under the bench in the store at the unit while the door stands ajar on the yard. The pocket behind a back board.",
+  "0910": "Friday the seventeenth of May 2024 along the edging stones at the path at number ten when the light stands high over the bed. The groove of soil between two stones.",
+  "0911": "Wednesday the twenty-second of May 2024 at the sawn pile at the back of the store at the unit with the roof water dripping off the gutter behind the work. Into the split of a sawn pile.",
+  "0912": "Saturday the twenty-fifth of May 2024 at the kerb of concrete at the mouth of the bay at the lock-up before the street wakes. The notch in the top of a kerb.",
+  "0913": "Wednesday the twenty-ninth of May 2024 at the wall coping of brick at number twelve after the rain has gone off the moss. The channel along the underside of a coping.",
+  "0914": "Monday the third of June 2024 at the step of stone at the back of number nine until the light goes off the yard. The crease of earth at the foot of a step."
+ },
+ "declared_ordinary_word": "flat",
+ "declared_ordinary_word_note": "DECLARED BEFORE ANY PROSE OF 905 TO 914 EXISTS IT IS NOT DUST WHICH WAS 0065 NOT EDGE WHICH WAS 0066 NOT GRAIN WHICH WAS 0067 NOT WEAR WHICH WAS 0068 NOT GIVE WHICH WAS 0069 NOT SOUND WHICH WAS 0070 NOT FIRM WHICH WAS 0071 NOT A WORD ON THE OLD LIST AND NOT A BAND DECLARE IT MAY NOT BE hold holds held holding claim claims counter counters seal seals seam seams term terms notice notices lens margin system panel permission bearer lattice civicore goal resistance change beat changes changed changing goals beats household threshold encounter determine noticed exchange pause suddenly finally realise realize seem seemed begin began watch watched garden shoulder usually anyway almost nearly quite just kind count strip true even level straight hard soft. FLAT RUNS FOR HOW LEVEL A FACE LIES AND FOR NO OTHER SENSE FOR STONE TIMBER SLAB BOARD BRICK CONCRETE AND NOTHING ELSE. IT RUNS IN ALL TEN.",
+ "door_meetings": {
+  "0905": "her sister at the back step of ten from the yard with a cloth in her hand and not laying it down",
+  "0906": "her sister at the side fence of twelve from the path with a parcel held against her coat and not setting it down",
+  "0907": "the woman who does her shopping at the side passage of nine from the street with a basket on her arm and not setting it down",
+  "0908": "the woman who books work at the yard doorway of the lock-up from the open yard with a ledger under her arm and not opening it",
+  "0909": "the woman from two doors down at the store doorway of the unit from the yard with a broom in her hand and not sweeping",
+  "0910": "her sister at the front path of ten from the garden with a watering can at her feet and not lifting it",
+  "0911": "the woman from two doors down at the back corner of the unit yard from the lane with a sack over her shoulder and not setting it down",
+  "0912": "the woman who books work at the bay mouth of the lock-up from the concrete with a rag in her pocket and not taking it out",
+  "0913": "her sister at the garden path of twelve from the shed side with a trug on the ground and not picking it up",
+  "0914": "the woman who does her shopping at the garden gate of nine from the lane with a purse in her hand and not opening it"
+ },
+ "ends_on_a_thing_left_where_it_is": "TEN OF TEN NONE IS A JOB FINISHED",
+ "family": "ONE THING FOUND OUT BY THE HAND GOING INTO A SPACE NOBODY CAN SEE INTO AND NOTHING CHANGED",
+ "figure_rule": "NO NEW EARLY OR LATE FIFTIES LATE FIFTIES STAYS AT NINE ALONE NO NEW UNAGED UNLESS CARD CANNOT BE WRITTEN WITHOUT ONE MAN OFF RING ROAD SITS OUT NO FREEHOLDER NO NAMES MAN AT UNIT CARRIES TWO 0909 AND 0911",
+ "gestures": {
+  "0905": "palm slid flat into a slit with fingers together and thumb pressed along the side",
+  "0906": "back of the wrist pressed into a cleft with fingers curled back toward the forearm",
+  "0907": "thumb pushed alone into a bore with fingers folded against the palm",
+  "0908": "outer edge of the hand driven down a seam of rust with fingers straight and pressed together",
+  "0909": "fingertips walked backward into a pocket with wrist bent and elbow raised",
+  "0910": "knuckle side of the thumb run along a groove with the hand on its side",
+  "0911": "middle three fingers pushed as a wedge into a split with outer fingers lifted clear",
+  "0912": "heel side of the thumb pressed into a notch with fingers spread over the face",
+  "0913": "finger pads drawn upward inside a channel with the wrist turned outward",
+  "0914": "edge of the thumb and side of the forefinger pinched into a crease and drawn along"
+ },
+ "one_sentence_why_each_gesture_is_new": [
+  "0905 slides the whole palm flat as a plate and no spent hand sends the palm as a plate",
+  "0906 presses the back of the wrist itself into a cleft and no spent hand leads with the wrist back",
+  "0907 sends the thumb alone with all fingers folded and no spent hand isolates the thumb so",
+  "0908 drives the outer edge down like a blade and no spent hand uses the edge as a blade",
+  "0909 walks fingertips backward with elbow up and no spent hand walks fingers backward",
+  "0910 runs the knuckle side of the thumb and no spent hand uses that side of the thumb",
+  "0911 wedges three middles with outers lifted and no spent hand splits the fingers so",
+  "0912 presses the heel side of the thumb with fingers spread and no spent hand spreads fingers to press a thumb heel",
+  "0913 draws pads upward with wrist out and no spent hand draws upward pads-first",
+  "0914 pinches thumb edge to forefinger side as pincers and no spent hand pinches a crease so"
+ ],
+ "scene_breaks_allocated_before_any_prose": {
+  "not_the_same_number_in_every_chapter": true,
+  "per_chapter": [
+   2,
+   1,
+   2,
+   1,
+   2,
+   1,
+   2,
+   1,
+   2,
+   1
+  ],
+  "total": 15
+ },
+ "shared_seven_token_spans_before_prose": 0,
+ "shared_ten_token_spans_before_prose": 0,
+ "skeletons_watched": "there is no IT IS NOT A and that is that is the whole of AT ZERO AND AVOID there is not there is nothing there is nowhere ALTOGETHER",
+ "speech_plan": "QUOTED IN 0906 0909 0913 AND INDIRECT IN 0905 0908 0910 SILENT VISITOR WITH NO SPEECH IN 0907 0911 0912 0914. SAID AT ZERO ACROSS TEN AND IN EVERY CHAPTER AT ZERO WHICH IS AT OR BELOW FIVE.",
+ "stems": {
+  "0905": "palm goes flat behind the middle brick with fingers together and thumb along its side",
+  "0906": "wrist back settles into the cleft under the trough rim with fingers curled toward the arm",
+  "0907": "thumb alone enters the bore in the rail end with all fingers folded to the palm",
+  "0908": "hand edge travels down the rust foot with fingers straight and shut together",
+  "0909": "fingertips step backward behind the cupboard back with wrist bent and elbow high",
+  "0910": "thumb knuckle side tracks the soil groove with the hand tipped on its side",
+  "0911": "three middle fingers wedge into the sawn split with the outer two raised away",
+  "0912": "thumb heel side sinks into the kerb notch with fingers fanned across the top",
+  "0913": "finger pads climb the moss channel with the wrist tilted outward",
+  "0914": "thumb edge and forefinger side nip the earth crease and travel its run"
+ },
+ "ten_closing_moves_written_out": {
+  "0905": "temporal subordinate opened with WHILE in final position",
+  "0906": "temporal subordinate opened with AFTER in final position",
+  "0907": "conditional subordinate opened with UNLESS in final position",
+  "0908": "temporal subordinate opened with UNTIL in final position",
+  "0909": "relative adverb clause opened with WHERE in final position",
+  "0910": "coordination closing on BUT plus main clause in final position",
+  "0911": "coordination closing on OR plus main clause in final position",
+  "0912": "temporal subordinate opened with ONCE in final position",
+  "0913": "temporal subordinate opened with AS in final position",
+  "0914": "present perfect main clause with HAS plus participle in final position"
+ },
+ "three_word_tags": {
+  "0905": "bricks slit soil",
+  "0906": "trough rim moss",
+  "0907": "rail bore dust",
+  "0908": "guide rust foot",
+  "0909": "cupboard air back",
+  "0910": "stones groove path",
+  "0911": "pile split air",
+  "0912": "kerb notch grit",
+  "0913": "coping moss underside",
+  "0914": "step crease earth",
+  "note": "NO TWO TAGS MATCH NONE IS A JOB FINISHED ALL TEN ARE THINGS LEFT WHERE FOUND AT LEAST FOUR LEFT-BEHIND ALL TEN LEFT-BEHIND"
+ },
+ "titles": {
+  "0905": "Behind The Middle Brick",
+  "0906": "Under The Trough Rim",
+  "0907": "Down The Rail Bore",
+  "0908": "Down The Iron Foot",
+  "0909": "Behind The Cupboard Back",
+  "0910": "Along The Soil Groove",
+  "0911": "Into The Sawn Split",
+  "0912": "Over The Kerb Notch",
+  "0913": "Up The Moss Channel",
+  "0914": "Along The Earth Crease"
+ },
+ "visitors": {
+  "0905": "her sister",
+  "0906": "her sister",
+  "0907": "the woman who does her shopping",
+  "0908": "the woman who books work",
+  "0909": "the woman from two doors down",
+  "0910": "her sister",
+  "0911": "the woman from two doors down",
+  "0912": "the woman who books work",
+  "0913": "her sister",
+  "0914": "the woman who does her shopping"
+ },
+ "closing_images": {
+  "0905": "middle brick leaning on grit with damp soil banked at its heel",
+  "0906": "trough rim resting on two stones with moss thick at its north foot",
+  "0907": "rail end showing pale timber round a dark bore mouth",
+  "0908": "iron foot standing in rust scale with grit piled at its toe",
+  "0909": "back board bowing off its batten with air cool behind it",
+  "0910": "soil groove running low toward the bed with grit bright at its crown",
+  "0911": "sawn pile leaning a finger off true with stickers dry between",
+  "0912": "kerb top carrying a shallow notch with sand settled in its cut",
+  "0913": "brick coping sitting clear of its bed with moss deep under its lip",
+  "0914": "stone step resting on packed earth with a wedge of flint at its heel"
+ },
+ "measures_after_prose": {
+  "date": "TAKEN OFF THE FILES AT THE END OF THIS BLOCK BY THE WRITER OF IT",
+  "words_by_file_whole_title_included": {
+   "905": 1452,
+   "906": 1433,
+   "907": 1400,
+   "908": 1430,
+   "909": 1402,
+   "910": 1401,
+   "911": 1400,
+   "912": 1416,
+   "913": 1405,
+   "914": 1434
+  },
+  "total": 14173,
+  "length_target": "1400 TO 1800 ALL TEN INSIDE",
+  "scene_breaks": {
+   "per_chapter": [
+    2,
+    1,
+    2,
+    1,
+    2,
+    1,
+    2,
+    1,
+    2,
+    1
+   ],
+   "total": 15,
+   "cap": "two in any chapter",
+   "not_the_same_number_in_every_chapter": true
+  },
+  "allcaps_paragraphs": {
+   "per_chapter": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "line": 5,
+   "in_asterisks": true,
+   "note": "NONE CARRIES CLOSING IMAGE OR FAMILY IN ITS OWN WORDS"
+  },
+  "said": {
+   "total": 0,
+   "note": "ZERO ACROSS TEN AND IN EVERY CHAPTER AT OR BELOW FIVE"
+  },
+  "quotation": {
+   "0906": "FOUR SEGMENTS IN TWO EXCHANGES",
+   "0909": "FOUR SEGMENTS IN TWO EXCHANGES",
+   "0913": "FOUR SEGMENTS IN TWO EXCHANGES",
+   "others": 0,
+   "note": "QUOTED IN 0906 0909 0913 INDIRECT IN 0905 0908 0910 SILENT IN 0907 0911 0912 0914"
+  },
+  "banned_plus_watched": "ZERO ON WHOLE FILE INCLUDING ALL-CAPS IN ALL TEN WITH WORD BOUNDARIES",
+  "skeletons": "there is no IT IS NOT A and that is that is the whole of AT ZERO AND there is not nothing nowhere AVOIDED ALTOGETHER",
+  "family_lexicon_sixteen_shapes": "ZERO REPORTABLE HITS FOR NOBODY NO ONE NONE WITHOUT SAYING WITHOUT TELLING WITHOUT ASKING NOT A WORD WILL EVER KNOW NEVER KNOWN AND FOR THE PASSIVE THAT REPORTS AN ABSENCE OF LOOKING KNOWING OR SPEAKING",
+  "numerals": "CHAPTER NUMBER AND YEAR ONLY NO OTHER DIGITS",
+  "names": "NO HUMAN PERSONAL NAME ANYWHERE",
+  "declared_ordinary_word_flat": "IN ALL TEN WHOLE FILE AND ALL ON STONE TIMBER SLAB BOARD BRICK CONCRETE FOR HOW LEVEL A FACE LIES AND NO OTHER SENSE",
+  "pronouns": "HE HIM HIS AT ZERO IN ALL EIGHT WOMENS CHAPTERS STANDING ONLY IN 0909 AND 0911 WHOLE FILE",
+  "closing_moves_rederived": "0905 WHILE 0906 AFTER 0907 UNLESS 0908 UNTIL 0909 WHERE 0910 BUT 0911 OR 0912 ONCE 0913 AS 0914 PRESENT PERFECT HAS PLUS PARTICIPLE ALL TEN DIFFERENT AND NONE MATCHES 0885 TO 0894 OR 0895 TO 0904",
+  "shape_ceilings": "DATELINE CLOSER IN NONE OF TEN TOOLS STOWED IN NONE CLOSING STANDING LOOK VARIED NOT TEN OF ONE FRAME TWO-VIEW PAIR IN FIVE AT MOST WITH DISTINCT WORDING",
+  "prohibitions": "NO ROOM ENTERED NO WATER DRAWN ONLY RAIN DEW ROOF WATER NO CEMENT MORTAR NEW CONCRETE OLD ONLY ALREADY GONE HARD NO ROOF LOFT MANHOLE AS PLACES NO LADDER NO FROST NO SPANNER NO PLY TOUCHED NAILED NO STAPLE LATCH HOOKED OVAL HOLES NOT FILLED PLUGGED NO NAMES NO CLOCK NO TALLY NO NEW FINAL ENEMY",
+  "file_count": "720 AT END OF BLOCK 904 MINUS 195 PLUS ONE PLUS TEN",
+  "shared_ten_token_spans": {
+   "cross_chapter_pairs": 0,
+   "pairs_compared": 45,
+   "intra_chapter": 0,
+   "note": "MEASURED WITH ALL-CAPS PARAGRAPH OUT",
+   "all_caps_put_back_cross_chapter_pairs": 2,
+   "all_caps_put_back_pairs_are": [
+    "0907 AND 0914 AND THE WOMAN WHO DOES HER SHOPPING IS AT THE",
+    "0909 AND 0911 AND THE WOMAN FROM TWO DOORS DOWN IS AT THE"
+   ],
+   "all_caps_put_back_note": "BOTH SHARED TEN-TOKEN RUNS ARE VISITOR OPENINGS IN THE ALL-CAPS PARAGRAPH THE SHAPE A FIXED ROSTER MAKES"
+  },
+  "shared_eight_token_spans_after_prose_across_files": 0,
+  "shared_eight_token_spans_all_caps_put_back": {
+   "cross_chapter_pairs": 9,
+   "note": "NINE SHARED EIGHT-TOKEN RUNS WITH THE ALL-CAPS BACK IN VISITOR OPENINGS THE SHAPE A FIXED ROSTER MAKES ZERO WITH IT OUT BOTH FIGURES ON THE PAGE"
+  }
+ }
+}
