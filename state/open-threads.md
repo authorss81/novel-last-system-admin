@@ -6228,3 +6228,23 @@ No new thread opened and none closed. Five standing figures kept whole block, ea
 **THE THING THIS BLOCK ADDS TO A CHARACTER WRITER'S ACCOUNT.** Six of the ten arrivals carry nothing at all in their hands and no two of the ten places in the block are the same place, which keeps the standard 0075 set. Standing in a doorway and not coming out of it, in 0949, is a visitor manner that appears for the first time in this account. The phrase *the woman who books work* and *the woman who does her shopping* and *the woman from two doors down* is the roster's own and is carried unchanged.
 
 No thread opened or closed by this block. The setting name is still a human's and no character may notice it. The male lead is six hundred and ninety-one chapters off the page and nothing in this block touches that.
+
+---
+
+# VOLUME 05 OPEN THREADS — after Continuation 0077, Chapter 964
+
+**NOTHING WAS OPENED OR CLOSED BY THIS BLOCK.** All six of the standing questions are exactly where the 0076 block left them, and no seventh was added.
+
+**THE ROTATION RULE IS NOW A NAMED QUESTION RATHER THAN A LOOSE ONE.** It is unsatisfiable at zero against any number of prior rows, which is proved, and the best achievable against the six rows 0071 to 0076 is an overlap of two, measured this block and not inherited. It is satisfied at two in 0077. **A HUMAN MAY RULE IT: whether a row is allowed to share an adjacent band-pair with an earlier row at all, whether sharing two is a fault, or whether the rule is a figure that should be abandoned.**
+
+**THE CLOSING-SHAPE QUESTION HAS NOW COST TWO BLOCKS AND IS NOT FIXED BY ANYTHING MEASURED.** 0076 found eight of ten on one shape and 0077 found eight of ten on a related shape, and in both cases the only thing that found it was reading the ten closings aloud against each other. **A HUMAN MAY RULE WHETHER THIS REPEAT IS THE BOOK'S FORM, AND IF IT IS, WHETHER IT SHOULD BE NAMED AND KEPT; AND IF IT IS NOT, WHETHER ANY GATE CAN BE BUILT THAT WOULD SEE IT.**
+
+**THE ONE ALL-CAPS PARAGRAPH A CHAPTER IS NOW TWO HUNDRED AND SIXTY CHAPTERS AND TWENTY-SIX BLOCKS RUNNING, AND NOBODY HAS DECIDED WHAT IT IS FOR.**
+
+**THE MALE LEAD IS SIX HUNDRED AND NINETY-ONE CHAPTERS OFF THE PAGE AND WAS NOT BROUGHT BACK IN EITHER UNIT CHAPTER.** Whether he is coming back is still nobody's to say, and the writing does not depend on it and has not depended on it for a long time.
+
+**THE NAME OF THE CITY IS STILL A HUMAN'S.** It is still not read out in any of the ten and no character may notice it.
+
+**WHETHER THE END OF VOLUME 05 EXISTS ANYWHERE IS STILL A HUMAN'S, AND A WRITER MAY NOT DECLARE IT AND MAY NOT WRITE A CLOSE.**
+
+**THE THING THIS BLOCK ADDS TO A CHARACTER WRITER'S ACCOUNT.** Seven of the ten arrivals carry nothing at all in their hands, no two of the ten places in the block are the same place, every hand is out of its space before its visitor arrives, and the one visitor who carries anything carries a bag against her leg and no more. Nothing else about the people has moved and nothing about them has been told.
