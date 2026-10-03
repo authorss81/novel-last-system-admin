@@ -34,12 +34,12 @@ A masonry stop is let into a joint cut to the back of the strip, and the strip i
 
 The lime between the bricks of that corner has drawn itself away from the arris along the whole of the height of it, which is not decay and is what lime does as it goes off, and it is the reason a length of lead dressed into a corner like that can still be lifted out of the joint it was let into.
 
-There is a bird's nest of grass and hair in the crook of the brick two courses above that fold, built in the angle where the sarking meets the wall and packed hard, and it is old and it is not in the fold and it is not in the hollow.
+There is a bird's nest of grass and hair in the crook of the brick two courses above that fold, built in the angle where the sarking meets the wall and packed hard, and it is old, and it is in neither the fold nor the hollow inside it.
 
 ---
 
 Her sister is at the mouth of the back alley with the alley behind her and the yard in front of her, and she does not come into the yard.
 
-She stands there a while, and what goes between them is the postman, and whether a Saturday call is made now, and whether one was made on the Saturday before last, and what happens to anything that arrives on a Friday. All of it is about a postman, and the finger was out of the fold and down before she was at the mouth of the alley. The fold at that junction is doubled lead a quarter of an inch apart at the inside and nothing whatever between the two leaves, and the masonry stop above it is a strip let into a raked joint and the joint in the course below the fold is cracked for about a foot.
+She stands there a while, and what goes between them is the postman, and whether a Saturday call is made now, and whether one was made on the Saturday before last, and what happens to anything that arrives on a Friday. All of it is about a postman, and none of it is about the flashings, and the finger goes on turning at its own knuckle inside that fold the whole time she is standing there. The fold at that junction is doubled lead a quarter of an inch apart at the inside and nothing whatever between the two leaves, and the masonry stop above it is a strip let into a raked joint and the joint in the course below the fold is cracked for about a foot.
 
 A finger that went into that fold and stayed straight would have found the near leaf of the lead and come out again, than after a finger that went in and turned back at its own joint and found the far side of it as well.

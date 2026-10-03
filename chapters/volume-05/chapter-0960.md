@@ -44,6 +44,6 @@ Her sister is at the corner of the shed from the side path, with the shed on one
 
 "They go whichever way the board says they go."
 
-They get as far as a postcard that has come for the woman at number ten, and where it came from, and whether the one before it came from the same place, and neither of them makes anything of it. The corner of the shed had not come into view yet when the fingers came down out from under that board, and neither of them looks at the flags.
+They get as far as a postcard that has come for the woman at number ten, and where it came from, and whether the one before it came from the same place, and neither of them makes anything of it. The shed corner is still round the side of the house where they cannot see it, and both of them are looking at the far end of the path.
 
 That gap under the tread is three inches high and dry and there is nothing in it but a leaf and a drift of grit, while the ground under that step will come up to the board another spring and take the three inches away again.
