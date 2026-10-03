@@ -24,9 +24,9 @@ What cut it is rain off the path. Water runs off the path in heavy rain and hits
 
 Her sister comes to the front window from the garden with a duster in her hand and does not touch the glass.
 
-She stood there with the duster over her wrist and looked out to the bed, and she was told the hollow was rain-cut and not dug.
+She stood there with the duster over her wrist and looked out to the bed, and after a while she went along the front of the house to the kitchen door with the duster still in her hand.
 
-She was told the window would want its runner oiled before summer, and she drew the duster along the sill and carried it back toward the kitchen and left the glass where it was.
+She was told the window would want its runner oiled before summer, and she drew the duster along the sill and carried it through to the kitchen and left the glass where it was.
 
 ---
 
@@ -64,7 +64,7 @@ Roots reach for damp first and food second, which is why the ring sits where the
 
 A root in damp soil branches twice as thick as one in dry, because each tip splits when it finds water and splits again when it finds more.
 
-That is why the mat at the sides is dense enough to stop a thumb, while the back, which dries between rains, has almost none.
+That is why the mat at the sides is dense enough to stop a thumb, while the back, which dries between rains, is almost bare of them.
 
 A hollow ringed like that lasts for years, deepening a little each winter and steadying each summer when the grass grows thick.
 
@@ -78,7 +78,7 @@ Grit washes clean in running water because the fine soil goes first and the coar
 
 That is why the hollow will never fill on its own. Rain takes the fine stuff out and leaves the coarse stuff in, and the coarse stuff lets more rain in next time.
 
-What the face wants is a turf patch pinned over the hollow with two pegs of hazel, with the patch lapped over the rims to throw water.
+A hollow ringed with roots like that is stopped with a turf patch pinned over it on two pegs of hazel, the patch lapped across the rims so that it throws the first rains off instead of drinking them in.
 
 Hazel pegs swell in damp soil and lock firm, while pine pegs shrink and work loose by May.
 
@@ -86,7 +86,7 @@ That is why hedging is pinned with hazel and not with offcuts, and why a turf pa
 
 Turf throws water the way thatch does, and a patched face sheds rain while a bare one drinks it and slumps.
 
-The turf on top is firm and thick, with the blades lying flat where feet brush it and standing up where they do not.
+The turf on top is thick and tight, with the blades lying flat where feet brush it and standing up where they do not.
 
 Turf cut from a path edge brings its own soil with it, about an inch of it, and the inch beds down onto the face in a week and roots through in three.
 
@@ -106,4 +106,4 @@ From the side it shows as a dip in the line of the face, deeper in the middle th
 
 A dip in a face throws shade at noon and catches it at evening, which is why the back stays damp long after the rims have dried. Midges gather in that shade on still evenings and leave by dark as the soil cools.
 
-Either sight stands honest, and touch foretells the first shift, the rear deepening winters ahead while flanks stay put, since roots bind the flanks tighter than turf ever might.
+The cup reads true from the path and the hand reads the back of it, and the two together say which part of that hollow will go first, the rear of it going down winter on winter while the sides stay where they are, and the sides are kept tighter by the roots than the turf above them ever keeps them.

@@ -2245,20 +2245,23 @@ Fifteen findings on the committed block of 785 to 794, nine of them fixed in the
 
 0895 Behind The Standing Stone. Fri 22 Mar 2024, twelve seventy-eight. Fingers up behind end stone of heap, palm away tips curled. Wedged between front and back stones on soil packed firm in fork, sinking a hair yearly; shed-roof wash guards own footing. Sister at back gate with basket, indirect. Ends WHEN.
 
-0896 Three Holes In A Post. Mon 25 Mar 2024, nine late fifties alone. Two fingertips together turned in each of three bored holes. Grit firm / soil firm / old grout already gone hard at bottoms; bottom plugged for bolt never fitted. Shopping at front step, silent. Ends BECAUSE.
+0896 Three Holes In A Post. Mon 25 Mar 2024, nine late fifties alone. Two fingertips together turned in each of three bored holes. Grit packed hard / soil firm / old grout already gone hard at bottoms; bottom plugged for bolt never fitted. Shopping at front step, silent. Ends BECAUSE.
 
-0897 Under The Bench Boards. Thu 28 Mar 2024, unit early forties (man). Elbow-side forearm slid low, hand folded back. Boards hang on rail in air; skirting keeps backs dry; middle board spare thicker carries load. Two-doors at near gate with bucket, quoted four lines. Ends LEAVING no WITH.
+0897 Under The Bench Boards. Thu 28 Mar 2024, unit early forties (man). Elbow-side forearm slid low, hand folded back. Boards hang on rail in air; skirting keeps backs dry; middle board spare thicker carries load; daylight off the doorway stops under the far end. Two-doors at near gate with bucket, three quoted exchanges on the opening hours and her boiler, tags outside the quotation marks, nothing about work, said two. Ends LEAVING no WITH.
 
 0898 Between Two Path Boards. Mon 1 Apr 2024, ten early thirties. Side of first finger along slot nail brushing. Ridge of soil risen over buried stone, high south low north; boards cup toward slot. Sister at yard gate with parcel, indirect. Ends AGAINST.
 
-0899 Down To The Dish. Thu 4 Apr 2024, lock-up late forties. Heel into square mouth till wrist meets rim. Dish of earth with flattened nail head; sides belly under lip; post would stand summer rock winter. Books at mess door, quoted four lines. Ends AND plus past.
+0899 Down To The Dish. Thu 4 Apr 2024, lock-up late forties. Heel into square mouth till wrist meets rim. Dish of earth with flattened nail head; sides belly under lip; post would stand summer rock winter. Books at mess door, two plain questions and two answers and nothing else. Ends AND plus past, on the lip kept keen.
 
 0900 Back Of The Hollow. Mon 8 Apr 2024 (task whole weekday), twelve seventy-eight. Thumb-fingers spread inside hollow pressed out. Rain-cut hollow ringed with root mat, back deepening where no roots reach. Sister at front window with duster, indirect. Ends THAN.
 
 0901 Under The Lip. Sat 13 Apr 2024, lock-up late forties. Backs up under lip palm down wrist low. Lower length on lath packings, south gone soft under drip, length tilted finger. Books at office door with cloth, silent. Ends WHOSE.
 
-0902 Down The Slab Joint. Tue 16 Apr 2024, ten early thirties. Wrist sideways hand hanging loose. Joint grit with sand washed low at bed end; slabs true not rocking; wants sand watered in. Sister at shed door pulled to, silent. Ends THAT.
+0902 Down The Slab Joint. Tue 16 Apr 2024, ten early thirties. Wrist sideways hand hanging loose. Joint grit with sand washed low at bed end; slabs true and not rocking, found by the wrist going back into the joint at both ends and NOT by standing on them; sand brushed in from the top and watered in. Sister at shed door pulled to, silent. Ends THAT.
 
-0903 Behind The Middle Board. Sat 20 Apr 2024, unit early forties (man). Little-finger side down gap thumb kept clear. Stack on packing batten off sweating brick; middle dark stain not decay; top leans for want of stickers. Two-doors at side gate with bag, quoted four lines. Ends QUESTION.
+0903 Behind The Middle Board. Sat 20 Apr 2024, unit early forties (man). Little-finger side down gap thumb kept clear. Stack on packing batten off sweating brick; middle dark stain not decay; top leans for want of stickers; air stops short in the middle of the stack. Two-doors at side gate with bag, two plain questions and two answers and nothing else. Ends QUESTION, asked of the timber and of nobody.
 
 0904 Under The High Corner. Thu 25 Apr 2024, nine late fifties alone. Folded knuckles backs leading under high corner. Packing stone carries high side, low edge floats on grit; pack low with grit watered in. Shopping at front gate elbow keeping it half open, silent. Ends IMPERATIVE.
+
+
+**THE TEN SUMMARIES ABOVE WERE CHECKED AGAINST THE FILES ON 3 OCTOBER 2026 AFTER THE REVIEW OF 0071, AND FIVE OF THEM DESCRIBED A DRAFT.** 0896 still said the grit in the top bore was firm, which is one of the off-list uses the repair cut; 0897 and 0903 still said *quoted four lines* of visitor dialogue, and half of what those lines carried was a job request and a refusal, which is now gone; 0899's four lines included the shutter; 0902's said the slabs *want* sand watered in, which is the six-chapter *what the X wants* frame the repair broke up, and left out the wrist finding that the repair put in and which is now the way the chapter learns that the slabs meet underneath. **The findings themselves, the hands, the dates, the figures, the doors and the ten closing moves were correct in all ten and are unmoved.**

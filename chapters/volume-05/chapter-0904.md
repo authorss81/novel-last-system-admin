@@ -40,7 +40,7 @@ She stood there with the gate on her elbow and looked along the path to the step
 
 A flag on a packing stands only on the packing and on nothing else at the high corner, because the packing lifts it clear and air goes under the rest.
 
-Concrete flags ring true when tapped where they sit firm, and drum dull where they bridge over air.
+A flag rings true when it is struck on stone and drums dull when it bridges over air.
 
 True ring sounds sharp and short, because the flag sits dead on its bed and gives nothing back to the knuckle.
 
@@ -76,19 +76,19 @@ She turns the knuckles sideways to feel how the bed runs under the flag.
 
 It runs firm under the stone for about three inches and then softens into grit all round, with the grit damp where water sits under the middle.
 
-A bed of grit sets firm under tread the way road metal does, and every boot that crosses seats it a touch harder where the flag bears most.
+A bed of grit binds under tread the way road metal does, and every boot that crosses seats it a touch harder where the flag bears most.
 
 Road stone locks because each stone turns until its flat side finds another flat side, and then it stops and stays.
 
-Grit under a flag does the same on a small scale, which is why old paths sit firmer than new ones, with each year pressing the bed a little truer.
+Grit under a flag does the same on a small scale, which is why old paths sit harder than new ones, with each year pressing the bed a little truer.
 
 That is why the centre stays dead while the low rim stirs faintly after rain, as seep lifts it a hair.
 
-What the path wants is grit brushed under the low edge with a thin stick and watered in, with the flag tapped down onto it to seat it.
+The low edge of that flag is brought down with grit, brushed under it with a thin stick and watered in, and then the flag bedded onto it and tapped to seat.
 
 Grit damped in sinks through the voids and binds, while grit swept in dry lies loose and leaves by June.
 
-The top of the flag is firm underfoot, with no cracks across it and the worn part smooth as glass where feet have polished it.
+The top of the flag takes weight underfoot, with no cracks across it and the worn part smooth as glass where feet have polished it.
 
 Feet polish concrete the way hands polish timber, because grit underfoot cuts a little every step until the top shines.
 
@@ -104,6 +104,6 @@ From above the flag looks level and true, with the high corner showing only as a
 
 From the end the high corner shows a hair of daylight under it, where the packing lifts it off its bed.
 
-Both views are true, and the knuckles know which edge will want doing first, which is the low one floating on grit that washes out each rain.
+Level from above and a hair of daylight underneath at the corner, and that square and that sliver of daylight are one thing looked at twice, and the edge that will go first for want of a bed is the low one floating on grit that washes out each rain.
 
-Let the low edge be packed firm with grit watered in, and let the high corner stand on its stone through another year.
+Let the low edge be packed firm onto the soil it has settled into, and let the high corner stand on its stone through another year.

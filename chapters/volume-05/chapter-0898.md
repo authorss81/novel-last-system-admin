@@ -24,7 +24,7 @@ What makes it high at one end is the bed. Soil from the bed washes out under the
 
 Her sister stands at the yard gate from outside on the path with a parcel under her arm and does not come in.
 
-She waited there while the parcel softened in mist and gazed toward the boards, and she learned the slot fed from the bed rather than the walk.
+She waited there while the parcel softened in mist and gazed toward the boards, and then she turned the parcel over once to keep the dry side of it out of the wet.
 
 She was told the parcel would want to be put under cover before the next shower, and she clutched it closer under her coat and took the path back with it, gate resting as found.
 
@@ -58,7 +58,7 @@ That is why she draws the finger light along the slot and lets the nail do the s
 
 She draws the finger along again slower, to feel how much the ridge gives under the nail.
 
-It gives about a quarter of an inch under a firm push and then stops on something harder.
+It gives about a quarter of an inch under the push and then stops on something harder.
 
 What stops it is a stone, flat and wide, lying under the slot about two feet from the south end.
 
@@ -94,4 +94,4 @@ From above the slot looks like a dark line between two pale boards, straight and
 
 From the side the south end stands proud by half an inch, where the stone lifts the soil under it.
 
-Both views are true, and the finger knows which end will want lifting first, which is the south one, where the ridge runs highest and the boards ride over stone packed firm against the damp.
+Two readings of one slot, and they do not agree: the eye takes a line drawn true from end to end, while the boards sit over half an inch of daylight at the south end, with the ridge at its tallest and the timber riding over a stone packed firm against the damp.

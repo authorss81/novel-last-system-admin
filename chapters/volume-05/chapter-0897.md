@@ -26,13 +26,13 @@ The woman from two doors down steps to the near gate inside the yard, a bucket i
 
 "Is the store open till dinner?"
 
-"It is open till the light goes, said he, and then the door goes shut."
+"It is open till the light goes," he said, "and then the door goes shut."
 
-"Our back wall wants a board off you."
+"Our boiler went off in the cold snap."
 
-"It wants a board cut to length, said he, and not a board off the bench."
+"It went off in March and comes on again by April," he said.
 
-She tipped the bucket over with her foot and set it upright again, and told him the fence on her side had come off its rail again in the wind and would want a batten, and that she was not doing it in March. He told her a fence with a firm rail comes off at the nails above the rail and not at the rail, so the rail was firm and something above it was loose. She told him that was the same as saying it wanted doing. He told her it was not. She took that, and went back up the yard.
+She tipped the bucket over with her foot and set it upright again, and stood at the gate with her hands in her sleeves while the wind came round the corner of the yard, and then she carried the bucket back up the yard upside down in one hand.
 
 ---
 
@@ -60,6 +60,8 @@ Concrete sweats in spring when warm air meets a floor that has been cold all win
 
 That corner is by the door, away from the bench, which is why the trestle feet have stayed dry while the doorway darkens each March and pales again by May.
 
+The gap between the two ends of the bench and the walls is about a hand wide at each, and daylight off the doorway crosses the floor under the boards and reaches the far end of it by the middle of the day and stops there, and the line of it does not move from one week to the next.
+
 He slides the arm back out a little and feels up at the boards from underneath with the fingertips folded back.
 
 Shavings gather behind a bench because the broom throws them forward and never gets behind, and each year adds a layer until the back rail sits in a bed of curls that keeps it dry.
@@ -72,7 +74,7 @@ A bench made of odd boards carries its load on the thickest one, and the other t
 
 That is why the rail under the boards is screwed tight to the middle one and only just touches the other two.
 
-The screws are slotted and gone dark with oil, with the slots full of dust that has gone firm in them.
+The screws are slotted and gone dark with oil, with the slots full of dust packed hard in them.
 
 A trestle with splayed feet stands firm on uneven concrete where a straight leg would rock, because the splay throws the weight out to the corners and the leg finds its own level.
 
@@ -94,4 +96,4 @@ From the front the bench looks level and true, with the three boards running str
 
 From underneath it is all air and rails, with the middle board doing the work and the rail hanging on it.
 
-Each sight stands good, and the arm tells which face will endure, namely the nether one, where rails hang free and skirting breathes, leaving the bench to serve another year.
+One of those is a bench and the other is a frame of rails in air, and the arm can say which face will outlast the rest of them, namely the nether one where the rail hangs free and the skirting takes the damp, leaving the bench to serve another year.

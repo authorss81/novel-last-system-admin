@@ -42,7 +42,7 @@ The woman from two doors down reaches the side gate off the pavement, her bag se
 
 "It will go if it is tied at both ends."
 
-She nudged the bag with her foot and left it where it was, and told him the side gate dragged on the path since the rain and would want lifting, and that she was not lifting it in spring. He told her a gate that drags leaves a arc in the grit and the arc shows where it binds, so the bind was at the heel post and not along the whole swing. She told him that came to the same as asking for new. He told her it did not. She kept that, and carried her bag back up the pavement.
+She nudged the bag with her foot and left it where it was, and kept her hands in her coat pockets where the wind could not get at them, and stood a while with the boards in front of her and the brick sweating behind them, and then she carried her bag back up the pavement.
 
 ---
 
@@ -54,7 +54,7 @@ That is why the middle board is dark at the back for a hand either side of the b
 
 A dark back pales in a week once the board is taken out and given air all round, which says the dark is only weather and not decay.
 
-Decay yields under the thumbnail and smells sweet when pared, while weather stain stays firm and smells of timber alone.
+Decay yields under the thumbnail and smells sweet when pared, while weather stain stays hard and smells of timber alone.
 
 He pares the back with a nail and the curls rise pale and firm, with no give in them.
 
@@ -68,11 +68,15 @@ That swell over ten feet is enough to throw the top a finger out, which is what 
 
 Stickers stop it by letting air to both faces, so neither swells more than the other and the boards stay flat.
 
+Air comes in at the two ends of the stack and stops short in the middle of it, and the floor behind the middle boards stays damp where the broom has never been under them.
+
+The stack stands about a foot off the wall on four feet of it, and the slab under those feet is a shade paler than the slab around them, because the stack has kept the rain off that square yard for two months, and the difference shows clear on a wet morning.
+
 That is why this stack leans a finger out at the top, where the stickers stop three boards down and the top three ride on each other.
 
 Three boards without air between will always lean to the damp, while three with air stay true through winter.
 
-What the stack wants is two more stickers up top to bring the lean back, with the top board weighted down with an offcut to press it flat.
+Two more stickers up top would bring that lean back, and in the meantime the top three want an offcut laid along them and pressed down flat.
 
 An offcut as long as the arm and as thick as the wrist presses even along the whole top without denting it.
 
@@ -88,7 +92,7 @@ The brick of the wall is firm where the paint covers it and soft in the joints w
 
 Brick stays firm under paint because paint throws rain while bare joints drink it, and each winter the bare ones go a little deeper.
 
-Pointing gone soft feels sandy under the nail and comes away in crumbs, while firm pointing rings a little when tapped.
+Pointing gone soft feels sandy under the nail and comes away in crumbs, while pointing gone hard rings a little when tapped.
 
 Old paint flakes in scales where damp gets behind it and lifts it, while paint on dry brick stays flat for ten years.
 
@@ -110,4 +114,4 @@ From the front the eleven boards look straight and true, with the stickers showi
 
 From the end the top three show their lean, with the top one out a finger past the one below.
 
-Either look tells straight, and touch sorts the cleanest face, yet which length would she lift for shelving to lie level past August?
+The front of it gives eleven boards standing straight and the end gives three of them leaning out, and touch sorts the cleanest face and the dirt off it, but which of the eleven will still be lying square when August comes?

@@ -16,9 +16,9 @@ So the tips of two fingers go in together into the top hole and turn round insid
 
 The top hole is about the width of a fingertip and about an inch deep, with the sides smooth from the auger and the bottom rough where the point went through last.
 
-What is at the bottom is grit gone firm, grey and dry, with a beetle wing in it and a flake of paint off the gate.
+What is at the bottom is grit packed hard, grey and dry, with a beetle wing in it and a flake of paint off the gate.
 
-She turns the two tips together and the grit moves half a turn and then locks firm again, because grit in a blind hole packs down the more it is turned.
+She turns the two tips together and the grit moves half a turn and then locks where it was, because grit in a blind hole packs down the more it is turned.
 
 The middle hole is a little wider and a little deeper, about a finger joint and a half down, with the sides dark where water has got in and dried over many winters.
 
@@ -52,9 +52,9 @@ The grout in the bottom hole is old and already gone hard, with the top of it do
 
 It has shrunk back from the sides a hair all round, because grout shrinks as it sets and oak moves with the seasons, and the hair of air between is what lets the hole breathe in wet weather.
 
-She puts the two tips into the top hole again and feels how the grit sits. Loose on top and firm underneath, with the firm part as hard as the timber round it.
+She puts the two tips into the top hole again and feels how the grit sits. Loose on top and settled underneath, with the settled part as hard as the timber round it.
 
-A blind hole with grit firm in the bottom will take a screw. The screw cuts into the grit and the grit locks round it, and the fixing lasts a summer and then works loose when the timber moves.
+A blind hole with grit packed in the bottom will take a screw. The screw cuts into the grit and the grit locks round it, and the fixing lasts a summer and then works loose when the timber moves.
 
 A blind hole with soil firm in it will not. Soil swells with rain and shrinks with sun, and a screw in soil moves every week until it falls out.
 
@@ -82,4 +82,4 @@ From the front the three holes look like a row of dark spots down the middle of 
 
 From the side the top two show a lip of weathered timber round each, where the water has run out and stained the face, while the bottom one shows clean where the grout keeps the water out.
 
-Each aspect speaks straight, and the fingers tell which bore would bear iron while two would bear weather alone, namely the lowest with grout firm inside, because it was stopped the day it was cut and left to set in oak.
+The two views agree with each other, and the tips knew what was in the third bore before the eye found it, which of the three would take iron, namely the lowest, because it was stopped with old grout on the day it was cut and left to set in oak, and because the other two were left open to fill from above.

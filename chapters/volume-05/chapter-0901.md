@@ -66,17 +66,17 @@ Softwood drinks at the end ten times faster than at the face, because end grain 
 
 That is why a cut end left through winter goes dark a hand back while the face beside it stays pale, and why oil on the end keeps a length twice as long as oil on the face.
 
-Linseed on end grain soaks in deep and sets firm, while linseed on face grain sits on top and goes gummy by summer.
+Linseed on end grain soaks in deep and goes hard, while linseed on face grain sits on top and goes gummy by summer.
 
 That is why the south end of the lower length has gone dark for about a hand back from the cut, while the rest stays pale.
 
 The cut itself is firm, with the saw marks still showing through the stain, which says the dark is only stain and not rot.
 
-Rot goes soft under the thumb and smells sweet when scraped, while stain stays firm and smells of nothing but timber.
+Rot goes soft under the thumb and smells sweet when scraped, while stain stays hard and smells of nothing but timber.
 
 She scrapes the end with a nail and the shavings come off pale and firm, with no soft in them.
 
-What the rack wants is two new packings of hazel, cut square and set under the length where the old ones sit, with the south one a little thicker to bring the length level.
+Two new packings of hazel would take the tilt out of that, cut square and set under the length where the old ones sit, the southern one a little thicker so that the length comes level again by the summer.
 
 A thicker south packing throws the tilt the other way for a month until the timber beds down, and then the length sits true through summer.
 
@@ -102,4 +102,4 @@ From the front the two lengths look level and true, stacked straight on the rack
 
 From the end the lower one shows its tilt, with the south end a finger below the north.
 
-Either prospect rings honest, and touch picks the first packing to fail, the southern whose lath softened beneath pine keeping firm.
+Two lengths lying level from the front and one of them a finger lower at the end, and the packing that will let go first is the southern, whose lath has gone soft under the drip off the shutter.

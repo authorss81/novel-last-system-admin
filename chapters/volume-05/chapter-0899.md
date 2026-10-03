@@ -32,7 +32,7 @@ The woman who books work appears at the mess room door from within, door wide, a
 
 "It will stand till winter lifts it."
 
-She unfolded her arms and folded them again, and told her the shutter on the bay had stuck again that morning and would want oil, and that she was not oiling it in April. She was told oil on a shutter in damp weather does more harm than good, and that the guides wanted sweeping first. She took that, and went back to her work and left the door open.
+She unfolded her arms and folded them again, and stood in the doorway a while with the sun behind her, so that the hole could not be seen from where she was standing, and then she went back to her work and left the door open.
 
 ---
 
@@ -42,7 +42,7 @@ The bar leaves its mark where it bites, and the concrete keeps the mark the way 
 
 The sides show the marks of the iron bar that lifted it, with two gouges on the north side where the bar slipped twice.
 
-Concrete breaks clean where it is firm and crumbles where it is lean, and this apron broke clean on the cut sides and crumbled a little on the worn ones.
+Concrete breaks clean where it has gone hard and crumbles where it is lean, and this apron broke clean on the cut sides and crumbled a little on the worn ones.
 
 That is why the rim is sharp where the saw cut it and rounded where feet have passed over it for years.
 
@@ -74,7 +74,7 @@ A lip like that will take a post for a summer, because the post wedges under the
 
 It will not stand the winter, because winter rain gets under the lip and lifts the concrete round the hole, and the post rocks loose by spring.
 
-What the yard wants is the hole filled with old grout already gone hard, rammed firm round a new post, with the top sloped off to throw water.
+A hole like that is filled with old grout already gone hard, rammed round a new post, and the top sloped off so the water goes off it instead of standing in it.
 
 Grout slopes throw water the way slates do, and a sloped top keeps the foot of a post dry while a flat one ponds it.
 
@@ -82,7 +82,7 @@ A flat top ponds because the rim of concrete round it stands proud and keeps the
 
 A sloped top throws it out over the apron where the broom takes it, and the foot stays firm through winter.
 
-The concrete of the apron is firm to the knuckle all round the hole, with no cracks running off it and no hollow drumming under it.
+The concrete of the apron is solid to the knuckle all round the hole, with no cracks running off it and no hollow drumming under it.
 
 Concrete drums hollow where water has got under it and washed the earth away, and the drum sounds dull when tapped with a knuckle.
 
@@ -98,4 +98,4 @@ From above the hole looks like a dark square in pale concrete, with the dish sho
 
 From the side the lip shows as a shadow all round under the rim, where the earth has gone back from the concrete.
 
-Either look gives it open, and the palm gauges the post's span, a summer plumb with winter rocking after, while the saucer rested firm below and the lip kept keen around.
+A dark square in pale pour with a darker saucer at the middle of it, and a shadow going round the whole of the rim where the lip stands clear of the earth beneath it, and both of them belong to the same hole. The palm had the measure of that and took it away again, and the dish of earth stayed where it was put with the nail head flat in the middle of it, and the lip kept keen all round beneath it.

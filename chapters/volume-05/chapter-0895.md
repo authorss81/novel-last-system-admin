@@ -26,7 +26,7 @@ So the standing stone at the end of the row is not standing on the ground at all
 
 Her sister comes in through the back gate from the garden side with a basket over her arm and shuts the gate after her with her foot.
 
-She came down the path with the basket banging on her knee and stood at the end of the heap and looked at what was being done, and she was told the end stone was wedged and not footed.
+She came down the path with the basket banging on her knee and stood at the end of the heap and looked at what was being done, and after a bit she turned the basket over onto her hip to keep the weight off her arm and stood there a while longer.
 
 She was told the basket was for the cuttings by the shed and that the shed door was open, and she went on down the path with it and left the gate shut.
 
@@ -58,7 +58,7 @@ The soil in the fork is firm and dark and full of small white roots that have go
 
 What lives in a heap lives in the back of it. A wren has nested in the middle of that row for two years, and the moss on the north side of the foot stones is thick enough to take a thumbprint.
 
-None of that moves the end stone. A stone caught in a fork with soil packed round it moves only when the soil goes out of the fork, and the soil goes out only when water takes it.
+The wren in the middle of that row and the moss on the north side and the green paint spot on the face leave that stone where it is. A stone caught in a fork with soil packed round it moves only when the soil goes out of the fork, and the soil goes out only when water takes it.
 
 Water off the shed roof runs down the path and along the foot of the heap in wet weather, and it has cut a channel about an inch deep past the third stone from the end.
 
@@ -74,6 +74,6 @@ From the front the end stone looks like the tallest stone in the heap, standing 
 
 From the back it is the shortest, wedged down between its neighbours with only the top of it showing over the soil.
 
-Either way stands, and touch judges the longer liver, the rearward, where rock sits bound in earth with rock.
+The row gives a tall stone at its end from the path and a low one from the shed side, and the second of those is the truer of the two, because a stone caught between its neighbours with soil packed in the fork of them stays where the three of them were put.
 
 She will leave the heap where it stands through another summer, with the end stone wedged and the soil firm round it, and the row settling a hair each year under its own weight when the thaw comes and the water runs off the shed roof past the foot of it.

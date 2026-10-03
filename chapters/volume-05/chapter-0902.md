@@ -10,7 +10,7 @@ Weeds root in the joint before anywhere else, because the joint keeps damp when 
 
 They are slabs of concrete about two feet square, with the tops worn smooth and the joint between them about half an inch wide.
 
-Two feet square sits firm on grit without cracking, while three feet spans soft spots and breaks in the middle under a barrow.
+Two feet square spans a soft spot on grit without cracking, while three feet bridges two of them and breaks in the middle under a barrow.
 
 She wants how deep the joint runs and what lies under it, and whether the slabs meet underneath or stand apart.
 
@@ -20,11 +20,11 @@ So the wrist goes into the joint sideways, with the hand hanging loose past it a
 
 The slabs are warm on top where the sun has been, and cool inside the joint where the sun never reaches.
 
-The wrist goes down about two inches and stops on something firm. Not concrete. Grit, packed firm in the joint, with sand in it and a shell of a snail gone white in the middle.
+The wrist goes down about two inches and stops on something hard. Not concrete. Grit, packed tight in the joint, with sand in it and a shell of a snail gone white in the middle.
 
 The shell sits where the snail died in last summer's drought, with the soft of it gone to ants and the hard of it left to the rain.
 
-She turns the wrist a little and the grit sinks a finger joint under it and then sets firm again, because grit in a joint locks tighter the more it is pressed.
+She turns the wrist a little and the grit sinks a finger joint under it and then sets again where it was, because grit in a joint locks tighter the more it is pressed.
 
 What is under the grit is more grit, going down further than the wrist can reach, with the sides of the slabs going straight down to it without any lip under either.
 
@@ -42,7 +42,7 @@ Grit without sand rattles loose in a month, because each stone stands separate a
 
 That is why a joint topped with stone alone wants sweeping every week, while one with sand in it wants doing once a year.
 
-That is why the joint stands firm under the wrist at the top and loose underneath where the sand has washed out.
+That is why the joint stands up to the wrist at the top and runs loose underneath where the sand has washed out.
 
 She puts the wrist in again further along, to feel whether the grit runs the whole length.
 
@@ -60,19 +60,17 @@ That is why the low end sits half an inch down and no more, and why the slabs si
 
 Concrete slabs rock when grit goes out from under one corner, because the slab bridges over the hollow and tips when a foot lands on it.
 
-These two do not rock. She tries each corner with her weight and neither moves, which says the grit under them is still firm and the fall still throws water clear.
+These two do not rock, and the wrist has found out why. She puts it back into the joint at the bed end and then at the path end, and the width of the gap is the same at both, and the grit stands up against the wrist the whole way along it, which says the slabs meet underneath and the bed under them still carries both corners.
 
-Weight on a corner tells more than sight along the top, because the eye forgives half an inch and the foot forgives nothing. The toe finds a tip the straightedge misses, which is why treading outdoes sighting on old walks.
+Grit under slabs packs down under weight the way road stone does, and each foot that passes presses it a little harder where the slab bears most.
 
-Grit under slabs packs firm under weight the way road stone does, and each foot that passes presses it a little firmer where the slab bears hardest.
-
-That is why the middle of each slab sits firm while the corners breathe a little in wet weather, when water gets under and lifts them a hair.
+That is why the middle of each slab sits solid while the corners breathe a little in wet weather, when water gets under and lifts them a hair.
 
 Corners lift because water gets under the low corner first and floats the grit out, and the slab tips a hair until the grit settles back.
 
 A slab that tips a hair in winter and settles in summer never rocks, while one that tips and stays tipped will rock every step until it is lifted and reset on fresh grit.
 
-These two tip and settle, which is why neither rocks under her weight.
+These two tip and settle, and the soil the wash has left at the bed end of the joint is firm and dry under the grit.
 
 ---
 
@@ -82,7 +80,7 @@ They run straight for about two inches and then roughen where the mould left the
 
 A rough side keeps its grit while a smooth one lets it slip, which is why moulded slabs keep their joints longer than sawn ones.
 
-What the path wants is sand brushed into the joint with a stiff broom and watered in, with the top left a little proud to settle.
+A joint at the end of a strip is filled from the top with sand, brushed in with a stiff broom and watered in, and the top of it left a little proud to settle down into the gap.
 
 Sand watered in runs down into the holes and locks, while sand brushed in dry sits on top and blows away by May.
 
@@ -90,13 +88,13 @@ Dry sand blows because each grain stands separate and the wind rolls it, while w
 
 That is why joint sand goes in on a damp day with rain behind it, and not on a dry one with wind behind.
 
-The tops of the slabs are firm underfoot, with no cracks across them and no corners gone soft.
+The tops of the slabs bear weight underfoot, with no cracks across them and no corners gone soft.
 
 Concrete goes soft at the corner where feet grind grit into it year by year, because grit underfoot cuts like paper on timber.
 
 These corners are still square, which says the grit stays in the joint and not on the tops.
 
-The grit in the joint is firm at the top where feet press it and damp below where water sits, and the snail shell lies firm in the damp part the way a pebble lies in a stream.
+The grit in the joint is packed at the top where feet press it and damp below where water sits, and the snail shell lies whole in the damp part the way a pebble lies in a stream.
 
 She takes the wrist out of the joint and brushes the grit off on the slab beside it, and reads the two slabs from the path by what the tops betray.
 
@@ -104,4 +102,4 @@ From overhead the joint reads as a shadow line between pale beds, even and direc
 
 From the end the bed end shows lower by half an inch, where rain has taken sand out of it year by year.
 
-Both views are true, and the wrist knows what the joint will want next, which is sand brushed in and watered firm, because she knows that the slabs will sit true through another summer on grit that locks firm under weight.
+A shadow line from overhead and half an inch low at the bed end, and the two of them come out of one gap and one fall, and what the wrist knows is that these slabs will sit true through another summer on grit that binds under weight.
