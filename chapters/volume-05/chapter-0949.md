@@ -48,4 +48,4 @@ The hand had been out of the gap and down at his side before she was at the door
 
 The office door four feet away has half an inch at its head on the same corner and a knife blade's worth of play in its top knuckle, and the two doors in this yard will go on in one another's company doing the same thing at different rates.
 
-The gap at that hinge corner stays three inches by three inches and the office door four feet away will have twice its own half inch in another twenty years. The head of that door is where the door is, rather than where it was.
+The gap at that hinge corner stays three inches by three inches, and the office door four feet away will have five eighths of an inch at its head in another twenty years, which is its own half inch with a sixteenth twice over. The head of that door is where the door is, rather than where it was.
