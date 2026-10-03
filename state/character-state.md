@@ -3828,3 +3828,7 @@ Ten of ten on the page, 750 files at the start and 760 at the end, 1627/1453/143
 
 **HE HIM HIS STANDS AT ZERO IN ALL TEN CHAPTERS WHOLE FILE, INCLUDING THE TWO UNIT CHAPTERS.** The narrating presence at the unit is not given a gender in the prose in either 0956 or 0964.
 
+
+---
+# VOLUME 05, CONTINUATION 0078 — CHARACTER STATE AFTER CHAPTER 974
+Five standing figures, each two chapters (nine 0965/0974 shopping alone; twelve 0966/0970 sister; unit 0967/0971 two-doors; ten 0968/0972 sister; lock-up 0969/0973 books). No new figure (tenth block running at ceiling zero), no name, no age, no reunion. Full account is the `VOLUME 05, CONTINUATION 0078` block at the end of `state/continuity.md`, which is authoritative; this file carries this one line and no account of its own.

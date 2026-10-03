@@ -2410,3 +2410,17 @@ Fifteen findings on the committed block of 785 to 794, nine of them fixed in the
 0964 Down The Corner Slot. Mon 16 Dec 2024, unit, the man in his early forties. A lead rainwater pipe runs up the angle where the store wall and the office wall meet and leaves a slot down each side of it, one inch wide against the store and half an inch against the office. The thumb goes on the pipe and the first and second fingers on the brick and the hand goes down as far as both will go together, which is a lead collar wiped round a joint, and there is nothing under that collar a hand can reach. The woman from two doors down stands side-on in the two feet between the two buildings.
 
 **THE TEN SUMMARIES ABOVE ARE OFF THE FILES AS THEY STAND AFTER EVERY EDIT IN THE 0077 BLOCK LANDED AND AFTER THE REVIEW REPAIR OF THAT BLOCK, WHICH TOUCHED FIVE SENTENCES IN 0955, 0957, 0958, 0959 AND 0962 AND NOTHING ELSE IN THE TEN.** The word counts (**1500/1614/1478/1506/1425/1450/1470/1494/1420/1435, total 14792**) are off the files with `wc -w` whole title included; the 1502/1614/1480/1502/1415/1450/1470/1487/1420/1435, total 14775 first recorded here are stale by seventeen words. **The five repaired sentences all carry one beat: a hand or a finger or a thumb leaving its closure before the second person arrives. It was removed from all five and the second person still never sees the thing in hand, so the change to each summary above is that the visitor's paragraph no longer says when the hand came out, and nothing else.** The datelines are 19, 22, 25 and 28 November and 1, 4, 7, 10, 13 and 16 December 2024, all nine gaps of three days, checked one by one off the real 2024 calendar, and the year did not turn.
+
+---
+## VOLUME 05, CONTINUATION 0078 — CHAPTERS 965–974 — Undated (calendar awaiting human ruling)
+0965 Along The Paving Joint (nine/shopping): two fingers ease a washed paving joint; drift of grit lies where water left it, as though sorting by weight. 1512.
+0966 Between The Standing Boards (twelve/sister): hand edge-first down a board slot; board spans its bow, until dust settles again. 1496.
+0967 Behind The Bench Leg (unit/two-doors, quoted: dog, hall roof fund): fingers over stretcher into wall void; bench asks nothing of the wall, since it stood first. 1411.
+0968 Through The Wire Coil (ten/sister): finger through a wire-coil hollow; coil keeps its hollow, because wound to last. 1402.
+0969 Round The Pipe Bend (lock-up/books, indirect: post, parcel): middle finger round a pipe bend bore; bore keeps its scale where daylight meets dark. 1419.
+0970 Down The Stone Crack (twelve/sister): fingertip down a stone crack; twin stones guard cleft and powder, when the line dries. 1400.
+0971 Along The Frame Groove (unit/two-doors, quoted: fete board, scarf): finger along a frame groove; squared oak grips powder, once the tour ends. 1403.
+0972 Under The Flag Arris (ten/sister): fingers flat under a flag arris; hollow yields sand, before noon crowns the wall. 1402.
+0973 Through The Piled Washers (lock-up/books, quoted: market, barrow): finger down a washer-pile shaft; nobody moves the pile, though washers sit to be tallied. 1413.
+0974 Into The Flint Gap (nine/shopping, indirect: bus, shop hours): nail into a flint gap; flint wall keeps lime and gap, in case another winter tests the bed. 1400.
+Full account is the `VOLUME 05, CONTINUATION 0078` block at the end of `state/continuity.md`, which is authoritative.

@@ -6285,3 +6285,7 @@ No thread opened or closed by this block. The setting name is still a human's an
 
 **AND THE FIGURES THE NEXT WRITER MUST NOT COPY, ALL RE-TAKEN AFTER EVERY EDIT: 1500/1614/1478/1506/1425/1450/1470/1494/1420/1435 TOTAL 14792, and the block's own first figures of 14775 are stale by seventeen words. Sentence pairs 11 with the dateline line in and worst 0.731, and 1 with it out, where the block printed 14, 0.705 and 0. Paragraph shape 173 of which 61 are single-sentence at 35.3 per cent with the twelve standalone dialogue lines counted apart, a median of 79, and the block's own second count of 210 of 210 which reproduces in its total and not in its single-sentence figure of 118 and is recorded as unverifiable. Declared STIFF 30 for the bare word and 34 for the stem. All twelve span figures at zero across forty-five pairs and intra-chapter, all-caps out and all-caps put back in.** 770 files, unchanged. Nothing settled, nothing deferred by omission.
 
+
+---
+# VOLUME 05 OPEN THREADS — after Continuation 0078, Chapter 974 (undated; calendar awaiting human ruling)
+No thread opened, closed, advanced or answered in 0965–974. The six open questions stand as before. Full account is the `VOLUME 05, CONTINUATION 0078` block at the end of `state/continuity.md`, which is authoritative; this file carries this one line and no account of its own.

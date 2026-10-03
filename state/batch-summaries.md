@@ -2795,3 +2795,7 @@ Ten of ten on the page, 750 files at the start and 760 at the end, 1627/1453/143
 
 **THE FIGURES A WRITER OF 0965 MAY NOT COPY WITHOUT RE-TAKING THEM, ALL MEASURED OFF THESE FILES.** The sentence pass at 14 pairs and worst 0.705 with the dateline line in and 0 with it out; the declared word STIFF at 30; the paragraph shape at 173 paragraphs of 24 with a median of 81; the file count at 770; and the all-caps-put-back spans at 0 and 0 and 0.
 
+
+---
+## VOLUME 05, CONTINUATION 0078 — CHAPTERS 965–974 — Undated (0964 is Monday 16 December 2024; calendar awaiting human ruling)
+Ten of ten on the page, 770 files at start, 780 at end. 1512/1496/1411/1402/1419/1400/1403/1402/1413/1400 TOTAL 14258. Family sixth block, nothing changed. Rotation nine twelve unit ten lock-up twelve unit ten lock-up nine (max overlap three under held no-same-band shape; proof re-taken). Said 0. Quoted 0967/0971/0973, indirect 0965/0969/0974. COLD 22. Spans zero at 10/8/7 out and back. Sentence 17 pairs worst 0.795 both ways (upper bound; worst pair since rewritten). Full account is the `VOLUME 05, CONTINUATION 0078` block at the end of `state/continuity.md`, which is authoritative; this file carries this summary and no second account.
