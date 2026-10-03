@@ -28,7 +28,9 @@ The sister of the house does not answer that at all, and the other one answers i
 
 He puts the rule down on the sill, which is the whole mistake, and stands in the middle of the room with his hands hanging at his sides and finds that he has used up the thing he came in here for and has not got to the end of it.
 
-"I can put the six weeks in front of you in a minute." "I know what the sheet at number twelve is for and I know what the crew's for and I can put both of them straight inside a minute, and I'll do it now if you want it. What I can't do is tell you to go."
+"I can put the six weeks in front of you in a minute."
+
+The sister who came to ask him does not sit down. "I know what the sheet at number twelve is for and I know what the crew's for and I can put both of them straight inside a minute, and I'll do it now if you want it. What I can't do is tell you to go."
 
 "You can. Everybody can. That's how the whole thing works."
 
@@ -46,7 +48,7 @@ The wall was bedded all round and not bonded along the run, and it is the oldest
 
 The two sisters were in the front room when he started and they were in the front room at half past two when the last course came off, and neither of them had put a hand on anything. He could have asked either of them to help and did not, and that went into the day along with everything else.
 
-Under the head of the wall at the picture rail there was a row of picture hooks on a wooden strip, three of them, all in a line about nine inches apart, and the strip has been screwed to the lath and not to the plaster, and when the wall came away it came away with the strip still on it and the strip came off the lath with about a foot of lath on the back of it. He has put that at the top of the heap where the other blocks are and taken the screws out of the strip with the point of his bar, and put the screws in his pocket, because there is nowhere on this ground to put a handful of screws and they are not mine to leave in a strip.
+Under the head of the wall at the picture rail there was a row of picture hooks on a wooden strip, three of them, all in a line about nine inches apart, and the strip has been screwed to the lath and not to the plaster, and when the wall came away it came away with the strip still on it and the strip came off the lath with about a foot of lath on the back of it. He has put that at the top of the heap where the other blocks are and taken the screws out of the strip with the point of his bar, and put the screws in his pocket, because a handful of screws is nobody's idea of a heap and they are not mine to leave in a strip.
 
 He went back to them near four. They had not moved the stack and had not gone out. The sister of the house was standing in the gap he had made in the middle of the house, looking north into the back room and then turning round to look at him, and her face was the face of somebody who has been standing in a room for four hours waiting for a thing to happen to somebody else.
 

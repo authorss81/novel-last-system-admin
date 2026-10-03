@@ -16,11 +16,11 @@ She was in there before he came up the passage, which he saw at once, because th
 
 "You've come about the front room."
 
-"I've come to tell you what the breast will cost to do properly, which is a fitter and about three times what you paid me in not-my-money, and I have got the number for you."
+"I've come to tell you what the breast will cost to do properly, which is a fitter and about three times what you charged me in not-my-money, and I have got the number for you."
 
 "Thank you." She was on her knees at the far end with a cloth and a tin. "Put it on the table in there. I'll read it after I've done this corner."
 
-He put the sheet on the table in the front room and came back and stood in the doorway of the back room with the frame against his shoulder, because there is a limit to how long a man can stand in a room where somebody is down on their knees with a cloth, and the frame is where that limit is. He looks at the wall instead, at the patchwork of pale and glue stain, and at the one strip of paper with a rose still on it.
+He put the sheet on the table in the front room and came back and stood in the doorway of the back room with the frame against his shoulder, because there is a limit to how long a man can stand in a room where somebody is down on their knees with a cloth, and the frame is where that limit is. He looked at the wall instead, at the patchwork of pale and glue stain, and at the one strip of paper with a rose still on it.
 
 "I'm on it," she told him. "I've been on it since the day you asked me if I wanted to go." Then she sat back on her heels, put the cloth in the tin and looked at him, and she did it without hurrying, and she had been getting ready to do it since before he was at the door.
 
@@ -50,15 +50,13 @@ He stood in the doorway of that room and took it, because there was nothing else
 
 "No?"
 
-"Not yet." "Ask me when you've something of your own at stake, because a man with nothing to lose will ask anybody anything at all, and he'll feel he's done you a favour into the bargain.
+"Not yet."
 
-You've had nothing at stake since the day I met you. You've turned up, you've done a bit of work, you've not charged me, and you've gone down the path. That's a good way for you. It's a poor way for me and I'd not have taken it from anybody else."
+"Ask me when you've something of your own at stake, because a man with nothing to lose will ask anybody anything at all, and he'll feel he's done you a favour into the bargain. You've had nothing at stake since the day I met you. You've turned up, you've done a bit of work, you've not charged me, and you've gone down the path. That's a good way for you. It's a poor way for me and I'd not have taken it from anybody else."
 
 "That's fair."
 
-"I know it's fair. It's just not enough." She went out past him into the passage with the tin under her arm and he heard it go on the shelf in the kitchen, and from the doorway she went on with it. "You've been asking me what I want for two days and I've been giving you a different answer each time to see whether you'd catch it.
-
-I don't want to be kept, if that's the size of it. I've been kept. Being kept is a room with a cold grate in it and a stopped clock and a clean carpet and nobody asking you anything. If I go up the river, I come back, and if I've been up the river for six weeks and I've come back, then I have been somewhere, and I am a woman who has been somewhere, and this time when somebody wants a pair of hands up the river they can ask me and I can go."
+"I know it's fair. It's just not enough." She went out past him into the passage with the tin under her arm and he heard it go on the shelf in the kitchen, and from the doorway she went on with it. "You've been asking me what I want for two days and I've been giving you a different answer each time to see whether you'd catch it. I don't want to be kept, if that's the size of it. I've been kept. Being kept is a room with a cold grate in it and a stopped clock and a clean carpet and nobody asking you anything. If I go up the river, I come back, and if I've been up the river for six weeks and I've come back, then I have been somewhere, and I am a woman who has been somewhere, and this time when somebody wants a pair of hands up the river they can ask me and I can go."
 
 "Put your name down and be found without anybody asking you," he told her. "That is what you told me the other day and I thought I had understood it and I hadn't at all."
 

@@ -42,7 +42,7 @@ The sister's face does something he does not like about a second before it arriv
 
 "She put her name there yesterday without asking anybody either."
 
-"That is right, and it is the trouble with it, and it is not mine to put right." He puts the sheet down on the table in front of the old woman rather than give it back to her, and leaves it there with his hand on the edge of the table, because a paper handed straight back to a woman who cannot read it is a way of not having left it. "I would think a great deal less of him than I do of you if he could fix it."
+"That is right, and it is the trouble with it, and it is not mine to put right." He puts the sheet down on the table in front of the old woman rather than give it back to her, and leaves it there with his hand on the edge of the table, because a paper handed straight back to a woman who cannot read it is a way of not having left it. "I would think a great deal less of him than I do of you, whoever sent it, if he could fix it."
 
 "She's not going up the river whatever happens." He puts the pencil behind his ear, finds it there with the back of his own hand, takes it out again and lays it on the table by the sheet, and stands at the window looking at the yard and the shed roof and the long wall while she gets it out. The sister answers from the other end of the room. "She's seventy-eight and she's got the hip she has and she'd be standing in the rain in a queue inside a day. That's why I'm here. I've come to tell her I'm not going."
 

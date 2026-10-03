@@ -8,7 +8,7 @@ The back door of number ten is an old ledged and braced door hung on its origina
 
 He has the fold of the rule out and has put it into the split at three points along the rail and taken it out again. At the third point the fold goes in two and a half inches, which is most of the way through the rail at that place, and the two halves of the rail have begun to take a curve the length of the door like a piece of firewood that has been in a stove, and the paint on both halves has cracked along the line and come off in flakes that are still in the crack, and the frame itself is out of true with the door by three-eighths of an inch at the top corner on the hinge side, because the yard has gone over to the left where the old cess filled in.
 
-The two sisters have the kitchen table between them and a cup and saucer on each side of it and the remains of a meal in a dish in the middle, and the wind is coming in behind him in a way that put his coat over the back of a chair. The door is painted both sides and the paint on the outside has gone on the low rail in the last two winters, so the split shows as a bare line in the middle of it about the length of a hand, and the paint on the inside is still good because nobody opens this door in the winter except the one who opens it and she has not opened it since the summer.
+The two sisters have the kitchen table between them and a cup and saucer on each side of it and the remains of a meal in a dish in the middle, and the man of the house is in the front room with the paper he has not looked up off since you came in, and the wind is coming in behind him in a way that put his coat over the back of a chair. The door is painted both sides and the paint on the outside has gone on the low rail in the last two winters, so the split shows as a bare line in the middle of it about the length of a hand, and the paint on the inside is still good because nobody opens this door in the winter except the one who opens it and she has not opened it since the summer.
 
 "You could have that stopped in ten minutes." The sister goes on with her tea as if nobody had spoken. "That is what I had to say while you were getting the rule out."
 
@@ -34,7 +34,7 @@ The kitchen at ten is about nine feet by eleven with one window over the sink an
 
 "I'm asking her this week." He looked at her.
 
-"You're asking her when she's let you. That's different, and don't stand there and tell me it isn't." She turned round at last. "There were two lines, and one of them is mine and the other is her over at number nine, and I know what happens if both of you ask and I know what happens if only one of you does. I'm not being clever. I'm telling you what the arithmetic is at about nine o'clock this morning."
+"You're asking her when she's let you. That's different, and don't stand there and tell me it isn't." She turned round at last. "There were two lines, one of them my sister's and the other her over at number nine, and I know what happens if both of you ask and I know what happens if only one of you does. I'm not being clever. I'm telling you what the arithmetic is at about nine o'clock this morning."
 
 "I've not asked her."
 
@@ -42,18 +42,28 @@ The kitchen at ten is about nine feet by eleven with one window over the sink an
 
 She was right, and it took him about nine seconds in a cold yard to get down to it, which is nine seconds less than it took him to get it out at number twelve on Monday and about nine seconds more than it ought to have taken him on Friday. He went out into the yard of number ten and stood with the door open behind him and the wind coming off the coal shed straight into his back, and it was cold enough in the doorway to take the feeling out of his hands in about a minute.
 
-One version of this has him walking down the frontage to ask a woman of sixty-one whether she will go up the river for six weeks, then coming back to tell the woman of the house it is done, and both of them going. The other has him not asking her at all, and her going anyway on two words off her own shelf, and himself with a beam to put in on Tuesday, and nothing about it being a job.
+He did not go down the frontage. He went back inside and set his bag down on the flags by the door and told her he would carry it up, and told her the whole of it before she could thank him for it.
 
-The second place was gone by the time he got back in. He stood in that yard and let the wind come straight at him and did not go down the frontage.
+"I'll take it up the frontage and put it in her hand, and I will not ask you beforehand whether you want to go."
 
-The sister was standing at the table with her coat on and her sister was across the front room by the new opening and neither of them was looking at him, and he knew from the way the room was that something had happened in the yard while he was in it.
+"You have not asked me now."
 
-"The woman from two doors down was up at that office first thing." The sister has her coat on and her bag is by the door. "She was through that door twenty minutes before anybody else." She's one of the two."
+"I have not." He put his hand flat on the table over the sheet, which she had not let go of. "That is the arrangement and you would rather have it from me than work it out. If I ask you now you will say yes to get me finished with it. And if I do not ask you then I am the man who carried your name up there and never asked, and the two of you have been telling me since Friday that a man can stand in a room full of people his whole life and not ask one of them a thing."
+
+She took her hand off the sheet and pushed it across the table to him.
+
+"Then carry it up and don't ask me. My sister can tell you that is what I said."
+
+"I'll not ask you." He put the sheet into the bag against the folding rule and set the bag square on the flags. "And when that book shuts at the end of the season you will be a woman who was carried up there and not a woman who was asked, and that will be mine and not yours, and you can set it on the sheet if there is room for it."
+
+"There is not room for it and it wants it in the morning."
+
+The sister was standing at the table with her coat on and her bag was by the door by the time he had the bag shut, and the other one had come off the dresser at last and was at the window with her hands together, and the man of the house had not come out of the front room at all.
+
+"The woman from two doors down was up at that office first thing." The sister has her coat on and her bag is by the door. "She was through that door twenty minutes before anybody else." "She's one of the two."
 
 "She never—"
 
-"She never told you. No. You couldn't have known any of it, and I am not accusing her of getting in front of you.
+"She never told you. No. You couldn't have known any of it, and I am not accusing her of getting in front of you. She was asked yesterday, she took it, and she left this morning with her bag." She took her sister's coat off the back of the chair where he had put it down. "That is the other one gone. So there is one line left and it is the one you have not asked anybody about."
 
-She was asked yesterday, she took it, and she left this morning with her bag." She took her sister's coat off the back of the chair where he had put it down. "That is the other one gone. So there is one line left and it is the one you have not asked anybody about."
-
-He shouldered his bag on the flags and did not go down the frontage and did not go back inside, and he stood in the yard with the door behind him and the bottom rail of that door split from one end to the other with the wind coming through it in a sheet, and it is still doing that, and he has not shut it.
+He shouldered the bag and went out through the yard and up the frontage with the wind into his back, and it was four days since the woman at number nine had put two words and a surname down on a paper off her own shelf and told him that she wanted to be on it, and he was going up the frontage with somebody else's on the sheet in his bag.

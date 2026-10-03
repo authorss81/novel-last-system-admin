@@ -34,7 +34,7 @@ The sister came in from the hall with her hands full and put a folded coat down 
 
 "You have put it to her."
 
-"I put it to her Wednesday and she has not given me an answer, and not giving me an answer is the answer, and I have been going at that case since Wednesday for a woman who is not going." She looks at the old woman. "You can tell him."
+"I put it to her Wednesday and she has not given me an answer, and not giving me an answer is the answer, and I have been going at that case since Wednesday for a woman who is not going." She looked at the old woman. "You can tell him."
 
 "I am not going to be left." She puts it to the room rather than to him, and her hands stay in her lap throughout. "That is what I would like on the sheet, and I have not told my daughter, because she will take it as me making a fuss. I am going because there has been nobody on that path but me since the summer before last and I am seventy-eight and I would like to see some water that is not in a tin. I have been ashamed for about a fortnight of how small that is, compared with what everybody is talking about."
 

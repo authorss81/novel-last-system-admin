@@ -24,9 +24,7 @@ She came through from the office at about two, and the bay took her boots and ga
 
 "And after they come back."
 
-"After they come back they get what there always is." She put her hand on the edge of the shuttering boards, pushed one an inch and let it go again. "That is all I have got and I have got it out in the wrong order.
-
-The book shuts at the end of the season whichever way this goes. It shuts on every man on the page, and on every man who is not. The only way your name gets onto that book and stays on it is if there is work in the dark half of the year to enter you against, and that window will be empty unless these two men are stood on the concrete of this yard when the work turns up. That's the arithmetic and you're in it, and you have been in it since you asked me for a job on that page on Monday."
+"After they come back they get what there always is." She put her hand on the edge of the shuttering boards, pushed one an inch and let it go again. "That is all I have got and I have got it out in the wrong order. The book shuts at the end of the season whichever way this goes. It shuts on every man on the page, and on every man who is not. The only way your name gets onto that book and stays on it is if there is work in the dark half of the year to enter you against, and that window will be empty unless these two men are stood on the concrete of this yard when the work turns up. That's the arithmetic and you're in it, and you have been in it since you asked me for a job on that page on Monday."
 
 "I want a third column." He does not raise his voice and he does not take a step towards her, and the bay gives the two of them back the echo of it. He let it go past him and looked at the rail along the bottom of the shutter instead, and then at the band of grey daylight coming in under it and going away again as a lorry came past on the frontage.
 
@@ -34,9 +32,7 @@ The book shuts at the end of the season whichever way this goes. It shuts on eve
 
 "You have told me that twice now. Tell me the other thing."
 
-"A third column has never existed," she told him. "Not on that page and not on any page I have ever had. One column down the side of the page, a job against every line of it, and nothing else anywhere on the paper. Nobody drew that and nobody drew it by accident.
-
-I have had that book since the year it was made and I have filled in about two thousand lines off it, and not once in all that time has anybody stood in front of me and asked me for a line of a different shape. You want a line for the man they come back to. That line has never been on the paper. What is on the paper is a line for a job, and a job belongs to a man that is on, and if the man that is on goes up the river then the job belongs to somebody else, or to nobody, and at the end of the season the page shuts." She looked at him in the grey band of light for a while and then she leaned her shoulder against the post of the bay, which stands an inch proud of the wall at the top, because the whole front of that building has been out of line with itself since it was a workshop.
+"A third column has never existed," she told him. "Not on that page and not on any page I have ever had. One column down the side of the page, a job against every line of it, and nothing else anywhere on the paper. Nobody drew that and nobody drew it by accident. I have had that book since the year it was made and I have filled in about two thousand lines off it, and not once in all that time has anybody stood in front of me and asked me for a line of a different shape. You want a line for the man they come back to. That line has never been on the paper. What is on the paper is a line for a job, and a job belongs to a man that is on, and if the man that is on goes up the river then the job belongs to somebody else, or to nobody, and at the end of the season the page shuts." She looked at him in the grey band of light for a while and then she leaned her shoulder against the post of the bay, which stands an inch proud of the wall at the top, because the whole front of that building has been out of line with itself since it was a workshop.
 
 "And if a man is on it and the work stops on the yard."
 
@@ -46,15 +42,13 @@ I have had that book since the year it was made and I have filled in about two t
 
 She went back through to the office and came back with the week's sheet torn out along its perforation, which she does about six times a week, and she stood in the band of light and read the two names off it.
 
-"The woman at number ten. She's had it. She put it in herself and it went up the frontage with a man and not on a form." She turned the sheet round and pushed it into his hand. "And the other line is empty, and it will be empty at five o'clock unless somebody is on it, and setting anybody on that page is not work I am going to take on, and a third column has never existed."
+"The sister at number ten. She's had it. She filled the line in herself, in her own hand, and it went up the frontage with a man carrying it and not on a form." She turned the sheet round and pushed it into his hand. "And the other line is empty, and it will be empty at five o'clock unless somebody is on it, and setting anybody on that page is not work I am going to take on, and a third column has never existed."
 
 He took the sheet and stood in the middle of that bay and looked at a piece of paper with two ruled lines on it and one name against one of them. The blank beside the other is the size of a man's hand and would have taken six or seven words, and he was not able to put anything whatever in it.
 
 For a length of time neither of them spoke. The bay gave the sound of their own feet back off the concrete, and she let the silence stand.
 
-She turns the sheet over in her hands and reads a line off the back of it before she looks up. "The woman at number ten put a thing to me this morning and I have no answer to it. She wanted to know whether she ought to hand the page back.
-
-She is wedded to it, and it has been going round with her in a plastic bag ever since Tuesday. I could not advise her about it." She took the sheet off him and folded it along its own perforation. "Of that pair, which would you have taken?"
+She turned the sheet over in her hands and read a line off the back of it before she looked up. "The woman at number ten put a thing to me this morning and I have no answer to it. She wanted to know whether she ought to hand the page back or go on carrying it round. I could not advise her about it." She took the sheet off him and folded it along its own perforation. "Hand it back or keep it. Of those two, which would you have taken?"
 
 "I don't know."
 
@@ -62,4 +56,4 @@ She is wedded to it, and it has been going round with her in a plastic bag ever 
 
 He stood in the middle bay of the lock-up while she went back through to the office and shut the door, and the bay is the sort of place where a man's boots sound like somebody else's boots about a half second after he has moved, so that he stood there and listened to it.
 
-The rail along the bottom of the shutter stands clear of the floor by a foot and has done since before she came in, and there is about an inch of daylight under it all the way across the front. The old concrete under that rail is out of true with the middle of the bay by about half an inch, because the shutter was hung off a wall that had been built out of line with its own slab, and it slopes away to the gully, and it is bare and hard and quite dry, and a broom goes over it twice a week and has never once got underneath anything at all.
+The rail along the bottom of the shutter stands clear of the floor by a foot and has done since before she came in, and there is about an inch of daylight under it all the way across the front. The old concrete under that rail is out of true with the middle of the bay by about half an inch, because the shutter was hung off a wall that had been built out of line with its own slab, and it slopes away to the gully, and it is bare and hard and quite dry, and it takes the light off the band under the rail and gives back nothing you could read a number off.

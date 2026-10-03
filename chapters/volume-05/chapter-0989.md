@@ -28,9 +28,7 @@ The sash in that window is out of true in its frame, standing half an inch back 
 
 "They keep their rate and they keep their name on this page, and the page closes at the end of the season whether they've been here or not, and it does that to everybody whether they go or not. That's how it works. You know that as well as I do."
 
-"It's not mine." She leaves it lying there on the desk where he can reach it. "That is what you came in here to be told and you haven't asked for it yet. I enter work.
-
-I don't put men on. Every man on this page is on it because somebody who was on it brought him, or because a fitter put him there when he was twenty-four and had no pull at all. If I start choosing, this book is a different book inside a week and every man on it will know it by the Friday." He looked at the two empty lines, and she let him look at them, and neither of them put a word in for a while.
+"It's not mine." She leaves it lying there on the desk where he can reach it. "That is what you came in here to be told and you haven't asked for it yet. I enter work. I don't put men on. Every man on this page is on it because somebody who was on it brought him, or because a fitter put him there when he was twenty-four and had no pull at all. If I start choosing, this book is a different book inside a week and every man on it will know it by the Friday." He looked at the two empty lines, and she let him look at them, and neither of them put a word in for a while.
 
 She gets as far as that and then stops him. "Then ask. No — don't. Listen to me first."
 
@@ -40,9 +38,7 @@ She gets as far as that and then stops him. "Then ask. No — don't. Listen to m
 
 "You could put it to the yard. To everybody at once."
 
-"And get one hand up and nine men deciding in the tea break that the one who put his hand up is the one who thought about going." She spread both hands on the open page, one either side of the two empty lines. "Last spring I asked three men in this room, one at a time, because we were that few. Two of them went.
-
-Both of them came back before the year turned. And there was nothing on this page for them until well into the winter, because the work that came in went to men already on it, and neither of those two has been on this page since. One of them has gone to work on the far side of the city and he is not a fool and he is not ungrateful. He simply was not here when the work came in, and there was nobody to speak for him, because asking a man and entering a man are two different operations and only one of them is on this page."
+"And get one hand up and nine men deciding in the tea break that the one who put his hand up is the one who thought about going." She spread both hands on the open page, one either side of the two empty lines. "Last spring I asked three men in this room, one at a time, because we were that few. Two of them went. Both of them came back before the year turned. And there was nothing on this page for them until well into the winter, because the work that came in went to men already on it, and neither of those two has been on this page since. One of them has gone to work on the far side of the city and he is not a fool and he is not ungrateful. He simply was not here when the work came in, and there was nobody to speak for him, because asking a man and entering a man are two different operations and only one of them is on this page."
 
 The yard went past. Two men crossed it by the rack and neither of them looked in at the window.
 
@@ -62,7 +58,7 @@ She turned the page round to him and put her finger on the first name, and he ha
 
 "Go and ask him what?"
 
-"Not him." She shut the book, which she does not do, and put her palm flat on the cover of it. "Go and ask her. Go to number nine and ask the woman who books work that at number nine what it is for. She will tell you. She has told me, and she told me the same thing she will tell you, and if you had been in this office ten minutes ago I'd have told you both of them myself instead of making you walk down there for it."
+"Not him." She shut the book, which she does not do, and put her palm flat on the cover of it. "Go and ask her. Go to number nine and ask the woman who lives there on her own what it is for. She will tell you. She has told me, and she told me the same thing she will tell you, and if you had been in this office ten minutes ago I'd have told you both of them myself instead of making you walk down there for it."
 
 "I don't know what you mean."
 

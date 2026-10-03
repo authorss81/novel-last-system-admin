@@ -18,9 +18,9 @@ She came in at the office door from the yard with the door open behind her and s
 
 "I have come to tell you all of it and I have not had it in one piece before, so it will come out in the wrong order."
 
-"The sister at number ten has taken a line and put it in herself, with a man walking up the frontage beside her. The one at number nine has taken one and has not told a soul. One line remains unfilled and stays unfilled until five o'clock this afternoon." He turned a trestle a quarter turn without meaning to.
+"The sister at number ten has taken a line and filled it in herself, with a man walking up the frontage beside her. The one at number nine has taken one and has not told a soul. One line remains unfilled and stays unfilled until five o'clock this afternoon." He turned a trestle a quarter turn without meaning to.
 
-"I asked the one at number nine whether she would go. She didn't answer, and she put her name down herself two days before I got there. I didn't ask the one at number ten. I walked as far as that gate and no further. One done, one done without me, and one not done at all."
+"I asked the one at number nine whether she would go. She didn't answer, and she put her name down herself two days before I got there. I carried the other one's sheet up the frontage and I never asked her. One done, one done without me, and one not done at all."
 
 "And you want the empty line."
 
@@ -42,9 +42,9 @@ She came in at the office door from the yard with the door open behind her and s
 
 "Then nothing in it is to be liked or disliked. Come round this side."
 
-She gets a hand into her apron pocket, brings out a folded sheet and puts it on the corner of the desk, and he came round and stood on the far side of it from her.
+She got a hand into her apron pocket, brought out a folded sheet and put it on the corner of the desk, and he came round and stood on the far side of it from her.
 
-"I am on it. I was in that office on Thursday, ahead of anybody else. I never told you. The woman at the lock-up does not know either. That page has been in a plastic bag in the front of my handbag since Tuesday, and it has been in and out of that bag every day since."
+"I am on it. I was in that office on Thursday, ahead of anybody else. I never told you. The woman at the lock-up does not know either. That page has been folded and unfolded in the front of my handbag since Tuesday, and it has been in and out of that bag every day since."
 
 He had been carrying the empty line round his head for four days like a coin in his fist, and there was nowhere in that room to put down what she had just handed him.
 
@@ -56,9 +56,7 @@ She withdrew her hand from the desk altogether.
 
 "Then what took place on Thursday morning."
 
-"They asked me. In an office, on their own, with a sheet with a heading on it." She stopped, and took it up again a moment afterwards. "They want somebody to sit with a mother four afternoons a week while they do her hip.
-
-Up the river. Six weeks. And I'm to be the one who sits with her. And my mother is the one who would be left here."
+"They asked me. In an office, on their own, with a sheet with a heading on it." She stopped, and took it up again a moment afterwards. "They want somebody to sit with a mother four afternoons a week while they do her hip. Up the river. Six weeks. And I'm to be the one who sits with her. And my mother is the one who would be left here."
 
 The office was very quiet, and through the glass the yard was doing nothing in particular. Her eyes went down to the boards at her feet, and stayed there.
 
@@ -84,9 +82,7 @@ The office was very quiet, and through the glass the yard was doing nothing in p
 
 "You haven't—"
 
-"You'll not." She did not raise her voice and she did not move. "Nobody is going to set your name down in place of mine.
-
-Do you understand what you have just done? You have wanted that line since Monday and you would take it off me in a sentence if I let you, and the reason I am not going to let you is that it would be the one thing that page is unable to do. Not one line exists for a man to go in place of a woman who has been on since she was twenty-two. Ask for it and there will be one in a week, and then there's a way of doing this thing that never asks anybody at all, and I have seen two good trades turn into that."
+"You'll not." She did not raise her voice and she did not move. "Nobody is going to set your name down in place of mine. Do you understand what you have just done? You have wanted that line since Monday and you would take it off me in a sentence if I let you, and the reason I am not going to let you is that it would be the one thing that page is unable to do. Not one line exists for a man to go in place of a woman who has been on since she was twenty-two. Ask for it and there will be one in a week, and then there's a way of doing this thing that never asks anybody at all, and I have seen two good trades turn into that."
 
 "Then I'll do as I am told."
 
@@ -102,4 +98,4 @@ Do you understand what you have just done? You have wanted that line since Monda
 
 Four days ago he had wanted his name on a page. Tonight he had wanted an answer out of a woman about a woman up a river, and she had taken it out of his hands because he was reaching for it. Neither of those is the same as the first one, and he has got no page and no line and no name in either place. He walked her out to the gate, came back, and stood in the office door with his hand on the frame while the whole week arrived on him at once, which is how it always arrives, all at the end.
 
-The board is on the trestles with the paper square still on one end of it and the plane on the bench behind the door, and he has not gone near the bench, and the brown card jammed behind the lower joint of that sash is the oldest thing in the office.
+The board is on the trestles and the plane is on the bench behind the door, and she is going to think of something to ask him, and he has not the least idea what it is.
