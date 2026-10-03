@@ -3769,3 +3769,27 @@ Ten of ten on the page, 740 files at the start and 750 at the end, 1570/1440/143
 **SIX OF THE TEN ARRIVALS CARRY NOTHING AT ALL IN THEIR HANDS AND NO TWO OF THE TEN DOORS IN THE BLOCK ARE THE SAME DOOR.**
 
 **THE THING THIS BLOCK ADDS TO A CHARACTER WRITER'S ACCOUNT, AND IT IS ABOUT THE ROSTER AND NOT ABOUT ANYBODY IN IT.** Nine of the ten chapters opened with *she wants the X, and the X is…*, six opened the hand's entry with *A X is V-ed, so the hand goes…*, and five carried a sentence reporting what the visitor said. None of the three was visible to the span gate at ten, eight or seven tokens, across or within, all-caps out or all-caps put back. **THE ARRIVAL AND THE ASK ARE THE TWO MOST REPEATED SENTENCES IN THE BOOK AND NEITHER IS MEASURED BY ANYTHING.**
+
+# VOLUME 05, CONTINUATION 0076 — CHARACTER STATE AFTER CHAPTER 954
+
+Ten of ten on the page, 750 files at the start and 760 at the end, 1627/1453/1431/1481/1402/1437/1438/1425/1442/1428 TOTAL 14564 by `wc -w` whole title included off the files after every edit landed.
+
+## THE FIVE STANDING FIGURES, EACH TWO CHAPTERS, NO NEW FIGURE, NO NAME
+
+**Twelve, seventy-eight, with a sister.** 0947 the lowest course of a lean-to with the slate's head standing off its batten, two fingertips wrung against one another in the opening, sister indirect out of the back door. 0950 a stone trough raised at each end on a piece of slate with a dry run under it, the thumb hooked over the trough's own far rim and pressed down, sister quoted in the mouth of the back passage. Untouched by either chapter: trough dips, stones, soot, slaters, screws, boards, ties. **she** at the zero count of he/him/his in both, whole file.
+
+**Nine, late fifties, alone in the house.** 0945 the bore of a four-inch clay pipe set on end as the end pier of the boundary wall, four fingers spread in and closed slowly until all four pads arrive on the clay, shopping woman indirect at the plank gate. 0953 a granite kerb tilted a third of an inch where the bed under one end has washed out, the thumb bent back at its own joint with two fingers beside it, shopping woman silent at the mouth of the lane. Untouched by either chapter: rails, posts, screws, paving, flints, beds.
+
+**Ten, early thirties, with a sister.** 0946 the face of a concrete step blown away under the nosing, the closed hand rapped once along what is left with the knuckles, sister quoted through the hedge gap. 0954 timber decking with one board cupped a quarter of an inch off its joist, the hand laid flat and drawn along the head joint with the nails kept just clear, sister quoted on the lane kerb. Untouched by either chapter: brick rows, banks, grit, coils, paths, beds, forks.
+
+**The lock-up, late forties, with her books.** 0948 the open top of a hollow steel section used as the end stile of the yard gate, the shut hand put down and opened out inside it, books woman silent through the rear gate with a coil of wire. 0951 the open end of an open-web steel beam, one opening taken twice at two angles with the wrist turned a quarter, books woman indirect at the office window. Untouched by either chapter: aprons, footings, washers, bolts, pours, bends.
+
+**The unit, early forties, the man, and no reunion and no Mercer and no Ardent.** 0949 the head gap of a store door dropped on its two butts, three inches by three inches at the hinge corner and nothing at the other, the hand turned end over end inside it, two-doors silent in the office doorway. 0952 a stanchion base plate standing a quarter of an inch off its bed of old mortar at one corner, the palm set on the plate and the fingers driven by the wrist, two-doors silent through the gate in the dividing wall. Untouched by either chapter: bench, doors, frames, dust, fans.
+
+**he/him/his 0/0/1 IN 0949 AND 0/0/0 IN 0952 AND ZERO IN ALL EIGHT WOMEN'S CHAPTERS, whole file, word boundaries.** **THE FIRST DRAFTS CARRIED FOUR PRONOUNS ACROSS THREE CHAPTERS IN MASON, JOINER AND BUILDER LORE AND EVERY ONE WAS REWRITTEN.** The rule that caught them is the 0075 one: a woman standing next to a man is not a reason to print *he*.
+
+## WHAT THE VISITORS WERE GIVEN ACROSS THE TEN, NONE OF IT THE WORK
+
+0945 the plank gate in the boundary wall at the back strip, off the field, a string bag over her arm, indirect on a queue at a shop. 0946 the gap in the front hedge from the lane, nothing in either hand, quoted on the hedge and a bus. 0947 the back door onto the step and away to the back alley, sleeves down and hands empty, indirect on the school. 0948 the rear gate from the alley, a coil of wire put down on the flags, silent. 0949 the office doorway from the yard, standing in it and not coming out, silent, and **standing in a doorway is a visitor manner that appears for the first time in this account**. 0950 the mouth of the back passage with her back to the yard wall, neither in nor out, quoted on tables and a postcard. 0951 the office window with the sash down and her elbows on the sill, indirect on a man who cut hay. 0952 the gate in the dividing wall from the next yard, a coat over one arm, silent. 0953 the mouth of the lane with the wall at her back, a folded paper bag, silent. 0954 the kerb of the lane opposite, hands away inside the pockets of a coat, quoted on a cat and on windows.
+
+**SIX OF THE TEN ARRIVALS CARRY NOTHING AT ALL IN THEIR HANDS AND NO TWO OF THE TEN PLACES IN THE BLOCK ARE THE SAME PLACE.**
