@@ -19071,3 +19071,23 @@ Next continuation 895–904, not a close, floor **Friday the twenty-second of Ma
 **AND ONE MEASURE CAUGHT THIS REPAIR AS IT WAS BEING MADE.** The rewrite of 0886's bottom-of-the-pipe clause repeated a ten-token run that the chapter already had, *the bottom of that pipe is standing on the flags*, which is at line 29 in the sentence where the hand stops. It was rewritten again in the body and not in an ending, and the measure was taken after every edit rather than once at the end, which is the whole of the lesson of the 0069 and 0070 repairs.
 
 **AND THE ABSENCE OF `workspace/volume-05/continuation-0070/.done` IS NOT A DEFECT AND MUST NOT BE REPAIRED BY A WRITER.** `scripts/novel_runner.sh` touches that marker *after* this phase returns and not before it, so during a fix run it is always absent; a writer who created it would make the completion commit empty and stop the dispatch of the next phase. Left to the runner.
+
+# VOLUME 05, CONTINUATION 0071 — CHAPTERS 895–904 — Friday 22 March 2024 to Thursday 25 April 2024
+
+Ten of ten on the page. NOT A CLOSE. CARD 0904 NOT CLOSE. Files 710 (904-195+1).
+
+Family ONE THING FOUND OUT BY THE HAND GOING INTO A SPACE NOBODY CAN SEE INTO, AND NOTHING CHANGED. Nothing marked cut fastened filled shimmed written put right, no second hands, second person never sees thing in hand. Hands come out before arrival.
+
+Twelve seventy-eight 0895+0900: gap behind end standing stone of heap (wedged front/back stones, soil packed firm in fork, settling hair yearly, shed-roof channel guards footing) · hollow in bed face (rain-cut three inches, root mat locks sides, back deepens). Untouched: widths of heap stones not taken, string, bed hollows/shelf, trowel, tooling, frost wall, flue, envelope, taped box, ladder, coal, front room not entered.
+
+Nine late fifties alone 0896+0904: three bored holes in gate post (grit firm / soil firm / old grout already gone hard, bottom for bolt never fitted) · narrow opening under high flag corner (packing stone carries high, low floats on grit, pack with grit watered in). Untouched: wedges stay, post holes otherwise, kerb/channel/tuft, tenth flag otherwise, turf stack/hole/mushrooms, strip along wall, slab, pads, privet/posts/wire, top step, spanner not picked, coal not opened.
+
+Unit early forties 0897+0903 (only men in ten): space under bench boards (boards hang on rail in air, skirting keeps backs dry, spare middle thicker carries) · gap behind middle board of eleven-stack (packing batten off sweating brick, stain not decay, top leans for stickers). Untouched: top board width, store door opening, bench-top hollows, gap behind stack otherwise, store rail/plaster, drawer/wax/brush/shims, damp ring, near gate/pin, corner pipe, drain frame. Latch hooked, staple NOT DONE, April NOT PAGE.
+
+Ten early thirties 0898+0902: slot between path boards (soil ridge over buried stone, south high, boards cup) · joint between slabs (grit/sand washed low bed end, slabs true, sand watered in). Untouched: sack/soil/thread, barrow/nut/washer/tray, slab faces/arris, chippings ring, palings, felt, ply neither touched nailed, drawer, tap no water drawn, thread not cut, line not put right, cold frame not lifted.
+
+Lock-up late forties 0899+0901: square hole dish (moist earth saucer, flattened nail head, lip bellied, summer plumb winter rock) · under lip of rack length (lath packings, south soft under drip, length tilted finger). Untouched: heap/sheet folds, kerb, rack lengths otherwise, shutter/guides, cable tray/conduit/ninth washer, bench, yard door, oval holes not filled/plugged.
+
+Rotation twelve nine unit ten lock-up twelve lock-up ten unit nine. Visitors tied to places; doors/manners all differ; no latch hand, no heel-against, no bars-holding reused. Speech: quoted 0897/0899/0903, indirect 0895/0898/0900, silent 0896/0901/0902/0904. Said 2. Firm in all ten. Calendar Fri Mon Thu Mon Thu Mon Sat Tue Sat Thu, gaps 3,3,3,4,3,4,5,3,4,5 off floor Fri 22 Mar 2024; 0904 Thu 25 Apr 2024 inside Thu 18 Apr–Wed 15 May window; no 9th/11th; no two same weekday in a row; year not turned. Next floor 0905 = 0904 +3..6, never +7, read head against 9th/11th.
+
+Flags: 3(b) man on page at 0897/0903 only, he/him/his zero in women's (13/10 whole-file in men's); Mercer/Ardent not brought back, no names, no reunion. 3(f) silent run stays ended (three quoted + three indirect). 3(c) one all-caps form now 200 chapters twenty blocks 0705-0904. Ledger stale controller-owned untouched. Volume boundary human's; this is continuation not close. Reviews 0065-0070 absent except 0070 review; writer did not wait.

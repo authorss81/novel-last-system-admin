@@ -6135,3 +6135,7 @@ Next floor 0895 from **Fri 22 Mar 2024**, which is 0894 on Tuesday the nineteent
 **THE SECOND THING IS THAT A FINDING CAN BE WRONG AND STILL SOUND LIKE A FINDING.** An ivy that dies back every August is exactly the shape of an ordinary mystery and it is not true, and a reader who knows plants will stop reading rather than question it. **BEFORE A CHAPTER LEAVES YOUR HAND, ASK OF EVERY CLAIM IN IT THE ONE QUESTION NO MEASURE ASKS: IS THIS HOW THE THING ACTUALLY BEHAVES.**
 
 **AND THE THIRD, WHICH IS A SHAPE AND NOT A FACT: A REPAIR CAN PUT BACK A SENTENCE THAT WAS CUT FOR A REASON. The pass that found the physics also found a ten-token run between 0886 and 0888 that the repair had just created by restoring a paragraph in both.**
+
+# VOLUME 05 OPEN THREADS — after Continuation 0071, Chapter 904
+
+No new threads opened and none closed. Five standing figures kept whole block, each two chapters; man at unit at 0897/0903 only; ring-road man sits out fifteen blocks 0057-0071; freeholder absent; no new unaged (0/4); late fifties at nine alone. Family unchanged: hand into unseen space, nothing changed; nothing laid/packed/bedded; no blinding job. Objects left as found in all ten. Next writer reads 0071 continuity/character/threads/summaries 895-904, PROMPT 0071, own band file. 0904 Thu 25 Apr 2024; 0905 floor +3..6 never +7, no 9th/11th, no same weekday twice in a row, head of range read against eleventh.
