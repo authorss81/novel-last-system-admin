@@ -20,7 +20,7 @@ He came up to that house with the sentence ready. He had had it ready since the 
 
 He went out to that front room and got down on one knee in front of the sill so that his eye was level with the bottom of it, and stayed there while she talked, which is what he is for.
 
-He looked at it for a good while and he did it the way he looks at everything, which is from the ends inwards and without touching anything until he has to. What she had done was cut a wedge out of the sill with the point of it instead of taking the whole of the soft corner out in one piece, and the wedge was about the shape of a carrot and about about a foot long, and it had gone in on the line of the old one and had taken six inches of sound wood with it at the far end, and where it had gone in there is now a hole you could put a hand into and daylight is coming through into the room off the yard.
+He looked at it for a good while and he did it the way he looks at everything, which is from the ends inwards and without touching anything until he has to. What she had done was cut a wedge out of the sill with the point of it instead of taking the whole of the soft corner out in one piece, and the wedge was about the shape of a carrot and about a foot long, and it had gone in on the line of the old one and had taken six inches of sound wood with it at the far end, and where it had gone in there is now a hole you could put a hand into and daylight is coming through into the room off the yard.
 
 He put his hand flat on the middle rail of the bed frame and pushed down on it and took his hand off and pushed down on it again, which is a thing he does with a bed when a bed is in the room and he has to wait for a woman to finish talking, and it told him nothing except that the wire had gone and the frame is true and the room is what it was.
 
@@ -28,7 +28,7 @@ He put his hand flat on the middle rail of the bed frame and pushed down on it a
 
 "That is what I wanted." She did not sit down. "What does it want?"
 
-"Two days, and a new piece about four foot of hardwood, and the reveal cut back to a true line and not to the ragged edge of what is left there, and a board across the opening, and about eight pounds more than the figure I gave you, and a great deal of it at a time when I cannot get hardwood out of my own store because the four foot on my rack is stock and stock is not mine." He went on: "And you have cut into sound wood to get at soft wood, which is the one thing you cannot get back, and daylight is coming through that hole tonight and will be coming through it in the morning."
+"Two days, and a new piece about four foot of hardwood, and the reveal cut back to a true line and not to the ragged edge of what is left there, and a board across the opening, and about eight pounds more than the figure you gave me, and a great deal of it at a time when I cannot get hardwood out of my own store because the four foot on my rack is stock and stock is not mine." He went on: "And you have cut into sound wood to get at soft wood, which is the one thing you cannot get back, and daylight is coming through that hole tonight and will be coming through it in the morning."
 
 "It was going to come through in a fortnight."
 
@@ -44,4 +44,4 @@ He put his hand flat on the middle rail of the bed frame and pushed down on it a
 
 He stood where the light from that window came across the boards, with his hands shut hard in his pockets, and did not put the sentence to her. Nobody will ever know he had it ready, and she never had any idea of it, and the not-putting was not because she was standing in the room. He had it. He had had it since the rain. It came to the front of his mouth while she was weighting the sacking under the hole and he put it back, and he put it back because of what had happened in the coal shed a month ago and not because of anything that had happened in the last ten minutes, and he is honest enough with himself to know the difference between those two things and not honest enough to enjoy knowing it.
 
-The bed in the room behind him stands against the left-hand wall with the mattress bare and the wire gone, and it is the only thing in that house that nobody has asked him about and it is square to one wall and out of true to the other, and he has been in and out of that room four times this week looking at a frame he had no reason to look at.
+The bed in the room behind him stands against the left-hand wall with the mattress bare and the wire gone, and it is the only thing in that house that nobody has asked him about, and it is square to one wall and out of true to the other. He has been in and out of that room four times this week looking at a frame he had no reason to look at.
