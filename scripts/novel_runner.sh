@@ -30,9 +30,13 @@ phase_dir=""
 # writes nothing, which looks identical to a failure and burns every attempt
 # until the phase blocks. Recognize it before any model runs.
 declare_completion_from_prompt() {
-  local candidate="$1" heading
-  grep -qiE 'manuscript (is|has) (finished|complete)|novel is (finished|complete)|book is (finished|complete)' "$candidate/PROMPT.md" || return 1
+  local candidate="$1"
   [ -f "$candidate/.done" ] && return 1
+  # Merely stating that the manuscript is finished is not enough: the synopsis
+  # phase opens with exactly that sentence and still has real work to do. Require
+  # an instruction to declare completion and to write nothing.
+  grep -qiE 'this phase (verifies|records|declares)|the runner recognises the declaration|declare (the )?completion|write nothing' "$candidate/PROMPT.md" || return 1
+  grep -qiE 'manuscript (is|has) (finished|complete)|novel is (finished|complete)|book is (finished|complete)' "$candidate/PROMPT.md" || return 1
   mkdir -p state
   {
     echo "# Novel complete"
