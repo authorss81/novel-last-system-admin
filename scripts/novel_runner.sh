@@ -25,6 +25,33 @@ fi
 
 phase_dir=""
 
+# A phase whose own prompt declares the manuscript finished is a declaration,
+# not a writing task. Calling a model for it is pointless: the model correctly
+# writes nothing, which looks identical to a failure and burns every attempt
+# until the phase blocks. Recognize it before any model runs.
+declare_completion_from_prompt() {
+  local candidate="$1" heading
+  grep -qiE 'manuscript (is|has) (finished|complete)|novel is (finished|complete)|book is (finished|complete)' "$candidate/PROMPT.md" || return 1
+  [ -f "$candidate/.done" ] && return 1
+  mkdir -p state
+  {
+    echo "# Novel complete"
+    echo
+    echo "- final phase: $(basename "$candidate")"
+    echo "- chapters: $(find chapters -name 'chapter-*.md' -type f | wc -l | tr -d ' ')"
+    echo "- recorded: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+  } > state/complete.md
+  touch "$candidate/.done"
+  rm -f "$candidate/.blocked" "$candidate/.attempts" "$candidate/.deferred" \
+        "$candidate/.retry-after" "$candidate/.checkpoint" "$candidate/.wip-conflict"
+  git add -A
+  if git commit -m "novel: complete $(basename "$candidate") (manuscript finished)" >/dev/null; then
+    git push origin HEAD || echo "warning: could not push completion marker" >&2
+  fi
+  echo "Phase $(basename "$candidate") declared the manuscript finished; recorded completion"
+  return 0
+}
+
 # Cleanup pass over every phase prompt, run before selection and without an early
 # exit. A volume outline phase whose outline file already exists has no work
 # left, so the writer correctly changes nothing; without this the phase burns
@@ -336,6 +363,10 @@ for model in "${fallback_list[@]}"; do
 done
 if [ "${#model_list[@]}" -gt "$MAX_MODELS" ]; then
   model_list=("${model_list[@]:0:$MAX_MODELS}")
+fi
+
+if declare_completion_from_prompt "$phase_dir"; then
+  exit 0
 fi
 
 resume_wip
