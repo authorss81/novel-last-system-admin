@@ -56,4 +56,4 @@ Then he worked out the rest of it, which is that a man who asks a woman for noth
 
 "Right." She came out of the mouth of the bay onto the dry frontage. "Then go and do it your way, because it is your way, and I keep the book, and the book will do exactly what it always does." He went down the frontage to the gate at the end without hurrying and stood with his back to the chain, and the rain came off the bay roof behind him in a line off the front edge of it and did not reach him, and he let it go on the brick for a while because there was nothing else about that afternoon he wanted to be doing.
 
-The brick along the front of that bay is even, the way old brick floors always are, and it is about as cold in the middle of the bay as it is at the two ends. He is not even with her on any of it.
+The rain off the roof edge has stopped, and the front of that bay is dark to the height of a hand where it kept running and pale above that, and where the two meet the line is as straight as though somebody had wanted it that way. He is not even with her on any of it.

@@ -42,7 +42,7 @@ She has it by the top rail and the bottom rail, and it is heavier than a sash lo
 
 "Nobody has asked you, and you have never asked anybody, which is the sum of it, and it is no complaint; it is a fact about the two of us that I have known about for a week and you have known about for thirty years."
 
-"I have had plenty asked of me." She put her thumb and forefinger on a flake of paint on the sill and lifted it and let it go. "Not asked. Had it asked of me. There's a difference and you have been on the wrong side of it since Friday." [break]
+"I have had plenty asked of me." She put her thumb and forefinger on a flake of paint on the sill and lifted it and let it go. "Not asked. Had it asked of me. There's a difference and you have been on the wrong side of it since Friday."
 
 "Right." He put his hands in his pockets because there was nothing in that room he wanted to touch. "Then you will take that about half an hour, and I will not push it, and I will not come back to this house on a Tuesday and ask you a question about it, which is what I did to a woman at nine and what I have been told about since. But you should know what it is, because it came to me in the middle of one afternoon and I have not put it into words anywhere, and it is a thing that a man ought to put into words in front of somebody once. There is a book at the lock-up. It has one ruled column down the side of a page and a man's name against each ruled line and a day against the name, and a man goes in it for work somebody asked him for, and it shuts at the end of the season if no work goes on it, and at the moment both of the people who were in it are up a river and the column is empty and the season is closing."
 

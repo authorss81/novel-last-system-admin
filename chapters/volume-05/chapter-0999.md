@@ -24,7 +24,7 @@ There are four lines on it now, in three hands. His own line at the top, which i
 
 "It is. On Wednesday, at that table, with her hand on it while I did it."
 
-"And the line above it is yours, and the line under that one is hers." She reads them both again. "You have put a woman down twice in one piece of paper, once giving out that she does not object and once telling her daughter to keep away from her, and now I am asking you to add a fifth line telling the daughter to come and live here for six weeks, because I am on the middle shift at the works until five and this house is shut at the front with nobody in it and she is the only family my mother has left on this side of the water." [break]
+"And the line above it is yours, and the line under that one is hers." She reads them both again. "You have put a woman down twice in one piece of paper, once giving out that she does not object and once telling her daughter to keep away from her, and now I am asking you to add a fifth line telling the daughter to come and live here for six weeks, because I am on the middle shift at the works until five and this house is shut at the front with nobody in it and she is the only family my mother has left on this side of the water."
 
 ---
 
@@ -34,7 +34,7 @@ He takes the paper back off her and keeps it in the two hands and does not put i
 
 "I am asking you to put a third one under it. Take it out if you like. I have not the least care which of the two she gets, because both of them are mine to read and neither of them is hers, because she is four days gone up a river and will not see this paper until the end of the season." She had her hand flat on the newel and her other hand on her coat pocket. "You are the man who put down the second one. I am not asking a stranger. I am asking the man who put a hand to it, and I want a line in his hand, because my sister will believe my mother put that down and will not believe my mother asked for it."
 
-[break] He does it in the front room at the table she offered him the second time he came into it, standing, with the back edge of the deal against his hip and the pencil off behind his ear, and he sets it down in ink under the second line and puts his initials and the day under that, and the ink on the second line from the bottom has been dry for four days and the ink on the new one has to be put straight beside it or it looks like a copy.
+He does it in the front room at the table she offered him the second time he came into it, standing, with the back edge of the deal against his hip and the pencil off behind his ear, and he sets it down in ink under the second line and puts his initials and the day under that, and the ink on the second line from the bottom has been dry for four days and the ink on the new one has to be put straight beside it or it looks like a copy.
 
 Then he stands at that table and looks at the whole of the sheet for the first time since Wednesday and finds that he cannot answer one question about it, which is what it is. Five lines and three hands and every one of them is about whether somebody else is spoken for.
 
