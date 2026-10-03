@@ -6204,3 +6204,19 @@ No new thread opened and none closed. Five standing figures kept whole block, ea
 **THE THING THIS BLOCK ADDS TO A CHARACTER WRITER'S ACCOUNT, AND IT IS ABOUT THE ARRIVAL AND NOT ABOUT ANYBODY IN IT.** Six of the ten arrivals carry nothing at all in their hands and no two of the ten doors in the block are the same door, which is stricter than any prior block of the ten. 0074's fault was nine sentences of a folded thing and a way of not putting it down, in two chapters with the same visitor at the same place. **THE FIX WAS MADE BEFORE ANY PROSE EXISTED AND THE THING TO CARRY IS THAT THE ARRIVAL IS THE MOST REPEATED SENTENCE IN THE BOOK AND IT IS THE ONE NOBODY MEASURES.** Sitting is new as a visitor manner in this account and appears once, at 0944.
 
 No thread opened or closed by this block. The setting name is still a human's and no character may notice it. The male lead is six hundred and eighty-one chapters off the page and nothing in this block touches that.
+
+---
+
+# VOLUME 05 OPEN THREADS — after the repair of 3 OCTOBER 2026 on Continuation 0075's successor prompt
+
+**NO CHAPTER WAS WRITTEN AND NO CHAPTER WAS ALTERED. NOTHING BELOW OPENS OR CLOSES A THREAD IN THE WORLD. THIS BLOCK IS ABOUT THE RULES AND NOT ABOUT THE CITY, AND IT IS HERE BECAUSE A WRITER OF 0945 READS THIS FILE AND MUST NOT CARRY THE OLD ONES FORWARD.**
+
+**THE OLDEST LIVE THREAD IN THE BOOK IS THE VOLUME'S OWN SPINE AND IT HAD BEEN DROPPED WITHOUT BEING RESOLVED.** The river disaster and the mutual-aid permissions were spent in 195 to 314 and then abandoned, not because they were answered but because the family rule said nothing may change. **They are back in the 0076 prompt and `state/live-canon.md` §0.3 to §0.5 now carry the spine, the compact's seven clauses, and what is standing in the world: Cooper's Reach and its Thursday clinic of forty-one patients, Kestrel Hill and the Aldbrook Trust and the Vale Clinic on a private road, Brine Wharf, the fourteen days, the printed rate, the schedule, and the last clause — that nothing in the permission requires a person to be asked, to be found, to be named, or to be told anything.** What follows a spent plot is consequences and not decisions.
+
+**THE MALE LEAD IS NOT A THREAD. HE IS THE PROTAGONIST AND HE RETURNS IN 0945.** The rule in flag 3(b) of `state/current.md` that forbade a named figure from coming back has been struck through and superseded, after nineteen blocks and six hundred and eighty-one chapters, because it told the truth and then forbade the correction. **A figure who arrives with nothing to want in the room is the defect again and is worse than an unnamed man, because a name promises the reader a person.**
+
+**THE SILENCE IS OVER AND IS NOT A THREAD EITHER.** At least six of the ten carry a spoken exchange and at least three of those carry more than two lines; nobody reports what a person said instead of the person saying it. **A visitor who arrives, crosses a yard and cannot affect the outcome is not a character and is not an atmosphere, and in the last twenty blocks not one could.**
+
+**A WRITER OF 0945 DOES NOT NEED ANY OF THE MEASUREMENT INVENTORIES IN THE BLOCKS ABOVE.** The span gates, the sentence pass, the declared-word counts, the gesture ledger and the visitor-door roster are dropped in the new prompt. Four things are kept, and they are in §10 of it: take every figure after the last edit; read your ten openings side by side before you write the fourth; a missing thing is not a repeat; and never let a script eat the paragraph after a break or the line of dialogue before one.
+
+**NO THREAD WAS OPENED OR CLOSED BY THIS REPAIR. NO NEW FINAL ENEMY. NO FIGURE AGED. NO NAME GIVEN OR WITHDRAWN. THE SETTING NAME IS STILL A HUMAN'S AND NO CHARACTER MAY NOTICE IT.** The whole of what the review found, and what was and was not done about it, is the **REPAIR OF 3 OCTOBER 2026** block at the end of `state/continuity.md`.
