@@ -70,7 +70,7 @@ So that gap is a hair at the top because the door has not gone down as far as it
 
 The proud keep is the older one. A keep that was never let into the edge is a joiner's mistake made on a day in a hurry, and it has been there since the door went in, and it does not get worse and it does not get better.
 
-Which is why the door has been lifted rather than fixed, and why it has never been mentioned: a door that has dropped a quarter of an inch in forty years is not a fault anybody brings up, and the fix is three screws and a quarter of an inch of packing, and the packing is not there.
+Which is why the door has been lifted rather than fixed: a door that has dropped a quarter of an inch in forty years is not a fault anybody brings up, and the fix is three screws and a quarter of an inch of packing, and the packing is not there.
 
 Both faults are corrected by one movement.
 

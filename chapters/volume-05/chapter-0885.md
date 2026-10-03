@@ -58,7 +58,7 @@ So the stub and the long piece were one length of sandstone about three and a ha
 
 Everything above that follows from that cut, and nothing about it went wrong at the time.
 
-The stop behind that gate was not designed. What happened is that the front boundary was made good along its length with a course of edging laid in the ground, and when that was done there were two feet of sandstone left over, and and the piece that mattered at the gate end was stood on end as a stop and the other two feet was laid in the line of the boundary and covered over, and the gate was hung afterwards to come to it.
+The stop behind that gate was not designed. What happened is that the front boundary was made good along its length with a course of edging laid in the ground, and when that was done there were three and a half feet of sandstone left over, and the piece that mattered at the gate end was stood on end as a stop and the other two feet was laid in the line of the boundary and covered over, and the gate was hung afterwards to come to it.
 
 Or the two feet went down first and the stub was the offcut, cut off to make the gate shut. One cut either way.
 

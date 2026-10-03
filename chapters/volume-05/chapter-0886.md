@@ -1,10 +1,10 @@
 # Chapter 0886 — Down Inside The Pipe
 
-Tuesday the nineteenth of February 2024, in the corner at the gate end of the yard at the unit, for as long as the light lasts on the store roof. The inside of a length of pipe.
+Monday the nineteenth of February 2024, in the corner at the gate end of the yard at the unit, for as long as the light lasts on the store roof. The inside of a length of pipe.
 
 **HE HAS A LENGTH OF FOUR-INCH CAST IRON PIPE STOOD ON END IN THE CORNER AT THE GATE END OF THAT YARD WITH ITS SOCKET UPPERMOST, AND HE MEANS TO PUT ONE HAND DOWN FLAT INTO THAT SOCKET PALM TO THE GROUND AND THEN TURN THE FOREARM ON ITS EDGE AFTER THE HAND AND DRIVE THE ARM DOWN AS FAR AS THE SHOULDER WILL LIFT IT, ONE INCH PAST THE PLACE WHERE THE ARM WANTS TO STOP, AND THE WOMAN FROM TWO DOORS DOWN IS AT THE NEAR GATE WITH HER HAND ON THE BAR ACROSS IT.**
 
-The pipe has been in that corner since the summer, and nothing has ever been said out loud about what it is there for.
+The pipe has been in that corner since the summer, and it has stood there ever since with its mouth open, and the only mark on it is the shadow of its own rim lying across the flags in the middle of the day.
 
 It is a length of four-inch pipe about three feet long, cut off square at both ends, and it is stood on end with the socket at the top, which is the way a length of pipe gets stood up when whoever stood it there was thinking of it as a thing you put things into.
 
@@ -76,7 +76,7 @@ And a hand cannot get past it.
 
 The fingers get down onto the ring of iron, and above the step there is three-quarters of an inch of gap between the ring and the bore, and a hand reaches nothing beyond that.
 
-The bottom of that pipe is the one part of it that has not been looked at, and the only way to look at it is to turn the whole thing over, and turning a three-foot length of cast iron over on hard ground is a job for two people and February is not the month for it.
+That bottom end is under the same grit the fingers have already been through, and the only way at it is to turn the whole thing over, and turning a three-foot length of cast iron over on hard ground is a job for two people and February is not the month for it.
 
 None of that is a fault. A length of pipe stood on end in a corner with a length of pipe inside it will take a stake, because a stake is a straight thing that stands on the bottom and does not care what is under the bottom.
 

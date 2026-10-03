@@ -50,7 +50,7 @@ She pushes harder, and gets the hand in another inch, and the fingers come on so
 
 Wood.
 
-A batten, about the width of a thumb and three inches through, lying across the bore three inches under the nail surface, with its two ends jammed into the wall of the pipe at the sides and its middle carrying three inches of loose nails.
+A batten, about the width of a thumb and an inch and a half through, lying across the bore an inch and a half under the nail surface, with its two ends jammed into the wall of the pipe at the sides and its middle carrying an inch and a half of loose nails.
 
 And that batten is why this pipe has never been emptied.
 
