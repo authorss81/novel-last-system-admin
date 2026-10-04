@@ -22,9 +22,9 @@ She did not turn round.
 
 He stood in that doorway and put into words the whole of what he had come up there to find out, which was that the job wanted two men under a range the length of that one and he had not got two men, and that the sister at number ten had not come back to him with the answer she owed him, and that a fortnight of a man's time had no morning on it that anybody could put a name to. He put all of it out in the flat voice he uses when he sets a length of wood down and takes his hands off it.
 
-"And I am taking it anyway," he told her. "Because a man who has not taken the money cannot begin either, and it is the not beginning that has cost me the whole of the winter, and I have stood in my own yard for eleven weeks telling myself that a week is not the same thing as a fortnight."
+"And I am taking it anyway," he told her. "Because a man who has not taken the money cannot begin either, and it is the not beginning that has cost me the whole of the winter, and I have stood in my own yard for most of a quarter telling myself that a week is not the same thing as a fortnight."
 
-The eleven weeks is what he has been given and no more. Not one penny of his own has ever gone into that kitchen, or into anything else that anybody has asked him for, and this is the first money that has ever come to him out of a front room on this frontage, and it is a sum a woman worked out for herself at her own table over two days and then went to a pantry and asked him into.
+That quarter is what he has been given and no more. Not one penny of his own has ever gone into that kitchen, or into anything else that anybody has asked him for, and this is the first money that has ever come to him out of a front room on this frontage, and it is a sum a woman worked out for herself at her own table over two days and then went to a pantry and asked him into.
 
 ---
 

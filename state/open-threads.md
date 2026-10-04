@@ -6377,3 +6377,23 @@ No thread opened, closed, advanced or answered in 0975–0984, and **the review 
 **CARD 1034 IS NOT A CLOSE AND MUST NOT BE CALLED ONE.**
 
 > **0084 POINTER, ONE LINE, AND THE RECORD IS IN THE OTHER FILE. THE FULL BLOCK IS `## VOLUME 05, CONTINUATION 0084 — CHAPTERS 1025–1034 — UNDATED` AT THE END OF `state/continuity.md` AND THE ALLOCATION IS `workspace/volume-05/continuation-0084/bands-1025-1034.json`. NEITHER MAY BE INHERITED AS A FIGURE.**
+
+---
+
+## VOLUME 05 OPEN THREADS — after the review repair of Continuation 0084, Chapter 1034
+
+**NOT ONE THREAD ABOVE IS ANSWERED, EXTENDED, CLOSED OR WEAKENED BY THIS REPAIR. THE REPAIR TOUCHED PROSE AND FIGURES, NOT EVENTS. WHAT FOLLOWS IS ONLY WHAT A WRITER OF 1035 WOULD OTHERWISE GET WRONG, AND ALL OF IT IS A FIGURE OR A MEASUREMENT.**
+
+**THE FIGURES THAT WERE WRONG AND ARE NOW RIGHT, AND A WRITER MAY NOT INHERIT THE OLD ONE.** The man has been in the house at number nine **four** times since the spring and not nine, and 1029 and 1034 now agree on it. **NO CLOSED FIGURE IS ANYWHERE IN 1025 TO 1034: `eleven`, `forty` and `four years` ARE AT ZERO ACROSS ALL TEN CHAPTERS, MEASURED, AND `eleven years` GIVEN TO WALTER SALLOW, `forty` KEPT FOR FORTY MINUTES ON 15 APRIL 2014 AND `four years` BANNED OUTRIGHT BY `state/live-canon.md` §3.**
+
+**THE ROTATION IS A THREAD IN THE SENSE THAT IT IS THE THING NOBODY HAS WRITTEN DOWN.** `ABA`, `three-cycle`, `four-cycle` and `doubled-five` had no definition anywhere in this account and four blocks measured them four ways; read as whole-row periods the first two of those are impossible, because five bands twice each in ten positions cannot make a period of three or four. **Read as distances the printed zero is true and 0083's ladder reproduces exactly.** 0084's ladder does not, and the row 0084 delivered is outside the shape its own band file declares. The full statement, with every figure measured from nothing, is `state/continuity.md` §R1 and it is in the 0085 prompt in full.
+
+**THE SIX PASSAGES THAT WERE COPIED OUT OF THE BLOCK BEFORE THIS ONE ARE RE-CUT AND THE EVENTS UNDER THEM ARE UNCHANGED**: the kerb bed at 1027, the range procedure at 1026, the woman off the book at 1029, the mother's Tuesday at 1032, the store and the rack and the tray at 1031, and the range at number nine at 1034. **THE THREADS THEY CARRY — four feet of kerb open to the bottom, four feet of deal gone into a tray, the boards coming across into the gap, a range that will not stay in — ARE EXACTLY AS THEY WERE.**
+
+**THE THING THE REPAIR FOUND THAT IS NOT A FIGURE AND IS THE FINDING: NO GATE IN THIS ACCOUNT EVER COMPARED A CHAPTER WITH THE CHAPTERS BEFORE IT.** Every gate runs the ten files of a block against each other. Six sentences in this block had been lifted whole out of 1015 to 1023, the longest thirty tokens. **A WRITER OF 1035 SHOULD RUN THE TEN FILES AGAINST THE 830 BEFORE THEM AT TEN TOKENS, INSIDE THE LINE, ALL-CAPS OUT — `state/continuity.md` §R2 GIVES THE MEASURE AND THE FIVE REMAINING PAIRS, ALL OF WHICH ARE DELIBERATE.**
+
+**THE MOTHER'S ERRAND IS STILL UNANSWERED AND STILL MUST STAY THAT WAY, AND NO WRITER MAY NAME THE YARD FOR HER. HER MOTHER'S NAME ON THE FOLDED SQUARE IS STILL NOT ANSWERED AND HIS UNDERTAKING ABOUT IT IS STILL UNDISCHARGED. THE FLUE HAS NOT BEEN BOUGHT, THE SLAB EDGE HAS NOT BEEN CUT, THE WALL IS STILL WET, AND THE RANGE HAS NOT COME OFF IT. THE KERB IS STILL OPEN TO THE BOTTOM WITH NOTHING OVER IT AND NOBODY AT THAT YARD KNOWS.**
+
+**THE AGE AT NUMBER NINE IS STILL A HUMAN'S AND STILL 0990's AGAINST THE ROSTER. NO WRITER MAY SETTLE IT.**
+
+**CARD 1034 IS STILL NOT A CLOSE AND MUST NOT BE CALLED ONE.**

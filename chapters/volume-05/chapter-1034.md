@@ -6,7 +6,7 @@ Undated in this draft.
 
 The room over the kitchen at number nine is a small cold box with one window in it giving on that back yard and a single chair under the window against the wall, and no bed in it and no fire and no shelf, and in that whole house there is nowhere a person can sit and not be asked a question. The woman of that house goes up there when the front room has the fire out in it and the kitchen has somebody else's washing stood up in it, and she has spent a fortnight in that room with nothing to do except the one thing she cannot get anybody else to take on, and on the afternoons when the fire goes out in the front room downstairs she sits up there and looks at a wall, and nothing whatever in this borough would come up that stair behind her and help.
 
-That one thing is a range. It went out the first night she was home and it has gone out twice since that, and she has been feeding a house off a fire that will not stay in, and she has not asked anybody, and she has not told anybody she has not asked anybody either.
+That one thing is a range. It has gone out twice on her since the week she came down the river, and she has been feeding a house off a fire that will not stay in, and she has not asked anybody, and she has not told anybody she has not asked anybody either.
 
 He came up that stair and she was in that room with her hands in her pockets and the window open about four inches, and the back yard below it is short between two walls and gets about an hour of the middle of the day and no more of it.
 
@@ -74,6 +74,6 @@ She turned round at that.
 
 "No."
 
-He went down that passage and out of that front door and did not shut it behind him, and the range at the back of that house has not come off its wall.
+He went down that passage and out of that front door and did not shut it behind him, and the range at the back of that house has not come off its wall, and the tray a man made for it is standing on its edge against a wall in a store, and that tray has no work to do until two men exist.
 
 His name is in three women's heads in that borough now and one of them told him to his face that she means to use it, and there is not one piece of paper anywhere in it that carries him.

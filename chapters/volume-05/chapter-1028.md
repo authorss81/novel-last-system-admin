@@ -6,7 +6,7 @@ Undated in this draft.
 
 The office at that yard is a single room with a window giving on the frontage and a shutter down over the top half of that window, which is not one of the shutters on the bays. A desk stands under the window with the chair behind it and a lamp on the desk that is not lit, and there is a book on the desk lying open at this week with the pages squared up against the edge of it. Above that week in that book there is one ruled column, and underneath the week that has shut there is a second row ruled right across the page, and it is ruled clean and it is empty and it has been empty since before the season went.
 
-What that room is for in the winter is that the shutter comes down at one end of the day and the book stays where it is, and one woman comes in and goes out again without turning a page, and everything a person might want to put into that page waits until the weather turns. He has been in that room four times since the summer and every one of the four times was a man asking to be entered against work, and this is the fifth goings and it is the first one in which he has come with nothing to ask for.
+What that room is for in the winter is that the shutter comes down at one end of the day and the book stays where it is, and one woman comes in and goes out again without turning a page, and everything a person might want to put into that page waits until the weather turns. He has been in that room four times since the summer and every time he came out with a request and not with an offer, and this is the fifth goings and it is the first one in which he has come with nothing to ask for.
 
 That column has been ruled on and filled in and ruled under and filled in every season since before the war, and every line in it came off somebody who had been asked to be there, and he has spent ten years making sure that he was never going to be one of the lines in it and he has managed it, and it is the single piece of arranging he has ever managed.
 
@@ -28,7 +28,7 @@ He got to the end of it and she let him get to the end of it.
 
 "You are asking me to enter a fault that you put in yourself, on your own ground, with your own bar, and nobody asked you for it."
 
-"That is not the reason and you know it is not the reason."
+"That is not why I am standing here and you know it is not that either."
 
 "Then give me the reason."
 
@@ -58,6 +58,6 @@ He had come up that yard to give a thing away and he was standing there being ha
 
 "Never. That is all of it, and no second half of it is coming to anybody."
 
-He took his hands off the wood and put them into his coat and he did not take the four feet of brick anywhere with him, and going down that frontage with it still in him was the hardest of the three days he had had, because he had come out of that room with nothing done and nothing asked for and the only thing he had got was an answer to a question he had not meant to ask yet. and he left that row ruled across and empty exactly as he had found it, and the lamp on that desk went on being unlit with the shutter half down over the window above it, which is what that room looks like for eleven weeks of the winter.
+He took his hands off the wood and put them into his coat and he did not take the four feet of brick anywhere with him, and going down that frontage with it still in him was the hardest of the three days he had had, because he had come out of that room with nothing done and nothing asked for and the only thing he had got was an answer to a question he had not meant to ask yet. And he left that row ruled across and empty exactly as he had found it, and the lamp on that desk went on being unlit with the shutter half down over the window above it, which is what that room looks like for a quarter of the winter.
 
 She went round to the far side of that desk and put the pen away and left the book lying open at this week, and it will stay like that until somebody comes into that room who wants something put down in it.

@@ -34,7 +34,7 @@ She had it flat on her own right hand, open, and it was a square of paper about 
 
 "Then you know what it is and you know I am not going to be told what it is by anybody who has seen it, so I am going to ask you the only thing I can think of asking anybody." She did not look at the paper. "Is her name in that book."
 
-He stood in the middle of that room with his hands behind his back and got it out of him in about as long as it takes a man to decide.
+He stood in the middle of that room with his hands behind his back and got the whole of it out in one piece, which is not how he does most things.
 
 "No."
 
@@ -60,7 +60,7 @@ She turned her hand over so that the square of paper lay face down on her palm, 
 
 "No. I know it is not." She looked up at him then.
 
-"That is the reason for this room and not the one below. My daughter ran this house for six weeks while I was up the river and she came back and put the whole of it on the table in front of me at that table, and a man stood at the end of it with his hands in his pockets and not one thing went down about him, and every woman in that room let him stand there. I have thought about which of us was the worst of it every day since that Tuesday. And a woman who has thought about that for a fortnight does not come downstairs and ask a man for a wall. She comes upstairs and asks him for the other thing, and not one brick of the wall is in any part of it."
+"That is the reason for this room and not the one below. My daughter ran this house for six weeks while I was up the river and she came back and put the whole of it on the table in front of me at that table, and a man stood at that end with his hands in his pockets and nobody in that room put one thing down against him, and every one of them let him stand there. I have gone over that morning in my own head every day since that Tuesday. And a woman who has thought about that for a fortnight does not come downstairs and ask a man for a wall. She comes upstairs and asks him for the other thing, and not one brick of the wall is in any part of it."
 
 "Is there anything at all you can do about it."
 

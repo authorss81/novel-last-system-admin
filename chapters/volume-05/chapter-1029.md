@@ -4,9 +4,9 @@ Undated in this draft.
 
 **THE TOP OF THAT STAIR HAS A WINDOW IN IT AND NO DOOR OFF IT.**
 
-That house has one stair and it turns at the bottom and goes up along the left-hand wall of the passage with about two foot eight of going, so a man in a coat cannot get up it without turning sideways. At the top of it is a landing you could not put a chair on, with a window in it giving on that street and no door off the landing at all and nothing ever stood on it except a woman who came up there to get out of the way of a house. The boards at the top are the same boards as the rest of the stair and they are worn in a band about four inches wide across the middle, and the whole of the rest of that landing is not worn at all.
+That house has one stair and it turns at the bottom and goes up beside the left-hand wall of the passage, and the rise of it is short enough that a man in a coat has to go up it sideways. At the top of it is a landing you could not put a chair on, with a window in it giving on that street and no door off the landing at all and nothing ever stood on it except a woman who came up there to get out of the way of a house. The boards at the top are the same boards as the rest of the stair and they are worn in a band about four inches wide across the middle, and the whole of the rest of that landing is not worn at all.
 
-She came off that book when the season shut and she has not worked since. Her name had been on it since she was seventeen and it came off because she asked for it, and she paid six weeks of her own work up the river to get off it, and nothing stands in front of her name now and nothing behind it either. She has a fortnight with nothing in it and a range in her kitchen that has gone out twice since the summer, and this is the one room in that house where nobody asks her anything.
+She is the only person on that frontage who has ever come off that book and she came off it herself, at the end of the season, and what it took out of her was six weeks of her own work done up the river. Nothing has been put in front of that name since and nothing behind it either. She has a fortnight with nothing in it and a range in her kitchen that has gone out twice since the summer, and this is the one room in that house where nobody asks her anything.
 
 He came up that frontage in the middle of the morning with nothing in his mouth at all, and he had not got a sentence in him when he started up the passage, and she was up there waiting before he was halfway along it.
 
@@ -56,7 +56,7 @@ She was quiet long enough that he thought she was going to let it go, and then s
 
 "Yes."
 
-"Then let us be clear about what this is, because I have had two goes at working it out since you got to the bottom of my stair." She turned round on that landing and put her shoulder against the wall at the end of it. "You have been in this house nine times since the spring and you have put one thing to me, which was what coming off a book gets a person, and you have never once come at me for anything else. Now you come up my stair with your hands empty and tell me the whole of what you cannot do. What am I to do with that."
+"Then let us be clear about what this is, because I have had two goes at working it out since you got to the bottom of my stair." She turned round on that landing and put her shoulder against the wall at the end of it. "Four times this house has had you in it since the spring and you have put one thing to me, which was what coming off a book gets a person, and you have never once come at me for anything else. Now you come up my stair with your hands empty and tell me the whole of what you cannot do. What am I to do with that."
 
 "Nothing."
 

@@ -4,7 +4,7 @@ Undated in this draft.
 
 **THE SCULLERY AT NUMBER TEN HAS ITS BACK DOOR STANDING SHUT AND A GAP ALONG THE BOTTOM OF IT.**
 
-That scullery is the little room between the back kitchen and the garden at number ten, about seven foot by five, with a stone sink under the window and a wooden sill across the doorway where the flags are, and the flags themselves run down towards that door instead of away from it. The back door is a plank door hung on two strap hinges with an unglazed light in the top corner of it that has not been glazed since before the war, and there is a gap you could get a finger into along the bottom of that door, because the bottom rail is split along its whole length and the piece of it has dropped about half an inch at the hinge side and the door shuts on nothing whatever.
+That scullery is the little room between the back kitchen and the garden at number ten, about seven foot by five, with a stone sink under the window and a wooden sill across the doorway where the flags are, and the flags themselves run down towards that door instead of away from it. The back door is a plank door hung on two strap hinges with an unglazed light in the top corner of it that has not been glazed since before the war, and there is a gap at the bottom of that door a finger will go into, because the bottom rail is split along its whole length and the piece of it has dropped about half an inch at the hinge side and the door shuts on nothing whatever.
 
 The sill across that doorway stops a hand's breadth short of the jamb at the left-hand end of it, so that anybody coming in with a full pail down that step puts the water on the flags instead of over the sill, which is how the flags by that door came to be the one low place in a house that has no other low place in it.
 
@@ -42,9 +42,9 @@ He looked at the door instead of at her.
 
 "You want a figure."
 
-"I want to know what it costs. You can put your hand through the gap along the bottom of it, and there is a woman who has done six weeks up a river standing in this borough who has not got a price for anything either, and it has been there since before the summer, and every time it rains a hand's breadth of that floor goes under the sink, and I have not mended it and I have not asked a single person about it in four years, and two men have come into this house in my life and neither of the two ever wanted paying and I sent both of them away, and there is nobody else at all I could go to." She kept her shoulder to the sink. "You have been into this house five times over since the spring and you have not touched a thing in it and you have not asked me for a penny, and I would rather be asked than have it done."
+"I want to know what it costs. You can put your hand through the gap along the bottom of it, and there is a woman who has done six weeks up a river standing in this borough who has not got a price for anything either, and it has been there since before the summer, and every time it rains a hand's breadth of that floor goes under the sink, and I have not mended it and I have not asked a single person about it in ten years, and two men have come into this house in my life and neither of the two ever wanted paying and I sent both of them away, and there is nobody else at all I could go to." She kept her shoulder to the sink. "You have been into this house five times over since the spring and you have not touched a thing in it and you have not asked me for a penny, and I would rather be asked than have it done."
 
-"That door has three things wrong with it and they are not one thing. It wants a new length of rail, because the old one is split the whole way along its length and has been since before the summer, and the jamb has to come back to take the new one. and the corner light wants reglazing after that. Two days of it with one man and a fortnight with two, and none of the three of us in this house has anybody at all to pay."
+"That door has three things wrong with it and they are not one thing. It wants a new length of rail, because the old one is split the whole way along its length and has been since before the summer, and the jamb has to come back to take the new one. And the corner light wants reglazing after that. Two days of it with one man and a fortnight with two, and none of the three of us in this house has anybody at all to pay."
 
 "Then what is it."
 
@@ -68,6 +68,6 @@ He lifted the loose piece of that rail out of the gap where it had dropped, and 
 
 She let him get as far as that gate before she caught the edge of the draining board with one hand.
 
-"I am going to find out," she told him. "I am going to go and ask somebody what a thing like that costs a woman, and I have never done it and I do not know who to ask, and you did not put that in my head, you just walked into my scullery and asked me first, which is where all of it came from."
+"I am going to find out," she answered. "I am going to go and ask somebody what a thing like that costs a woman, and I have never done it and I do not know who to ask, and you did not put that in my head, you just walked into my scullery and asked me first, which is where all of it came from."
 
 Standing in a scullery with a loose piece of rail back in the gap it came out of, he found that he had taught a woman in this borough to find out what a thing costs her, and when she does it there will be nothing on any page in this borough to show that he was ever in the room.

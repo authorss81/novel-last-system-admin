@@ -24,7 +24,7 @@ She came through the door of that store on her way across to that office, and sh
 
 "I have."
 
-"I have not forgotten it either. I am not going to pretend to you that I have."
+"I have not forgotten it either, and you can take it from me that I have not."
 
 "I have started."
 
@@ -48,7 +48,7 @@ She came through the door of that store on her way across to that office, and sh
 
 He did not argue with her about any part of it. He had come in there with something in his mouth and she had taken it off him in six sentences and he stood in the dust of that store and did not put one word back, and what he was stood there with was the plainest refusal he has ever been handed in this borough by a woman who has no reason to hand him anything at all, and he has had four refusals off that woman since that season shut, and all four went the same way, which is that a person stood in a room not knowing what she was paying for.
 
-"You have been in this borough four years and you have never once put a thing in front of me that was not work, and now you have come into a store where there is nothing on the shelf and told me about your own pocket. Do you know what the trouble with that is."
+"You have been in this borough long enough and you have never once put a thing in front of me that was not work, and now you have come into a store where there is nothing on the shelf and told me about your own pocket. Do you know what the trouble with that is."
 
 "Tell me."
 

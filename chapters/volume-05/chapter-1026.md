@@ -4,7 +4,7 @@ Undated in this draft.
 
 **THERE IS ONE WINDOW IN THAT ROOM AT TEN AND A CHAIR STANDING OFF THE WALL.**
 
-The room at the front of the top floor of that house has one window in it looking over the front of the street, and no fireplace at all, and a bed pushed up against the wall the window is in, and a chair standing away from the wall by the window with its back to the glass. The boards are the landing boards with the carpet off them since before the summer and the nails of the carpet are still in two places along the skirting where the tacks went in. She has slept in that room for eleven years and she is on that book, and she has been on it every season since before she could reach the handle of a tap, which is a thing she has told nobody in that house and has told him once.
+The room at the front of the top floor of that house has one window in it looking over the front of the street, and no fireplace at all, and a bed pushed up against the wall the window is in, and a chair standing away from the wall by the window with its back to the glass. The boards are the landing boards with the carpet off them since before the summer and the nails of the carpet are still in two places along the skirting where the tacks went in. She has slept in that room since she was a girl and she is on that book, and she has been on it every season since before she could reach the handle of a tap, which is a thing she has told nobody in that house and has told him once.
 
 The bed itself is a foot and a half short of what a man lying on it would want, and the pillow is at the end nearest the window because the other end is where the pipes come up through the floor.
 
@@ -48,7 +48,7 @@ He stood by the door of that room with his hands where she could see them and di
 
 "Then I will go and find somebody who does not ask."
 
-"Nobody on that frontage would take that without asking. and you know it as well as I do. You have come up here and asked me because I am the only one of us who is able to turn you down, and I am turning you down now, and you can go down that stair and think of something else."
+"Nobody on that frontage would take that without asking. And you know it as well as I do. You have come up here and asked me because I am the only one of us who is able to turn you down, and I am turning you down now, and you can go down that stair and think of something else."
 
 She meant every word of it, and he stood where she had put him and understood that she was right about the whole of it and had been right about it before she opened her mouth.
 
@@ -56,7 +56,7 @@ She meant every word of it, and he stood where she had put him and understood th
 
 What brought her round was not the money and it was not him.
 
-It was that he told her what the work was, and he told her the hardest part of it first, which is that the range does not come off a wall with one man in a house. You draw the legs and you get two men under it and you take the flue off the chimney breast and hang it somewhere else, and you set the range down clear of the brick on its own feet on a tray, and then you cut the edge of the slab back to a true line so the wash runs off. Four streets away there is a yard where two men go in on a Tuesday and a Thursday and come out again, and they are the only two he knows of, and that yard has no money in it to pay them and he is not going to ask them.
+It was that he told her what the work was, and he told her the hardest part of it first, which is that the range does not come off a wall with one man in a house. You take the legs off a range and you want a man under it while you do, and the flue comes off the chimney breast and has to hang somewhere else, and the range goes down clear of the brick standing on its own feet on a tray, and then the front of that slab gets cut back until the wash will run off it instead of standing in the corner. Four streets away there is a yard where two men go in on a Tuesday and a Thursday and come out again, and they are the only two he knows of, and that yard has no money in it to pay them and he is not going to ask them.
 
 It was that he told her the work. He stood by that door and he told her about the range coming off the wall on its own legs onto a tray, and about the flue coming off the chimney breast and being carried up and hung somewhere else, and about the edge of the slab coming back to a true line so that the wash runs off the wall instead of standing in the corner of it. He told her that the wall cannot be mended and can only be freed, and that the freeing wants a space behind the fire and two summers of air at it, and that the woman who owns that kitchen is going to cook on that fire every day for the rest of her life and has a right to know all of that before anybody puts a spade in a floor.
 
@@ -70,7 +70,7 @@ It was that he told her the work. He stood by that door and he told her about th
 
 She looked at the bed for a while.
 
-"My sister has not asked you for anything since the spring and she has had two men in this house in her life and neither of them would take a shilling off her and she has never stopped being sick of the pair of them. I have been on that book longer than you have been alive and I have seen what it does to a woman to be in a room where a man is being paid and not know it. That is what I am refusing. Not you. The not knowing."
+"My sister has not asked you for anything since the spring and she has had two men in this house in her life and neither of them would take a shilling off her and she has never stopped being sick of the pair of them. I have been in that room myself and I have seen what it does to a woman to be in a room where a man is being paid and not know it. That is what I am refusing. Not you. The not knowing."
 
 "Then I have told you."
 
