@@ -32,7 +32,7 @@ She stood in that passage and worked at it. He stood and let her get on with it 
 
 "Then here is what I have got, and I want you to hear all of it before you answer, because I have been working at it for two days and I do not want my half of it played at. That wall has been wet since before I married into this house and it is going to be wet next winter as well, because you have told me it can be freed and not mended, and I have had to sit with that for two days. And a fortnight of a man's time on a range and a flue and a tray is the thing I have got to pay for, and it is nothing like a small thing to me and nothing like a big thing to you, and I am not going to be the woman who makes a man put into words what a thing costs him."
 
-"It is the first money I have taken off that frontage in a year and the second I have taken anywhere at all."
+"It is the second money I have taken off that frontage in ten years and the second I have taken anywhere at all."
 
 "Then put it back in your pocket and do not let me make you smaller."
 They arrived at it between them. She went into the front room and got the coins out of her apron and did not do it behind her back, and she put them into his hand, and he put them out on the table one at a time so that she could see every one of them go down, and then he turned round and put them all back in a heap on that table and took nothing.
@@ -52,7 +52,7 @@ On his way out he got as far as the bottom of those three treads and stopped, wi
 
 "What is your name," she asked him. "I am going to be telling my daughter who has been in this house for six weeks."
 
-She had asked him that at the start of that week, in a front room, with a sash in his hand, and he had stood at a window and given her nothing. He gave it to her now, standing in a passage with his back to the light, and it took about as long as it takes to get it out, and he did not put it into her hand on a piece of paper and he did not ask her for anything with it.
+She had asked him that on the morning she came back, in the front room at twelve, with the sash up four inches in his hand at that window, and he had stood at that window and given her nothing. He gave it to her now, standing in a passage with his back to the light, and it took about as long as it takes to get it out, and he did not put it into her hand on a piece of paper and he did not ask her for anything with it.
 
 She let it lie where it fell. She moved her head once and put nothing on paper, and neither of them put the word about it again, and nothing else happened to it at all.
 
