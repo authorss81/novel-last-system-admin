@@ -6345,3 +6345,35 @@ No thread opened, closed, advanced or answered in 0975–0984, and **the review 
 **CARD 1024 IS NOT A CLOSE AND MUST NOT BE CALLED ONE.** The wall is not done, the range has not come off it, the figure has not been paid and a woman is walking to a yard.
 
 > **0083 POINTER, ONE LINE, AND THE RECORD IS IN THE OTHER FILE. THE FULL BLOCK IS `## VOLUME 05, CONTINUATION 0083 — CHAPTERS 1015–1024 — UNDATED` AT THE END OF `state/continuity.md` AND THE ALLOCATION IS `workspace/volume-05/continuation-0083/bands-1015-1024.json`. NEITHER MAY BE INHERITED AS A FIGURE.**
+
+---
+
+# VOLUME 05 OPEN THREADS — after Continuation 0084, Chapter 1034
+
+**THE FIGURE IS PAID AND THE WALL IS NOT TOUCHED.** The sum went out of an apron in the back bedroom at twelve onto his open hand and it is in his pocket and not one stone or one brick of his own ground has been touched with it, and he told her before he took it that he could not begin. **UNRESOLVED AND STILL THE BLOCK'S CENTRE.**
+
+**THE KERB AT THE UNIT IS OPEN TO THE BOTTOM WITH NOTHING OVER IT.** Four feet of brick out, the bed gone to the bottom, the chequer plate lifted off the corner at 1027 and stood against the inside wall of that office where anybody coming in off that frontage can see it. He offered the whole fault out loud at 1028 and a column takes work somebody asked for, and he had asked, and it is on nothing. **NOBODY AT THAT YARD KNOWS. THIS IS NOW THE OLDEST UNKNOWN THING ON THE PAGE AND IT IS FOUR MONTHS OLD.**
+
+**THE FOUR FEET OF DEAL OFF THE BOTTOM OF HIS OWN STACK ARE A TRAY.** Made at 1031 with the lip run all round, stood on edge against the wall of that store, and the boards above the cut have already begun to come across into the gap. **THE ONLY PART OF THAT FORTNIGHT ONE MAN CAN FINISH, AND NO WAY OF PUTTING A RANGE ON IT.**
+
+**HIS NAME IS IN THREE WOMEN'S HEADS AND ON NO PIECE OF PAPER.** The keeper of the book since 1022, the mother at twelve since 1024, and **the woman at nine since 1034, where she tells him to his face that she means to use it and promises him she will.** **THE THIRD GIVING IS THE FIRST ONE HE HAS MADE ON PURPOSE AND THE FIRST ONE TO A PERSON WHO CANNOT USE IT.**
+
+**THE SISTER AT TEN HAS AGREED TO STAND IN A KITCHEN ON THE DAY HE BEGINS AND HAS ASKED HIM NOTHING FOR IT.** He would not tell her whose money it was. She noticed and did not push. **THE FIRST TIME ANYBODY ON THAT FRONTAGE HAS GIVEN HIM SOMETHING FOR NOTHING, AND HE SPENT TEN YEARS BEING THE OTHER SIDE OF THAT.**
+
+**THE WOMAN OF THE HOUSE AT TEN HAS TO FIND OUT WHAT A THING COSTS HER.** She refused two men in that street who would have worked for nothing, she has never paid anybody for anything in her life, and he asked her in her own scullery what her back door costs her, out loud, in words, the way he asked the mother at twelve. She could not answer him and she is going to find out. **THE ASK IS CONTAGIOUS AND HE IS THE CARRIER AND THIS IS THE PROOF.**
+
+**THE WOMAN AT NINE IS GOING TO PUT A FIGURE FOR THAT FORTNIGHT TO TWO MEN.** She has been off that book since the season shut, she knows two men in that street who have done work for nothing and been turned away by women who would not have them in, and neither of the two has ever been asked what a fortnight of a man's time costs a woman. She is going to ask them, and she is going to take what they tell her to number twelve, and he is not going to be in the room. **THE JOB HE PAID FOR IS ABOUT TO BE TAKEN OFF HIM BY A WOMAN HE CANNOT REFUSE.**
+
+**THE MOTHER'S ERRAND IS UNANSWERED ON THE PAGE AND MUST STAY THAT WAY.** She went out on her own two hands and did not shut the door and she came back and has never said. **NO WRITER MAY NAME THE YARD FOR HER.** What she has asked him for since is whether her mother's name on a folded square of paper in an apron is in that yard's book, and he has undertaken to find out and cannot, and neither of them has said so.
+
+**THE QUESTION THE WOMAN WHO KEEPS THE BOOK ASKED HIM AT 1033 IS STILL UNANSWERED.** She has never asked anybody anything in that office and she asked him what it was for. He did not answer and she let him out of it.
+
+**THE FLUE HAS NOT BEEN BOUGHT AND THE SLAB EDGE HAS NOT BEEN CUT AND THE WALL IS STILL WET.**
+
+**THE AGE AT NUMBER NINE IS STILL UNRESOLVED AND IS STILL A HUMAN'S.** Sixty-one in her own mouth at 0990, late fifties on the roster. No age was restated in any of the ten chapters of this block.
+
+**THE FOUR WORDS OF CHALK ON THE INSIDE WALL OF THE COAL SHED AT TWELVE ARE STILL THERE AND HE IS NOT GOING.**
+
+**CARD 1034 IS NOT A CLOSE AND MUST NOT BE CALLED ONE.**
+
+> **0084 POINTER, ONE LINE, AND THE RECORD IS IN THE OTHER FILE. THE FULL BLOCK IS `## VOLUME 05, CONTINUATION 0084 — CHAPTERS 1025–1034 — UNDATED` AT THE END OF `state/continuity.md` AND THE ALLOCATION IS `workspace/volume-05/continuation-0084/bands-1025-1034.json`. NEITHER MAY BE INHERITED AS A FIGURE.**
